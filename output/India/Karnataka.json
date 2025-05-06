@@ -1,0 +1,971 @@
+{
+  "id": 4218,
+  "name": "Karnataka",
+  "state_code": "KA",
+  "cities": [
+    {
+      "id": 118234,
+      "name": "Afzalpur"
+    },
+    {
+      "id": 118235,
+      "name": "Ajjampur"
+    },
+    {
+      "id": 118236,
+      "name": "Aland"
+    },
+    {
+      "id": 118237,
+      "name": "Alnavar"
+    },
+    {
+      "id": 118238,
+      "name": "Alur"
+    },
+    {
+      "id": 118239,
+      "name": "Anekal"
+    },
+    {
+      "id": 118240,
+      "name": "Ankola"
+    },
+    {
+      "id": 118241,
+      "name": "Annigeri"
+    },
+    {
+      "id": 118242,
+      "name": "Arkalgud"
+    },
+    {
+      "id": 118243,
+      "name": "Arsikere"
+    },
+    {
+      "id": 118244,
+      "name": "Athni"
+    },
+    {
+      "id": 118245,
+      "name": "Aurad"
+    },
+    {
+      "id": 118246,
+      "name": "Badami"
+    },
+    {
+      "id": 118247,
+      "name": "Bagalkot"
+    },
+    {
+      "id": 118248,
+      "name": "Bagepalli"
+    },
+    {
+      "id": 118249,
+      "name": "Bail-Hongal"
+    },
+    {
+      "id": 118250,
+      "name": "Ballari"
+    },
+    {
+      "id": 118251,
+      "name": "Banavar"
+    },
+    {
+      "id": 118252,
+      "name": "Bangalore Rural"
+    },
+    {
+      "id": 118253,
+      "name": "Bangalore Urban"
+    },
+    {
+      "id": 118254,
+      "name": "Bangarapet"
+    },
+    {
+      "id": 118255,
+      "name": "Bannur"
+    },
+    {
+      "id": 118256,
+      "name": "Bantval"
+    },
+    {
+      "id": 118257,
+      "name": "Basavakalyan"
+    },
+    {
+      "id": 118258,
+      "name": "Basavana Bagevadi"
+    },
+    {
+      "id": 118259,
+      "name": "Belagavi"
+    },
+    {
+      "id": 118260,
+      "name": "Belluru"
+    },
+    {
+      "id": 118261,
+      "name": "Beltangadi"
+    },
+    {
+      "id": 118262,
+      "name": "Belur"
+    },
+    {
+      "id": 118263,
+      "name": "Bengaluru"
+    },
+    {
+      "id": 118264,
+      "name": "Bhadravati"
+    },
+    {
+      "id": 118265,
+      "name": "Bhalki"
+    },
+    {
+      "id": 118266,
+      "name": "Bhatkal"
+    },
+    {
+      "id": 118267,
+      "name": "Bidar"
+    },
+    {
+      "id": 118268,
+      "name": "Bilgi"
+    },
+    {
+      "id": 118269,
+      "name": "Birur"
+    },
+    {
+      "id": 118270,
+      "name": "Byadgi"
+    },
+    {
+      "id": 118271,
+      "name": "Byndoor"
+    },
+    {
+      "id": 118272,
+      "name": "Canacona"
+    },
+    {
+      "id": 118273,
+      "name": "Challakere"
+    },
+    {
+      "id": 118274,
+      "name": "Chamrajnagar"
+    },
+    {
+      "id": 118275,
+      "name": "Channagiri"
+    },
+    {
+      "id": 118276,
+      "name": "Channapatna"
+    },
+    {
+      "id": 118277,
+      "name": "Channarayapatna"
+    },
+    {
+      "id": 118278,
+      "name": "Chik Ballapur"
+    },
+    {
+      "id": 118279,
+      "name": "Chikkaballapur"
+    },
+    {
+      "id": 118280,
+      "name": "Chikkamagaluru"
+    },
+    {
+      "id": 118281,
+      "name": "Chiknayakanhalli"
+    },
+    {
+      "id": 118282,
+      "name": "Chikodi"
+    },
+    {
+      "id": 118283,
+      "name": "Chincholi"
+    },
+    {
+      "id": 118284,
+      "name": "Chintamani"
+    },
+    {
+      "id": 118285,
+      "name": "Chitapur"
+    },
+    {
+      "id": 118286,
+      "name": "Chitradurga"
+    },
+    {
+      "id": 118287,
+      "name": "Closepet"
+    },
+    {
+      "id": 118288,
+      "name": "Coondapoor"
+    },
+    {
+      "id": 118289,
+      "name": "Dakshina Kannada"
+    },
+    {
+      "id": 118290,
+      "name": "Dandeli"
+    },
+    {
+      "id": 118291,
+      "name": "Davanagere"
+    },
+    {
+      "id": 118292,
+      "name": "Devanhalli"
+    },
+    {
+      "id": 118293,
+      "name": "Dharwad"
+    },
+    {
+      "id": 118294,
+      "name": "Dod Ballapur"
+    },
+    {
+      "id": 118295,
+      "name": "French Rocks"
+    },
+    {
+      "id": 118296,
+      "name": "Gadag"
+    },
+    {
+      "id": 118297,
+      "name": "Gadag-Betageri"
+    },
+    {
+      "id": 118298,
+      "name": "Gajendragarh"
+    },
+    {
+      "id": 118299,
+      "name": "Gangawati"
+    },
+    {
+      "id": 118300,
+      "name": "Gangolli"
+    },
+    {
+      "id": 118301,
+      "name": "Gokak"
+    },
+    {
+      "id": 118302,
+      "name": "Gokarna"
+    },
+    {
+      "id": 118303,
+      "name": "Goribidnur"
+    },
+    {
+      "id": 118304,
+      "name": "Gorur"
+    },
+    {
+      "id": 118305,
+      "name": "Gubbi"
+    },
+    {
+      "id": 118306,
+      "name": "Gudibanda"
+    },
+    {
+      "id": 118307,
+      "name": "Guledagudda"
+    },
+    {
+      "id": 118308,
+      "name": "Gundlupet"
+    },
+    {
+      "id": 118309,
+      "name": "Gurmatkal"
+    },
+    {
+      "id": 118310,
+      "name": "Hadagalli"
+    },
+    {
+      "id": 118311,
+      "name": "Haliyal"
+    },
+    {
+      "id": 118312,
+      "name": "Hampi"
+    },
+    {
+      "id": 118313,
+      "name": "Hangal"
+    },
+    {
+      "id": 118314,
+      "name": "Harihar"
+    },
+    {
+      "id": 118315,
+      "name": "Harpanahalli"
+    },
+    {
+      "id": 118316,
+      "name": "Hassan"
+    },
+    {
+      "id": 118317,
+      "name": "Haveri"
+    },
+    {
+      "id": 118318,
+      "name": "Heggadadevankote"
+    },
+    {
+      "id": 118319,
+      "name": "Hirekerur"
+    },
+    {
+      "id": 118320,
+      "name": "Hiriyur"
+    },
+    {
+      "id": 118321,
+      "name": "Holalkere"
+    },
+    {
+      "id": 118322,
+      "name": "Hole Narsipur"
+    },
+    {
+      "id": 118323,
+      "name": "Homnabad"
+    },
+    {
+      "id": 118324,
+      "name": "Honavar"
+    },
+    {
+      "id": 118325,
+      "name": "Honnali"
+    },
+    {
+      "id": 118326,
+      "name": "Hosanagara"
+    },
+    {
+      "id": 118327,
+      "name": "Hosangadi"
+    },
+    {
+      "id": 118328,
+      "name": "Hosdurga"
+    },
+    {
+      "id": 118329,
+      "name": "Hoskote"
+    },
+    {
+      "id": 118330,
+      "name": "Hospet"
+    },
+    {
+      "id": 118331,
+      "name": "Hubballi"
+    },
+    {
+      "id": 118332,
+      "name": "Hukeri"
+    },
+    {
+      "id": 118333,
+      "name": "Hungund"
+    },
+    {
+      "id": 118334,
+      "name": "Hunsur"
+    },
+    {
+      "id": 118335,
+      "name": "Ilkal"
+    },
+    {
+      "id": 118336,
+      "name": "Indi"
+    },
+    {
+      "id": 118337,
+      "name": "Jagalur"
+    },
+    {
+      "id": 118338,
+      "name": "Jamkhandi"
+    },
+    {
+      "id": 118339,
+      "name": "Jevargi"
+    },
+    {
+      "id": 118340,
+      "name": "Kadur"
+    },
+    {
+      "id": 118341,
+      "name": "Kalaburgi"
+    },
+    {
+      "id": 118342,
+      "name": "Kalghatgi"
+    },
+    {
+      "id": 118343,
+      "name": "Kampli"
+    },
+    {
+      "id": 118344,
+      "name": "Kankanhalli"
+    },
+    {
+      "id": 118345,
+      "name": "Karkala"
+    },
+    {
+      "id": 118346,
+      "name": "Karwar"
+    },
+    {
+      "id": 118347,
+      "name": "Kavalur"
+    },
+    {
+      "id": 118348,
+      "name": "Kerur"
+    },
+    {
+      "id": 118349,
+      "name": "Khanapur"
+    },
+    {
+      "id": 118350,
+      "name": "Kodagu"
+    },
+    {
+      "id": 118351,
+      "name": "Kodigenahalli"
+    },
+    {
+      "id": 118352,
+      "name": "Kodlipet"
+    },
+    {
+      "id": 118353,
+      "name": "Kolar"
+    },
+    {
+      "id": 118354,
+      "name": "Kollegal"
+    },
+    {
+      "id": 118355,
+      "name": "Konanur"
+    },
+    {
+      "id": 118356,
+      "name": "Konnur"
+    },
+    {
+      "id": 118357,
+      "name": "Koppa"
+    },
+    {
+      "id": 118358,
+      "name": "Koppal"
+    },
+    {
+      "id": 118359,
+      "name": "Koratagere"
+    },
+    {
+      "id": 118360,
+      "name": "Kotturu"
+    },
+    {
+      "id": 118361,
+      "name": "Krishnarajpet"
+    },
+    {
+      "id": 118362,
+      "name": "Kudachi"
+    },
+    {
+      "id": 118363,
+      "name": "Kudligi"
+    },
+    {
+      "id": 118364,
+      "name": "Kumsi"
+    },
+    {
+      "id": 118365,
+      "name": "Kumta"
+    },
+    {
+      "id": 118366,
+      "name": "Kundgol"
+    },
+    {
+      "id": 118367,
+      "name": "Kunigal"
+    },
+    {
+      "id": 118368,
+      "name": "Kurgunta"
+    },
+    {
+      "id": 118369,
+      "name": "Kushalnagar"
+    },
+    {
+      "id": 118370,
+      "name": "Kushtagi"
+    },
+    {
+      "id": 118371,
+      "name": "Lakshmeshwar"
+    },
+    {
+      "id": 118372,
+      "name": "Lingsugur"
+    },
+    {
+      "id": 118373,
+      "name": "Londa"
+    },
+    {
+      "id": 118374,
+      "name": "Maddagiri"
+    },
+    {
+      "id": 118375,
+      "name": "Maddur"
+    },
+    {
+      "id": 118376,
+      "name": "Madikeri"
+    },
+    {
+      "id": 118377,
+      "name": "Magadi"
+    },
+    {
+      "id": 118378,
+      "name": "Mahalingpur"
+    },
+    {
+      "id": 118379,
+      "name": "Malavalli"
+    },
+    {
+      "id": 118380,
+      "name": "Malpe"
+    },
+    {
+      "id": 118381,
+      "name": "Malur"
+    },
+    {
+      "id": 118382,
+      "name": "Mandya"
+    },
+    {
+      "id": 118383,
+      "name": "Mangaluru"
+    },
+    {
+      "id": 118384,
+      "name": "Manipal"
+    },
+    {
+      "id": 118385,
+      "name": "Manvi"
+    },
+    {
+      "id": 118386,
+      "name": "Mayakonda"
+    },
+    {
+      "id": 118387,
+      "name": "Melukote"
+    },
+    {
+      "id": 118388,
+      "name": "Mudbidri"
+    },
+    {
+      "id": 118389,
+      "name": "Muddebihal"
+    },
+    {
+      "id": 118390,
+      "name": "Mudgal"
+    },
+    {
+      "id": 118391,
+      "name": "Mudgere"
+    },
+    {
+      "id": 118392,
+      "name": "Mudhol"
+    },
+    {
+      "id": 118393,
+      "name": "Mulbagal"
+    },
+    {
+      "id": 118394,
+      "name": "Mulgund"
+    },
+    {
+      "id": 118395,
+      "name": "Mulki"
+    },
+    {
+      "id": 118396,
+      "name": "Mundargi"
+    },
+    {
+      "id": 118397,
+      "name": "Mundgod"
+    },
+    {
+      "id": 118398,
+      "name": "Munirabad"
+    },
+    {
+      "id": 118399,
+      "name": "Murudeshwara"
+    },
+    {
+      "id": 118400,
+      "name": "Mysuru"
+    },
+    {
+      "id": 118401,
+      "name": "Nagamangala"
+    },
+    {
+      "id": 118402,
+      "name": "Nanjangud"
+    },
+    {
+      "id": 118403,
+      "name": "Narasimharajapura"
+    },
+    {
+      "id": 118404,
+      "name": "Naregal"
+    },
+    {
+      "id": 118405,
+      "name": "Nargund"
+    },
+    {
+      "id": 118406,
+      "name": "Navalgund"
+    },
+    {
+      "id": 118407,
+      "name": "Nelamangala"
+    },
+    {
+      "id": 118408,
+      "name": "Nyamti"
+    },
+    {
+      "id": 118409,
+      "name": "Pangala"
+    },
+    {
+      "id": 118410,
+      "name": "Pavugada"
+    },
+    {
+      "id": 118411,
+      "name": "Piriyapatna"
+    },
+    {
+      "id": 118412,
+      "name": "Ponnampet"
+    },
+    {
+      "id": 118413,
+      "name": "Puttur"
+    },
+    {
+      "id": 118414,
+      "name": "Rabkavi"
+    },
+    {
+      "id": 118415,
+      "name": "Raichur"
+    },
+    {
+      "id": 118416,
+      "name": "Ramanagara"
+    },
+    {
+      "id": 118417,
+      "name": "Ranibennur"
+    },
+    {
+      "id": 118418,
+      "name": "Raybag"
+    },
+    {
+      "id": 118419,
+      "name": "Robertsonpet"
+    },
+    {
+      "id": 118420,
+      "name": "Ron"
+    },
+    {
+      "id": 118421,
+      "name": "Sadalgi"
+    },
+    {
+      "id": 118422,
+      "name": "Sagar"
+    },
+    {
+      "id": 118423,
+      "name": "Sakleshpur"
+    },
+    {
+      "id": 118424,
+      "name": "Sandur"
+    },
+    {
+      "id": 118425,
+      "name": "Sanivarsante"
+    },
+    {
+      "id": 118426,
+      "name": "Sankeshwar"
+    },
+    {
+      "id": 118427,
+      "name": "Sargur"
+    },
+    {
+      "id": 118428,
+      "name": "Saundatti"
+    },
+    {
+      "id": 118429,
+      "name": "Savanur"
+    },
+    {
+      "id": 118430,
+      "name": "Seram"
+    },
+    {
+      "id": 118431,
+      "name": "Shahabad"
+    },
+    {
+      "id": 118432,
+      "name": "Shahpur"
+    },
+    {
+      "id": 118433,
+      "name": "Shiggaon"
+    },
+    {
+      "id": 118434,
+      "name": "Shikarpur"
+    },
+    {
+      "id": 118435,
+      "name": "Shimoga"
+    },
+    {
+      "id": 118436,
+      "name": "Shirhatti"
+    },
+    {
+      "id": 118437,
+      "name": "Shorapur"
+    },
+    {
+      "id": 118438,
+      "name": "Shrirangapattana"
+    },
+    {
+      "id": 118439,
+      "name": "Siddapur"
+    },
+    {
+      "id": 118440,
+      "name": "Sidlaghatta"
+    },
+    {
+      "id": 118441,
+      "name": "Sindgi"
+    },
+    {
+      "id": 118442,
+      "name": "Sindhnur"
+    },
+    {
+      "id": 118443,
+      "name": "Sira"
+    },
+    {
+      "id": 118444,
+      "name": "Sirsi"
+    },
+    {
+      "id": 118445,
+      "name": "Siruguppa"
+    },
+    {
+      "id": 118446,
+      "name": "Someshwar"
+    },
+    {
+      "id": 118447,
+      "name": "Somvarpet"
+    },
+    {
+      "id": 118448,
+      "name": "Sorab"
+    },
+    {
+      "id": 118449,
+      "name": "Sravana Belgola"
+    },
+    {
+      "id": 118450,
+      "name": "Sringeri"
+    },
+    {
+      "id": 118451,
+      "name": "Srinivaspur"
+    },
+    {
+      "id": 118452,
+      "name": "Sulya"
+    },
+    {
+      "id": 118453,
+      "name": "Suntikoppa"
+    },
+    {
+      "id": 118454,
+      "name": "Talikota"
+    },
+    {
+      "id": 118455,
+      "name": "Tarikere"
+    },
+    {
+      "id": 118456,
+      "name": "Tekkalakote"
+    },
+    {
+      "id": 118457,
+      "name": "Terdal"
+    },
+    {
+      "id": 118458,
+      "name": "Tiptur"
+    },
+    {
+      "id": 118459,
+      "name": "Tirthahalli"
+    },
+    {
+      "id": 118460,
+      "name": "Tirumakudal Narsipur"
+    },
+    {
+      "id": 118461,
+      "name": "Tumakuru"
+    },
+    {
+      "id": 118462,
+      "name": "Turuvekere"
+    },
+    {
+      "id": 118463,
+      "name": "Udupi"
+    },
+    {
+      "id": 118464,
+      "name": "Ullal"
+    },
+    {
+      "id": 118465,
+      "name": "Uttar Kannada"
+    },
+    {
+      "id": 118466,
+      "name": "Vadigenhalli"
+    },
+    {
+      "id": 118467,
+      "name": "Vijayapura"
+    },
+    {
+      "id": 118468,
+      "name": "Virarajendrapet"
+    },
+    {
+      "id": 118469,
+      "name": "Wadi"
+    },
+    {
+      "id": 118470,
+      "name": "Yadgir"
+    },
+    {
+      "id": 118471,
+      "name": "Yelahanka"
+    },
+    {
+      "id": 118472,
+      "name": "Yelandur"
+    },
+    {
+      "id": 118473,
+      "name": "Yelbarga"
+    },
+    {
+      "id": 118474,
+      "name": "Yellapur"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": 4282,
+  "name": "Fars",
+  "state_code": "07",
+  "cities": [
+    {
+      "id": 122295,
+      "name": "Abadeh"
+    },
+    {
+      "id": 122296,
+      "name": "Abadeh Tashk"
+    },
+    {
+      "id": 122297,
+      "name": "Ahel"
+    },
+    {
+      "id": 122298,
+      "name": "Akbarabad"
+    },
+    {
+      "id": 122299,
+      "name": "Alamarvdasht"
+    },
+    {
+      "id": 122300,
+      "name": "Arsanjan"
+    },
+    {
+      "id": 122301,
+      "name": "Arsenjan"
+    },
+    {
+      "id": 122302,
+      "name": "Ashkanan"
+    },
+    {
+      "id": 122303,
+      "name": "Asir"
+    },
+    {
+      "id": 122304,
+      "name": "Baba Monir"
+    },
+    {
+      "id": 122305,
+      "name": "BabAnar"
+    },
+    {
+      "id": 122306,
+      "name": "Bahman"
+    },
+    {
+      "id": 122307,
+      "name": "Baladeh"
+    },
+    {
+      "id": 122308,
+      "name": "Banaruyeh"
+    },
+    {
+      "id": 122309,
+      "name": "Bavanat"
+    },
+    {
+      "id": 122310,
+      "name": "Beyram"
+    },
+    {
+      "id": 122311,
+      "name": "Beyza"
+    },
+    {
+      "id": 122312,
+      "name": "City Kazeroon"
+    },
+    {
+      "id": 122313,
+      "name": "Dabiran"
+    },
+    {
+      "id": 122314,
+      "name": "Darab"
+    },
+    {
+      "id": 122315,
+      "name": "Dariun"
+    },
+    {
+      "id": 122316,
+      "name": "Dehram"
+    },
+    {
+      "id": 122317,
+      "name": "Dezhkord"
+    },
+    {
+      "id": 122318,
+      "name": "DoBorji"
+    },
+    {
+      "id": 122319,
+      "name": "Douzeh"
+    },
+    {
+      "id": 122320,
+      "name": "Efzar"
+    },
+    {
+      "id": 122321,
+      "name": "Eij"
+    },
+    {
+      "id": 122322,
+      "name": "Emad Deh"
+    },
+    {
+      "id": 122323,
+      "name": "Emam Shahr"
+    },
+    {
+      "id": 122324,
+      "name": "Eqlid"
+    },
+    {
+      "id": 122325,
+      "name": "Estahban"
+    },
+    {
+      "id": 122326,
+      "name": "Evaz"
+    },
+    {
+      "id": 122327,
+      "name": "Fadami"
+    },
+    {
+      "id": 122328,
+      "name": "Farashband"
+    },
+    {
+      "id": 122329,
+      "name": "Fasa"
+    },
+    {
+      "id": 122330,
+      "name": "Firuzabad"
+    },
+    {
+      "id": 122331,
+      "name": "Galehdar"
+    },
+    {
+      "id": 122332,
+      "name": "Gerash"
+    },
+    {
+      "id": 122333,
+      "name": "Ghare Bolagh"
+    },
+    {
+      "id": 122334,
+      "name": "Ghirokarzin"
+    },
+    {
+      "id": 122335,
+      "name": "HajiAbad"
+    },
+    {
+      "id": 122336,
+      "name": "Hamashahr"
+    },
+    {
+      "id": 122337,
+      "name": "HasanAbad"
+    },
+    {
+      "id": 122338,
+      "name": "Hesami"
+    },
+    {
+      "id": 122339,
+      "name": "IzadKhast"
+    },
+    {
+      "id": 122340,
+      "name": "Jahrom"
+    },
+    {
+      "id": 122341,
+      "name": "JannatShahr"
+    },
+    {
+      "id": 122342,
+      "name": "Juyom"
+    },
+    {
+      "id": 122343,
+      "name": "Kamfiruz"
+    },
+    {
+      "id": 122344,
+      "name": "Karzin"
+    },
+    {
+      "id": 122345,
+      "name": "Kavar"
+    },
+    {
+      "id": 122346,
+      "name": "Kazerun"
+    },
+    {
+      "id": 122347,
+      "name": "KhaneZenian"
+    },
+    {
+      "id": 122348,
+      "name": "Khaniman"
+    },
+    {
+      "id": 122349,
+      "name": "Kharameh"
+    },
+    {
+      "id": 122350,
+      "name": "Khavaran"
+    },
+    {
+      "id": 122351,
+      "name": "Kherameh"
+    },
+    {
+      "id": 122352,
+      "name": "Khesht"
+    },
+    {
+      "id": 122353,
+      "name": "Khonj"
+    },
+    {
+      "id": 122354,
+      "name": "Khoome Zar"
+    },
+    {
+      "id": 122355,
+      "name": "Khoozi"
+    },
+    {
+      "id": 122356,
+      "name": "Khorrambid"
+    },
+    {
+      "id": 122357,
+      "name": "Khour"
+    },
+    {
+      "id": 122358,
+      "name": "Konartakhteh"
+    },
+    {
+      "id": 122359,
+      "name": "Kopen"
+    },
+    {
+      "id": 122360,
+      "name": "Korei"
+    },
+    {
+      "id": 122361,
+      "name": "Kouhenjan"
+    },
+    {
+      "id": 122362,
+      "name": "Koushkak"
+    },
+    {
+      "id": 122363,
+      "name": "Lamerd"
+    },
+    {
+      "id": 122364,
+      "name": "Lapouyee"
+    },
+    {
+      "id": 122365,
+      "name": "Lar"
+    },
+    {
+      "id": 122366,
+      "name": "Larestan"
+    },
+    {
+      "id": 122367,
+      "name": "Latifi"
+    },
+    {
+      "id": 122368,
+      "name": "Mamasani"
+    },
+    {
+      "id": 122369,
+      "name": "Marvdasht"
+    },
+    {
+      "id": 122370,
+      "name": "Masiri"
+    },
+    {
+      "id": 122371,
+      "name": "Mazayejan"
+    },
+    {
+      "id": 122372,
+      "name": "Meshkan"
+    },
+    {
+      "id": 122373,
+      "name": "Meymand"
+    },
+    {
+      "id": 122374,
+      "name": "Miyanshahr"
+    },
+    {
+      "id": 122375,
+      "name": "Mobarakabad"
+    },
+    {
+      "id": 122376,
+      "name": "Mohr"
+    },
+    {
+      "id": 122377,
+      "name": "Neyriz"
+    },
+    {
+      "id": 122378,
+      "name": "No Bandegan"
+    },
+    {
+      "id": 122379,
+      "name": "Nourabad"
+    },
+    {
+      "id": 122380,
+      "name": "Nowdan"
+    },
+    {
+      "id": 122381,
+      "name": "Nowjein"
+    },
+    {
+      "id": 122382,
+      "name": "Nurabad"
+    },
+    {
+      "id": 122383,
+      "name": "Pasargad"
+    },
+    {
+      "id": 122384,
+      "name": "PirCity"
+    },
+    {
+      "id": 122385,
+      "name": "Qaderabad"
+    },
+    {
+      "id": 122386,
+      "name": "Qaemyeh"
+    },
+    {
+      "id": 122387,
+      "name": "Qatruyeh"
+    },
+    {
+      "id": 122388,
+      "name": "Qir va Karzin"
+    },
+    {
+      "id": 122389,
+      "name": "QotbAbad"
+    },
+    {
+      "id": 122390,
+      "name": "RonizOlya"
+    },
+    {
+      "id": 122391,
+      "name": "Rostam"
+    },
+    {
+      "id": 122392,
+      "name": "SaadatShahr"
+    },
+    {
+      "id": 122393,
+      "name": "Sadra"
+    },
+    {
+      "id": 122394,
+      "name": "Safashahr"
+    },
+    {
+      "id": 122395,
+      "name": "Sarvestan"
+    },
+    {
+      "id": 122396,
+      "name": "Sedeh"
+    },
+    {
+      "id": 122397,
+      "name": "Sepidan"
+    },
+    {
+      "id": 122398,
+      "name": "Seyedan"
+    },
+    {
+      "id": 122399,
+      "name": "Sheshdeh"
+    },
+    {
+      "id": 122400,
+      "name": "Shiraz"
+    },
+    {
+      "id": 122401,
+      "name": "Soghad"
+    },
+    {
+      "id": 122402,
+      "name": "SoltanShahr"
+    },
+    {
+      "id": 122403,
+      "name": "Surmaq"
+    },
+    {
+      "id": 122404,
+      "name": "Varavi"
+    },
+    {
+      "id": 122405,
+      "name": "Zahedshahr"
+    },
+    {
+      "id": 122406,
+      "name": "Zarghan"
+    },
+    {
+      "id": 122407,
+      "name": "Zarrin Dasht"
+    },
+    {
+      "id": 122408,
+      "name": "سروستان"
+    }
+  ]
+}

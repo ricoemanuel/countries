@@ -1,0 +1,1739 @@
+{
+  "id": 7489,
+  "name": "Washington",
+  "state_code": "WA",
+  "cities": [
+    {
+      "id": 220300,
+      "name": "Aberdeen"
+    },
+    {
+      "id": 220301,
+      "name": "Adams County"
+    },
+    {
+      "id": 220302,
+      "name": "Ahtanum"
+    },
+    {
+      "id": 220303,
+      "name": "Airway Heights"
+    },
+    {
+      "id": 220304,
+      "name": "Alderton"
+    },
+    {
+      "id": 220305,
+      "name": "Alderwood Manor"
+    },
+    {
+      "id": 220306,
+      "name": "Algona"
+    },
+    {
+      "id": 220307,
+      "name": "Allyn"
+    },
+    {
+      "id": 220308,
+      "name": "Amboy"
+    },
+    {
+      "id": 220309,
+      "name": "Ames Lake"
+    },
+    {
+      "id": 220310,
+      "name": "Anacortes"
+    },
+    {
+      "id": 220311,
+      "name": "Arlington"
+    },
+    {
+      "id": 220312,
+      "name": "Arlington Heights"
+    },
+    {
+      "id": 220313,
+      "name": "Artondale"
+    },
+    {
+      "id": 220314,
+      "name": "Asotin"
+    },
+    {
+      "id": 220315,
+      "name": "Asotin County"
+    },
+    {
+      "id": 220316,
+      "name": "Auburn"
+    },
+    {
+      "id": 220317,
+      "name": "Ault Field"
+    },
+    {
+      "id": 220318,
+      "name": "Bainbridge Island"
+    },
+    {
+      "id": 220319,
+      "name": "Bangor Trident Base"
+    },
+    {
+      "id": 220320,
+      "name": "Barberton"
+    },
+    {
+      "id": 220321,
+      "name": "Basin City"
+    },
+    {
+      "id": 220322,
+      "name": "Battle Ground"
+    },
+    {
+      "id": 220323,
+      "name": "Belfair"
+    },
+    {
+      "id": 220324,
+      "name": "Bellevue"
+    },
+    {
+      "id": 220325,
+      "name": "Bellingham"
+    },
+    {
+      "id": 220326,
+      "name": "Benton City"
+    },
+    {
+      "id": 220327,
+      "name": "Benton County"
+    },
+    {
+      "id": 220328,
+      "name": "Bethel"
+    },
+    {
+      "id": 220329,
+      "name": "Big Lake"
+    },
+    {
+      "id": 220330,
+      "name": "Birch Bay"
+    },
+    {
+      "id": 220331,
+      "name": "Black Diamond"
+    },
+    {
+      "id": 220332,
+      "name": "Blaine"
+    },
+    {
+      "id": 220333,
+      "name": "Bonney Lake"
+    },
+    {
+      "id": 220334,
+      "name": "Bothell"
+    },
+    {
+      "id": 220335,
+      "name": "Bothell East"
+    },
+    {
+      "id": 220336,
+      "name": "Bothell West"
+    },
+    {
+      "id": 220337,
+      "name": "Boulevard Park"
+    },
+    {
+      "id": 220338,
+      "name": "Bremerton"
+    },
+    {
+      "id": 220339,
+      "name": "Brewster"
+    },
+    {
+      "id": 220340,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 220341,
+      "name": "Brier"
+    },
+    {
+      "id": 220342,
+      "name": "Browns Point"
+    },
+    {
+      "id": 220343,
+      "name": "Brush Prairie"
+    },
+    {
+      "id": 220344,
+      "name": "Bryant"
+    },
+    {
+      "id": 220345,
+      "name": "Bryn Mawr-Skyway"
+    },
+    {
+      "id": 220346,
+      "name": "Buckley"
+    },
+    {
+      "id": 220347,
+      "name": "Bunk Foss"
+    },
+    {
+      "id": 220348,
+      "name": "Burbank"
+    },
+    {
+      "id": 220349,
+      "name": "Burien"
+    },
+    {
+      "id": 220350,
+      "name": "Burley"
+    },
+    {
+      "id": 220351,
+      "name": "Burlington"
+    },
+    {
+      "id": 220352,
+      "name": "Camano"
+    },
+    {
+      "id": 220353,
+      "name": "Camas"
+    },
+    {
+      "id": 220354,
+      "name": "Canterwood"
+    },
+    {
+      "id": 220355,
+      "name": "Carnation"
+    },
+    {
+      "id": 220356,
+      "name": "Carson"
+    },
+    {
+      "id": 220357,
+      "name": "Cascade Valley"
+    },
+    {
+      "id": 220358,
+      "name": "Cashmere"
+    },
+    {
+      "id": 220359,
+      "name": "Castle Rock"
+    },
+    {
+      "id": 220360,
+      "name": "Cathcart"
+    },
+    {
+      "id": 220361,
+      "name": "Cathlamet"
+    },
+    {
+      "id": 220362,
+      "name": "Central Park"
+    },
+    {
+      "id": 220363,
+      "name": "Centralia"
+    },
+    {
+      "id": 220364,
+      "name": "Chehalis"
+    },
+    {
+      "id": 220365,
+      "name": "Chelan"
+    },
+    {
+      "id": 220366,
+      "name": "Chelan County"
+    },
+    {
+      "id": 220367,
+      "name": "Cheney"
+    },
+    {
+      "id": 220368,
+      "name": "Chewelah"
+    },
+    {
+      "id": 220369,
+      "name": "Chico"
+    },
+    {
+      "id": 220370,
+      "name": "City of Sammamish"
+    },
+    {
+      "id": 220371,
+      "name": "Clallam County"
+    },
+    {
+      "id": 220372,
+      "name": "Clark County"
+    },
+    {
+      "id": 220373,
+      "name": "Clarkston"
+    },
+    {
+      "id": 220374,
+      "name": "Clarkston Heights-Vineland"
+    },
+    {
+      "id": 220375,
+      "name": "Cle Elum"
+    },
+    {
+      "id": 220376,
+      "name": "Clear Lake"
+    },
+    {
+      "id": 220377,
+      "name": "Clearview"
+    },
+    {
+      "id": 220378,
+      "name": "Clyde Hill"
+    },
+    {
+      "id": 220379,
+      "name": "Colfax"
+    },
+    {
+      "id": 220380,
+      "name": "College Place"
+    },
+    {
+      "id": 220381,
+      "name": "Columbia County"
+    },
+    {
+      "id": 220382,
+      "name": "Colville"
+    },
+    {
+      "id": 220383,
+      "name": "Connell"
+    },
+    {
+      "id": 220384,
+      "name": "Cosmopolis"
+    },
+    {
+      "id": 220385,
+      "name": "Cottage Lake"
+    },
+    {
+      "id": 220386,
+      "name": "Coulee Dam"
+    },
+    {
+      "id": 220387,
+      "name": "Country Homes"
+    },
+    {
+      "id": 220388,
+      "name": "Coupeville"
+    },
+    {
+      "id": 220389,
+      "name": "Covington"
+    },
+    {
+      "id": 220390,
+      "name": "Cowlitz County"
+    },
+    {
+      "id": 220391,
+      "name": "Crocker"
+    },
+    {
+      "id": 220392,
+      "name": "Dallesport"
+    },
+    {
+      "id": 220393,
+      "name": "Darrington"
+    },
+    {
+      "id": 220394,
+      "name": "Davenport"
+    },
+    {
+      "id": 220395,
+      "name": "Dayton"
+    },
+    {
+      "id": 220396,
+      "name": "Deer Park"
+    },
+    {
+      "id": 220397,
+      "name": "Des Moines"
+    },
+    {
+      "id": 220398,
+      "name": "Desert Aire"
+    },
+    {
+      "id": 220399,
+      "name": "Dishman"
+    },
+    {
+      "id": 220400,
+      "name": "Dollar Corner"
+    },
+    {
+      "id": 220401,
+      "name": "Douglas County"
+    },
+    {
+      "id": 220402,
+      "name": "DuPont"
+    },
+    {
+      "id": 220403,
+      "name": "Duvall"
+    },
+    {
+      "id": 220404,
+      "name": "East Hill-Meridian"
+    },
+    {
+      "id": 220405,
+      "name": "East Port Orchard"
+    },
+    {
+      "id": 220406,
+      "name": "East Renton Highlands"
+    },
+    {
+      "id": 220407,
+      "name": "East Wenatchee"
+    },
+    {
+      "id": 220408,
+      "name": "East Wenatchee Bench"
+    },
+    {
+      "id": 220409,
+      "name": "Eastgate"
+    },
+    {
+      "id": 220410,
+      "name": "Eastmont"
+    },
+    {
+      "id": 220411,
+      "name": "Eatonville"
+    },
+    {
+      "id": 220412,
+      "name": "Edgewood"
+    },
+    {
+      "id": 220413,
+      "name": "Edmonds"
+    },
+    {
+      "id": 220414,
+      "name": "Electric City"
+    },
+    {
+      "id": 220415,
+      "name": "Elk Plain"
+    },
+    {
+      "id": 220416,
+      "name": "Ellensburg"
+    },
+    {
+      "id": 220417,
+      "name": "Elma"
+    },
+    {
+      "id": 220418,
+      "name": "Enetai"
+    },
+    {
+      "id": 220419,
+      "name": "Entiat"
+    },
+    {
+      "id": 220420,
+      "name": "Enumclaw"
+    },
+    {
+      "id": 220421,
+      "name": "Ephrata"
+    },
+    {
+      "id": 220422,
+      "name": "Erlands Point-Kitsap Lake"
+    },
+    {
+      "id": 220423,
+      "name": "Esperance"
+    },
+    {
+      "id": 220424,
+      "name": "Everett"
+    },
+    {
+      "id": 220425,
+      "name": "Everson"
+    },
+    {
+      "id": 220426,
+      "name": "Fairchild Air Force Base"
+    },
+    {
+      "id": 220427,
+      "name": "Fairwood"
+    },
+    {
+      "id": 220428,
+      "name": "Fall City"
+    },
+    {
+      "id": 220429,
+      "name": "Federal Way"
+    },
+    {
+      "id": 220430,
+      "name": "Felida"
+    },
+    {
+      "id": 220431,
+      "name": "Fern Prairie"
+    },
+    {
+      "id": 220432,
+      "name": "Ferndale"
+    },
+    {
+      "id": 220433,
+      "name": "Ferry County"
+    },
+    {
+      "id": 220434,
+      "name": "Fife"
+    },
+    {
+      "id": 220435,
+      "name": "Fife Heights"
+    },
+    {
+      "id": 220436,
+      "name": "Finley"
+    },
+    {
+      "id": 220437,
+      "name": "Fircrest"
+    },
+    {
+      "id": 220438,
+      "name": "Five Corners"
+    },
+    {
+      "id": 220439,
+      "name": "Fobes Hill"
+    },
+    {
+      "id": 220440,
+      "name": "Fords Prairie"
+    },
+    {
+      "id": 220441,
+      "name": "Forks"
+    },
+    {
+      "id": 220442,
+      "name": "Fox Island"
+    },
+    {
+      "id": 220443,
+      "name": "Franklin County"
+    },
+    {
+      "id": 220444,
+      "name": "Frederickson"
+    },
+    {
+      "id": 220445,
+      "name": "Freeland"
+    },
+    {
+      "id": 220446,
+      "name": "Friday Harbor"
+    },
+    {
+      "id": 220447,
+      "name": "Garfield County"
+    },
+    {
+      "id": 220448,
+      "name": "Garrett"
+    },
+    {
+      "id": 220449,
+      "name": "Geneva"
+    },
+    {
+      "id": 220450,
+      "name": "Gig Harbor"
+    },
+    {
+      "id": 220451,
+      "name": "Gleed"
+    },
+    {
+      "id": 220452,
+      "name": "Gold Bar"
+    },
+    {
+      "id": 220453,
+      "name": "Goldendale"
+    },
+    {
+      "id": 220454,
+      "name": "Graham"
+    },
+    {
+      "id": 220455,
+      "name": "Grand Coulee"
+    },
+    {
+      "id": 220456,
+      "name": "Grand Mound"
+    },
+    {
+      "id": 220457,
+      "name": "Grandview"
+    },
+    {
+      "id": 220458,
+      "name": "Granger"
+    },
+    {
+      "id": 220459,
+      "name": "Granite Falls"
+    },
+    {
+      "id": 220460,
+      "name": "Grant County"
+    },
+    {
+      "id": 220461,
+      "name": "Grays Harbor County"
+    },
+    {
+      "id": 220462,
+      "name": "Hansville"
+    },
+    {
+      "id": 220463,
+      "name": "Hazel Dell"
+    },
+    {
+      "id": 220464,
+      "name": "Highland"
+    },
+    {
+      "id": 220465,
+      "name": "Hobart"
+    },
+    {
+      "id": 220466,
+      "name": "Hockinson"
+    },
+    {
+      "id": 220467,
+      "name": "Home"
+    },
+    {
+      "id": 220468,
+      "name": "Hoquiam"
+    },
+    {
+      "id": 220469,
+      "name": "Indianola"
+    },
+    {
+      "id": 220470,
+      "name": "Inglewood-Finn Hill"
+    },
+    {
+      "id": 220471,
+      "name": "Island County"
+    },
+    {
+      "id": 220472,
+      "name": "Issaquah"
+    },
+    {
+      "id": 220473,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 220474,
+      "name": "Joint Base Lewis McChord"
+    },
+    {
+      "id": 220475,
+      "name": "Kalama"
+    },
+    {
+      "id": 220476,
+      "name": "Kelso"
+    },
+    {
+      "id": 220477,
+      "name": "Kenmore"
+    },
+    {
+      "id": 220478,
+      "name": "Kennewick"
+    },
+    {
+      "id": 220479,
+      "name": "Kent"
+    },
+    {
+      "id": 220480,
+      "name": "Kettle Falls"
+    },
+    {
+      "id": 220481,
+      "name": "Key Center"
+    },
+    {
+      "id": 220482,
+      "name": "King County"
+    },
+    {
+      "id": 220483,
+      "name": "Kingsgate"
+    },
+    {
+      "id": 220484,
+      "name": "Kingston"
+    },
+    {
+      "id": 220485,
+      "name": "Kirkland"
+    },
+    {
+      "id": 220486,
+      "name": "Kitsap County"
+    },
+    {
+      "id": 220487,
+      "name": "Kittitas"
+    },
+    {
+      "id": 220488,
+      "name": "Kittitas County"
+    },
+    {
+      "id": 220489,
+      "name": "Klahanie"
+    },
+    {
+      "id": 220490,
+      "name": "Klickitat County"
+    },
+    {
+      "id": 220491,
+      "name": "La Center"
+    },
+    {
+      "id": 220492,
+      "name": "Lacey"
+    },
+    {
+      "id": 220493,
+      "name": "Lake Forest Park"
+    },
+    {
+      "id": 220494,
+      "name": "Lake Marcel-Stillwater"
+    },
+    {
+      "id": 220495,
+      "name": "Lake Morton-Berrydale"
+    },
+    {
+      "id": 220496,
+      "name": "Lake Shore"
+    },
+    {
+      "id": 220497,
+      "name": "Lake Stevens"
+    },
+    {
+      "id": 220498,
+      "name": "Lake Stickney"
+    },
+    {
+      "id": 220499,
+      "name": "Lakeland North"
+    },
+    {
+      "id": 220500,
+      "name": "Lakeland South"
+    },
+    {
+      "id": 220501,
+      "name": "Lakewood"
+    },
+    {
+      "id": 220502,
+      "name": "Langley"
+    },
+    {
+      "id": 220503,
+      "name": "Larch Way"
+    },
+    {
+      "id": 220504,
+      "name": "Lea Hill"
+    },
+    {
+      "id": 220505,
+      "name": "Leavenworth"
+    },
+    {
+      "id": 220506,
+      "name": "Lewis County"
+    },
+    {
+      "id": 220507,
+      "name": "Lewisville"
+    },
+    {
+      "id": 220508,
+      "name": "Liberty Lake"
+    },
+    {
+      "id": 220509,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 220510,
+      "name": "Lochsloy"
+    },
+    {
+      "id": 220511,
+      "name": "Lofall"
+    },
+    {
+      "id": 220512,
+      "name": "Long Beach"
+    },
+    {
+      "id": 220513,
+      "name": "Longbranch"
+    },
+    {
+      "id": 220514,
+      "name": "Longview"
+    },
+    {
+      "id": 220515,
+      "name": "Longview Heights"
+    },
+    {
+      "id": 220516,
+      "name": "Lynden"
+    },
+    {
+      "id": 220517,
+      "name": "Lynnwood"
+    },
+    {
+      "id": 220518,
+      "name": "Mabton"
+    },
+    {
+      "id": 220519,
+      "name": "Machias"
+    },
+    {
+      "id": 220520,
+      "name": "Maltby"
+    },
+    {
+      "id": 220521,
+      "name": "Manchester"
+    },
+    {
+      "id": 220522,
+      "name": "Manson"
+    },
+    {
+      "id": 220523,
+      "name": "Maple Heights-Lake Desire"
+    },
+    {
+      "id": 220524,
+      "name": "Maple Valley"
+    },
+    {
+      "id": 220525,
+      "name": "Maplewood"
+    },
+    {
+      "id": 220526,
+      "name": "Marietta"
+    },
+    {
+      "id": 220527,
+      "name": "Marietta-Alderwood"
+    },
+    {
+      "id": 220528,
+      "name": "Martha Lake"
+    },
+    {
+      "id": 220529,
+      "name": "Marysville"
+    },
+    {
+      "id": 220530,
+      "name": "Mason County"
+    },
+    {
+      "id": 220531,
+      "name": "Mattawa"
+    },
+    {
+      "id": 220532,
+      "name": "McChord Air Force Base"
+    },
+    {
+      "id": 220533,
+      "name": "McCleary"
+    },
+    {
+      "id": 220534,
+      "name": "McMillin"
+    },
+    {
+      "id": 220535,
+      "name": "Mead"
+    },
+    {
+      "id": 220536,
+      "name": "Meadow Glade"
+    },
+    {
+      "id": 220537,
+      "name": "Meadowdale"
+    },
+    {
+      "id": 220538,
+      "name": "Medical Lake"
+    },
+    {
+      "id": 220539,
+      "name": "Medina"
+    },
+    {
+      "id": 220540,
+      "name": "Mercer Island"
+    },
+    {
+      "id": 220541,
+      "name": "Midland"
+    },
+    {
+      "id": 220542,
+      "name": "Mill Creek"
+    },
+    {
+      "id": 220543,
+      "name": "Mill Creek East"
+    },
+    {
+      "id": 220544,
+      "name": "Mill Plain"
+    },
+    {
+      "id": 220545,
+      "name": "Millwood"
+    },
+    {
+      "id": 220546,
+      "name": "Milton"
+    },
+    {
+      "id": 220547,
+      "name": "Minnehaha"
+    },
+    {
+      "id": 220548,
+      "name": "Mirrormont"
+    },
+    {
+      "id": 220549,
+      "name": "Monroe"
+    },
+    {
+      "id": 220550,
+      "name": "Monroe North"
+    },
+    {
+      "id": 220551,
+      "name": "Montesano"
+    },
+    {
+      "id": 220552,
+      "name": "Morton"
+    },
+    {
+      "id": 220553,
+      "name": "Moses Lake"
+    },
+    {
+      "id": 220554,
+      "name": "Moses Lake North"
+    },
+    {
+      "id": 220555,
+      "name": "Mount Vernon"
+    },
+    {
+      "id": 220556,
+      "name": "Mount Vista"
+    },
+    {
+      "id": 220557,
+      "name": "Mountlake Terrace"
+    },
+    {
+      "id": 220558,
+      "name": "Mukilteo"
+    },
+    {
+      "id": 220559,
+      "name": "Napavine"
+    },
+    {
+      "id": 220560,
+      "name": "Navy Yard City"
+    },
+    {
+      "id": 220561,
+      "name": "Newcastle"
+    },
+    {
+      "id": 220562,
+      "name": "Newport"
+    },
+    {
+      "id": 220563,
+      "name": "Nooksack"
+    },
+    {
+      "id": 220564,
+      "name": "Normandy Park"
+    },
+    {
+      "id": 220565,
+      "name": "North Bend"
+    },
+    {
+      "id": 220566,
+      "name": "North Creek"
+    },
+    {
+      "id": 220567,
+      "name": "North Fort Lewis"
+    },
+    {
+      "id": 220568,
+      "name": "North Puyallup"
+    },
+    {
+      "id": 220569,
+      "name": "North Yelm"
+    },
+    {
+      "id": 220570,
+      "name": "Oak Harbor"
+    },
+    {
+      "id": 220571,
+      "name": "Ocean Park"
+    },
+    {
+      "id": 220572,
+      "name": "Ocean Shores"
+    },
+    {
+      "id": 220573,
+      "name": "Okanogan"
+    },
+    {
+      "id": 220574,
+      "name": "Okanogan County"
+    },
+    {
+      "id": 220575,
+      "name": "Olympia"
+    },
+    {
+      "id": 220576,
+      "name": "Omak"
+    },
+    {
+      "id": 220577,
+      "name": "Opportunity"
+    },
+    {
+      "id": 220578,
+      "name": "Orchards"
+    },
+    {
+      "id": 220579,
+      "name": "Oroville"
+    },
+    {
+      "id": 220580,
+      "name": "Orting"
+    },
+    {
+      "id": 220581,
+      "name": "Othello"
+    },
+    {
+      "id": 220582,
+      "name": "Otis Orchards-East Farms"
+    },
+    {
+      "id": 220583,
+      "name": "Pacific"
+    },
+    {
+      "id": 220584,
+      "name": "Pacific County"
+    },
+    {
+      "id": 220585,
+      "name": "Palouse"
+    },
+    {
+      "id": 220586,
+      "name": "Parkland"
+    },
+    {
+      "id": 220587,
+      "name": "Parkwood"
+    },
+    {
+      "id": 220588,
+      "name": "Pasco"
+    },
+    {
+      "id": 220589,
+      "name": "Peaceful Valley"
+    },
+    {
+      "id": 220590,
+      "name": "Pend Oreille County"
+    },
+    {
+      "id": 220591,
+      "name": "Picnic Point"
+    },
+    {
+      "id": 220592,
+      "name": "Picnic Point-North Lynnwood"
+    },
+    {
+      "id": 220593,
+      "name": "Pierce County"
+    },
+    {
+      "id": 220594,
+      "name": "Point Roberts"
+    },
+    {
+      "id": 220595,
+      "name": "Pomeroy"
+    },
+    {
+      "id": 220596,
+      "name": "Port Angeles"
+    },
+    {
+      "id": 220597,
+      "name": "Port Angeles East"
+    },
+    {
+      "id": 220598,
+      "name": "Port Hadlock-Irondale"
+    },
+    {
+      "id": 220599,
+      "name": "Port Ludlow"
+    },
+    {
+      "id": 220600,
+      "name": "Port Orchard"
+    },
+    {
+      "id": 220601,
+      "name": "Port Townsend"
+    },
+    {
+      "id": 220602,
+      "name": "Poulsbo"
+    },
+    {
+      "id": 220603,
+      "name": "Prairie Heights"
+    },
+    {
+      "id": 220604,
+      "name": "Prairie Ridge"
+    },
+    {
+      "id": 220605,
+      "name": "Prosser"
+    },
+    {
+      "id": 220606,
+      "name": "Pullman"
+    },
+    {
+      "id": 220607,
+      "name": "Purdy"
+    },
+    {
+      "id": 220608,
+      "name": "Puyallup"
+    },
+    {
+      "id": 220609,
+      "name": "Quincy"
+    },
+    {
+      "id": 220610,
+      "name": "Rainier"
+    },
+    {
+      "id": 220611,
+      "name": "Ravensdale"
+    },
+    {
+      "id": 220612,
+      "name": "Raymond"
+    },
+    {
+      "id": 220613,
+      "name": "Redmond"
+    },
+    {
+      "id": 220614,
+      "name": "Renton"
+    },
+    {
+      "id": 220615,
+      "name": "Republic"
+    },
+    {
+      "id": 220616,
+      "name": "Richland"
+    },
+    {
+      "id": 220617,
+      "name": "Ridgefield"
+    },
+    {
+      "id": 220618,
+      "name": "Ritzville"
+    },
+    {
+      "id": 220619,
+      "name": "Riverbend"
+    },
+    {
+      "id": 220620,
+      "name": "Riverton"
+    },
+    {
+      "id": 220621,
+      "name": "Rochester"
+    },
+    {
+      "id": 220622,
+      "name": "Rocky Point"
+    },
+    {
+      "id": 220623,
+      "name": "Rosedale"
+    },
+    {
+      "id": 220624,
+      "name": "Royal City"
+    },
+    {
+      "id": 220625,
+      "name": "Salmon Creek"
+    },
+    {
+      "id": 220626,
+      "name": "Sammamish"
+    },
+    {
+      "id": 220627,
+      "name": "San Juan County"
+    },
+    {
+      "id": 220628,
+      "name": "Seabeck"
+    },
+    {
+      "id": 220629,
+      "name": "SeaTac"
+    },
+    {
+      "id": 220630,
+      "name": "Seattle"
+    },
+    {
+      "id": 220631,
+      "name": "Sedro-Woolley"
+    },
+    {
+      "id": 220632,
+      "name": "Selah"
+    },
+    {
+      "id": 220633,
+      "name": "Sequim"
+    },
+    {
+      "id": 220634,
+      "name": "Shelton"
+    },
+    {
+      "id": 220635,
+      "name": "Shoreline"
+    },
+    {
+      "id": 220636,
+      "name": "Silver Firs"
+    },
+    {
+      "id": 220637,
+      "name": "Silverdale"
+    },
+    {
+      "id": 220638,
+      "name": "Sisco Heights"
+    },
+    {
+      "id": 220639,
+      "name": "Skagit County"
+    },
+    {
+      "id": 220640,
+      "name": "Skamania County"
+    },
+    {
+      "id": 220641,
+      "name": "Smokey Point"
+    },
+    {
+      "id": 220642,
+      "name": "Snohomish"
+    },
+    {
+      "id": 220643,
+      "name": "Snohomish County"
+    },
+    {
+      "id": 220644,
+      "name": "Snoqualmie"
+    },
+    {
+      "id": 220645,
+      "name": "Soap Lake"
+    },
+    {
+      "id": 220646,
+      "name": "South Bend"
+    },
+    {
+      "id": 220647,
+      "name": "South Hill"
+    },
+    {
+      "id": 220648,
+      "name": "South Wenatchee"
+    },
+    {
+      "id": 220649,
+      "name": "Southworth"
+    },
+    {
+      "id": 220650,
+      "name": "Spanaway"
+    },
+    {
+      "id": 220651,
+      "name": "Spokane"
+    },
+    {
+      "id": 220652,
+      "name": "Spokane County"
+    },
+    {
+      "id": 220653,
+      "name": "Spokane Valley"
+    },
+    {
+      "id": 220654,
+      "name": "Stanwood"
+    },
+    {
+      "id": 220655,
+      "name": "Steilacoom"
+    },
+    {
+      "id": 220656,
+      "name": "Stevens County"
+    },
+    {
+      "id": 220657,
+      "name": "Stevenson"
+    },
+    {
+      "id": 220658,
+      "name": "Sudden Valley"
+    },
+    {
+      "id": 220659,
+      "name": "Sultan"
+    },
+    {
+      "id": 220660,
+      "name": "Sumas"
+    },
+    {
+      "id": 220661,
+      "name": "Summit"
+    },
+    {
+      "id": 220662,
+      "name": "Summit View"
+    },
+    {
+      "id": 220663,
+      "name": "Sumner"
+    },
+    {
+      "id": 220664,
+      "name": "Sunnyside"
+    },
+    {
+      "id": 220665,
+      "name": "Sunnyslope"
+    },
+    {
+      "id": 220666,
+      "name": "Suquamish"
+    },
+    {
+      "id": 220667,
+      "name": "Tacoma"
+    },
+    {
+      "id": 220668,
+      "name": "Tanglewilde"
+    },
+    {
+      "id": 220669,
+      "name": "Tanglewilde-Thompson Place"
+    },
+    {
+      "id": 220670,
+      "name": "Tanner"
+    },
+    {
+      "id": 220671,
+      "name": "Tenino"
+    },
+    {
+      "id": 220672,
+      "name": "Terrace Heights"
+    },
+    {
+      "id": 220673,
+      "name": "Three Lakes"
+    },
+    {
+      "id": 220674,
+      "name": "Thurston County"
+    },
+    {
+      "id": 220675,
+      "name": "Tieton"
+    },
+    {
+      "id": 220676,
+      "name": "Tonasket"
+    },
+    {
+      "id": 220677,
+      "name": "Toppenish"
+    },
+    {
+      "id": 220678,
+      "name": "Town and Country"
+    },
+    {
+      "id": 220679,
+      "name": "Tracyton"
+    },
+    {
+      "id": 220680,
+      "name": "Trentwood"
+    },
+    {
+      "id": 220681,
+      "name": "Tukwila"
+    },
+    {
+      "id": 220682,
+      "name": "Tulalip"
+    },
+    {
+      "id": 220683,
+      "name": "Tulalip Bay"
+    },
+    {
+      "id": 220684,
+      "name": "Tumwater"
+    },
+    {
+      "id": 220685,
+      "name": "Union Gap"
+    },
+    {
+      "id": 220686,
+      "name": "Union Hill-Novelty Hill"
+    },
+    {
+      "id": 220687,
+      "name": "University Place"
+    },
+    {
+      "id": 220688,
+      "name": "Vancouver"
+    },
+    {
+      "id": 220689,
+      "name": "Vashon"
+    },
+    {
+      "id": 220690,
+      "name": "Venersborg"
+    },
+    {
+      "id": 220691,
+      "name": "Veradale"
+    },
+    {
+      "id": 220692,
+      "name": "Wahkiakum County"
+    },
+    {
+      "id": 220693,
+      "name": "Waitsburg"
+    },
+    {
+      "id": 220694,
+      "name": "Walla Walla"
+    },
+    {
+      "id": 220695,
+      "name": "Walla Walla County"
+    },
+    {
+      "id": 220696,
+      "name": "Walla Walla East"
+    },
+    {
+      "id": 220697,
+      "name": "Waller"
+    },
+    {
+      "id": 220698,
+      "name": "Walnut Grove"
+    },
+    {
+      "id": 220699,
+      "name": "Wapato"
+    },
+    {
+      "id": 220700,
+      "name": "Warden"
+    },
+    {
+      "id": 220701,
+      "name": "Warm Beach"
+    },
+    {
+      "id": 220702,
+      "name": "Washougal"
+    },
+    {
+      "id": 220703,
+      "name": "Waterville"
+    },
+    {
+      "id": 220704,
+      "name": "Wauna"
+    },
+    {
+      "id": 220705,
+      "name": "Wenatchee"
+    },
+    {
+      "id": 220706,
+      "name": "West Clarkston-Highland"
+    },
+    {
+      "id": 220707,
+      "name": "West Lake Sammamish"
+    },
+    {
+      "id": 220708,
+      "name": "West Lake Stevens"
+    },
+    {
+      "id": 220709,
+      "name": "West Longview"
+    },
+    {
+      "id": 220710,
+      "name": "West Pasco"
+    },
+    {
+      "id": 220711,
+      "name": "West Richland"
+    },
+    {
+      "id": 220712,
+      "name": "West Side Highway"
+    },
+    {
+      "id": 220713,
+      "name": "West Valley"
+    },
+    {
+      "id": 220714,
+      "name": "West Wenatchee"
+    },
+    {
+      "id": 220715,
+      "name": "Westport"
+    },
+    {
+      "id": 220716,
+      "name": "Whatcom County"
+    },
+    {
+      "id": 220717,
+      "name": "White Center"
+    },
+    {
+      "id": 220718,
+      "name": "White Salmon"
+    },
+    {
+      "id": 220719,
+      "name": "Whitman County"
+    },
+    {
+      "id": 220720,
+      "name": "Wilderness Rim"
+    },
+    {
+      "id": 220721,
+      "name": "Winlock"
+    },
+    {
+      "id": 220722,
+      "name": "Wollochet"
+    },
+    {
+      "id": 220723,
+      "name": "Woodinville"
+    },
+    {
+      "id": 220724,
+      "name": "Woodland"
+    },
+    {
+      "id": 220725,
+      "name": "Woods Creek"
+    },
+    {
+      "id": 220726,
+      "name": "Woodway"
+    },
+    {
+      "id": 220727,
+      "name": "Yacolt"
+    },
+    {
+      "id": 220728,
+      "name": "Yakima"
+    },
+    {
+      "id": 220729,
+      "name": "Yakima County"
+    },
+    {
+      "id": 220730,
+      "name": "Yarrow Point"
+    },
+    {
+      "id": 220731,
+      "name": "Yelm"
+    },
+    {
+      "id": 220732,
+      "name": "Zillah"
+    }
+  ]
+}

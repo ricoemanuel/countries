@@ -1,0 +1,351 @@
+{
+  "id": 6057,
+  "name": "Sakha Republic",
+  "state_code": "SA",
+  "cities": [
+    {
+      "id": 177497,
+      "name": "Abyysky District"
+    },
+    {
+      "id": 177498,
+      "name": "Aldan"
+    },
+    {
+      "id": 177499,
+      "name": "Allaikhovskiy Rayon"
+    },
+    {
+      "id": 177500,
+      "name": "Almaznyy"
+    },
+    {
+      "id": 177501,
+      "name": "Amga"
+    },
+    {
+      "id": 177502,
+      "name": "Anabarskiy Rayon"
+    },
+    {
+      "id": 177503,
+      "name": "Aykhal"
+    },
+    {
+      "id": 177504,
+      "name": "Batagay"
+    },
+    {
+      "id": 177505,
+      "name": "Batagay-Alyta"
+    },
+    {
+      "id": 177506,
+      "name": "Belaya Gora"
+    },
+    {
+      "id": 177507,
+      "name": "Berdigestyakh"
+    },
+    {
+      "id": 177508,
+      "name": "Berkakit"
+    },
+    {
+      "id": 177509,
+      "name": "Borogontsy"
+    },
+    {
+      "id": 177510,
+      "name": "Bulunskiy Rayon"
+    },
+    {
+      "id": 177511,
+      "name": "Chernyshevskiy"
+    },
+    {
+      "id": 177512,
+      "name": "Cherskiy"
+    },
+    {
+      "id": 177513,
+      "name": "Chokurdakh"
+    },
+    {
+      "id": 177514,
+      "name": "Chul’man"
+    },
+    {
+      "id": 177515,
+      "name": "Churapcha"
+    },
+    {
+      "id": 177516,
+      "name": "Deputatsky"
+    },
+    {
+      "id": 177517,
+      "name": "Dzhebariki-Khaya"
+    },
+    {
+      "id": 177518,
+      "name": "Eveno-Bytantaysky National District"
+    },
+    {
+      "id": 177519,
+      "name": "Gornyy Rayon"
+    },
+    {
+      "id": 177520,
+      "name": "Kangalassy"
+    },
+    {
+      "id": 177521,
+      "name": "Khandyga"
+    },
+    {
+      "id": 177522,
+      "name": "Khatassy"
+    },
+    {
+      "id": 177523,
+      "name": "Kobyayskiy Rayon"
+    },
+    {
+      "id": 177524,
+      "name": "Kysyl-Syr"
+    },
+    {
+      "id": 177525,
+      "name": "Lebedinyy"
+    },
+    {
+      "id": 177526,
+      "name": "Leninskiy"
+    },
+    {
+      "id": 177527,
+      "name": "Lensk"
+    },
+    {
+      "id": 177528,
+      "name": "Magan"
+    },
+    {
+      "id": 177529,
+      "name": "Markha"
+    },
+    {
+      "id": 177530,
+      "name": "Mayya"
+    },
+    {
+      "id": 177531,
+      "name": "Mirninskiy Rayon"
+    },
+    {
+      "id": 177532,
+      "name": "Mirny"
+    },
+    {
+      "id": 177533,
+      "name": "Mokhsogollokh"
+    },
+    {
+      "id": 177534,
+      "name": "Momsky District"
+    },
+    {
+      "id": 177535,
+      "name": "Namskiy Rayon"
+    },
+    {
+      "id": 177536,
+      "name": "Namtsy"
+    },
+    {
+      "id": 177537,
+      "name": "Neryungri"
+    },
+    {
+      "id": 177538,
+      "name": "Nezhdaninskoe"
+    },
+    {
+      "id": 177539,
+      "name": "Nizhniy Bestyakh"
+    },
+    {
+      "id": 177540,
+      "name": "Nizhniy Kuranakh"
+    },
+    {
+      "id": 177541,
+      "name": "Nyurba"
+    },
+    {
+      "id": 177542,
+      "name": "Nyurbinsky District"
+    },
+    {
+      "id": 177543,
+      "name": "Olenyok"
+    },
+    {
+      "id": 177544,
+      "name": "Olenyoksky District"
+    },
+    {
+      "id": 177545,
+      "name": "Olyokminsk"
+    },
+    {
+      "id": 177546,
+      "name": "Olyokminsky District"
+    },
+    {
+      "id": 177547,
+      "name": "Oymyakonskiy District"
+    },
+    {
+      "id": 177548,
+      "name": "Peleduy"
+    },
+    {
+      "id": 177549,
+      "name": "Pokrovsk"
+    },
+    {
+      "id": 177550,
+      "name": "Sangar"
+    },
+    {
+      "id": 177551,
+      "name": "Saskylakh"
+    },
+    {
+      "id": 177552,
+      "name": "Serebryanyy Bor"
+    },
+    {
+      "id": 177553,
+      "name": "Solnechnyy"
+    },
+    {
+      "id": 177554,
+      "name": "Srednekolymsk"
+    },
+    {
+      "id": 177555,
+      "name": "Srednekolymsky District"
+    },
+    {
+      "id": 177556,
+      "name": "Suntar"
+    },
+    {
+      "id": 177557,
+      "name": "Suntarskiy District"
+    },
+    {
+      "id": 177558,
+      "name": "Tabaga"
+    },
+    {
+      "id": 177559,
+      "name": "Tiksi"
+    },
+    {
+      "id": 177560,
+      "name": "Tommot"
+    },
+    {
+      "id": 177561,
+      "name": "Tomponskiy District"
+    },
+    {
+      "id": 177562,
+      "name": "Udachny"
+    },
+    {
+      "id": 177563,
+      "name": "Ust-Aldansky District"
+    },
+    {
+      "id": 177564,
+      "name": "Ust-Kuyga"
+    },
+    {
+      "id": 177565,
+      "name": "Ust-Maya"
+    },
+    {
+      "id": 177566,
+      "name": "Ust-Nera"
+    },
+    {
+      "id": 177567,
+      "name": "Ust’-Yanskiy Rayon"
+    },
+    {
+      "id": 177568,
+      "name": "Verkhnekolymsky District"
+    },
+    {
+      "id": 177569,
+      "name": "Verkhnevilyuysk"
+    },
+    {
+      "id": 177570,
+      "name": "Verkhnevilyuysky District"
+    },
+    {
+      "id": 177571,
+      "name": "Verkhoyansk"
+    },
+    {
+      "id": 177572,
+      "name": "Verkhoyansky District"
+    },
+    {
+      "id": 177573,
+      "name": "Vilyuysk"
+    },
+    {
+      "id": 177574,
+      "name": "Vilyuyskiy Rayon"
+    },
+    {
+      "id": 177575,
+      "name": "Vilyuysky District"
+    },
+    {
+      "id": 177576,
+      "name": "Vitim"
+    },
+    {
+      "id": 177577,
+      "name": "Yakutsk"
+    },
+    {
+      "id": 177578,
+      "name": "Ytyk-Kyuyël’"
+    },
+    {
+      "id": 177579,
+      "name": "Zhatay"
+    },
+    {
+      "id": 177580,
+      "name": "Zhigansk"
+    },
+    {
+      "id": 177581,
+      "name": "Zhigansky District"
+    },
+    {
+      "id": 177582,
+      "name": "Zyryanka"
+    }
+  ]
+}

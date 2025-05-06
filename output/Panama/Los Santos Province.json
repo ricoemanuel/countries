@@ -1,0 +1,315 @@
+{
+  "id": 5654,
+  "name": "Los Santos Province",
+  "state_code": "7",
+  "cities": [
+    {
+      "id": 153322,
+      "name": "Agua Buena"
+    },
+    {
+      "id": 153323,
+      "name": "Ave María"
+    },
+    {
+      "id": 153324,
+      "name": "Bahía Honda"
+    },
+    {
+      "id": 153325,
+      "name": "Bajo Corral"
+    },
+    {
+      "id": 153326,
+      "name": "Bayano"
+    },
+    {
+      "id": 153327,
+      "name": "Bella Vista"
+    },
+    {
+      "id": 153328,
+      "name": "Cambutal"
+    },
+    {
+      "id": 153329,
+      "name": "Cañas"
+    },
+    {
+      "id": 153330,
+      "name": "Cedro Arriba"
+    },
+    {
+      "id": 153331,
+      "name": "Distrito de Guararé"
+    },
+    {
+      "id": 153332,
+      "name": "Distrito de Las Tablas"
+    },
+    {
+      "id": 153333,
+      "name": "Distrito de Los Santos"
+    },
+    {
+      "id": 153334,
+      "name": "Distrito de Macaracas"
+    },
+    {
+      "id": 153335,
+      "name": "Distrito de Pedasí"
+    },
+    {
+      "id": 153336,
+      "name": "Distrito de Pocrí"
+    },
+    {
+      "id": 153337,
+      "name": "Distrito de Tonosí"
+    },
+    {
+      "id": 153338,
+      "name": "El Cacao"
+    },
+    {
+      "id": 153339,
+      "name": "El Cañafístulo"
+    },
+    {
+      "id": 153340,
+      "name": "El Carate"
+    },
+    {
+      "id": 153341,
+      "name": "El Cocal"
+    },
+    {
+      "id": 153342,
+      "name": "El Cortezo"
+    },
+    {
+      "id": 153343,
+      "name": "El Ejido"
+    },
+    {
+      "id": 153344,
+      "name": "El Guásimo"
+    },
+    {
+      "id": 153345,
+      "name": "El Hato"
+    },
+    {
+      "id": 153346,
+      "name": "El Macano"
+    },
+    {
+      "id": 153347,
+      "name": "El Manantial"
+    },
+    {
+      "id": 153348,
+      "name": "El Muñoz"
+    },
+    {
+      "id": 153349,
+      "name": "El Pedregoso"
+    },
+    {
+      "id": 153350,
+      "name": "Flores"
+    },
+    {
+      "id": 153351,
+      "name": "Guararé"
+    },
+    {
+      "id": 153352,
+      "name": "Guararé Arriba"
+    },
+    {
+      "id": 153353,
+      "name": "La Colorada"
+    },
+    {
+      "id": 153354,
+      "name": "La Enea"
+    },
+    {
+      "id": 153355,
+      "name": "La Espigadilla"
+    },
+    {
+      "id": 153356,
+      "name": "La Laja"
+    },
+    {
+      "id": 153357,
+      "name": "La Mesa"
+    },
+    {
+      "id": 153358,
+      "name": "La Miel"
+    },
+    {
+      "id": 153359,
+      "name": "La Palma"
+    },
+    {
+      "id": 153360,
+      "name": "La Pasera"
+    },
+    {
+      "id": 153361,
+      "name": "La Tiza"
+    },
+    {
+      "id": 153362,
+      "name": "La Tronosa"
+    },
+    {
+      "id": 153363,
+      "name": "Lajamina"
+    },
+    {
+      "id": 153364,
+      "name": "Las Cruces"
+    },
+    {
+      "id": 153365,
+      "name": "Las Guabas"
+    },
+    {
+      "id": 153366,
+      "name": "Las Palmas"
+    },
+    {
+      "id": 153367,
+      "name": "Las Palmitas"
+    },
+    {
+      "id": 153368,
+      "name": "Las Tablas"
+    },
+    {
+      "id": 153369,
+      "name": "Las Trancas"
+    },
+    {
+      "id": 153370,
+      "name": "Llano Abajo"
+    },
+    {
+      "id": 153371,
+      "name": "Llano de Piedra"
+    },
+    {
+      "id": 153372,
+      "name": "Llano Largo"
+    },
+    {
+      "id": 153373,
+      "name": "Los Ángeles"
+    },
+    {
+      "id": 153374,
+      "name": "Los Asientos"
+    },
+    {
+      "id": 153375,
+      "name": "Los Olivos"
+    },
+    {
+      "id": 153376,
+      "name": "Los Santos"
+    },
+    {
+      "id": 153377,
+      "name": "Macaracas"
+    },
+    {
+      "id": 153378,
+      "name": "Mogollón"
+    },
+    {
+      "id": 153379,
+      "name": "Nuario"
+    },
+    {
+      "id": 153380,
+      "name": "Oria Arriba"
+    },
+    {
+      "id": 153381,
+      "name": "Palmira"
+    },
+    {
+      "id": 153382,
+      "name": "Paraíso"
+    },
+    {
+      "id": 153383,
+      "name": "Paritilla"
+    },
+    {
+      "id": 153384,
+      "name": "Pedasí"
+    },
+    {
+      "id": 153385,
+      "name": "Peña Blanca"
+    },
+    {
+      "id": 153386,
+      "name": "Perales"
+    },
+    {
+      "id": 153387,
+      "name": "Pocrí"
+    },
+    {
+      "id": 153388,
+      "name": "Río Hondo"
+    },
+    {
+      "id": 153389,
+      "name": "Sabana Grande"
+    },
+    {
+      "id": 153390,
+      "name": "San José"
+    },
+    {
+      "id": 153391,
+      "name": "Santa Ana Arriba"
+    },
+    {
+      "id": 153392,
+      "name": "Santo Domingo"
+    },
+    {
+      "id": 153393,
+      "name": "Sesteadero"
+    },
+    {
+      "id": 153394,
+      "name": "Tonosí"
+    },
+    {
+      "id": 153395,
+      "name": "Tres Quebradas"
+    },
+    {
+      "id": 153396,
+      "name": "Valle Rico"
+    },
+    {
+      "id": 153397,
+      "name": "Vallerriquito"
+    },
+    {
+      "id": 153398,
+      "name": "Villa Lourdes"
+    }
+  ]
+}

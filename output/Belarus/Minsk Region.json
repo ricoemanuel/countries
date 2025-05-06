@@ -1,0 +1,411 @@
+{
+  "id": 2935,
+  "name": "Minsk Region",
+  "state_code": "MI",
+  "cities": [
+    {
+      "id": 80989,
+      "name": "Astrashytski Haradok"
+    },
+    {
+      "id": 80990,
+      "name": "Atolina"
+    },
+    {
+      "id": 80991,
+      "name": "Azyartso"
+    },
+    {
+      "id": 80992,
+      "name": "Bal’shavik"
+    },
+    {
+      "id": 80993,
+      "name": "Barysaw"
+    },
+    {
+      "id": 80994,
+      "name": "Barysawski Rayon"
+    },
+    {
+      "id": 80995,
+      "name": "Blon’"
+    },
+    {
+      "id": 80996,
+      "name": "Bobr"
+    },
+    {
+      "id": 80997,
+      "name": "Borovlyany"
+    },
+    {
+      "id": 80998,
+      "name": "Byarezinski Rayon"
+    },
+    {
+      "id": 80999,
+      "name": "Byerazino"
+    },
+    {
+      "id": 81000,
+      "name": "Chervyen’"
+    },
+    {
+      "id": 81001,
+      "name": "Chervyen’ski Rayon"
+    },
+    {
+      "id": 81002,
+      "name": "Chyrvonaya Slabada"
+    },
+    {
+      "id": 81003,
+      "name": "Chyst’"
+    },
+    {
+      "id": 81004,
+      "name": "Druzhny"
+    },
+    {
+      "id": 81005,
+      "name": "Dukora"
+    },
+    {
+      "id": 81006,
+      "name": "Dzyarzhynsk"
+    },
+    {
+      "id": 81007,
+      "name": "Enyerhyetykaw"
+    },
+    {
+      "id": 81008,
+      "name": "Fanipol"
+    },
+    {
+      "id": 81009,
+      "name": "Haradzyeya"
+    },
+    {
+      "id": 81010,
+      "name": "Hatava"
+    },
+    {
+      "id": 81011,
+      "name": "Horad Smalyavichy"
+    },
+    {
+      "id": 81012,
+      "name": "Horad Zhodzina"
+    },
+    {
+      "id": 81013,
+      "name": "Hotsk"
+    },
+    {
+      "id": 81014,
+      "name": "Il’ya"
+    },
+    {
+      "id": 81015,
+      "name": "Ivyanyets"
+    },
+    {
+      "id": 81016,
+      "name": "Kalodzishchy"
+    },
+    {
+      "id": 81017,
+      "name": "Kapyl’"
+    },
+    {
+      "id": 81018,
+      "name": "Kapyl’ski Rayon"
+    },
+    {
+      "id": 81019,
+      "name": "Khatsyezhyna"
+    },
+    {
+      "id": 81020,
+      "name": "Kholopenichi"
+    },
+    {
+      "id": 81021,
+      "name": "Klyetsk"
+    },
+    {
+      "id": 81022,
+      "name": "Klyetski Rayon"
+    },
+    {
+      "id": 81023,
+      "name": "Korolëv Stan"
+    },
+    {
+      "id": 81024,
+      "name": "Krasnaye"
+    },
+    {
+      "id": 81025,
+      "name": "Krupki"
+    },
+    {
+      "id": 81026,
+      "name": "Kryvichy"
+    },
+    {
+      "id": 81027,
+      "name": "Lahoysk"
+    },
+    {
+      "id": 81028,
+      "name": "Loshnitsa"
+    },
+    {
+      "id": 81029,
+      "name": "Luhavaya Slabada"
+    },
+    {
+      "id": 81030,
+      "name": "Lyasny"
+    },
+    {
+      "id": 81031,
+      "name": "Lyeskawka"
+    },
+    {
+      "id": 81032,
+      "name": "Lyuban’"
+    },
+    {
+      "id": 81033,
+      "name": "Machulishchy"
+    },
+    {
+      "id": 81034,
+      "name": "Maladzyechna"
+    },
+    {
+      "id": 81035,
+      "name": "Mar’’ina Horka"
+    },
+    {
+      "id": 81036,
+      "name": "Michanovichi"
+    },
+    {
+      "id": 81037,
+      "name": "Myadzyel"
+    },
+    {
+      "id": 81038,
+      "name": "Myadzyel’ski Rayon"
+    },
+    {
+      "id": 81039,
+      "name": "Narach"
+    },
+    {
+      "id": 81040,
+      "name": "Nasilava"
+    },
+    {
+      "id": 81041,
+      "name": "Novosel’ye"
+    },
+    {
+      "id": 81042,
+      "name": "Novy Svyerzhan’"
+    },
+    {
+      "id": 81043,
+      "name": "Nyasvizh"
+    },
+    {
+      "id": 81044,
+      "name": "Nyasvizhski Rayon"
+    },
+    {
+      "id": 81045,
+      "name": "Plyeshchanitsy"
+    },
+    {
+      "id": 81046,
+      "name": "Prawdzinski"
+    },
+    {
+      "id": 81047,
+      "name": "Pryvol’ny"
+    },
+    {
+      "id": 81048,
+      "name": "Pukhavichy"
+    },
+    {
+      "id": 81049,
+      "name": "Pukhavichy Raion"
+    },
+    {
+      "id": 81050,
+      "name": "Pyatryshki"
+    },
+    {
+      "id": 81051,
+      "name": "Radashkovichy"
+    },
+    {
+      "id": 81052,
+      "name": "Rakaw"
+    },
+    {
+      "id": 81053,
+      "name": "Rudzyensk"
+    },
+    {
+      "id": 81054,
+      "name": "Salihorsk"
+    },
+    {
+      "id": 81055,
+      "name": "Samakhvalavichy"
+    },
+    {
+      "id": 81056,
+      "name": "Sarachy"
+    },
+    {
+      "id": 81057,
+      "name": "Schomyslitsa"
+    },
+    {
+      "id": 81058,
+      "name": "Slabada"
+    },
+    {
+      "id": 81059,
+      "name": "Slutsk"
+    },
+    {
+      "id": 81060,
+      "name": "Slutski Rayon"
+    },
+    {
+      "id": 81061,
+      "name": "Smalyavitski Rayon"
+    },
+    {
+      "id": 81062,
+      "name": "Smilavichy"
+    },
+    {
+      "id": 81063,
+      "name": "Snow"
+    },
+    {
+      "id": 81064,
+      "name": "Stan’kava"
+    },
+    {
+      "id": 81065,
+      "name": "Staradarozhski Rayon"
+    },
+    {
+      "id": 81066,
+      "name": "Starobin"
+    },
+    {
+      "id": 81067,
+      "name": "Staryya Darohi"
+    },
+    {
+      "id": 81068,
+      "name": "Stawbtsowski Rayon"
+    },
+    {
+      "id": 81069,
+      "name": "Stowbtsy"
+    },
+    {
+      "id": 81070,
+      "name": "Svir"
+    },
+    {
+      "id": 81071,
+      "name": "Svislach"
+    },
+    {
+      "id": 81072,
+      "name": "Syenitsa"
+    },
+    {
+      "id": 81073,
+      "name": "Syomkava"
+    },
+    {
+      "id": 81074,
+      "name": "Tsimkavichy"
+    },
+    {
+      "id": 81075,
+      "name": "Turets-Bayary"
+    },
+    {
+      "id": 81076,
+      "name": "Urechcha"
+    },
+    {
+      "id": 81077,
+      "name": "Usiazh"
+    },
+    {
+      "id": 81078,
+      "name": "Uzda"
+    },
+    {
+      "id": 81079,
+      "name": "Uzdzyenski Rayon"
+    },
+    {
+      "id": 81080,
+      "name": "Valozhyn"
+    },
+    {
+      "id": 81081,
+      "name": "Vilyeyka"
+    },
+    {
+      "id": 81082,
+      "name": "Vilyeyski Rayon"
+    },
+    {
+      "id": 81083,
+      "name": "Vyaliki Trastsyanets"
+    },
+    {
+      "id": 81084,
+      "name": "Yubilyeyny"
+    },
+    {
+      "id": 81085,
+      "name": "Zamostochye"
+    },
+    {
+      "id": 81086,
+      "name": "Zaslawye"
+    },
+    {
+      "id": 81087,
+      "name": "Zhdanovichy"
+    },
+    {
+      "id": 81088,
+      "name": "Zyembin"
+    },
+    {
+      "id": 81089,
+      "name": "Октябрьский"
+    }
+  ]
+}

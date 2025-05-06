@@ -1,0 +1,427 @@
+{
+  "id": 6550,
+  "name": "Sevilla",
+  "state_code": "SE",
+  "cities": [
+    {
+      "id": 187971,
+      "name": "Aguadulce"
+    },
+    {
+      "id": 187972,
+      "name": "Alanís"
+    },
+    {
+      "id": 187973,
+      "name": "Albaida del Aljarafe"
+    },
+    {
+      "id": 187974,
+      "name": "Alcalá de Guadaira"
+    },
+    {
+      "id": 187975,
+      "name": "Alcalá del Río"
+    },
+    {
+      "id": 187976,
+      "name": "Alcolea del Río"
+    },
+    {
+      "id": 187977,
+      "name": "Algaba La"
+    },
+    {
+      "id": 187978,
+      "name": "Algámitas"
+    },
+    {
+      "id": 187979,
+      "name": "Almadén de la Plata"
+    },
+    {
+      "id": 187980,
+      "name": "Almensilla"
+    },
+    {
+      "id": 187981,
+      "name": "Arahal"
+    },
+    {
+      "id": 187982,
+      "name": "Aznalcázar"
+    },
+    {
+      "id": 187983,
+      "name": "Aznalcóllar"
+    },
+    {
+      "id": 187984,
+      "name": "Badolatosa"
+    },
+    {
+      "id": 187985,
+      "name": "Benacazón"
+    },
+    {
+      "id": 187986,
+      "name": "Bollullos de la Mitación"
+    },
+    {
+      "id": 187987,
+      "name": "Bormujos"
+    },
+    {
+      "id": 187988,
+      "name": "Brenes"
+    },
+    {
+      "id": 187989,
+      "name": "Burguillos"
+    },
+    {
+      "id": 187990,
+      "name": "Cabezas de San Juan Las"
+    },
+    {
+      "id": 187991,
+      "name": "Camas"
+    },
+    {
+      "id": 187992,
+      "name": "Campana La"
+    },
+    {
+      "id": 187993,
+      "name": "Cañada Rosal"
+    },
+    {
+      "id": 187994,
+      "name": "Cantillana"
+    },
+    {
+      "id": 187995,
+      "name": "Carmona"
+    },
+    {
+      "id": 187996,
+      "name": "Carrión de los Céspedes"
+    },
+    {
+      "id": 187997,
+      "name": "Casariche"
+    },
+    {
+      "id": 187998,
+      "name": "Castilblanco de los Arroyos"
+    },
+    {
+      "id": 187999,
+      "name": "Castilleja de Guzmán"
+    },
+    {
+      "id": 188000,
+      "name": "Castilleja de la Cuesta"
+    },
+    {
+      "id": 188001,
+      "name": "Castilleja del Campo"
+    },
+    {
+      "id": 188002,
+      "name": "Castillo de las Guardas El"
+    },
+    {
+      "id": 188003,
+      "name": "Cazalla de la Sierra"
+    },
+    {
+      "id": 188004,
+      "name": "Constantina"
+    },
+    {
+      "id": 188005,
+      "name": "Coria del Río"
+    },
+    {
+      "id": 188006,
+      "name": "Coripe"
+    },
+    {
+      "id": 188007,
+      "name": "Coronil El"
+    },
+    {
+      "id": 188008,
+      "name": "Corrales Los"
+    },
+    {
+      "id": 188009,
+      "name": "Cuervo de Sevilla El"
+    },
+    {
+      "id": 188010,
+      "name": "Dos Hermanas"
+    },
+    {
+      "id": 188011,
+      "name": "Écija"
+    },
+    {
+      "id": 188012,
+      "name": "Espartinas"
+    },
+    {
+      "id": 188013,
+      "name": "Estepa"
+    },
+    {
+      "id": 188014,
+      "name": "Fuentes de Andalucía"
+    },
+    {
+      "id": 188015,
+      "name": "Garrobo El"
+    },
+    {
+      "id": 188016,
+      "name": "Gelves"
+    },
+    {
+      "id": 188017,
+      "name": "Gerena"
+    },
+    {
+      "id": 188018,
+      "name": "Gilena"
+    },
+    {
+      "id": 188019,
+      "name": "Gines"
+    },
+    {
+      "id": 188020,
+      "name": "Guadalcanal"
+    },
+    {
+      "id": 188021,
+      "name": "Guillena"
+    },
+    {
+      "id": 188022,
+      "name": "Herrera"
+    },
+    {
+      "id": 188023,
+      "name": "Huévar del Aljarafe"
+    },
+    {
+      "id": 188024,
+      "name": "Isla Mayor"
+    },
+    {
+      "id": 188025,
+      "name": "Lantejuela La"
+    },
+    {
+      "id": 188026,
+      "name": "Lebrija"
+    },
+    {
+      "id": 188027,
+      "name": "Lora de Estepa"
+    },
+    {
+      "id": 188028,
+      "name": "Lora del Río"
+    },
+    {
+      "id": 188029,
+      "name": "Luisiana La"
+    },
+    {
+      "id": 188030,
+      "name": "Madroño El"
+    },
+    {
+      "id": 188031,
+      "name": "Mairena del Alcor"
+    },
+    {
+      "id": 188032,
+      "name": "Mairena del Aljarafe"
+    },
+    {
+      "id": 188033,
+      "name": "Marchena"
+    },
+    {
+      "id": 188034,
+      "name": "Marinaleda"
+    },
+    {
+      "id": 188035,
+      "name": "Martín de la Jara"
+    },
+    {
+      "id": 188036,
+      "name": "Molares Los"
+    },
+    {
+      "id": 188037,
+      "name": "Montellano"
+    },
+    {
+      "id": 188038,
+      "name": "Morón de la Frontera"
+    },
+    {
+      "id": 188039,
+      "name": "Navas de la Concepción Las"
+    },
+    {
+      "id": 188040,
+      "name": "Olivares"
+    },
+    {
+      "id": 188041,
+      "name": "Osuna"
+    },
+    {
+      "id": 188042,
+      "name": "Palacios y Villafranca Los"
+    },
+    {
+      "id": 188043,
+      "name": "Palomares del Río"
+    },
+    {
+      "id": 188044,
+      "name": "Paradas"
+    },
+    {
+      "id": 188045,
+      "name": "Pedrera"
+    },
+    {
+      "id": 188046,
+      "name": "Pedroso El"
+    },
+    {
+      "id": 188047,
+      "name": "Peñaflor"
+    },
+    {
+      "id": 188048,
+      "name": "Pilas"
+    },
+    {
+      "id": 188049,
+      "name": "Pruna"
+    },
+    {
+      "id": 188050,
+      "name": "Puebla de Cazalla La"
+    },
+    {
+      "id": 188051,
+      "name": "Puebla de los Infantes La"
+    },
+    {
+      "id": 188052,
+      "name": "Puebla del Río La"
+    },
+    {
+      "id": 188053,
+      "name": "Real de la Jara El"
+    },
+    {
+      "id": 188054,
+      "name": "Rinconada La"
+    },
+    {
+      "id": 188055,
+      "name": "Roda de Andalucía La"
+    },
+    {
+      "id": 188056,
+      "name": "Ronquillo El"
+    },
+    {
+      "id": 188057,
+      "name": "Rubio El"
+    },
+    {
+      "id": 188058,
+      "name": "Salteras"
+    },
+    {
+      "id": 188059,
+      "name": "San Juan de Aznalfarache"
+    },
+    {
+      "id": 188060,
+      "name": "San Nicolás del Puerto"
+    },
+    {
+      "id": 188061,
+      "name": "Sanlúcar la Mayor"
+    },
+    {
+      "id": 188062,
+      "name": "Santiponce"
+    },
+    {
+      "id": 188063,
+      "name": "Saucejo El"
+    },
+    {
+      "id": 188064,
+      "name": "Sevilla"
+    },
+    {
+      "id": 188065,
+      "name": "Tocina"
+    },
+    {
+      "id": 188066,
+      "name": "Tomares"
+    },
+    {
+      "id": 188067,
+      "name": "Umbrete"
+    },
+    {
+      "id": 188068,
+      "name": "Utrera"
+    },
+    {
+      "id": 188069,
+      "name": "Valencina de la Concepción"
+    },
+    {
+      "id": 188070,
+      "name": "Villamanrique de la Condesa"
+    },
+    {
+      "id": 188071,
+      "name": "Villanueva de San Juan"
+    },
+    {
+      "id": 188072,
+      "name": "Villanueva del Ariscal"
+    },
+    {
+      "id": 188073,
+      "name": "Villanueva del Río y Minas"
+    },
+    {
+      "id": 188074,
+      "name": "Villaverde del Río"
+    },
+    {
+      "id": 188075,
+      "name": "Viso del Alcor El"
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "id": 7485,
+  "name": "Utah",
+  "state_code": "UT",
+  "cities": [
+    {
+      "id": 219494,
+      "name": "Alpine"
+    },
+    {
+      "id": 219495,
+      "name": "American Fork"
+    },
+    {
+      "id": 219496,
+      "name": "Aurora"
+    },
+    {
+      "id": 219497,
+      "name": "Ballard"
+    },
+    {
+      "id": 219498,
+      "name": "Beaver"
+    },
+    {
+      "id": 219499,
+      "name": "Beaver County"
+    },
+    {
+      "id": 219500,
+      "name": "Benjamin"
+    },
+    {
+      "id": 219501,
+      "name": "Benson"
+    },
+    {
+      "id": 219502,
+      "name": "Blanding"
+    },
+    {
+      "id": 219503,
+      "name": "Bluffdale"
+    },
+    {
+      "id": 219504,
+      "name": "Bountiful"
+    },
+    {
+      "id": 219505,
+      "name": "Box Elder County"
+    },
+    {
+      "id": 219506,
+      "name": "Brigham City"
+    },
+    {
+      "id": 219507,
+      "name": "Cache County"
+    },
+    {
+      "id": 219508,
+      "name": "Canyon Rim"
+    },
+    {
+      "id": 219509,
+      "name": "Carbon County"
+    },
+    {
+      "id": 219510,
+      "name": "Carbonville"
+    },
+    {
+      "id": 219511,
+      "name": "Castle Dale"
+    },
+    {
+      "id": 219512,
+      "name": "Cedar City"
+    },
+    {
+      "id": 219513,
+      "name": "Cedar Hills"
+    },
+    {
+      "id": 219514,
+      "name": "Centerfield"
+    },
+    {
+      "id": 219515,
+      "name": "Centerville"
+    },
+    {
+      "id": 219516,
+      "name": "Clearfield"
+    },
+    {
+      "id": 219517,
+      "name": "Clinton"
+    },
+    {
+      "id": 219518,
+      "name": "Coalville"
+    },
+    {
+      "id": 219519,
+      "name": "Cottonwood Heights"
+    },
+    {
+      "id": 219520,
+      "name": "Daggett County"
+    },
+    {
+      "id": 219521,
+      "name": "Daniel"
+    },
+    {
+      "id": 219522,
+      "name": "Davis County"
+    },
+    {
+      "id": 219523,
+      "name": "Delta"
+    },
+    {
+      "id": 219524,
+      "name": "Draper"
+    },
+    {
+      "id": 219525,
+      "name": "Duchesne"
+    },
+    {
+      "id": 219526,
+      "name": "Duchesne County"
+    },
+    {
+      "id": 219527,
+      "name": "Eagle Mountain"
+    },
+    {
+      "id": 219528,
+      "name": "East Carbon City"
+    },
+    {
+      "id": 219529,
+      "name": "East Millcreek"
+    },
+    {
+      "id": 219530,
+      "name": "Elk Ridge"
+    },
+    {
+      "id": 219531,
+      "name": "Elwood"
+    },
+    {
+      "id": 219532,
+      "name": "Emery County"
+    },
+    {
+      "id": 219533,
+      "name": "Enoch"
+    },
+    {
+      "id": 219534,
+      "name": "Enterprise"
+    },
+    {
+      "id": 219535,
+      "name": "Ephraim"
+    },
+    {
+      "id": 219536,
+      "name": "Erda"
+    },
+    {
+      "id": 219537,
+      "name": "Fairview"
+    },
+    {
+      "id": 219538,
+      "name": "Farmington"
+    },
+    {
+      "id": 219539,
+      "name": "Farr West"
+    },
+    {
+      "id": 219540,
+      "name": "Ferron"
+    },
+    {
+      "id": 219541,
+      "name": "Fillmore"
+    },
+    {
+      "id": 219542,
+      "name": "Fountain Green"
+    },
+    {
+      "id": 219543,
+      "name": "Francis"
+    },
+    {
+      "id": 219544,
+      "name": "Fruit Heights"
+    },
+    {
+      "id": 219545,
+      "name": "Garfield County"
+    },
+    {
+      "id": 219546,
+      "name": "Garland"
+    },
+    {
+      "id": 219547,
+      "name": "Genola"
+    },
+    {
+      "id": 219548,
+      "name": "Grand County"
+    },
+    {
+      "id": 219549,
+      "name": "Granite"
+    },
+    {
+      "id": 219550,
+      "name": "Grantsville"
+    },
+    {
+      "id": 219551,
+      "name": "Gunnison"
+    },
+    {
+      "id": 219552,
+      "name": "Harrisville"
+    },
+    {
+      "id": 219553,
+      "name": "Heber City"
+    },
+    {
+      "id": 219554,
+      "name": "Helper"
+    },
+    {
+      "id": 219555,
+      "name": "Herriman"
+    },
+    {
+      "id": 219556,
+      "name": "Highland"
+    },
+    {
+      "id": 219557,
+      "name": "Hildale"
+    },
+    {
+      "id": 219558,
+      "name": "Hill Air Force Base"
+    },
+    {
+      "id": 219559,
+      "name": "Holladay"
+    },
+    {
+      "id": 219560,
+      "name": "Honeyville"
+    },
+    {
+      "id": 219561,
+      "name": "Hooper"
+    },
+    {
+      "id": 219562,
+      "name": "Huntington"
+    },
+    {
+      "id": 219563,
+      "name": "Hurricane"
+    },
+    {
+      "id": 219564,
+      "name": "Hyde Park"
+    },
+    {
+      "id": 219565,
+      "name": "Hyrum"
+    },
+    {
+      "id": 219566,
+      "name": "Iron County"
+    },
+    {
+      "id": 219567,
+      "name": "Ivins"
+    },
+    {
+      "id": 219568,
+      "name": "Juab County"
+    },
+    {
+      "id": 219569,
+      "name": "Junction"
+    },
+    {
+      "id": 219570,
+      "name": "Kamas"
+    },
+    {
+      "id": 219571,
+      "name": "Kanab"
+    },
+    {
+      "id": 219572,
+      "name": "Kane County"
+    },
+    {
+      "id": 219573,
+      "name": "Kaysville"
+    },
+    {
+      "id": 219574,
+      "name": "Kearns"
+    },
+    {
+      "id": 219575,
+      "name": "LaVerkin"
+    },
+    {
+      "id": 219576,
+      "name": "Layton"
+    },
+    {
+      "id": 219577,
+      "name": "Lehi"
+    },
+    {
+      "id": 219578,
+      "name": "Lewiston"
+    },
+    {
+      "id": 219579,
+      "name": "Liberty"
+    },
+    {
+      "id": 219580,
+      "name": "Lindon"
+    },
+    {
+      "id": 219581,
+      "name": "Little Cottonwood Creek Valley"
+    },
+    {
+      "id": 219582,
+      "name": "Loa"
+    },
+    {
+      "id": 219583,
+      "name": "Logan"
+    },
+    {
+      "id": 219584,
+      "name": "Maeser"
+    },
+    {
+      "id": 219585,
+      "name": "Magna"
+    },
+    {
+      "id": 219586,
+      "name": "Manila"
+    },
+    {
+      "id": 219587,
+      "name": "Manti"
+    },
+    {
+      "id": 219588,
+      "name": "Mapleton"
+    },
+    {
+      "id": 219589,
+      "name": "Marriott-Slaterville"
+    },
+    {
+      "id": 219590,
+      "name": "Mendon"
+    },
+    {
+      "id": 219591,
+      "name": "Midvale"
+    },
+    {
+      "id": 219592,
+      "name": "Midway"
+    },
+    {
+      "id": 219593,
+      "name": "Milford"
+    },
+    {
+      "id": 219594,
+      "name": "Millard County"
+    },
+    {
+      "id": 219595,
+      "name": "Millcreek"
+    },
+    {
+      "id": 219596,
+      "name": "Millville"
+    },
+    {
+      "id": 219597,
+      "name": "Moab"
+    },
+    {
+      "id": 219598,
+      "name": "Mona"
+    },
+    {
+      "id": 219599,
+      "name": "Monroe"
+    },
+    {
+      "id": 219600,
+      "name": "Monticello"
+    },
+    {
+      "id": 219601,
+      "name": "Morgan"
+    },
+    {
+      "id": 219602,
+      "name": "Morgan County"
+    },
+    {
+      "id": 219603,
+      "name": "Moroni"
+    },
+    {
+      "id": 219604,
+      "name": "Mount Olympus"
+    },
+    {
+      "id": 219605,
+      "name": "Mount Pleasant"
+    },
+    {
+      "id": 219606,
+      "name": "Mountain Green"
+    },
+    {
+      "id": 219607,
+      "name": "Murray"
+    },
+    {
+      "id": 219608,
+      "name": "Naples"
+    },
+    {
+      "id": 219609,
+      "name": "Nephi"
+    },
+    {
+      "id": 219610,
+      "name": "Nibley"
+    },
+    {
+      "id": 219611,
+      "name": "North Logan"
+    },
+    {
+      "id": 219612,
+      "name": "North Ogden"
+    },
+    {
+      "id": 219613,
+      "name": "North Salt Lake"
+    },
+    {
+      "id": 219614,
+      "name": "Oakley"
+    },
+    {
+      "id": 219615,
+      "name": "Ogden"
+    },
+    {
+      "id": 219616,
+      "name": "Oquirrh"
+    },
+    {
+      "id": 219617,
+      "name": "Orangeville"
+    },
+    {
+      "id": 219618,
+      "name": "Orem"
+    },
+    {
+      "id": 219619,
+      "name": "Panguitch"
+    },
+    {
+      "id": 219620,
+      "name": "Park City"
+    },
+    {
+      "id": 219621,
+      "name": "Parowan"
+    },
+    {
+      "id": 219622,
+      "name": "Payson"
+    },
+    {
+      "id": 219623,
+      "name": "Perry"
+    },
+    {
+      "id": 219624,
+      "name": "Piute County"
+    },
+    {
+      "id": 219625,
+      "name": "Plain City"
+    },
+    {
+      "id": 219626,
+      "name": "Pleasant Grove"
+    },
+    {
+      "id": 219627,
+      "name": "Pleasant View"
+    },
+    {
+      "id": 219628,
+      "name": "Price"
+    },
+    {
+      "id": 219629,
+      "name": "Providence"
+    },
+    {
+      "id": 219630,
+      "name": "Provo"
+    },
+    {
+      "id": 219631,
+      "name": "Randolph"
+    },
+    {
+      "id": 219632,
+      "name": "Rich County"
+    },
+    {
+      "id": 219633,
+      "name": "Richfield"
+    },
+    {
+      "id": 219634,
+      "name": "Richmond"
+    },
+    {
+      "id": 219635,
+      "name": "River Heights"
+    },
+    {
+      "id": 219636,
+      "name": "Riverdale"
+    },
+    {
+      "id": 219637,
+      "name": "Riverton"
+    },
+    {
+      "id": 219638,
+      "name": "Roosevelt"
+    },
+    {
+      "id": 219639,
+      "name": "Roy"
+    },
+    {
+      "id": 219640,
+      "name": "Saint George"
+    },
+    {
+      "id": 219641,
+      "name": "Salem"
+    },
+    {
+      "id": 219642,
+      "name": "Salina"
+    },
+    {
+      "id": 219643,
+      "name": "Salt Lake City"
+    },
+    {
+      "id": 219644,
+      "name": "Salt Lake County"
+    },
+    {
+      "id": 219645,
+      "name": "San Juan County"
+    },
+    {
+      "id": 219646,
+      "name": "Sandy"
+    },
+    {
+      "id": 219647,
+      "name": "Sandy Hills"
+    },
+    {
+      "id": 219648,
+      "name": "Sanpete County"
+    },
+    {
+      "id": 219649,
+      "name": "Santa Clara"
+    },
+    {
+      "id": 219650,
+      "name": "Santaquin"
+    },
+    {
+      "id": 219651,
+      "name": "Saratoga Springs"
+    },
+    {
+      "id": 219652,
+      "name": "Sevier County"
+    },
+    {
+      "id": 219653,
+      "name": "Silver Summit"
+    },
+    {
+      "id": 219654,
+      "name": "Smithfield"
+    },
+    {
+      "id": 219655,
+      "name": "Snyderville"
+    },
+    {
+      "id": 219656,
+      "name": "South Jordan"
+    },
+    {
+      "id": 219657,
+      "name": "South Jordan Heights"
+    },
+    {
+      "id": 219658,
+      "name": "South Ogden"
+    },
+    {
+      "id": 219659,
+      "name": "South Salt Lake"
+    },
+    {
+      "id": 219660,
+      "name": "South Weber"
+    },
+    {
+      "id": 219661,
+      "name": "South Willard"
+    },
+    {
+      "id": 219662,
+      "name": "Spanish Fork"
+    },
+    {
+      "id": 219663,
+      "name": "Spring City"
+    },
+    {
+      "id": 219664,
+      "name": "Spring Glen"
+    },
+    {
+      "id": 219665,
+      "name": "Springville"
+    },
+    {
+      "id": 219666,
+      "name": "Stansbury park"
+    },
+    {
+      "id": 219667,
+      "name": "Summit County"
+    },
+    {
+      "id": 219668,
+      "name": "Summit Park"
+    },
+    {
+      "id": 219669,
+      "name": "Sunset"
+    },
+    {
+      "id": 219670,
+      "name": "Syracuse"
+    },
+    {
+      "id": 219671,
+      "name": "Taylorsville"
+    },
+    {
+      "id": 219672,
+      "name": "Tooele"
+    },
+    {
+      "id": 219673,
+      "name": "Tooele County"
+    },
+    {
+      "id": 219674,
+      "name": "Toquerville"
+    },
+    {
+      "id": 219675,
+      "name": "Tremonton"
+    },
+    {
+      "id": 219676,
+      "name": "Uintah"
+    },
+    {
+      "id": 219677,
+      "name": "Uintah County"
+    },
+    {
+      "id": 219678,
+      "name": "Utah County"
+    },
+    {
+      "id": 219679,
+      "name": "Vernal"
+    },
+    {
+      "id": 219680,
+      "name": "Vineyard"
+    },
+    {
+      "id": 219681,
+      "name": "Wasatch County"
+    },
+    {
+      "id": 219682,
+      "name": "Washington"
+    },
+    {
+      "id": 219683,
+      "name": "Washington County"
+    },
+    {
+      "id": 219684,
+      "name": "Washington Terrace"
+    },
+    {
+      "id": 219685,
+      "name": "Wayne County"
+    },
+    {
+      "id": 219686,
+      "name": "Weber County"
+    },
+    {
+      "id": 219687,
+      "name": "Wellington"
+    },
+    {
+      "id": 219688,
+      "name": "Wellsville"
+    },
+    {
+      "id": 219689,
+      "name": "Wendover"
+    },
+    {
+      "id": 219690,
+      "name": "West Bountiful"
+    },
+    {
+      "id": 219691,
+      "name": "West Haven"
+    },
+    {
+      "id": 219692,
+      "name": "West Jordan"
+    },
+    {
+      "id": 219693,
+      "name": "West Mountain"
+    },
+    {
+      "id": 219694,
+      "name": "West Point"
+    },
+    {
+      "id": 219695,
+      "name": "West Valley City"
+    },
+    {
+      "id": 219696,
+      "name": "White City"
+    },
+    {
+      "id": 219697,
+      "name": "Willard"
+    },
+    {
+      "id": 219698,
+      "name": "Wolf Creek"
+    },
+    {
+      "id": 219699,
+      "name": "Woodland Hills"
+    },
+    {
+      "id": 219700,
+      "name": "Woods Cross"
+    }
+  ]
+}

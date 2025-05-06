@@ -1,0 +1,259 @@
+{
+  "id": 4526,
+  "name": "Tokyo",
+  "state_code": "13",
+  "cities": [
+    {
+      "id": 136887,
+      "name": "Adachi Ku"
+    },
+    {
+      "id": 136888,
+      "name": "Akiruno-shi"
+    },
+    {
+      "id": 136889,
+      "name": "Akishima-shi"
+    },
+    {
+      "id": 136890,
+      "name": "Arakawa Ku"
+    },
+    {
+      "id": 136891,
+      "name": "Bunkyō-ku"
+    },
+    {
+      "id": 136892,
+      "name": "Chiyoda-ku"
+    },
+    {
+      "id": 136893,
+      "name": "Chōfu"
+    },
+    {
+      "id": 136894,
+      "name": "Chōfu-shi"
+    },
+    {
+      "id": 136895,
+      "name": "Chūō Ku"
+    },
+    {
+      "id": 136896,
+      "name": "Edogawa Ku"
+    },
+    {
+      "id": 136897,
+      "name": "Fuchū-shi"
+    },
+    {
+      "id": 136898,
+      "name": "Fussa"
+    },
+    {
+      "id": 136899,
+      "name": "Hachiōji"
+    },
+    {
+      "id": 136900,
+      "name": "Hamura-shi"
+    },
+    {
+      "id": 136901,
+      "name": "Higashi-murayama-shi"
+    },
+    {
+      "id": 136902,
+      "name": "Higashikurume-shi"
+    },
+    {
+      "id": 136903,
+      "name": "Higashimurayama"
+    },
+    {
+      "id": 136904,
+      "name": "Higashiyamato"
+    },
+    {
+      "id": 136905,
+      "name": "Higashiyamato-shi"
+    },
+    {
+      "id": 136906,
+      "name": "Hino"
+    },
+    {
+      "id": 136907,
+      "name": "Hino-shi"
+    },
+    {
+      "id": 136908,
+      "name": "Inagi-shi"
+    },
+    {
+      "id": 136909,
+      "name": "Itabashi-ku"
+    },
+    {
+      "id": 136910,
+      "name": "Itsukaichi"
+    },
+    {
+      "id": 136911,
+      "name": "Kamirenjaku"
+    },
+    {
+      "id": 136912,
+      "name": "Katsushika Ku"
+    },
+    {
+      "id": 136913,
+      "name": "Kita-ku"
+    },
+    {
+      "id": 136914,
+      "name": "Kiyose-shi"
+    },
+    {
+      "id": 136915,
+      "name": "Kodaira-shi"
+    },
+    {
+      "id": 136916,
+      "name": "Koganei-shi"
+    },
+    {
+      "id": 136917,
+      "name": "Kokubunji"
+    },
+    {
+      "id": 136918,
+      "name": "Kokubunji-shi"
+    },
+    {
+      "id": 136919,
+      "name": "Komae-shi"
+    },
+    {
+      "id": 136920,
+      "name": "Kōtō-ku"
+    },
+    {
+      "id": 136921,
+      "name": "Kunitachi-shi"
+    },
+    {
+      "id": 136922,
+      "name": "Machida"
+    },
+    {
+      "id": 136923,
+      "name": "Machida-shi"
+    },
+    {
+      "id": 136924,
+      "name": "Meguro-ku"
+    },
+    {
+      "id": 136925,
+      "name": "Minato-ku"
+    },
+    {
+      "id": 136926,
+      "name": "Mitaka-shi"
+    },
+    {
+      "id": 136927,
+      "name": "Musashimurayama-shi"
+    },
+    {
+      "id": 136928,
+      "name": "Musashino"
+    },
+    {
+      "id": 136929,
+      "name": "Musashino-shi"
+    },
+    {
+      "id": 136930,
+      "name": "Nakano-ku"
+    },
+    {
+      "id": 136931,
+      "name": "Nerima-ku"
+    },
+    {
+      "id": 136932,
+      "name": "Nishi-Tokyo-shi"
+    },
+    {
+      "id": 136933,
+      "name": "Nishitōkyō-shi"
+    },
+    {
+      "id": 136934,
+      "name": "Ōme"
+    },
+    {
+      "id": 136935,
+      "name": "Ōme-shi"
+    },
+    {
+      "id": 136936,
+      "name": "Ōta-ku"
+    },
+    {
+      "id": 136937,
+      "name": "Setagaya-ku"
+    },
+    {
+      "id": 136938,
+      "name": "Shibuya-ku"
+    },
+    {
+      "id": 136939,
+      "name": "Shinagawa-ku"
+    },
+    {
+      "id": 136940,
+      "name": "Shinjuku-ku"
+    },
+    {
+      "id": 136941,
+      "name": "Suginami-ku"
+    },
+    {
+      "id": 136942,
+      "name": "Sumida-ku"
+    },
+    {
+      "id": 136943,
+      "name": "Tachikawa-shi"
+    },
+    {
+      "id": 136944,
+      "name": "Taitō-ku"
+    },
+    {
+      "id": 136945,
+      "name": "Tama-shi"
+    },
+    {
+      "id": 136946,
+      "name": "Tanashichō"
+    },
+    {
+      "id": 136947,
+      "name": "Tokyo"
+    },
+    {
+      "id": 136948,
+      "name": "Toshima-ku"
+    },
+    {
+      "id": 136949,
+      "name": "Urayasu"
+    }
+  ]
+}

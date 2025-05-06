@@ -1,0 +1,491 @@
+{
+  "id": 7441,
+  "name": "Hawaii",
+  "state_code": "HI",
+  "cities": [
+    {
+      "id": 205730,
+      "name": "‘Āhuimanu"
+    },
+    {
+      "id": 205731,
+      "name": "‘Aiea"
+    },
+    {
+      "id": 205732,
+      "name": "‘Ele‘ele"
+    },
+    {
+      "id": 205733,
+      "name": "‘Ewa Beach"
+    },
+    {
+      "id": 205734,
+      "name": "‘Ewa Gentry"
+    },
+    {
+      "id": 205735,
+      "name": "‘Ewa Villages"
+    },
+    {
+      "id": 205736,
+      "name": "‘Ōma‘o"
+    },
+    {
+      "id": 205737,
+      "name": "Ainaloa"
+    },
+    {
+      "id": 205738,
+      "name": "Anahola"
+    },
+    {
+      "id": 205739,
+      "name": "Captain Cook"
+    },
+    {
+      "id": 205740,
+      "name": "East Honolulu"
+    },
+    {
+      "id": 205741,
+      "name": "Fern Acres"
+    },
+    {
+      "id": 205742,
+      "name": "Haiku-Pauwela"
+    },
+    {
+      "id": 205743,
+      "name": "Hālawa"
+    },
+    {
+      "id": 205744,
+      "name": "Hālawa Heights"
+    },
+    {
+      "id": 205745,
+      "name": "Hale‘iwa"
+    },
+    {
+      "id": 205746,
+      "name": "Hana"
+    },
+    {
+      "id": 205747,
+      "name": "Hanamā‘ulu"
+    },
+    {
+      "id": 205748,
+      "name": "Hanapēpē"
+    },
+    {
+      "id": 205749,
+      "name": "Hanapēpē Heights"
+    },
+    {
+      "id": 205750,
+      "name": "Hau‘ula"
+    },
+    {
+      "id": 205751,
+      "name": "Hawaii County"
+    },
+    {
+      "id": 205752,
+      "name": "Hawaiian Acres"
+    },
+    {
+      "id": 205753,
+      "name": "Hawaiian Beaches"
+    },
+    {
+      "id": 205754,
+      "name": "Hawaiian Ocean View"
+    },
+    {
+      "id": 205755,
+      "name": "Hawaiian Paradise Park"
+    },
+    {
+      "id": 205756,
+      "name": "Hāwī"
+    },
+    {
+      "id": 205757,
+      "name": "He‘eia"
+    },
+    {
+      "id": 205758,
+      "name": "Hickam Field"
+    },
+    {
+      "id": 205759,
+      "name": "Hilo"
+    },
+    {
+      "id": 205760,
+      "name": "Hōlualoa"
+    },
+    {
+      "id": 205761,
+      "name": "Honalo"
+    },
+    {
+      "id": 205762,
+      "name": "Honaunau-Napoopoo"
+    },
+    {
+      "id": 205763,
+      "name": "Honoka‘a"
+    },
+    {
+      "id": 205764,
+      "name": "Honolulu"
+    },
+    {
+      "id": 205765,
+      "name": "Honolulu County"
+    },
+    {
+      "id": 205766,
+      "name": "Iroquois Point"
+    },
+    {
+      "id": 205767,
+      "name": "Ka‘a‘awa"
+    },
+    {
+      "id": 205768,
+      "name": "Kā‘anapali"
+    },
+    {
+      "id": 205769,
+      "name": "Kaanapali Landing"
+    },
+    {
+      "id": 205770,
+      "name": "Kahalu‘u"
+    },
+    {
+      "id": 205771,
+      "name": "Kahaluu-Keauhou"
+    },
+    {
+      "id": 205772,
+      "name": "Kahuku"
+    },
+    {
+      "id": 205773,
+      "name": "Kahului"
+    },
+    {
+      "id": 205774,
+      "name": "Kailua"
+    },
+    {
+      "id": 205775,
+      "name": "Kailua-Kona"
+    },
+    {
+      "id": 205776,
+      "name": "Kalāheo"
+    },
+    {
+      "id": 205777,
+      "name": "Kalaoa"
+    },
+    {
+      "id": 205778,
+      "name": "Kalawao County"
+    },
+    {
+      "id": 205779,
+      "name": "Kaneohe"
+    },
+    {
+      "id": 205780,
+      "name": "Kapa‘a"
+    },
+    {
+      "id": 205781,
+      "name": "Kapaau"
+    },
+    {
+      "id": 205782,
+      "name": "Kapolei"
+    },
+    {
+      "id": 205783,
+      "name": "Kauai County"
+    },
+    {
+      "id": 205784,
+      "name": "Kaunakakai"
+    },
+    {
+      "id": 205785,
+      "name": "Kea‘au"
+    },
+    {
+      "id": 205786,
+      "name": "Kealakekua"
+    },
+    {
+      "id": 205787,
+      "name": "Kekaha"
+    },
+    {
+      "id": 205788,
+      "name": "Kēōkea"
+    },
+    {
+      "id": 205789,
+      "name": "Kīhei"
+    },
+    {
+      "id": 205790,
+      "name": "Kīlauea"
+    },
+    {
+      "id": 205791,
+      "name": "Ko Olina"
+    },
+    {
+      "id": 205792,
+      "name": "Koloa"
+    },
+    {
+      "id": 205793,
+      "name": "Kualapu‘u"
+    },
+    {
+      "id": 205794,
+      "name": "Kula"
+    },
+    {
+      "id": 205795,
+      "name": "Kurtistown"
+    },
+    {
+      "id": 205796,
+      "name": "Lā‘ie"
+    },
+    {
+      "id": 205797,
+      "name": "Lahaina"
+    },
+    {
+      "id": 205798,
+      "name": "Lanai City"
+    },
+    {
+      "id": 205799,
+      "name": "Lawai"
+    },
+    {
+      "id": 205800,
+      "name": "Leilani Estates"
+    },
+    {
+      "id": 205801,
+      "name": "Lihue"
+    },
+    {
+      "id": 205802,
+      "name": "Mā‘ili"
+    },
+    {
+      "id": 205803,
+      "name": "Mākaha"
+    },
+    {
+      "id": 205804,
+      "name": "Mākaha Valley"
+    },
+    {
+      "id": 205805,
+      "name": "Makakilo City"
+    },
+    {
+      "id": 205806,
+      "name": "Makawao"
+    },
+    {
+      "id": 205807,
+      "name": "Marine Corps Base Hawaii - MCBH"
+    },
+    {
+      "id": 205808,
+      "name": "Maui County"
+    },
+    {
+      "id": 205809,
+      "name": "Maunawili"
+    },
+    {
+      "id": 205810,
+      "name": "Mililani Town"
+    },
+    {
+      "id": 205811,
+      "name": "Mokulēia"
+    },
+    {
+      "id": 205812,
+      "name": "Mountain View"
+    },
+    {
+      "id": 205813,
+      "name": "Nānākuli"
+    },
+    {
+      "id": 205814,
+      "name": "Nanawale Estates"
+    },
+    {
+      "id": 205815,
+      "name": "Napili-Honokowai"
+    },
+    {
+      "id": 205816,
+      "name": "Ocean Pointe"
+    },
+    {
+      "id": 205817,
+      "name": "Orchidlands Estates"
+    },
+    {
+      "id": 205818,
+      "name": "Pāhala"
+    },
+    {
+      "id": 205819,
+      "name": "Paia"
+    },
+    {
+      "id": 205820,
+      "name": "Pāpa‘ikou"
+    },
+    {
+      "id": 205821,
+      "name": "Pearl City"
+    },
+    {
+      "id": 205822,
+      "name": "Pepeekeo"
+    },
+    {
+      "id": 205823,
+      "name": "Princeville"
+    },
+    {
+      "id": 205824,
+      "name": "Puhi"
+    },
+    {
+      "id": 205825,
+      "name": "Pukalani"
+    },
+    {
+      "id": 205826,
+      "name": "Punalu‘u"
+    },
+    {
+      "id": 205827,
+      "name": "Pupukea"
+    },
+    {
+      "id": 205828,
+      "name": "Royal Kunia"
+    },
+    {
+      "id": 205829,
+      "name": "Schofield Barracks"
+    },
+    {
+      "id": 205830,
+      "name": "Village Park"
+    },
+    {
+      "id": 205831,
+      "name": "Volcano"
+    },
+    {
+      "id": 205832,
+      "name": "Wahiawā"
+    },
+    {
+      "id": 205833,
+      "name": "Waialua"
+    },
+    {
+      "id": 205834,
+      "name": "Waianae"
+    },
+    {
+      "id": 205835,
+      "name": "Waihee-Waiehu"
+    },
+    {
+      "id": 205836,
+      "name": "Waikapū"
+    },
+    {
+      "id": 205837,
+      "name": "Waikoloa"
+    },
+    {
+      "id": 205838,
+      "name": "Wailea"
+    },
+    {
+      "id": 205839,
+      "name": "Wailua"
+    },
+    {
+      "id": 205840,
+      "name": "Wailua Homesteads"
+    },
+    {
+      "id": 205841,
+      "name": "Wailuku"
+    },
+    {
+      "id": 205842,
+      "name": "Waimalu"
+    },
+    {
+      "id": 205843,
+      "name": "Waimanalo"
+    },
+    {
+      "id": 205844,
+      "name": "Waimānalo Beach"
+    },
+    {
+      "id": 205845,
+      "name": "Waimea"
+    },
+    {
+      "id": 205846,
+      "name": "Wainaku"
+    },
+    {
+      "id": 205847,
+      "name": "Waipahu"
+    },
+    {
+      "id": 205848,
+      "name": "Waipi‘o Acres"
+    },
+    {
+      "id": 205849,
+      "name": "Waipio"
+    },
+    {
+      "id": 205850,
+      "name": "Whitmore Village"
+    }
+  ]
+}

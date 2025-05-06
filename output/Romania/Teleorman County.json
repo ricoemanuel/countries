@@ -1,0 +1,955 @@
+{
+  "id": 5990,
+  "name": "Teleorman County",
+  "state_code": "TR",
+  "cities": [
+    {
+      "id": 172327,
+      "name": "Alexandria"
+    },
+    {
+      "id": 172328,
+      "name": "Băbăiţa"
+    },
+    {
+      "id": 172329,
+      "name": "Băcălești"
+    },
+    {
+      "id": 172330,
+      "name": "Baciu"
+    },
+    {
+      "id": 172331,
+      "name": "Băduleasa"
+    },
+    {
+      "id": 172332,
+      "name": "Balaci"
+    },
+    {
+      "id": 172333,
+      "name": "Băneasa"
+    },
+    {
+      "id": 172334,
+      "name": "Bâscoveni"
+    },
+    {
+      "id": 172335,
+      "name": "Beciu"
+    },
+    {
+      "id": 172336,
+      "name": "Beiu"
+    },
+    {
+      "id": 172337,
+      "name": "Beuca"
+    },
+    {
+      "id": 172338,
+      "name": "Blejeşti"
+    },
+    {
+      "id": 172339,
+      "name": "Bogdana"
+    },
+    {
+      "id": 172340,
+      "name": "Botoroaga"
+    },
+    {
+      "id": 172341,
+      "name": "Bragadiru"
+    },
+    {
+      "id": 172342,
+      "name": "Brânceni"
+    },
+    {
+      "id": 172343,
+      "name": "Brâncoveanca"
+    },
+    {
+      "id": 172344,
+      "name": "Bujoreni"
+    },
+    {
+      "id": 172345,
+      "name": "Bujoru"
+    },
+    {
+      "id": 172346,
+      "name": "Buzescu"
+    },
+    {
+      "id": 172347,
+      "name": "Călineşti"
+    },
+    {
+      "id": 172348,
+      "name": "Călmăţuiu"
+    },
+    {
+      "id": 172349,
+      "name": "Călmățuiu de Sus"
+    },
+    {
+      "id": 172350,
+      "name": "Calomfirești"
+    },
+    {
+      "id": 172351,
+      "name": "Cernetu"
+    },
+    {
+      "id": 172352,
+      "name": "Cervenia"
+    },
+    {
+      "id": 172353,
+      "name": "Ciuani"
+    },
+    {
+      "id": 172354,
+      "name": "Ciuperceni"
+    },
+    {
+      "id": 172355,
+      "name": "Comuna Băbăiţa"
+    },
+    {
+      "id": 172356,
+      "name": "Comuna Balaci"
+    },
+    {
+      "id": 172357,
+      "name": "Comuna Beciu"
+    },
+    {
+      "id": 172358,
+      "name": "Comuna Beuca"
+    },
+    {
+      "id": 172359,
+      "name": "Comuna Blejeşti"
+    },
+    {
+      "id": 172360,
+      "name": "Comuna Bogdana"
+    },
+    {
+      "id": 172361,
+      "name": "Comuna Botoroaga"
+    },
+    {
+      "id": 172362,
+      "name": "Comuna Bragadiru"
+    },
+    {
+      "id": 172363,
+      "name": "Comuna Brânceni"
+    },
+    {
+      "id": 172364,
+      "name": "Comuna Bujoreni"
+    },
+    {
+      "id": 172365,
+      "name": "Comuna Bujoru"
+    },
+    {
+      "id": 172366,
+      "name": "Comuna Buzescu"
+    },
+    {
+      "id": 172367,
+      "name": "Comuna Călineşti"
+    },
+    {
+      "id": 172368,
+      "name": "Comuna Cãlmãţuiu"
+    },
+    {
+      "id": 172369,
+      "name": "Comuna Cãlmãţuiu De Sus"
+    },
+    {
+      "id": 172370,
+      "name": "Comuna Cervenia"
+    },
+    {
+      "id": 172371,
+      "name": "Comuna Ciolăneşti"
+    },
+    {
+      "id": 172372,
+      "name": "Comuna Ciuperceni"
+    },
+    {
+      "id": 172373,
+      "name": "Comuna Conţeşti"
+    },
+    {
+      "id": 172374,
+      "name": "Comuna Cosmeşti"
+    },
+    {
+      "id": 172375,
+      "name": "Comuna Crângeni"
+    },
+    {
+      "id": 172376,
+      "name": "Comuna Crângu"
+    },
+    {
+      "id": 172377,
+      "name": "Comuna Crevenicu"
+    },
+    {
+      "id": 172378,
+      "name": "Comuna Dideşti"
+    },
+    {
+      "id": 172379,
+      "name": "Comuna Dobroteşti"
+    },
+    {
+      "id": 172380,
+      "name": "Comuna Dracea"
+    },
+    {
+      "id": 172381,
+      "name": "Comuna Drãcşenei"
+    },
+    {
+      "id": 172382,
+      "name": "Comuna Drăgăneşti de Vede"
+    },
+    {
+      "id": 172383,
+      "name": "Comuna Drăgăneşti-Vlaşca"
+    },
+    {
+      "id": 172384,
+      "name": "Comuna Fântânele"
+    },
+    {
+      "id": 172385,
+      "name": "Comuna Frăsinet"
+    },
+    {
+      "id": 172386,
+      "name": "Comuna Frumoasa"
+    },
+    {
+      "id": 172387,
+      "name": "Comuna Furculeşti"
+    },
+    {
+      "id": 172388,
+      "name": "Comuna Gălăţeni"
+    },
+    {
+      "id": 172389,
+      "name": "Comuna Gratia"
+    },
+    {
+      "id": 172390,
+      "name": "Comuna Islaz"
+    },
+    {
+      "id": 172391,
+      "name": "Comuna Izvoarele"
+    },
+    {
+      "id": 172392,
+      "name": "Comuna Lisa"
+    },
+    {
+      "id": 172393,
+      "name": "Comuna Liţa"
+    },
+    {
+      "id": 172394,
+      "name": "Comuna Lunca"
+    },
+    {
+      "id": 172395,
+      "name": "Comuna Măgura"
+    },
+    {
+      "id": 172396,
+      "name": "Comuna Măldăeni"
+    },
+    {
+      "id": 172397,
+      "name": "Comuna Mârzãneşti"
+    },
+    {
+      "id": 172398,
+      "name": "Comuna Mavrodin"
+    },
+    {
+      "id": 172399,
+      "name": "Comuna Mereni"
+    },
+    {
+      "id": 172400,
+      "name": "Comuna Moşteni"
+    },
+    {
+      "id": 172401,
+      "name": "Comuna Nanov"
+    },
+    {
+      "id": 172402,
+      "name": "Comuna Năsturelu"
+    },
+    {
+      "id": 172403,
+      "name": "Comuna Necşeşti"
+    },
+    {
+      "id": 172404,
+      "name": "Comuna Nenciuleşti"
+    },
+    {
+      "id": 172405,
+      "name": "Comuna Olteni"
+    },
+    {
+      "id": 172406,
+      "name": "Comuna Orbeasca"
+    },
+    {
+      "id": 172407,
+      "name": "Comuna Peretu"
+    },
+    {
+      "id": 172408,
+      "name": "Comuna Piatra"
+    },
+    {
+      "id": 172409,
+      "name": "Comuna Pietroşani"
+    },
+    {
+      "id": 172410,
+      "name": "Comuna Plopii Slăviţeşti"
+    },
+    {
+      "id": 172411,
+      "name": "Comuna Plosca"
+    },
+    {
+      "id": 172412,
+      "name": "Comuna Poeni"
+    },
+    {
+      "id": 172413,
+      "name": "Comuna Poroschia"
+    },
+    {
+      "id": 172414,
+      "name": "Comuna Purani"
+    },
+    {
+      "id": 172415,
+      "name": "Comuna Putineiu"
+    },
+    {
+      "id": 172416,
+      "name": "Comuna Rãdoieşti"
+    },
+    {
+      "id": 172417,
+      "name": "Comuna Răsmireşti"
+    },
+    {
+      "id": 172418,
+      "name": "Comuna Săceni"
+    },
+    {
+      "id": 172419,
+      "name": "Comuna Saelele"
+    },
+    {
+      "id": 172420,
+      "name": "Comuna Salcia"
+    },
+    {
+      "id": 172421,
+      "name": "Comuna Sârbeni"
+    },
+    {
+      "id": 172422,
+      "name": "Comuna Scrioaştea"
+    },
+    {
+      "id": 172423,
+      "name": "Comuna Scurtu Mare"
+    },
+    {
+      "id": 172424,
+      "name": "Comuna Seaca"
+    },
+    {
+      "id": 172425,
+      "name": "Comuna Segarcea Vale"
+    },
+    {
+      "id": 172426,
+      "name": "Comuna Sfinţeşti"
+    },
+    {
+      "id": 172427,
+      "name": "Comuna Siliştea"
+    },
+    {
+      "id": 172428,
+      "name": "Comuna Siliștea Gumești"
+    },
+    {
+      "id": 172429,
+      "name": "Comuna Slobozia-Mândra"
+    },
+    {
+      "id": 172430,
+      "name": "Comuna Smârdioasa"
+    },
+    {
+      "id": 172431,
+      "name": "Comuna Stejaru"
+    },
+    {
+      "id": 172432,
+      "name": "Comuna Storobăneasa"
+    },
+    {
+      "id": 172433,
+      "name": "Comuna Suhaia"
+    },
+    {
+      "id": 172434,
+      "name": "Comuna Talpa"
+    },
+    {
+      "id": 172435,
+      "name": "Comuna Tătărăştii de Jos"
+    },
+    {
+      "id": 172436,
+      "name": "Comuna Tătărăştii de Sus"
+    },
+    {
+      "id": 172437,
+      "name": "Comuna Ţigăneşti"
+    },
+    {
+      "id": 172438,
+      "name": "Comuna Traian"
+    },
+    {
+      "id": 172439,
+      "name": "Comuna Trivalea-Moşteni"
+    },
+    {
+      "id": 172440,
+      "name": "Comuna Troianul"
+    },
+    {
+      "id": 172441,
+      "name": "Comuna Uda-Clocociov"
+    },
+    {
+      "id": 172442,
+      "name": "Comuna Vârtoape"
+    },
+    {
+      "id": 172443,
+      "name": "Comuna Vedea"
+    },
+    {
+      "id": 172444,
+      "name": "Comuna Viişoara"
+    },
+    {
+      "id": 172445,
+      "name": "Comuna Vităneşti"
+    },
+    {
+      "id": 172446,
+      "name": "Comuna Zâmbreasca"
+    },
+    {
+      "id": 172447,
+      "name": "Conţeşti"
+    },
+    {
+      "id": 172448,
+      "name": "Cosmeşti"
+    },
+    {
+      "id": 172449,
+      "name": "Crângeni"
+    },
+    {
+      "id": 172450,
+      "name": "Crângu"
+    },
+    {
+      "id": 172451,
+      "name": "Crevenicu"
+    },
+    {
+      "id": 172452,
+      "name": "Cucueți"
+    },
+    {
+      "id": 172453,
+      "name": "Deparați"
+    },
+    {
+      "id": 172454,
+      "name": "Didești"
+    },
+    {
+      "id": 172455,
+      "name": "Dobreni"
+    },
+    {
+      "id": 172456,
+      "name": "Dobroteşti"
+    },
+    {
+      "id": 172457,
+      "name": "Dracea"
+    },
+    {
+      "id": 172458,
+      "name": "Drăcşani"
+    },
+    {
+      "id": 172459,
+      "name": "Drăcșenei"
+    },
+    {
+      "id": 172460,
+      "name": "Drăgăneşti de Vede"
+    },
+    {
+      "id": 172461,
+      "name": "Drăgăneşti-Vlaşca"
+    },
+    {
+      "id": 172462,
+      "name": "Drăghinești"
+    },
+    {
+      "id": 172463,
+      "name": "Dudu"
+    },
+    {
+      "id": 172464,
+      "name": "Fântânele"
+    },
+    {
+      "id": 172465,
+      "name": "Frăsinet"
+    },
+    {
+      "id": 172466,
+      "name": "Frumoasa"
+    },
+    {
+      "id": 172467,
+      "name": "Furculești"
+    },
+    {
+      "id": 172468,
+      "name": "Gălăţeni"
+    },
+    {
+      "id": 172469,
+      "name": "Gărăgău"
+    },
+    {
+      "id": 172470,
+      "name": "Gratia"
+    },
+    {
+      "id": 172471,
+      "name": "Guruieni"
+    },
+    {
+      "id": 172472,
+      "name": "Islaz"
+    },
+    {
+      "id": 172473,
+      "name": "Izvoarele"
+    },
+    {
+      "id": 172474,
+      "name": "Lăceni"
+    },
+    {
+      "id": 172475,
+      "name": "Lisa"
+    },
+    {
+      "id": 172476,
+      "name": "Liţa"
+    },
+    {
+      "id": 172477,
+      "name": "Lunca"
+    },
+    {
+      "id": 172478,
+      "name": "Măgura"
+    },
+    {
+      "id": 172479,
+      "name": "Măldăeni"
+    },
+    {
+      "id": 172480,
+      "name": "Mârzăneşti"
+    },
+    {
+      "id": 172481,
+      "name": "Mavrodin"
+    },
+    {
+      "id": 172482,
+      "name": "Merenii de Jos"
+    },
+    {
+      "id": 172483,
+      "name": "Merenii de Sus"
+    },
+    {
+      "id": 172484,
+      "name": "Merișani"
+    },
+    {
+      "id": 172485,
+      "name": "Moldoveni"
+    },
+    {
+      "id": 172486,
+      "name": "Moșteni"
+    },
+    {
+      "id": 172487,
+      "name": "Municipiul Alexandria"
+    },
+    {
+      "id": 172488,
+      "name": "Municipiul Roșiorii de Vede"
+    },
+    {
+      "id": 172489,
+      "name": "Municipiul Turnu Magurele"
+    },
+    {
+      "id": 172490,
+      "name": "Nanov"
+    },
+    {
+      "id": 172491,
+      "name": "Năsturelu"
+    },
+    {
+      "id": 172492,
+      "name": "Năvodari"
+    },
+    {
+      "id": 172493,
+      "name": "Necşeşti"
+    },
+    {
+      "id": 172494,
+      "name": "Nenciulești"
+    },
+    {
+      "id": 172495,
+      "name": "Olteanca"
+    },
+    {
+      "id": 172496,
+      "name": "Olteni"
+    },
+    {
+      "id": 172497,
+      "name": "Oraş Videle"
+    },
+    {
+      "id": 172498,
+      "name": "Oraş Zimnicea"
+    },
+    {
+      "id": 172499,
+      "name": "Orbeasca de Jos"
+    },
+    {
+      "id": 172500,
+      "name": "Orbeasca de Sus"
+    },
+    {
+      "id": 172501,
+      "name": "Peretu"
+    },
+    {
+      "id": 172502,
+      "name": "Perii Broșteni"
+    },
+    {
+      "id": 172503,
+      "name": "Piatra"
+    },
+    {
+      "id": 172504,
+      "name": "Pietroşani"
+    },
+    {
+      "id": 172505,
+      "name": "Pleașov"
+    },
+    {
+      "id": 172506,
+      "name": "Plopii Slăviţeştí"
+    },
+    {
+      "id": 172507,
+      "name": "Plosca"
+    },
+    {
+      "id": 172508,
+      "name": "Poeni"
+    },
+    {
+      "id": 172509,
+      "name": "Poiana"
+    },
+    {
+      "id": 172510,
+      "name": "Poporogi"
+    },
+    {
+      "id": 172511,
+      "name": "Poroschia"
+    },
+    {
+      "id": 172512,
+      "name": "Prundu"
+    },
+    {
+      "id": 172513,
+      "name": "Purani"
+    },
+    {
+      "id": 172514,
+      "name": "Putineiu"
+    },
+    {
+      "id": 172515,
+      "name": "Rădoiești-Deal"
+    },
+    {
+      "id": 172516,
+      "name": "Răsmireşti"
+    },
+    {
+      "id": 172517,
+      "name": "Roșiorii de Vede"
+    },
+    {
+      "id": 172518,
+      "name": "Săceni"
+    },
+    {
+      "id": 172519,
+      "name": "Saelele"
+    },
+    {
+      "id": 172520,
+      "name": "Salcia"
+    },
+    {
+      "id": 172521,
+      "name": "Sârbeni"
+    },
+    {
+      "id": 172522,
+      "name": "Scrioaştea"
+    },
+    {
+      "id": 172523,
+      "name": "Scurtu Mare"
+    },
+    {
+      "id": 172524,
+      "name": "Seaca"
+    },
+    {
+      "id": 172525,
+      "name": "Segarcea Vale"
+    },
+    {
+      "id": 172526,
+      "name": "Segarcea-Deal"
+    },
+    {
+      "id": 172527,
+      "name": "Sfinţeşti"
+    },
+    {
+      "id": 172528,
+      "name": "Siliştea"
+    },
+    {
+      "id": 172529,
+      "name": "Siliștea Gumești"
+    },
+    {
+      "id": 172530,
+      "name": "Slobozia-Mândra"
+    },
+    {
+      "id": 172531,
+      "name": "Smârdioasa"
+    },
+    {
+      "id": 172532,
+      "name": "Socetu"
+    },
+    {
+      "id": 172533,
+      "name": "Spătărei"
+    },
+    {
+      "id": 172534,
+      "name": "Stejaru"
+    },
+    {
+      "id": 172535,
+      "name": "Storobăneasa"
+    },
+    {
+      "id": 172536,
+      "name": "Suhaia"
+    },
+    {
+      "id": 172537,
+      "name": "Talpa-Ogrăzile"
+    },
+    {
+      "id": 172538,
+      "name": "Talpa-Trivalea"
+    },
+    {
+      "id": 172539,
+      "name": "Târnava"
+    },
+    {
+      "id": 172540,
+      "name": "Tătărăștii de Jos"
+    },
+    {
+      "id": 172541,
+      "name": "Tătărăștii de Sus"
+    },
+    {
+      "id": 172542,
+      "name": "Tecuci"
+    },
+    {
+      "id": 172543,
+      "name": "Teleormanu"
+    },
+    {
+      "id": 172544,
+      "name": "Ţigăneşti"
+    },
+    {
+      "id": 172545,
+      "name": "Traian"
+    },
+    {
+      "id": 172546,
+      "name": "Trivalea-Moşteni"
+    },
+    {
+      "id": 172547,
+      "name": "Troianul"
+    },
+    {
+      "id": 172548,
+      "name": "Tudor Vladimirescu"
+    },
+    {
+      "id": 172549,
+      "name": "Turnu Măgurele"
+    },
+    {
+      "id": 172550,
+      "name": "Uda-Clocociov"
+    },
+    {
+      "id": 172551,
+      "name": "Uda-Paciurea"
+    },
+    {
+      "id": 172552,
+      "name": "Udupu"
+    },
+    {
+      "id": 172553,
+      "name": "Valea Cireșului"
+    },
+    {
+      "id": 172554,
+      "name": "Valea Părului"
+    },
+    {
+      "id": 172555,
+      "name": "Vârtoapele de Jos"
+    },
+    {
+      "id": 172556,
+      "name": "Vârtoapele de Sus"
+    },
+    {
+      "id": 172557,
+      "name": "Vedea"
+    },
+    {
+      "id": 172558,
+      "name": "Videle"
+    },
+    {
+      "id": 172559,
+      "name": "Viişoara"
+    },
+    {
+      "id": 172560,
+      "name": "Vităneşti"
+    },
+    {
+      "id": 172561,
+      "name": "Zâmbreasca"
+    },
+    {
+      "id": 172562,
+      "name": "Zimnicea"
+    },
+    {
+      "id": 172563,
+      "name": "Zimnicele"
+    }
+  ]
+}

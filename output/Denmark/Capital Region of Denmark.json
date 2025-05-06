@@ -1,0 +1,355 @@
+{
+  "id": 3575,
+  "name": "Capital Region of Denmark",
+  "state_code": "84",
+  "cities": [
+    {
+      "id": 95583,
+      "name": "Åkirkeby"
+    },
+    {
+      "id": 95584,
+      "name": "Albertslund"
+    },
+    {
+      "id": 95585,
+      "name": "Albertslund Kommune"
+    },
+    {
+      "id": 95586,
+      "name": "Allerød Kommune"
+    },
+    {
+      "id": 95587,
+      "name": "Ballerup"
+    },
+    {
+      "id": 95588,
+      "name": "Ballerup Kommune"
+    },
+    {
+      "id": 95589,
+      "name": "Birkerød"
+    },
+    {
+      "id": 95590,
+      "name": "Blovstrød"
+    },
+    {
+      "id": 95591,
+      "name": "Bornholm Kommune"
+    },
+    {
+      "id": 95592,
+      "name": "Brøndby Kommune"
+    },
+    {
+      "id": 95593,
+      "name": "Charlottenlund"
+    },
+    {
+      "id": 95594,
+      "name": "Christianshavn"
+    },
+    {
+      "id": 95595,
+      "name": "Christiansø"
+    },
+    {
+      "id": 95596,
+      "name": "Copenhagen"
+    },
+    {
+      "id": 95597,
+      "name": "Dragør"
+    },
+    {
+      "id": 95598,
+      "name": "Dragør Kommune"
+    },
+    {
+      "id": 95599,
+      "name": "Egedal Kommune"
+    },
+    {
+      "id": 95600,
+      "name": "Espergærde"
+    },
+    {
+      "id": 95601,
+      "name": "Farum"
+    },
+    {
+      "id": 95602,
+      "name": "Fløng"
+    },
+    {
+      "id": 95603,
+      "name": "Fredensborg"
+    },
+    {
+      "id": 95604,
+      "name": "Fredensborg Kommune"
+    },
+    {
+      "id": 95605,
+      "name": "Frederiksberg"
+    },
+    {
+      "id": 95606,
+      "name": "Frederiksberg Kommune"
+    },
+    {
+      "id": 95607,
+      "name": "Frederikssund"
+    },
+    {
+      "id": 95608,
+      "name": "Frederikssund Kommune"
+    },
+    {
+      "id": 95609,
+      "name": "Frederiksværk"
+    },
+    {
+      "id": 95610,
+      "name": "Furesø Kommune"
+    },
+    {
+      "id": 95611,
+      "name": "Ganløse"
+    },
+    {
+      "id": 95612,
+      "name": "Gentofte Kommune"
+    },
+    {
+      "id": 95613,
+      "name": "Gilleleje"
+    },
+    {
+      "id": 95614,
+      "name": "Gladsaxe Municipality"
+    },
+    {
+      "id": 95615,
+      "name": "Glostrup"
+    },
+    {
+      "id": 95616,
+      "name": "Glostrup Kommune"
+    },
+    {
+      "id": 95617,
+      "name": "Græsted"
+    },
+    {
+      "id": 95618,
+      "name": "Gribskov Kommune"
+    },
+    {
+      "id": 95619,
+      "name": "Halsnæs Kommune"
+    },
+    {
+      "id": 95620,
+      "name": "Hedehusene"
+    },
+    {
+      "id": 95621,
+      "name": "Hellebæk"
+    },
+    {
+      "id": 95622,
+      "name": "Helsinge"
+    },
+    {
+      "id": 95623,
+      "name": "Helsingør"
+    },
+    {
+      "id": 95624,
+      "name": "Helsingør Kommune"
+    },
+    {
+      "id": 95625,
+      "name": "Herlev Kommune"
+    },
+    {
+      "id": 95626,
+      "name": "Hillerød"
+    },
+    {
+      "id": 95627,
+      "name": "Hillerød Kommune"
+    },
+    {
+      "id": 95628,
+      "name": "Hornbæk"
+    },
+    {
+      "id": 95629,
+      "name": "Høje-Taastrup Kommune"
+    },
+    {
+      "id": 95630,
+      "name": "Hørsholm"
+    },
+    {
+      "id": 95631,
+      "name": "Hørsholm Kommune"
+    },
+    {
+      "id": 95632,
+      "name": "Humlebæk"
+    },
+    {
+      "id": 95633,
+      "name": "Hundested"
+    },
+    {
+      "id": 95634,
+      "name": "Hvidovre"
+    },
+    {
+      "id": 95635,
+      "name": "Hvidovre Kommune"
+    },
+    {
+      "id": 95636,
+      "name": "Ishøj"
+    },
+    {
+      "id": 95637,
+      "name": "Ishøj Kommune"
+    },
+    {
+      "id": 95638,
+      "name": "Jægerspris"
+    },
+    {
+      "id": 95639,
+      "name": "Kokkedal"
+    },
+    {
+      "id": 95640,
+      "name": "Kongens Lyngby"
+    },
+    {
+      "id": 95641,
+      "name": "København"
+    },
+    {
+      "id": 95642,
+      "name": "Lillerød"
+    },
+    {
+      "id": 95643,
+      "name": "Liseleje"
+    },
+    {
+      "id": 95644,
+      "name": "Lyngby-Tårbæk Kommune"
+    },
+    {
+      "id": 95645,
+      "name": "Lynge"
+    },
+    {
+      "id": 95646,
+      "name": "Måløv"
+    },
+    {
+      "id": 95647,
+      "name": "Nexø"
+    },
+    {
+      "id": 95648,
+      "name": "Nivå"
+    },
+    {
+      "id": 95649,
+      "name": "Nødebo"
+    },
+    {
+      "id": 95650,
+      "name": "Ølstykke"
+    },
+    {
+      "id": 95651,
+      "name": "Rødovre"
+    },
+    {
+      "id": 95652,
+      "name": "Rødovre Kommune"
+    },
+    {
+      "id": 95653,
+      "name": "Rønne"
+    },
+    {
+      "id": 95654,
+      "name": "Rudersdal Kommune"
+    },
+    {
+      "id": 95655,
+      "name": "Skævinge"
+    },
+    {
+      "id": 95656,
+      "name": "Skibby"
+    },
+    {
+      "id": 95657,
+      "name": "Slangerup"
+    },
+    {
+      "id": 95658,
+      "name": "Smørumnedre"
+    },
+    {
+      "id": 95659,
+      "name": "Stavnsholt"
+    },
+    {
+      "id": 95660,
+      "name": "Stenløse"
+    },
+    {
+      "id": 95661,
+      "name": "Taastrup"
+    },
+    {
+      "id": 95662,
+      "name": "Tårnby"
+    },
+    {
+      "id": 95663,
+      "name": "Tårnby Kommune"
+    },
+    {
+      "id": 95664,
+      "name": "Trørød"
+    },
+    {
+      "id": 95665,
+      "name": "Vallensbæk Kommune"
+    },
+    {
+      "id": 95666,
+      "name": "Vallensbæk Strand"
+    },
+    {
+      "id": 95667,
+      "name": "Vanløse"
+    },
+    {
+      "id": 95668,
+      "name": "Værløse"
+    },
+    {
+      "id": 95669,
+      "name": "Veksø"
+    }
+  ]
+}

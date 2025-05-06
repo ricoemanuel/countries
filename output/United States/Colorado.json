@@ -1,0 +1,1163 @@
+{
+  "id": 7434,
+  "name": "Colorado",
+  "state_code": "CO",
+  "cities": [
+    {
+      "id": 203811,
+      "name": "Acres Green"
+    },
+    {
+      "id": 203812,
+      "name": "Adams County"
+    },
+    {
+      "id": 203813,
+      "name": "Air Force Academy"
+    },
+    {
+      "id": 203814,
+      "name": "Akron"
+    },
+    {
+      "id": 203815,
+      "name": "Alamosa"
+    },
+    {
+      "id": 203816,
+      "name": "Alamosa County"
+    },
+    {
+      "id": 203817,
+      "name": "Alamosa East"
+    },
+    {
+      "id": 203818,
+      "name": "Applewood"
+    },
+    {
+      "id": 203819,
+      "name": "Arapahoe County"
+    },
+    {
+      "id": 203820,
+      "name": "Archuleta County"
+    },
+    {
+      "id": 203821,
+      "name": "Aristocrat Ranchettes"
+    },
+    {
+      "id": 203822,
+      "name": "Arvada"
+    },
+    {
+      "id": 203823,
+      "name": "Aspen"
+    },
+    {
+      "id": 203824,
+      "name": "Ault"
+    },
+    {
+      "id": 203825,
+      "name": "Aurora"
+    },
+    {
+      "id": 203826,
+      "name": "Avon"
+    },
+    {
+      "id": 203827,
+      "name": "Baca County"
+    },
+    {
+      "id": 203828,
+      "name": "Basalt"
+    },
+    {
+      "id": 203829,
+      "name": "Battlement Mesa"
+    },
+    {
+      "id": 203830,
+      "name": "Bayfield"
+    },
+    {
+      "id": 203831,
+      "name": "Bennett"
+    },
+    {
+      "id": 203832,
+      "name": "Bent County"
+    },
+    {
+      "id": 203833,
+      "name": "Berkley"
+    },
+    {
+      "id": 203834,
+      "name": "Berthoud"
+    },
+    {
+      "id": 203835,
+      "name": "Black Forest"
+    },
+    {
+      "id": 203836,
+      "name": "Boulder"
+    },
+    {
+      "id": 203837,
+      "name": "Boulder County"
+    },
+    {
+      "id": 203838,
+      "name": "Breckenridge"
+    },
+    {
+      "id": 203839,
+      "name": "Brighton"
+    },
+    {
+      "id": 203840,
+      "name": "Broomfield"
+    },
+    {
+      "id": 203841,
+      "name": "Broomfield County"
+    },
+    {
+      "id": 203842,
+      "name": "Brush"
+    },
+    {
+      "id": 203843,
+      "name": "Buena Vista"
+    },
+    {
+      "id": 203844,
+      "name": "Burlington"
+    },
+    {
+      "id": 203845,
+      "name": "Byers"
+    },
+    {
+      "id": 203846,
+      "name": "Campion"
+    },
+    {
+      "id": 203847,
+      "name": "Cañon City"
+    },
+    {
+      "id": 203848,
+      "name": "Carbondale"
+    },
+    {
+      "id": 203849,
+      "name": "Carriage Club"
+    },
+    {
+      "id": 203850,
+      "name": "Cascade-Chipita Park"
+    },
+    {
+      "id": 203851,
+      "name": "Castle Pines"
+    },
+    {
+      "id": 203852,
+      "name": "Castle Pines North"
+    },
+    {
+      "id": 203853,
+      "name": "Castle Rock"
+    },
+    {
+      "id": 203854,
+      "name": "Castlewood"
+    },
+    {
+      "id": 203855,
+      "name": "Cedaredge"
+    },
+    {
+      "id": 203856,
+      "name": "Centennial"
+    },
+    {
+      "id": 203857,
+      "name": "Center"
+    },
+    {
+      "id": 203858,
+      "name": "Central City"
+    },
+    {
+      "id": 203859,
+      "name": "Chaffee County"
+    },
+    {
+      "id": 203860,
+      "name": "Cherry Creek"
+    },
+    {
+      "id": 203861,
+      "name": "Cherry Hills Village"
+    },
+    {
+      "id": 203862,
+      "name": "Cheyenne County"
+    },
+    {
+      "id": 203863,
+      "name": "Cheyenne Wells"
+    },
+    {
+      "id": 203864,
+      "name": "Cimarron Hills"
+    },
+    {
+      "id": 203865,
+      "name": "Clear Creek County"
+    },
+    {
+      "id": 203866,
+      "name": "Clifton"
+    },
+    {
+      "id": 203867,
+      "name": "Coal Creek"
+    },
+    {
+      "id": 203868,
+      "name": "Colorado City"
+    },
+    {
+      "id": 203869,
+      "name": "Colorado Springs"
+    },
+    {
+      "id": 203870,
+      "name": "Columbine"
+    },
+    {
+      "id": 203871,
+      "name": "Columbine Valley"
+    },
+    {
+      "id": 203872,
+      "name": "Commerce City"
+    },
+    {
+      "id": 203873,
+      "name": "Conejos"
+    },
+    {
+      "id": 203874,
+      "name": "Conejos County"
+    },
+    {
+      "id": 203875,
+      "name": "Cortez"
+    },
+    {
+      "id": 203876,
+      "name": "Costilla County"
+    },
+    {
+      "id": 203877,
+      "name": "Craig"
+    },
+    {
+      "id": 203878,
+      "name": "Creede"
+    },
+    {
+      "id": 203879,
+      "name": "Crested Butte"
+    },
+    {
+      "id": 203880,
+      "name": "Cripple Creek"
+    },
+    {
+      "id": 203881,
+      "name": "Crowley County"
+    },
+    {
+      "id": 203882,
+      "name": "Custer County"
+    },
+    {
+      "id": 203883,
+      "name": "Dacono"
+    },
+    {
+      "id": 203884,
+      "name": "Del Norte"
+    },
+    {
+      "id": 203885,
+      "name": "Delta"
+    },
+    {
+      "id": 203886,
+      "name": "Delta County"
+    },
+    {
+      "id": 203887,
+      "name": "Denver"
+    },
+    {
+      "id": 203888,
+      "name": "Denver County"
+    },
+    {
+      "id": 203889,
+      "name": "Derby"
+    },
+    {
+      "id": 203890,
+      "name": "Dolores County"
+    },
+    {
+      "id": 203891,
+      "name": "Douglas County"
+    },
+    {
+      "id": 203892,
+      "name": "Dove Creek"
+    },
+    {
+      "id": 203893,
+      "name": "Dove Valley"
+    },
+    {
+      "id": 203894,
+      "name": "Durango"
+    },
+    {
+      "id": 203895,
+      "name": "Eads"
+    },
+    {
+      "id": 203896,
+      "name": "Eagle"
+    },
+    {
+      "id": 203897,
+      "name": "Eagle County"
+    },
+    {
+      "id": 203898,
+      "name": "Eaton"
+    },
+    {
+      "id": 203899,
+      "name": "Edgewater"
+    },
+    {
+      "id": 203900,
+      "name": "Edwards"
+    },
+    {
+      "id": 203901,
+      "name": "El Jebel"
+    },
+    {
+      "id": 203902,
+      "name": "El Paso County"
+    },
+    {
+      "id": 203903,
+      "name": "Elbert County"
+    },
+    {
+      "id": 203904,
+      "name": "Elizabeth"
+    },
+    {
+      "id": 203905,
+      "name": "Ellicott"
+    },
+    {
+      "id": 203906,
+      "name": "Englewood"
+    },
+    {
+      "id": 203907,
+      "name": "Erie"
+    },
+    {
+      "id": 203908,
+      "name": "Estes Park"
+    },
+    {
+      "id": 203909,
+      "name": "Evans"
+    },
+    {
+      "id": 203910,
+      "name": "Evergreen"
+    },
+    {
+      "id": 203911,
+      "name": "Fairplay"
+    },
+    {
+      "id": 203912,
+      "name": "Federal Heights"
+    },
+    {
+      "id": 203913,
+      "name": "Firestone"
+    },
+    {
+      "id": 203914,
+      "name": "Florence"
+    },
+    {
+      "id": 203915,
+      "name": "Fort Carson"
+    },
+    {
+      "id": 203916,
+      "name": "Fort Collins"
+    },
+    {
+      "id": 203917,
+      "name": "Fort Lupton"
+    },
+    {
+      "id": 203918,
+      "name": "Fort Morgan"
+    },
+    {
+      "id": 203919,
+      "name": "Fountain"
+    },
+    {
+      "id": 203920,
+      "name": "Fowler"
+    },
+    {
+      "id": 203921,
+      "name": "Fraser"
+    },
+    {
+      "id": 203922,
+      "name": "Frederick"
+    },
+    {
+      "id": 203923,
+      "name": "Fremont County"
+    },
+    {
+      "id": 203924,
+      "name": "Frisco"
+    },
+    {
+      "id": 203925,
+      "name": "Fruita"
+    },
+    {
+      "id": 203926,
+      "name": "Fruitvale"
+    },
+    {
+      "id": 203927,
+      "name": "Garfield County"
+    },
+    {
+      "id": 203928,
+      "name": "Genesee"
+    },
+    {
+      "id": 203929,
+      "name": "Georgetown"
+    },
+    {
+      "id": 203930,
+      "name": "Gilcrest"
+    },
+    {
+      "id": 203931,
+      "name": "Gilpin County"
+    },
+    {
+      "id": 203932,
+      "name": "Glendale"
+    },
+    {
+      "id": 203933,
+      "name": "Gleneagle"
+    },
+    {
+      "id": 203934,
+      "name": "Glenwood Springs"
+    },
+    {
+      "id": 203935,
+      "name": "Golden"
+    },
+    {
+      "id": 203936,
+      "name": "Granby"
+    },
+    {
+      "id": 203937,
+      "name": "Grand County"
+    },
+    {
+      "id": 203938,
+      "name": "Grand Junction"
+    },
+    {
+      "id": 203939,
+      "name": "Greeley"
+    },
+    {
+      "id": 203940,
+      "name": "Greenwood Village"
+    },
+    {
+      "id": 203941,
+      "name": "Gunbarrel"
+    },
+    {
+      "id": 203942,
+      "name": "Gunnison"
+    },
+    {
+      "id": 203943,
+      "name": "Gunnison County"
+    },
+    {
+      "id": 203944,
+      "name": "Gypsum"
+    },
+    {
+      "id": 203945,
+      "name": "Hayden"
+    },
+    {
+      "id": 203946,
+      "name": "Highlands Ranch"
+    },
+    {
+      "id": 203947,
+      "name": "Hinsdale County"
+    },
+    {
+      "id": 203948,
+      "name": "Holly Hills"
+    },
+    {
+      "id": 203949,
+      "name": "Holyoke"
+    },
+    {
+      "id": 203950,
+      "name": "Hot Sulphur Springs"
+    },
+    {
+      "id": 203951,
+      "name": "Hudson"
+    },
+    {
+      "id": 203952,
+      "name": "Huerfano County"
+    },
+    {
+      "id": 203953,
+      "name": "Hugo"
+    },
+    {
+      "id": 203954,
+      "name": "Idaho Springs"
+    },
+    {
+      "id": 203955,
+      "name": "Indian Hills"
+    },
+    {
+      "id": 203956,
+      "name": "Inverness"
+    },
+    {
+      "id": 203957,
+      "name": "Jackson County"
+    },
+    {
+      "id": 203958,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 203959,
+      "name": "Johnstown"
+    },
+    {
+      "id": 203960,
+      "name": "Julesburg"
+    },
+    {
+      "id": 203961,
+      "name": "Keenesburg"
+    },
+    {
+      "id": 203962,
+      "name": "Ken Caryl"
+    },
+    {
+      "id": 203963,
+      "name": "Kersey"
+    },
+    {
+      "id": 203964,
+      "name": "Keystone"
+    },
+    {
+      "id": 203965,
+      "name": "Kiowa"
+    },
+    {
+      "id": 203966,
+      "name": "Kiowa County"
+    },
+    {
+      "id": 203967,
+      "name": "Kit Carson County"
+    },
+    {
+      "id": 203968,
+      "name": "Kittredge"
+    },
+    {
+      "id": 203969,
+      "name": "Kremmling"
+    },
+    {
+      "id": 203970,
+      "name": "La Junta"
+    },
+    {
+      "id": 203971,
+      "name": "La Plata County"
+    },
+    {
+      "id": 203972,
+      "name": "La Salle"
+    },
+    {
+      "id": 203973,
+      "name": "Lafayette"
+    },
+    {
+      "id": 203974,
+      "name": "Lake City"
+    },
+    {
+      "id": 203975,
+      "name": "Lake County"
+    },
+    {
+      "id": 203976,
+      "name": "Lakewood"
+    },
+    {
+      "id": 203977,
+      "name": "Lamar"
+    },
+    {
+      "id": 203978,
+      "name": "Laporte"
+    },
+    {
+      "id": 203979,
+      "name": "Larimer County"
+    },
+    {
+      "id": 203980,
+      "name": "Las Animas"
+    },
+    {
+      "id": 203981,
+      "name": "Las Animas County"
+    },
+    {
+      "id": 203982,
+      "name": "Leadville"
+    },
+    {
+      "id": 203983,
+      "name": "Leadville North"
+    },
+    {
+      "id": 203984,
+      "name": "Limon"
+    },
+    {
+      "id": 203985,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 203986,
+      "name": "Lincoln Park"
+    },
+    {
+      "id": 203987,
+      "name": "Littleton"
+    },
+    {
+      "id": 203988,
+      "name": "Lochbuie"
+    },
+    {
+      "id": 203989,
+      "name": "Logan County"
+    },
+    {
+      "id": 203990,
+      "name": "Loma"
+    },
+    {
+      "id": 203991,
+      "name": "Lone Tree"
+    },
+    {
+      "id": 203992,
+      "name": "Longmont"
+    },
+    {
+      "id": 203993,
+      "name": "Louisville"
+    },
+    {
+      "id": 203994,
+      "name": "Loveland"
+    },
+    {
+      "id": 203995,
+      "name": "Lyons"
+    },
+    {
+      "id": 203996,
+      "name": "Mancos"
+    },
+    {
+      "id": 203997,
+      "name": "Manitou Springs"
+    },
+    {
+      "id": 203998,
+      "name": "Mead"
+    },
+    {
+      "id": 203999,
+      "name": "Meeker"
+    },
+    {
+      "id": 204000,
+      "name": "Meridian"
+    },
+    {
+      "id": 204001,
+      "name": "Mesa County"
+    },
+    {
+      "id": 204002,
+      "name": "Milliken"
+    },
+    {
+      "id": 204003,
+      "name": "Mineral County"
+    },
+    {
+      "id": 204004,
+      "name": "Minturn"
+    },
+    {
+      "id": 204005,
+      "name": "Moffat County"
+    },
+    {
+      "id": 204006,
+      "name": "Monte Vista"
+    },
+    {
+      "id": 204007,
+      "name": "Montezuma County"
+    },
+    {
+      "id": 204008,
+      "name": "Montrose"
+    },
+    {
+      "id": 204009,
+      "name": "Montrose County"
+    },
+    {
+      "id": 204010,
+      "name": "Monument"
+    },
+    {
+      "id": 204011,
+      "name": "Morgan County"
+    },
+    {
+      "id": 204012,
+      "name": "Mountain Village"
+    },
+    {
+      "id": 204013,
+      "name": "Nederland"
+    },
+    {
+      "id": 204014,
+      "name": "New Castle"
+    },
+    {
+      "id": 204015,
+      "name": "Niwot"
+    },
+    {
+      "id": 204016,
+      "name": "Northglenn"
+    },
+    {
+      "id": 204017,
+      "name": "Olathe"
+    },
+    {
+      "id": 204018,
+      "name": "Orchard City"
+    },
+    {
+      "id": 204019,
+      "name": "Orchard Mesa"
+    },
+    {
+      "id": 204020,
+      "name": "Ordway"
+    },
+    {
+      "id": 204021,
+      "name": "Otero County"
+    },
+    {
+      "id": 204022,
+      "name": "Ouray"
+    },
+    {
+      "id": 204023,
+      "name": "Ouray County"
+    },
+    {
+      "id": 204024,
+      "name": "Pagosa Springs"
+    },
+    {
+      "id": 204025,
+      "name": "Palisade"
+    },
+    {
+      "id": 204026,
+      "name": "Palmer Lake"
+    },
+    {
+      "id": 204027,
+      "name": "Paonia"
+    },
+    {
+      "id": 204028,
+      "name": "Parachute"
+    },
+    {
+      "id": 204029,
+      "name": "Park County"
+    },
+    {
+      "id": 204030,
+      "name": "Parker"
+    },
+    {
+      "id": 204031,
+      "name": "Penrose"
+    },
+    {
+      "id": 204032,
+      "name": "Perry Park"
+    },
+    {
+      "id": 204033,
+      "name": "Phillips County"
+    },
+    {
+      "id": 204034,
+      "name": "Pitkin County"
+    },
+    {
+      "id": 204035,
+      "name": "Platteville"
+    },
+    {
+      "id": 204036,
+      "name": "Ponderosa Park"
+    },
+    {
+      "id": 204037,
+      "name": "Prowers County"
+    },
+    {
+      "id": 204038,
+      "name": "Pueblo"
+    },
+    {
+      "id": 204039,
+      "name": "Pueblo County"
+    },
+    {
+      "id": 204040,
+      "name": "Pueblo West"
+    },
+    {
+      "id": 204041,
+      "name": "Rangely"
+    },
+    {
+      "id": 204042,
+      "name": "Redlands"
+    },
+    {
+      "id": 204043,
+      "name": "Rifle"
+    },
+    {
+      "id": 204044,
+      "name": "Rio Blanco County"
+    },
+    {
+      "id": 204045,
+      "name": "Rio Grande County"
+    },
+    {
+      "id": 204046,
+      "name": "Rocky Ford"
+    },
+    {
+      "id": 204047,
+      "name": "Routt County"
+    },
+    {
+      "id": 204048,
+      "name": "Roxborough Park"
+    },
+    {
+      "id": 204049,
+      "name": "Saguache"
+    },
+    {
+      "id": 204050,
+      "name": "Saguache County"
+    },
+    {
+      "id": 204051,
+      "name": "Salida"
+    },
+    {
+      "id": 204052,
+      "name": "San Juan County"
+    },
+    {
+      "id": 204053,
+      "name": "San Luis"
+    },
+    {
+      "id": 204054,
+      "name": "San Miguel County"
+    },
+    {
+      "id": 204055,
+      "name": "Security-Widefield"
+    },
+    {
+      "id": 204056,
+      "name": "Sedgwick County"
+    },
+    {
+      "id": 204057,
+      "name": "Severance"
+    },
+    {
+      "id": 204058,
+      "name": "Shaw Heights"
+    },
+    {
+      "id": 204059,
+      "name": "Sheridan"
+    },
+    {
+      "id": 204060,
+      "name": "Sherrelwood"
+    },
+    {
+      "id": 204061,
+      "name": "Silt"
+    },
+    {
+      "id": 204062,
+      "name": "Silverthorne"
+    },
+    {
+      "id": 204063,
+      "name": "Silverton"
+    },
+    {
+      "id": 204064,
+      "name": "Snowmass Village"
+    },
+    {
+      "id": 204065,
+      "name": "Southglenn"
+    },
+    {
+      "id": 204066,
+      "name": "Springfield"
+    },
+    {
+      "id": 204067,
+      "name": "Steamboat Springs"
+    },
+    {
+      "id": 204068,
+      "name": "Sterling"
+    },
+    {
+      "id": 204069,
+      "name": "Stonegate"
+    },
+    {
+      "id": 204070,
+      "name": "Strasburg"
+    },
+    {
+      "id": 204071,
+      "name": "Stratmoor"
+    },
+    {
+      "id": 204072,
+      "name": "Summit County"
+    },
+    {
+      "id": 204073,
+      "name": "Superior"
+    },
+    {
+      "id": 204074,
+      "name": "Teller County"
+    },
+    {
+      "id": 204075,
+      "name": "Telluride"
+    },
+    {
+      "id": 204076,
+      "name": "The Pinery"
+    },
+    {
+      "id": 204077,
+      "name": "Thornton"
+    },
+    {
+      "id": 204078,
+      "name": "Todd Creek"
+    },
+    {
+      "id": 204079,
+      "name": "Towaoc"
+    },
+    {
+      "id": 204080,
+      "name": "Trinidad"
+    },
+    {
+      "id": 204081,
+      "name": "Twin Lakes"
+    },
+    {
+      "id": 204082,
+      "name": "Upper Bear Creek"
+    },
+    {
+      "id": 204083,
+      "name": "Vail"
+    },
+    {
+      "id": 204084,
+      "name": "Walden"
+    },
+    {
+      "id": 204085,
+      "name": "Walsenburg"
+    },
+    {
+      "id": 204086,
+      "name": "Washington County"
+    },
+    {
+      "id": 204087,
+      "name": "Welby"
+    },
+    {
+      "id": 204088,
+      "name": "Weld County"
+    },
+    {
+      "id": 204089,
+      "name": "Wellington"
+    },
+    {
+      "id": 204090,
+      "name": "West Pleasant View"
+    },
+    {
+      "id": 204091,
+      "name": "Westcliffe"
+    },
+    {
+      "id": 204092,
+      "name": "Westminster"
+    },
+    {
+      "id": 204093,
+      "name": "Wheat Ridge"
+    },
+    {
+      "id": 204094,
+      "name": "Windsor"
+    },
+    {
+      "id": 204095,
+      "name": "Woodland Park"
+    },
+    {
+      "id": 204096,
+      "name": "Woodmoor"
+    },
+    {
+      "id": 204097,
+      "name": "Wray"
+    },
+    {
+      "id": 204098,
+      "name": "Yuma"
+    },
+    {
+      "id": 204099,
+      "name": "Yuma County"
+    }
+  ]
+}

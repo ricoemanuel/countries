@@ -1,0 +1,331 @@
+{
+  "id": 5831,
+  "name": "Podlaskie",
+  "state_code": "20",
+  "cities": [
+    {
+      "id": 162855,
+      "name": "Augustów"
+    },
+    {
+      "id": 162856,
+      "name": "Białowieża"
+    },
+    {
+      "id": 162857,
+      "name": "Białystok"
+    },
+    {
+      "id": 162858,
+      "name": "Bielsk Podlaski"
+    },
+    {
+      "id": 162859,
+      "name": "Boćki"
+    },
+    {
+      "id": 162860,
+      "name": "Brańsk"
+    },
+    {
+      "id": 162861,
+      "name": "Choroszcz"
+    },
+    {
+      "id": 162862,
+      "name": "Ciechanowiec"
+    },
+    {
+      "id": 162863,
+      "name": "Czarna Białostocka"
+    },
+    {
+      "id": 162864,
+      "name": "Czeremcha"
+    },
+    {
+      "id": 162865,
+      "name": "Czyżew"
+    },
+    {
+      "id": 162866,
+      "name": "Dąbrowa Białostocka"
+    },
+    {
+      "id": 162867,
+      "name": "Dobrzyniewo Duże"
+    },
+    {
+      "id": 162868,
+      "name": "Drohiczyn"
+    },
+    {
+      "id": 162869,
+      "name": "Filipów"
+    },
+    {
+      "id": 162870,
+      "name": "Goniadz"
+    },
+    {
+      "id": 162871,
+      "name": "Grajewo"
+    },
+    {
+      "id": 162872,
+      "name": "Grudki"
+    },
+    {
+      "id": 162873,
+      "name": "Hajnówka"
+    },
+    {
+      "id": 162874,
+      "name": "Jedwabne"
+    },
+    {
+      "id": 162875,
+      "name": "Kleszczele"
+    },
+    {
+      "id": 162876,
+      "name": "Knyszyn"
+    },
+    {
+      "id": 162877,
+      "name": "Kolno"
+    },
+    {
+      "id": 162878,
+      "name": "Krasnopol"
+    },
+    {
+      "id": 162879,
+      "name": "Krynki"
+    },
+    {
+      "id": 162880,
+      "name": "Kuźnica"
+    },
+    {
+      "id": 162881,
+      "name": "Lipsk"
+    },
+    {
+      "id": 162882,
+      "name": "Łapy"
+    },
+    {
+      "id": 162883,
+      "name": "Łomża"
+    },
+    {
+      "id": 162884,
+      "name": "Mały Płock"
+    },
+    {
+      "id": 162885,
+      "name": "Michałowo"
+    },
+    {
+      "id": 162886,
+      "name": "Milejczyce"
+    },
+    {
+      "id": 162887,
+      "name": "Mońki"
+    },
+    {
+      "id": 162888,
+      "name": "Narew"
+    },
+    {
+      "id": 162889,
+      "name": "Nowogród"
+    },
+    {
+      "id": 162890,
+      "name": "Nurzec-Stacja"
+    },
+    {
+      "id": 162891,
+      "name": "Orla"
+    },
+    {
+      "id": 162892,
+      "name": "Piątnica"
+    },
+    {
+      "id": 162893,
+      "name": "Powiat augustowski"
+    },
+    {
+      "id": 162894,
+      "name": "Powiat białostocki"
+    },
+    {
+      "id": 162895,
+      "name": "Powiat bielski"
+    },
+    {
+      "id": 162896,
+      "name": "Powiat grajewski"
+    },
+    {
+      "id": 162897,
+      "name": "Powiat hajnowski"
+    },
+    {
+      "id": 162898,
+      "name": "Powiat kolneński"
+    },
+    {
+      "id": 162899,
+      "name": "Powiat łomżyński"
+    },
+    {
+      "id": 162900,
+      "name": "Powiat moniecki"
+    },
+    {
+      "id": 162901,
+      "name": "Powiat sejneński"
+    },
+    {
+      "id": 162902,
+      "name": "Powiat siemiatycki"
+    },
+    {
+      "id": 162903,
+      "name": "Powiat sokólski"
+    },
+    {
+      "id": 162904,
+      "name": "Powiat suwalski"
+    },
+    {
+      "id": 162905,
+      "name": "Powiat wysokomazowiecki"
+    },
+    {
+      "id": 162906,
+      "name": "Powiat zambrowski"
+    },
+    {
+      "id": 162907,
+      "name": "Puńsk"
+    },
+    {
+      "id": 162908,
+      "name": "Raczki"
+    },
+    {
+      "id": 162909,
+      "name": "Radziłów"
+    },
+    {
+      "id": 162910,
+      "name": "Rajgród"
+    },
+    {
+      "id": 162911,
+      "name": "Rudka"
+    },
+    {
+      "id": 162912,
+      "name": "Rutki-Kossaki"
+    },
+    {
+      "id": 162913,
+      "name": "Sejny"
+    },
+    {
+      "id": 162914,
+      "name": "Siemiatycze"
+    },
+    {
+      "id": 162915,
+      "name": "Śniadowo"
+    },
+    {
+      "id": 162916,
+      "name": "Sokółka"
+    },
+    {
+      "id": 162917,
+      "name": "Sokoły"
+    },
+    {
+      "id": 162918,
+      "name": "Stawiski"
+    },
+    {
+      "id": 162919,
+      "name": "Suchowola"
+    },
+    {
+      "id": 162920,
+      "name": "Supraśl"
+    },
+    {
+      "id": 162921,
+      "name": "Suraż"
+    },
+    {
+      "id": 162922,
+      "name": "Suwałki"
+    },
+    {
+      "id": 162923,
+      "name": "Szczuczyn"
+    },
+    {
+      "id": 162924,
+      "name": "Szepietowo"
+    },
+    {
+      "id": 162925,
+      "name": "Szumowo"
+    },
+    {
+      "id": 162926,
+      "name": "Turośń Kościelna"
+    },
+    {
+      "id": 162927,
+      "name": "Tykocin"
+    },
+    {
+      "id": 162928,
+      "name": "Wasilków"
+    },
+    {
+      "id": 162929,
+      "name": "Wąsosz"
+    },
+    {
+      "id": 162930,
+      "name": "Wizna"
+    },
+    {
+      "id": 162931,
+      "name": "Wysokie Mazowieckie"
+    },
+    {
+      "id": 162932,
+      "name": "Wyszki"
+    },
+    {
+      "id": 162933,
+      "name": "Zabłudów"
+    },
+    {
+      "id": 162934,
+      "name": "Zambrów"
+    },
+    {
+      "id": 162935,
+      "name": "Zbójna"
+    }
+  ]
+}

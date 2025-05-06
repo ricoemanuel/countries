@@ -1,0 +1,1775 @@
+{
+  "id": 5138,
+  "name": "Michoacán de Ocampo",
+  "state_code": "MIC",
+  "cities": [
+    {
+      "id": 143282,
+      "name": "Acuitzio"
+    },
+    {
+      "id": 143283,
+      "name": "Acuítzio del Canje"
+    },
+    {
+      "id": 143284,
+      "name": "Agostitlán"
+    },
+    {
+      "id": 143285,
+      "name": "Agua Caliente"
+    },
+    {
+      "id": 143286,
+      "name": "Aguililla"
+    },
+    {
+      "id": 143287,
+      "name": "Ahuirán"
+    },
+    {
+      "id": 143288,
+      "name": "Ajuno"
+    },
+    {
+      "id": 143289,
+      "name": "Álvaro Obregón"
+    },
+    {
+      "id": 143290,
+      "name": "Angahuán"
+    },
+    {
+      "id": 143291,
+      "name": "Angamacutiro de la Unión"
+    },
+    {
+      "id": 143292,
+      "name": "Ansihuacuaro"
+    },
+    {
+      "id": 143293,
+      "name": "Antúnez"
+    },
+    {
+      "id": 143294,
+      "name": "Antúnez (Morelos)"
+    },
+    {
+      "id": 143295,
+      "name": "Apatzingán"
+    },
+    {
+      "id": 143296,
+      "name": "Apeo"
+    },
+    {
+      "id": 143297,
+      "name": "Apo"
+    },
+    {
+      "id": 143298,
+      "name": "Aporo"
+    },
+    {
+      "id": 143299,
+      "name": "Aputzio de Juárez"
+    },
+    {
+      "id": 143300,
+      "name": "Aquila"
+    },
+    {
+      "id": 143301,
+      "name": "Aquiles Córdova Morán"
+    },
+    {
+      "id": 143302,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 143303,
+      "name": "Arantepacua"
+    },
+    {
+      "id": 143304,
+      "name": "Aranza"
+    },
+    {
+      "id": 143305,
+      "name": "Araró"
+    },
+    {
+      "id": 143306,
+      "name": "Ario de Rayón"
+    },
+    {
+      "id": 143307,
+      "name": "Ario de Rosales"
+    },
+    {
+      "id": 143308,
+      "name": "Arteaga"
+    },
+    {
+      "id": 143309,
+      "name": "Atacheo de Regalado"
+    },
+    {
+      "id": 143310,
+      "name": "Atapán"
+    },
+    {
+      "id": 143311,
+      "name": "Atapaneo"
+    },
+    {
+      "id": 143312,
+      "name": "Atecucario de la Constitución (Atecuario)"
+    },
+    {
+      "id": 143313,
+      "name": "Atotonilco"
+    },
+    {
+      "id": 143314,
+      "name": "Belisario Domínguez"
+    },
+    {
+      "id": 143315,
+      "name": "Bellas Fuentes"
+    },
+    {
+      "id": 143316,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 143317,
+      "name": "Bocaneo (San Pedro)"
+    },
+    {
+      "id": 143318,
+      "name": "Bonifacio Moreno (El Aguaje)"
+    },
+    {
+      "id": 143319,
+      "name": "Briseñas"
+    },
+    {
+      "id": 143320,
+      "name": "Briseñas de Matamoros"
+    },
+    {
+      "id": 143321,
+      "name": "Buenavista"
+    },
+    {
+      "id": 143322,
+      "name": "Buenavista de Benito Juárez"
+    },
+    {
+      "id": 143323,
+      "name": "Buenavista Tomatlán"
+    },
+    {
+      "id": 143324,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 143325,
+      "name": "Caltzontzín"
+    },
+    {
+      "id": 143326,
+      "name": "Camémbaro"
+    },
+    {
+      "id": 143327,
+      "name": "Campestre Tarímbaro"
+    },
+    {
+      "id": 143328,
+      "name": "Cañada de Ramírez"
+    },
+    {
+      "id": 143329,
+      "name": "Cantabria"
+    },
+    {
+      "id": 143330,
+      "name": "Capacho"
+    },
+    {
+      "id": 143331,
+      "name": "Capácuaro"
+    },
+    {
+      "id": 143332,
+      "name": "Capula"
+    },
+    {
+      "id": 143333,
+      "name": "Carácuaro"
+    },
+    {
+      "id": 143334,
+      "name": "Carona"
+    },
+    {
+      "id": 143335,
+      "name": "Caurio de Guadalupe"
+    },
+    {
+      "id": 143336,
+      "name": "Cenobio Moreno"
+    },
+    {
+      "id": 143337,
+      "name": "Cerro Colorado de Ocampo"
+    },
+    {
+      "id": 143338,
+      "name": "Chapa"
+    },
+    {
+      "id": 143339,
+      "name": "Charapán"
+    },
+    {
+      "id": 143340,
+      "name": "Charapendo"
+    },
+    {
+      "id": 143341,
+      "name": "Charo"
+    },
+    {
+      "id": 143342,
+      "name": "Chavinda"
+    },
+    {
+      "id": 143343,
+      "name": "Cherán"
+    },
+    {
+      "id": 143344,
+      "name": "Cherán Atzicuirín (Cheranástico)"
+    },
+    {
+      "id": 143345,
+      "name": "Chilchota"
+    },
+    {
+      "id": 143346,
+      "name": "Chiquimitío"
+    },
+    {
+      "id": 143347,
+      "name": "Chitejé de Garabato"
+    },
+    {
+      "id": 143348,
+      "name": "Chucándiro"
+    },
+    {
+      "id": 143349,
+      "name": "Chupio"
+    },
+    {
+      "id": 143350,
+      "name": "Churintzio"
+    },
+    {
+      "id": 143351,
+      "name": "Churumuco de Morelos"
+    },
+    {
+      "id": 143352,
+      "name": "Ciudad Hidalgo"
+    },
+    {
+      "id": 143353,
+      "name": "Ciudad Lázaro Cárdenas"
+    },
+    {
+      "id": 143354,
+      "name": "Coahuayana de Hidalgo"
+    },
+    {
+      "id": 143355,
+      "name": "Coahuayana Viejo"
+    },
+    {
+      "id": 143356,
+      "name": "Coajomulco"
+    },
+    {
+      "id": 143357,
+      "name": "Coalcomán de Vázquez Pallares"
+    },
+    {
+      "id": 143358,
+      "name": "Cocucho"
+    },
+    {
+      "id": 143359,
+      "name": "Coeneo de la Libertad"
+    },
+    {
+      "id": 143360,
+      "name": "Cojumatlán de Régules"
+    },
+    {
+      "id": 143361,
+      "name": "Colonia Antorcha Campesina (Santa Rosa)"
+    },
+    {
+      "id": 143362,
+      "name": "Colonia Aquiles Córdoba Morán"
+    },
+    {
+      "id": 143363,
+      "name": "Colonia de Guadalupe"
+    },
+    {
+      "id": 143364,
+      "name": "Colonia Ecológica Asociación de Lucha Social (Lucha Social)"
+    },
+    {
+      "id": 143365,
+      "name": "Colonia el Mirador (Llano del Ejido)"
+    },
+    {
+      "id": 143366,
+      "name": "Colonia Emiliano Zapata (San Juan Zitácuaro)"
+    },
+    {
+      "id": 143367,
+      "name": "Colonia Independencia"
+    },
+    {
+      "id": 143368,
+      "name": "Colonia las Malvinas (Colonia Antorcha)"
+    },
+    {
+      "id": 143369,
+      "name": "Colonia Miguel Hidalgo"
+    },
+    {
+      "id": 143370,
+      "name": "Colonia Vista Bella (Lomas del Peaje)"
+    },
+    {
+      "id": 143371,
+      "name": "Comachuén"
+    },
+    {
+      "id": 143372,
+      "name": "Comanjá"
+    },
+    {
+      "id": 143373,
+      "name": "Condémbaro"
+    },
+    {
+      "id": 143374,
+      "name": "Conjunto Habitacional el Trébol"
+    },
+    {
+      "id": 143375,
+      "name": "Conjunto Habitacional Villas del Pedregal"
+    },
+    {
+      "id": 143376,
+      "name": "Copándaro (Copándaro del Cuatro)"
+    },
+    {
+      "id": 143377,
+      "name": "Copándaro de Galeana"
+    },
+    {
+      "id": 143378,
+      "name": "Corupo"
+    },
+    {
+      "id": 143379,
+      "name": "Cotija de la Paz"
+    },
+    {
+      "id": 143380,
+      "name": "Crescencio Morales (San Mateo)"
+    },
+    {
+      "id": 143381,
+      "name": "Cuamio"
+    },
+    {
+      "id": 143382,
+      "name": "Cuanajo"
+    },
+    {
+      "id": 143383,
+      "name": "Cuaracurío"
+    },
+    {
+      "id": 143384,
+      "name": "Cuartel la Mesa (El Asoleadero)"
+    },
+    {
+      "id": 143385,
+      "name": "Cuatro Caminos"
+    },
+    {
+      "id": 143386,
+      "name": "Cucuchucho"
+    },
+    {
+      "id": 143387,
+      "name": "Cuitzeo del Porvenir"
+    },
+    {
+      "id": 143388,
+      "name": "Cumuato"
+    },
+    {
+      "id": 143389,
+      "name": "Cuparátaro"
+    },
+    {
+      "id": 143390,
+      "name": "Cupuán del Río"
+    },
+    {
+      "id": 143391,
+      "name": "Curimeo"
+    },
+    {
+      "id": 143392,
+      "name": "Curungueo"
+    },
+    {
+      "id": 143393,
+      "name": "Cuto de la Esperanza"
+    },
+    {
+      "id": 143394,
+      "name": "Cuto del Porvenir"
+    },
+    {
+      "id": 143395,
+      "name": "Dieciocho de Marzo"
+    },
+    {
+      "id": 143396,
+      "name": "División del Norte"
+    },
+    {
+      "id": 143397,
+      "name": "Doctor Miguel Silva (San Guillermo)"
+    },
+    {
+      "id": 143398,
+      "name": "Donaciano Ojeda"
+    },
+    {
+      "id": 143399,
+      "name": "Ecuandureo"
+    },
+    {
+      "id": 143400,
+      "name": "Ejido el Rosario"
+    },
+    {
+      "id": 143401,
+      "name": "El Alvareño"
+    },
+    {
+      "id": 143402,
+      "name": "El Cahulote de Santa Ana"
+    },
+    {
+      "id": 143403,
+      "name": "El Capulín"
+    },
+    {
+      "id": 143404,
+      "name": "El Ceñidor"
+    },
+    {
+      "id": 143405,
+      "name": "El Césped"
+    },
+    {
+      "id": 143406,
+      "name": "El Chauz"
+    },
+    {
+      "id": 143407,
+      "name": "El Colegio"
+    },
+    {
+      "id": 143408,
+      "name": "El Cuenqueño"
+    },
+    {
+      "id": 143409,
+      "name": "El Cuitzillo Grande"
+    },
+    {
+      "id": 143410,
+      "name": "El Durazno"
+    },
+    {
+      "id": 143411,
+      "name": "El Fortín"
+    },
+    {
+      "id": 143412,
+      "name": "El Fuerte"
+    },
+    {
+      "id": 143413,
+      "name": "El Guaco"
+    },
+    {
+      "id": 143414,
+      "name": "El Letrero"
+    },
+    {
+      "id": 143415,
+      "name": "El Maluco"
+    },
+    {
+      "id": 143416,
+      "name": "El Paracho"
+    },
+    {
+      "id": 143417,
+      "name": "El Pedregal"
+    },
+    {
+      "id": 143418,
+      "name": "El Platanal"
+    },
+    {
+      "id": 143419,
+      "name": "El Rincón de San Felipe (Tercera Manzana San Felipe)"
+    },
+    {
+      "id": 143420,
+      "name": "El Sauz de Abajo"
+    },
+    {
+      "id": 143421,
+      "name": "El Tequesquite"
+    },
+    {
+      "id": 143422,
+      "name": "El Tigre (Segunda Manzana de Crescencio Morales)"
+    },
+    {
+      "id": 143423,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 143424,
+      "name": "Erongarícuaro"
+    },
+    {
+      "id": 143425,
+      "name": "Estación Queréndaro"
+    },
+    {
+      "id": 143426,
+      "name": "Etúcuaro"
+    },
+    {
+      "id": 143427,
+      "name": "Ex-Hacienda de Guadalupe"
+    },
+    {
+      "id": 143428,
+      "name": "Felipe Carrillo Puerto"
+    },
+    {
+      "id": 143429,
+      "name": "Fraccionamiento Colinas Universidad"
+    },
+    {
+      "id": 143430,
+      "name": "Fraccionamiento Ex-Hacienda el Refugio"
+    },
+    {
+      "id": 143431,
+      "name": "Fraccionamiento Galaxia Tarímbaro"
+    },
+    {
+      "id": 143432,
+      "name": "Fraccionamiento Laureles Eréndira"
+    },
+    {
+      "id": 143433,
+      "name": "Fraccionamiento Metrópolis II"
+    },
+    {
+      "id": 143434,
+      "name": "Fraccionamiento Misión del Valle"
+    },
+    {
+      "id": 143435,
+      "name": "Fraccionamiento Monte Olivo"
+    },
+    {
+      "id": 143436,
+      "name": "Fraccionamiento Privadas del Sol"
+    },
+    {
+      "id": 143437,
+      "name": "Fraccionamiento San Miguel"
+    },
+    {
+      "id": 143438,
+      "name": "Francisco Sarabia (Cerrito Pelón)"
+    },
+    {
+      "id": 143439,
+      "name": "Francisco Serrato (San Bartolo)"
+    },
+    {
+      "id": 143440,
+      "name": "Francisco Villa"
+    },
+    {
+      "id": 143441,
+      "name": "Gambara"
+    },
+    {
+      "id": 143442,
+      "name": "General Francisco Villa"
+    },
+    {
+      "id": 143443,
+      "name": "Gildardo Magaña (Los Ángeles)"
+    },
+    {
+      "id": 143444,
+      "name": "Guacamayas"
+    },
+    {
+      "id": 143445,
+      "name": "Guándaro"
+    },
+    {
+      "id": 143446,
+      "name": "Héroes de Chapultepec (Rodeo de San Antonio)"
+    },
+    {
+      "id": 143447,
+      "name": "Heróica Zitácuaro"
+    },
+    {
+      "id": 143448,
+      "name": "Huajúmbaro"
+    },
+    {
+      "id": 143449,
+      "name": "Huandacareo"
+    },
+    {
+      "id": 143450,
+      "name": "Huanguitío"
+    },
+    {
+      "id": 143451,
+      "name": "Huaniqueo de Morales"
+    },
+    {
+      "id": 143452,
+      "name": "Huetamo de Núñez"
+    },
+    {
+      "id": 143453,
+      "name": "Huiramba"
+    },
+    {
+      "id": 143454,
+      "name": "Ibarra"
+    },
+    {
+      "id": 143455,
+      "name": "Ichán"
+    },
+    {
+      "id": 143456,
+      "name": "Ihuatzio"
+    },
+    {
+      "id": 143457,
+      "name": "Indaparapeo"
+    },
+    {
+      "id": 143458,
+      "name": "Infiernillo (Morelos de Infiernillo)"
+    },
+    {
+      "id": 143459,
+      "name": "Irapeo"
+    },
+    {
+      "id": 143460,
+      "name": "Iratzio"
+    },
+    {
+      "id": 143461,
+      "name": "Irimbo"
+    },
+    {
+      "id": 143462,
+      "name": "Isaac Arriaga (Santa Ana Mancera)"
+    },
+    {
+      "id": 143463,
+      "name": "Istaro"
+    },
+    {
+      "id": 143464,
+      "name": "Ixtlán de los Hervores"
+    },
+    {
+      "id": 143465,
+      "name": "J. Jesús Díaz Tzirio"
+    },
+    {
+      "id": 143466,
+      "name": "Jacona"
+    },
+    {
+      "id": 143467,
+      "name": "Jamaica"
+    },
+    {
+      "id": 143468,
+      "name": "Janitzio"
+    },
+    {
+      "id": 143469,
+      "name": "Jarácuaro"
+    },
+    {
+      "id": 143470,
+      "name": "Jaripeo"
+    },
+    {
+      "id": 143471,
+      "name": "Jesús del Monte"
+    },
+    {
+      "id": 143472,
+      "name": "Jiquílpan de Juárez"
+    },
+    {
+      "id": 143473,
+      "name": "José María Morelos (La Yegüería)"
+    },
+    {
+      "id": 143474,
+      "name": "Jucutacato"
+    },
+    {
+      "id": 143475,
+      "name": "Jungapeo de Juárez"
+    },
+    {
+      "id": 143476,
+      "name": "La Aldea"
+    },
+    {
+      "id": 143477,
+      "name": "La Angostura"
+    },
+    {
+      "id": 143478,
+      "name": "La Calera (Nacimientos)"
+    },
+    {
+      "id": 143479,
+      "name": "La Encarnación"
+    },
+    {
+      "id": 143480,
+      "name": "La Ermita (Nueva Jerusalén)"
+    },
+    {
+      "id": 143481,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 143482,
+      "name": "La Estancia de Amezcua"
+    },
+    {
+      "id": 143483,
+      "name": "La Fundición (Quinta Manzana)"
+    },
+    {
+      "id": 143484,
+      "name": "La Goleta"
+    },
+    {
+      "id": 143485,
+      "name": "La Higuerilla (Los Lirios)"
+    },
+    {
+      "id": 143486,
+      "name": "La Higuerita (Colonia San Rafael)"
+    },
+    {
+      "id": 143487,
+      "name": "La Huacana"
+    },
+    {
+      "id": 143488,
+      "name": "La Ibérica (La Gotera)"
+    },
+    {
+      "id": 143489,
+      "name": "La Luz"
+    },
+    {
+      "id": 143490,
+      "name": "La Mesa (La Mesa de Cedano)"
+    },
+    {
+      "id": 143491,
+      "name": "La Mintzita (Piedra Dura)"
+    },
+    {
+      "id": 143492,
+      "name": "La Mira"
+    },
+    {
+      "id": 143493,
+      "name": "La Mira Tumbiscatio"
+    },
+    {
+      "id": 143494,
+      "name": "La Mojonera"
+    },
+    {
+      "id": 143495,
+      "name": "La Orilla"
+    },
+    {
+      "id": 143496,
+      "name": "La Palma"
+    },
+    {
+      "id": 143497,
+      "name": "La Palma (Las Palmas)"
+    },
+    {
+      "id": 143498,
+      "name": "La Piedad"
+    },
+    {
+      "id": 143499,
+      "name": "La Placita de Morelos"
+    },
+    {
+      "id": 143500,
+      "name": "La Plaza del Limón"
+    },
+    {
+      "id": 143501,
+      "name": "La Rinconoda"
+    },
+    {
+      "id": 143502,
+      "name": "La Sauceda"
+    },
+    {
+      "id": 143503,
+      "name": "La Soledad"
+    },
+    {
+      "id": 143504,
+      "name": "Lagunillas"
+    },
+    {
+      "id": 143505,
+      "name": "Las Cañadas"
+    },
+    {
+      "id": 143506,
+      "name": "Las Cañas"
+    },
+    {
+      "id": 143507,
+      "name": "Las Cieneguitas"
+    },
+    {
+      "id": 143508,
+      "name": "Las Letras"
+    },
+    {
+      "id": 143509,
+      "name": "Lázaro Cárdenas (La Purísima)"
+    },
+    {
+      "id": 143510,
+      "name": "Loma de los Hoyos"
+    },
+    {
+      "id": 143511,
+      "name": "Lomas de la Maestranza"
+    },
+    {
+      "id": 143512,
+      "name": "Lombardía"
+    },
+    {
+      "id": 143513,
+      "name": "Los Cajones"
+    },
+    {
+      "id": 143514,
+      "name": "Los Charcos"
+    },
+    {
+      "id": 143515,
+      "name": "Los Guajes"
+    },
+    {
+      "id": 143516,
+      "name": "Los Limones"
+    },
+    {
+      "id": 143517,
+      "name": "Los Pilares"
+    },
+    {
+      "id": 143518,
+      "name": "Los Reyes de Salgado"
+    },
+    {
+      "id": 143519,
+      "name": "Macho de Agua"
+    },
+    {
+      "id": 143520,
+      "name": "Macutzio"
+    },
+    {
+      "id": 143521,
+      "name": "Manuel Villalongín"
+    },
+    {
+      "id": 143522,
+      "name": "Manzana de San Luis"
+    },
+    {
+      "id": 143523,
+      "name": "Manzana la Cofradía"
+    },
+    {
+      "id": 143524,
+      "name": "Maravatío de Ocampo"
+    },
+    {
+      "id": 143525,
+      "name": "Mariano Escobedo"
+    },
+    {
+      "id": 143526,
+      "name": "Mesón Nuevo (Cañada de la Magdalena)"
+    },
+    {
+      "id": 143527,
+      "name": "Mineral de Angangueo"
+    },
+    {
+      "id": 143528,
+      "name": "Montaña Monarca (Punta Altozano)"
+    },
+    {
+      "id": 143529,
+      "name": "Monteleón"
+    },
+    {
+      "id": 143530,
+      "name": "Morelia"
+    },
+    {
+      "id": 143531,
+      "name": "Morelos"
+    },
+    {
+      "id": 143532,
+      "name": "Nahuatzén"
+    },
+    {
+      "id": 143533,
+      "name": "Naranja de Tapia"
+    },
+    {
+      "id": 143534,
+      "name": "Nocupétaro"
+    },
+    {
+      "id": 143535,
+      "name": "Nueva Italia de Ruiz"
+    },
+    {
+      "id": 143536,
+      "name": "Nuevo San Juan Parangaricutiro"
+    },
+    {
+      "id": 143537,
+      "name": "Nuevo Urecho"
+    },
+    {
+      "id": 143538,
+      "name": "Nuevo Zirosto"
+    },
+    {
+      "id": 143539,
+      "name": "Numarán"
+    },
+    {
+      "id": 143540,
+      "name": "Nurío"
+    },
+    {
+      "id": 143541,
+      "name": "Ocampo"
+    },
+    {
+      "id": 143542,
+      "name": "Ocurio"
+    },
+    {
+      "id": 143543,
+      "name": "Ojo de Agua de Bucio"
+    },
+    {
+      "id": 143544,
+      "name": "Ojo de Rana"
+    },
+    {
+      "id": 143545,
+      "name": "Opopeo"
+    },
+    {
+      "id": 143546,
+      "name": "Pajacuarán"
+    },
+    {
+      "id": 143547,
+      "name": "Pamatácuaro"
+    },
+    {
+      "id": 143548,
+      "name": "Panindícuaro"
+    },
+    {
+      "id": 143549,
+      "name": "Paracho de Verduzco"
+    },
+    {
+      "id": 143550,
+      "name": "Paracuaro"
+    },
+    {
+      "id": 143551,
+      "name": "Parahuén"
+    },
+    {
+      "id": 143552,
+      "name": "Páreo"
+    },
+    {
+      "id": 143553,
+      "name": "Parícuaro"
+    },
+    {
+      "id": 143554,
+      "name": "Paso de Hidalgo (Paso de Álamos)"
+    },
+    {
+      "id": 143555,
+      "name": "Paso de Núñez (Buenavista)"
+    },
+    {
+      "id": 143556,
+      "name": "Pastor Ortíz"
+    },
+    {
+      "id": 143557,
+      "name": "Patuán"
+    },
+    {
+      "id": 143558,
+      "name": "Pátzcuaro"
+    },
+    {
+      "id": 143559,
+      "name": "Pedernales"
+    },
+    {
+      "id": 143560,
+      "name": "Peña del Panal"
+    },
+    {
+      "id": 143561,
+      "name": "Penjamillo de Degollado"
+    },
+    {
+      "id": 143562,
+      "name": "Peribán de Ramos"
+    },
+    {
+      "id": 143563,
+      "name": "Pichátaro"
+    },
+    {
+      "id": 143564,
+      "name": "Pinzándaro"
+    },
+    {
+      "id": 143565,
+      "name": "Pomacuarán"
+    },
+    {
+      "id": 143566,
+      "name": "Poturo"
+    },
+    {
+      "id": 143567,
+      "name": "Presa del Rosario"
+    },
+    {
+      "id": 143568,
+      "name": "Puácuaro"
+    },
+    {
+      "id": 143569,
+      "name": "Pueblo Viejo"
+    },
+    {
+      "id": 143570,
+      "name": "Puentecillas (Tercera Manzana de Zirahuato)"
+    },
+    {
+      "id": 143571,
+      "name": "Puerto de Buenavista (Lázaro Cárdenas)"
+    },
+    {
+      "id": 143572,
+      "name": "Purechucho"
+    },
+    {
+      "id": 143573,
+      "name": "Purépero de Echáiz"
+    },
+    {
+      "id": 143574,
+      "name": "Puruándiro"
+    },
+    {
+      "id": 143575,
+      "name": "Puruarán"
+    },
+    {
+      "id": 143576,
+      "name": "Queréndaro"
+    },
+    {
+      "id": 143577,
+      "name": "Quinceo"
+    },
+    {
+      "id": 143578,
+      "name": "Quiroga"
+    },
+    {
+      "id": 143579,
+      "name": "Rancho Viejo"
+    },
+    {
+      "id": 143580,
+      "name": "Real Hacienda (Metrópolis)"
+    },
+    {
+      "id": 143581,
+      "name": "Rincón de Cedeños (Rincón de Dolores)"
+    },
+    {
+      "id": 143582,
+      "name": "Rincón de Curungueo"
+    },
+    {
+      "id": 143583,
+      "name": "Rincón de Nicolás Romero (Cedros Tercera Manzana)"
+    },
+    {
+      "id": 143584,
+      "name": "Río Grande"
+    },
+    {
+      "id": 143585,
+      "name": "Romero de Guzmán"
+    },
+    {
+      "id": 143586,
+      "name": "Romero de Torres"
+    },
+    {
+      "id": 143587,
+      "name": "Sahuayo"
+    },
+    {
+      "id": 143588,
+      "name": "Sahuayo de Morelos"
+    },
+    {
+      "id": 143589,
+      "name": "Salguero"
+    },
+    {
+      "id": 143590,
+      "name": "San Agustín del Maíz"
+    },
+    {
+      "id": 143591,
+      "name": "San Agustín del Pulque"
+    },
+    {
+      "id": 143592,
+      "name": "San Andrés Coru"
+    },
+    {
+      "id": 143593,
+      "name": "San Andrés Ziróndaro"
+    },
+    {
+      "id": 143594,
+      "name": "San Antonio"
+    },
+    {
+      "id": 143595,
+      "name": "San Antonio la Labor"
+    },
+    {
+      "id": 143596,
+      "name": "San Antonio Molinos"
+    },
+    {
+      "id": 143597,
+      "name": "San Antonio Tariácuri"
+    },
+    {
+      "id": 143598,
+      "name": "San Antonio Villalongín"
+    },
+    {
+      "id": 143599,
+      "name": "San Bartolo Cuitareo"
+    },
+    {
+      "id": 143600,
+      "name": "San Benito"
+    },
+    {
+      "id": 143601,
+      "name": "San Bernabé de las Canteras"
+    },
+    {
+      "id": 143602,
+      "name": "San Felipe de los Herreros"
+    },
+    {
+      "id": 143603,
+      "name": "San Felipe los Alzati (Colonia Nueva)"
+    },
+    {
+      "id": 143604,
+      "name": "San Francisco Peribán"
+    },
+    {
+      "id": 143605,
+      "name": "San Gregorio"
+    },
+    {
+      "id": 143606,
+      "name": "San Isidro"
+    },
+    {
+      "id": 143607,
+      "name": "San Isidro Alta Huerta"
+    },
+    {
+      "id": 143608,
+      "name": "San Jerónimo Purenchecuaro"
+    },
+    {
+      "id": 143609,
+      "name": "San José Cuaro"
+    },
+    {
+      "id": 143610,
+      "name": "San José de Gracia"
+    },
+    {
+      "id": 143611,
+      "name": "San José Huipana"
+    },
+    {
+      "id": 143612,
+      "name": "San Juan Benito Juárez (San Juan Tararameo)"
+    },
+    {
+      "id": 143613,
+      "name": "San Juan De Los Platanos"
+    },
+    {
+      "id": 143614,
+      "name": "San Juan de Viña"
+    },
+    {
+      "id": 143615,
+      "name": "San Juanito Itzícuaro"
+    },
+    {
+      "id": 143616,
+      "name": "San Lorenzo"
+    },
+    {
+      "id": 143617,
+      "name": "San Lorenzo Itzícuaro"
+    },
+    {
+      "id": 143618,
+      "name": "San Lorenzo Queréndaro"
+    },
+    {
+      "id": 143619,
+      "name": "San Lucas"
+    },
+    {
+      "id": 143620,
+      "name": "San Lucas Huarirapeo (La Mesa de San Lucas)"
+    },
+    {
+      "id": 143621,
+      "name": "San Lucas Pío"
+    },
+    {
+      "id": 143622,
+      "name": "San Martín Totolán"
+    },
+    {
+      "id": 143623,
+      "name": "San Miguel Epejan"
+    },
+    {
+      "id": 143624,
+      "name": "San Nicolás Obispo"
+    },
+    {
+      "id": 143625,
+      "name": "San Pedro de los Sauces"
+    },
+    {
+      "id": 143626,
+      "name": "San Pedro Jácuaro"
+    },
+    {
+      "id": 143627,
+      "name": "San Rafael Tecario"
+    },
+    {
+      "id": 143628,
+      "name": "San Sebastián"
+    },
+    {
+      "id": 143629,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 143630,
+      "name": "Santa Ana Amatlán"
+    },
+    {
+      "id": 143631,
+      "name": "Santa Ana Chapitiro"
+    },
+    {
+      "id": 143632,
+      "name": "Santa Ana de Guerrero (El Cascabel)"
+    },
+    {
+      "id": 143633,
+      "name": "Santa Ana Maya"
+    },
+    {
+      "id": 143634,
+      "name": "Santa Ana Zirosto"
+    },
+    {
+      "id": 143635,
+      "name": "Santa Casilda"
+    },
+    {
+      "id": 143636,
+      "name": "Santa Catarina"
+    },
+    {
+      "id": 143637,
+      "name": "Santa Clara de Valladares"
+    },
+    {
+      "id": 143638,
+      "name": "Santa Clara del Cobre"
+    },
+    {
+      "id": 143639,
+      "name": "Santa Clara del Tule"
+    },
+    {
+      "id": 143640,
+      "name": "Santa Elena"
+    },
+    {
+      "id": 143641,
+      "name": "Santa Fé de la Laguna"
+    },
+    {
+      "id": 143642,
+      "name": "Santa Fe del Río"
+    },
+    {
+      "id": 143643,
+      "name": "Santa Juana"
+    },
+    {
+      "id": 143644,
+      "name": "Santa María de los Ángeles"
+    },
+    {
+      "id": 143645,
+      "name": "Santa María Huiramangaro (San Juan Tumbio)"
+    },
+    {
+      "id": 143646,
+      "name": "Santa María Urapicho"
+    },
+    {
+      "id": 143647,
+      "name": "Santa Rosa (Santa Bárbara)"
+    },
+    {
+      "id": 143648,
+      "name": "Santiago Azajo"
+    },
+    {
+      "id": 143649,
+      "name": "Santiago Puriatzícuaro"
+    },
+    {
+      "id": 143650,
+      "name": "Santiago Tangamandapio"
+    },
+    {
+      "id": 143651,
+      "name": "Santiago Undameo"
+    },
+    {
+      "id": 143652,
+      "name": "Senguio"
+    },
+    {
+      "id": 143653,
+      "name": "Sevina"
+    },
+    {
+      "id": 143654,
+      "name": "Susupuato de Guerrero"
+    },
+    {
+      "id": 143655,
+      "name": "Tacámbaro"
+    },
+    {
+      "id": 143656,
+      "name": "Tacámbaro de Codallos"
+    },
+    {
+      "id": 143657,
+      "name": "Tacátzcuaro"
+    },
+    {
+      "id": 143658,
+      "name": "Tacicuaro"
+    },
+    {
+      "id": 143659,
+      "name": "Tacuro (Santa María Tacuro)"
+    },
+    {
+      "id": 143660,
+      "name": "Tafetán"
+    },
+    {
+      "id": 143661,
+      "name": "Tanaco"
+    },
+    {
+      "id": 143662,
+      "name": "Tancítaro"
+    },
+    {
+      "id": 143663,
+      "name": "Tangancícuaro"
+    },
+    {
+      "id": 143664,
+      "name": "Tanhuato de Guerrero"
+    },
+    {
+      "id": 143665,
+      "name": "Tarejero"
+    },
+    {
+      "id": 143666,
+      "name": "Taretán"
+    },
+    {
+      "id": 143667,
+      "name": "Tarímbaro"
+    },
+    {
+      "id": 143668,
+      "name": "Tavera"
+    },
+    {
+      "id": 143669,
+      "name": "Tecario"
+    },
+    {
+      "id": 143670,
+      "name": "Tecomatán"
+    },
+    {
+      "id": 143671,
+      "name": "Tepalcatepec"
+    },
+    {
+      "id": 143672,
+      "name": "Tepuxtepec"
+    },
+    {
+      "id": 143673,
+      "name": "Tierras Coloradas (San Pedro)"
+    },
+    {
+      "id": 143674,
+      "name": "Tingambato"
+    },
+    {
+      "id": 143675,
+      "name": "Tingüindín"
+    },
+    {
+      "id": 143676,
+      "name": "Tiquicheo"
+    },
+    {
+      "id": 143677,
+      "name": "Tiquicheo de Nicolás Romero"
+    },
+    {
+      "id": 143678,
+      "name": "Tiríndaro"
+    },
+    {
+      "id": 143679,
+      "name": "Tirípetio"
+    },
+    {
+      "id": 143680,
+      "name": "Tlalpujahua de Rayón"
+    },
+    {
+      "id": 143681,
+      "name": "Tocumbo"
+    },
+    {
+      "id": 143682,
+      "name": "Tomendán"
+    },
+    {
+      "id": 143683,
+      "name": "Toreo Bajo (El Toreo Bajo)"
+    },
+    {
+      "id": 143684,
+      "name": "Tumbiscatío de Ruiz"
+    },
+    {
+      "id": 143685,
+      "name": "Tungareo"
+    },
+    {
+      "id": 143686,
+      "name": "Turicato"
+    },
+    {
+      "id": 143687,
+      "name": "Turícuaro"
+    },
+    {
+      "id": 143688,
+      "name": "Tuxpan"
+    },
+    {
+      "id": 143689,
+      "name": "Tuzantla"
+    },
+    {
+      "id": 143690,
+      "name": "Tzintzimeo"
+    },
+    {
+      "id": 143691,
+      "name": "Tzintzingareo"
+    },
+    {
+      "id": 143692,
+      "name": "Tzintzuntzan"
+    },
+    {
+      "id": 143693,
+      "name": "Tziritzícuaro"
+    },
+    {
+      "id": 143694,
+      "name": "Tzitzio"
+    },
+    {
+      "id": 143695,
+      "name": "Ucareo"
+    },
+    {
+      "id": 143696,
+      "name": "Uricho"
+    },
+    {
+      "id": 143697,
+      "name": "Uripitio"
+    },
+    {
+      "id": 143698,
+      "name": "Uruapan"
+    },
+    {
+      "id": 143699,
+      "name": "Uruétaro"
+    },
+    {
+      "id": 143700,
+      "name": "Uspero"
+    },
+    {
+      "id": 143701,
+      "name": "Valle Verde"
+    },
+    {
+      "id": 143702,
+      "name": "Venustiano Carranza"
+    },
+    {
+      "id": 143703,
+      "name": "Villa Jiménez"
+    },
+    {
+      "id": 143704,
+      "name": "Villa Madero"
+    },
+    {
+      "id": 143705,
+      "name": "Villa Magna"
+    },
+    {
+      "id": 143706,
+      "name": "Villa Victoria"
+    },
+    {
+      "id": 143707,
+      "name": "Villamar"
+    },
+    {
+      "id": 143708,
+      "name": "Villas de la Loma"
+    },
+    {
+      "id": 143709,
+      "name": "Vista Hermosa de Negrete"
+    },
+    {
+      "id": 143710,
+      "name": "Yurécuaro"
+    },
+    {
+      "id": 143711,
+      "name": "Zacapu"
+    },
+    {
+      "id": 143712,
+      "name": "Zamora"
+    },
+    {
+      "id": 143713,
+      "name": "Zaragoza (Puerto de Medina)"
+    },
+    {
+      "id": 143714,
+      "name": "Zicuicho"
+    },
+    {
+      "id": 143715,
+      "name": "Zicuirán"
+    },
+    {
+      "id": 143716,
+      "name": "Zináparo"
+    },
+    {
+      "id": 143717,
+      "name": "Zinapécuaro"
+    },
+    {
+      "id": 143718,
+      "name": "Ziquítaro"
+    },
+    {
+      "id": 143719,
+      "name": "Ziracuaretiro"
+    },
+    {
+      "id": 143720,
+      "name": "Zirahuato de los Bernal"
+    },
+    {
+      "id": 143721,
+      "name": "Zirahuén"
+    },
+    {
+      "id": 143722,
+      "name": "Zirimícuaro"
+    },
+    {
+      "id": 143723,
+      "name": "Zurumbeneo"
+    }
+  ]
+}

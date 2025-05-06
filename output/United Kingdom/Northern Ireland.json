@@ -1,0 +1,487 @@
+{
+  "id": 7356,
+  "name": "Northern Ireland",
+  "state_code": "NIR",
+  "cities": [
+    {
+      "id": 200747,
+      "name": "Ahoghill"
+    },
+    {
+      "id": 200748,
+      "name": "Annahilt"
+    },
+    {
+      "id": 200749,
+      "name": "Annalong"
+    },
+    {
+      "id": 200750,
+      "name": "Antrim"
+    },
+    {
+      "id": 200751,
+      "name": "Antrim and Newtownabbey"
+    },
+    {
+      "id": 200752,
+      "name": "Ardglass"
+    },
+    {
+      "id": 200753,
+      "name": "Ards and North Down"
+    },
+    {
+      "id": 200754,
+      "name": "Armagh"
+    },
+    {
+      "id": 200755,
+      "name": "Armagh City Banbridge and Craigavon"
+    },
+    {
+      "id": 200756,
+      "name": "Ballinamallard"
+    },
+    {
+      "id": 200757,
+      "name": "Ballintoy Harbour"
+    },
+    {
+      "id": 200758,
+      "name": "Ballycastle"
+    },
+    {
+      "id": 200759,
+      "name": "Ballyclare"
+    },
+    {
+      "id": 200760,
+      "name": "Ballygowan"
+    },
+    {
+      "id": 200761,
+      "name": "Ballykelly"
+    },
+    {
+      "id": 200762,
+      "name": "Ballymena"
+    },
+    {
+      "id": 200763,
+      "name": "Ballymoney"
+    },
+    {
+      "id": 200764,
+      "name": "Ballynahinch"
+    },
+    {
+      "id": 200765,
+      "name": "Ballypatrick"
+    },
+    {
+      "id": 200766,
+      "name": "Ballywalter"
+    },
+    {
+      "id": 200767,
+      "name": "Banbridge"
+    },
+    {
+      "id": 200768,
+      "name": "Bangor"
+    },
+    {
+      "id": 200769,
+      "name": "Belfast"
+    },
+    {
+      "id": 200770,
+      "name": "Bellaghy"
+    },
+    {
+      "id": 200771,
+      "name": "Broughshane"
+    },
+    {
+      "id": 200772,
+      "name": "Bushmills"
+    },
+    {
+      "id": 200773,
+      "name": "Carnlough"
+    },
+    {
+      "id": 200774,
+      "name": "Carnmoney"
+    },
+    {
+      "id": 200775,
+      "name": "Carrickfergus"
+    },
+    {
+      "id": 200776,
+      "name": "Carryduff"
+    },
+    {
+      "id": 200777,
+      "name": "Castledawson"
+    },
+    {
+      "id": 200778,
+      "name": "Castlederg"
+    },
+    {
+      "id": 200779,
+      "name": "Castlereagh"
+    },
+    {
+      "id": 200780,
+      "name": "Castlerock"
+    },
+    {
+      "id": 200781,
+      "name": "Castlewellan"
+    },
+    {
+      "id": 200782,
+      "name": "Causeway Coast and Glens"
+    },
+    {
+      "id": 200783,
+      "name": "City of Belfast"
+    },
+    {
+      "id": 200784,
+      "name": "Coalisland"
+    },
+    {
+      "id": 200785,
+      "name": "Coleraine"
+    },
+    {
+      "id": 200786,
+      "name": "Comber"
+    },
+    {
+      "id": 200787,
+      "name": "Connor"
+    },
+    {
+      "id": 200788,
+      "name": "Cookstown"
+    },
+    {
+      "id": 200789,
+      "name": "Craigavon"
+    },
+    {
+      "id": 200790,
+      "name": "Crossgar"
+    },
+    {
+      "id": 200791,
+      "name": "Crossmaglen"
+    },
+    {
+      "id": 200792,
+      "name": "Crumlin"
+    },
+    {
+      "id": 200793,
+      "name": "Cullybackey"
+    },
+    {
+      "id": 200794,
+      "name": "Culmore"
+    },
+    {
+      "id": 200795,
+      "name": "Cushendall"
+    },
+    {
+      "id": 200796,
+      "name": "Derry"
+    },
+    {
+      "id": 200797,
+      "name": "Derry City and Strabane"
+    },
+    {
+      "id": 200798,
+      "name": "Doagh"
+    },
+    {
+      "id": 200799,
+      "name": "Donaghadee"
+    },
+    {
+      "id": 200800,
+      "name": "Downpatrick"
+    },
+    {
+      "id": 200801,
+      "name": "Draperstown"
+    },
+    {
+      "id": 200802,
+      "name": "Dromore"
+    },
+    {
+      "id": 200803,
+      "name": "Dundonald"
+    },
+    {
+      "id": 200804,
+      "name": "Dundrum"
+    },
+    {
+      "id": 200805,
+      "name": "Dungannon"
+    },
+    {
+      "id": 200806,
+      "name": "Dungiven"
+    },
+    {
+      "id": 200807,
+      "name": "Dunloy"
+    },
+    {
+      "id": 200808,
+      "name": "Eglinton"
+    },
+    {
+      "id": 200809,
+      "name": "Enniskillen"
+    },
+    {
+      "id": 200810,
+      "name": "Fermanagh and Omagh"
+    },
+    {
+      "id": 200811,
+      "name": "Fintona"
+    },
+    {
+      "id": 200812,
+      "name": "Fivemiletown"
+    },
+    {
+      "id": 200813,
+      "name": "Garvagh"
+    },
+    {
+      "id": 200814,
+      "name": "Gilford"
+    },
+    {
+      "id": 200815,
+      "name": "Glenariff"
+    },
+    {
+      "id": 200816,
+      "name": "Glenavy"
+    },
+    {
+      "id": 200817,
+      "name": "Greenisland"
+    },
+    {
+      "id": 200818,
+      "name": "Greyabbey"
+    },
+    {
+      "id": 200819,
+      "name": "Hillsborough"
+    },
+    {
+      "id": 200820,
+      "name": "Holywood"
+    },
+    {
+      "id": 200821,
+      "name": "Irvinestown"
+    },
+    {
+      "id": 200822,
+      "name": "Jordanstown"
+    },
+    {
+      "id": 200823,
+      "name": "Keady"
+    },
+    {
+      "id": 200824,
+      "name": "Kilkeel"
+    },
+    {
+      "id": 200825,
+      "name": "Killyleagh"
+    },
+    {
+      "id": 200826,
+      "name": "Kilrea"
+    },
+    {
+      "id": 200827,
+      "name": "Kircubbin"
+    },
+    {
+      "id": 200828,
+      "name": "Larne"
+    },
+    {
+      "id": 200829,
+      "name": "Limavady"
+    },
+    {
+      "id": 200830,
+      "name": "Lisburn"
+    },
+    {
+      "id": 200831,
+      "name": "Lisburn and Castlereagh"
+    },
+    {
+      "id": 200832,
+      "name": "Lisnaskea"
+    },
+    {
+      "id": 200833,
+      "name": "Londonderry County Borough"
+    },
+    {
+      "id": 200834,
+      "name": "Maghera"
+    },
+    {
+      "id": 200835,
+      "name": "Magherafelt"
+    },
+    {
+      "id": 200836,
+      "name": "Magheralin"
+    },
+    {
+      "id": 200837,
+      "name": "Mid and East Antrim"
+    },
+    {
+      "id": 200838,
+      "name": "Mid Ulster"
+    },
+    {
+      "id": 200839,
+      "name": "Millisle"
+    },
+    {
+      "id": 200840,
+      "name": "Moira"
+    },
+    {
+      "id": 200841,
+      "name": "Moneymore"
+    },
+    {
+      "id": 200842,
+      "name": "Moy"
+    },
+    {
+      "id": 200843,
+      "name": "Newcastle"
+    },
+    {
+      "id": 200844,
+      "name": "Newry"
+    },
+    {
+      "id": 200845,
+      "name": "Newry Mourne and Down"
+    },
+    {
+      "id": 200846,
+      "name": "Newtownabbey"
+    },
+    {
+      "id": 200847,
+      "name": "Newtownards"
+    },
+    {
+      "id": 200848,
+      "name": "Newtownstewart"
+    },
+    {
+      "id": 200849,
+      "name": "Omagh"
+    },
+    {
+      "id": 200850,
+      "name": "Portadown"
+    },
+    {
+      "id": 200851,
+      "name": "Portaferry"
+    },
+    {
+      "id": 200852,
+      "name": "Portavogie"
+    },
+    {
+      "id": 200853,
+      "name": "Portglenone"
+    },
+    {
+      "id": 200854,
+      "name": "Portrush"
+    },
+    {
+      "id": 200855,
+      "name": "Portstewart"
+    },
+    {
+      "id": 200856,
+      "name": "Randalstown"
+    },
+    {
+      "id": 200857,
+      "name": "Rathfriland"
+    },
+    {
+      "id": 200858,
+      "name": "Rostrevor"
+    },
+    {
+      "id": 200859,
+      "name": "Saintfield"
+    },
+    {
+      "id": 200860,
+      "name": "Sion Mills"
+    },
+    {
+      "id": 200861,
+      "name": "Strabane"
+    },
+    {
+      "id": 200862,
+      "name": "Tandragee"
+    },
+    {
+      "id": 200863,
+      "name": "Templepatrick"
+    },
+    {
+      "id": 200864,
+      "name": "Waringstown"
+    },
+    {
+      "id": 200865,
+      "name": "Warrenpoint"
+    },
+    {
+      "id": 200866,
+      "name": "Whitehead"
+    }
+  ]
+}

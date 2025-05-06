@@ -1,0 +1,479 @@
+{
+  "id": 5140,
+  "name": "Nayarit",
+  "state_code": "NAY",
+  "cities": [
+    {
+      "id": 143977,
+      "name": "Acaponeta"
+    },
+    {
+      "id": 143978,
+      "name": "Ahuacatlán"
+    },
+    {
+      "id": 143979,
+      "name": "Amapa"
+    },
+    {
+      "id": 143980,
+      "name": "Amatlán de Cañas"
+    },
+    {
+      "id": 143981,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 143982,
+      "name": "Aticama"
+    },
+    {
+      "id": 143983,
+      "name": "Atonalisco"
+    },
+    {
+      "id": 143984,
+      "name": "Aután"
+    },
+    {
+      "id": 143985,
+      "name": "Bellavista"
+    },
+    {
+      "id": 143986,
+      "name": "Bucerías"
+    },
+    {
+      "id": 143987,
+      "name": "Camalotita"
+    },
+    {
+      "id": 143988,
+      "name": "Camichín de Jauja"
+    },
+    {
+      "id": 143989,
+      "name": "Cañada del Tabaco"
+    },
+    {
+      "id": 143990,
+      "name": "Chapalilla"
+    },
+    {
+      "id": 143991,
+      "name": "Chilapa"
+    },
+    {
+      "id": 143992,
+      "name": "Colonia Emiliano Zapata"
+    },
+    {
+      "id": 143993,
+      "name": "Colonia Paraíso Escondido"
+    },
+    {
+      "id": 143994,
+      "name": "Compostela"
+    },
+    {
+      "id": 143995,
+      "name": "Corral del Risco (Punta de Mita)"
+    },
+    {
+      "id": 143996,
+      "name": "Cruz de Huanacaxtle"
+    },
+    {
+      "id": 143997,
+      "name": "Cuamiles"
+    },
+    {
+      "id": 143998,
+      "name": "El Ahuacate"
+    },
+    {
+      "id": 143999,
+      "name": "El Botadero"
+    },
+    {
+      "id": 144000,
+      "name": "El Capomal"
+    },
+    {
+      "id": 144001,
+      "name": "El Corte"
+    },
+    {
+      "id": 144002,
+      "name": "El Jicote"
+    },
+    {
+      "id": 144003,
+      "name": "El Llano"
+    },
+    {
+      "id": 144004,
+      "name": "El Rosario"
+    },
+    {
+      "id": 144005,
+      "name": "El Tamarindo"
+    },
+    {
+      "id": 144006,
+      "name": "El Tizate"
+    },
+    {
+      "id": 144007,
+      "name": "El Vado de San Pedro"
+    },
+    {
+      "id": 144008,
+      "name": "El Venado"
+    },
+    {
+      "id": 144009,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 144010,
+      "name": "Felipe Carrillo Puerto"
+    },
+    {
+      "id": 144011,
+      "name": "Francisco I. Madero"
+    },
+    {
+      "id": 144012,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 144013,
+      "name": "Higuera Blanca"
+    },
+    {
+      "id": 144014,
+      "name": "Huajicori"
+    },
+    {
+      "id": 144015,
+      "name": "Huajimic"
+    },
+    {
+      "id": 144016,
+      "name": "Ixtapan de la Concepción"
+    },
+    {
+      "id": 144017,
+      "name": "Ixtlán del Río"
+    },
+    {
+      "id": 144018,
+      "name": "Jalcocotán"
+    },
+    {
+      "id": 144019,
+      "name": "Jesús María"
+    },
+    {
+      "id": 144020,
+      "name": "Jomulco"
+    },
+    {
+      "id": 144021,
+      "name": "Juan Escutia (Borbollón)"
+    },
+    {
+      "id": 144022,
+      "name": "La Cantera"
+    },
+    {
+      "id": 144023,
+      "name": "La Corregidora"
+    },
+    {
+      "id": 144024,
+      "name": "La Fortuna"
+    },
+    {
+      "id": 144025,
+      "name": "La Guásima"
+    },
+    {
+      "id": 144026,
+      "name": "La Labor"
+    },
+    {
+      "id": 144027,
+      "name": "La Libertad"
+    },
+    {
+      "id": 144028,
+      "name": "La Palma"
+    },
+    {
+      "id": 144029,
+      "name": "La Peñita de Jaltomba"
+    },
+    {
+      "id": 144030,
+      "name": "La Presa"
+    },
+    {
+      "id": 144031,
+      "name": "La Yesca"
+    },
+    {
+      "id": 144032,
+      "name": "Las Jarretaderas"
+    },
+    {
+      "id": 144033,
+      "name": "Las Varas"
+    },
+    {
+      "id": 144034,
+      "name": "Llano del Tigre"
+    },
+    {
+      "id": 144035,
+      "name": "Lo de Lamedo"
+    },
+    {
+      "id": 144036,
+      "name": "Lo de Marcos"
+    },
+    {
+      "id": 144037,
+      "name": "Los Aguajes"
+    },
+    {
+      "id": 144038,
+      "name": "Los Otates"
+    },
+    {
+      "id": 144039,
+      "name": "Mecatán"
+    },
+    {
+      "id": 144040,
+      "name": "Mesa del Nayar"
+    },
+    {
+      "id": 144041,
+      "name": "Méxpan"
+    },
+    {
+      "id": 144042,
+      "name": "Mezcales"
+    },
+    {
+      "id": 144043,
+      "name": "Milpas Viejas"
+    },
+    {
+      "id": 144044,
+      "name": "Mojarras"
+    },
+    {
+      "id": 144045,
+      "name": "Monteón"
+    },
+    {
+      "id": 144046,
+      "name": "Navarrete"
+    },
+    {
+      "id": 144047,
+      "name": "Nuevo Vallarta"
+    },
+    {
+      "id": 144048,
+      "name": "Palma Grande"
+    },
+    {
+      "id": 144049,
+      "name": "Palmar de Cuautla"
+    },
+    {
+      "id": 144050,
+      "name": "Pantanal"
+    },
+    {
+      "id": 144051,
+      "name": "Pericos"
+    },
+    {
+      "id": 144052,
+      "name": "Pozo de Ibarra"
+    },
+    {
+      "id": 144053,
+      "name": "Puerta de Mangos"
+    },
+    {
+      "id": 144054,
+      "name": "Puga"
+    },
+    {
+      "id": 144055,
+      "name": "Quimichis"
+    },
+    {
+      "id": 144056,
+      "name": "Rincón de Guayabitos"
+    },
+    {
+      "id": 144057,
+      "name": "Rosa Blanca"
+    },
+    {
+      "id": 144058,
+      "name": "Rosamorada"
+    },
+    {
+      "id": 144059,
+      "name": "Ruíz"
+    },
+    {
+      "id": 144060,
+      "name": "San Blas"
+    },
+    {
+      "id": 144061,
+      "name": "San Cayetano"
+    },
+    {
+      "id": 144062,
+      "name": "San Clemente de Lima"
+    },
+    {
+      "id": 144063,
+      "name": "San Felipe Aztatán"
+    },
+    {
+      "id": 144064,
+      "name": "San Francisco"
+    },
+    {
+      "id": 144065,
+      "name": "San José de Gracia"
+    },
+    {
+      "id": 144066,
+      "name": "San Juan Bautista"
+    },
+    {
+      "id": 144067,
+      "name": "San Juan de Abajo"
+    },
+    {
+      "id": 144068,
+      "name": "San Luis de Lozada"
+    },
+    {
+      "id": 144069,
+      "name": "San Pedro Lagunillas"
+    },
+    {
+      "id": 144070,
+      "name": "San Vicente"
+    },
+    {
+      "id": 144071,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 144072,
+      "name": "Santa Isabel"
+    },
+    {
+      "id": 144073,
+      "name": "Santa María del Oro"
+    },
+    {
+      "id": 144074,
+      "name": "Santa Teresa"
+    },
+    {
+      "id": 144075,
+      "name": "Santiago de Pochotitán"
+    },
+    {
+      "id": 144076,
+      "name": "Santiago Ixcuintla"
+    },
+    {
+      "id": 144077,
+      "name": "Sauta"
+    },
+    {
+      "id": 144078,
+      "name": "Sayulilla"
+    },
+    {
+      "id": 144079,
+      "name": "Sayulita"
+    },
+    {
+      "id": 144080,
+      "name": "Sentispac"
+    },
+    {
+      "id": 144081,
+      "name": "Tecuala"
+    },
+    {
+      "id": 144082,
+      "name": "Tepic"
+    },
+    {
+      "id": 144083,
+      "name": "Tequepexpan"
+    },
+    {
+      "id": 144084,
+      "name": "Testerazo"
+    },
+    {
+      "id": 144085,
+      "name": "Tetitlán"
+    },
+    {
+      "id": 144086,
+      "name": "Unión de Corrientes"
+    },
+    {
+      "id": 144087,
+      "name": "Uzeta"
+    },
+    {
+      "id": 144088,
+      "name": "Valle de Banderas"
+    },
+    {
+      "id": 144089,
+      "name": "Villa Hidalgo"
+    },
+    {
+      "id": 144090,
+      "name": "Villa Juárez"
+    },
+    {
+      "id": 144091,
+      "name": "Yago"
+    },
+    {
+      "id": 144092,
+      "name": "Zacualpan"
+    },
+    {
+      "id": 144093,
+      "name": "Zapotán"
+    },
+    {
+      "id": 144094,
+      "name": "Zapotanito"
+    }
+  ]
+}

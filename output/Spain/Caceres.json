@@ -1,0 +1,883 @@
+{
+  "id": 6517,
+  "name": "Caceres",
+  "state_code": "CC",
+  "cities": [
+    {
+      "id": 183316,
+      "name": "Abadía"
+    },
+    {
+      "id": 183317,
+      "name": "Abertura"
+    },
+    {
+      "id": 183318,
+      "name": "Acebo"
+    },
+    {
+      "id": 183319,
+      "name": "Acehúche"
+    },
+    {
+      "id": 183320,
+      "name": "Aceituna"
+    },
+    {
+      "id": 183321,
+      "name": "Ahigal"
+    },
+    {
+      "id": 183322,
+      "name": "Alagón del Río"
+    },
+    {
+      "id": 183323,
+      "name": "Albalá"
+    },
+    {
+      "id": 183324,
+      "name": "Alcántara"
+    },
+    {
+      "id": 183325,
+      "name": "Alcollarín"
+    },
+    {
+      "id": 183326,
+      "name": "Alcuéscar"
+    },
+    {
+      "id": 183327,
+      "name": "Aldea del Cano"
+    },
+    {
+      "id": 183328,
+      "name": "Aldea del Obispo La"
+    },
+    {
+      "id": 183329,
+      "name": "Aldeacentenera"
+    },
+    {
+      "id": 183330,
+      "name": "Aldeanueva de la Vera"
+    },
+    {
+      "id": 183331,
+      "name": "Aldeanueva del Camino"
+    },
+    {
+      "id": 183332,
+      "name": "Aldehuela de Jerte"
+    },
+    {
+      "id": 183333,
+      "name": "Alía"
+    },
+    {
+      "id": 183334,
+      "name": "Aliseda"
+    },
+    {
+      "id": 183335,
+      "name": "Almaraz"
+    },
+    {
+      "id": 183336,
+      "name": "Almoharín"
+    },
+    {
+      "id": 183337,
+      "name": "Arroyo de la Luz"
+    },
+    {
+      "id": 183338,
+      "name": "Arroyomolinos de la Vera"
+    },
+    {
+      "id": 183339,
+      "name": "Baños de Montemayor"
+    },
+    {
+      "id": 183340,
+      "name": "Barrado"
+    },
+    {
+      "id": 183341,
+      "name": "Belvís de Monroy"
+    },
+    {
+      "id": 183342,
+      "name": "Benquerencia"
+    },
+    {
+      "id": 183343,
+      "name": "Berrocalejo"
+    },
+    {
+      "id": 183344,
+      "name": "Berzocana"
+    },
+    {
+      "id": 183345,
+      "name": "Bohonal de Ibor"
+    },
+    {
+      "id": 183346,
+      "name": "Botija"
+    },
+    {
+      "id": 183347,
+      "name": "Brozas"
+    },
+    {
+      "id": 183348,
+      "name": "Cabañas del Castillo"
+    },
+    {
+      "id": 183349,
+      "name": "Cabezabellosa"
+    },
+    {
+      "id": 183350,
+      "name": "Cabezuela del Valle"
+    },
+    {
+      "id": 183351,
+      "name": "Cabrero"
+    },
+    {
+      "id": 183352,
+      "name": "Cáceres"
+    },
+    {
+      "id": 183353,
+      "name": "Cachorrilla"
+    },
+    {
+      "id": 183354,
+      "name": "Cadalso"
+    },
+    {
+      "id": 183355,
+      "name": "Calzadilla"
+    },
+    {
+      "id": 183356,
+      "name": "Caminomorisco"
+    },
+    {
+      "id": 183357,
+      "name": "Campillo de Deleitosa"
+    },
+    {
+      "id": 183358,
+      "name": "Campo Lugar"
+    },
+    {
+      "id": 183359,
+      "name": "Cañamero"
+    },
+    {
+      "id": 183360,
+      "name": "Cañaveral"
+    },
+    {
+      "id": 183361,
+      "name": "Carbajo"
+    },
+    {
+      "id": 183362,
+      "name": "Carcaboso"
+    },
+    {
+      "id": 183363,
+      "name": "Carrascalejo"
+    },
+    {
+      "id": 183364,
+      "name": "Casar de Cáceres"
+    },
+    {
+      "id": 183365,
+      "name": "Casar de Palomero"
+    },
+    {
+      "id": 183366,
+      "name": "Casares de las Hurdes"
+    },
+    {
+      "id": 183367,
+      "name": "Casas de Don Antonio"
+    },
+    {
+      "id": 183368,
+      "name": "Casas de Don Gómez"
+    },
+    {
+      "id": 183369,
+      "name": "Casas de Millán"
+    },
+    {
+      "id": 183370,
+      "name": "Casas de Miravete"
+    },
+    {
+      "id": 183371,
+      "name": "Casas del Castañar"
+    },
+    {
+      "id": 183372,
+      "name": "Casas del Monte"
+    },
+    {
+      "id": 183373,
+      "name": "Casatejada"
+    },
+    {
+      "id": 183374,
+      "name": "Casillas de Coria"
+    },
+    {
+      "id": 183375,
+      "name": "Castañar de Ibor"
+    },
+    {
+      "id": 183376,
+      "name": "Ceclavín"
+    },
+    {
+      "id": 183377,
+      "name": "Cedillo"
+    },
+    {
+      "id": 183378,
+      "name": "Cerezo"
+    },
+    {
+      "id": 183379,
+      "name": "Cilleros"
+    },
+    {
+      "id": 183380,
+      "name": "Collado"
+    },
+    {
+      "id": 183381,
+      "name": "Conquista de la Sierra"
+    },
+    {
+      "id": 183382,
+      "name": "Coria"
+    },
+    {
+      "id": 183383,
+      "name": "Cuacos de Yuste"
+    },
+    {
+      "id": 183384,
+      "name": "Cumbre La"
+    },
+    {
+      "id": 183385,
+      "name": "Deleitosa"
+    },
+    {
+      "id": 183386,
+      "name": "Descargamaría"
+    },
+    {
+      "id": 183387,
+      "name": "Eljas"
+    },
+    {
+      "id": 183388,
+      "name": "Escurial"
+    },
+    {
+      "id": 183389,
+      "name": "Fresnedoso de Ibor"
+    },
+    {
+      "id": 183390,
+      "name": "Galisteo"
+    },
+    {
+      "id": 183391,
+      "name": "Garciaz"
+    },
+    {
+      "id": 183392,
+      "name": "Garganta La"
+    },
+    {
+      "id": 183393,
+      "name": "Garganta la Olla"
+    },
+    {
+      "id": 183394,
+      "name": "Gargantilla"
+    },
+    {
+      "id": 183395,
+      "name": "Gargüera"
+    },
+    {
+      "id": 183396,
+      "name": "Garrovillas de Alconétar"
+    },
+    {
+      "id": 183397,
+      "name": "Garvín"
+    },
+    {
+      "id": 183398,
+      "name": "Gata"
+    },
+    {
+      "id": 183399,
+      "name": "Gordo El"
+    },
+    {
+      "id": 183400,
+      "name": "Granja La"
+    },
+    {
+      "id": 183401,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 183402,
+      "name": "Guijo de Coria"
+    },
+    {
+      "id": 183403,
+      "name": "Guijo de Galisteo"
+    },
+    {
+      "id": 183404,
+      "name": "Guijo de Granadilla"
+    },
+    {
+      "id": 183405,
+      "name": "Guijo de Santa Bárbara"
+    },
+    {
+      "id": 183406,
+      "name": "Herguijuela"
+    },
+    {
+      "id": 183407,
+      "name": "Hernán-Pérez"
+    },
+    {
+      "id": 183408,
+      "name": "Herrera de Alcántara"
+    },
+    {
+      "id": 183409,
+      "name": "Herreruela"
+    },
+    {
+      "id": 183410,
+      "name": "Hervás"
+    },
+    {
+      "id": 183411,
+      "name": "Higuera"
+    },
+    {
+      "id": 183412,
+      "name": "Hinojal"
+    },
+    {
+      "id": 183413,
+      "name": "Holguera"
+    },
+    {
+      "id": 183414,
+      "name": "Hoyos"
+    },
+    {
+      "id": 183415,
+      "name": "Huélaga"
+    },
+    {
+      "id": 183416,
+      "name": "Ibahernando"
+    },
+    {
+      "id": 183417,
+      "name": "Jaraicejo"
+    },
+    {
+      "id": 183418,
+      "name": "Jaraíz de la Vera"
+    },
+    {
+      "id": 183419,
+      "name": "Jarandilla de la Vera"
+    },
+    {
+      "id": 183420,
+      "name": "Jarilla"
+    },
+    {
+      "id": 183421,
+      "name": "Jerte"
+    },
+    {
+      "id": 183422,
+      "name": "Ladrillar"
+    },
+    {
+      "id": 183423,
+      "name": "Logrosán"
+    },
+    {
+      "id": 183424,
+      "name": "Losar de la Vera"
+    },
+    {
+      "id": 183425,
+      "name": "Madrigal de la Vera"
+    },
+    {
+      "id": 183426,
+      "name": "Madrigalejo"
+    },
+    {
+      "id": 183427,
+      "name": "Madroñera"
+    },
+    {
+      "id": 183428,
+      "name": "Majadas"
+    },
+    {
+      "id": 183429,
+      "name": "Malpartida de Cáceres"
+    },
+    {
+      "id": 183430,
+      "name": "Malpartida de Plasencia"
+    },
+    {
+      "id": 183431,
+      "name": "Marchagaz"
+    },
+    {
+      "id": 183432,
+      "name": "Mata de Alcántara"
+    },
+    {
+      "id": 183433,
+      "name": "Membrío"
+    },
+    {
+      "id": 183434,
+      "name": "Mesas de Ibor"
+    },
+    {
+      "id": 183435,
+      "name": "Miajadas"
+    },
+    {
+      "id": 183436,
+      "name": "Millanes"
+    },
+    {
+      "id": 183437,
+      "name": "Mirabel"
+    },
+    {
+      "id": 183438,
+      "name": "Mohedas de Granadilla"
+    },
+    {
+      "id": 183439,
+      "name": "Monroy"
+    },
+    {
+      "id": 183440,
+      "name": "Montánchez"
+    },
+    {
+      "id": 183441,
+      "name": "Montehermoso"
+    },
+    {
+      "id": 183442,
+      "name": "Moraleja"
+    },
+    {
+      "id": 183443,
+      "name": "Morcillo"
+    },
+    {
+      "id": 183444,
+      "name": "Navaconcejo"
+    },
+    {
+      "id": 183445,
+      "name": "Navalmoral de la Mata"
+    },
+    {
+      "id": 183446,
+      "name": "Navalvillar de Ibor"
+    },
+    {
+      "id": 183447,
+      "name": "Navas del Madroño"
+    },
+    {
+      "id": 183448,
+      "name": "Navezuelas"
+    },
+    {
+      "id": 183449,
+      "name": "Nuñomoral"
+    },
+    {
+      "id": 183450,
+      "name": "Oliva de Plasencia"
+    },
+    {
+      "id": 183451,
+      "name": "Palomero"
+    },
+    {
+      "id": 183452,
+      "name": "Pasarón de la Vera"
+    },
+    {
+      "id": 183453,
+      "name": "Pedroso de Acim"
+    },
+    {
+      "id": 183454,
+      "name": "Peraleda de la Mata"
+    },
+    {
+      "id": 183455,
+      "name": "Peraleda de San Román"
+    },
+    {
+      "id": 183456,
+      "name": "Perales del Puerto"
+    },
+    {
+      "id": 183457,
+      "name": "Pescueza"
+    },
+    {
+      "id": 183458,
+      "name": "Pesga La"
+    },
+    {
+      "id": 183459,
+      "name": "Piedras Albas"
+    },
+    {
+      "id": 183460,
+      "name": "Pinofranqueado"
+    },
+    {
+      "id": 183461,
+      "name": "Piornal"
+    },
+    {
+      "id": 183462,
+      "name": "Plasencia"
+    },
+    {
+      "id": 183463,
+      "name": "Plasenzuela"
+    },
+    {
+      "id": 183464,
+      "name": "Portaje"
+    },
+    {
+      "id": 183465,
+      "name": "Portezuelo"
+    },
+    {
+      "id": 183466,
+      "name": "Pozuelo de Zarzón"
+    },
+    {
+      "id": 183467,
+      "name": "Puerto de Santa Cruz"
+    },
+    {
+      "id": 183468,
+      "name": "Ríolobos"
+    },
+    {
+      "id": 183469,
+      "name": "Robledillo de Gata"
+    },
+    {
+      "id": 183470,
+      "name": "Robledillo de la Vera"
+    },
+    {
+      "id": 183471,
+      "name": "Robledillo de Trujillo"
+    },
+    {
+      "id": 183472,
+      "name": "Robledollano"
+    },
+    {
+      "id": 183473,
+      "name": "Romangordo"
+    },
+    {
+      "id": 183474,
+      "name": "Rosalejo"
+    },
+    {
+      "id": 183475,
+      "name": "Ruanes"
+    },
+    {
+      "id": 183476,
+      "name": "Salorino"
+    },
+    {
+      "id": 183477,
+      "name": "Salvatierra de Santiago"
+    },
+    {
+      "id": 183478,
+      "name": "San Martín de Trevejo"
+    },
+    {
+      "id": 183479,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 183480,
+      "name": "Santa Cruz de la Sierra"
+    },
+    {
+      "id": 183481,
+      "name": "Santa Cruz de Paniagua"
+    },
+    {
+      "id": 183482,
+      "name": "Santa Marta de Magasca"
+    },
+    {
+      "id": 183483,
+      "name": "Santiago de Alcántara"
+    },
+    {
+      "id": 183484,
+      "name": "Santiago del Campo"
+    },
+    {
+      "id": 183485,
+      "name": "Santibáñez el Alto"
+    },
+    {
+      "id": 183486,
+      "name": "Santibáñez el Bajo"
+    },
+    {
+      "id": 183487,
+      "name": "Saucedilla"
+    },
+    {
+      "id": 183488,
+      "name": "Segura de Toro"
+    },
+    {
+      "id": 183489,
+      "name": "Serradilla"
+    },
+    {
+      "id": 183490,
+      "name": "Serrejón"
+    },
+    {
+      "id": 183491,
+      "name": "Sierra de Fuentes"
+    },
+    {
+      "id": 183492,
+      "name": "Talaván"
+    },
+    {
+      "id": 183493,
+      "name": "Talaveruela de la Vera"
+    },
+    {
+      "id": 183494,
+      "name": "Talayuela"
+    },
+    {
+      "id": 183495,
+      "name": "Tejeda de Tiétar"
+    },
+    {
+      "id": 183496,
+      "name": "Toril"
+    },
+    {
+      "id": 183497,
+      "name": "Tornavacas"
+    },
+    {
+      "id": 183498,
+      "name": "Torno El"
+    },
+    {
+      "id": 183499,
+      "name": "Torre de Don Miguel"
+    },
+    {
+      "id": 183500,
+      "name": "Torre de Santa María"
+    },
+    {
+      "id": 183501,
+      "name": "Torrecilla de los Ángeles"
+    },
+    {
+      "id": 183502,
+      "name": "Torrecillas de la Tiesa"
+    },
+    {
+      "id": 183503,
+      "name": "Torrejón el Rubio"
+    },
+    {
+      "id": 183504,
+      "name": "Torrejoncillo"
+    },
+    {
+      "id": 183505,
+      "name": "Torremenga"
+    },
+    {
+      "id": 183506,
+      "name": "Torremocha"
+    },
+    {
+      "id": 183507,
+      "name": "Torreorgaz"
+    },
+    {
+      "id": 183508,
+      "name": "Torrequemada"
+    },
+    {
+      "id": 183509,
+      "name": "Trujillo"
+    },
+    {
+      "id": 183510,
+      "name": "Valdastillas"
+    },
+    {
+      "id": 183511,
+      "name": "Valdecañas de Tajo"
+    },
+    {
+      "id": 183512,
+      "name": "Valdefuentes"
+    },
+    {
+      "id": 183513,
+      "name": "Valdehúncar"
+    },
+    {
+      "id": 183514,
+      "name": "Valdelacasa de Tajo"
+    },
+    {
+      "id": 183515,
+      "name": "Valdemorales"
+    },
+    {
+      "id": 183516,
+      "name": "Valdeobispo"
+    },
+    {
+      "id": 183517,
+      "name": "Valencia de Alcántara"
+    },
+    {
+      "id": 183518,
+      "name": "Valverde de la Vera"
+    },
+    {
+      "id": 183519,
+      "name": "Valverde del Fresno"
+    },
+    {
+      "id": 183520,
+      "name": "Vegaviana"
+    },
+    {
+      "id": 183521,
+      "name": "Viandar de la Vera"
+    },
+    {
+      "id": 183522,
+      "name": "Villa del Campo"
+    },
+    {
+      "id": 183523,
+      "name": "Villa del Rey"
+    },
+    {
+      "id": 183524,
+      "name": "Villamesías"
+    },
+    {
+      "id": 183525,
+      "name": "Villamiel"
+    },
+    {
+      "id": 183526,
+      "name": "Villanueva de la Sierra"
+    },
+    {
+      "id": 183527,
+      "name": "Villanueva de la Vera"
+    },
+    {
+      "id": 183528,
+      "name": "Villar de Plasencia"
+    },
+    {
+      "id": 183529,
+      "name": "Villar del Pedroso"
+    },
+    {
+      "id": 183530,
+      "name": "Villasbuenas de Gata"
+    },
+    {
+      "id": 183531,
+      "name": "Zarza de Granadilla"
+    },
+    {
+      "id": 183532,
+      "name": "Zarza de Montánchez"
+    },
+    {
+      "id": 183533,
+      "name": "Zarza la Mayor"
+    },
+    {
+      "id": 183534,
+      "name": "Zorita"
+    }
+  ]
+}

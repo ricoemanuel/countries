@@ -1,0 +1,823 @@
+{
+  "id": 6554,
+  "name": "Toledo",
+  "state_code": "TO",
+  "cities": [
+    {
+      "id": 188678,
+      "name": "Ajofrín"
+    },
+    {
+      "id": 188679,
+      "name": "Alameda de la Sagra"
+    },
+    {
+      "id": 188680,
+      "name": "Albarreal de Tajo"
+    },
+    {
+      "id": 188681,
+      "name": "Alcabón"
+    },
+    {
+      "id": 188682,
+      "name": "Alcañizo"
+    },
+    {
+      "id": 188683,
+      "name": "Alcaudete de la Jara"
+    },
+    {
+      "id": 188684,
+      "name": "Alcolea de Tajo"
+    },
+    {
+      "id": 188685,
+      "name": "Aldea en Cabo"
+    },
+    {
+      "id": 188686,
+      "name": "Aldeanueva de Barbarroya"
+    },
+    {
+      "id": 188687,
+      "name": "Aldeanueva de San Bartolomé"
+    },
+    {
+      "id": 188688,
+      "name": "Almendral de la Cañada"
+    },
+    {
+      "id": 188689,
+      "name": "Almonacid de Toledo"
+    },
+    {
+      "id": 188690,
+      "name": "Almorox"
+    },
+    {
+      "id": 188691,
+      "name": "Añover de Tajo"
+    },
+    {
+      "id": 188692,
+      "name": "Arcicóllar"
+    },
+    {
+      "id": 188693,
+      "name": "Argés"
+    },
+    {
+      "id": 188694,
+      "name": "Azután"
+    },
+    {
+      "id": 188695,
+      "name": "Barcience"
+    },
+    {
+      "id": 188696,
+      "name": "Bargas"
+    },
+    {
+      "id": 188697,
+      "name": "Belvis de la Jara"
+    },
+    {
+      "id": 188698,
+      "name": "Borox"
+    },
+    {
+      "id": 188699,
+      "name": "Buenaventura"
+    },
+    {
+      "id": 188700,
+      "name": "Burguillos de Toledo"
+    },
+    {
+      "id": 188701,
+      "name": "Burujón"
+    },
+    {
+      "id": 188702,
+      "name": "Cabañas de la Sagra"
+    },
+    {
+      "id": 188703,
+      "name": "Cabañas de Yepes"
+    },
+    {
+      "id": 188704,
+      "name": "Cabezamesada"
+    },
+    {
+      "id": 188705,
+      "name": "Calera y Chozas"
+    },
+    {
+      "id": 188706,
+      "name": "Caleruela"
+    },
+    {
+      "id": 188707,
+      "name": "Calzada de Oropesa"
+    },
+    {
+      "id": 188708,
+      "name": "Camarena"
+    },
+    {
+      "id": 188709,
+      "name": "Camarenilla"
+    },
+    {
+      "id": 188710,
+      "name": "Campillo de la Jara El"
+    },
+    {
+      "id": 188711,
+      "name": "Camuñas"
+    },
+    {
+      "id": 188712,
+      "name": "Cardiel de los Montes"
+    },
+    {
+      "id": 188713,
+      "name": "Carmena"
+    },
+    {
+      "id": 188714,
+      "name": "Carpio de Tajo El"
+    },
+    {
+      "id": 188715,
+      "name": "Carranque"
+    },
+    {
+      "id": 188716,
+      "name": "Carriches"
+    },
+    {
+      "id": 188717,
+      "name": "Casar de Escalona El"
+    },
+    {
+      "id": 188718,
+      "name": "Casarrubios del Monte"
+    },
+    {
+      "id": 188719,
+      "name": "Casasbuenas"
+    },
+    {
+      "id": 188720,
+      "name": "Castillo de Bayuela"
+    },
+    {
+      "id": 188721,
+      "name": "Cazalegas"
+    },
+    {
+      "id": 188722,
+      "name": "Cebolla"
+    },
+    {
+      "id": 188723,
+      "name": "Cedillo del Condado"
+    },
+    {
+      "id": 188724,
+      "name": "Cerralbos Los"
+    },
+    {
+      "id": 188725,
+      "name": "Cervera de los Montes"
+    },
+    {
+      "id": 188726,
+      "name": "Chozas de Canales"
+    },
+    {
+      "id": 188727,
+      "name": "Chueca"
+    },
+    {
+      "id": 188728,
+      "name": "Ciruelos"
+    },
+    {
+      "id": 188729,
+      "name": "Cobeja"
+    },
+    {
+      "id": 188730,
+      "name": "Cobisa"
+    },
+    {
+      "id": 188731,
+      "name": "Consuegra"
+    },
+    {
+      "id": 188732,
+      "name": "Corral de Almaguer"
+    },
+    {
+      "id": 188733,
+      "name": "Cuerva"
+    },
+    {
+      "id": 188734,
+      "name": "Domingo Pérez"
+    },
+    {
+      "id": 188735,
+      "name": "Dosbarrios"
+    },
+    {
+      "id": 188736,
+      "name": "Erustes"
+    },
+    {
+      "id": 188737,
+      "name": "Escalona"
+    },
+    {
+      "id": 188738,
+      "name": "Escalonilla"
+    },
+    {
+      "id": 188739,
+      "name": "Espinoso del Rey"
+    },
+    {
+      "id": 188740,
+      "name": "Esquivias"
+    },
+    {
+      "id": 188741,
+      "name": "Estrella La"
+    },
+    {
+      "id": 188742,
+      "name": "Fuensalida"
+    },
+    {
+      "id": 188743,
+      "name": "Gálvez"
+    },
+    {
+      "id": 188744,
+      "name": "Garciotum"
+    },
+    {
+      "id": 188745,
+      "name": "Gerindote"
+    },
+    {
+      "id": 188746,
+      "name": "Guadamur"
+    },
+    {
+      "id": 188747,
+      "name": "Guardia La"
+    },
+    {
+      "id": 188748,
+      "name": "Herencias Las"
+    },
+    {
+      "id": 188749,
+      "name": "Herreruela de Oropesa"
+    },
+    {
+      "id": 188750,
+      "name": "Hinojosa de San Vicente"
+    },
+    {
+      "id": 188751,
+      "name": "Hontanar"
+    },
+    {
+      "id": 188752,
+      "name": "Hormigos"
+    },
+    {
+      "id": 188753,
+      "name": "Huecas"
+    },
+    {
+      "id": 188754,
+      "name": "Huerta de Valdecarábanos"
+    },
+    {
+      "id": 188755,
+      "name": "Iglesuela La"
+    },
+    {
+      "id": 188756,
+      "name": "Illán de Vacas"
+    },
+    {
+      "id": 188757,
+      "name": "Illescas"
+    },
+    {
+      "id": 188758,
+      "name": "Lagartera"
+    },
+    {
+      "id": 188759,
+      "name": "Layos"
+    },
+    {
+      "id": 188760,
+      "name": "Lillo"
+    },
+    {
+      "id": 188761,
+      "name": "Lominchar"
+    },
+    {
+      "id": 188762,
+      "name": "Lucillos"
+    },
+    {
+      "id": 188763,
+      "name": "Madridejos"
+    },
+    {
+      "id": 188764,
+      "name": "Magán"
+    },
+    {
+      "id": 188765,
+      "name": "Malpica de Tajo"
+    },
+    {
+      "id": 188766,
+      "name": "Manzaneque"
+    },
+    {
+      "id": 188767,
+      "name": "Maqueda"
+    },
+    {
+      "id": 188768,
+      "name": "Marjaliza"
+    },
+    {
+      "id": 188769,
+      "name": "Marrupe"
+    },
+    {
+      "id": 188770,
+      "name": "Mascaraque"
+    },
+    {
+      "id": 188771,
+      "name": "Mata La"
+    },
+    {
+      "id": 188772,
+      "name": "Mazarambroz"
+    },
+    {
+      "id": 188773,
+      "name": "Mejorada"
+    },
+    {
+      "id": 188774,
+      "name": "Menasalbas"
+    },
+    {
+      "id": 188775,
+      "name": "Méntrida"
+    },
+    {
+      "id": 188776,
+      "name": "Mesegar de Tajo"
+    },
+    {
+      "id": 188777,
+      "name": "Miguel Esteban"
+    },
+    {
+      "id": 188778,
+      "name": "Mocejón"
+    },
+    {
+      "id": 188779,
+      "name": "Mohedas de la Jara"
+    },
+    {
+      "id": 188780,
+      "name": "Montearagón"
+    },
+    {
+      "id": 188781,
+      "name": "Montesclaros"
+    },
+    {
+      "id": 188782,
+      "name": "Mora"
+    },
+    {
+      "id": 188783,
+      "name": "Nambroca"
+    },
+    {
+      "id": 188784,
+      "name": "Nava de Ricomalillo La"
+    },
+    {
+      "id": 188785,
+      "name": "Navahermosa"
+    },
+    {
+      "id": 188786,
+      "name": "Navalcán"
+    },
+    {
+      "id": 188787,
+      "name": "Navalmoralejo"
+    },
+    {
+      "id": 188788,
+      "name": "Navalmorales Los"
+    },
+    {
+      "id": 188789,
+      "name": "Navalucillos Los"
+    },
+    {
+      "id": 188790,
+      "name": "Navamorcuende"
+    },
+    {
+      "id": 188791,
+      "name": "Noblejas"
+    },
+    {
+      "id": 188792,
+      "name": "Noez"
+    },
+    {
+      "id": 188793,
+      "name": "Nombela"
+    },
+    {
+      "id": 188794,
+      "name": "Novés"
+    },
+    {
+      "id": 188795,
+      "name": "Numancia de la Sagra"
+    },
+    {
+      "id": 188796,
+      "name": "Nuño Gómez"
+    },
+    {
+      "id": 188797,
+      "name": "Ocaña"
+    },
+    {
+      "id": 188798,
+      "name": "Olías del Rey"
+    },
+    {
+      "id": 188799,
+      "name": "Ontígola"
+    },
+    {
+      "id": 188800,
+      "name": "Orgaz"
+    },
+    {
+      "id": 188801,
+      "name": "Oropesa"
+    },
+    {
+      "id": 188802,
+      "name": "Otero"
+    },
+    {
+      "id": 188803,
+      "name": "Palomeque"
+    },
+    {
+      "id": 188804,
+      "name": "Pantoja"
+    },
+    {
+      "id": 188805,
+      "name": "Paredes de Escalona"
+    },
+    {
+      "id": 188806,
+      "name": "Parrillas"
+    },
+    {
+      "id": 188807,
+      "name": "Pelahustán"
+    },
+    {
+      "id": 188808,
+      "name": "Pepino"
+    },
+    {
+      "id": 188809,
+      "name": "Polán"
+    },
+    {
+      "id": 188810,
+      "name": "Portillo de Toledo"
+    },
+    {
+      "id": 188811,
+      "name": "Puebla de Almoradiel La"
+    },
+    {
+      "id": 188812,
+      "name": "Puebla de Montalbán La"
+    },
+    {
+      "id": 188813,
+      "name": "Pueblanueva La"
+    },
+    {
+      "id": 188814,
+      "name": "Puente del Arzobispo El"
+    },
+    {
+      "id": 188815,
+      "name": "Puerto de San Vicente"
+    },
+    {
+      "id": 188816,
+      "name": "Pulgar"
+    },
+    {
+      "id": 188817,
+      "name": "Quero"
+    },
+    {
+      "id": 188818,
+      "name": "Quintanar de la Orden"
+    },
+    {
+      "id": 188819,
+      "name": "Quismondo"
+    },
+    {
+      "id": 188820,
+      "name": "Real de San Vicente El"
+    },
+    {
+      "id": 188821,
+      "name": "Recas"
+    },
+    {
+      "id": 188822,
+      "name": "Retamoso de la Jara"
+    },
+    {
+      "id": 188823,
+      "name": "Rielves"
+    },
+    {
+      "id": 188824,
+      "name": "Robledo del Mazo"
+    },
+    {
+      "id": 188825,
+      "name": "Romeral El"
+    },
+    {
+      "id": 188826,
+      "name": "San Bartolomé de las Abiertas"
+    },
+    {
+      "id": 188827,
+      "name": "San Martín de Montalbán"
+    },
+    {
+      "id": 188828,
+      "name": "San Martín de Pusa"
+    },
+    {
+      "id": 188829,
+      "name": "San Pablo de los Montes"
+    },
+    {
+      "id": 188830,
+      "name": "San Román de los Montes"
+    },
+    {
+      "id": 188831,
+      "name": "Santa Ana de Pusa"
+    },
+    {
+      "id": 188832,
+      "name": "Santa Cruz de la Zarza"
+    },
+    {
+      "id": 188833,
+      "name": "Santa Cruz del Retamar"
+    },
+    {
+      "id": 188834,
+      "name": "Santa Olalla"
+    },
+    {
+      "id": 188835,
+      "name": "Santo Domingo-Caudilla"
+    },
+    {
+      "id": 188836,
+      "name": "Sartajada"
+    },
+    {
+      "id": 188837,
+      "name": "Segurilla"
+    },
+    {
+      "id": 188838,
+      "name": "Seseña"
+    },
+    {
+      "id": 188839,
+      "name": "Sevilleja de la Jara"
+    },
+    {
+      "id": 188840,
+      "name": "Sonseca"
+    },
+    {
+      "id": 188841,
+      "name": "Sotillo de las Palomas"
+    },
+    {
+      "id": 188842,
+      "name": "Talavera de la Reina"
+    },
+    {
+      "id": 188843,
+      "name": "Tembleque"
+    },
+    {
+      "id": 188844,
+      "name": "Toboso El"
+    },
+    {
+      "id": 188845,
+      "name": "Toledo"
+    },
+    {
+      "id": 188846,
+      "name": "Torralba de Oropesa"
+    },
+    {
+      "id": 188847,
+      "name": "Torre de Esteban Hambrán La"
+    },
+    {
+      "id": 188848,
+      "name": "Torrecilla de la Jara"
+    },
+    {
+      "id": 188849,
+      "name": "Torrico"
+    },
+    {
+      "id": 188850,
+      "name": "Torrijos"
+    },
+    {
+      "id": 188851,
+      "name": "Totanés"
+    },
+    {
+      "id": 188852,
+      "name": "Turleque"
+    },
+    {
+      "id": 188853,
+      "name": "Ugena"
+    },
+    {
+      "id": 188854,
+      "name": "Urda"
+    },
+    {
+      "id": 188855,
+      "name": "Valdeverdeja"
+    },
+    {
+      "id": 188856,
+      "name": "Valmojado"
+    },
+    {
+      "id": 188857,
+      "name": "Velada"
+    },
+    {
+      "id": 188858,
+      "name": "Ventas con Peña Aguilera Las"
+    },
+    {
+      "id": 188859,
+      "name": "Ventas de Retamosa Las"
+    },
+    {
+      "id": 188860,
+      "name": "Ventas de San Julián Las"
+    },
+    {
+      "id": 188861,
+      "name": "Villa de Don Fadrique La"
+    },
+    {
+      "id": 188862,
+      "name": "Villacañas"
+    },
+    {
+      "id": 188863,
+      "name": "Villafranca de los Caballeros"
+    },
+    {
+      "id": 188864,
+      "name": "Villaluenga de la Sagra"
+    },
+    {
+      "id": 188865,
+      "name": "Villamiel de Toledo"
+    },
+    {
+      "id": 188866,
+      "name": "Villaminaya"
+    },
+    {
+      "id": 188867,
+      "name": "Villamuelas"
+    },
+    {
+      "id": 188868,
+      "name": "Villanueva de Alcardete"
+    },
+    {
+      "id": 188869,
+      "name": "Villanueva de Bogas"
+    },
+    {
+      "id": 188870,
+      "name": "Villarejo de Montalbán"
+    },
+    {
+      "id": 188871,
+      "name": "Villarrubia de Santiago"
+    },
+    {
+      "id": 188872,
+      "name": "Villaseca de la Sagra"
+    },
+    {
+      "id": 188873,
+      "name": "Villasequilla"
+    },
+    {
+      "id": 188874,
+      "name": "Villatobas"
+    },
+    {
+      "id": 188875,
+      "name": "Viso de San Juan El"
+    },
+    {
+      "id": 188876,
+      "name": "Yébenes Los"
+    },
+    {
+      "id": 188877,
+      "name": "Yeles"
+    },
+    {
+      "id": 188878,
+      "name": "Yepes"
+    },
+    {
+      "id": 188879,
+      "name": "Yuncler"
+    },
+    {
+      "id": 188880,
+      "name": "Yunclillos"
+    },
+    {
+      "id": 188881,
+      "name": "Yuncos"
+    }
+  ]
+}

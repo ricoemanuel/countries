@@ -1,0 +1,555 @@
+{
+  "id": 5986,
+  "name": "Sălaj County",
+  "state_code": "SJ",
+  "cities": [
+    {
+      "id": 171608,
+      "name": "Aghireș"
+    },
+    {
+      "id": 171609,
+      "name": "Agrij"
+    },
+    {
+      "id": 171610,
+      "name": "Almaşu"
+    },
+    {
+      "id": 171611,
+      "name": "Băbeni"
+    },
+    {
+      "id": 171612,
+      "name": "Bălan"
+    },
+    {
+      "id": 171613,
+      "name": "Bănişor"
+    },
+    {
+      "id": 171614,
+      "name": "Benesat"
+    },
+    {
+      "id": 171615,
+      "name": "Bobota"
+    },
+    {
+      "id": 171616,
+      "name": "Bocşa"
+    },
+    {
+      "id": 171617,
+      "name": "Boghiș"
+    },
+    {
+      "id": 171618,
+      "name": "Buciumi"
+    },
+    {
+      "id": 171619,
+      "name": "Camăr"
+    },
+    {
+      "id": 171620,
+      "name": "Carastelec"
+    },
+    {
+      "id": 171621,
+      "name": "Cehei"
+    },
+    {
+      "id": 171622,
+      "name": "Cehu Silvaniei"
+    },
+    {
+      "id": 171623,
+      "name": "Chendrea"
+    },
+    {
+      "id": 171624,
+      "name": "Chieşd"
+    },
+    {
+      "id": 171625,
+      "name": "Cizer"
+    },
+    {
+      "id": 171626,
+      "name": "Comuna Agrij"
+    },
+    {
+      "id": 171627,
+      "name": "Comuna Almaşu"
+    },
+    {
+      "id": 171628,
+      "name": "Comuna Băbeni"
+    },
+    {
+      "id": 171629,
+      "name": "Comuna Bălan"
+    },
+    {
+      "id": 171630,
+      "name": "Comuna Bănişor"
+    },
+    {
+      "id": 171631,
+      "name": "Comuna Benesat"
+    },
+    {
+      "id": 171632,
+      "name": "Comuna Bobota"
+    },
+    {
+      "id": 171633,
+      "name": "Comuna Bocşa"
+    },
+    {
+      "id": 171634,
+      "name": "Comuna Boghiş"
+    },
+    {
+      "id": 171635,
+      "name": "Comuna Buciumi"
+    },
+    {
+      "id": 171636,
+      "name": "Comuna Camăr"
+    },
+    {
+      "id": 171637,
+      "name": "Comuna Carastelec"
+    },
+    {
+      "id": 171638,
+      "name": "Comuna Cehu Silvaniei"
+    },
+    {
+      "id": 171639,
+      "name": "Comuna Chieşd"
+    },
+    {
+      "id": 171640,
+      "name": "Comuna Cizer"
+    },
+    {
+      "id": 171641,
+      "name": "Comuna Coşeiu"
+    },
+    {
+      "id": 171642,
+      "name": "Comuna Crasna"
+    },
+    {
+      "id": 171643,
+      "name": "Comuna Creaca"
+    },
+    {
+      "id": 171644,
+      "name": "Comuna Crişeni"
+    },
+    {
+      "id": 171645,
+      "name": "Comuna Cristolţ"
+    },
+    {
+      "id": 171646,
+      "name": "Comuna Cuzăplac"
+    },
+    {
+      "id": 171647,
+      "name": "Comuna Dobrin"
+    },
+    {
+      "id": 171648,
+      "name": "Comuna Dragu"
+    },
+    {
+      "id": 171649,
+      "name": "Comuna Fildu De Jos"
+    },
+    {
+      "id": 171650,
+      "name": "Comuna Gâlgău"
+    },
+    {
+      "id": 171651,
+      "name": "Comuna Gârbou"
+    },
+    {
+      "id": 171652,
+      "name": "Comuna Halmăşd"
+    },
+    {
+      "id": 171653,
+      "name": "Comuna Hereclean"
+    },
+    {
+      "id": 171654,
+      "name": "Comuna Hida"
+    },
+    {
+      "id": 171655,
+      "name": "Comuna Horoatu Crasnei"
+    },
+    {
+      "id": 171656,
+      "name": "Comuna Ileanda"
+    },
+    {
+      "id": 171657,
+      "name": "Comuna Ip"
+    },
+    {
+      "id": 171658,
+      "name": "Comuna Letca"
+    },
+    {
+      "id": 171659,
+      "name": "Comuna Lozna"
+    },
+    {
+      "id": 171660,
+      "name": "Comuna Măerişte"
+    },
+    {
+      "id": 171661,
+      "name": "Comuna Marca"
+    },
+    {
+      "id": 171662,
+      "name": "Comună Meseşenii de Jos"
+    },
+    {
+      "id": 171663,
+      "name": "Comuna Mirşid"
+    },
+    {
+      "id": 171664,
+      "name": "Comuna Năpradea"
+    },
+    {
+      "id": 171665,
+      "name": "Comuna Nuşfalău"
+    },
+    {
+      "id": 171666,
+      "name": "Comuna Pericei"
+    },
+    {
+      "id": 171667,
+      "name": "Comuna Plopiş"
+    },
+    {
+      "id": 171668,
+      "name": "Comuna Poiana Blenchii"
+    },
+    {
+      "id": 171669,
+      "name": "Comuna Românaşi"
+    },
+    {
+      "id": 171670,
+      "name": "Comuna Rus"
+    },
+    {
+      "id": 171671,
+      "name": "Comuna Sâg"
+    },
+    {
+      "id": 171672,
+      "name": "Comuna Sălăţig"
+    },
+    {
+      "id": 171673,
+      "name": "Comuna Şamşud"
+    },
+    {
+      "id": 171674,
+      "name": "Comuna Sânmihaiu Almaşului"
+    },
+    {
+      "id": 171675,
+      "name": "Comuna Şărmăşag"
+    },
+    {
+      "id": 171676,
+      "name": "Comuna Şimişna"
+    },
+    {
+      "id": 171677,
+      "name": "Comuna Someş-Odorhei"
+    },
+    {
+      "id": 171678,
+      "name": "Comuna Surduc"
+    },
+    {
+      "id": 171679,
+      "name": "Comuna Treznea"
+    },
+    {
+      "id": 171680,
+      "name": "Comuna Valcãu De Jos"
+    },
+    {
+      "id": 171681,
+      "name": "Comuna Vârşolţ"
+    },
+    {
+      "id": 171682,
+      "name": "Comuna Zalha"
+    },
+    {
+      "id": 171683,
+      "name": "Comuna Zimbor"
+    },
+    {
+      "id": 171684,
+      "name": "Coşeiu"
+    },
+    {
+      "id": 171685,
+      "name": "Crasna"
+    },
+    {
+      "id": 171686,
+      "name": "Creaca"
+    },
+    {
+      "id": 171687,
+      "name": "Crişeni"
+    },
+    {
+      "id": 171688,
+      "name": "Cristolţ"
+    },
+    {
+      "id": 171689,
+      "name": "Cuzăplac"
+    },
+    {
+      "id": 171690,
+      "name": "Deja"
+    },
+    {
+      "id": 171691,
+      "name": "Derșida"
+    },
+    {
+      "id": 171692,
+      "name": "Dioșod"
+    },
+    {
+      "id": 171693,
+      "name": "Dobrin"
+    },
+    {
+      "id": 171694,
+      "name": "Dragu"
+    },
+    {
+      "id": 171695,
+      "name": "Fildu de Jos"
+    },
+    {
+      "id": 171696,
+      "name": "Gâlgău"
+    },
+    {
+      "id": 171697,
+      "name": "Gâlgău Almaşului"
+    },
+    {
+      "id": 171698,
+      "name": "Gârbou"
+    },
+    {
+      "id": 171699,
+      "name": "Giurtelecu Șimleului"
+    },
+    {
+      "id": 171700,
+      "name": "Halmăşd"
+    },
+    {
+      "id": 171701,
+      "name": "Hereclean"
+    },
+    {
+      "id": 171702,
+      "name": "Hida"
+    },
+    {
+      "id": 171703,
+      "name": "Horoatu Crasnei"
+    },
+    {
+      "id": 171704,
+      "name": "Ileanda"
+    },
+    {
+      "id": 171705,
+      "name": "Ip"
+    },
+    {
+      "id": 171706,
+      "name": "Jibou"
+    },
+    {
+      "id": 171707,
+      "name": "Letca"
+    },
+    {
+      "id": 171708,
+      "name": "Lozna"
+    },
+    {
+      "id": 171709,
+      "name": "Măerişte"
+    },
+    {
+      "id": 171710,
+      "name": "Mal"
+    },
+    {
+      "id": 171711,
+      "name": "Marca"
+    },
+    {
+      "id": 171712,
+      "name": "Marin"
+    },
+    {
+      "id": 171713,
+      "name": "Meseşenii de Jos"
+    },
+    {
+      "id": 171714,
+      "name": "Mirşid"
+    },
+    {
+      "id": 171715,
+      "name": "Municipiul Zalãu"
+    },
+    {
+      "id": 171716,
+      "name": "Năpradea"
+    },
+    {
+      "id": 171717,
+      "name": "Nuşfalău"
+    },
+    {
+      "id": 171718,
+      "name": "Oraș Jibou"
+    },
+    {
+      "id": 171719,
+      "name": "Oraş Şimleu Silvaniei"
+    },
+    {
+      "id": 171720,
+      "name": "Peceiu"
+    },
+    {
+      "id": 171721,
+      "name": "Pericei"
+    },
+    {
+      "id": 171722,
+      "name": "Plopiş"
+    },
+    {
+      "id": 171723,
+      "name": "Poiana Blenchii"
+    },
+    {
+      "id": 171724,
+      "name": "Pusta"
+    },
+    {
+      "id": 171725,
+      "name": "Românaşi"
+    },
+    {
+      "id": 171726,
+      "name": "Rus"
+    },
+    {
+      "id": 171727,
+      "name": "Sâg"
+    },
+    {
+      "id": 171728,
+      "name": "Sălăţig"
+    },
+    {
+      "id": 171729,
+      "name": "Şamşud"
+    },
+    {
+      "id": 171730,
+      "name": "Sânmihaiu Almaşului"
+    },
+    {
+      "id": 171731,
+      "name": "Şărmăşag"
+    },
+    {
+      "id": 171732,
+      "name": "Șimișna"
+    },
+    {
+      "id": 171733,
+      "name": "Şimleu Silvaniei"
+    },
+    {
+      "id": 171734,
+      "name": "Someş-Odorhei"
+    },
+    {
+      "id": 171735,
+      "name": "Stârciu"
+    },
+    {
+      "id": 171736,
+      "name": "Surduc"
+    },
+    {
+      "id": 171737,
+      "name": "Tihău"
+    },
+    {
+      "id": 171738,
+      "name": "Treznea"
+    },
+    {
+      "id": 171739,
+      "name": "Valcău de Jos"
+    },
+    {
+      "id": 171740,
+      "name": "Vârşolţ"
+    },
+    {
+      "id": 171741,
+      "name": "Zalău"
+    },
+    {
+      "id": 171742,
+      "name": "Zalha"
+    },
+    {
+      "id": 171743,
+      "name": "Zăuan"
+    },
+    {
+      "id": 171744,
+      "name": "Zimbor"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "id": 5999,
+  "name": "Arkhangelsk",
+  "state_code": "ARK",
+  "cities": [
+    {
+      "id": 173712,
+      "name": "Arkhangel’sk"
+    },
+    {
+      "id": 173713,
+      "name": "Berëznik"
+    },
+    {
+      "id": 173714,
+      "name": "Cheremushskiy"
+    },
+    {
+      "id": 173715,
+      "name": "Dvinskoy"
+    },
+    {
+      "id": 173716,
+      "name": "Il’insko-Podomskoye"
+    },
+    {
+      "id": 173717,
+      "name": "Ileza"
+    },
+    {
+      "id": 173718,
+      "name": "Isakogorka"
+    },
+    {
+      "id": 173719,
+      "name": "Kamenka"
+    },
+    {
+      "id": 173720,
+      "name": "Kargopol’"
+    },
+    {
+      "id": 173721,
+      "name": "Kargopol’skiy Rayon"
+    },
+    {
+      "id": 173722,
+      "name": "Karpogory"
+    },
+    {
+      "id": 173723,
+      "name": "Katunino"
+    },
+    {
+      "id": 173724,
+      "name": "Kharitonovo"
+    },
+    {
+      "id": 173725,
+      "name": "Kholmogorskiy Rayon"
+    },
+    {
+      "id": 173726,
+      "name": "Kholmogory"
+    },
+    {
+      "id": 173727,
+      "name": "Kizema"
+    },
+    {
+      "id": 173728,
+      "name": "Kodino"
+    },
+    {
+      "id": 173729,
+      "name": "Konëvo"
+    },
+    {
+      "id": 173730,
+      "name": "Konosha"
+    },
+    {
+      "id": 173731,
+      "name": "Koryazhma"
+    },
+    {
+      "id": 173732,
+      "name": "Kotlas"
+    },
+    {
+      "id": 173733,
+      "name": "Kotlasskiy Rayon"
+    },
+    {
+      "id": 173734,
+      "name": "Krasnoborsk"
+    },
+    {
+      "id": 173735,
+      "name": "Kuloy"
+    },
+    {
+      "id": 173736,
+      "name": "Lenskiy Rayon"
+    },
+    {
+      "id": 173737,
+      "name": "Leshukonskiy Rayon"
+    },
+    {
+      "id": 173738,
+      "name": "Leshukonskoye"
+    },
+    {
+      "id": 173739,
+      "name": "Loyga"
+    },
+    {
+      "id": 173740,
+      "name": "Lukovetskiy"
+    },
+    {
+      "id": 173741,
+      "name": "Mezen’"
+    },
+    {
+      "id": 173742,
+      "name": "Mezenskiy Rayon"
+    },
+    {
+      "id": 173743,
+      "name": "Mirnyy"
+    },
+    {
+      "id": 173744,
+      "name": "Novodvinsk"
+    },
+    {
+      "id": 173745,
+      "name": "Nyandoma"
+    },
+    {
+      "id": 173746,
+      "name": "Nyandomskiy Rayon"
+    },
+    {
+      "id": 173747,
+      "name": "Oksovskiy"
+    },
+    {
+      "id": 173748,
+      "name": "Onega"
+    },
+    {
+      "id": 173749,
+      "name": "Onezhskiy Rayon"
+    },
+    {
+      "id": 173750,
+      "name": "Pinega"
+    },
+    {
+      "id": 173751,
+      "name": "Pinezhskiy Rayon"
+    },
+    {
+      "id": 173752,
+      "name": "Plesetsk"
+    },
+    {
+      "id": 173753,
+      "name": "Podyuga"
+    },
+    {
+      "id": 173754,
+      "name": "Primorskiy Rayon"
+    },
+    {
+      "id": 173755,
+      "name": "Privodino"
+    },
+    {
+      "id": 173756,
+      "name": "Puksoozero"
+    },
+    {
+      "id": 173757,
+      "name": "Rochegda"
+    },
+    {
+      "id": 173758,
+      "name": "Samoded"
+    },
+    {
+      "id": 173759,
+      "name": "Severodvinsk"
+    },
+    {
+      "id": 173760,
+      "name": "Shalakusha"
+    },
+    {
+      "id": 173761,
+      "name": "Shangaly"
+    },
+    {
+      "id": 173762,
+      "name": "Shenkursk"
+    },
+    {
+      "id": 173763,
+      "name": "Shenkurskiy Rayon"
+    },
+    {
+      "id": 173764,
+      "name": "Shipitsyno"
+    },
+    {
+      "id": 173765,
+      "name": "Sol’vychegodsk"
+    },
+    {
+      "id": 173766,
+      "name": "Solginskiy"
+    },
+    {
+      "id": 173767,
+      "name": "Udimskiy"
+    },
+    {
+      "id": 173768,
+      "name": "Urdoma"
+    },
+    {
+      "id": 173769,
+      "name": "Ust’-Shonosha"
+    },
+    {
+      "id": 173770,
+      "name": "Ust’yanskiy Rayon"
+    },
+    {
+      "id": 173771,
+      "name": "Uyemskiy"
+    },
+    {
+      "id": 173772,
+      "name": "Vas’kovo"
+    },
+    {
+      "id": 173773,
+      "name": "Vel’sk"
+    },
+    {
+      "id": 173774,
+      "name": "Vel’skiy Rayon"
+    },
+    {
+      "id": 173775,
+      "name": "Verkhnyaya Toyma"
+    },
+    {
+      "id": 173776,
+      "name": "Voloshka"
+    },
+    {
+      "id": 173777,
+      "name": "Vychegodskiy"
+    },
+    {
+      "id": 173778,
+      "name": "Yagry"
+    },
+    {
+      "id": 173779,
+      "name": "Yarensk"
+    },
+    {
+      "id": 173780,
+      "name": "Yemetsk"
+    },
+    {
+      "id": 173781,
+      "name": "Yemtsa"
+    },
+    {
+      "id": 173782,
+      "name": "Yertsevo"
+    }
+  ]
+}

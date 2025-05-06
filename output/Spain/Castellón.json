@@ -1,0 +1,547 @@
+{
+  "id": 6521,
+  "name": "Castellón",
+  "state_code": "CS",
+  "cities": [
+    {
+      "id": 183693,
+      "name": "Aín"
+    },
+    {
+      "id": 183694,
+      "name": "Albocàsser"
+    },
+    {
+      "id": 183695,
+      "name": "Alcalà de Xivert"
+    },
+    {
+      "id": 183696,
+      "name": "Alcora l"
+    },
+    {
+      "id": 183697,
+      "name": "Alcudia de Veo"
+    },
+    {
+      "id": 183698,
+      "name": "Alfondeguilla"
+    },
+    {
+      "id": 183699,
+      "name": "Algimia de Almonacid"
+    },
+    {
+      "id": 183700,
+      "name": "Almazora/Almassora"
+    },
+    {
+      "id": 183701,
+      "name": "Almedíjar"
+    },
+    {
+      "id": 183702,
+      "name": "Almenara"
+    },
+    {
+      "id": 183703,
+      "name": "Alquerías del Niño Perdido"
+    },
+    {
+      "id": 183704,
+      "name": "Altura"
+    },
+    {
+      "id": 183705,
+      "name": "Arañuel"
+    },
+    {
+      "id": 183706,
+      "name": "Ares del Maestrat"
+    },
+    {
+      "id": 183707,
+      "name": "Argelita"
+    },
+    {
+      "id": 183708,
+      "name": "Artana"
+    },
+    {
+      "id": 183709,
+      "name": "Atzeneta del Maestrat"
+    },
+    {
+      "id": 183710,
+      "name": "Ayódar"
+    },
+    {
+      "id": 183711,
+      "name": "Azuébar"
+    },
+    {
+      "id": 183712,
+      "name": "Barracas"
+    },
+    {
+      "id": 183713,
+      "name": "Bejís"
+    },
+    {
+      "id": 183714,
+      "name": "Benafer"
+    },
+    {
+      "id": 183715,
+      "name": "Benafigos"
+    },
+    {
+      "id": 183716,
+      "name": "Benasal"
+    },
+    {
+      "id": 183717,
+      "name": "Benicarló"
+    },
+    {
+      "id": 183718,
+      "name": "Benicasim/Benicàssim"
+    },
+    {
+      "id": 183719,
+      "name": "Benlloch"
+    },
+    {
+      "id": 183720,
+      "name": "Betxí"
+    },
+    {
+      "id": 183721,
+      "name": "Borriana/Burriana"
+    },
+    {
+      "id": 183722,
+      "name": "Borriol"
+    },
+    {
+      "id": 183723,
+      "name": "Cabanes"
+    },
+    {
+      "id": 183724,
+      "name": "Càlig"
+    },
+    {
+      "id": 183725,
+      "name": "Canet lo Roig"
+    },
+    {
+      "id": 183726,
+      "name": "Castell de Cabres"
+    },
+    {
+      "id": 183727,
+      "name": "Castellfort"
+    },
+    {
+      "id": 183728,
+      "name": "Castellnovo"
+    },
+    {
+      "id": 183729,
+      "name": "Castellón de la Plana/Castelló de la Plana"
+    },
+    {
+      "id": 183730,
+      "name": "Castillo de Villamalefa"
+    },
+    {
+      "id": 183731,
+      "name": "Catí"
+    },
+    {
+      "id": 183732,
+      "name": "Caudiel"
+    },
+    {
+      "id": 183733,
+      "name": "Cervera del Maestre"
+    },
+    {
+      "id": 183734,
+      "name": "Chert/Xert"
+    },
+    {
+      "id": 183735,
+      "name": "Chilches/Xilxes"
+    },
+    {
+      "id": 183736,
+      "name": "Chodos/Xodos"
+    },
+    {
+      "id": 183737,
+      "name": "Chóvar"
+    },
+    {
+      "id": 183738,
+      "name": "Cinctorres"
+    },
+    {
+      "id": 183739,
+      "name": "Cirat"
+    },
+    {
+      "id": 183740,
+      "name": "Cortes de Arenoso"
+    },
+    {
+      "id": 183741,
+      "name": "Costur"
+    },
+    {
+      "id": 183742,
+      "name": "Coves de Vinromà les"
+    },
+    {
+      "id": 183743,
+      "name": "Culla"
+    },
+    {
+      "id": 183744,
+      "name": "Eslida"
+    },
+    {
+      "id": 183745,
+      "name": "Espadilla"
+    },
+    {
+      "id": 183746,
+      "name": "Fanzara"
+    },
+    {
+      "id": 183747,
+      "name": "Figueroles"
+    },
+    {
+      "id": 183748,
+      "name": "Forcall"
+    },
+    {
+      "id": 183749,
+      "name": "Fuente la Reina"
+    },
+    {
+      "id": 183750,
+      "name": "Fuentes de Ayódar"
+    },
+    {
+      "id": 183751,
+      "name": "Gaibiel"
+    },
+    {
+      "id": 183752,
+      "name": "Geldo"
+    },
+    {
+      "id": 183753,
+      "name": "Herbés"
+    },
+    {
+      "id": 183754,
+      "name": "Higueras"
+    },
+    {
+      "id": 183755,
+      "name": "Jana la"
+    },
+    {
+      "id": 183756,
+      "name": "Jérica"
+    },
+    {
+      "id": 183757,
+      "name": "Llosa la"
+    },
+    {
+      "id": 183758,
+      "name": "Lucena del Cid"
+    },
+    {
+      "id": 183759,
+      "name": "Ludiente"
+    },
+    {
+      "id": 183760,
+      "name": "Mata de Morella la"
+    },
+    {
+      "id": 183761,
+      "name": "Matet"
+    },
+    {
+      "id": 183762,
+      "name": "Moncofa"
+    },
+    {
+      "id": 183763,
+      "name": "Montán"
+    },
+    {
+      "id": 183764,
+      "name": "Montanejos"
+    },
+    {
+      "id": 183765,
+      "name": "Morella"
+    },
+    {
+      "id": 183766,
+      "name": "Navajas"
+    },
+    {
+      "id": 183767,
+      "name": "Nules"
+    },
+    {
+      "id": 183768,
+      "name": "Olocau del Rey"
+    },
+    {
+      "id": 183769,
+      "name": "Onda"
+    },
+    {
+      "id": 183770,
+      "name": "Oropesa del Mar/Orpesa"
+    },
+    {
+      "id": 183771,
+      "name": "Palanques"
+    },
+    {
+      "id": 183772,
+      "name": "Pavías"
+    },
+    {
+      "id": 183773,
+      "name": "Peníscola/Peñíscola"
+    },
+    {
+      "id": 183774,
+      "name": "Pina de Montalgrao"
+    },
+    {
+      "id": 183775,
+      "name": "Pobla de Benifassà la"
+    },
+    {
+      "id": 183776,
+      "name": "Pobla Tornesa la"
+    },
+    {
+      "id": 183777,
+      "name": "Portell de Morella"
+    },
+    {
+      "id": 183778,
+      "name": "Puebla de Arenoso"
+    },
+    {
+      "id": 183779,
+      "name": "Ribesalbes"
+    },
+    {
+      "id": 183780,
+      "name": "Rossell"
+    },
+    {
+      "id": 183781,
+      "name": "Sacañet"
+    },
+    {
+      "id": 183782,
+      "name": "Salzadella la"
+    },
+    {
+      "id": 183783,
+      "name": "San Rafael del Río"
+    },
+    {
+      "id": 183784,
+      "name": "Sant Joan de Moró"
+    },
+    {
+      "id": 183785,
+      "name": "Sant Jordi/San Jorge"
+    },
+    {
+      "id": 183786,
+      "name": "Sant Mateu"
+    },
+    {
+      "id": 183787,
+      "name": "Santa Magdalena de Pulpis"
+    },
+    {
+      "id": 183788,
+      "name": "Sarratella"
+    },
+    {
+      "id": 183789,
+      "name": "Segorbe"
+    },
+    {
+      "id": 183790,
+      "name": "Sierra Engarcerán"
+    },
+    {
+      "id": 183791,
+      "name": "Soneja"
+    },
+    {
+      "id": 183792,
+      "name": "Sot de Ferrer"
+    },
+    {
+      "id": 183793,
+      "name": "Sueras/Suera"
+    },
+    {
+      "id": 183794,
+      "name": "Tales"
+    },
+    {
+      "id": 183795,
+      "name": "Teresa"
+    },
+    {
+      "id": 183796,
+      "name": "Tírig"
+    },
+    {
+      "id": 183797,
+      "name": "Todolella"
+    },
+    {
+      "id": 183798,
+      "name": "Toga"
+    },
+    {
+      "id": 183799,
+      "name": "Torás"
+    },
+    {
+      "id": 183800,
+      "name": "Toro El"
+    },
+    {
+      "id": 183801,
+      "name": "Torralba del Pinar"
+    },
+    {
+      "id": 183802,
+      "name": "Torre dEn Besora la"
+    },
+    {
+      "id": 183803,
+      "name": "Torre den Doménec la"
+    },
+    {
+      "id": 183804,
+      "name": "Torreblanca"
+    },
+    {
+      "id": 183805,
+      "name": "Torrechiva"
+    },
+    {
+      "id": 183806,
+      "name": "Traiguera"
+    },
+    {
+      "id": 183807,
+      "name": "Useras/Useres les"
+    },
+    {
+      "id": 183808,
+      "name": "Vall dAlba"
+    },
+    {
+      "id": 183809,
+      "name": "Vall de Almonacid"
+    },
+    {
+      "id": 183810,
+      "name": "Vall dUixó la"
+    },
+    {
+      "id": 183811,
+      "name": "Vallat"
+    },
+    {
+      "id": 183812,
+      "name": "Vallibona"
+    },
+    {
+      "id": 183813,
+      "name": "Vila-real"
+    },
+    {
+      "id": 183814,
+      "name": "Vilafamés"
+    },
+    {
+      "id": 183815,
+      "name": "Vilanova dAlcolea"
+    },
+    {
+      "id": 183816,
+      "name": "Vilar de Canes"
+    },
+    {
+      "id": 183817,
+      "name": "Vilavella la"
+    },
+    {
+      "id": 183818,
+      "name": "Villafranca del Cid/Vilafranca"
+    },
+    {
+      "id": 183819,
+      "name": "Villahermosa del Río"
+    },
+    {
+      "id": 183820,
+      "name": "Villamalur"
+    },
+    {
+      "id": 183821,
+      "name": "Villanueva de Viver"
+    },
+    {
+      "id": 183822,
+      "name": "Villores"
+    },
+    {
+      "id": 183823,
+      "name": "Vinaròs"
+    },
+    {
+      "id": 183824,
+      "name": "Vistabella del Maestrazgo"
+    },
+    {
+      "id": 183825,
+      "name": "Viver"
+    },
+    {
+      "id": 183826,
+      "name": "Zorita del Maestrazgo"
+    },
+    {
+      "id": 183827,
+      "name": "Zucaina"
+    }
+  ]
+}

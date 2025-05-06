@@ -1,0 +1,603 @@
+{
+  "id": 5977,
+  "name": "Ialomița County",
+  "state_code": "IL",
+  "cities": [
+    {
+      "id": 169350,
+      "name": "Adâncata"
+    },
+    {
+      "id": 169351,
+      "name": "Albeşti"
+    },
+    {
+      "id": 169352,
+      "name": "Alexeni"
+    },
+    {
+      "id": 169353,
+      "name": "Amara"
+    },
+    {
+      "id": 169354,
+      "name": "Andrăşeşti"
+    },
+    {
+      "id": 169355,
+      "name": "Armăşeşti"
+    },
+    {
+      "id": 169356,
+      "name": "Axintele"
+    },
+    {
+      "id": 169357,
+      "name": "Balaciu"
+    },
+    {
+      "id": 169358,
+      "name": "Bărbulești"
+    },
+    {
+      "id": 169359,
+      "name": "Bărcăneşti"
+    },
+    {
+      "id": 169360,
+      "name": "Borănești"
+    },
+    {
+      "id": 169361,
+      "name": "Borduşani"
+    },
+    {
+      "id": 169362,
+      "name": "Broșteni"
+    },
+    {
+      "id": 169363,
+      "name": "Bucu"
+    },
+    {
+      "id": 169364,
+      "name": "Buești"
+    },
+    {
+      "id": 169365,
+      "name": "Buliga"
+    },
+    {
+      "id": 169366,
+      "name": "Căzăneşti"
+    },
+    {
+      "id": 169367,
+      "name": "Cegani"
+    },
+    {
+      "id": 169368,
+      "name": "Ciocârlia"
+    },
+    {
+      "id": 169369,
+      "name": "Ciochina"
+    },
+    {
+      "id": 169370,
+      "name": "Ciulniţa"
+    },
+    {
+      "id": 169371,
+      "name": "Cocora"
+    },
+    {
+      "id": 169372,
+      "name": "Colelia"
+    },
+    {
+      "id": 169373,
+      "name": "Comuna Adâncata"
+    },
+    {
+      "id": 169374,
+      "name": "Comuna Albeşti"
+    },
+    {
+      "id": 169375,
+      "name": "Comuna Alexeni"
+    },
+    {
+      "id": 169376,
+      "name": "Comuna Andrăşeşti"
+    },
+    {
+      "id": 169377,
+      "name": "Comuna Armăşeşti"
+    },
+    {
+      "id": 169378,
+      "name": "Comuna Axintele"
+    },
+    {
+      "id": 169379,
+      "name": "Comuna Balaciu"
+    },
+    {
+      "id": 169380,
+      "name": "Comuna Bărbuleşti"
+    },
+    {
+      "id": 169381,
+      "name": "Comuna Bărcăneşti"
+    },
+    {
+      "id": 169382,
+      "name": "Comuna Borăneşti"
+    },
+    {
+      "id": 169383,
+      "name": "Comuna Borduşani"
+    },
+    {
+      "id": 169384,
+      "name": "Comuna Bucu"
+    },
+    {
+      "id": 169385,
+      "name": "Comuna Bueşti"
+    },
+    {
+      "id": 169386,
+      "name": "Comuna Ciocârlia"
+    },
+    {
+      "id": 169387,
+      "name": "Comuna Ciochina"
+    },
+    {
+      "id": 169388,
+      "name": "Comuna Ciulniţa"
+    },
+    {
+      "id": 169389,
+      "name": "Comuna Cocora"
+    },
+    {
+      "id": 169390,
+      "name": "Comuna Colelia"
+    },
+    {
+      "id": 169391,
+      "name": "Comuna Cosâmbeşti"
+    },
+    {
+      "id": 169392,
+      "name": "Comuna Coşereni"
+    },
+    {
+      "id": 169393,
+      "name": "Comuna Drăgoeşti"
+    },
+    {
+      "id": 169394,
+      "name": "Comuna Dridu"
+    },
+    {
+      "id": 169395,
+      "name": "Comuna Făcăeni"
+    },
+    {
+      "id": 169396,
+      "name": "Comuna Gârbovi"
+    },
+    {
+      "id": 169397,
+      "name": "Comuna Gheorghe Doja"
+    },
+    {
+      "id": 169398,
+      "name": "Comuna Gheorghe Lazăr"
+    },
+    {
+      "id": 169399,
+      "name": "Comuna Giurgeni"
+    },
+    {
+      "id": 169400,
+      "name": "Comuna Grindu"
+    },
+    {
+      "id": 169401,
+      "name": "Comuna Griviţa"
+    },
+    {
+      "id": 169402,
+      "name": "Comuna Gura Ialomiţei"
+    },
+    {
+      "id": 169403,
+      "name": "Comuna Ion Roată"
+    },
+    {
+      "id": 169404,
+      "name": "Comuna Jilavele"
+    },
+    {
+      "id": 169405,
+      "name": "Comuna Maia"
+    },
+    {
+      "id": 169406,
+      "name": "Comuna Manasia"
+    },
+    {
+      "id": 169407,
+      "name": "Comuna Mărculeşti"
+    },
+    {
+      "id": 169408,
+      "name": "Comuna Mihail Kogălniceanu"
+    },
+    {
+      "id": 169409,
+      "name": "Comuna Miloşeşti"
+    },
+    {
+      "id": 169410,
+      "name": "Comuna Moldoveni"
+    },
+    {
+      "id": 169411,
+      "name": "Comuna Movila"
+    },
+    {
+      "id": 169412,
+      "name": "Comuna Moviliţa"
+    },
+    {
+      "id": 169413,
+      "name": "Comuna Munteni Buzău"
+    },
+    {
+      "id": 169414,
+      "name": "Comuna Ograda"
+    },
+    {
+      "id": 169415,
+      "name": "Comuna Perieţi"
+    },
+    {
+      "id": 169416,
+      "name": "Comuna Platoneşti"
+    },
+    {
+      "id": 169417,
+      "name": "Comuna Răduleşti"
+    },
+    {
+      "id": 169418,
+      "name": "Comuna Reviga"
+    },
+    {
+      "id": 169419,
+      "name": "Comuna Roşiori"
+    },
+    {
+      "id": 169420,
+      "name": "Comuna Sălcioara"
+    },
+    {
+      "id": 169421,
+      "name": "Comuna Sărăţeni"
+    },
+    {
+      "id": 169422,
+      "name": "Comuna Săveni"
+    },
+    {
+      "id": 169423,
+      "name": "Comuna Scânteia"
+    },
+    {
+      "id": 169424,
+      "name": "Comuna Sfântu Gheorghe"
+    },
+    {
+      "id": 169425,
+      "name": "Comuna Sinteşti"
+    },
+    {
+      "id": 169426,
+      "name": "Comuna Slobozia"
+    },
+    {
+      "id": 169427,
+      "name": "Comuna Stelnica"
+    },
+    {
+      "id": 169428,
+      "name": "Comuna Sudiţi"
+    },
+    {
+      "id": 169429,
+      "name": "Comuna Traian"
+    },
+    {
+      "id": 169430,
+      "name": "Comuna Valea Ciorii"
+    },
+    {
+      "id": 169431,
+      "name": "Comuna Valea Măcrişului"
+    },
+    {
+      "id": 169432,
+      "name": "Comuna Vlădeni"
+    },
+    {
+      "id": 169433,
+      "name": "Condeești"
+    },
+    {
+      "id": 169434,
+      "name": "Cosâmbeşti"
+    },
+    {
+      "id": 169435,
+      "name": "Coşereni"
+    },
+    {
+      "id": 169436,
+      "name": "Drăgoești"
+    },
+    {
+      "id": 169437,
+      "name": "Drăgoeşti-Snagov"
+    },
+    {
+      "id": 169438,
+      "name": "Dridu"
+    },
+    {
+      "id": 169439,
+      "name": "Făcăeni"
+    },
+    {
+      "id": 169440,
+      "name": "Feteşti"
+    },
+    {
+      "id": 169441,
+      "name": "Fetești-Gară"
+    },
+    {
+      "id": 169442,
+      "name": "Fierbinţi-Târg"
+    },
+    {
+      "id": 169443,
+      "name": "Fierbinții de Jos"
+    },
+    {
+      "id": 169444,
+      "name": "Fierbinții de Sus"
+    },
+    {
+      "id": 169445,
+      "name": "Gârbovi"
+    },
+    {
+      "id": 169446,
+      "name": "Gheorghe Doja"
+    },
+    {
+      "id": 169447,
+      "name": "Gheorghe Lazăr"
+    },
+    {
+      "id": 169448,
+      "name": "Giurgeni"
+    },
+    {
+      "id": 169449,
+      "name": "Grindu"
+    },
+    {
+      "id": 169450,
+      "name": "Griviţa"
+    },
+    {
+      "id": 169451,
+      "name": "Gura Ialomiței"
+    },
+    {
+      "id": 169452,
+      "name": "Iazu"
+    },
+    {
+      "id": 169453,
+      "name": "Ion Roată"
+    },
+    {
+      "id": 169454,
+      "name": "Jilavele"
+    },
+    {
+      "id": 169455,
+      "name": "Lăcusteni"
+    },
+    {
+      "id": 169456,
+      "name": "Luciu"
+    },
+    {
+      "id": 169457,
+      "name": "Maia"
+    },
+    {
+      "id": 169458,
+      "name": "Malu Roșu"
+    },
+    {
+      "id": 169459,
+      "name": "Manasia"
+    },
+    {
+      "id": 169460,
+      "name": "Mărculești"
+    },
+    {
+      "id": 169461,
+      "name": "Mihail Kogălniceanu"
+    },
+    {
+      "id": 169462,
+      "name": "Miloşeşti"
+    },
+    {
+      "id": 169463,
+      "name": "Moldoveni"
+    },
+    {
+      "id": 169464,
+      "name": "Movila"
+    },
+    {
+      "id": 169465,
+      "name": "Moviliţa"
+    },
+    {
+      "id": 169466,
+      "name": "Municipiul Feteşti"
+    },
+    {
+      "id": 169467,
+      "name": "Municipiul Urziceni"
+    },
+    {
+      "id": 169468,
+      "name": "Munteni Buzău"
+    },
+    {
+      "id": 169469,
+      "name": "Ograda"
+    },
+    {
+      "id": 169470,
+      "name": "Oraş Amara"
+    },
+    {
+      "id": 169471,
+      "name": "Oraş Cãzãneşti"
+    },
+    {
+      "id": 169472,
+      "name": "Oraş Fierbinţi-Târg"
+    },
+    {
+      "id": 169473,
+      "name": "Oraş Ţãndãrei"
+    },
+    {
+      "id": 169474,
+      "name": "Patru Frați"
+    },
+    {
+      "id": 169475,
+      "name": "Perieţi"
+    },
+    {
+      "id": 169476,
+      "name": "Platonești"
+    },
+    {
+      "id": 169477,
+      "name": "Rădulești"
+    },
+    {
+      "id": 169478,
+      "name": "Rași"
+    },
+    {
+      "id": 169479,
+      "name": "Reviga"
+    },
+    {
+      "id": 169480,
+      "name": "Roșiori"
+    },
+    {
+      "id": 169481,
+      "name": "Rovine"
+    },
+    {
+      "id": 169482,
+      "name": "Sălcioara"
+    },
+    {
+      "id": 169483,
+      "name": "Sărățeni"
+    },
+    {
+      "id": 169484,
+      "name": "Săveni"
+    },
+    {
+      "id": 169485,
+      "name": "Scânteia"
+    },
+    {
+      "id": 169486,
+      "name": "Sfântu Gheorghe"
+    },
+    {
+      "id": 169487,
+      "name": "Sineşti"
+    },
+    {
+      "id": 169488,
+      "name": "Slobozia"
+    },
+    {
+      "id": 169489,
+      "name": "Smirna"
+    },
+    {
+      "id": 169490,
+      "name": "Stelnica"
+    },
+    {
+      "id": 169491,
+      "name": "Sudiţi"
+    },
+    {
+      "id": 169492,
+      "name": "Ţăndărei"
+    },
+    {
+      "id": 169493,
+      "name": "Traian"
+    },
+    {
+      "id": 169494,
+      "name": "Urziceni"
+    },
+    {
+      "id": 169495,
+      "name": "Valea Ciorii"
+    },
+    {
+      "id": 169496,
+      "name": "Valea Măcrișului"
+    },
+    {
+      "id": 169497,
+      "name": "Vlădeni"
+    },
+    {
+      "id": 169498,
+      "name": "Vlașca"
+    }
+  ]
+}

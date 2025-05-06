@@ -1,0 +1,475 @@
+{
+  "id": 6632,
+  "name": "Skåne County",
+  "state_code": "M",
+  "cities": [
+    {
+      "id": 190524,
+      "name": "Åhus"
+    },
+    {
+      "id": 190525,
+      "name": "Åkarp"
+    },
+    {
+      "id": 190526,
+      "name": "Anderslöv"
+    },
+    {
+      "id": 190527,
+      "name": "Ängelholm"
+    },
+    {
+      "id": 190528,
+      "name": "Arlöv"
+    },
+    {
+      "id": 190529,
+      "name": "Asmundtorp"
+    },
+    {
+      "id": 190530,
+      "name": "Åstorp"
+    },
+    {
+      "id": 190531,
+      "name": "Bara"
+    },
+    {
+      "id": 190532,
+      "name": "Bårslöv"
+    },
+    {
+      "id": 190533,
+      "name": "Båstad"
+    },
+    {
+      "id": 190534,
+      "name": "Billeberga"
+    },
+    {
+      "id": 190535,
+      "name": "Billesholm"
+    },
+    {
+      "id": 190536,
+      "name": "Bjärnum"
+    },
+    {
+      "id": 190537,
+      "name": "Bjärred"
+    },
+    {
+      "id": 190538,
+      "name": "Bjuv"
+    },
+    {
+      "id": 190539,
+      "name": "Blentarp"
+    },
+    {
+      "id": 190540,
+      "name": "Broby"
+    },
+    {
+      "id": 190541,
+      "name": "Bromölla"
+    },
+    {
+      "id": 190542,
+      "name": "Bunkeflostrand"
+    },
+    {
+      "id": 190543,
+      "name": "Dalby"
+    },
+    {
+      "id": 190544,
+      "name": "Degeberga"
+    },
+    {
+      "id": 190545,
+      "name": "Ekeby"
+    },
+    {
+      "id": 190546,
+      "name": "Eslöv"
+    },
+    {
+      "id": 190547,
+      "name": "Färlöv"
+    },
+    {
+      "id": 190548,
+      "name": "Fjälkinge"
+    },
+    {
+      "id": 190549,
+      "name": "Förslöv"
+    },
+    {
+      "id": 190550,
+      "name": "Furulund"
+    },
+    {
+      "id": 190551,
+      "name": "Gantofta"
+    },
+    {
+      "id": 190552,
+      "name": "Gärsnäs"
+    },
+    {
+      "id": 190553,
+      "name": "Genarp"
+    },
+    {
+      "id": 190554,
+      "name": "Glimåkra"
+    },
+    {
+      "id": 190555,
+      "name": "Glumslöv"
+    },
+    {
+      "id": 190556,
+      "name": "Häljarp"
+    },
+    {
+      "id": 190557,
+      "name": "Hammar"
+    },
+    {
+      "id": 190558,
+      "name": "Hanaskog"
+    },
+    {
+      "id": 190559,
+      "name": "Hässleholm"
+    },
+    {
+      "id": 190560,
+      "name": "Hästveda"
+    },
+    {
+      "id": 190561,
+      "name": "Helsingborg"
+    },
+    {
+      "id": 190562,
+      "name": "Hittarp"
+    },
+    {
+      "id": 190563,
+      "name": "Hjärnarp"
+    },
+    {
+      "id": 190564,
+      "name": "Hjärup"
+    },
+    {
+      "id": 190565,
+      "name": "Hofterup"
+    },
+    {
+      "id": 190566,
+      "name": "Höganäs"
+    },
+    {
+      "id": 190567,
+      "name": "Hököpinge"
+    },
+    {
+      "id": 190568,
+      "name": "Höllviken"
+    },
+    {
+      "id": 190569,
+      "name": "Höör"
+    },
+    {
+      "id": 190570,
+      "name": "Hörby"
+    },
+    {
+      "id": 190571,
+      "name": "Hyllinge"
+    },
+    {
+      "id": 190572,
+      "name": "Jonstorp"
+    },
+    {
+      "id": 190573,
+      "name": "Kågeröd"
+    },
+    {
+      "id": 190574,
+      "name": "Kävlinge"
+    },
+    {
+      "id": 190575,
+      "name": "Klågerup"
+    },
+    {
+      "id": 190576,
+      "name": "Klippan"
+    },
+    {
+      "id": 190577,
+      "name": "Knislinge"
+    },
+    {
+      "id": 190578,
+      "name": "Köpingebro"
+    },
+    {
+      "id": 190579,
+      "name": "Kristianstad"
+    },
+    {
+      "id": 190580,
+      "name": "Kvidinge"
+    },
+    {
+      "id": 190581,
+      "name": "Landskrona"
+    },
+    {
+      "id": 190582,
+      "name": "Ljungbyhed"
+    },
+    {
+      "id": 190583,
+      "name": "Ljunghusen"
+    },
+    {
+      "id": 190584,
+      "name": "Löberöd"
+    },
+    {
+      "id": 190585,
+      "name": "Löddeköpinge"
+    },
+    {
+      "id": 190586,
+      "name": "Lomma"
+    },
+    {
+      "id": 190587,
+      "name": "Lönsboda"
+    },
+    {
+      "id": 190588,
+      "name": "Lund"
+    },
+    {
+      "id": 190589,
+      "name": "Malmö"
+    },
+    {
+      "id": 190590,
+      "name": "Marieholm"
+    },
+    {
+      "id": 190591,
+      "name": "Mörarp"
+    },
+    {
+      "id": 190592,
+      "name": "Munka-Ljungby"
+    },
+    {
+      "id": 190593,
+      "name": "Näsum"
+    },
+    {
+      "id": 190594,
+      "name": "Norra Åsum"
+    },
+    {
+      "id": 190595,
+      "name": "Ödåkra"
+    },
+    {
+      "id": 190596,
+      "name": "Önnestad"
+    },
+    {
+      "id": 190597,
+      "name": "Örkelljunga"
+    },
+    {
+      "id": 190598,
+      "name": "Osby"
+    },
+    {
+      "id": 190599,
+      "name": "Östra Ljungby"
+    },
+    {
+      "id": 190600,
+      "name": "Oxie"
+    },
+    {
+      "id": 190601,
+      "name": "Påarp"
+    },
+    {
+      "id": 190602,
+      "name": "Perstorp"
+    },
+    {
+      "id": 190603,
+      "name": "Rydebäck"
+    },
+    {
+      "id": 190604,
+      "name": "Rydsgård"
+    },
+    {
+      "id": 190605,
+      "name": "Sätofta"
+    },
+    {
+      "id": 190606,
+      "name": "Saxtorpsskogen"
+    },
+    {
+      "id": 190607,
+      "name": "Sibbhult"
+    },
+    {
+      "id": 190608,
+      "name": "Simrishamn"
+    },
+    {
+      "id": 190609,
+      "name": "Sjöbo"
+    },
+    {
+      "id": 190610,
+      "name": "Skanör med Falsterbo"
+    },
+    {
+      "id": 190611,
+      "name": "Skåre"
+    },
+    {
+      "id": 190612,
+      "name": "Skegrie"
+    },
+    {
+      "id": 190613,
+      "name": "Skivarp"
+    },
+    {
+      "id": 190614,
+      "name": "Skurup"
+    },
+    {
+      "id": 190615,
+      "name": "Smygehamn"
+    },
+    {
+      "id": 190616,
+      "name": "Södra Sandby"
+    },
+    {
+      "id": 190617,
+      "name": "Sösdala"
+    },
+    {
+      "id": 190618,
+      "name": "Staffanstorp"
+    },
+    {
+      "id": 190619,
+      "name": "Stångby"
+    },
+    {
+      "id": 190620,
+      "name": "Stehag"
+    },
+    {
+      "id": 190621,
+      "name": "Strövelstorp"
+    },
+    {
+      "id": 190622,
+      "name": "Svalöv"
+    },
+    {
+      "id": 190623,
+      "name": "Svedala"
+    },
+    {
+      "id": 190624,
+      "name": "Teckomatorp"
+    },
+    {
+      "id": 190625,
+      "name": "Tollarp"
+    },
+    {
+      "id": 190626,
+      "name": "Tollarp1"
+    },
+    {
+      "id": 190627,
+      "name": "Tomelilla"
+    },
+    {
+      "id": 190628,
+      "name": "Torekov"
+    },
+    {
+      "id": 190629,
+      "name": "Tormestorp"
+    },
+    {
+      "id": 190630,
+      "name": "Trelleborg"
+    },
+    {
+      "id": 190631,
+      "name": "Tygelsjö"
+    },
+    {
+      "id": 190632,
+      "name": "Tyringe"
+    },
+    {
+      "id": 190633,
+      "name": "Valje"
+    },
+    {
+      "id": 190634,
+      "name": "Veberöd"
+    },
+    {
+      "id": 190635,
+      "name": "Vejbystrand"
+    },
+    {
+      "id": 190636,
+      "name": "Vellinge"
+    },
+    {
+      "id": 190637,
+      "name": "Viken"
+    },
+    {
+      "id": 190638,
+      "name": "Vinslöv"
+    },
+    {
+      "id": 190639,
+      "name": "Vittsjö"
+    },
+    {
+      "id": 190640,
+      "name": "Ystad"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "id": 6054,
+  "name": "Rostov Oblast",
+  "state_code": "ROS",
+  "cities": [
+    {
+      "id": 177282,
+      "name": "Aksay"
+    },
+    {
+      "id": 177283,
+      "name": "Almaznyy"
+    },
+    {
+      "id": 177284,
+      "name": "Anastasiyevka"
+    },
+    {
+      "id": 177285,
+      "name": "Ayutinskiy"
+    },
+    {
+      "id": 177286,
+      "name": "Azov"
+    },
+    {
+      "id": 177287,
+      "name": "Bagayevskaya"
+    },
+    {
+      "id": 177288,
+      "name": "Bataysk"
+    },
+    {
+      "id": 177289,
+      "name": "Belaya Kalitva"
+    },
+    {
+      "id": 177290,
+      "name": "Bokovskaya"
+    },
+    {
+      "id": 177291,
+      "name": "Bystrogorskiy"
+    },
+    {
+      "id": 177292,
+      "name": "Chaltyr"
+    },
+    {
+      "id": 177293,
+      "name": "Chertkovo"
+    },
+    {
+      "id": 177294,
+      "name": "Donetsk"
+    },
+    {
+      "id": 177295,
+      "name": "Donskoy"
+    },
+    {
+      "id": 177296,
+      "name": "Dubovskoye"
+    },
+    {
+      "id": 177297,
+      "name": "Gigant"
+    },
+    {
+      "id": 177298,
+      "name": "Glubokiy"
+    },
+    {
+      "id": 177299,
+      "name": "Gornyatskiy"
+    },
+    {
+      "id": 177300,
+      "name": "Gornyy"
+    },
+    {
+      "id": 177301,
+      "name": "Grushevskaya"
+    },
+    {
+      "id": 177302,
+      "name": "Gukovo"
+    },
+    {
+      "id": 177303,
+      "name": "Gundorovskiy"
+    },
+    {
+      "id": 177304,
+      "name": "Kagal’nitskaya"
+    },
+    {
+      "id": 177305,
+      "name": "Kalinin"
+    },
+    {
+      "id": 177306,
+      "name": "Kamenolomni"
+    },
+    {
+      "id": 177307,
+      "name": "Kamensk-Shakhtinskiy"
+    },
+    {
+      "id": 177308,
+      "name": "Kashary"
+    },
+    {
+      "id": 177309,
+      "name": "Kazanskaya"
+    },
+    {
+      "id": 177310,
+      "name": "Kirovskaya"
+    },
+    {
+      "id": 177311,
+      "name": "Koksovyy"
+    },
+    {
+      "id": 177312,
+      "name": "Konstantinovsk"
+    },
+    {
+      "id": 177313,
+      "name": "Krasnaya Polyana"
+    },
+    {
+      "id": 177314,
+      "name": "Krasnoarmeyskiy"
+    },
+    {
+      "id": 177315,
+      "name": "Krasnovka"
+    },
+    {
+      "id": 177316,
+      "name": "Krasnoyarskaya"
+    },
+    {
+      "id": 177317,
+      "name": "Krasnyy Sulin"
+    },
+    {
+      "id": 177318,
+      "name": "Krasyukovskaya"
+    },
+    {
+      "id": 177319,
+      "name": "Krivyanskaya"
+    },
+    {
+      "id": 177320,
+      "name": "Krym"
+    },
+    {
+      "id": 177321,
+      "name": "Kuleshovka"
+    },
+    {
+      "id": 177322,
+      "name": "Kuybyshevo"
+    },
+    {
+      "id": 177323,
+      "name": "Letnik"
+    },
+    {
+      "id": 177324,
+      "name": "Likhovskoy"
+    },
+    {
+      "id": 177325,
+      "name": "Likhoy"
+    },
+    {
+      "id": 177326,
+      "name": "Martynovskiy Rayon"
+    },
+    {
+      "id": 177327,
+      "name": "Masalovka"
+    },
+    {
+      "id": 177328,
+      "name": "Matveyev Kurgan"
+    },
+    {
+      "id": 177329,
+      "name": "Mayskiy"
+    },
+    {
+      "id": 177330,
+      "name": "Mechetinskaya"
+    },
+    {
+      "id": 177331,
+      "name": "Melikhovskaya"
+    },
+    {
+      "id": 177332,
+      "name": "Millerovo"
+    },
+    {
+      "id": 177333,
+      "name": "Milyutinskaya"
+    },
+    {
+      "id": 177334,
+      "name": "Milyutinskiy Rayon"
+    },
+    {
+      "id": 177335,
+      "name": "Morozovsk"
+    },
+    {
+      "id": 177336,
+      "name": "Nedvigovka"
+    },
+    {
+      "id": 177337,
+      "name": "Nikolayevskaya"
+    },
+    {
+      "id": 177338,
+      "name": "Novobataysk"
+    },
+    {
+      "id": 177339,
+      "name": "Novobessergenovka"
+    },
+    {
+      "id": 177340,
+      "name": "Novocherkassk"
+    },
+    {
+      "id": 177341,
+      "name": "Novoshakhtinsk"
+    },
+    {
+      "id": 177342,
+      "name": "Novyy Yegorlyk"
+    },
+    {
+      "id": 177343,
+      "name": "Oblivskaya"
+    },
+    {
+      "id": 177344,
+      "name": "Ol’ginskaya"
+    },
+    {
+      "id": 177345,
+      "name": "Orlovskiy"
+    },
+    {
+      "id": 177346,
+      "name": "Persianovka"
+    },
+    {
+      "id": 177347,
+      "name": "Peschanokopskoye"
+    },
+    {
+      "id": 177348,
+      "name": "Peshkovo"
+    },
+    {
+      "id": 177349,
+      "name": "Pokrovskoye"
+    },
+    {
+      "id": 177350,
+      "name": "Port-Katon"
+    },
+    {
+      "id": 177351,
+      "name": "Primorka"
+    },
+    {
+      "id": 177352,
+      "name": "Proletarsk"
+    },
+    {
+      "id": 177353,
+      "name": "Rassvet"
+    },
+    {
+      "id": 177354,
+      "name": "Remontnoye"
+    },
+    {
+      "id": 177355,
+      "name": "Rodionovo-Nesvetaiskoye"
+    },
+    {
+      "id": 177356,
+      "name": "Rodionovo-Nesvetayskaya"
+    },
+    {
+      "id": 177357,
+      "name": "Romanovskaya"
+    },
+    {
+      "id": 177358,
+      "name": "Rostov-na-Donu"
+    },
+    {
+      "id": 177359,
+      "name": "Sal’sk"
+    },
+    {
+      "id": 177360,
+      "name": "Samarskoye"
+    },
+    {
+      "id": 177361,
+      "name": "Sambek"
+    },
+    {
+      "id": 177362,
+      "name": "Sandata"
+    },
+    {
+      "id": 177363,
+      "name": "Semikarakorsk"
+    },
+    {
+      "id": 177364,
+      "name": "Shakhty"
+    },
+    {
+      "id": 177365,
+      "name": "Sholokhovskiy"
+    },
+    {
+      "id": 177366,
+      "name": "Sinegorskiy"
+    },
+    {
+      "id": 177367,
+      "name": "Sinyavskoye"
+    },
+    {
+      "id": 177368,
+      "name": "Sokolovo-Kundryuchenskiy"
+    },
+    {
+      "id": 177369,
+      "name": "Sovetskaya"
+    },
+    {
+      "id": 177370,
+      "name": "Staraya Stanitsa"
+    },
+    {
+      "id": 177371,
+      "name": "Starocherkasskaya"
+    },
+    {
+      "id": 177372,
+      "name": "Taganrog"
+    },
+    {
+      "id": 177373,
+      "name": "Talovyy"
+    },
+    {
+      "id": 177374,
+      "name": "Tanais"
+    },
+    {
+      "id": 177375,
+      "name": "Tarasovskiy"
+    },
+    {
+      "id": 177376,
+      "name": "Tatsinskiy"
+    },
+    {
+      "id": 177377,
+      "name": "Tselina"
+    },
+    {
+      "id": 177378,
+      "name": "Tsimlyansk"
+    },
+    {
+      "id": 177379,
+      "name": "Uglegorskiy"
+    },
+    {
+      "id": 177380,
+      "name": "Uglerodovskiy"
+    },
+    {
+      "id": 177381,
+      "name": "Ust’-Donetskiy"
+    },
+    {
+      "id": 177382,
+      "name": "Vesëlyy"
+    },
+    {
+      "id": 177383,
+      "name": "Veshenskaya"
+    },
+    {
+      "id": 177384,
+      "name": "Volgodonsk"
+    },
+    {
+      "id": 177385,
+      "name": "Yegorlykskaya"
+    },
+    {
+      "id": 177386,
+      "name": "Zavetnoye"
+    },
+    {
+      "id": 177387,
+      "name": "Zernograd"
+    },
+    {
+      "id": 177388,
+      "name": "Zhirnov"
+    },
+    {
+      "id": 177389,
+      "name": "Zimovniki"
+    },
+    {
+      "id": 177390,
+      "name": "Zverevo"
+    }
+  ]
+}

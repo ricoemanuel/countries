@@ -1,0 +1,1999 @@
+{
+  "id": 5982,
+  "name": "Mureș County",
+  "state_code": "MS",
+  "cities": [
+    {
+      "id": 170331,
+      "name": "Abuș"
+    },
+    {
+      "id": 170332,
+      "name": "Acățari"
+    },
+    {
+      "id": 170333,
+      "name": "Adămuș"
+    },
+    {
+      "id": 170334,
+      "name": "Adrian"
+    },
+    {
+      "id": 170335,
+      "name": "Adrianu Mare"
+    },
+    {
+      "id": 170336,
+      "name": "Adrianu Mic"
+    },
+    {
+      "id": 170337,
+      "name": "Agrișteu"
+    },
+    {
+      "id": 170338,
+      "name": "Albești"
+    },
+    {
+      "id": 170339,
+      "name": "Aluniș"
+    },
+    {
+      "id": 170340,
+      "name": "Andreneasa"
+    },
+    {
+      "id": 170341,
+      "name": "Angofa"
+    },
+    {
+      "id": 170342,
+      "name": "Apalina"
+    },
+    {
+      "id": 170343,
+      "name": "Apold"
+    },
+    {
+      "id": 170344,
+      "name": "Archita"
+    },
+    {
+      "id": 170345,
+      "name": "Arșița"
+    },
+    {
+      "id": 170346,
+      "name": "Ațintiș"
+    },
+    {
+      "id": 170347,
+      "name": "Aurel Vlaicu"
+    },
+    {
+      "id": 170348,
+      "name": "Avrămești"
+    },
+    {
+      "id": 170349,
+      "name": "Băgaciu"
+    },
+    {
+      "id": 170350,
+      "name": "Bahnea"
+    },
+    {
+      "id": 170351,
+      "name": "Băița"
+    },
+    {
+      "id": 170352,
+      "name": "Băla"
+    },
+    {
+      "id": 170353,
+      "name": "Bălăușeri"
+    },
+    {
+      "id": 170354,
+      "name": "Balda"
+    },
+    {
+      "id": 170355,
+      "name": "Band"
+    },
+    {
+      "id": 170356,
+      "name": "Bâra"
+    },
+    {
+      "id": 170357,
+      "name": "Bărboși"
+    },
+    {
+      "id": 170358,
+      "name": "Bărdești"
+    },
+    {
+      "id": 170359,
+      "name": "Bârlibaș"
+    },
+    {
+      "id": 170360,
+      "name": "Bârlibășoaia"
+    },
+    {
+      "id": 170361,
+      "name": "Bârza"
+    },
+    {
+      "id": 170362,
+      "name": "Batoș"
+    },
+    {
+      "id": 170363,
+      "name": "Bedeni"
+    },
+    {
+      "id": 170364,
+      "name": "Beica de Jos"
+    },
+    {
+      "id": 170365,
+      "name": "Beica de Sus"
+    },
+    {
+      "id": 170366,
+      "name": "Bereni"
+    },
+    {
+      "id": 170367,
+      "name": "Berghia"
+    },
+    {
+      "id": 170368,
+      "name": "Bernadea"
+    },
+    {
+      "id": 170369,
+      "name": "Beu"
+    },
+    {
+      "id": 170370,
+      "name": "Bezid"
+    },
+    {
+      "id": 170371,
+      "name": "Bicașu"
+    },
+    {
+      "id": 170372,
+      "name": "Bichiș"
+    },
+    {
+      "id": 170373,
+      "name": "Bistra Mureșului"
+    },
+    {
+      "id": 170374,
+      "name": "Blidireasa"
+    },
+    {
+      "id": 170375,
+      "name": "Bobohalma"
+    },
+    {
+      "id": 170376,
+      "name": "Bogata"
+    },
+    {
+      "id": 170377,
+      "name": "Boiu"
+    },
+    {
+      "id": 170378,
+      "name": "Bolintineni"
+    },
+    {
+      "id": 170379,
+      "name": "Bologaia"
+    },
+    {
+      "id": 170380,
+      "name": "Bord"
+    },
+    {
+      "id": 170381,
+      "name": "Bordoșiu"
+    },
+    {
+      "id": 170382,
+      "name": "Borzia"
+    },
+    {
+      "id": 170383,
+      "name": "Botei"
+    },
+    {
+      "id": 170384,
+      "name": "Botez"
+    },
+    {
+      "id": 170385,
+      "name": "Botorca"
+    },
+    {
+      "id": 170386,
+      "name": "Bozed"
+    },
+    {
+      "id": 170387,
+      "name": "Bozeni"
+    },
+    {
+      "id": 170388,
+      "name": "Brădețelu"
+    },
+    {
+      "id": 170389,
+      "name": "Brâncovenești"
+    },
+    {
+      "id": 170390,
+      "name": "Breaza"
+    },
+    {
+      "id": 170391,
+      "name": "Budiu Mic"
+    },
+    {
+      "id": 170392,
+      "name": "Bujor"
+    },
+    {
+      "id": 170393,
+      "name": "Bujor-Hodaie"
+    },
+    {
+      "id": 170394,
+      "name": "Căciulata"
+    },
+    {
+      "id": 170395,
+      "name": "Căcuciu"
+    },
+    {
+      "id": 170396,
+      "name": "Călimănești"
+    },
+    {
+      "id": 170397,
+      "name": "Călugăreni"
+    },
+    {
+      "id": 170398,
+      "name": "Călușeri"
+    },
+    {
+      "id": 170399,
+      "name": "Câmpenița"
+    },
+    {
+      "id": 170400,
+      "name": "Câmpu Cetății"
+    },
+    {
+      "id": 170401,
+      "name": "Cându"
+    },
+    {
+      "id": 170402,
+      "name": "Căpâlna de Sus"
+    },
+    {
+      "id": 170403,
+      "name": "Căpeți"
+    },
+    {
+      "id": 170404,
+      "name": "Căpușu de Câmpie"
+    },
+    {
+      "id": 170405,
+      "name": "Cașva"
+    },
+    {
+      "id": 170406,
+      "name": "Cecălaca"
+    },
+    {
+      "id": 170407,
+      "name": "Ceie"
+    },
+    {
+      "id": 170408,
+      "name": "Cerghid"
+    },
+    {
+      "id": 170409,
+      "name": "Cerghizel"
+    },
+    {
+      "id": 170410,
+      "name": "Ceuaș"
+    },
+    {
+      "id": 170411,
+      "name": "Ceuașu de Câmpie"
+    },
+    {
+      "id": 170412,
+      "name": "Chendu"
+    },
+    {
+      "id": 170413,
+      "name": "Chețani"
+    },
+    {
+      "id": 170414,
+      "name": "Chibed"
+    },
+    {
+      "id": 170415,
+      "name": "Chiheru de Jos"
+    },
+    {
+      "id": 170416,
+      "name": "Chiheru de Sus"
+    },
+    {
+      "id": 170417,
+      "name": "Chinari"
+    },
+    {
+      "id": 170418,
+      "name": "Chinciuș"
+    },
+    {
+      "id": 170419,
+      "name": "Chirileu"
+    },
+    {
+      "id": 170420,
+      "name": "Chisălița"
+    },
+    {
+      "id": 170421,
+      "name": "Ciba"
+    },
+    {
+      "id": 170422,
+      "name": "Cibu"
+    },
+    {
+      "id": 170423,
+      "name": "Cinta"
+    },
+    {
+      "id": 170424,
+      "name": "Cioarga"
+    },
+    {
+      "id": 170425,
+      "name": "Ciobotani"
+    },
+    {
+      "id": 170426,
+      "name": "Cipaieni"
+    },
+    {
+      "id": 170427,
+      "name": "Cipău"
+    },
+    {
+      "id": 170428,
+      "name": "Ciretea"
+    },
+    {
+      "id": 170429,
+      "name": "Cirhagău"
+    },
+    {
+      "id": 170430,
+      "name": "Ciulea"
+    },
+    {
+      "id": 170431,
+      "name": "Ciurgău"
+    },
+    {
+      "id": 170432,
+      "name": "Cloașterf"
+    },
+    {
+      "id": 170433,
+      "name": "Coasta Grindului"
+    },
+    {
+      "id": 170434,
+      "name": "Coasta Mare"
+    },
+    {
+      "id": 170435,
+      "name": "Comori"
+    },
+    {
+      "id": 170436,
+      "name": "Comuna Coroisânmartin"
+    },
+    {
+      "id": 170437,
+      "name": "Comuna Ibănești Pădure"
+    },
+    {
+      "id": 170438,
+      "name": "Comuna Rușii Munți"
+    },
+    {
+      "id": 170439,
+      "name": "Corbești"
+    },
+    {
+      "id": 170440,
+      "name": "Cordoș"
+    },
+    {
+      "id": 170441,
+      "name": "Cornești"
+    },
+    {
+      "id": 170442,
+      "name": "Coroi"
+    },
+    {
+      "id": 170443,
+      "name": "Corunca"
+    },
+    {
+      "id": 170444,
+      "name": "Cotorinau"
+    },
+    {
+      "id": 170445,
+      "name": "Cotuș"
+    },
+    {
+      "id": 170446,
+      "name": "Cozma"
+    },
+    {
+      "id": 170447,
+      "name": "Crăciunești"
+    },
+    {
+      "id": 170448,
+      "name": "Crăiești"
+    },
+    {
+      "id": 170449,
+      "name": "Criș"
+    },
+    {
+      "id": 170450,
+      "name": "Cristești"
+    },
+    {
+      "id": 170451,
+      "name": "Cucerdea"
+    },
+    {
+      "id": 170452,
+      "name": "Cuci"
+    },
+    {
+      "id": 170453,
+      "name": "Cuieșd"
+    },
+    {
+      "id": 170454,
+      "name": "Culpiu"
+    },
+    {
+      "id": 170455,
+      "name": "Cund"
+    },
+    {
+      "id": 170456,
+      "name": "Curețe"
+    },
+    {
+      "id": 170457,
+      "name": "Curteni"
+    },
+    {
+      "id": 170458,
+      "name": "Cuștelnic"
+    },
+    {
+      "id": 170459,
+      "name": "Daia"
+    },
+    {
+      "id": 170460,
+      "name": "Dalu"
+    },
+    {
+      "id": 170461,
+      "name": "Dâmbău"
+    },
+    {
+      "id": 170462,
+      "name": "Dâmbu"
+    },
+    {
+      "id": 170463,
+      "name": "Dămieni"
+    },
+    {
+      "id": 170464,
+      "name": "Daneș"
+    },
+    {
+      "id": 170465,
+      "name": "Dătășeni"
+    },
+    {
+      "id": 170466,
+      "name": "Deag"
+    },
+    {
+      "id": 170467,
+      "name": "Deaj"
+    },
+    {
+      "id": 170468,
+      "name": "Deda"
+    },
+    {
+      "id": 170469,
+      "name": "Dedrad"
+    },
+    {
+      "id": 170470,
+      "name": "Deleni"
+    },
+    {
+      "id": 170471,
+      "name": "Dileu Nou"
+    },
+    {
+      "id": 170472,
+      "name": "Dileu Vechi"
+    },
+    {
+      "id": 170473,
+      "name": "Dobra"
+    },
+    {
+      "id": 170474,
+      "name": "Drăculea Bandului"
+    },
+    {
+      "id": 170475,
+      "name": "Drojdii"
+    },
+    {
+      "id": 170476,
+      "name": "Dubiștea de Pădure"
+    },
+    {
+      "id": 170477,
+      "name": "Dulcea"
+    },
+    {
+      "id": 170478,
+      "name": "Dumbrava"
+    },
+    {
+      "id": 170479,
+      "name": "Dumbrăvioara"
+    },
+    {
+      "id": 170480,
+      "name": "Dumitreni"
+    },
+    {
+      "id": 170481,
+      "name": "Dumitreștii"
+    },
+    {
+      "id": 170482,
+      "name": "După Deal"
+    },
+    {
+      "id": 170483,
+      "name": "Ercea"
+    },
+    {
+      "id": 170484,
+      "name": "Eremieni"
+    },
+    {
+      "id": 170485,
+      "name": "Eremitu"
+    },
+    {
+      "id": 170486,
+      "name": "Ernei"
+    },
+    {
+      "id": 170487,
+      "name": "Fânațe"
+    },
+    {
+      "id": 170488,
+      "name": "Fânațele Mădărașului"
+    },
+    {
+      "id": 170489,
+      "name": "Fânațele Socolului"
+    },
+    {
+      "id": 170490,
+      "name": "Fântâna Babii"
+    },
+    {
+      "id": 170491,
+      "name": "Fântânele"
+    },
+    {
+      "id": 170492,
+      "name": "Fărăgău"
+    },
+    {
+      "id": 170493,
+      "name": "Feleag"
+    },
+    {
+      "id": 170494,
+      "name": "Filea"
+    },
+    {
+      "id": 170495,
+      "name": "Filitelnic"
+    },
+    {
+      "id": 170496,
+      "name": "Filpișu Mare"
+    },
+    {
+      "id": 170497,
+      "name": "Filpișu Mic"
+    },
+    {
+      "id": 170498,
+      "name": "Fițcău"
+    },
+    {
+      "id": 170499,
+      "name": "Foi"
+    },
+    {
+      "id": 170500,
+      "name": "Frunzeni"
+    },
+    {
+      "id": 170501,
+      "name": "Fundătura"
+    },
+    {
+      "id": 170502,
+      "name": "Fundoaia"
+    },
+    {
+      "id": 170503,
+      "name": "Găiești"
+    },
+    {
+      "id": 170504,
+      "name": "Gălăoaia"
+    },
+    {
+      "id": 170505,
+      "name": "Gălățeni"
+    },
+    {
+      "id": 170506,
+      "name": "Gălești"
+    },
+    {
+      "id": 170507,
+      "name": "Gâmbuț"
+    },
+    {
+      "id": 170508,
+      "name": "Gănești"
+    },
+    {
+      "id": 170509,
+      "name": "Gaura Sângerului"
+    },
+    {
+      "id": 170510,
+      "name": "Gheja"
+    },
+    {
+      "id": 170511,
+      "name": "Gheorghe Doja"
+    },
+    {
+      "id": 170512,
+      "name": "Ghidașteu"
+    },
+    {
+      "id": 170513,
+      "name": "Ghindari"
+    },
+    {
+      "id": 170514,
+      "name": "Ghinești"
+    },
+    {
+      "id": 170515,
+      "name": "Giuluș"
+    },
+    {
+      "id": 170516,
+      "name": "Giurgiș"
+    },
+    {
+      "id": 170517,
+      "name": "Glăjărie"
+    },
+    {
+      "id": 170518,
+      "name": "Glodeni"
+    },
+    {
+      "id": 170519,
+      "name": "Gogan"
+    },
+    {
+      "id": 170520,
+      "name": "Goreni"
+    },
+    {
+      "id": 170521,
+      "name": "Gornești"
+    },
+    {
+      "id": 170522,
+      "name": "Grădini"
+    },
+    {
+      "id": 170523,
+      "name": "Grâușorul"
+    },
+    {
+      "id": 170524,
+      "name": "Grebenișu de Câmpie"
+    },
+    {
+      "id": 170525,
+      "name": "Grindeni"
+    },
+    {
+      "id": 170526,
+      "name": "Groapa Rădăii"
+    },
+    {
+      "id": 170527,
+      "name": "Gruișor"
+    },
+    {
+      "id": 170528,
+      "name": "Gurghiu"
+    },
+    {
+      "id": 170529,
+      "name": "Habic"
+    },
+    {
+      "id": 170530,
+      "name": "Hădăreni"
+    },
+    {
+      "id": 170531,
+      "name": "Hagău"
+    },
+    {
+      "id": 170532,
+      "name": "Hărănglab"
+    },
+    {
+      "id": 170533,
+      "name": "Hărțău"
+    },
+    {
+      "id": 170534,
+      "name": "Herepea"
+    },
+    {
+      "id": 170535,
+      "name": "Herghelia"
+    },
+    {
+      "id": 170536,
+      "name": "Hetiur"
+    },
+    {
+      "id": 170537,
+      "name": "Hodac"
+    },
+    {
+      "id": 170538,
+      "name": "Hodaia"
+    },
+    {
+      "id": 170539,
+      "name": "Hodoșa"
+    },
+    {
+      "id": 170540,
+      "name": "Iara de Mureș"
+    },
+    {
+      "id": 170541,
+      "name": "Ibănești-Pădure"
+    },
+    {
+      "id": 170542,
+      "name": "Icland"
+    },
+    {
+      "id": 170543,
+      "name": "Iclandu Mare"
+    },
+    {
+      "id": 170544,
+      "name": "Iclănzel"
+    },
+    {
+      "id": 170545,
+      "name": "Ideciu de Jos"
+    },
+    {
+      "id": 170546,
+      "name": "Idicel-Pădure"
+    },
+    {
+      "id": 170547,
+      "name": "Idiciu"
+    },
+    {
+      "id": 170548,
+      "name": "Idrifaia"
+    },
+    {
+      "id": 170549,
+      "name": "Iernut"
+    },
+    {
+      "id": 170550,
+      "name": "Iernuțeni"
+    },
+    {
+      "id": 170551,
+      "name": "Ihod"
+    },
+    {
+      "id": 170552,
+      "name": "Ilieni"
+    },
+    {
+      "id": 170553,
+      "name": "Ilieși"
+    },
+    {
+      "id": 170554,
+      "name": "Ilioara"
+    },
+    {
+      "id": 170555,
+      "name": "Iod"
+    },
+    {
+      "id": 170556,
+      "name": "Isla"
+    },
+    {
+      "id": 170557,
+      "name": "Iștan-Tău"
+    },
+    {
+      "id": 170558,
+      "name": "Iștihaza"
+    },
+    {
+      "id": 170559,
+      "name": "Ivănești"
+    },
+    {
+      "id": 170560,
+      "name": "Jabenița"
+    },
+    {
+      "id": 170561,
+      "name": "Jacodu"
+    },
+    {
+      "id": 170562,
+      "name": "Jacu"
+    },
+    {
+      "id": 170563,
+      "name": "Lăpușna"
+    },
+    {
+      "id": 170564,
+      "name": "Larga"
+    },
+    {
+      "id": 170565,
+      "name": "Lăscud"
+    },
+    {
+      "id": 170566,
+      "name": "Laslău Mare"
+    },
+    {
+      "id": 170567,
+      "name": "Laslău Mic"
+    },
+    {
+      "id": 170568,
+      "name": "Lăureni"
+    },
+    {
+      "id": 170569,
+      "name": "Lechincioara"
+    },
+    {
+      "id": 170570,
+      "name": "Lechința"
+    },
+    {
+      "id": 170571,
+      "name": "Lefaia"
+    },
+    {
+      "id": 170572,
+      "name": "Leniș"
+    },
+    {
+      "id": 170573,
+      "name": "Leordeni"
+    },
+    {
+      "id": 170574,
+      "name": "Leorința"
+    },
+    {
+      "id": 170575,
+      "name": "Leorința-Șăulia"
+    },
+    {
+      "id": 170576,
+      "name": "Lepindea"
+    },
+    {
+      "id": 170577,
+      "name": "Linț"
+    },
+    {
+      "id": 170578,
+      "name": "Livezeni"
+    },
+    {
+      "id": 170579,
+      "name": "Logig"
+    },
+    {
+      "id": 170580,
+      "name": "Loțu"
+    },
+    {
+      "id": 170581,
+      "name": "Luduș"
+    },
+    {
+      "id": 170582,
+      "name": "Luieriu"
+    },
+    {
+      "id": 170583,
+      "name": "Lunca"
+    },
+    {
+      "id": 170584,
+      "name": "Lunca Bradului"
+    },
+    {
+      "id": 170585,
+      "name": "Lunca Mureșului"
+    },
+    {
+      "id": 170586,
+      "name": "Măcicășești"
+    },
+    {
+      "id": 170587,
+      "name": "Mădăraș"
+    },
+    {
+      "id": 170588,
+      "name": "Mădărășeni"
+    },
+    {
+      "id": 170589,
+      "name": "Măgherani"
+    },
+    {
+      "id": 170590,
+      "name": "Măgheruș"
+    },
+    {
+      "id": 170591,
+      "name": "Maia"
+    },
+    {
+      "id": 170592,
+      "name": "Maiad"
+    },
+    {
+      "id": 170593,
+      "name": "Maiorești"
+    },
+    {
+      "id": 170594,
+      "name": "Mălăești"
+    },
+    {
+      "id": 170595,
+      "name": "Maldaoci"
+    },
+    {
+      "id": 170596,
+      "name": "Malea"
+    },
+    {
+      "id": 170597,
+      "name": "Mărășești"
+    },
+    {
+      "id": 170598,
+      "name": "Mărculeni"
+    },
+    {
+      "id": 170599,
+      "name": "Mătrici"
+    },
+    {
+      "id": 170600,
+      "name": "Merișor"
+    },
+    {
+      "id": 170601,
+      "name": "Merișoru"
+    },
+    {
+      "id": 170602,
+      "name": "Meștera"
+    },
+    {
+      "id": 170603,
+      "name": "Mica"
+    },
+    {
+      "id": 170604,
+      "name": "Miercurea Nirajului"
+    },
+    {
+      "id": 170605,
+      "name": "Mihai Viteazu"
+    },
+    {
+      "id": 170606,
+      "name": "Miheșu de Câmpie"
+    },
+    {
+      "id": 170607,
+      "name": "Milășel"
+    },
+    {
+      "id": 170608,
+      "name": "Mirigioaia"
+    },
+    {
+      "id": 170609,
+      "name": "Mitrești"
+    },
+    {
+      "id": 170610,
+      "name": "Moara de Jos"
+    },
+    {
+      "id": 170611,
+      "name": "Mogoaia"
+    },
+    {
+      "id": 170612,
+      "name": "Moișa"
+    },
+    {
+      "id": 170613,
+      "name": "Morăreni"
+    },
+    {
+      "id": 170614,
+      "name": "Morești"
+    },
+    {
+      "id": 170615,
+      "name": "Moruț"
+    },
+    {
+      "id": 170616,
+      "name": "Moșuni"
+    },
+    {
+      "id": 170617,
+      "name": "Mura Mare"
+    },
+    {
+      "id": 170618,
+      "name": "Mura Mică"
+    },
+    {
+      "id": 170619,
+      "name": "Mureni"
+    },
+    {
+      "id": 170620,
+      "name": "Mureșeni"
+    },
+    {
+      "id": 170621,
+      "name": "Murgești"
+    },
+    {
+      "id": 170622,
+      "name": "Nadășa"
+    },
+    {
+      "id": 170623,
+      "name": "Nadeș"
+    },
+    {
+      "id": 170624,
+      "name": "Nandra"
+    },
+    {
+      "id": 170625,
+      "name": "Nazna"
+    },
+    {
+      "id": 170626,
+      "name": "Neagra"
+    },
+    {
+      "id": 170627,
+      "name": "Neaua"
+    },
+    {
+      "id": 170628,
+      "name": "Negrenii de Câmpie"
+    },
+    {
+      "id": 170629,
+      "name": "Nicolești"
+    },
+    {
+      "id": 170630,
+      "name": "Nima Milășelului"
+    },
+    {
+      "id": 170631,
+      "name": "Nima Râciului"
+    },
+    {
+      "id": 170632,
+      "name": "Oarba de Mureș"
+    },
+    {
+      "id": 170633,
+      "name": "Obârșie"
+    },
+    {
+      "id": 170634,
+      "name": "Odrihei"
+    },
+    {
+      "id": 170635,
+      "name": "Ogra"
+    },
+    {
+      "id": 170636,
+      "name": "Onuca"
+    },
+    {
+      "id": 170637,
+      "name": "Ormeniș"
+    },
+    {
+      "id": 170638,
+      "name": "Oroiu"
+    },
+    {
+      "id": 170639,
+      "name": "Orosia"
+    },
+    {
+      "id": 170640,
+      "name": "Orșova"
+    },
+    {
+      "id": 170641,
+      "name": "Ozd"
+    },
+    {
+      "id": 170642,
+      "name": "Păcureni"
+    },
+    {
+      "id": 170643,
+      "name": "Pădurea"
+    },
+    {
+      "id": 170644,
+      "name": "Pădureni"
+    },
+    {
+      "id": 170645,
+      "name": "Păingeni"
+    },
+    {
+      "id": 170646,
+      "name": "Pănet"
+    },
+    {
+      "id": 170647,
+      "name": "Papiu Ilarian"
+    },
+    {
+      "id": 170648,
+      "name": "Pârâu Crucii"
+    },
+    {
+      "id": 170649,
+      "name": "Pârâu Mare"
+    },
+    {
+      "id": 170650,
+      "name": "Păsăreni"
+    },
+    {
+      "id": 170651,
+      "name": "Păucișoara"
+    },
+    {
+      "id": 170652,
+      "name": "Păuloaia"
+    },
+    {
+      "id": 170653,
+      "name": "Periș"
+    },
+    {
+      "id": 170654,
+      "name": "Petea"
+    },
+    {
+      "id": 170655,
+      "name": "Petelea"
+    },
+    {
+      "id": 170656,
+      "name": "Petrilaca"
+    },
+    {
+      "id": 170657,
+      "name": "Petrilaca de Mureș"
+    },
+    {
+      "id": 170658,
+      "name": "Pietriș"
+    },
+    {
+      "id": 170659,
+      "name": "Pipea"
+    },
+    {
+      "id": 170660,
+      "name": "Poarta"
+    },
+    {
+      "id": 170661,
+      "name": "Poduri"
+    },
+    {
+      "id": 170662,
+      "name": "Pogăceaua"
+    },
+    {
+      "id": 170663,
+      "name": "Poienița"
+    },
+    {
+      "id": 170664,
+      "name": "Porumbac"
+    },
+    {
+      "id": 170665,
+      "name": "Porumbeni"
+    },
+    {
+      "id": 170666,
+      "name": "Pripoare"
+    },
+    {
+      "id": 170667,
+      "name": "Pusta"
+    },
+    {
+      "id": 170668,
+      "name": "Racameț"
+    },
+    {
+      "id": 170669,
+      "name": "Râciu"
+    },
+    {
+      "id": 170670,
+      "name": "Ranta"
+    },
+    {
+      "id": 170671,
+      "name": "Râpa de Jos"
+    },
+    {
+      "id": 170672,
+      "name": "Răstolița"
+    },
+    {
+      "id": 170673,
+      "name": "Răzoare"
+    },
+    {
+      "id": 170674,
+      "name": "Recea"
+    },
+    {
+      "id": 170675,
+      "name": "Reghin"
+    },
+    {
+      "id": 170676,
+      "name": "Remetea"
+    },
+    {
+      "id": 170677,
+      "name": "Rigmani"
+    },
+    {
+      "id": 170678,
+      "name": "Rora"
+    },
+    {
+      "id": 170679,
+      "name": "Roșiori"
+    },
+    {
+      "id": 170680,
+      "name": "Roteni"
+    },
+    {
+      "id": 170681,
+      "name": "Roua"
+    },
+    {
+      "id": 170682,
+      "name": "Rușii-Munți"
+    },
+    {
+      "id": 170683,
+      "name": "Săbed"
+    },
+    {
+      "id": 170684,
+      "name": "Săcădat"
+    },
+    {
+      "id": 170685,
+      "name": "Săcalu de Pădure"
+    },
+    {
+      "id": 170686,
+      "name": "Săcăreni"
+    },
+    {
+      "id": 170687,
+      "name": "Șaeș"
+    },
+    {
+      "id": 170688,
+      "name": "Sălard"
+    },
+    {
+      "id": 170689,
+      "name": "Sălașuri"
+    },
+    {
+      "id": 170690,
+      "name": "Sălcud"
+    },
+    {
+      "id": 170691,
+      "name": "Sâmbriaș"
+    },
+    {
+      "id": 170692,
+      "name": "Sâncraiu de Mureș"
+    },
+    {
+      "id": 170693,
+      "name": "Șandru"
+    },
+    {
+      "id": 170694,
+      "name": "Sângeorgiu de Câmpie"
+    },
+    {
+      "id": 170695,
+      "name": "Sângeorgiu de Mureș"
+    },
+    {
+      "id": 170696,
+      "name": "Sângeorgiu de Pădure"
+    },
+    {
+      "id": 170697,
+      "name": "Sânger"
+    },
+    {
+      "id": 170698,
+      "name": "Sângeru de Pădure"
+    },
+    {
+      "id": 170699,
+      "name": "Sâniacob"
+    },
+    {
+      "id": 170700,
+      "name": "Sânișor"
+    },
+    {
+      "id": 170701,
+      "name": "Sânmărghita"
+    },
+    {
+      "id": 170702,
+      "name": "Sânmărtinu de Câmpie"
+    },
+    {
+      "id": 170703,
+      "name": "Sânmihai de Pădure"
+    },
+    {
+      "id": 170704,
+      "name": "Sânpaul"
+    },
+    {
+      "id": 170705,
+      "name": "Sânpetru de Câmpie"
+    },
+    {
+      "id": 170706,
+      "name": "Sânsimion"
+    },
+    {
+      "id": 170707,
+      "name": "Sântana de Mureș"
+    },
+    {
+      "id": 170708,
+      "name": "Sântioana"
+    },
+    {
+      "id": 170709,
+      "name": "Sântioana de Mureș"
+    },
+    {
+      "id": 170710,
+      "name": "Sântu"
+    },
+    {
+      "id": 170711,
+      "name": "Sânvăsii"
+    },
+    {
+      "id": 170712,
+      "name": "Șapartoc"
+    },
+    {
+      "id": 170713,
+      "name": "Sărățeni"
+    },
+    {
+      "id": 170714,
+      "name": "Șardu Nirajului"
+    },
+    {
+      "id": 170715,
+      "name": "Sărmășel"
+    },
+    {
+      "id": 170716,
+      "name": "Sărmașu"
+    },
+    {
+      "id": 170717,
+      "name": "Saschiz"
+    },
+    {
+      "id": 170718,
+      "name": "Satu Nou"
+    },
+    {
+      "id": 170719,
+      "name": "Șăulia"
+    },
+    {
+      "id": 170720,
+      "name": "Șăulița"
+    },
+    {
+      "id": 170721,
+      "name": "Șăușa"
+    },
+    {
+      "id": 170722,
+      "name": "Scurta"
+    },
+    {
+      "id": 170723,
+      "name": "Sebeș"
+    },
+    {
+      "id": 170724,
+      "name": "Seleuș"
+    },
+    {
+      "id": 170725,
+      "name": "Senereuș"
+    },
+    {
+      "id": 170726,
+      "name": "Șerbeni"
+    },
+    {
+      "id": 170727,
+      "name": "Seuca"
+    },
+    {
+      "id": 170728,
+      "name": "Șeulia de Mureș"
+    },
+    {
+      "id": 170729,
+      "name": "Sfântu Gheorghe"
+    },
+    {
+      "id": 170730,
+      "name": "Sicele"
+    },
+    {
+      "id": 170731,
+      "name": "Sighișoara"
+    },
+    {
+      "id": 170732,
+      "name": "Șilea Nirajului"
+    },
+    {
+      "id": 170733,
+      "name": "Șincai"
+    },
+    {
+      "id": 170734,
+      "name": "Șincai-Fânațe"
+    },
+    {
+      "id": 170735,
+      "name": "Șoard"
+    },
+    {
+      "id": 170736,
+      "name": "Socolu de Câmpie"
+    },
+    {
+      "id": 170737,
+      "name": "Șoimuș"
+    },
+    {
+      "id": 170738,
+      "name": "Solocma"
+    },
+    {
+      "id": 170739,
+      "name": "Solovăstru"
+    },
+    {
+      "id": 170740,
+      "name": "Șomoștelnic"
+    },
+    {
+      "id": 170741,
+      "name": "Șoromiclea"
+    },
+    {
+      "id": 170742,
+      "name": "Sovata"
+    },
+    {
+      "id": 170743,
+      "name": "Stânceni"
+    },
+    {
+      "id": 170744,
+      "name": "Ștefanca"
+    },
+    {
+      "id": 170745,
+      "name": "Ștefăneaca"
+    },
+    {
+      "id": 170746,
+      "name": "Stejărenii"
+    },
+    {
+      "id": 170747,
+      "name": "Stejeriș"
+    },
+    {
+      "id": 170748,
+      "name": "Sub Pădure"
+    },
+    {
+      "id": 170749,
+      "name": "Suplac"
+    },
+    {
+      "id": 170750,
+      "name": "Suseni"
+    },
+    {
+      "id": 170751,
+      "name": "Suveica"
+    },
+    {
+      "id": 170752,
+      "name": "Tăblășeni"
+    },
+    {
+      "id": 170753,
+      "name": "Tâmpa"
+    },
+    {
+      "id": 170754,
+      "name": "Târgu Mureș"
+    },
+    {
+      "id": 170755,
+      "name": "Târnăveni"
+    },
+    {
+      "id": 170756,
+      "name": "Tău"
+    },
+    {
+      "id": 170757,
+      "name": "Tăureni"
+    },
+    {
+      "id": 170758,
+      "name": "Teleac"
+    },
+    {
+      "id": 170759,
+      "name": "Țigmandru"
+    },
+    {
+      "id": 170760,
+      "name": "Țiptelnic"
+    },
+    {
+      "id": 170761,
+      "name": "Tireu"
+    },
+    {
+      "id": 170762,
+      "name": "Tirimia"
+    },
+    {
+      "id": 170763,
+      "name": "Tirimioara"
+    },
+    {
+      "id": 170764,
+      "name": "Tisieu"
+    },
+    {
+      "id": 170765,
+      "name": "Titiana"
+    },
+    {
+      "id": 170766,
+      "name": "Toaca"
+    },
+    {
+      "id": 170767,
+      "name": "Tofalău"
+    },
+    {
+      "id": 170768,
+      "name": "Toldal"
+    },
+    {
+      "id": 170769,
+      "name": "Tonciu"
+    },
+    {
+      "id": 170770,
+      "name": "Țopa"
+    },
+    {
+      "id": 170771,
+      "name": "Torba"
+    },
+    {
+      "id": 170772,
+      "name": "Trei Sate"
+    },
+    {
+      "id": 170773,
+      "name": "Troița"
+    },
+    {
+      "id": 170774,
+      "name": "Tușinu"
+    },
+    {
+      "id": 170775,
+      "name": "Uila"
+    },
+    {
+      "id": 170776,
+      "name": "Ulieș"
+    },
+    {
+      "id": 170777,
+      "name": "Ungheni"
+    },
+    {
+      "id": 170778,
+      "name": "Uricea"
+    },
+    {
+      "id": 170779,
+      "name": "Urisiu de Jos"
+    },
+    {
+      "id": 170780,
+      "name": "Urisiu de Sus"
+    },
+    {
+      "id": 170781,
+      "name": "Ursoaia"
+    },
+    {
+      "id": 170782,
+      "name": "Vădaș"
+    },
+    {
+      "id": 170783,
+      "name": "Vadu"
+    },
+    {
+      "id": 170784,
+      "name": "Vaidacuta"
+    },
+    {
+      "id": 170785,
+      "name": "Vaideiu"
+    },
+    {
+      "id": 170786,
+      "name": "Valea"
+    },
+    {
+      "id": 170787,
+      "name": "Valea Albeștiului"
+    },
+    {
+      "id": 170788,
+      "name": "Valea Dăii"
+    },
+    {
+      "id": 170789,
+      "name": "Valea Frăției"
+    },
+    {
+      "id": 170790,
+      "name": "Valea Glodului"
+    },
+    {
+      "id": 170791,
+      "name": "Valea Iclandului"
+    },
+    {
+      "id": 170792,
+      "name": "Valea Izvoarelor"
+    },
+    {
+      "id": 170793,
+      "name": "Valea Largă"
+    },
+    {
+      "id": 170794,
+      "name": "Valea Mare"
+    },
+    {
+      "id": 170795,
+      "name": "Valea Pădurii"
+    },
+    {
+      "id": 170796,
+      "name": "Valea Rece"
+    },
+    {
+      "id": 170797,
+      "name": "Valea Sânmărtinului"
+    },
+    {
+      "id": 170798,
+      "name": "Valea Sânpetrului"
+    },
+    {
+      "id": 170799,
+      "name": "Valea Șapartocului"
+    },
+    {
+      "id": 170800,
+      "name": "Valea Sasului"
+    },
+    {
+      "id": 170801,
+      "name": "Valea Seacă"
+    },
+    {
+      "id": 170802,
+      "name": "Valea Șurii"
+    },
+    {
+      "id": 170803,
+      "name": "Valea Ulieșului"
+    },
+    {
+      "id": 170804,
+      "name": "Valea Ungurului"
+    },
+    {
+      "id": 170805,
+      "name": "Valea Urieșului"
+    },
+    {
+      "id": 170806,
+      "name": "Văleni"
+    },
+    {
+      "id": 170807,
+      "name": "Vălenii"
+    },
+    {
+      "id": 170808,
+      "name": "Vălenii de Mureș"
+    },
+    {
+      "id": 170809,
+      "name": "Vălișoara"
+    },
+    {
+      "id": 170810,
+      "name": "Vălureni"
+    },
+    {
+      "id": 170811,
+      "name": "Vânători"
+    },
+    {
+      "id": 170812,
+      "name": "Vărgata"
+    },
+    {
+      "id": 170813,
+      "name": "Vătava"
+    },
+    {
+      "id": 170814,
+      "name": "Venchi"
+    },
+    {
+      "id": 170815,
+      "name": "Veța"
+    },
+    {
+      "id": 170816,
+      "name": "Vețca"
+    },
+    {
+      "id": 170817,
+      "name": "Vidrasău"
+    },
+    {
+      "id": 170818,
+      "name": "Viforoasa"
+    },
+    {
+      "id": 170819,
+      "name": "Viilor"
+    },
+    {
+      "id": 170820,
+      "name": "Viișoara"
+    },
+    {
+      "id": 170821,
+      "name": "Vișinelu"
+    },
+    {
+      "id": 170822,
+      "name": "Voiniceni"
+    },
+    {
+      "id": 170823,
+      "name": "Voivodeni"
+    },
+    {
+      "id": 170824,
+      "name": "Vulcan"
+    },
+    {
+      "id": 170825,
+      "name": "Zagăr"
+    },
+    {
+      "id": 170826,
+      "name": "Zăpodea"
+    },
+    {
+      "id": 170827,
+      "name": "Zau de Câmpie"
+    },
+    {
+      "id": 170828,
+      "name": "Zimți"
+    }
+  ]
+}

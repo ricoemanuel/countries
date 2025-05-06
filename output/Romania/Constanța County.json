@@ -1,0 +1,659 @@
+{
+  "id": 5968,
+  "name": "Constanța County",
+  "state_code": "CT",
+  "cities": [
+    {
+      "id": 167818,
+      "name": "23 August"
+    },
+    {
+      "id": 167819,
+      "name": "Adamclisi"
+    },
+    {
+      "id": 167820,
+      "name": "Agigea"
+    },
+    {
+      "id": 167821,
+      "name": "Albeşti"
+    },
+    {
+      "id": 167822,
+      "name": "Aliman"
+    },
+    {
+      "id": 167823,
+      "name": "Amzacea"
+    },
+    {
+      "id": 167824,
+      "name": "Băneasa"
+    },
+    {
+      "id": 167825,
+      "name": "Bărăganu"
+    },
+    {
+      "id": 167826,
+      "name": "Castelu"
+    },
+    {
+      "id": 167827,
+      "name": "Cerchezu"
+    },
+    {
+      "id": 167828,
+      "name": "Cernavodă"
+    },
+    {
+      "id": 167829,
+      "name": "Chirnogeni"
+    },
+    {
+      "id": 167830,
+      "name": "Ciobanu"
+    },
+    {
+      "id": 167831,
+      "name": "Ciocârlia"
+    },
+    {
+      "id": 167832,
+      "name": "Ciocârlia de Sus"
+    },
+    {
+      "id": 167833,
+      "name": "Cobadin"
+    },
+    {
+      "id": 167834,
+      "name": "Cogealac"
+    },
+    {
+      "id": 167835,
+      "name": "Comana"
+    },
+    {
+      "id": 167836,
+      "name": "Comuna 23 August"
+    },
+    {
+      "id": 167837,
+      "name": "Comuna Adamclisi"
+    },
+    {
+      "id": 167838,
+      "name": "Comuna Agigea"
+    },
+    {
+      "id": 167839,
+      "name": "Comuna Albeşti"
+    },
+    {
+      "id": 167840,
+      "name": "Comuna Aliman"
+    },
+    {
+      "id": 167841,
+      "name": "Comuna Amzacea"
+    },
+    {
+      "id": 167842,
+      "name": "Comuna Bărăganu"
+    },
+    {
+      "id": 167843,
+      "name": "Comuna Castelu"
+    },
+    {
+      "id": 167844,
+      "name": "Comuna Cerchezu"
+    },
+    {
+      "id": 167845,
+      "name": "Comuna Chirnogeni"
+    },
+    {
+      "id": 167846,
+      "name": "Comuna Ciobanu"
+    },
+    {
+      "id": 167847,
+      "name": "Comuna Ciocârlia"
+    },
+    {
+      "id": 167848,
+      "name": "Comuna Cobadin"
+    },
+    {
+      "id": 167849,
+      "name": "Comuna Cogealac"
+    },
+    {
+      "id": 167850,
+      "name": "Comuna Comana"
+    },
+    {
+      "id": 167851,
+      "name": "Comuna Corbu"
+    },
+    {
+      "id": 167852,
+      "name": "Comuna Costineşti"
+    },
+    {
+      "id": 167853,
+      "name": "Comuna Crucea"
+    },
+    {
+      "id": 167854,
+      "name": "Comuna Cumpăna"
+    },
+    {
+      "id": 167855,
+      "name": "Comuna Cuza Voda"
+    },
+    {
+      "id": 167856,
+      "name": "Comuna Deleni"
+    },
+    {
+      "id": 167857,
+      "name": "Comună Dobromir"
+    },
+    {
+      "id": 167858,
+      "name": "Comuna Dumbrăveni"
+    },
+    {
+      "id": 167859,
+      "name": "Comuna Fântânele"
+    },
+    {
+      "id": 167860,
+      "name": "Comuna Gârliciu"
+    },
+    {
+      "id": 167861,
+      "name": "Comuna Ghindăreşti"
+    },
+    {
+      "id": 167862,
+      "name": "Comuna Grădina"
+    },
+    {
+      "id": 167863,
+      "name": "Comuna Horia"
+    },
+    {
+      "id": 167864,
+      "name": "Comuna Independenţa"
+    },
+    {
+      "id": 167865,
+      "name": "Comuna Ion Corvin"
+    },
+    {
+      "id": 167866,
+      "name": "Comuna Istria"
+    },
+    {
+      "id": 167867,
+      "name": "Comuna Limanu"
+    },
+    {
+      "id": 167868,
+      "name": "Comuna Lipniţa"
+    },
+    {
+      "id": 167869,
+      "name": "Comuna Lumina"
+    },
+    {
+      "id": 167870,
+      "name": "Comuna Mereni"
+    },
+    {
+      "id": 167871,
+      "name": "Comuna Mihai Viteazu"
+    },
+    {
+      "id": 167872,
+      "name": "Comuna Mihail Kogălniceanu"
+    },
+    {
+      "id": 167873,
+      "name": "Comuna Mircea Vodă"
+    },
+    {
+      "id": 167874,
+      "name": "Comuna Nicolae Bălcescu"
+    },
+    {
+      "id": 167875,
+      "name": "Comuna Oltina"
+    },
+    {
+      "id": 167876,
+      "name": "Comuna Ostrov"
+    },
+    {
+      "id": 167877,
+      "name": "Comuna Pantelimon"
+    },
+    {
+      "id": 167878,
+      "name": "Comuna Pecineaga"
+    },
+    {
+      "id": 167879,
+      "name": "Comuna Peştera"
+    },
+    {
+      "id": 167880,
+      "name": "Comuna Poarta Albă"
+    },
+    {
+      "id": 167881,
+      "name": "Comuna Rasova"
+    },
+    {
+      "id": 167882,
+      "name": "Comuna Săcele"
+    },
+    {
+      "id": 167883,
+      "name": "Comuna Saligny"
+    },
+    {
+      "id": 167884,
+      "name": "Comuna Saraiu"
+    },
+    {
+      "id": 167885,
+      "name": "Comuna Seimeni"
+    },
+    {
+      "id": 167886,
+      "name": "Comuna Siliştea"
+    },
+    {
+      "id": 167887,
+      "name": "Comuna Târguşor"
+    },
+    {
+      "id": 167888,
+      "name": "Comuna Topalu"
+    },
+    {
+      "id": 167889,
+      "name": "Comuna Topraisar"
+    },
+    {
+      "id": 167890,
+      "name": "Comuna Tortoman"
+    },
+    {
+      "id": 167891,
+      "name": "Comuna Tuzla"
+    },
+    {
+      "id": 167892,
+      "name": "Comuna Valu lui Traian"
+    },
+    {
+      "id": 167893,
+      "name": "Comuna Vulturu"
+    },
+    {
+      "id": 167894,
+      "name": "Constanţa"
+    },
+    {
+      "id": 167895,
+      "name": "Corbu"
+    },
+    {
+      "id": 167896,
+      "name": "Costineşti"
+    },
+    {
+      "id": 167897,
+      "name": "Crucea"
+    },
+    {
+      "id": 167898,
+      "name": "Culmea"
+    },
+    {
+      "id": 167899,
+      "name": "Cumpăna"
+    },
+    {
+      "id": 167900,
+      "name": "Cuza Vodă"
+    },
+    {
+      "id": 167901,
+      "name": "Deleni"
+    },
+    {
+      "id": 167902,
+      "name": "Dobromir"
+    },
+    {
+      "id": 167903,
+      "name": "Dorobanțu"
+    },
+    {
+      "id": 167904,
+      "name": "Dulcești"
+    },
+    {
+      "id": 167905,
+      "name": "Dumbrăveni"
+    },
+    {
+      "id": 167906,
+      "name": "Dunăreni"
+    },
+    {
+      "id": 167907,
+      "name": "Eforie Nord"
+    },
+    {
+      "id": 167908,
+      "name": "Eforie Sud"
+    },
+    {
+      "id": 167909,
+      "name": "Făclia"
+    },
+    {
+      "id": 167910,
+      "name": "Fântânele"
+    },
+    {
+      "id": 167911,
+      "name": "Gârliciu"
+    },
+    {
+      "id": 167912,
+      "name": "Ghindăreşti"
+    },
+    {
+      "id": 167913,
+      "name": "Grădina"
+    },
+    {
+      "id": 167914,
+      "name": "Hârşova"
+    },
+    {
+      "id": 167915,
+      "name": "Horia"
+    },
+    {
+      "id": 167916,
+      "name": "Independenţa"
+    },
+    {
+      "id": 167917,
+      "name": "Ion Corvin"
+    },
+    {
+      "id": 167918,
+      "name": "Istria"
+    },
+    {
+      "id": 167919,
+      "name": "Limanu"
+    },
+    {
+      "id": 167920,
+      "name": "Lipniţa"
+    },
+    {
+      "id": 167921,
+      "name": "Lumina"
+    },
+    {
+      "id": 167922,
+      "name": "Mamaia-Sat"
+    },
+    {
+      "id": 167923,
+      "name": "Mangalia"
+    },
+    {
+      "id": 167924,
+      "name": "Medgidia"
+    },
+    {
+      "id": 167925,
+      "name": "Mereni"
+    },
+    {
+      "id": 167926,
+      "name": "Mihai Viteazu"
+    },
+    {
+      "id": 167927,
+      "name": "Mihail Kogălniceanu"
+    },
+    {
+      "id": 167928,
+      "name": "Mircea Vodă"
+    },
+    {
+      "id": 167929,
+      "name": "Moșneni"
+    },
+    {
+      "id": 167930,
+      "name": "Municipiul Constanţa"
+    },
+    {
+      "id": 167931,
+      "name": "Municipiul Mangalia"
+    },
+    {
+      "id": 167932,
+      "name": "Municipiul Medgidia"
+    },
+    {
+      "id": 167933,
+      "name": "Murfatlar"
+    },
+    {
+      "id": 167934,
+      "name": "Năvodari"
+    },
+    {
+      "id": 167935,
+      "name": "Negru Vodă"
+    },
+    {
+      "id": 167936,
+      "name": "Nicolae Bălcescu"
+    },
+    {
+      "id": 167937,
+      "name": "Nisipari"
+    },
+    {
+      "id": 167938,
+      "name": "Nuntași"
+    },
+    {
+      "id": 167939,
+      "name": "Oltina"
+    },
+    {
+      "id": 167940,
+      "name": "Oraş Bãneasa"
+    },
+    {
+      "id": 167941,
+      "name": "Oraş Cernavodã"
+    },
+    {
+      "id": 167942,
+      "name": "Oraş Eforie"
+    },
+    {
+      "id": 167943,
+      "name": "Oraş Hârşova"
+    },
+    {
+      "id": 167944,
+      "name": "Oraş Murfatlar"
+    },
+    {
+      "id": 167945,
+      "name": "Oraş Nãvodari"
+    },
+    {
+      "id": 167946,
+      "name": "Oraş Negru Vodã"
+    },
+    {
+      "id": 167947,
+      "name": "Oraş Ovidiu"
+    },
+    {
+      "id": 167948,
+      "name": "Oraş Techirghiol"
+    },
+    {
+      "id": 167949,
+      "name": "Ostrov"
+    },
+    {
+      "id": 167950,
+      "name": "Ovidiu"
+    },
+    {
+      "id": 167951,
+      "name": "Palazu Mare"
+    },
+    {
+      "id": 167952,
+      "name": "Pantelimon"
+    },
+    {
+      "id": 167953,
+      "name": "Pantelimon de Jos"
+    },
+    {
+      "id": 167954,
+      "name": "Pecineaga"
+    },
+    {
+      "id": 167955,
+      "name": "Peştera"
+    },
+    {
+      "id": 167956,
+      "name": "Piatra"
+    },
+    {
+      "id": 167957,
+      "name": "Pietreni"
+    },
+    {
+      "id": 167958,
+      "name": "Plopeni"
+    },
+    {
+      "id": 167959,
+      "name": "Poarta Albă"
+    },
+    {
+      "id": 167960,
+      "name": "Rasova"
+    },
+    {
+      "id": 167961,
+      "name": "Săcele"
+    },
+    {
+      "id": 167962,
+      "name": "Saligny"
+    },
+    {
+      "id": 167963,
+      "name": "Saraiu"
+    },
+    {
+      "id": 167964,
+      "name": "Satu Nou"
+    },
+    {
+      "id": 167965,
+      "name": "Schitu"
+    },
+    {
+      "id": 167966,
+      "name": "Seimeni"
+    },
+    {
+      "id": 167967,
+      "name": "Siliştea"
+    },
+    {
+      "id": 167968,
+      "name": "Siminoc"
+    },
+    {
+      "id": 167969,
+      "name": "Târguşor"
+    },
+    {
+      "id": 167970,
+      "name": "Tariverde"
+    },
+    {
+      "id": 167971,
+      "name": "Techirghiol"
+    },
+    {
+      "id": 167972,
+      "name": "Topalu"
+    },
+    {
+      "id": 167973,
+      "name": "Topraisar"
+    },
+    {
+      "id": 167974,
+      "name": "Tortoman"
+    },
+    {
+      "id": 167975,
+      "name": "Tuzla"
+    },
+    {
+      "id": 167976,
+      "name": "Valea Dacilor"
+    },
+    {
+      "id": 167977,
+      "name": "Valu lui Traian"
+    },
+    {
+      "id": 167978,
+      "name": "Viile"
+    },
+    {
+      "id": 167979,
+      "name": "Viișoara"
+    },
+    {
+      "id": 167980,
+      "name": "Vulturu"
+    }
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "id": 6646,
+  "name": "Bern",
+  "state_code": "BE",
+  "cities": [
+    {
+      "id": 191210,
+      "name": "Aarberg"
+    },
+    {
+      "id": 191211,
+      "name": "Aarwangen"
+    },
+    {
+      "id": 191212,
+      "name": "Adelboden"
+    },
+    {
+      "id": 191213,
+      "name": "Aeschi b. Spiez"
+    },
+    {
+      "id": 191214,
+      "name": "Arch"
+    },
+    {
+      "id": 191215,
+      "name": "Attiswil"
+    },
+    {
+      "id": 191216,
+      "name": "Bäriswil"
+    },
+    {
+      "id": 191217,
+      "name": "Bätterkinden"
+    },
+    {
+      "id": 191218,
+      "name": "Beatenberg"
+    },
+    {
+      "id": 191219,
+      "name": "Bellmund"
+    },
+    {
+      "id": 191220,
+      "name": "Belp"
+    },
+    {
+      "id": 191221,
+      "name": "Bern"
+    },
+    {
+      "id": 191222,
+      "name": "Bern-Mittelland District"
+    },
+    {
+      "id": 191223,
+      "name": "Bévilard"
+    },
+    {
+      "id": 191224,
+      "name": "Biel/Bienne"
+    },
+    {
+      "id": 191225,
+      "name": "Biel/Bienne District"
+    },
+    {
+      "id": 191226,
+      "name": "Biglen"
+    },
+    {
+      "id": 191227,
+      "name": "Blumenstein"
+    },
+    {
+      "id": 191228,
+      "name": "Bolligen"
+    },
+    {
+      "id": 191229,
+      "name": "Boltigen"
+    },
+    {
+      "id": 191230,
+      "name": "Bönigen"
+    },
+    {
+      "id": 191231,
+      "name": "Bowil"
+    },
+    {
+      "id": 191232,
+      "name": "Brienz"
+    },
+    {
+      "id": 191233,
+      "name": "Brügg"
+    },
+    {
+      "id": 191234,
+      "name": "Buchholterberg"
+    },
+    {
+      "id": 191235,
+      "name": "Burgdorf"
+    },
+    {
+      "id": 191236,
+      "name": "Burgistein"
+    },
+    {
+      "id": 191237,
+      "name": "Corgémont"
+    },
+    {
+      "id": 191238,
+      "name": "Court"
+    },
+    {
+      "id": 191239,
+      "name": "Courtelary"
+    },
+    {
+      "id": 191240,
+      "name": "Därligen"
+    },
+    {
+      "id": 191241,
+      "name": "Diemtigen"
+    },
+    {
+      "id": 191242,
+      "name": "Dürrenroth"
+    },
+    {
+      "id": 191243,
+      "name": "Eggiwil"
+    },
+    {
+      "id": 191244,
+      "name": "Emmental District"
+    },
+    {
+      "id": 191245,
+      "name": "Eriswil"
+    },
+    {
+      "id": 191246,
+      "name": "Erlach"
+    },
+    {
+      "id": 191247,
+      "name": "Erlenbach im Simmental"
+    },
+    {
+      "id": 191248,
+      "name": "Ersigen"
+    },
+    {
+      "id": 191249,
+      "name": "Evilard"
+    },
+    {
+      "id": 191250,
+      "name": "Ferenbalm"
+    },
+    {
+      "id": 191251,
+      "name": "Fraubrunnen"
+    },
+    {
+      "id": 191252,
+      "name": "Frauenkappelen"
+    },
+    {
+      "id": 191253,
+      "name": "Frutigen"
+    },
+    {
+      "id": 191254,
+      "name": "Frutigen-Niedersimmental District"
+    },
+    {
+      "id": 191255,
+      "name": "Grindelwald"
+    },
+    {
+      "id": 191256,
+      "name": "Grossaffoltern"
+    },
+    {
+      "id": 191257,
+      "name": "Gstaad"
+    },
+    {
+      "id": 191258,
+      "name": "Guggisberg"
+    },
+    {
+      "id": 191259,
+      "name": "Heimberg"
+    },
+    {
+      "id": 191260,
+      "name": "Heimiswil"
+    },
+    {
+      "id": 191261,
+      "name": "Hermiswil"
+    },
+    {
+      "id": 191262,
+      "name": "Herzogenbuchsee"
+    },
+    {
+      "id": 191263,
+      "name": "Hilterfingen"
+    },
+    {
+      "id": 191264,
+      "name": "Hindelbank"
+    },
+    {
+      "id": 191265,
+      "name": "Huttwil"
+    },
+    {
+      "id": 191266,
+      "name": "Ins"
+    },
+    {
+      "id": 191267,
+      "name": "Interlaken"
+    },
+    {
+      "id": 191268,
+      "name": "Interlaken-Oberhasli District"
+    },
+    {
+      "id": 191269,
+      "name": "Jegenstorf"
+    },
+    {
+      "id": 191270,
+      "name": "Jura bernois"
+    },
+    {
+      "id": 191271,
+      "name": "Kallnach"
+    },
+    {
+      "id": 191272,
+      "name": "Kandersteg"
+    },
+    {
+      "id": 191273,
+      "name": "Kappelen"
+    },
+    {
+      "id": 191274,
+      "name": "Kehrsatz"
+    },
+    {
+      "id": 191275,
+      "name": "Kirchberg"
+    },
+    {
+      "id": 191276,
+      "name": "Kirchlindach"
+    },
+    {
+      "id": 191277,
+      "name": "Köniz"
+    },
+    {
+      "id": 191278,
+      "name": "Konolfingen"
+    },
+    {
+      "id": 191279,
+      "name": "Koppigen"
+    },
+    {
+      "id": 191280,
+      "name": "Krauchthal"
+    },
+    {
+      "id": 191281,
+      "name": "La Neuveville"
+    },
+    {
+      "id": 191282,
+      "name": "Langenthal"
+    },
+    {
+      "id": 191283,
+      "name": "Langnau"
+    },
+    {
+      "id": 191284,
+      "name": "Laupen"
+    },
+    {
+      "id": 191285,
+      "name": "Lauperswil"
+    },
+    {
+      "id": 191286,
+      "name": "Lauterbrunnen"
+    },
+    {
+      "id": 191287,
+      "name": "Lengnau"
+    },
+    {
+      "id": 191288,
+      "name": "Lenk"
+    },
+    {
+      "id": 191289,
+      "name": "Leuzigen"
+    },
+    {
+      "id": 191290,
+      "name": "Liebefeld"
+    },
+    {
+      "id": 191291,
+      "name": "Linden"
+    },
+    {
+      "id": 191292,
+      "name": "Lotzwil"
+    },
+    {
+      "id": 191293,
+      "name": "Lützelflüh"
+    },
+    {
+      "id": 191294,
+      "name": "Lyss"
+    },
+    {
+      "id": 191295,
+      "name": "Lyssach"
+    },
+    {
+      "id": 191296,
+      "name": "Madiswil"
+    },
+    {
+      "id": 191297,
+      "name": "Malleray"
+    },
+    {
+      "id": 191298,
+      "name": "Matten"
+    },
+    {
+      "id": 191299,
+      "name": "Meinisberg"
+    },
+    {
+      "id": 191300,
+      "name": "Meiringen"
+    },
+    {
+      "id": 191301,
+      "name": "Melchnau"
+    },
+    {
+      "id": 191302,
+      "name": "Moutier"
+    },
+    {
+      "id": 191303,
+      "name": "Mühleberg"
+    },
+    {
+      "id": 191304,
+      "name": "Mühlethurnen"
+    },
+    {
+      "id": 191305,
+      "name": "Münchenbuchsee"
+    },
+    {
+      "id": 191306,
+      "name": "Münchenwiler"
+    },
+    {
+      "id": 191307,
+      "name": "Münsingen"
+    },
+    {
+      "id": 191308,
+      "name": "Müntschemier"
+    },
+    {
+      "id": 191309,
+      "name": "Muri"
+    },
+    {
+      "id": 191310,
+      "name": "Nidau"
+    },
+    {
+      "id": 191311,
+      "name": "Niederbipp"
+    },
+    {
+      "id": 191312,
+      "name": "Oberaargau"
+    },
+    {
+      "id": 191313,
+      "name": "Oberbipp"
+    },
+    {
+      "id": 191314,
+      "name": "Oberburg"
+    },
+    {
+      "id": 191315,
+      "name": "Oberdiessbach"
+    },
+    {
+      "id": 191316,
+      "name": "Obersimmental-Saanen District"
+    },
+    {
+      "id": 191317,
+      "name": "Orpund"
+    },
+    {
+      "id": 191318,
+      "name": "Orvin"
+    },
+    {
+      "id": 191319,
+      "name": "Péry"
+    },
+    {
+      "id": 191320,
+      "name": "Pieterlen"
+    },
+    {
+      "id": 191321,
+      "name": "Radelfingen"
+    },
+    {
+      "id": 191322,
+      "name": "Reconvilier"
+    },
+    {
+      "id": 191323,
+      "name": "Riggisberg"
+    },
+    {
+      "id": 191324,
+      "name": "Ringgenberg"
+    },
+    {
+      "id": 191325,
+      "name": "Roggwil"
+    },
+    {
+      "id": 191326,
+      "name": "Rohrbach"
+    },
+    {
+      "id": 191327,
+      "name": "Rubigen"
+    },
+    {
+      "id": 191328,
+      "name": "Rüderswil"
+    },
+    {
+      "id": 191329,
+      "name": "Rüeggisberg"
+    },
+    {
+      "id": 191330,
+      "name": "Rüschegg"
+    },
+    {
+      "id": 191331,
+      "name": "Saanen"
+    },
+    {
+      "id": 191332,
+      "name": "Saint-Imier"
+    },
+    {
+      "id": 191333,
+      "name": "Sankt Stephan"
+    },
+    {
+      "id": 191334,
+      "name": "Schüpfen"
+    },
+    {
+      "id": 191335,
+      "name": "Seeberg"
+    },
+    {
+      "id": 191336,
+      "name": "Seedorf"
+    },
+    {
+      "id": 191337,
+      "name": "Seeland District"
+    },
+    {
+      "id": 191338,
+      "name": "Seftigen"
+    },
+    {
+      "id": 191339,
+      "name": "Signau"
+    },
+    {
+      "id": 191340,
+      "name": "Sigriswil"
+    },
+    {
+      "id": 191341,
+      "name": "Spiez"
+    },
+    {
+      "id": 191342,
+      "name": "Steffisburg"
+    },
+    {
+      "id": 191343,
+      "name": "Stettlen"
+    },
+    {
+      "id": 191344,
+      "name": "Sumiswald"
+    },
+    {
+      "id": 191345,
+      "name": "Täuffelen"
+    },
+    {
+      "id": 191346,
+      "name": "Tavannes"
+    },
+    {
+      "id": 191347,
+      "name": "Thierachern"
+    },
+    {
+      "id": 191348,
+      "name": "Thun"
+    },
+    {
+      "id": 191349,
+      "name": "Thun District"
+    },
+    {
+      "id": 191350,
+      "name": "Toffen"
+    },
+    {
+      "id": 191351,
+      "name": "Trachselwald"
+    },
+    {
+      "id": 191352,
+      "name": "Tramelan"
+    },
+    {
+      "id": 191353,
+      "name": "Trub"
+    },
+    {
+      "id": 191354,
+      "name": "Trubschachen"
+    },
+    {
+      "id": 191355,
+      "name": "Uetendorf"
+    },
+    {
+      "id": 191356,
+      "name": "Unterseen"
+    },
+    {
+      "id": 191357,
+      "name": "Urtenen"
+    },
+    {
+      "id": 191358,
+      "name": "Uttigen"
+    },
+    {
+      "id": 191359,
+      "name": "Utzenstorf"
+    },
+    {
+      "id": 191360,
+      "name": "Vechigen"
+    },
+    {
+      "id": 191361,
+      "name": "Walkringen"
+    },
+    {
+      "id": 191362,
+      "name": "Wangen an der Aare"
+    },
+    {
+      "id": 191363,
+      "name": "Wattenwil"
+    },
+    {
+      "id": 191364,
+      "name": "Wichtrach"
+    },
+    {
+      "id": 191365,
+      "name": "Wiedlisbach"
+    },
+    {
+      "id": 191366,
+      "name": "Wilderswil"
+    },
+    {
+      "id": 191367,
+      "name": "Wimmis"
+    },
+    {
+      "id": 191368,
+      "name": "Wohlen"
+    },
+    {
+      "id": 191369,
+      "name": "Worb"
+    },
+    {
+      "id": 191370,
+      "name": "Worben"
+    },
+    {
+      "id": 191371,
+      "name": "Wynau"
+    },
+    {
+      "id": 191372,
+      "name": "Wynigen"
+    },
+    {
+      "id": 191373,
+      "name": "Wyssachen"
+    },
+    {
+      "id": 191374,
+      "name": "Zäziwil"
+    },
+    {
+      "id": 191375,
+      "name": "Zollikofen"
+    },
+    {
+      "id": 191376,
+      "name": "Zweisimmen"
+    }
+  ]
+}

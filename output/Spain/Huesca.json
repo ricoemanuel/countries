@@ -1,0 +1,895 @@
+{
+  "id": 6531,
+  "name": "Huesca",
+  "state_code": "HU",
+  "cities": [
+    {
+      "id": 185084,
+      "name": "Abiego"
+    },
+    {
+      "id": 185085,
+      "name": "Abizanda"
+    },
+    {
+      "id": 185086,
+      "name": "Adahuesca"
+    },
+    {
+      "id": 185087,
+      "name": "Agüero"
+    },
+    {
+      "id": 185088,
+      "name": "Aínsa"
+    },
+    {
+      "id": 185089,
+      "name": "Aínsa-Sobrarbe"
+    },
+    {
+      "id": 185090,
+      "name": "Aisa"
+    },
+    {
+      "id": 185091,
+      "name": "Albalate de Cinca"
+    },
+    {
+      "id": 185092,
+      "name": "Albalatillo"
+    },
+    {
+      "id": 185093,
+      "name": "Albelda"
+    },
+    {
+      "id": 185094,
+      "name": "Albero Alto"
+    },
+    {
+      "id": 185095,
+      "name": "Albero Bajo"
+    },
+    {
+      "id": 185096,
+      "name": "Alberuela de Tubo"
+    },
+    {
+      "id": 185097,
+      "name": "Alcalá de Gurrea"
+    },
+    {
+      "id": 185098,
+      "name": "Alcalá del Obispo"
+    },
+    {
+      "id": 185099,
+      "name": "Alcampell"
+    },
+    {
+      "id": 185100,
+      "name": "Alcolea de Cinca"
+    },
+    {
+      "id": 185101,
+      "name": "Alcubierre"
+    },
+    {
+      "id": 185102,
+      "name": "Alerre"
+    },
+    {
+      "id": 185103,
+      "name": "Alfántega"
+    },
+    {
+      "id": 185104,
+      "name": "Almozara"
+    },
+    {
+      "id": 185105,
+      "name": "Almudévar"
+    },
+    {
+      "id": 185106,
+      "name": "Almunia de San Juan"
+    },
+    {
+      "id": 185107,
+      "name": "Almuniente"
+    },
+    {
+      "id": 185108,
+      "name": "Alquézar"
+    },
+    {
+      "id": 185109,
+      "name": "Altorricón"
+    },
+    {
+      "id": 185110,
+      "name": "Angüés"
+    },
+    {
+      "id": 185111,
+      "name": "Ansó"
+    },
+    {
+      "id": 185112,
+      "name": "Antillón"
+    },
+    {
+      "id": 185113,
+      "name": "Aragüés del Puerto"
+    },
+    {
+      "id": 185114,
+      "name": "Arén"
+    },
+    {
+      "id": 185115,
+      "name": "Arenys de Lledó / Arens de Lledó"
+    },
+    {
+      "id": 185116,
+      "name": "Argavieso"
+    },
+    {
+      "id": 185117,
+      "name": "Arguis"
+    },
+    {
+      "id": 185118,
+      "name": "Ayerbe"
+    },
+    {
+      "id": 185119,
+      "name": "Azanuy-Alins"
+    },
+    {
+      "id": 185120,
+      "name": "Azara"
+    },
+    {
+      "id": 185121,
+      "name": "Azlor"
+    },
+    {
+      "id": 185122,
+      "name": "Baells"
+    },
+    {
+      "id": 185123,
+      "name": "Bailo"
+    },
+    {
+      "id": 185124,
+      "name": "Baldellou"
+    },
+    {
+      "id": 185125,
+      "name": "Ballobar"
+    },
+    {
+      "id": 185126,
+      "name": "Banastás"
+    },
+    {
+      "id": 185127,
+      "name": "Barbastro"
+    },
+    {
+      "id": 185128,
+      "name": "Barbués"
+    },
+    {
+      "id": 185129,
+      "name": "Barbuñales"
+    },
+    {
+      "id": 185130,
+      "name": "Bárcabo"
+    },
+    {
+      "id": 185131,
+      "name": "Belver de Cinca"
+    },
+    {
+      "id": 185132,
+      "name": "Benabarre"
+    },
+    {
+      "id": 185133,
+      "name": "Benasque"
+    },
+    {
+      "id": 185134,
+      "name": "Benavarri / Benabarre"
+    },
+    {
+      "id": 185135,
+      "name": "Beranuy"
+    },
+    {
+      "id": 185136,
+      "name": "Berbegal"
+    },
+    {
+      "id": 185137,
+      "name": "Bielsa"
+    },
+    {
+      "id": 185138,
+      "name": "Bierge"
+    },
+    {
+      "id": 185139,
+      "name": "Biescas"
+    },
+    {
+      "id": 185140,
+      "name": "Binaced"
+    },
+    {
+      "id": 185141,
+      "name": "Binéfar"
+    },
+    {
+      "id": 185142,
+      "name": "Bisaurri"
+    },
+    {
+      "id": 185143,
+      "name": "Biscarrués"
+    },
+    {
+      "id": 185144,
+      "name": "Blecua y Torres"
+    },
+    {
+      "id": 185145,
+      "name": "Boltaña"
+    },
+    {
+      "id": 185146,
+      "name": "Bonansa"
+    },
+    {
+      "id": 185147,
+      "name": "Borau"
+    },
+    {
+      "id": 185148,
+      "name": "Broto"
+    },
+    {
+      "id": 185149,
+      "name": "Caldearenas"
+    },
+    {
+      "id": 185150,
+      "name": "Campo"
+    },
+    {
+      "id": 185151,
+      "name": "Camporrells"
+    },
+    {
+      "id": 185152,
+      "name": "Canal de Berdún"
+    },
+    {
+      "id": 185153,
+      "name": "Candasnos"
+    },
+    {
+      "id": 185154,
+      "name": "Canfranc"
+    },
+    {
+      "id": 185155,
+      "name": "Capdesaso"
+    },
+    {
+      "id": 185156,
+      "name": "Capella"
+    },
+    {
+      "id": 185157,
+      "name": "Casbas de Huesca"
+    },
+    {
+      "id": 185158,
+      "name": "Castejón de Monegros"
+    },
+    {
+      "id": 185159,
+      "name": "Castejón de Sos"
+    },
+    {
+      "id": 185160,
+      "name": "Castejón del Puente"
+    },
+    {
+      "id": 185161,
+      "name": "Castelflorite"
+    },
+    {
+      "id": 185162,
+      "name": "Castiello de Jaca"
+    },
+    {
+      "id": 185163,
+      "name": "Castigaleu"
+    },
+    {
+      "id": 185164,
+      "name": "Castillazuelo"
+    },
+    {
+      "id": 185165,
+      "name": "Castillonroy"
+    },
+    {
+      "id": 185166,
+      "name": "Chalamera"
+    },
+    {
+      "id": 185167,
+      "name": "Chía"
+    },
+    {
+      "id": 185168,
+      "name": "Chimillas"
+    },
+    {
+      "id": 185169,
+      "name": "Colungo"
+    },
+    {
+      "id": 185170,
+      "name": "Delicias"
+    },
+    {
+      "id": 185171,
+      "name": "Echo"
+    },
+    {
+      "id": 185172,
+      "name": "El Burgo de Ebro"
+    },
+    {
+      "id": 185173,
+      "name": "El Castellar"
+    },
+    {
+      "id": 185174,
+      "name": "el Torricó / Altorricon"
+    },
+    {
+      "id": 185175,
+      "name": "Esplús"
+    },
+    {
+      "id": 185176,
+      "name": "Estada"
+    },
+    {
+      "id": 185177,
+      "name": "Estadilla"
+    },
+    {
+      "id": 185178,
+      "name": "Estopiñán del Castillo"
+    },
+    {
+      "id": 185179,
+      "name": "Fago"
+    },
+    {
+      "id": 185180,
+      "name": "Fanlo"
+    },
+    {
+      "id": 185181,
+      "name": "Fiscal"
+    },
+    {
+      "id": 185182,
+      "name": "Fonz"
+    },
+    {
+      "id": 185183,
+      "name": "Foradada del Toscar"
+    },
+    {
+      "id": 185184,
+      "name": "Fraga"
+    },
+    {
+      "id": 185185,
+      "name": "Fueva La"
+    },
+    {
+      "id": 185186,
+      "name": "Gistaín"
+    },
+    {
+      "id": 185187,
+      "name": "Grado El"
+    },
+    {
+      "id": 185188,
+      "name": "Grañén"
+    },
+    {
+      "id": 185189,
+      "name": "Graus"
+    },
+    {
+      "id": 185190,
+      "name": "Gurrea de Gállego"
+    },
+    {
+      "id": 185191,
+      "name": "Hoz de Jaca"
+    },
+    {
+      "id": 185192,
+      "name": "Hoz y Costean"
+    },
+    {
+      "id": 185193,
+      "name": "Huerto"
+    },
+    {
+      "id": 185194,
+      "name": "Huesca"
+    },
+    {
+      "id": 185195,
+      "name": "Ibieca"
+    },
+    {
+      "id": 185196,
+      "name": "Igriés"
+    },
+    {
+      "id": 185197,
+      "name": "Ilche"
+    },
+    {
+      "id": 185198,
+      "name": "Isábena"
+    },
+    {
+      "id": 185199,
+      "name": "Jaca"
+    },
+    {
+      "id": 185200,
+      "name": "Jasa"
+    },
+    {
+      "id": 185201,
+      "name": "La Almunia de Doña Godina"
+    },
+    {
+      "id": 185202,
+      "name": "La Ginebrosa"
+    },
+    {
+      "id": 185203,
+      "name": "La Iglesuela del Cid"
+    },
+    {
+      "id": 185204,
+      "name": "Labuerda"
+    },
+    {
+      "id": 185205,
+      "name": "Laluenga"
+    },
+    {
+      "id": 185206,
+      "name": "Lalueza"
+    },
+    {
+      "id": 185207,
+      "name": "Lanaja"
+    },
+    {
+      "id": 185208,
+      "name": "Laperdiguera"
+    },
+    {
+      "id": 185209,
+      "name": "Lascellas-Ponzano"
+    },
+    {
+      "id": 185210,
+      "name": "Lascuarre"
+    },
+    {
+      "id": 185211,
+      "name": "Laspaúles"
+    },
+    {
+      "id": 185212,
+      "name": "Laspuña"
+    },
+    {
+      "id": 185213,
+      "name": "Loarre"
+    },
+    {
+      "id": 185214,
+      "name": "Loporzano"
+    },
+    {
+      "id": 185215,
+      "name": "Loscorrales"
+    },
+    {
+      "id": 185216,
+      "name": "Lupiñén-Ortilla"
+    },
+    {
+      "id": 185217,
+      "name": "Mequinensa / Mequinenza"
+    },
+    {
+      "id": 185218,
+      "name": "Monesma y Cajigar"
+    },
+    {
+      "id": 185219,
+      "name": "Monflorite-Lascasas"
+    },
+    {
+      "id": 185220,
+      "name": "Montanuy"
+    },
+    {
+      "id": 185221,
+      "name": "Montecanal"
+    },
+    {
+      "id": 185222,
+      "name": "Monzón"
+    },
+    {
+      "id": 185223,
+      "name": "Naval"
+    },
+    {
+      "id": 185224,
+      "name": "Novales"
+    },
+    {
+      "id": 185225,
+      "name": "Nueno"
+    },
+    {
+      "id": 185226,
+      "name": "Oliver-Valdefierro"
+    },
+    {
+      "id": 185227,
+      "name": "Olvena"
+    },
+    {
+      "id": 185228,
+      "name": "Ontiñena"
+    },
+    {
+      "id": 185229,
+      "name": "Osso de Cinca"
+    },
+    {
+      "id": 185230,
+      "name": "Palo"
+    },
+    {
+      "id": 185231,
+      "name": "Panticosa"
+    },
+    {
+      "id": 185232,
+      "name": "Peñalba"
+    },
+    {
+      "id": 185233,
+      "name": "Peñas de Riglos Las"
+    },
+    {
+      "id": 185234,
+      "name": "Peralta de Alcofea"
+    },
+    {
+      "id": 185235,
+      "name": "Peralta de Calasanz"
+    },
+    {
+      "id": 185236,
+      "name": "Peraltilla"
+    },
+    {
+      "id": 185237,
+      "name": "Perarrúa"
+    },
+    {
+      "id": 185238,
+      "name": "Pertusa"
+    },
+    {
+      "id": 185239,
+      "name": "Piracés"
+    },
+    {
+      "id": 185240,
+      "name": "Plan"
+    },
+    {
+      "id": 185241,
+      "name": "Poleñino"
+    },
+    {
+      "id": 185242,
+      "name": "Pozán de Vero"
+    },
+    {
+      "id": 185243,
+      "name": "Provincia de Huesca"
+    },
+    {
+      "id": 185244,
+      "name": "Provincia de Teruel"
+    },
+    {
+      "id": 185245,
+      "name": "Provincia de Zaragoza"
+    },
+    {
+      "id": 185246,
+      "name": "Puebla de Alfindén"
+    },
+    {
+      "id": 185247,
+      "name": "Puebla de Castro La"
+    },
+    {
+      "id": 185248,
+      "name": "Puente de Montañana"
+    },
+    {
+      "id": 185249,
+      "name": "Puente la Reina de Jaca"
+    },
+    {
+      "id": 185250,
+      "name": "Puértolas"
+    },
+    {
+      "id": 185251,
+      "name": "Pueyo de Araguás El"
+    },
+    {
+      "id": 185252,
+      "name": "Pueyo de Santa Cruz"
+    },
+    {
+      "id": 185253,
+      "name": "Quicena"
+    },
+    {
+      "id": 185254,
+      "name": "Robres"
+    },
+    {
+      "id": 185255,
+      "name": "Sabiñánigo"
+    },
+    {
+      "id": 185256,
+      "name": "Sahún"
+    },
+    {
+      "id": 185257,
+      "name": "Salas Altas"
+    },
+    {
+      "id": 185258,
+      "name": "Salas Bajas"
+    },
+    {
+      "id": 185259,
+      "name": "Salillas"
+    },
+    {
+      "id": 185260,
+      "name": "Sallent de Gállego"
+    },
+    {
+      "id": 185261,
+      "name": "San Esteban de Litera"
+    },
+    {
+      "id": 185262,
+      "name": "San Juan de Plan"
+    },
+    {
+      "id": 185263,
+      "name": "San Miguel del Cinca"
+    },
+    {
+      "id": 185264,
+      "name": "Sangarrén"
+    },
+    {
+      "id": 185265,
+      "name": "Santa Cilia"
+    },
+    {
+      "id": 185266,
+      "name": "Santa Cruz de la Serós"
+    },
+    {
+      "id": 185267,
+      "name": "Santa María de Dulcis"
+    },
+    {
+      "id": 185268,
+      "name": "Santaliestra y San Quílez"
+    },
+    {
+      "id": 185269,
+      "name": "Sariñena"
+    },
+    {
+      "id": 185270,
+      "name": "Secastilla"
+    },
+    {
+      "id": 185271,
+      "name": "Seira"
+    },
+    {
+      "id": 185272,
+      "name": "Sena"
+    },
+    {
+      "id": 185273,
+      "name": "Senés de Alcubierre"
+    },
+    {
+      "id": 185274,
+      "name": "Sesa"
+    },
+    {
+      "id": 185275,
+      "name": "Sesué"
+    },
+    {
+      "id": 185276,
+      "name": "Siétamo"
+    },
+    {
+      "id": 185277,
+      "name": "Sopeira"
+    },
+    {
+      "id": 185278,
+      "name": "Sotonera La"
+    },
+    {
+      "id": 185279,
+      "name": "Tamarit de Llitera / Tamarite de Litera"
+    },
+    {
+      "id": 185280,
+      "name": "Tamarite de Litera"
+    },
+    {
+      "id": 185281,
+      "name": "Tardienta"
+    },
+    {
+      "id": 185282,
+      "name": "Tella-Sin"
+    },
+    {
+      "id": 185283,
+      "name": "Tierz"
+    },
+    {
+      "id": 185284,
+      "name": "Tolva"
+    },
+    {
+      "id": 185285,
+      "name": "Torla"
+    },
+    {
+      "id": 185286,
+      "name": "Torralba de Aragón"
+    },
+    {
+      "id": 185287,
+      "name": "Torre la Ribera"
+    },
+    {
+      "id": 185288,
+      "name": "Torrente de Cinca"
+    },
+    {
+      "id": 185289,
+      "name": "Torres de Alcanadre"
+    },
+    {
+      "id": 185290,
+      "name": "Torres de Barbués"
+    },
+    {
+      "id": 185291,
+      "name": "Tramaced"
+    },
+    {
+      "id": 185292,
+      "name": "Valfarta"
+    },
+    {
+      "id": 185293,
+      "name": "Valle de Bardají"
+    },
+    {
+      "id": 185294,
+      "name": "Valle de Hecho"
+    },
+    {
+      "id": 185295,
+      "name": "Valle de Lierp"
+    },
+    {
+      "id": 185296,
+      "name": "Velilla de Cinca"
+    },
+    {
+      "id": 185297,
+      "name": "Vencillón"
+    },
+    {
+      "id": 185298,
+      "name": "Viacamp y Litera"
+    },
+    {
+      "id": 185299,
+      "name": "Vicién"
+    },
+    {
+      "id": 185300,
+      "name": "Villanova"
+    },
+    {
+      "id": 185301,
+      "name": "Villanúa"
+    },
+    {
+      "id": 185302,
+      "name": "Villanueva de Sigena"
+    },
+    {
+      "id": 185303,
+      "name": "Yebra de Basa"
+    },
+    {
+      "id": 185304,
+      "name": "Yésero"
+    },
+    {
+      "id": 185305,
+      "name": "Zaidín"
+    }
+  ]
+}

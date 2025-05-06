@@ -1,0 +1,5115 @@
+{
+  "id": 7482,
+  "name": "Texas",
+  "state_code": "TX",
+  "cities": [
+    {
+      "id": 218217,
+      "name": "Abernathy"
+    },
+    {
+      "id": 218218,
+      "name": "Abilene"
+    },
+    {
+      "id": 218219,
+      "name": "Abram"
+    },
+    {
+      "id": 218220,
+      "name": "Addison"
+    },
+    {
+      "id": 218221,
+      "name": "Agua Dulce"
+    },
+    {
+      "id": 218222,
+      "name": "Alamo"
+    },
+    {
+      "id": 218223,
+      "name": "Alamo Heights"
+    },
+    {
+      "id": 218224,
+      "name": "Albany"
+    },
+    {
+      "id": 218225,
+      "name": "Aldine"
+    },
+    {
+      "id": 218226,
+      "name": "Aledo"
+    },
+    {
+      "id": 218227,
+      "name": "Alice"
+    },
+    {
+      "id": 218228,
+      "name": "Alief"
+    },
+    {
+      "id": 218229,
+      "name": "Allen"
+    },
+    {
+      "id": 218230,
+      "name": "Alpine"
+    },
+    {
+      "id": 218231,
+      "name": "Alto"
+    },
+    {
+      "id": 218232,
+      "name": "Alton"
+    },
+    {
+      "id": 218233,
+      "name": "Alton North (historical)"
+    },
+    {
+      "id": 218234,
+      "name": "Alvarado"
+    },
+    {
+      "id": 218235,
+      "name": "Alvin"
+    },
+    {
+      "id": 218236,
+      "name": "Alvord"
+    },
+    {
+      "id": 218237,
+      "name": "Amarillo"
+    },
+    {
+      "id": 218238,
+      "name": "Ames"
+    },
+    {
+      "id": 218239,
+      "name": "Anahuac"
+    },
+    {
+      "id": 218240,
+      "name": "Anderson"
+    },
+    {
+      "id": 218241,
+      "name": "Anderson County"
+    },
+    {
+      "id": 218242,
+      "name": "Anderson Mill"
+    },
+    {
+      "id": 218243,
+      "name": "Andrews"
+    },
+    {
+      "id": 218244,
+      "name": "Andrews County"
+    },
+    {
+      "id": 218245,
+      "name": "Angelina County"
+    },
+    {
+      "id": 218246,
+      "name": "Angleton"
+    },
+    {
+      "id": 218247,
+      "name": "Anna"
+    },
+    {
+      "id": 218248,
+      "name": "Annetta"
+    },
+    {
+      "id": 218249,
+      "name": "Anson"
+    },
+    {
+      "id": 218250,
+      "name": "Anthony"
+    },
+    {
+      "id": 218251,
+      "name": "Anton"
+    },
+    {
+      "id": 218252,
+      "name": "Aransas County"
+    },
+    {
+      "id": 218253,
+      "name": "Aransas Pass"
+    },
+    {
+      "id": 218254,
+      "name": "Archer City"
+    },
+    {
+      "id": 218255,
+      "name": "Archer County"
+    },
+    {
+      "id": 218256,
+      "name": "Arcola"
+    },
+    {
+      "id": 218257,
+      "name": "Argyle"
+    },
+    {
+      "id": 218258,
+      "name": "Arlington"
+    },
+    {
+      "id": 218259,
+      "name": "Armstrong County"
+    },
+    {
+      "id": 218260,
+      "name": "Asherton"
+    },
+    {
+      "id": 218261,
+      "name": "Aspermont"
+    },
+    {
+      "id": 218262,
+      "name": "Atascocita"
+    },
+    {
+      "id": 218263,
+      "name": "Atascosa County"
+    },
+    {
+      "id": 218264,
+      "name": "Athens"
+    },
+    {
+      "id": 218265,
+      "name": "Atlanta"
+    },
+    {
+      "id": 218266,
+      "name": "Aubrey"
+    },
+    {
+      "id": 218267,
+      "name": "Aurora"
+    },
+    {
+      "id": 218268,
+      "name": "Austin"
+    },
+    {
+      "id": 218269,
+      "name": "Austin County"
+    },
+    {
+      "id": 218270,
+      "name": "Azle"
+    },
+    {
+      "id": 218271,
+      "name": "Bacliff"
+    },
+    {
+      "id": 218272,
+      "name": "Bailey County"
+    },
+    {
+      "id": 218273,
+      "name": "Baird"
+    },
+    {
+      "id": 218274,
+      "name": "Balch Springs"
+    },
+    {
+      "id": 218275,
+      "name": "Balcones Heights"
+    },
+    {
+      "id": 218276,
+      "name": "Ballinger"
+    },
+    {
+      "id": 218277,
+      "name": "Bandera"
+    },
+    {
+      "id": 218278,
+      "name": "Bandera County"
+    },
+    {
+      "id": 218279,
+      "name": "Bangs"
+    },
+    {
+      "id": 218280,
+      "name": "Barrett"
+    },
+    {
+      "id": 218281,
+      "name": "Bartlett"
+    },
+    {
+      "id": 218282,
+      "name": "Barton Creek"
+    },
+    {
+      "id": 218283,
+      "name": "Bartonville"
+    },
+    {
+      "id": 218284,
+      "name": "Bastrop"
+    },
+    {
+      "id": 218285,
+      "name": "Bastrop County"
+    },
+    {
+      "id": 218286,
+      "name": "Batesville"
+    },
+    {
+      "id": 218287,
+      "name": "Bay City"
+    },
+    {
+      "id": 218288,
+      "name": "Baylor County"
+    },
+    {
+      "id": 218289,
+      "name": "Bayou Vista"
+    },
+    {
+      "id": 218290,
+      "name": "Baytown"
+    },
+    {
+      "id": 218291,
+      "name": "Beach City"
+    },
+    {
+      "id": 218292,
+      "name": "Beaumont"
+    },
+    {
+      "id": 218293,
+      "name": "Bedford"
+    },
+    {
+      "id": 218294,
+      "name": "Bee Cave"
+    },
+    {
+      "id": 218295,
+      "name": "Bee County"
+    },
+    {
+      "id": 218296,
+      "name": "Beeville"
+    },
+    {
+      "id": 218297,
+      "name": "Bell County"
+    },
+    {
+      "id": 218298,
+      "name": "Bellaire"
+    },
+    {
+      "id": 218299,
+      "name": "Bellmead"
+    },
+    {
+      "id": 218300,
+      "name": "Bells"
+    },
+    {
+      "id": 218301,
+      "name": "Bellville"
+    },
+    {
+      "id": 218302,
+      "name": "Belton"
+    },
+    {
+      "id": 218303,
+      "name": "Benavides"
+    },
+    {
+      "id": 218304,
+      "name": "Benbrook"
+    },
+    {
+      "id": 218305,
+      "name": "Benjamin"
+    },
+    {
+      "id": 218306,
+      "name": "Berryville"
+    },
+    {
+      "id": 218307,
+      "name": "Bertram"
+    },
+    {
+      "id": 218308,
+      "name": "Beverly"
+    },
+    {
+      "id": 218309,
+      "name": "Beverly Hills"
+    },
+    {
+      "id": 218310,
+      "name": "Bevil Oaks"
+    },
+    {
+      "id": 218311,
+      "name": "Bexar County"
+    },
+    {
+      "id": 218312,
+      "name": "Big Lake"
+    },
+    {
+      "id": 218313,
+      "name": "Big Sandy"
+    },
+    {
+      "id": 218314,
+      "name": "Big Spring"
+    },
+    {
+      "id": 218315,
+      "name": "Bishop"
+    },
+    {
+      "id": 218316,
+      "name": "Blanco"
+    },
+    {
+      "id": 218317,
+      "name": "Blanco County"
+    },
+    {
+      "id": 218318,
+      "name": "Bloomington"
+    },
+    {
+      "id": 218319,
+      "name": "Blossom"
+    },
+    {
+      "id": 218320,
+      "name": "Blue Mound"
+    },
+    {
+      "id": 218321,
+      "name": "Boerne"
+    },
+    {
+      "id": 218322,
+      "name": "Bogata"
+    },
+    {
+      "id": 218323,
+      "name": "Boling"
+    },
+    {
+      "id": 218324,
+      "name": "Bolivar Peninsula"
+    },
+    {
+      "id": 218325,
+      "name": "Bonham"
+    },
+    {
+      "id": 218326,
+      "name": "Booker"
+    },
+    {
+      "id": 218327,
+      "name": "Borden County"
+    },
+    {
+      "id": 218328,
+      "name": "Borger"
+    },
+    {
+      "id": 218329,
+      "name": "Bosque County"
+    },
+    {
+      "id": 218330,
+      "name": "Bovina"
+    },
+    {
+      "id": 218331,
+      "name": "Bowie"
+    },
+    {
+      "id": 218332,
+      "name": "Bowie County"
+    },
+    {
+      "id": 218333,
+      "name": "Boyd"
+    },
+    {
+      "id": 218334,
+      "name": "Brackettville"
+    },
+    {
+      "id": 218335,
+      "name": "Brady"
+    },
+    {
+      "id": 218336,
+      "name": "Brazoria"
+    },
+    {
+      "id": 218337,
+      "name": "Brazoria County"
+    },
+    {
+      "id": 218338,
+      "name": "Brazos County"
+    },
+    {
+      "id": 218339,
+      "name": "Breckenridge"
+    },
+    {
+      "id": 218340,
+      "name": "Brenham"
+    },
+    {
+      "id": 218341,
+      "name": "Brewster County"
+    },
+    {
+      "id": 218342,
+      "name": "Briar"
+    },
+    {
+      "id": 218343,
+      "name": "Briarcliff"
+    },
+    {
+      "id": 218344,
+      "name": "Bridge City"
+    },
+    {
+      "id": 218345,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 218346,
+      "name": "Briscoe County"
+    },
+    {
+      "id": 218347,
+      "name": "Brooks County"
+    },
+    {
+      "id": 218348,
+      "name": "Brookshire"
+    },
+    {
+      "id": 218349,
+      "name": "Brookside Village"
+    },
+    {
+      "id": 218350,
+      "name": "Brown County"
+    },
+    {
+      "id": 218351,
+      "name": "Brownfield"
+    },
+    {
+      "id": 218352,
+      "name": "Brownsboro"
+    },
+    {
+      "id": 218353,
+      "name": "Brownsville"
+    },
+    {
+      "id": 218354,
+      "name": "Brownwood"
+    },
+    {
+      "id": 218355,
+      "name": "Bruceville-Eddy"
+    },
+    {
+      "id": 218356,
+      "name": "Brushy Creek"
+    },
+    {
+      "id": 218357,
+      "name": "Bryan"
+    },
+    {
+      "id": 218358,
+      "name": "Buchanan Dam"
+    },
+    {
+      "id": 218359,
+      "name": "Buda"
+    },
+    {
+      "id": 218360,
+      "name": "Buffalo"
+    },
+    {
+      "id": 218361,
+      "name": "Bullard"
+    },
+    {
+      "id": 218362,
+      "name": "Bulverde"
+    },
+    {
+      "id": 218363,
+      "name": "Buna"
+    },
+    {
+      "id": 218364,
+      "name": "Bunker Hill Village"
+    },
+    {
+      "id": 218365,
+      "name": "Burkburnett"
+    },
+    {
+      "id": 218366,
+      "name": "Burleson"
+    },
+    {
+      "id": 218367,
+      "name": "Burleson County"
+    },
+    {
+      "id": 218368,
+      "name": "Burnet"
+    },
+    {
+      "id": 218369,
+      "name": "Burnet County"
+    },
+    {
+      "id": 218370,
+      "name": "Bushland"
+    },
+    {
+      "id": 218371,
+      "name": "Cactus"
+    },
+    {
+      "id": 218372,
+      "name": "Caddo Mills"
+    },
+    {
+      "id": 218373,
+      "name": "Caldwell"
+    },
+    {
+      "id": 218374,
+      "name": "Caldwell County"
+    },
+    {
+      "id": 218375,
+      "name": "Calhoun County"
+    },
+    {
+      "id": 218376,
+      "name": "Callahan County"
+    },
+    {
+      "id": 218377,
+      "name": "Calvert"
+    },
+    {
+      "id": 218378,
+      "name": "Cameron"
+    },
+    {
+      "id": 218379,
+      "name": "Cameron County"
+    },
+    {
+      "id": 218380,
+      "name": "Cameron Park"
+    },
+    {
+      "id": 218381,
+      "name": "Cameron Park Colonia"
+    },
+    {
+      "id": 218382,
+      "name": "Camp County"
+    },
+    {
+      "id": 218383,
+      "name": "Camp Swift"
+    },
+    {
+      "id": 218384,
+      "name": "Canadian"
+    },
+    {
+      "id": 218385,
+      "name": "Canton"
+    },
+    {
+      "id": 218386,
+      "name": "Canutillo"
+    },
+    {
+      "id": 218387,
+      "name": "Canyon"
+    },
+    {
+      "id": 218388,
+      "name": "Canyon Lake"
+    },
+    {
+      "id": 218389,
+      "name": "Carrizo Springs"
+    },
+    {
+      "id": 218390,
+      "name": "Carrollton"
+    },
+    {
+      "id": 218391,
+      "name": "Carson County"
+    },
+    {
+      "id": 218392,
+      "name": "Carthage"
+    },
+    {
+      "id": 218393,
+      "name": "Cass County"
+    },
+    {
+      "id": 218394,
+      "name": "Castle Hills"
+    },
+    {
+      "id": 218395,
+      "name": "Castro County"
+    },
+    {
+      "id": 218396,
+      "name": "Castroville"
+    },
+    {
+      "id": 218397,
+      "name": "Cedar Hill"
+    },
+    {
+      "id": 218398,
+      "name": "Cedar Park"
+    },
+    {
+      "id": 218399,
+      "name": "Celina"
+    },
+    {
+      "id": 218400,
+      "name": "Center"
+    },
+    {
+      "id": 218401,
+      "name": "Centerville"
+    },
+    {
+      "id": 218402,
+      "name": "Central Gardens"
+    },
+    {
+      "id": 218403,
+      "name": "César Chávez"
+    },
+    {
+      "id": 218404,
+      "name": "Chambers County"
+    },
+    {
+      "id": 218405,
+      "name": "Chandler"
+    },
+    {
+      "id": 218406,
+      "name": "Channelview"
+    },
+    {
+      "id": 218407,
+      "name": "Channing"
+    },
+    {
+      "id": 218408,
+      "name": "Charlotte"
+    },
+    {
+      "id": 218409,
+      "name": "Cherokee County"
+    },
+    {
+      "id": 218410,
+      "name": "Chico"
+    },
+    {
+      "id": 218411,
+      "name": "Childress"
+    },
+    {
+      "id": 218412,
+      "name": "Childress County"
+    },
+    {
+      "id": 218413,
+      "name": "China"
+    },
+    {
+      "id": 218414,
+      "name": "China Grove"
+    },
+    {
+      "id": 218415,
+      "name": "Cibolo"
+    },
+    {
+      "id": 218416,
+      "name": "Cienegas Terrace"
+    },
+    {
+      "id": 218417,
+      "name": "Cinco Ranch"
+    },
+    {
+      "id": 218418,
+      "name": "Circle D-KC Estates"
+    },
+    {
+      "id": 218419,
+      "name": "Cisco"
+    },
+    {
+      "id": 218420,
+      "name": "Citrus City"
+    },
+    {
+      "id": 218421,
+      "name": "Clarendon"
+    },
+    {
+      "id": 218422,
+      "name": "Clarksville"
+    },
+    {
+      "id": 218423,
+      "name": "Claude"
+    },
+    {
+      "id": 218424,
+      "name": "Clay County"
+    },
+    {
+      "id": 218425,
+      "name": "Clear Lake Shores"
+    },
+    {
+      "id": 218426,
+      "name": "Cleburne"
+    },
+    {
+      "id": 218427,
+      "name": "Cleveland"
+    },
+    {
+      "id": 218428,
+      "name": "Clifton"
+    },
+    {
+      "id": 218429,
+      "name": "Clint"
+    },
+    {
+      "id": 218430,
+      "name": "Cloverleaf"
+    },
+    {
+      "id": 218431,
+      "name": "Clute"
+    },
+    {
+      "id": 218432,
+      "name": "Clyde"
+    },
+    {
+      "id": 218433,
+      "name": "Cochran County"
+    },
+    {
+      "id": 218434,
+      "name": "Cockrell Hill"
+    },
+    {
+      "id": 218435,
+      "name": "Coke County"
+    },
+    {
+      "id": 218436,
+      "name": "Coldspring"
+    },
+    {
+      "id": 218437,
+      "name": "Coleman"
+    },
+    {
+      "id": 218438,
+      "name": "Coleman County"
+    },
+    {
+      "id": 218439,
+      "name": "College Station"
+    },
+    {
+      "id": 218440,
+      "name": "Colleyville"
+    },
+    {
+      "id": 218441,
+      "name": "Collin County"
+    },
+    {
+      "id": 218442,
+      "name": "Collingsworth County"
+    },
+    {
+      "id": 218443,
+      "name": "Collinsville"
+    },
+    {
+      "id": 218444,
+      "name": "Colorado City"
+    },
+    {
+      "id": 218445,
+      "name": "Colorado County"
+    },
+    {
+      "id": 218446,
+      "name": "Columbus"
+    },
+    {
+      "id": 218447,
+      "name": "Comal County"
+    },
+    {
+      "id": 218448,
+      "name": "Comanche"
+    },
+    {
+      "id": 218449,
+      "name": "Comanche County"
+    },
+    {
+      "id": 218450,
+      "name": "Combes"
+    },
+    {
+      "id": 218451,
+      "name": "Combine"
+    },
+    {
+      "id": 218452,
+      "name": "Comfort"
+    },
+    {
+      "id": 218453,
+      "name": "Commerce"
+    },
+    {
+      "id": 218454,
+      "name": "Concho County"
+    },
+    {
+      "id": 218455,
+      "name": "Conroe"
+    },
+    {
+      "id": 218456,
+      "name": "Converse"
+    },
+    {
+      "id": 218457,
+      "name": "Cooke County"
+    },
+    {
+      "id": 218458,
+      "name": "Cooper"
+    },
+    {
+      "id": 218459,
+      "name": "Coppell"
+    },
+    {
+      "id": 218460,
+      "name": "Copper Canyon"
+    },
+    {
+      "id": 218461,
+      "name": "Copperas Cove"
+    },
+    {
+      "id": 218462,
+      "name": "Corinth"
+    },
+    {
+      "id": 218463,
+      "name": "Corpus Christi"
+    },
+    {
+      "id": 218464,
+      "name": "Corrigan"
+    },
+    {
+      "id": 218465,
+      "name": "Corsicana"
+    },
+    {
+      "id": 218466,
+      "name": "Coryell County"
+    },
+    {
+      "id": 218467,
+      "name": "Cottle County"
+    },
+    {
+      "id": 218468,
+      "name": "Cottonwood Shores"
+    },
+    {
+      "id": 218469,
+      "name": "Cotulla"
+    },
+    {
+      "id": 218470,
+      "name": "Crandall"
+    },
+    {
+      "id": 218471,
+      "name": "Crane"
+    },
+    {
+      "id": 218472,
+      "name": "Crane County"
+    },
+    {
+      "id": 218473,
+      "name": "Crockett"
+    },
+    {
+      "id": 218474,
+      "name": "Crockett County"
+    },
+    {
+      "id": 218475,
+      "name": "Crosby"
+    },
+    {
+      "id": 218476,
+      "name": "Crosby County"
+    },
+    {
+      "id": 218477,
+      "name": "Crosbyton"
+    },
+    {
+      "id": 218478,
+      "name": "Cross Mountain"
+    },
+    {
+      "id": 218479,
+      "name": "Crowell"
+    },
+    {
+      "id": 218480,
+      "name": "Crowley"
+    },
+    {
+      "id": 218481,
+      "name": "Crystal City"
+    },
+    {
+      "id": 218482,
+      "name": "Cuero"
+    },
+    {
+      "id": 218483,
+      "name": "Culberson County"
+    },
+    {
+      "id": 218484,
+      "name": "Cut and Shoot"
+    },
+    {
+      "id": 218485,
+      "name": "Cypress"
+    },
+    {
+      "id": 218486,
+      "name": "Daingerfield"
+    },
+    {
+      "id": 218487,
+      "name": "Dalhart"
+    },
+    {
+      "id": 218488,
+      "name": "Dallam County"
+    },
+    {
+      "id": 218489,
+      "name": "Dallas"
+    },
+    {
+      "id": 218490,
+      "name": "Dallas County"
+    },
+    {
+      "id": 218491,
+      "name": "Dalworthington Gardens"
+    },
+    {
+      "id": 218492,
+      "name": "Danbury"
+    },
+    {
+      "id": 218493,
+      "name": "Dawson County"
+    },
+    {
+      "id": 218494,
+      "name": "Dayton"
+    },
+    {
+      "id": 218495,
+      "name": "De Kalb"
+    },
+    {
+      "id": 218496,
+      "name": "De Leon"
+    },
+    {
+      "id": 218497,
+      "name": "Deaf Smith County"
+    },
+    {
+      "id": 218498,
+      "name": "Decatur"
+    },
+    {
+      "id": 218499,
+      "name": "DeCordova"
+    },
+    {
+      "id": 218500,
+      "name": "Deer Park"
+    },
+    {
+      "id": 218501,
+      "name": "Del Rio"
+    },
+    {
+      "id": 218502,
+      "name": "Delta County"
+    },
+    {
+      "id": 218503,
+      "name": "Denison"
+    },
+    {
+      "id": 218504,
+      "name": "Denton"
+    },
+    {
+      "id": 218505,
+      "name": "Denton County"
+    },
+    {
+      "id": 218506,
+      "name": "Denver City"
+    },
+    {
+      "id": 218507,
+      "name": "DeSoto"
+    },
+    {
+      "id": 218508,
+      "name": "Devine"
+    },
+    {
+      "id": 218509,
+      "name": "Deweyville"
+    },
+    {
+      "id": 218510,
+      "name": "DeWitt County"
+    },
+    {
+      "id": 218511,
+      "name": "Diboll"
+    },
+    {
+      "id": 218512,
+      "name": "Dickens"
+    },
+    {
+      "id": 218513,
+      "name": "Dickens County"
+    },
+    {
+      "id": 218514,
+      "name": "Dickinson"
+    },
+    {
+      "id": 218515,
+      "name": "Dilley"
+    },
+    {
+      "id": 218516,
+      "name": "Dimmit County"
+    },
+    {
+      "id": 218517,
+      "name": "Dimmitt"
+    },
+    {
+      "id": 218518,
+      "name": "Doffing"
+    },
+    {
+      "id": 218519,
+      "name": "Donley County"
+    },
+    {
+      "id": 218520,
+      "name": "Donna"
+    },
+    {
+      "id": 218521,
+      "name": "Doolittle"
+    },
+    {
+      "id": 218522,
+      "name": "Double Oak"
+    },
+    {
+      "id": 218523,
+      "name": "Dripping Springs"
+    },
+    {
+      "id": 218524,
+      "name": "Dublin"
+    },
+    {
+      "id": 218525,
+      "name": "Dumas"
+    },
+    {
+      "id": 218526,
+      "name": "Duncanville"
+    },
+    {
+      "id": 218527,
+      "name": "Duval County"
+    },
+    {
+      "id": 218528,
+      "name": "Eagle Lake"
+    },
+    {
+      "id": 218529,
+      "name": "Eagle Mountain"
+    },
+    {
+      "id": 218530,
+      "name": "Eagle Pass"
+    },
+    {
+      "id": 218531,
+      "name": "Early"
+    },
+    {
+      "id": 218532,
+      "name": "Earth"
+    },
+    {
+      "id": 218533,
+      "name": "East Bernard"
+    },
+    {
+      "id": 218534,
+      "name": "Eastland"
+    },
+    {
+      "id": 218535,
+      "name": "Eastland County"
+    },
+    {
+      "id": 218536,
+      "name": "Ector County"
+    },
+    {
+      "id": 218537,
+      "name": "Edcouch"
+    },
+    {
+      "id": 218538,
+      "name": "Eden"
+    },
+    {
+      "id": 218539,
+      "name": "Edgecliff Village"
+    },
+    {
+      "id": 218540,
+      "name": "Edgewood"
+    },
+    {
+      "id": 218541,
+      "name": "Edinburg"
+    },
+    {
+      "id": 218542,
+      "name": "Edna"
+    },
+    {
+      "id": 218543,
+      "name": "Edwards County"
+    },
+    {
+      "id": 218544,
+      "name": "Eidson Road"
+    },
+    {
+      "id": 218545,
+      "name": "El Campo"
+    },
+    {
+      "id": 218546,
+      "name": "El Cenizo"
+    },
+    {
+      "id": 218547,
+      "name": "El Lago"
+    },
+    {
+      "id": 218548,
+      "name": "El Paso"
+    },
+    {
+      "id": 218549,
+      "name": "El Paso County"
+    },
+    {
+      "id": 218550,
+      "name": "Eldorado"
+    },
+    {
+      "id": 218551,
+      "name": "Electra"
+    },
+    {
+      "id": 218552,
+      "name": "Elgin"
+    },
+    {
+      "id": 218553,
+      "name": "Elkhart"
+    },
+    {
+      "id": 218554,
+      "name": "Ellis County"
+    },
+    {
+      "id": 218555,
+      "name": "Elm Creek"
+    },
+    {
+      "id": 218556,
+      "name": "Elmendorf"
+    },
+    {
+      "id": 218557,
+      "name": "Elsa"
+    },
+    {
+      "id": 218558,
+      "name": "Emory"
+    },
+    {
+      "id": 218559,
+      "name": "Encantada-Ranchito-El Calaboz"
+    },
+    {
+      "id": 218560,
+      "name": "Ennis"
+    },
+    {
+      "id": 218561,
+      "name": "Erath County"
+    },
+    {
+      "id": 218562,
+      "name": "Escobares"
+    },
+    {
+      "id": 218563,
+      "name": "Euless"
+    },
+    {
+      "id": 218564,
+      "name": "Evadale"
+    },
+    {
+      "id": 218565,
+      "name": "Everman"
+    },
+    {
+      "id": 218566,
+      "name": "Fabens"
+    },
+    {
+      "id": 218567,
+      "name": "Fair Oaks Ranch"
+    },
+    {
+      "id": 218568,
+      "name": "Fairchilds"
+    },
+    {
+      "id": 218569,
+      "name": "Fairfield"
+    },
+    {
+      "id": 218570,
+      "name": "Fairview"
+    },
+    {
+      "id": 218571,
+      "name": "Falcon Lake Estates"
+    },
+    {
+      "id": 218572,
+      "name": "Falfurrias"
+    },
+    {
+      "id": 218573,
+      "name": "Falls County"
+    },
+    {
+      "id": 218574,
+      "name": "Fannett"
+    },
+    {
+      "id": 218575,
+      "name": "Fannin County"
+    },
+    {
+      "id": 218576,
+      "name": "Farmers Branch"
+    },
+    {
+      "id": 218577,
+      "name": "Farmersville"
+    },
+    {
+      "id": 218578,
+      "name": "Farwell"
+    },
+    {
+      "id": 218579,
+      "name": "Fate"
+    },
+    {
+      "id": 218580,
+      "name": "Fayette County"
+    },
+    {
+      "id": 218581,
+      "name": "Ferris"
+    },
+    {
+      "id": 218582,
+      "name": "Fifth Street"
+    },
+    {
+      "id": 218583,
+      "name": "Fisher County"
+    },
+    {
+      "id": 218584,
+      "name": "Flatonia"
+    },
+    {
+      "id": 218585,
+      "name": "Florence"
+    },
+    {
+      "id": 218586,
+      "name": "Floresville"
+    },
+    {
+      "id": 218587,
+      "name": "Flower Mound"
+    },
+    {
+      "id": 218588,
+      "name": "Floyd County"
+    },
+    {
+      "id": 218589,
+      "name": "Floydada"
+    },
+    {
+      "id": 218590,
+      "name": "Foard County"
+    },
+    {
+      "id": 218591,
+      "name": "Forest Hill"
+    },
+    {
+      "id": 218592,
+      "name": "Forney"
+    },
+    {
+      "id": 218593,
+      "name": "Fort Bend County"
+    },
+    {
+      "id": 218594,
+      "name": "Fort Bliss"
+    },
+    {
+      "id": 218595,
+      "name": "Fort Clark Springs"
+    },
+    {
+      "id": 218596,
+      "name": "Fort Davis"
+    },
+    {
+      "id": 218597,
+      "name": "Fort Hancock"
+    },
+    {
+      "id": 218598,
+      "name": "Fort Hood"
+    },
+    {
+      "id": 218599,
+      "name": "Fort Stockton"
+    },
+    {
+      "id": 218600,
+      "name": "Fort Worth"
+    },
+    {
+      "id": 218601,
+      "name": "Four Corners"
+    },
+    {
+      "id": 218602,
+      "name": "Franklin"
+    },
+    {
+      "id": 218603,
+      "name": "Franklin County"
+    },
+    {
+      "id": 218604,
+      "name": "Frankston"
+    },
+    {
+      "id": 218605,
+      "name": "Fredericksburg"
+    },
+    {
+      "id": 218606,
+      "name": "Freeport"
+    },
+    {
+      "id": 218607,
+      "name": "Freer"
+    },
+    {
+      "id": 218608,
+      "name": "Freestone County"
+    },
+    {
+      "id": 218609,
+      "name": "Fresno"
+    },
+    {
+      "id": 218610,
+      "name": "Friendswood"
+    },
+    {
+      "id": 218611,
+      "name": "Frio County"
+    },
+    {
+      "id": 218612,
+      "name": "Friona"
+    },
+    {
+      "id": 218613,
+      "name": "Frisco"
+    },
+    {
+      "id": 218614,
+      "name": "Fritch"
+    },
+    {
+      "id": 218615,
+      "name": "Fulshear"
+    },
+    {
+      "id": 218616,
+      "name": "Fulton"
+    },
+    {
+      "id": 218617,
+      "name": "Gail"
+    },
+    {
+      "id": 218618,
+      "name": "Gaines County"
+    },
+    {
+      "id": 218619,
+      "name": "Gainesville"
+    },
+    {
+      "id": 218620,
+      "name": "Galena Park"
+    },
+    {
+      "id": 218621,
+      "name": "Galveston"
+    },
+    {
+      "id": 218622,
+      "name": "Galveston County"
+    },
+    {
+      "id": 218623,
+      "name": "Ganado"
+    },
+    {
+      "id": 218624,
+      "name": "Garden City"
+    },
+    {
+      "id": 218625,
+      "name": "Garden Ridge"
+    },
+    {
+      "id": 218626,
+      "name": "Gardendale"
+    },
+    {
+      "id": 218627,
+      "name": "Garfield"
+    },
+    {
+      "id": 218628,
+      "name": "Garland"
+    },
+    {
+      "id": 218629,
+      "name": "Garza County"
+    },
+    {
+      "id": 218630,
+      "name": "Gatesville"
+    },
+    {
+      "id": 218631,
+      "name": "George West"
+    },
+    {
+      "id": 218632,
+      "name": "Georgetown"
+    },
+    {
+      "id": 218633,
+      "name": "Geronimo"
+    },
+    {
+      "id": 218634,
+      "name": "Gholson"
+    },
+    {
+      "id": 218635,
+      "name": "Giddings"
+    },
+    {
+      "id": 218636,
+      "name": "Gillespie County"
+    },
+    {
+      "id": 218637,
+      "name": "Gilmer"
+    },
+    {
+      "id": 218638,
+      "name": "Gladewater"
+    },
+    {
+      "id": 218639,
+      "name": "Glasscock County"
+    },
+    {
+      "id": 218640,
+      "name": "Glen Rose"
+    },
+    {
+      "id": 218641,
+      "name": "Glenn Heights"
+    },
+    {
+      "id": 218642,
+      "name": "Godley"
+    },
+    {
+      "id": 218643,
+      "name": "Goldthwaite"
+    },
+    {
+      "id": 218644,
+      "name": "Goliad"
+    },
+    {
+      "id": 218645,
+      "name": "Goliad County"
+    },
+    {
+      "id": 218646,
+      "name": "Gonzales"
+    },
+    {
+      "id": 218647,
+      "name": "Gonzales County"
+    },
+    {
+      "id": 218648,
+      "name": "Gorman"
+    },
+    {
+      "id": 218649,
+      "name": "Graham"
+    },
+    {
+      "id": 218650,
+      "name": "Granbury"
+    },
+    {
+      "id": 218651,
+      "name": "Grand Prairie"
+    },
+    {
+      "id": 218652,
+      "name": "Grand Saline"
+    },
+    {
+      "id": 218653,
+      "name": "Grandview"
+    },
+    {
+      "id": 218654,
+      "name": "Granger"
+    },
+    {
+      "id": 218655,
+      "name": "Granite Shoals"
+    },
+    {
+      "id": 218656,
+      "name": "Grape Creek"
+    },
+    {
+      "id": 218657,
+      "name": "Grapeland"
+    },
+    {
+      "id": 218658,
+      "name": "Grapevine"
+    },
+    {
+      "id": 218659,
+      "name": "Gray County"
+    },
+    {
+      "id": 218660,
+      "name": "Grayson County"
+    },
+    {
+      "id": 218661,
+      "name": "Greatwood"
+    },
+    {
+      "id": 218662,
+      "name": "Green Valley Farms"
+    },
+    {
+      "id": 218663,
+      "name": "Greenville"
+    },
+    {
+      "id": 218664,
+      "name": "Gregg County"
+    },
+    {
+      "id": 218665,
+      "name": "Gregory"
+    },
+    {
+      "id": 218666,
+      "name": "Grimes County"
+    },
+    {
+      "id": 218667,
+      "name": "Groesbeck"
+    },
+    {
+      "id": 218668,
+      "name": "Groves"
+    },
+    {
+      "id": 218669,
+      "name": "Groveton"
+    },
+    {
+      "id": 218670,
+      "name": "Gruver"
+    },
+    {
+      "id": 218671,
+      "name": "Guadalupe County"
+    },
+    {
+      "id": 218672,
+      "name": "Gun Barrel City"
+    },
+    {
+      "id": 218673,
+      "name": "Gunter"
+    },
+    {
+      "id": 218674,
+      "name": "Guthrie"
+    },
+    {
+      "id": 218675,
+      "name": "Hackberry"
+    },
+    {
+      "id": 218676,
+      "name": "Hale Center"
+    },
+    {
+      "id": 218677,
+      "name": "Hale County"
+    },
+    {
+      "id": 218678,
+      "name": "Hall County"
+    },
+    {
+      "id": 218679,
+      "name": "Hallettsville"
+    },
+    {
+      "id": 218680,
+      "name": "Hallsville"
+    },
+    {
+      "id": 218681,
+      "name": "Haltom City"
+    },
+    {
+      "id": 218682,
+      "name": "Hamilton"
+    },
+    {
+      "id": 218683,
+      "name": "Hamilton County"
+    },
+    {
+      "id": 218684,
+      "name": "Hamlin"
+    },
+    {
+      "id": 218685,
+      "name": "Hansford County"
+    },
+    {
+      "id": 218686,
+      "name": "Hardeman County"
+    },
+    {
+      "id": 218687,
+      "name": "Hardin County"
+    },
+    {
+      "id": 218688,
+      "name": "Harker Heights"
+    },
+    {
+      "id": 218689,
+      "name": "Harlingen"
+    },
+    {
+      "id": 218690,
+      "name": "Harper"
+    },
+    {
+      "id": 218691,
+      "name": "Harris County"
+    },
+    {
+      "id": 218692,
+      "name": "Harrison County"
+    },
+    {
+      "id": 218693,
+      "name": "Hart"
+    },
+    {
+      "id": 218694,
+      "name": "Hartley County"
+    },
+    {
+      "id": 218695,
+      "name": "Haskell"
+    },
+    {
+      "id": 218696,
+      "name": "Haskell County"
+    },
+    {
+      "id": 218697,
+      "name": "Haslet"
+    },
+    {
+      "id": 218698,
+      "name": "Hawkins"
+    },
+    {
+      "id": 218699,
+      "name": "Hays County"
+    },
+    {
+      "id": 218700,
+      "name": "Hearne"
+    },
+    {
+      "id": 218701,
+      "name": "Heath"
+    },
+    {
+      "id": 218702,
+      "name": "Hebbronville"
+    },
+    {
+      "id": 218703,
+      "name": "Hedwig Village"
+    },
+    {
+      "id": 218704,
+      "name": "Heidelberg"
+    },
+    {
+      "id": 218705,
+      "name": "Helotes"
+    },
+    {
+      "id": 218706,
+      "name": "Hemphill"
+    },
+    {
+      "id": 218707,
+      "name": "Hemphill County"
+    },
+    {
+      "id": 218708,
+      "name": "Hempstead"
+    },
+    {
+      "id": 218709,
+      "name": "Henderson"
+    },
+    {
+      "id": 218710,
+      "name": "Henderson County"
+    },
+    {
+      "id": 218711,
+      "name": "Henrietta"
+    },
+    {
+      "id": 218712,
+      "name": "Hereford"
+    },
+    {
+      "id": 218713,
+      "name": "Hewitt"
+    },
+    {
+      "id": 218714,
+      "name": "Hickory Creek"
+    },
+    {
+      "id": 218715,
+      "name": "Hico"
+    },
+    {
+      "id": 218716,
+      "name": "Hidalgo"
+    },
+    {
+      "id": 218717,
+      "name": "Hidalgo County"
+    },
+    {
+      "id": 218718,
+      "name": "Hideaway"
+    },
+    {
+      "id": 218719,
+      "name": "Highland Park"
+    },
+    {
+      "id": 218720,
+      "name": "Highland Village"
+    },
+    {
+      "id": 218721,
+      "name": "Highlands"
+    },
+    {
+      "id": 218722,
+      "name": "Hill Country Village"
+    },
+    {
+      "id": 218723,
+      "name": "Hill County"
+    },
+    {
+      "id": 218724,
+      "name": "Hillsboro"
+    },
+    {
+      "id": 218725,
+      "name": "Hilltop Lakes"
+    },
+    {
+      "id": 218726,
+      "name": "Hitchcock"
+    },
+    {
+      "id": 218727,
+      "name": "Hockley County"
+    },
+    {
+      "id": 218728,
+      "name": "Holiday Lakes"
+    },
+    {
+      "id": 218729,
+      "name": "Holland"
+    },
+    {
+      "id": 218730,
+      "name": "Holliday"
+    },
+    {
+      "id": 218731,
+      "name": "Holly Lake Ranch"
+    },
+    {
+      "id": 218732,
+      "name": "Hollywood Park"
+    },
+    {
+      "id": 218733,
+      "name": "Homestead Meadows North"
+    },
+    {
+      "id": 218734,
+      "name": "Homestead Meadows South"
+    },
+    {
+      "id": 218735,
+      "name": "Hondo"
+    },
+    {
+      "id": 218736,
+      "name": "Honey Grove"
+    },
+    {
+      "id": 218737,
+      "name": "Hood County"
+    },
+    {
+      "id": 218738,
+      "name": "Hooks"
+    },
+    {
+      "id": 218739,
+      "name": "Hopkins County"
+    },
+    {
+      "id": 218740,
+      "name": "Horizon City"
+    },
+    {
+      "id": 218741,
+      "name": "Hornsby Bend"
+    },
+    {
+      "id": 218742,
+      "name": "Horseshoe Bay"
+    },
+    {
+      "id": 218743,
+      "name": "Houston"
+    },
+    {
+      "id": 218744,
+      "name": "Houston County"
+    },
+    {
+      "id": 218745,
+      "name": "Howard County"
+    },
+    {
+      "id": 218746,
+      "name": "Howe"
+    },
+    {
+      "id": 218747,
+      "name": "Hubbard"
+    },
+    {
+      "id": 218748,
+      "name": "Hudson"
+    },
+    {
+      "id": 218749,
+      "name": "Hudson Bend"
+    },
+    {
+      "id": 218750,
+      "name": "Hudson Oaks"
+    },
+    {
+      "id": 218751,
+      "name": "Hudspeth County"
+    },
+    {
+      "id": 218752,
+      "name": "Hughes Springs"
+    },
+    {
+      "id": 218753,
+      "name": "Humble"
+    },
+    {
+      "id": 218754,
+      "name": "Hunt County"
+    },
+    {
+      "id": 218755,
+      "name": "Hunters Creek Village"
+    },
+    {
+      "id": 218756,
+      "name": "Huntington"
+    },
+    {
+      "id": 218757,
+      "name": "Huntsville"
+    },
+    {
+      "id": 218758,
+      "name": "Hurst"
+    },
+    {
+      "id": 218759,
+      "name": "Hutchins"
+    },
+    {
+      "id": 218760,
+      "name": "Hutchinson County"
+    },
+    {
+      "id": 218761,
+      "name": "Hutto"
+    },
+    {
+      "id": 218762,
+      "name": "Idalou"
+    },
+    {
+      "id": 218763,
+      "name": "Indian Hills"
+    },
+    {
+      "id": 218764,
+      "name": "Inez"
+    },
+    {
+      "id": 218765,
+      "name": "Ingleside"
+    },
+    {
+      "id": 218766,
+      "name": "Ingram"
+    },
+    {
+      "id": 218767,
+      "name": "Iowa Colony"
+    },
+    {
+      "id": 218768,
+      "name": "Iowa Park"
+    },
+    {
+      "id": 218769,
+      "name": "Iraan"
+    },
+    {
+      "id": 218770,
+      "name": "Irion County"
+    },
+    {
+      "id": 218771,
+      "name": "Irving"
+    },
+    {
+      "id": 218772,
+      "name": "Italy"
+    },
+    {
+      "id": 218773,
+      "name": "Itasca"
+    },
+    {
+      "id": 218774,
+      "name": "Jacinto City"
+    },
+    {
+      "id": 218775,
+      "name": "Jack County"
+    },
+    {
+      "id": 218776,
+      "name": "Jacksboro"
+    },
+    {
+      "id": 218777,
+      "name": "Jackson County"
+    },
+    {
+      "id": 218778,
+      "name": "Jacksonville"
+    },
+    {
+      "id": 218779,
+      "name": "Jamaica Beach"
+    },
+    {
+      "id": 218780,
+      "name": "Jarrell"
+    },
+    {
+      "id": 218781,
+      "name": "Jasper"
+    },
+    {
+      "id": 218782,
+      "name": "Jasper County"
+    },
+    {
+      "id": 218783,
+      "name": "Jayton"
+    },
+    {
+      "id": 218784,
+      "name": "Jeff Davis County"
+    },
+    {
+      "id": 218785,
+      "name": "Jefferson"
+    },
+    {
+      "id": 218786,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 218787,
+      "name": "Jersey Village"
+    },
+    {
+      "id": 218788,
+      "name": "Jewett"
+    },
+    {
+      "id": 218789,
+      "name": "Jim Hogg County"
+    },
+    {
+      "id": 218790,
+      "name": "Jim Wells County"
+    },
+    {
+      "id": 218791,
+      "name": "Johnson City"
+    },
+    {
+      "id": 218792,
+      "name": "Johnson County"
+    },
+    {
+      "id": 218793,
+      "name": "Jollyville"
+    },
+    {
+      "id": 218794,
+      "name": "Jones County"
+    },
+    {
+      "id": 218795,
+      "name": "Jones Creek"
+    },
+    {
+      "id": 218796,
+      "name": "Jonestown"
+    },
+    {
+      "id": 218797,
+      "name": "Josephine"
+    },
+    {
+      "id": 218798,
+      "name": "Joshua"
+    },
+    {
+      "id": 218799,
+      "name": "Jourdanton"
+    },
+    {
+      "id": 218800,
+      "name": "Junction"
+    },
+    {
+      "id": 218801,
+      "name": "Justin"
+    },
+    {
+      "id": 218802,
+      "name": "Karnes City"
+    },
+    {
+      "id": 218803,
+      "name": "Karnes County"
+    },
+    {
+      "id": 218804,
+      "name": "Katy"
+    },
+    {
+      "id": 218805,
+      "name": "Kaufman"
+    },
+    {
+      "id": 218806,
+      "name": "Kaufman County"
+    },
+    {
+      "id": 218807,
+      "name": "Keene"
+    },
+    {
+      "id": 218808,
+      "name": "Keller"
+    },
+    {
+      "id": 218809,
+      "name": "Kemah"
+    },
+    {
+      "id": 218810,
+      "name": "Kemp"
+    },
+    {
+      "id": 218811,
+      "name": "Kempner"
+    },
+    {
+      "id": 218812,
+      "name": "Kendall County"
+    },
+    {
+      "id": 218813,
+      "name": "Kenedy"
+    },
+    {
+      "id": 218814,
+      "name": "Kenedy County"
+    },
+    {
+      "id": 218815,
+      "name": "Kennedale"
+    },
+    {
+      "id": 218816,
+      "name": "Kent County"
+    },
+    {
+      "id": 218817,
+      "name": "Kerens"
+    },
+    {
+      "id": 218818,
+      "name": "Kermit"
+    },
+    {
+      "id": 218819,
+      "name": "Kerr County"
+    },
+    {
+      "id": 218820,
+      "name": "Kerrville"
+    },
+    {
+      "id": 218821,
+      "name": "Kilgore"
+    },
+    {
+      "id": 218822,
+      "name": "Killeen"
+    },
+    {
+      "id": 218823,
+      "name": "Kimble County"
+    },
+    {
+      "id": 218824,
+      "name": "King County"
+    },
+    {
+      "id": 218825,
+      "name": "Kingsland"
+    },
+    {
+      "id": 218826,
+      "name": "Kingsville"
+    },
+    {
+      "id": 218827,
+      "name": "Kingwood Area"
+    },
+    {
+      "id": 218828,
+      "name": "Kinney County"
+    },
+    {
+      "id": 218829,
+      "name": "Kirby"
+    },
+    {
+      "id": 218830,
+      "name": "Kirbyville"
+    },
+    {
+      "id": 218831,
+      "name": "Kleberg County"
+    },
+    {
+      "id": 218832,
+      "name": "Knox City"
+    },
+    {
+      "id": 218833,
+      "name": "Knox County"
+    },
+    {
+      "id": 218834,
+      "name": "Kountze"
+    },
+    {
+      "id": 218835,
+      "name": "Krugerville"
+    },
+    {
+      "id": 218836,
+      "name": "Krum"
+    },
+    {
+      "id": 218837,
+      "name": "Kyle"
+    },
+    {
+      "id": 218838,
+      "name": "La Blanca"
+    },
+    {
+      "id": 218839,
+      "name": "La Coste"
+    },
+    {
+      "id": 218840,
+      "name": "La Feria"
+    },
+    {
+      "id": 218841,
+      "name": "La Grange"
+    },
+    {
+      "id": 218842,
+      "name": "La Grulla"
+    },
+    {
+      "id": 218843,
+      "name": "La Homa"
+    },
+    {
+      "id": 218844,
+      "name": "La Joya"
+    },
+    {
+      "id": 218845,
+      "name": "La Marque"
+    },
+    {
+      "id": 218846,
+      "name": "La Paloma"
+    },
+    {
+      "id": 218847,
+      "name": "La Porte"
+    },
+    {
+      "id": 218848,
+      "name": "La Pryor"
+    },
+    {
+      "id": 218849,
+      "name": "La Salle County"
+    },
+    {
+      "id": 218850,
+      "name": "La Vernia"
+    },
+    {
+      "id": 218851,
+      "name": "La Villa"
+    },
+    {
+      "id": 218852,
+      "name": "Lackland Air Force Base"
+    },
+    {
+      "id": 218853,
+      "name": "Lacy-Lakeview"
+    },
+    {
+      "id": 218854,
+      "name": "Lago Vista"
+    },
+    {
+      "id": 218855,
+      "name": "Laguna Heights"
+    },
+    {
+      "id": 218856,
+      "name": "Laguna Park"
+    },
+    {
+      "id": 218857,
+      "name": "Laguna Vista"
+    },
+    {
+      "id": 218858,
+      "name": "Lake Brownwood"
+    },
+    {
+      "id": 218859,
+      "name": "Lake Dallas"
+    },
+    {
+      "id": 218860,
+      "name": "Lake Dunlap"
+    },
+    {
+      "id": 218861,
+      "name": "Lake Jackson"
+    },
+    {
+      "id": 218862,
+      "name": "Lake Kiowa"
+    },
+    {
+      "id": 218863,
+      "name": "Lake Worth"
+    },
+    {
+      "id": 218864,
+      "name": "Lakehills"
+    },
+    {
+      "id": 218865,
+      "name": "Lakeside"
+    },
+    {
+      "id": 218866,
+      "name": "Lakeway"
+    },
+    {
+      "id": 218867,
+      "name": "Lamar County"
+    },
+    {
+      "id": 218868,
+      "name": "Lamb County"
+    },
+    {
+      "id": 218869,
+      "name": "Lamesa"
+    },
+    {
+      "id": 218870,
+      "name": "Lampasas"
+    },
+    {
+      "id": 218871,
+      "name": "Lampasas County"
+    },
+    {
+      "id": 218872,
+      "name": "Lancaster"
+    },
+    {
+      "id": 218873,
+      "name": "Lantana"
+    },
+    {
+      "id": 218874,
+      "name": "Laredo"
+    },
+    {
+      "id": 218875,
+      "name": "Las Lomas"
+    },
+    {
+      "id": 218876,
+      "name": "Las Palmas II"
+    },
+    {
+      "id": 218877,
+      "name": "Las Quintas Fronterizas"
+    },
+    {
+      "id": 218878,
+      "name": "Las Quintas Fronterizas Colonia"
+    },
+    {
+      "id": 218879,
+      "name": "Lasara"
+    },
+    {
+      "id": 218880,
+      "name": "Laughlin Air Force Base"
+    },
+    {
+      "id": 218881,
+      "name": "Laureles"
+    },
+    {
+      "id": 218882,
+      "name": "Lavaca County"
+    },
+    {
+      "id": 218883,
+      "name": "Lavon"
+    },
+    {
+      "id": 218884,
+      "name": "League City"
+    },
+    {
+      "id": 218885,
+      "name": "Leakey"
+    },
+    {
+      "id": 218886,
+      "name": "Leander"
+    },
+    {
+      "id": 218887,
+      "name": "Lee County"
+    },
+    {
+      "id": 218888,
+      "name": "Leon County"
+    },
+    {
+      "id": 218889,
+      "name": "Leon Valley"
+    },
+    {
+      "id": 218890,
+      "name": "Leonard"
+    },
+    {
+      "id": 218891,
+      "name": "Levelland"
+    },
+    {
+      "id": 218892,
+      "name": "Lewisville"
+    },
+    {
+      "id": 218893,
+      "name": "Lexington"
+    },
+    {
+      "id": 218894,
+      "name": "Liberty"
+    },
+    {
+      "id": 218895,
+      "name": "Liberty City"
+    },
+    {
+      "id": 218896,
+      "name": "Liberty County"
+    },
+    {
+      "id": 218897,
+      "name": "Liberty Hill"
+    },
+    {
+      "id": 218898,
+      "name": "Limestone County"
+    },
+    {
+      "id": 218899,
+      "name": "Lindale"
+    },
+    {
+      "id": 218900,
+      "name": "Linden"
+    },
+    {
+      "id": 218901,
+      "name": "Lindsay"
+    },
+    {
+      "id": 218902,
+      "name": "Lipscomb County"
+    },
+    {
+      "id": 218903,
+      "name": "Little Elm"
+    },
+    {
+      "id": 218904,
+      "name": "Little River-Academy"
+    },
+    {
+      "id": 218905,
+      "name": "Littlefield"
+    },
+    {
+      "id": 218906,
+      "name": "Live Oak"
+    },
+    {
+      "id": 218907,
+      "name": "Live Oak County"
+    },
+    {
+      "id": 218908,
+      "name": "Livingston"
+    },
+    {
+      "id": 218909,
+      "name": "Llano"
+    },
+    {
+      "id": 218910,
+      "name": "Llano County"
+    },
+    {
+      "id": 218911,
+      "name": "Llano Grande"
+    },
+    {
+      "id": 218912,
+      "name": "Lockhart"
+    },
+    {
+      "id": 218913,
+      "name": "Lockney"
+    },
+    {
+      "id": 218914,
+      "name": "Lone Star"
+    },
+    {
+      "id": 218915,
+      "name": "Longview"
+    },
+    {
+      "id": 218916,
+      "name": "Lopezville"
+    },
+    {
+      "id": 218917,
+      "name": "Lorena"
+    },
+    {
+      "id": 218918,
+      "name": "Lorenzo"
+    },
+    {
+      "id": 218919,
+      "name": "Los Fresnos"
+    },
+    {
+      "id": 218920,
+      "name": "Los Indios"
+    },
+    {
+      "id": 218921,
+      "name": "Lost Creek"
+    },
+    {
+      "id": 218922,
+      "name": "Loving County"
+    },
+    {
+      "id": 218923,
+      "name": "Lowry Crossing"
+    },
+    {
+      "id": 218924,
+      "name": "Lubbock"
+    },
+    {
+      "id": 218925,
+      "name": "Lubbock County"
+    },
+    {
+      "id": 218926,
+      "name": "Lucas"
+    },
+    {
+      "id": 218927,
+      "name": "Lufkin"
+    },
+    {
+      "id": 218928,
+      "name": "Luling"
+    },
+    {
+      "id": 218929,
+      "name": "Lumberton"
+    },
+    {
+      "id": 218930,
+      "name": "Lyford"
+    },
+    {
+      "id": 218931,
+      "name": "Lynn County"
+    },
+    {
+      "id": 218932,
+      "name": "Lytle"
+    },
+    {
+      "id": 218933,
+      "name": "Mabank"
+    },
+    {
+      "id": 218934,
+      "name": "Madison County"
+    },
+    {
+      "id": 218935,
+      "name": "Madisonville"
+    },
+    {
+      "id": 218936,
+      "name": "Magnolia"
+    },
+    {
+      "id": 218937,
+      "name": "Malakoff"
+    },
+    {
+      "id": 218938,
+      "name": "Manchaca"
+    },
+    {
+      "id": 218939,
+      "name": "Manor"
+    },
+    {
+      "id": 218940,
+      "name": "Mansfield"
+    },
+    {
+      "id": 218941,
+      "name": "Manvel"
+    },
+    {
+      "id": 218942,
+      "name": "Marble Falls"
+    },
+    {
+      "id": 218943,
+      "name": "Marfa"
+    },
+    {
+      "id": 218944,
+      "name": "Marion"
+    },
+    {
+      "id": 218945,
+      "name": "Marion County"
+    },
+    {
+      "id": 218946,
+      "name": "Markham"
+    },
+    {
+      "id": 218947,
+      "name": "Marlin"
+    },
+    {
+      "id": 218948,
+      "name": "Marshall"
+    },
+    {
+      "id": 218949,
+      "name": "Mart"
+    },
+    {
+      "id": 218950,
+      "name": "Martin County"
+    },
+    {
+      "id": 218951,
+      "name": "Martindale"
+    },
+    {
+      "id": 218952,
+      "name": "Mason"
+    },
+    {
+      "id": 218953,
+      "name": "Mason County"
+    },
+    {
+      "id": 218954,
+      "name": "Matador"
+    },
+    {
+      "id": 218955,
+      "name": "Matagorda County"
+    },
+    {
+      "id": 218956,
+      "name": "Mathis"
+    },
+    {
+      "id": 218957,
+      "name": "Maud"
+    },
+    {
+      "id": 218958,
+      "name": "Mauriceville"
+    },
+    {
+      "id": 218959,
+      "name": "Maverick County"
+    },
+    {
+      "id": 218960,
+      "name": "McAllen"
+    },
+    {
+      "id": 218961,
+      "name": "McCamey"
+    },
+    {
+      "id": 218962,
+      "name": "McCulloch County"
+    },
+    {
+      "id": 218963,
+      "name": "McGregor"
+    },
+    {
+      "id": 218964,
+      "name": "McKinney"
+    },
+    {
+      "id": 218965,
+      "name": "McLendon-Chisholm"
+    },
+    {
+      "id": 218966,
+      "name": "McLennan County"
+    },
+    {
+      "id": 218967,
+      "name": "McMullen County"
+    },
+    {
+      "id": 218968,
+      "name": "McQueeney"
+    },
+    {
+      "id": 218969,
+      "name": "Meadowlakes"
+    },
+    {
+      "id": 218970,
+      "name": "Meadows Place"
+    },
+    {
+      "id": 218971,
+      "name": "Medina"
+    },
+    {
+      "id": 218972,
+      "name": "Medina County"
+    },
+    {
+      "id": 218973,
+      "name": "Melissa"
+    },
+    {
+      "id": 218974,
+      "name": "Memphis"
+    },
+    {
+      "id": 218975,
+      "name": "Menard"
+    },
+    {
+      "id": 218976,
+      "name": "Menard County"
+    },
+    {
+      "id": 218977,
+      "name": "Mentone"
+    },
+    {
+      "id": 218978,
+      "name": "Mercedes"
+    },
+    {
+      "id": 218979,
+      "name": "Meridian"
+    },
+    {
+      "id": 218980,
+      "name": "Merkel"
+    },
+    {
+      "id": 218981,
+      "name": "Mertzon"
+    },
+    {
+      "id": 218982,
+      "name": "Mesquite"
+    },
+    {
+      "id": 218983,
+      "name": "Mexia"
+    },
+    {
+      "id": 218984,
+      "name": "Miami"
+    },
+    {
+      "id": 218985,
+      "name": "Midland"
+    },
+    {
+      "id": 218986,
+      "name": "Midland County"
+    },
+    {
+      "id": 218987,
+      "name": "Midlothian"
+    },
+    {
+      "id": 218988,
+      "name": "Midway North"
+    },
+    {
+      "id": 218989,
+      "name": "Midway South"
+    },
+    {
+      "id": 218990,
+      "name": "Mila Doce"
+    },
+    {
+      "id": 218991,
+      "name": "Milam"
+    },
+    {
+      "id": 218992,
+      "name": "Milam County"
+    },
+    {
+      "id": 218993,
+      "name": "Mills County"
+    },
+    {
+      "id": 218994,
+      "name": "Mineola"
+    },
+    {
+      "id": 218995,
+      "name": "Mineral Wells"
+    },
+    {
+      "id": 218996,
+      "name": "Mission"
+    },
+    {
+      "id": 218997,
+      "name": "Mission Bend"
+    },
+    {
+      "id": 218998,
+      "name": "Missouri City"
+    },
+    {
+      "id": 218999,
+      "name": "Mitchell County"
+    },
+    {
+      "id": 219000,
+      "name": "Monahans"
+    },
+    {
+      "id": 219001,
+      "name": "Mont Belvieu"
+    },
+    {
+      "id": 219002,
+      "name": "Montague"
+    },
+    {
+      "id": 219003,
+      "name": "Montague County"
+    },
+    {
+      "id": 219004,
+      "name": "Monte Alto"
+    },
+    {
+      "id": 219005,
+      "name": "Montgomery County"
+    },
+    {
+      "id": 219006,
+      "name": "Moody"
+    },
+    {
+      "id": 219007,
+      "name": "Moore County"
+    },
+    {
+      "id": 219008,
+      "name": "Morgans Point Resort"
+    },
+    {
+      "id": 219009,
+      "name": "Morris County"
+    },
+    {
+      "id": 219010,
+      "name": "Morton"
+    },
+    {
+      "id": 219011,
+      "name": "Motley County"
+    },
+    {
+      "id": 219012,
+      "name": "Mount Pleasant"
+    },
+    {
+      "id": 219013,
+      "name": "Mount Vernon"
+    },
+    {
+      "id": 219014,
+      "name": "Muenster"
+    },
+    {
+      "id": 219015,
+      "name": "Muleshoe"
+    },
+    {
+      "id": 219016,
+      "name": "Munday"
+    },
+    {
+      "id": 219017,
+      "name": "Muniz"
+    },
+    {
+      "id": 219018,
+      "name": "Murillo Colonia"
+    },
+    {
+      "id": 219019,
+      "name": "Murphy"
+    },
+    {
+      "id": 219020,
+      "name": "Nacogdoches"
+    },
+    {
+      "id": 219021,
+      "name": "Nacogdoches County"
+    },
+    {
+      "id": 219022,
+      "name": "Naples"
+    },
+    {
+      "id": 219023,
+      "name": "Nash"
+    },
+    {
+      "id": 219024,
+      "name": "Nassau Bay"
+    },
+    {
+      "id": 219025,
+      "name": "Natalia"
+    },
+    {
+      "id": 219026,
+      "name": "Navarro County"
+    },
+    {
+      "id": 219027,
+      "name": "Navasota"
+    },
+    {
+      "id": 219028,
+      "name": "Nederland"
+    },
+    {
+      "id": 219029,
+      "name": "Needville"
+    },
+    {
+      "id": 219030,
+      "name": "Nevada"
+    },
+    {
+      "id": 219031,
+      "name": "New Boston"
+    },
+    {
+      "id": 219032,
+      "name": "New Braunfels"
+    },
+    {
+      "id": 219033,
+      "name": "New Summerfield"
+    },
+    {
+      "id": 219034,
+      "name": "New Territory"
+    },
+    {
+      "id": 219035,
+      "name": "New Waverly"
+    },
+    {
+      "id": 219036,
+      "name": "Newark"
+    },
+    {
+      "id": 219037,
+      "name": "Newton"
+    },
+    {
+      "id": 219038,
+      "name": "Newton County"
+    },
+    {
+      "id": 219039,
+      "name": "Nixon"
+    },
+    {
+      "id": 219040,
+      "name": "Nocona"
+    },
+    {
+      "id": 219041,
+      "name": "Nolan County"
+    },
+    {
+      "id": 219042,
+      "name": "Nolanville"
+    },
+    {
+      "id": 219043,
+      "name": "North Alamo"
+    },
+    {
+      "id": 219044,
+      "name": "North Richland Hills"
+    },
+    {
+      "id": 219045,
+      "name": "Northcliff"
+    },
+    {
+      "id": 219046,
+      "name": "Northcrest"
+    },
+    {
+      "id": 219047,
+      "name": "Northlake"
+    },
+    {
+      "id": 219048,
+      "name": "Nueces County"
+    },
+    {
+      "id": 219049,
+      "name": "Nurillo"
+    },
+    {
+      "id": 219050,
+      "name": "Oak Cliff Place"
+    },
+    {
+      "id": 219051,
+      "name": "Oak Leaf"
+    },
+    {
+      "id": 219052,
+      "name": "Oak Point"
+    },
+    {
+      "id": 219053,
+      "name": "Oak Ridge North"
+    },
+    {
+      "id": 219054,
+      "name": "Oak Trail Shores"
+    },
+    {
+      "id": 219055,
+      "name": "Ochiltree County"
+    },
+    {
+      "id": 219056,
+      "name": "Odem"
+    },
+    {
+      "id": 219057,
+      "name": "Odessa"
+    },
+    {
+      "id": 219058,
+      "name": "Old River-Winfree"
+    },
+    {
+      "id": 219059,
+      "name": "Oldham County"
+    },
+    {
+      "id": 219060,
+      "name": "Olivarez"
+    },
+    {
+      "id": 219061,
+      "name": "Olmito"
+    },
+    {
+      "id": 219062,
+      "name": "Olmos Park"
+    },
+    {
+      "id": 219063,
+      "name": "Olney"
+    },
+    {
+      "id": 219064,
+      "name": "Olton"
+    },
+    {
+      "id": 219065,
+      "name": "Onalaska"
+    },
+    {
+      "id": 219066,
+      "name": "Onion Creek"
+    },
+    {
+      "id": 219067,
+      "name": "Orange"
+    },
+    {
+      "id": 219068,
+      "name": "Orange County"
+    },
+    {
+      "id": 219069,
+      "name": "Orange Grove"
+    },
+    {
+      "id": 219070,
+      "name": "Ore City"
+    },
+    {
+      "id": 219071,
+      "name": "Overton"
+    },
+    {
+      "id": 219072,
+      "name": "Ovilla"
+    },
+    {
+      "id": 219073,
+      "name": "Oyster Creek"
+    },
+    {
+      "id": 219074,
+      "name": "Ozona"
+    },
+    {
+      "id": 219075,
+      "name": "Paducah"
+    },
+    {
+      "id": 219076,
+      "name": "Paint Rock"
+    },
+    {
+      "id": 219077,
+      "name": "Palacios"
+    },
+    {
+      "id": 219078,
+      "name": "Palestine"
+    },
+    {
+      "id": 219079,
+      "name": "Palm Valley"
+    },
+    {
+      "id": 219080,
+      "name": "Palmer"
+    },
+    {
+      "id": 219081,
+      "name": "Palmhurst"
+    },
+    {
+      "id": 219082,
+      "name": "Palmview"
+    },
+    {
+      "id": 219083,
+      "name": "Palmview South"
+    },
+    {
+      "id": 219084,
+      "name": "Palo Pinto"
+    },
+    {
+      "id": 219085,
+      "name": "Palo Pinto County"
+    },
+    {
+      "id": 219086,
+      "name": "Paloma Creek"
+    },
+    {
+      "id": 219087,
+      "name": "Paloma Creek South"
+    },
+    {
+      "id": 219088,
+      "name": "Pampa"
+    },
+    {
+      "id": 219089,
+      "name": "Panhandle"
+    },
+    {
+      "id": 219090,
+      "name": "Panola County"
+    },
+    {
+      "id": 219091,
+      "name": "Panorama Village"
+    },
+    {
+      "id": 219092,
+      "name": "Pantego"
+    },
+    {
+      "id": 219093,
+      "name": "Paris"
+    },
+    {
+      "id": 219094,
+      "name": "Parker"
+    },
+    {
+      "id": 219095,
+      "name": "Parker County"
+    },
+    {
+      "id": 219096,
+      "name": "Parmer County"
+    },
+    {
+      "id": 219097,
+      "name": "Pasadena"
+    },
+    {
+      "id": 219098,
+      "name": "Patton Village"
+    },
+    {
+      "id": 219099,
+      "name": "Pearland"
+    },
+    {
+      "id": 219100,
+      "name": "Pearsall"
+    },
+    {
+      "id": 219101,
+      "name": "Pecan Acres"
+    },
+    {
+      "id": 219102,
+      "name": "Pecan Grove"
+    },
+    {
+      "id": 219103,
+      "name": "Pecan Plantation"
+    },
+    {
+      "id": 219104,
+      "name": "Pecos"
+    },
+    {
+      "id": 219105,
+      "name": "Pecos County"
+    },
+    {
+      "id": 219106,
+      "name": "Pelican Bay"
+    },
+    {
+      "id": 219107,
+      "name": "Penitas"
+    },
+    {
+      "id": 219108,
+      "name": "Perezville"
+    },
+    {
+      "id": 219109,
+      "name": "Perryton"
+    },
+    {
+      "id": 219110,
+      "name": "Petersburg"
+    },
+    {
+      "id": 219111,
+      "name": "Pflugerville"
+    },
+    {
+      "id": 219112,
+      "name": "Pharr"
+    },
+    {
+      "id": 219113,
+      "name": "Pilot Point"
+    },
+    {
+      "id": 219114,
+      "name": "Pine Island"
+    },
+    {
+      "id": 219115,
+      "name": "Pinehurst"
+    },
+    {
+      "id": 219116,
+      "name": "Pinewood Estates"
+    },
+    {
+      "id": 219117,
+      "name": "Piney Point Village"
+    },
+    {
+      "id": 219118,
+      "name": "Pittsburg"
+    },
+    {
+      "id": 219119,
+      "name": "Plains"
+    },
+    {
+      "id": 219120,
+      "name": "Plainview"
+    },
+    {
+      "id": 219121,
+      "name": "Plano"
+    },
+    {
+      "id": 219122,
+      "name": "Pleak"
+    },
+    {
+      "id": 219123,
+      "name": "Pleasanton"
+    },
+    {
+      "id": 219124,
+      "name": "Plum Grove"
+    },
+    {
+      "id": 219125,
+      "name": "Polk County"
+    },
+    {
+      "id": 219126,
+      "name": "Ponder"
+    },
+    {
+      "id": 219127,
+      "name": "Port Aransas"
+    },
+    {
+      "id": 219128,
+      "name": "Port Arthur"
+    },
+    {
+      "id": 219129,
+      "name": "Port Isabel"
+    },
+    {
+      "id": 219130,
+      "name": "Port Lavaca"
+    },
+    {
+      "id": 219131,
+      "name": "Port Neches"
+    },
+    {
+      "id": 219132,
+      "name": "Port O'Connor"
+    },
+    {
+      "id": 219133,
+      "name": "Porter Heights"
+    },
+    {
+      "id": 219134,
+      "name": "Portland"
+    },
+    {
+      "id": 219135,
+      "name": "Post"
+    },
+    {
+      "id": 219136,
+      "name": "Poteet"
+    },
+    {
+      "id": 219137,
+      "name": "Poth"
+    },
+    {
+      "id": 219138,
+      "name": "Potosi"
+    },
+    {
+      "id": 219139,
+      "name": "Potter County"
+    },
+    {
+      "id": 219140,
+      "name": "Pottsboro"
+    },
+    {
+      "id": 219141,
+      "name": "Powderly"
+    },
+    {
+      "id": 219142,
+      "name": "Prairie View"
+    },
+    {
+      "id": 219143,
+      "name": "Premont"
+    },
+    {
+      "id": 219144,
+      "name": "Presidio"
+    },
+    {
+      "id": 219145,
+      "name": "Presidio County"
+    },
+    {
+      "id": 219146,
+      "name": "Preston"
+    },
+    {
+      "id": 219147,
+      "name": "Primera"
+    },
+    {
+      "id": 219148,
+      "name": "Princeton"
+    },
+    {
+      "id": 219149,
+      "name": "Progreso"
+    },
+    {
+      "id": 219150,
+      "name": "Prosper"
+    },
+    {
+      "id": 219151,
+      "name": "Providence"
+    },
+    {
+      "id": 219152,
+      "name": "Quail Creek"
+    },
+    {
+      "id": 219153,
+      "name": "Quanah"
+    },
+    {
+      "id": 219154,
+      "name": "Queen City"
+    },
+    {
+      "id": 219155,
+      "name": "Quinlan"
+    },
+    {
+      "id": 219156,
+      "name": "Quitman"
+    },
+    {
+      "id": 219157,
+      "name": "Rains County"
+    },
+    {
+      "id": 219158,
+      "name": "Ralls"
+    },
+    {
+      "id": 219159,
+      "name": "Rancho Alegre"
+    },
+    {
+      "id": 219160,
+      "name": "Rancho Viejo"
+    },
+    {
+      "id": 219161,
+      "name": "Randall County"
+    },
+    {
+      "id": 219162,
+      "name": "Ranger"
+    },
+    {
+      "id": 219163,
+      "name": "Rankin"
+    },
+    {
+      "id": 219164,
+      "name": "Ransom Canyon"
+    },
+    {
+      "id": 219165,
+      "name": "Raymondville"
+    },
+    {
+      "id": 219166,
+      "name": "Reagan County"
+    },
+    {
+      "id": 219167,
+      "name": "Real County"
+    },
+    {
+      "id": 219168,
+      "name": "Red Lick"
+    },
+    {
+      "id": 219169,
+      "name": "Red Oak"
+    },
+    {
+      "id": 219170,
+      "name": "Red River County"
+    },
+    {
+      "id": 219171,
+      "name": "Redland"
+    },
+    {
+      "id": 219172,
+      "name": "Redwater"
+    },
+    {
+      "id": 219173,
+      "name": "Redwood"
+    },
+    {
+      "id": 219174,
+      "name": "Reeves County"
+    },
+    {
+      "id": 219175,
+      "name": "Refugio"
+    },
+    {
+      "id": 219176,
+      "name": "Refugio County"
+    },
+    {
+      "id": 219177,
+      "name": "Rendon"
+    },
+    {
+      "id": 219178,
+      "name": "Reno"
+    },
+    {
+      "id": 219179,
+      "name": "Rhome"
+    },
+    {
+      "id": 219180,
+      "name": "Ricardo"
+    },
+    {
+      "id": 219181,
+      "name": "Richardson"
+    },
+    {
+      "id": 219182,
+      "name": "Richland Hills"
+    },
+    {
+      "id": 219183,
+      "name": "Richmond"
+    },
+    {
+      "id": 219184,
+      "name": "Richwood"
+    },
+    {
+      "id": 219185,
+      "name": "Riesel"
+    },
+    {
+      "id": 219186,
+      "name": "Rio Bravo"
+    },
+    {
+      "id": 219187,
+      "name": "Rio Grande City"
+    },
+    {
+      "id": 219188,
+      "name": "Rio Hondo"
+    },
+    {
+      "id": 219189,
+      "name": "River Oaks"
+    },
+    {
+      "id": 219190,
+      "name": "Roanoke"
+    },
+    {
+      "id": 219191,
+      "name": "Robert Lee"
+    },
+    {
+      "id": 219192,
+      "name": "Roberts County"
+    },
+    {
+      "id": 219193,
+      "name": "Robertson County"
+    },
+    {
+      "id": 219194,
+      "name": "Robinson"
+    },
+    {
+      "id": 219195,
+      "name": "Robstown"
+    },
+    {
+      "id": 219196,
+      "name": "Roby"
+    },
+    {
+      "id": 219197,
+      "name": "Rockdale"
+    },
+    {
+      "id": 219198,
+      "name": "Rockport"
+    },
+    {
+      "id": 219199,
+      "name": "Rocksprings"
+    },
+    {
+      "id": 219200,
+      "name": "Rockwall"
+    },
+    {
+      "id": 219201,
+      "name": "Rockwall County"
+    },
+    {
+      "id": 219202,
+      "name": "Rogers"
+    },
+    {
+      "id": 219203,
+      "name": "Rollingwood"
+    },
+    {
+      "id": 219204,
+      "name": "Roma"
+    },
+    {
+      "id": 219205,
+      "name": "Roma-Los Saenz"
+    },
+    {
+      "id": 219206,
+      "name": "Roman Forest"
+    },
+    {
+      "id": 219207,
+      "name": "Roscoe"
+    },
+    {
+      "id": 219208,
+      "name": "Rosebud"
+    },
+    {
+      "id": 219209,
+      "name": "Rosenberg"
+    },
+    {
+      "id": 219210,
+      "name": "Rosharon"
+    },
+    {
+      "id": 219211,
+      "name": "Rosita North"
+    },
+    {
+      "id": 219212,
+      "name": "Rosita South"
+    },
+    {
+      "id": 219213,
+      "name": "Rotan"
+    },
+    {
+      "id": 219214,
+      "name": "Round Rock"
+    },
+    {
+      "id": 219215,
+      "name": "Rowlett"
+    },
+    {
+      "id": 219216,
+      "name": "Royse City"
+    },
+    {
+      "id": 219217,
+      "name": "Runaway Bay"
+    },
+    {
+      "id": 219218,
+      "name": "Runge"
+    },
+    {
+      "id": 219219,
+      "name": "Runnels County"
+    },
+    {
+      "id": 219220,
+      "name": "Rusk"
+    },
+    {
+      "id": 219221,
+      "name": "Rusk County"
+    },
+    {
+      "id": 219222,
+      "name": "Sabinal"
+    },
+    {
+      "id": 219223,
+      "name": "Sabine County"
+    },
+    {
+      "id": 219224,
+      "name": "Sachse"
+    },
+    {
+      "id": 219225,
+      "name": "Saginaw"
+    },
+    {
+      "id": 219226,
+      "name": "Saint Hedwig"
+    },
+    {
+      "id": 219227,
+      "name": "Saint Jo"
+    },
+    {
+      "id": 219228,
+      "name": "Saint Paul"
+    },
+    {
+      "id": 219229,
+      "name": "Salado"
+    },
+    {
+      "id": 219230,
+      "name": "Sam Rayburn"
+    },
+    {
+      "id": 219231,
+      "name": "San Angelo"
+    },
+    {
+      "id": 219232,
+      "name": "San Antonio"
+    },
+    {
+      "id": 219233,
+      "name": "San Augustine"
+    },
+    {
+      "id": 219234,
+      "name": "San Augustine County"
+    },
+    {
+      "id": 219235,
+      "name": "San Benito"
+    },
+    {
+      "id": 219236,
+      "name": "San Carlos"
+    },
+    {
+      "id": 219237,
+      "name": "San Diego"
+    },
+    {
+      "id": 219238,
+      "name": "San Elizario"
+    },
+    {
+      "id": 219239,
+      "name": "San Jacinto County"
+    },
+    {
+      "id": 219240,
+      "name": "San Juan"
+    },
+    {
+      "id": 219241,
+      "name": "San Leon"
+    },
+    {
+      "id": 219242,
+      "name": "San Marcos"
+    },
+    {
+      "id": 219243,
+      "name": "San Patricio County"
+    },
+    {
+      "id": 219244,
+      "name": "San Saba"
+    },
+    {
+      "id": 219245,
+      "name": "San Saba County"
+    },
+    {
+      "id": 219246,
+      "name": "Sanderson"
+    },
+    {
+      "id": 219247,
+      "name": "Sanger"
+    },
+    {
+      "id": 219248,
+      "name": "Sansom Park"
+    },
+    {
+      "id": 219249,
+      "name": "Santa Anna"
+    },
+    {
+      "id": 219250,
+      "name": "Santa Fe"
+    },
+    {
+      "id": 219251,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 219252,
+      "name": "Sarita"
+    },
+    {
+      "id": 219253,
+      "name": "Savannah"
+    },
+    {
+      "id": 219254,
+      "name": "Scenic Oaks"
+    },
+    {
+      "id": 219255,
+      "name": "Schertz"
+    },
+    {
+      "id": 219256,
+      "name": "Schleicher County"
+    },
+    {
+      "id": 219257,
+      "name": "Schulenburg"
+    },
+    {
+      "id": 219258,
+      "name": "Scissors"
+    },
+    {
+      "id": 219259,
+      "name": "Scurry County"
+    },
+    {
+      "id": 219260,
+      "name": "Seabrook"
+    },
+    {
+      "id": 219261,
+      "name": "Seadrift"
+    },
+    {
+      "id": 219262,
+      "name": "Seagoville"
+    },
+    {
+      "id": 219263,
+      "name": "Seagraves"
+    },
+    {
+      "id": 219264,
+      "name": "Sealy"
+    },
+    {
+      "id": 219265,
+      "name": "Sebastian"
+    },
+    {
+      "id": 219266,
+      "name": "Seguin"
+    },
+    {
+      "id": 219267,
+      "name": "Selma"
+    },
+    {
+      "id": 219268,
+      "name": "Seminole"
+    },
+    {
+      "id": 219269,
+      "name": "Serenada"
+    },
+    {
+      "id": 219270,
+      "name": "Seth Ward"
+    },
+    {
+      "id": 219271,
+      "name": "Seven Points"
+    },
+    {
+      "id": 219272,
+      "name": "Seymour"
+    },
+    {
+      "id": 219273,
+      "name": "Shackelford County"
+    },
+    {
+      "id": 219274,
+      "name": "Shady Hollow"
+    },
+    {
+      "id": 219275,
+      "name": "Shady Shores"
+    },
+    {
+      "id": 219276,
+      "name": "Shallowater"
+    },
+    {
+      "id": 219277,
+      "name": "Shamrock"
+    },
+    {
+      "id": 219278,
+      "name": "Shavano Park"
+    },
+    {
+      "id": 219279,
+      "name": "Shelby County"
+    },
+    {
+      "id": 219280,
+      "name": "Sheldon"
+    },
+    {
+      "id": 219281,
+      "name": "Shenandoah"
+    },
+    {
+      "id": 219282,
+      "name": "Shepherd"
+    },
+    {
+      "id": 219283,
+      "name": "Sherman"
+    },
+    {
+      "id": 219284,
+      "name": "Sherman County"
+    },
+    {
+      "id": 219285,
+      "name": "Sherwood Shores"
+    },
+    {
+      "id": 219286,
+      "name": "Shiner"
+    },
+    {
+      "id": 219287,
+      "name": "Shoreacres"
+    },
+    {
+      "id": 219288,
+      "name": "Sienna Plantation"
+    },
+    {
+      "id": 219289,
+      "name": "Sierra Blanca"
+    },
+    {
+      "id": 219290,
+      "name": "Siesta Acres"
+    },
+    {
+      "id": 219291,
+      "name": "Siesta Shores"
+    },
+    {
+      "id": 219292,
+      "name": "Silsbee"
+    },
+    {
+      "id": 219293,
+      "name": "Silverton"
+    },
+    {
+      "id": 219294,
+      "name": "Sinton"
+    },
+    {
+      "id": 219295,
+      "name": "Slaton"
+    },
+    {
+      "id": 219296,
+      "name": "Smith County"
+    },
+    {
+      "id": 219297,
+      "name": "Smithville"
+    },
+    {
+      "id": 219298,
+      "name": "Snyder"
+    },
+    {
+      "id": 219299,
+      "name": "Socorro"
+    },
+    {
+      "id": 219300,
+      "name": "Socorro Mission Number 1 Colonia"
+    },
+    {
+      "id": 219301,
+      "name": "Somerset"
+    },
+    {
+      "id": 219302,
+      "name": "Somervell County"
+    },
+    {
+      "id": 219303,
+      "name": "Somerville"
+    },
+    {
+      "id": 219304,
+      "name": "Sonora"
+    },
+    {
+      "id": 219305,
+      "name": "Sour Lake"
+    },
+    {
+      "id": 219306,
+      "name": "South Alamo"
+    },
+    {
+      "id": 219307,
+      "name": "South Houston"
+    },
+    {
+      "id": 219308,
+      "name": "South Padre Island"
+    },
+    {
+      "id": 219309,
+      "name": "South Point"
+    },
+    {
+      "id": 219310,
+      "name": "Southlake"
+    },
+    {
+      "id": 219311,
+      "name": "Southmayd"
+    },
+    {
+      "id": 219312,
+      "name": "Southside Place"
+    },
+    {
+      "id": 219313,
+      "name": "Sparks"
+    },
+    {
+      "id": 219314,
+      "name": "Spearman"
+    },
+    {
+      "id": 219315,
+      "name": "Splendora"
+    },
+    {
+      "id": 219316,
+      "name": "Spring"
+    },
+    {
+      "id": 219317,
+      "name": "Spring Valley"
+    },
+    {
+      "id": 219318,
+      "name": "Springtown"
+    },
+    {
+      "id": 219319,
+      "name": "Spur"
+    },
+    {
+      "id": 219320,
+      "name": "Stafford"
+    },
+    {
+      "id": 219321,
+      "name": "Stamford"
+    },
+    {
+      "id": 219322,
+      "name": "Stanton"
+    },
+    {
+      "id": 219323,
+      "name": "Starr County"
+    },
+    {
+      "id": 219324,
+      "name": "Stephens County"
+    },
+    {
+      "id": 219325,
+      "name": "Stephenville"
+    },
+    {
+      "id": 219326,
+      "name": "Sterling City"
+    },
+    {
+      "id": 219327,
+      "name": "Sterling County"
+    },
+    {
+      "id": 219328,
+      "name": "Stinnett"
+    },
+    {
+      "id": 219329,
+      "name": "Stockdale"
+    },
+    {
+      "id": 219330,
+      "name": "Stonewall County"
+    },
+    {
+      "id": 219331,
+      "name": "Stowell"
+    },
+    {
+      "id": 219332,
+      "name": "Stratford"
+    },
+    {
+      "id": 219333,
+      "name": "Sugar Land"
+    },
+    {
+      "id": 219334,
+      "name": "Sullivan City"
+    },
+    {
+      "id": 219335,
+      "name": "Sulphur Springs"
+    },
+    {
+      "id": 219336,
+      "name": "Sundown"
+    },
+    {
+      "id": 219337,
+      "name": "Sunnyvale"
+    },
+    {
+      "id": 219338,
+      "name": "Sunray"
+    },
+    {
+      "id": 219339,
+      "name": "Sutton County"
+    },
+    {
+      "id": 219340,
+      "name": "Sweeny"
+    },
+    {
+      "id": 219341,
+      "name": "Sweetwater"
+    },
+    {
+      "id": 219342,
+      "name": "Swisher County"
+    },
+    {
+      "id": 219343,
+      "name": "Taft"
+    },
+    {
+      "id": 219344,
+      "name": "Taft Southwest (historical)"
+    },
+    {
+      "id": 219345,
+      "name": "Tahoka"
+    },
+    {
+      "id": 219346,
+      "name": "Talty"
+    },
+    {
+      "id": 219347,
+      "name": "Tarrant County"
+    },
+    {
+      "id": 219348,
+      "name": "Tatum"
+    },
+    {
+      "id": 219349,
+      "name": "Taylor"
+    },
+    {
+      "id": 219350,
+      "name": "Taylor County"
+    },
+    {
+      "id": 219351,
+      "name": "Taylor Lake Village"
+    },
+    {
+      "id": 219352,
+      "name": "Teague"
+    },
+    {
+      "id": 219353,
+      "name": "Temple"
+    },
+    {
+      "id": 219354,
+      "name": "Tenaha"
+    },
+    {
+      "id": 219355,
+      "name": "Terrell"
+    },
+    {
+      "id": 219356,
+      "name": "Terrell County"
+    },
+    {
+      "id": 219357,
+      "name": "Terrell Hills"
+    },
+    {
+      "id": 219358,
+      "name": "Terry County"
+    },
+    {
+      "id": 219359,
+      "name": "Texarkana"
+    },
+    {
+      "id": 219360,
+      "name": "Texas City"
+    },
+    {
+      "id": 219361,
+      "name": "The Colony"
+    },
+    {
+      "id": 219362,
+      "name": "The Hills"
+    },
+    {
+      "id": 219363,
+      "name": "The Woodlands"
+    },
+    {
+      "id": 219364,
+      "name": "Thorndale"
+    },
+    {
+      "id": 219365,
+      "name": "Three Rivers"
+    },
+    {
+      "id": 219366,
+      "name": "Throckmorton"
+    },
+    {
+      "id": 219367,
+      "name": "Throckmorton County"
+    },
+    {
+      "id": 219368,
+      "name": "Tiki Island"
+    },
+    {
+      "id": 219369,
+      "name": "Tilden"
+    },
+    {
+      "id": 219370,
+      "name": "Timberwood Park"
+    },
+    {
+      "id": 219371,
+      "name": "Timpson"
+    },
+    {
+      "id": 219372,
+      "name": "Titus County"
+    },
+    {
+      "id": 219373,
+      "name": "Tom Bean"
+    },
+    {
+      "id": 219374,
+      "name": "Tom Green County"
+    },
+    {
+      "id": 219375,
+      "name": "Tomball"
+    },
+    {
+      "id": 219376,
+      "name": "Tool"
+    },
+    {
+      "id": 219377,
+      "name": "Tornillo"
+    },
+    {
+      "id": 219378,
+      "name": "Travis County"
+    },
+    {
+      "id": 219379,
+      "name": "Travis Ranch"
+    },
+    {
+      "id": 219380,
+      "name": "Trinity"
+    },
+    {
+      "id": 219381,
+      "name": "Trinity County"
+    },
+    {
+      "id": 219382,
+      "name": "Trophy Club"
+    },
+    {
+      "id": 219383,
+      "name": "Troup"
+    },
+    {
+      "id": 219384,
+      "name": "Troy"
+    },
+    {
+      "id": 219385,
+      "name": "Tulia"
+    },
+    {
+      "id": 219386,
+      "name": "Tye"
+    },
+    {
+      "id": 219387,
+      "name": "Tyler"
+    },
+    {
+      "id": 219388,
+      "name": "Tyler County"
+    },
+    {
+      "id": 219389,
+      "name": "Uhland"
+    },
+    {
+      "id": 219390,
+      "name": "Universal City"
+    },
+    {
+      "id": 219391,
+      "name": "University Park"
+    },
+    {
+      "id": 219392,
+      "name": "Upshur County"
+    },
+    {
+      "id": 219393,
+      "name": "Upton County"
+    },
+    {
+      "id": 219394,
+      "name": "Uvalde"
+    },
+    {
+      "id": 219395,
+      "name": "Uvalde County"
+    },
+    {
+      "id": 219396,
+      "name": "Uvalde Estates"
+    },
+    {
+      "id": 219397,
+      "name": "Val Verde County"
+    },
+    {
+      "id": 219398,
+      "name": "Val Verde Park"
+    },
+    {
+      "id": 219399,
+      "name": "Valley Mills"
+    },
+    {
+      "id": 219400,
+      "name": "Van"
+    },
+    {
+      "id": 219401,
+      "name": "Van Alstyne"
+    },
+    {
+      "id": 219402,
+      "name": "Van Horn"
+    },
+    {
+      "id": 219403,
+      "name": "Van Vleck"
+    },
+    {
+      "id": 219404,
+      "name": "Van Zandt County"
+    },
+    {
+      "id": 219405,
+      "name": "Vega"
+    },
+    {
+      "id": 219406,
+      "name": "Venus"
+    },
+    {
+      "id": 219407,
+      "name": "Vernon"
+    },
+    {
+      "id": 219408,
+      "name": "Victoria"
+    },
+    {
+      "id": 219409,
+      "name": "Victoria County"
+    },
+    {
+      "id": 219410,
+      "name": "Vidor"
+    },
+    {
+      "id": 219411,
+      "name": "Vinton"
+    },
+    {
+      "id": 219412,
+      "name": "Von Ormy"
+    },
+    {
+      "id": 219413,
+      "name": "Waco"
+    },
+    {
+      "id": 219414,
+      "name": "Wake Village"
+    },
+    {
+      "id": 219415,
+      "name": "Walker County"
+    },
+    {
+      "id": 219416,
+      "name": "Waller"
+    },
+    {
+      "id": 219417,
+      "name": "Waller County"
+    },
+    {
+      "id": 219418,
+      "name": "Wallis"
+    },
+    {
+      "id": 219419,
+      "name": "Ward County"
+    },
+    {
+      "id": 219420,
+      "name": "Washington County"
+    },
+    {
+      "id": 219421,
+      "name": "Waskom"
+    },
+    {
+      "id": 219422,
+      "name": "Watauga"
+    },
+    {
+      "id": 219423,
+      "name": "Waxahachie"
+    },
+    {
+      "id": 219424,
+      "name": "Weatherford"
+    },
+    {
+      "id": 219425,
+      "name": "Webb County"
+    },
+    {
+      "id": 219426,
+      "name": "Webster"
+    },
+    {
+      "id": 219427,
+      "name": "Weimar"
+    },
+    {
+      "id": 219428,
+      "name": "Wellington"
+    },
+    {
+      "id": 219429,
+      "name": "Wells Branch"
+    },
+    {
+      "id": 219430,
+      "name": "Weslaco"
+    },
+    {
+      "id": 219431,
+      "name": "West"
+    },
+    {
+      "id": 219432,
+      "name": "West Columbia"
+    },
+    {
+      "id": 219433,
+      "name": "West Lake Hills"
+    },
+    {
+      "id": 219434,
+      "name": "West Livingston"
+    },
+    {
+      "id": 219435,
+      "name": "West Odessa"
+    },
+    {
+      "id": 219436,
+      "name": "West Orange"
+    },
+    {
+      "id": 219437,
+      "name": "West Sharyland"
+    },
+    {
+      "id": 219438,
+      "name": "West Tawakoni"
+    },
+    {
+      "id": 219439,
+      "name": "West University Place"
+    },
+    {
+      "id": 219440,
+      "name": "Western Lake"
+    },
+    {
+      "id": 219441,
+      "name": "Westlake"
+    },
+    {
+      "id": 219442,
+      "name": "Weston Lakes"
+    },
+    {
+      "id": 219443,
+      "name": "Westway"
+    },
+    {
+      "id": 219444,
+      "name": "Westworth"
+    },
+    {
+      "id": 219445,
+      "name": "Wharton"
+    },
+    {
+      "id": 219446,
+      "name": "Wharton County"
+    },
+    {
+      "id": 219447,
+      "name": "Wheeler"
+    },
+    {
+      "id": 219448,
+      "name": "Wheeler County"
+    },
+    {
+      "id": 219449,
+      "name": "White Oak"
+    },
+    {
+      "id": 219450,
+      "name": "White Settlement"
+    },
+    {
+      "id": 219451,
+      "name": "Whitehouse"
+    },
+    {
+      "id": 219452,
+      "name": "Whitesboro"
+    },
+    {
+      "id": 219453,
+      "name": "Whitewright"
+    },
+    {
+      "id": 219454,
+      "name": "Whitney"
+    },
+    {
+      "id": 219455,
+      "name": "Wichita County"
+    },
+    {
+      "id": 219456,
+      "name": "Wichita Falls"
+    },
+    {
+      "id": 219457,
+      "name": "Wilbarger County"
+    },
+    {
+      "id": 219458,
+      "name": "Wild Peach Village"
+    },
+    {
+      "id": 219459,
+      "name": "Wildwood"
+    },
+    {
+      "id": 219460,
+      "name": "Willacy County"
+    },
+    {
+      "id": 219461,
+      "name": "Williamson County"
+    },
+    {
+      "id": 219462,
+      "name": "Willis"
+    },
+    {
+      "id": 219463,
+      "name": "Willow Park"
+    },
+    {
+      "id": 219464,
+      "name": "Wills Point"
+    },
+    {
+      "id": 219465,
+      "name": "Wilmer"
+    },
+    {
+      "id": 219466,
+      "name": "Wilson County"
+    },
+    {
+      "id": 219467,
+      "name": "Wimberley"
+    },
+    {
+      "id": 219468,
+      "name": "Windcrest"
+    },
+    {
+      "id": 219469,
+      "name": "Windemere"
+    },
+    {
+      "id": 219470,
+      "name": "Wink"
+    },
+    {
+      "id": 219471,
+      "name": "Winkler County"
+    },
+    {
+      "id": 219472,
+      "name": "Winnie"
+    },
+    {
+      "id": 219473,
+      "name": "Winnsboro"
+    },
+    {
+      "id": 219474,
+      "name": "Winters"
+    },
+    {
+      "id": 219475,
+      "name": "Wise County"
+    },
+    {
+      "id": 219476,
+      "name": "Wolfe City"
+    },
+    {
+      "id": 219477,
+      "name": "Wolfforth"
+    },
+    {
+      "id": 219478,
+      "name": "Wood County"
+    },
+    {
+      "id": 219479,
+      "name": "Woodbranch"
+    },
+    {
+      "id": 219480,
+      "name": "Woodcreek"
+    },
+    {
+      "id": 219481,
+      "name": "Woodsboro"
+    },
+    {
+      "id": 219482,
+      "name": "Woodville"
+    },
+    {
+      "id": 219483,
+      "name": "Woodway"
+    },
+    {
+      "id": 219484,
+      "name": "Wortham"
+    },
+    {
+      "id": 219485,
+      "name": "Wyldwood"
+    },
+    {
+      "id": 219486,
+      "name": "Wylie"
+    },
+    {
+      "id": 219487,
+      "name": "Yoakum"
+    },
+    {
+      "id": 219488,
+      "name": "Yoakum County"
+    },
+    {
+      "id": 219489,
+      "name": "Yorktown"
+    },
+    {
+      "id": 219490,
+      "name": "Young County"
+    },
+    {
+      "id": 219491,
+      "name": "Zapata"
+    },
+    {
+      "id": 219492,
+      "name": "Zapata County"
+    },
+    {
+      "id": 219493,
+      "name": "Zavala County"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": 6075,
+  "name": "Voronezh Oblast",
+  "state_code": "VOR",
+  "cities": [
+    {
+      "id": 178631,
+      "name": "Abramovka"
+    },
+    {
+      "id": 178632,
+      "name": "Anna"
+    },
+    {
+      "id": 178633,
+      "name": "Anninskiy Rayon"
+    },
+    {
+      "id": 178634,
+      "name": "Belogor’ye"
+    },
+    {
+      "id": 178635,
+      "name": "Bobrov"
+    },
+    {
+      "id": 178636,
+      "name": "Bobrovskiy Rayon"
+    },
+    {
+      "id": 178637,
+      "name": "Boguchar"
+    },
+    {
+      "id": 178638,
+      "name": "Borisoglebsk"
+    },
+    {
+      "id": 178639,
+      "name": "Buturlinovka"
+    },
+    {
+      "id": 178640,
+      "name": "Buturlinovskiy Rayon"
+    },
+    {
+      "id": 178641,
+      "name": "Davydovka"
+    },
+    {
+      "id": 178642,
+      "name": "Devitsa"
+    },
+    {
+      "id": 178643,
+      "name": "Drakino"
+    },
+    {
+      "id": 178644,
+      "name": "Ertil’"
+    },
+    {
+      "id": 178645,
+      "name": "Ertil’skiy Rayon"
+    },
+    {
+      "id": 178646,
+      "name": "Gribanovskiy"
+    },
+    {
+      "id": 178647,
+      "name": "Gribanovskiy Rayon"
+    },
+    {
+      "id": 178648,
+      "name": "Imeni Pervogo Maya"
+    },
+    {
+      "id": 178649,
+      "name": "Kalach"
+    },
+    {
+      "id": 178650,
+      "name": "Kamenka"
+    },
+    {
+      "id": 178651,
+      "name": "Kamenskiy Rayon"
+    },
+    {
+      "id": 178652,
+      "name": "Kantemirovka"
+    },
+    {
+      "id": 178653,
+      "name": "Kashirskiy Rayon"
+    },
+    {
+      "id": 178654,
+      "name": "Kashirskoye"
+    },
+    {
+      "id": 178655,
+      "name": "Khrenovoye"
+    },
+    {
+      "id": 178656,
+      "name": "Kolodeznyy"
+    },
+    {
+      "id": 178657,
+      "name": "Korotoyak"
+    },
+    {
+      "id": 178658,
+      "name": "Kozlovka"
+    },
+    {
+      "id": 178659,
+      "name": "Krasnolesnyy"
+    },
+    {
+      "id": 178660,
+      "name": "Latnaya"
+    },
+    {
+      "id": 178661,
+      "name": "Liski"
+    },
+    {
+      "id": 178662,
+      "name": "Liskinskiy Rayon"
+    },
+    {
+      "id": 178663,
+      "name": "Losevo"
+    },
+    {
+      "id": 178664,
+      "name": "Maslovka"
+    },
+    {
+      "id": 178665,
+      "name": "Mitrofanovka"
+    },
+    {
+      "id": 178666,
+      "name": "Nizhnedevitsk"
+    },
+    {
+      "id": 178667,
+      "name": "Nizhnedevitskiy Rayon"
+    },
+    {
+      "id": 178668,
+      "name": "Nizhniy Kislyay"
+    },
+    {
+      "id": 178669,
+      "name": "Nizhniy Mamon"
+    },
+    {
+      "id": 178670,
+      "name": "Novaya Chigla"
+    },
+    {
+      "id": 178671,
+      "name": "Novaya Usman’"
+    },
+    {
+      "id": 178672,
+      "name": "Novokhopërsk"
+    },
+    {
+      "id": 178673,
+      "name": "Novokhoperskiy Rayon"
+    },
+    {
+      "id": 178674,
+      "name": "Novousmanskiy Rayon"
+    },
+    {
+      "id": 178675,
+      "name": "Novovoronezh"
+    },
+    {
+      "id": 178676,
+      "name": "Novozhivotinnoye"
+    },
+    {
+      "id": 178677,
+      "name": "Ol’khovatka"
+    },
+    {
+      "id": 178678,
+      "name": "Ol’khovatskiy Rayon"
+    },
+    {
+      "id": 178679,
+      "name": "Orlovo"
+    },
+    {
+      "id": 178680,
+      "name": "Ostrogozhsk"
+    },
+    {
+      "id": 178681,
+      "name": "Panino"
+    },
+    {
+      "id": 178682,
+      "name": "Paninskiy Rayon"
+    },
+    {
+      "id": 178683,
+      "name": "Pavlovsk"
+    },
+    {
+      "id": 178684,
+      "name": "Pavlovskiy Rayon"
+    },
+    {
+      "id": 178685,
+      "name": "Pereleshino"
+    },
+    {
+      "id": 178686,
+      "name": "Pereleshinskiy"
+    },
+    {
+      "id": 178687,
+      "name": "Podgorenskiy"
+    },
+    {
+      "id": 178688,
+      "name": "Podgorenskiy Rayon"
+    },
+    {
+      "id": 178689,
+      "name": "Podgornoye"
+    },
+    {
+      "id": 178690,
+      "name": "Podkletnoye"
+    },
+    {
+      "id": 178691,
+      "name": "Povorino"
+    },
+    {
+      "id": 178692,
+      "name": "Povorinskiy Rayon"
+    },
+    {
+      "id": 178693,
+      "name": "Pridonskoy"
+    },
+    {
+      "id": 178694,
+      "name": "Ramon’"
+    },
+    {
+      "id": 178695,
+      "name": "Ramonskiy Rayon"
+    },
+    {
+      "id": 178696,
+      "name": "Rep’yevskiy Rayon"
+    },
+    {
+      "id": 178697,
+      "name": "Rossosh’"
+    },
+    {
+      "id": 178698,
+      "name": "Rossoshanskiy Rayon"
+    },
+    {
+      "id": 178699,
+      "name": "Sadovoye"
+    },
+    {
+      "id": 178700,
+      "name": "Semiluki"
+    },
+    {
+      "id": 178701,
+      "name": "Semilukskiy Rayon"
+    },
+    {
+      "id": 178702,
+      "name": "Shilovo"
+    },
+    {
+      "id": 178703,
+      "name": "Sloboda"
+    },
+    {
+      "id": 178704,
+      "name": "Somovo"
+    },
+    {
+      "id": 178705,
+      "name": "Sredniy Ikorets"
+    },
+    {
+      "id": 178706,
+      "name": "Strelitsa"
+    },
+    {
+      "id": 178707,
+      "name": "Talovaya"
+    },
+    {
+      "id": 178708,
+      "name": "Ternovka"
+    },
+    {
+      "id": 178709,
+      "name": "Ternovskiy Rayon"
+    },
+    {
+      "id": 178710,
+      "name": "Uglyanets"
+    },
+    {
+      "id": 178711,
+      "name": "Uryv-Pokrovka"
+    },
+    {
+      "id": 178712,
+      "name": "Verkhniy Mamon"
+    },
+    {
+      "id": 178713,
+      "name": "Verkhnyaya Khava"
+    },
+    {
+      "id": 178714,
+      "name": "Verkhnyaya Tishanka"
+    },
+    {
+      "id": 178715,
+      "name": "Volya"
+    },
+    {
+      "id": 178716,
+      "name": "Vorob’yevskiy Rayon"
+    },
+    {
+      "id": 178717,
+      "name": "Voronezh"
+    },
+    {
+      "id": 178718,
+      "name": "Vorontsovka"
+    },
+    {
+      "id": 178719,
+      "name": "Yelan’-Koleno"
+    },
+    {
+      "id": 178720,
+      "name": "Yelan’-Kolenovskiy"
+    },
+    {
+      "id": 178721,
+      "name": "Zabolotovka"
+    },
+    {
+      "id": 178722,
+      "name": "Zemlyansk"
+    }
+  ]
+}

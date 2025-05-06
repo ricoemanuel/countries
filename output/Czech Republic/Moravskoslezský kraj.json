@@ -1,0 +1,603 @@
+{
+  "id": 3501,
+  "name": "Moravskoslezský kraj",
+  "state_code": "80",
+  "cities": [
+    {
+      "id": 94683,
+      "name": "Albrechtice"
+    },
+    {
+      "id": 94684,
+      "name": "Bartošovice"
+    },
+    {
+      "id": 94685,
+      "name": "Baška"
+    },
+    {
+      "id": 94686,
+      "name": "Bílovec"
+    },
+    {
+      "id": 94687,
+      "name": "Bohumín"
+    },
+    {
+      "id": 94688,
+      "name": "Bohuslavice"
+    },
+    {
+      "id": 94689,
+      "name": "Bolatice"
+    },
+    {
+      "id": 94690,
+      "name": "Brantice"
+    },
+    {
+      "id": 94691,
+      "name": "Březová"
+    },
+    {
+      "id": 94692,
+      "name": "Břidličná"
+    },
+    {
+      "id": 94693,
+      "name": "Brumovice"
+    },
+    {
+      "id": 94694,
+      "name": "Bruntál"
+    },
+    {
+      "id": 94695,
+      "name": "Brušperk"
+    },
+    {
+      "id": 94696,
+      "name": "Budišov nad Budišovkou"
+    },
+    {
+      "id": 94697,
+      "name": "Bukovec"
+    },
+    {
+      "id": 94698,
+      "name": "Bystřice"
+    },
+    {
+      "id": 94699,
+      "name": "Čeladná"
+    },
+    {
+      "id": 94700,
+      "name": "Český Těšín"
+    },
+    {
+      "id": 94701,
+      "name": "Chlebičov"
+    },
+    {
+      "id": 94702,
+      "name": "Chotěbuz"
+    },
+    {
+      "id": 94703,
+      "name": "Chuchelná"
+    },
+    {
+      "id": 94704,
+      "name": "Darkovice"
+    },
+    {
+      "id": 94705,
+      "name": "Dětmarovice"
+    },
+    {
+      "id": 94706,
+      "name": "Dobrá"
+    },
+    {
+      "id": 94707,
+      "name": "Dobratice"
+    },
+    {
+      "id": 94708,
+      "name": "Dolní Benešov"
+    },
+    {
+      "id": 94709,
+      "name": "Dolní Lhota"
+    },
+    {
+      "id": 94710,
+      "name": "Dolní Lutyně"
+    },
+    {
+      "id": 94711,
+      "name": "Dolní Životice"
+    },
+    {
+      "id": 94712,
+      "name": "Doubrava"
+    },
+    {
+      "id": 94713,
+      "name": "Dvorce"
+    },
+    {
+      "id": 94714,
+      "name": "Frenštát pod Radhoštěm"
+    },
+    {
+      "id": 94715,
+      "name": "Fryčovice"
+    },
+    {
+      "id": 94716,
+      "name": "Frýdek-Místek"
+    },
+    {
+      "id": 94717,
+      "name": "Frýdlant nad Ostravicí"
+    },
+    {
+      "id": 94718,
+      "name": "Fulnek"
+    },
+    {
+      "id": 94719,
+      "name": "Háj ve Slezsku"
+    },
+    {
+      "id": 94720,
+      "name": "Hať"
+    },
+    {
+      "id": 94721,
+      "name": "Havířov"
+    },
+    {
+      "id": 94722,
+      "name": "Hlučín"
+    },
+    {
+      "id": 94723,
+      "name": "Hněvošice"
+    },
+    {
+      "id": 94724,
+      "name": "Hnojník"
+    },
+    {
+      "id": 94725,
+      "name": "Hodslavice"
+    },
+    {
+      "id": 94726,
+      "name": "Holasovice"
+    },
+    {
+      "id": 94727,
+      "name": "Horní Benešov"
+    },
+    {
+      "id": 94728,
+      "name": "Horní Bludovice"
+    },
+    {
+      "id": 94729,
+      "name": "Horní Město"
+    },
+    {
+      "id": 94730,
+      "name": "Horní Suchá"
+    },
+    {
+      "id": 94731,
+      "name": "Horní Těrlicko"
+    },
+    {
+      "id": 94732,
+      "name": "Hrabyně"
+    },
+    {
+      "id": 94733,
+      "name": "Hradec nad Moravici"
+    },
+    {
+      "id": 94734,
+      "name": "Hrádek"
+    },
+    {
+      "id": 94735,
+      "name": "Hukvaldy"
+    },
+    {
+      "id": 94736,
+      "name": "Jablunkov"
+    },
+    {
+      "id": 94737,
+      "name": "Jakartovice"
+    },
+    {
+      "id": 94738,
+      "name": "Janovice"
+    },
+    {
+      "id": 94739,
+      "name": "Jeseník nad Odrou"
+    },
+    {
+      "id": 94740,
+      "name": "Jindřichov"
+    },
+    {
+      "id": 94741,
+      "name": "Jistebník"
+    },
+    {
+      "id": 94742,
+      "name": "Karlovice"
+    },
+    {
+      "id": 94743,
+      "name": "Karviná"
+    },
+    {
+      "id": 94744,
+      "name": "Klimkovice"
+    },
+    {
+      "id": 94745,
+      "name": "Kobeřice"
+    },
+    {
+      "id": 94746,
+      "name": "Komorní Lhotka"
+    },
+    {
+      "id": 94747,
+      "name": "Kopřivnice"
+    },
+    {
+      "id": 94748,
+      "name": "Kozlovice"
+    },
+    {
+      "id": 94749,
+      "name": "Kozmice"
+    },
+    {
+      "id": 94750,
+      "name": "Kravaře"
+    },
+    {
+      "id": 94751,
+      "name": "Krmelín"
+    },
+    {
+      "id": 94752,
+      "name": "Krnov"
+    },
+    {
+      "id": 94753,
+      "name": "Kunčice pod Ondřejníkem"
+    },
+    {
+      "id": 94754,
+      "name": "Kunín"
+    },
+    {
+      "id": 94755,
+      "name": "Lichnov"
+    },
+    {
+      "id": 94756,
+      "name": "Lichnov (o. Nový Jičín)"
+    },
+    {
+      "id": 94757,
+      "name": "Lučina"
+    },
+    {
+      "id": 94758,
+      "name": "Ludgeřovice"
+    },
+    {
+      "id": 94759,
+      "name": "Markvartovice"
+    },
+    {
+      "id": 94760,
+      "name": "Město Albrechtice"
+    },
+    {
+      "id": 94761,
+      "name": "Metylovice"
+    },
+    {
+      "id": 94762,
+      "name": "Milíkov"
+    },
+    {
+      "id": 94763,
+      "name": "Mokré Lazce"
+    },
+    {
+      "id": 94764,
+      "name": "Morávka"
+    },
+    {
+      "id": 94765,
+      "name": "Mořkov"
+    },
+    {
+      "id": 94766,
+      "name": "Mosty u Jablunkova"
+    },
+    {
+      "id": 94767,
+      "name": "Návsí u Jablunkova"
+    },
+    {
+      "id": 94768,
+      "name": "Nový Jičín"
+    },
+    {
+      "id": 94769,
+      "name": "Nýdek"
+    },
+    {
+      "id": 94770,
+      "name": "Odry"
+    },
+    {
+      "id": 94771,
+      "name": "Okres Bruntál"
+    },
+    {
+      "id": 94772,
+      "name": "Okres Frýdek-Místek"
+    },
+    {
+      "id": 94773,
+      "name": "Okres Karviná"
+    },
+    {
+      "id": 94774,
+      "name": "Okres Nový Jičín"
+    },
+    {
+      "id": 94775,
+      "name": "Okres Opava"
+    },
+    {
+      "id": 94776,
+      "name": "Okres Ostrava-město"
+    },
+    {
+      "id": 94777,
+      "name": "Oldřišov"
+    },
+    {
+      "id": 94778,
+      "name": "Opava"
+    },
+    {
+      "id": 94779,
+      "name": "Orlová"
+    },
+    {
+      "id": 94780,
+      "name": "Osoblaha"
+    },
+    {
+      "id": 94781,
+      "name": "Ostrava"
+    },
+    {
+      "id": 94782,
+      "name": "Ostravice"
+    },
+    {
+      "id": 94783,
+      "name": "Otice"
+    },
+    {
+      "id": 94784,
+      "name": "Palkovice"
+    },
+    {
+      "id": 94785,
+      "name": "Paskov"
+    },
+    {
+      "id": 94786,
+      "name": "Petrovice u Karviné"
+    },
+    {
+      "id": 94787,
+      "name": "Petřvald"
+    },
+    {
+      "id": 94788,
+      "name": "Písek"
+    },
+    {
+      "id": 94789,
+      "name": "Píšť"
+    },
+    {
+      "id": 94790,
+      "name": "Pražmo"
+    },
+    {
+      "id": 94791,
+      "name": "Příbor"
+    },
+    {
+      "id": 94792,
+      "name": "Pustá Polom"
+    },
+    {
+      "id": 94793,
+      "name": "Raškovice"
+    },
+    {
+      "id": 94794,
+      "name": "Řepiště"
+    },
+    {
+      "id": 94795,
+      "name": "Ropice"
+    },
+    {
+      "id": 94796,
+      "name": "Rybí"
+    },
+    {
+      "id": 94797,
+      "name": "Rychvald"
+    },
+    {
+      "id": 94798,
+      "name": "Rýmařov"
+    },
+    {
+      "id": 94799,
+      "name": "Sedliště"
+    },
+    {
+      "id": 94800,
+      "name": "Sedlnice"
+    },
+    {
+      "id": 94801,
+      "name": "Šenov"
+    },
+    {
+      "id": 94802,
+      "name": "Šilheřovice"
+    },
+    {
+      "id": 94803,
+      "name": "Slavkov"
+    },
+    {
+      "id": 94804,
+      "name": "Stará Ves nad Ondřejnicí"
+    },
+    {
+      "id": 94805,
+      "name": "Staré Město"
+    },
+    {
+      "id": 94806,
+      "name": "Staříč"
+    },
+    {
+      "id": 94807,
+      "name": "Starý Bohumín"
+    },
+    {
+      "id": 94808,
+      "name": "Starý Jičín"
+    },
+    {
+      "id": 94809,
+      "name": "Stěbořice"
+    },
+    {
+      "id": 94810,
+      "name": "Štěpánkovice"
+    },
+    {
+      "id": 94811,
+      "name": "Štítina"
+    },
+    {
+      "id": 94812,
+      "name": "Stonava"
+    },
+    {
+      "id": 94813,
+      "name": "Štramberk"
+    },
+    {
+      "id": 94814,
+      "name": "Studénka"
+    },
+    {
+      "id": 94815,
+      "name": "Sviadnov"
+    },
+    {
+      "id": 94816,
+      "name": "Tichá"
+    },
+    {
+      "id": 94817,
+      "name": "Třinec"
+    },
+    {
+      "id": 94818,
+      "name": "Trojanovice"
+    },
+    {
+      "id": 94819,
+      "name": "Václavovice"
+    },
+    {
+      "id": 94820,
+      "name": "Velká Polom"
+    },
+    {
+      "id": 94821,
+      "name": "Velké Heraltice"
+    },
+    {
+      "id": 94822,
+      "name": "Velké Hoštice"
+    },
+    {
+      "id": 94823,
+      "name": "Vendryně"
+    },
+    {
+      "id": 94824,
+      "name": "Veřovice"
+    },
+    {
+      "id": 94825,
+      "name": "Vítkov"
+    },
+    {
+      "id": 94826,
+      "name": "Vlčnov"
+    },
+    {
+      "id": 94827,
+      "name": "Vratimov"
+    },
+    {
+      "id": 94828,
+      "name": "Vrbice"
+    },
+    {
+      "id": 94829,
+      "name": "Vrbno pod Pradědem"
+    },
+    {
+      "id": 94830,
+      "name": "Vřesina"
+    },
+    {
+      "id": 94831,
+      "name": "Zátor"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "id": 4371,
+  "name": "Basilicata",
+  "state_code": "77",
+  "cities": [
+    {
+      "id": 125354,
+      "name": "Abriola"
+    },
+    {
+      "id": 125355,
+      "name": "Accettura"
+    },
+    {
+      "id": 125356,
+      "name": "Acerenza"
+    },
+    {
+      "id": 125357,
+      "name": "Albano di Lucania"
+    },
+    {
+      "id": 125358,
+      "name": "Aliano"
+    },
+    {
+      "id": 125359,
+      "name": "Anzi"
+    },
+    {
+      "id": 125360,
+      "name": "Armento"
+    },
+    {
+      "id": 125361,
+      "name": "Atella"
+    },
+    {
+      "id": 125362,
+      "name": "Avigliano"
+    },
+    {
+      "id": 125363,
+      "name": "Balvano"
+    },
+    {
+      "id": 125364,
+      "name": "Banzi"
+    },
+    {
+      "id": 125365,
+      "name": "Baragiano"
+    },
+    {
+      "id": 125366,
+      "name": "Barile"
+    },
+    {
+      "id": 125367,
+      "name": "Bella"
+    },
+    {
+      "id": 125368,
+      "name": "Bernalda"
+    },
+    {
+      "id": 125369,
+      "name": "Brienza"
+    },
+    {
+      "id": 125370,
+      "name": "Brindisi Montagna"
+    },
+    {
+      "id": 125371,
+      "name": "Calciano"
+    },
+    {
+      "id": 125372,
+      "name": "Calvello"
+    },
+    {
+      "id": 125373,
+      "name": "Calvera"
+    },
+    {
+      "id": 125374,
+      "name": "Campomaggiore"
+    },
+    {
+      "id": 125375,
+      "name": "Cancellara"
+    },
+    {
+      "id": 125376,
+      "name": "Carbone"
+    },
+    {
+      "id": 125377,
+      "name": "Castelgrande"
+    },
+    {
+      "id": 125378,
+      "name": "Castelluccio Inferiore"
+    },
+    {
+      "id": 125379,
+      "name": "Castelluccio Superiore"
+    },
+    {
+      "id": 125380,
+      "name": "Castelmezzano"
+    },
+    {
+      "id": 125381,
+      "name": "Castelsaraceno"
+    },
+    {
+      "id": 125382,
+      "name": "Castronuovo di Sant'Andrea"
+    },
+    {
+      "id": 125383,
+      "name": "Cersosimo"
+    },
+    {
+      "id": 125384,
+      "name": "Chiaromonte"
+    },
+    {
+      "id": 125385,
+      "name": "Cirigliano"
+    },
+    {
+      "id": 125386,
+      "name": "Colobraro"
+    },
+    {
+      "id": 125387,
+      "name": "Corleto Perticara"
+    },
+    {
+      "id": 125388,
+      "name": "Craco-Sant'Angelo"
+    },
+    {
+      "id": 125389,
+      "name": "Episcopia"
+    },
+    {
+      "id": 125390,
+      "name": "Fardella"
+    },
+    {
+      "id": 125391,
+      "name": "Ferrandina"
+    },
+    {
+      "id": 125392,
+      "name": "Filiano"
+    },
+    {
+      "id": 125393,
+      "name": "Forenza"
+    },
+    {
+      "id": 125394,
+      "name": "Francavilla in Sinni"
+    },
+    {
+      "id": 125395,
+      "name": "Gallicchio"
+    },
+    {
+      "id": 125396,
+      "name": "Garaguso"
+    },
+    {
+      "id": 125397,
+      "name": "Genzano di Lucania"
+    },
+    {
+      "id": 125398,
+      "name": "Ginestra"
+    },
+    {
+      "id": 125399,
+      "name": "Gorgoglione"
+    },
+    {
+      "id": 125400,
+      "name": "Grassano"
+    },
+    {
+      "id": 125401,
+      "name": "Grottole"
+    },
+    {
+      "id": 125402,
+      "name": "Grumento Nova"
+    },
+    {
+      "id": 125403,
+      "name": "Guardia Perticara"
+    },
+    {
+      "id": 125404,
+      "name": "Irsina"
+    },
+    {
+      "id": 125405,
+      "name": "La Martella"
+    },
+    {
+      "id": 125406,
+      "name": "Lagonegro"
+    },
+    {
+      "id": 125407,
+      "name": "Latronico"
+    },
+    {
+      "id": 125408,
+      "name": "Laurenzana"
+    },
+    {
+      "id": 125409,
+      "name": "Lauria"
+    },
+    {
+      "id": 125410,
+      "name": "Lavello"
+    },
+    {
+      "id": 125411,
+      "name": "Lido"
+    },
+    {
+      "id": 125412,
+      "name": "Maratea"
+    },
+    {
+      "id": 125413,
+      "name": "Marconia"
+    },
+    {
+      "id": 125414,
+      "name": "Marsico Nuovo"
+    },
+    {
+      "id": 125415,
+      "name": "Marsicovetere"
+    },
+    {
+      "id": 125416,
+      "name": "Maschito"
+    },
+    {
+      "id": 125417,
+      "name": "Matera"
+    },
+    {
+      "id": 125418,
+      "name": "Melfi"
+    },
+    {
+      "id": 125419,
+      "name": "Miglionico"
+    },
+    {
+      "id": 125420,
+      "name": "Missanello"
+    },
+    {
+      "id": 125421,
+      "name": "Moliterno"
+    },
+    {
+      "id": 125422,
+      "name": "Montalbano Jonico"
+    },
+    {
+      "id": 125423,
+      "name": "Montemilone"
+    },
+    {
+      "id": 125424,
+      "name": "Montemurro"
+    },
+    {
+      "id": 125425,
+      "name": "Montescaglioso"
+    },
+    {
+      "id": 125426,
+      "name": "Muro Lucano"
+    },
+    {
+      "id": 125427,
+      "name": "Nemoli"
+    },
+    {
+      "id": 125428,
+      "name": "Noepoli"
+    },
+    {
+      "id": 125429,
+      "name": "Nova Siri"
+    },
+    {
+      "id": 125430,
+      "name": "Nova Siri Scalo"
+    },
+    {
+      "id": 125431,
+      "name": "Oliveto Lucano"
+    },
+    {
+      "id": 125432,
+      "name": "Oppido Lucano"
+    },
+    {
+      "id": 125433,
+      "name": "Palazzo San Gervasio"
+    },
+    {
+      "id": 125434,
+      "name": "Paterno"
+    },
+    {
+      "id": 125435,
+      "name": "Pescopagano"
+    },
+    {
+      "id": 125436,
+      "name": "Picerno"
+    },
+    {
+      "id": 125437,
+      "name": "Pietragalla"
+    },
+    {
+      "id": 125438,
+      "name": "Pietrapertosa"
+    },
+    {
+      "id": 125439,
+      "name": "Pignola"
+    },
+    {
+      "id": 125440,
+      "name": "Pisticci"
+    },
+    {
+      "id": 125441,
+      "name": "Policoro"
+    },
+    {
+      "id": 125442,
+      "name": "Pomarico"
+    },
+    {
+      "id": 125443,
+      "name": "Potenza"
+    },
+    {
+      "id": 125444,
+      "name": "Provincia di Matera"
+    },
+    {
+      "id": 125445,
+      "name": "Provincia di Potenza"
+    },
+    {
+      "id": 125446,
+      "name": "Rapolla"
+    },
+    {
+      "id": 125447,
+      "name": "Rapone"
+    },
+    {
+      "id": 125448,
+      "name": "Rionero in Vulture"
+    },
+    {
+      "id": 125449,
+      "name": "Ripacandida"
+    },
+    {
+      "id": 125450,
+      "name": "Rivello"
+    },
+    {
+      "id": 125451,
+      "name": "Roccanova"
+    },
+    {
+      "id": 125452,
+      "name": "Rotonda"
+    },
+    {
+      "id": 125453,
+      "name": "Rotondella"
+    },
+    {
+      "id": 125454,
+      "name": "Ruoti"
+    },
+    {
+      "id": 125455,
+      "name": "Ruvo del Monte"
+    },
+    {
+      "id": 125456,
+      "name": "Salandra"
+    },
+    {
+      "id": 125457,
+      "name": "San Brancato"
+    },
+    {
+      "id": 125458,
+      "name": "San Chirico Nuovo"
+    },
+    {
+      "id": 125459,
+      "name": "San Chirico Raparo"
+    },
+    {
+      "id": 125460,
+      "name": "San Costantino Albanese"
+    },
+    {
+      "id": 125461,
+      "name": "San Fele"
+    },
+    {
+      "id": 125462,
+      "name": "San Giorgio Lucano"
+    },
+    {
+      "id": 125463,
+      "name": "San Martino d'Agri"
+    },
+    {
+      "id": 125464,
+      "name": "San Mauro Forte"
+    },
+    {
+      "id": 125465,
+      "name": "San Paolo Albanese"
+    },
+    {
+      "id": 125466,
+      "name": "San Severino Lucano"
+    },
+    {
+      "id": 125467,
+      "name": "Sant'Angelo le Fratte"
+    },
+    {
+      "id": 125468,
+      "name": "Sant'Arcangelo"
+    },
+    {
+      "id": 125469,
+      "name": "Sarconi"
+    },
+    {
+      "id": 125470,
+      "name": "Sasso di Castalda"
+    },
+    {
+      "id": 125471,
+      "name": "Satriano di Lucania"
+    },
+    {
+      "id": 125472,
+      "name": "Savoia di Lucania"
+    },
+    {
+      "id": 125473,
+      "name": "Scalo di Baragiano"
+    },
+    {
+      "id": 125474,
+      "name": "Scanzano Jonico"
+    },
+    {
+      "id": 125475,
+      "name": "Senise"
+    },
+    {
+      "id": 125476,
+      "name": "Spinoso"
+    },
+    {
+      "id": 125477,
+      "name": "Stigliano"
+    },
+    {
+      "id": 125478,
+      "name": "Teana"
+    },
+    {
+      "id": 125479,
+      "name": "Terranova di Pollino"
+    },
+    {
+      "id": 125480,
+      "name": "Tito"
+    },
+    {
+      "id": 125481,
+      "name": "Tolve"
+    },
+    {
+      "id": 125482,
+      "name": "Tramutola"
+    },
+    {
+      "id": 125483,
+      "name": "Trecchina"
+    },
+    {
+      "id": 125484,
+      "name": "Tricarico"
+    },
+    {
+      "id": 125485,
+      "name": "Trivigno"
+    },
+    {
+      "id": 125486,
+      "name": "Tursi"
+    },
+    {
+      "id": 125487,
+      "name": "Vaglio Basilicata"
+    },
+    {
+      "id": 125488,
+      "name": "Valsinni"
+    },
+    {
+      "id": 125489,
+      "name": "Venosa"
+    },
+    {
+      "id": 125490,
+      "name": "Vietri di Potenza"
+    },
+    {
+      "id": 125491,
+      "name": "Viggianello"
+    },
+    {
+      "id": 125492,
+      "name": "Viggiano"
+    },
+    {
+      "id": 125493,
+      "name": "Villa d'Agri"
+    },
+    {
+      "id": 125494,
+      "name": "Zona 179"
+    }
+  ]
+}

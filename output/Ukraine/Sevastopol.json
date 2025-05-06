@@ -1,0 +1,595 @@
+{
+  "id": 7165,
+  "name": "Sevastopol",
+  "state_code": "40",
+  "cities": [
+    {
+      "id": 197295,
+      "name": "Afanas’yeva"
+    },
+    {
+      "id": 197296,
+      "name": "Alarskiy Rayon"
+    },
+    {
+      "id": 197297,
+      "name": "Alekseyevskaya"
+    },
+    {
+      "id": 197298,
+      "name": "Algatuy"
+    },
+    {
+      "id": 197299,
+      "name": "Alzamay"
+    },
+    {
+      "id": 197300,
+      "name": "Andreyevka"
+    },
+    {
+      "id": 197301,
+      "name": "Angarsk"
+    },
+    {
+      "id": 197302,
+      "name": "Angarskiy Rayon"
+    },
+    {
+      "id": 197303,
+      "name": "Atagay"
+    },
+    {
+      "id": 197304,
+      "name": "Badar"
+    },
+    {
+      "id": 197305,
+      "name": "Baklashi"
+    },
+    {
+      "id": 197306,
+      "name": "Balagansk"
+    },
+    {
+      "id": 197307,
+      "name": "Balaganskiy Rayon"
+    },
+    {
+      "id": 197308,
+      "name": "Balakhninskiy"
+    },
+    {
+      "id": 197309,
+      "name": "Balaklava"
+    },
+    {
+      "id": 197310,
+      "name": "Balaklava District"
+    },
+    {
+      "id": 197311,
+      "name": "Bayanday"
+    },
+    {
+      "id": 197312,
+      "name": "Bayandayevskiy Rayon"
+    },
+    {
+      "id": 197313,
+      "name": "Baykal’sk"
+    },
+    {
+      "id": 197314,
+      "name": "Bereznyaki"
+    },
+    {
+      "id": 197315,
+      "name": "Biryusinsk"
+    },
+    {
+      "id": 197316,
+      "name": "Bodaybo"
+    },
+    {
+      "id": 197317,
+      "name": "Bokhan"
+    },
+    {
+      "id": 197318,
+      "name": "Bokhanskiy Rayon"
+    },
+    {
+      "id": 197319,
+      "name": "Bol’shaya Rechka"
+    },
+    {
+      "id": 197320,
+      "name": "Bratsk"
+    },
+    {
+      "id": 197321,
+      "name": "Bratskiy Rayon"
+    },
+    {
+      "id": 197322,
+      "name": "Budagovo"
+    },
+    {
+      "id": 197323,
+      "name": "Cheremkhovo"
+    },
+    {
+      "id": 197324,
+      "name": "Cheremkhovskiy Rayon"
+    },
+    {
+      "id": 197325,
+      "name": "Chunskiy"
+    },
+    {
+      "id": 197326,
+      "name": "Dzerzhinsk"
+    },
+    {
+      "id": 197327,
+      "name": "Ekhirit-Bulagatskiy Rayon"
+    },
+    {
+      "id": 197328,
+      "name": "Frontovoye"
+    },
+    {
+      "id": 197329,
+      "name": "Gadaley"
+    },
+    {
+      "id": 197330,
+      "name": "Guran"
+    },
+    {
+      "id": 197331,
+      "name": "Haharinskyi District"
+    },
+    {
+      "id": 197332,
+      "name": "Ikey"
+    },
+    {
+      "id": 197333,
+      "name": "Ilir"
+    },
+    {
+      "id": 197334,
+      "name": "Inkerman"
+    },
+    {
+      "id": 197335,
+      "name": "Irkutsk"
+    },
+    {
+      "id": 197336,
+      "name": "Irkutskiy Rayon"
+    },
+    {
+      "id": 197337,
+      "name": "Kacha"
+    },
+    {
+      "id": 197338,
+      "name": "Kachug"
+    },
+    {
+      "id": 197339,
+      "name": "Kachugskiy Rayon"
+    },
+    {
+      "id": 197340,
+      "name": "Katangskiy Rayon"
+    },
+    {
+      "id": 197341,
+      "name": "Kazachinsko-Lenskiy Rayon"
+    },
+    {
+      "id": 197342,
+      "name": "Kazachinskoye"
+    },
+    {
+      "id": 197343,
+      "name": "Khomutovo"
+    },
+    {
+      "id": 197344,
+      "name": "Khrebtovaya"
+    },
+    {
+      "id": 197345,
+      "name": "Khudoyelanskoye"
+    },
+    {
+      "id": 197346,
+      "name": "Khuzhir"
+    },
+    {
+      "id": 197347,
+      "name": "Kimil’tey"
+    },
+    {
+      "id": 197348,
+      "name": "Kirensk"
+    },
+    {
+      "id": 197349,
+      "name": "Kirenskiy Rayon"
+    },
+    {
+      "id": 197350,
+      "name": "Kitoy"
+    },
+    {
+      "id": 197351,
+      "name": "Kotik"
+    },
+    {
+      "id": 197352,
+      "name": "Kropotkin"
+    },
+    {
+      "id": 197353,
+      "name": "Kultuk"
+    },
+    {
+      "id": 197354,
+      "name": "Kutulik"
+    },
+    {
+      "id": 197355,
+      "name": "Kuytun"
+    },
+    {
+      "id": 197356,
+      "name": "Kuytunskiy Rayon"
+    },
+    {
+      "id": 197357,
+      "name": "Kvitok"
+    },
+    {
+      "id": 197358,
+      "name": "Lenin District"
+    },
+    {
+      "id": 197359,
+      "name": "Lesogorsk"
+    },
+    {
+      "id": 197360,
+      "name": "Listvyanka"
+    },
+    {
+      "id": 197361,
+      "name": "Magistral’nyy"
+    },
+    {
+      "id": 197362,
+      "name": "Mama"
+    },
+    {
+      "id": 197363,
+      "name": "Mamakan"
+    },
+    {
+      "id": 197364,
+      "name": "Mamsko-Chuyskiy Rayon"
+    },
+    {
+      "id": 197365,
+      "name": "Manzurka"
+    },
+    {
+      "id": 197366,
+      "name": "Markova"
+    },
+    {
+      "id": 197367,
+      "name": "Markovo"
+    },
+    {
+      "id": 197368,
+      "name": "Meget"
+    },
+    {
+      "id": 197369,
+      "name": "Mishelevka"
+    },
+    {
+      "id": 197370,
+      "name": "Mugun"
+    },
+    {
+      "id": 197371,
+      "name": "Nakhimovskiy rayon"
+    },
+    {
+      "id": 197372,
+      "name": "Nizhneilimskiy Rayon"
+    },
+    {
+      "id": 197373,
+      "name": "Nizhneudinsk"
+    },
+    {
+      "id": 197374,
+      "name": "Nizhneudinskiy Rayon"
+    },
+    {
+      "id": 197375,
+      "name": "Novaya Igirma"
+    },
+    {
+      "id": 197376,
+      "name": "Novobiryusinskiy"
+    },
+    {
+      "id": 197377,
+      "name": "Novonukutskiy"
+    },
+    {
+      "id": 197378,
+      "name": "Ol’khonskiy Rayon"
+    },
+    {
+      "id": 197379,
+      "name": "Orlinoye"
+    },
+    {
+      "id": 197380,
+      "name": "Osa"
+    },
+    {
+      "id": 197381,
+      "name": "Oyëk"
+    },
+    {
+      "id": 197382,
+      "name": "Pad’ Mel’nichnaya"
+    },
+    {
+      "id": 197383,
+      "name": "Perfilovo"
+    },
+    {
+      "id": 197384,
+      "name": "Pivovarikha"
+    },
+    {
+      "id": 197385,
+      "name": "Pokosnoye"
+    },
+    {
+      "id": 197386,
+      "name": "Polyushko"
+    },
+    {
+      "id": 197387,
+      "name": "Rudnogorsk"
+    },
+    {
+      "id": 197388,
+      "name": "Sakharnaya Golovka"
+    },
+    {
+      "id": 197389,
+      "name": "Sayansk"
+    },
+    {
+      "id": 197390,
+      "name": "Sevastopol"
+    },
+    {
+      "id": 197391,
+      "name": "Shamanka"
+    },
+    {
+      "id": 197392,
+      "name": "Sheberta"
+    },
+    {
+      "id": 197393,
+      "name": "Shelekhov"
+    },
+    {
+      "id": 197394,
+      "name": "Sheragul"
+    },
+    {
+      "id": 197395,
+      "name": "Shestakovo"
+    },
+    {
+      "id": 197396,
+      "name": "Shitkino"
+    },
+    {
+      "id": 197397,
+      "name": "Shturmovoye"
+    },
+    {
+      "id": 197398,
+      "name": "Shumskiy"
+    },
+    {
+      "id": 197399,
+      "name": "Slyudyanka"
+    },
+    {
+      "id": 197400,
+      "name": "Slyudyanskiy Rayon"
+    },
+    {
+      "id": 197401,
+      "name": "Smolenshchina"
+    },
+    {
+      "id": 197402,
+      "name": "Solnechniy"
+    },
+    {
+      "id": 197403,
+      "name": "Sredniy"
+    },
+    {
+      "id": 197404,
+      "name": "Svirsk"
+    },
+    {
+      "id": 197405,
+      "name": "Tayshet"
+    },
+    {
+      "id": 197406,
+      "name": "Tayshetskiy Rayon"
+    },
+    {
+      "id": 197407,
+      "name": "Tayturka"
+    },
+    {
+      "id": 197408,
+      "name": "Tel’ma"
+    },
+    {
+      "id": 197409,
+      "name": "Ternovka"
+    },
+    {
+      "id": 197410,
+      "name": "Tulun"
+    },
+    {
+      "id": 197411,
+      "name": "Tulunskiy Rayon"
+    },
+    {
+      "id": 197412,
+      "name": "Tulyushka"
+    },
+    {
+      "id": 197413,
+      "name": "Tyret’ Pervaya"
+    },
+    {
+      "id": 197414,
+      "name": "Uk"
+    },
+    {
+      "id": 197415,
+      "name": "Urik"
+    },
+    {
+      "id": 197416,
+      "name": "Usol’skiy Rayon"
+    },
+    {
+      "id": 197417,
+      "name": "Usol’ye-Sibirskoye"
+    },
+    {
+      "id": 197418,
+      "name": "Ust’-Ilimsk"
+    },
+    {
+      "id": 197419,
+      "name": "Ust’-Kut"
+    },
+    {
+      "id": 197420,
+      "name": "Ust’-Kutskiy Rayon"
+    },
+    {
+      "id": 197421,
+      "name": "Ust’-Ordynskiy"
+    },
+    {
+      "id": 197422,
+      "name": "Ust’-Uda"
+    },
+    {
+      "id": 197423,
+      "name": "Ust’-Udinskiy Rayon"
+    },
+    {
+      "id": 197424,
+      "name": "Verkhnesadovoye"
+    },
+    {
+      "id": 197425,
+      "name": "Vidim"
+    },
+    {
+      "id": 197426,
+      "name": "Vikhorevka"
+    },
+    {
+      "id": 197427,
+      "name": "Voznesenskiy"
+    },
+    {
+      "id": 197428,
+      "name": "Yantal’"
+    },
+    {
+      "id": 197429,
+      "name": "Yedogon"
+    },
+    {
+      "id": 197430,
+      "name": "Yelantsy"
+    },
+    {
+      "id": 197431,
+      "name": "Yerbogachen"
+    },
+    {
+      "id": 197432,
+      "name": "Yurty"
+    },
+    {
+      "id": 197433,
+      "name": "Zalari"
+    },
+    {
+      "id": 197434,
+      "name": "Zalarinskiy Rayon"
+    },
+    {
+      "id": 197435,
+      "name": "Zheleznodorozhnyy"
+    },
+    {
+      "id": 197436,
+      "name": "Zheleznogorsk-Ilimskiy"
+    },
+    {
+      "id": 197437,
+      "name": "Zhigalovo"
+    },
+    {
+      "id": 197438,
+      "name": "Zhigalovskiy Rayon"
+    },
+    {
+      "id": 197439,
+      "name": "Zima"
+    },
+    {
+      "id": 197440,
+      "name": "Ziminskiy Rayon"
+    },
+    {
+      "id": 197441,
+      "name": "Zvëzdnyy"
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "id": 7435,
+  "name": "Connecticut",
+  "state_code": "CT",
+  "cities": [
+    {
+      "id": 204100,
+      "name": "Ansonia"
+    },
+    {
+      "id": 204101,
+      "name": "Baltic"
+    },
+    {
+      "id": 204102,
+      "name": "Berlin"
+    },
+    {
+      "id": 204103,
+      "name": "Bethel"
+    },
+    {
+      "id": 204104,
+      "name": "Bethlehem Village"
+    },
+    {
+      "id": 204105,
+      "name": "Blue Hills"
+    },
+    {
+      "id": 204106,
+      "name": "Branford"
+    },
+    {
+      "id": 204107,
+      "name": "Branford Center"
+    },
+    {
+      "id": 204108,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 204109,
+      "name": "Bristol"
+    },
+    {
+      "id": 204110,
+      "name": "Byram"
+    },
+    {
+      "id": 204111,
+      "name": "Canaan"
+    },
+    {
+      "id": 204112,
+      "name": "Canton Valley"
+    },
+    {
+      "id": 204113,
+      "name": "Central Waterford"
+    },
+    {
+      "id": 204114,
+      "name": "Cheshire"
+    },
+    {
+      "id": 204115,
+      "name": "Cheshire Village"
+    },
+    {
+      "id": 204116,
+      "name": "Chester Center"
+    },
+    {
+      "id": 204117,
+      "name": "City of Milford (balance)"
+    },
+    {
+      "id": 204118,
+      "name": "Clinton"
+    },
+    {
+      "id": 204119,
+      "name": "Colchester"
+    },
+    {
+      "id": 204120,
+      "name": "Collinsville"
+    },
+    {
+      "id": 204121,
+      "name": "Conning Towers-Nautilus Park"
+    },
+    {
+      "id": 204122,
+      "name": "Cos Cob"
+    },
+    {
+      "id": 204123,
+      "name": "Coventry Lake"
+    },
+    {
+      "id": 204124,
+      "name": "Cromwell"
+    },
+    {
+      "id": 204125,
+      "name": "Crystal Lake"
+    },
+    {
+      "id": 204126,
+      "name": "Danbury"
+    },
+    {
+      "id": 204127,
+      "name": "Danielson"
+    },
+    {
+      "id": 204128,
+      "name": "Darien"
+    },
+    {
+      "id": 204129,
+      "name": "Deep River Center"
+    },
+    {
+      "id": 204130,
+      "name": "Derby"
+    },
+    {
+      "id": 204131,
+      "name": "Durham"
+    },
+    {
+      "id": 204132,
+      "name": "East Brooklyn"
+    },
+    {
+      "id": 204133,
+      "name": "East Haddam"
+    },
+    {
+      "id": 204134,
+      "name": "East Hampton"
+    },
+    {
+      "id": 204135,
+      "name": "East Hartford"
+    },
+    {
+      "id": 204136,
+      "name": "East Haven"
+    },
+    {
+      "id": 204137,
+      "name": "East Norwalk"
+    },
+    {
+      "id": 204138,
+      "name": "East Windsor"
+    },
+    {
+      "id": 204139,
+      "name": "Easton"
+    },
+    {
+      "id": 204140,
+      "name": "Ellington"
+    },
+    {
+      "id": 204141,
+      "name": "Enfield"
+    },
+    {
+      "id": 204142,
+      "name": "Essex Village"
+    },
+    {
+      "id": 204143,
+      "name": "Fairfield"
+    },
+    {
+      "id": 204144,
+      "name": "Fairfield County"
+    },
+    {
+      "id": 204145,
+      "name": "Farmington"
+    },
+    {
+      "id": 204146,
+      "name": "Gales Ferry"
+    },
+    {
+      "id": 204147,
+      "name": "Georgetown"
+    },
+    {
+      "id": 204148,
+      "name": "Glastonbury"
+    },
+    {
+      "id": 204149,
+      "name": "Glastonbury Center"
+    },
+    {
+      "id": 204150,
+      "name": "Glenville"
+    },
+    {
+      "id": 204151,
+      "name": "Greenwich"
+    },
+    {
+      "id": 204152,
+      "name": "Groton"
+    },
+    {
+      "id": 204153,
+      "name": "Guilford"
+    },
+    {
+      "id": 204154,
+      "name": "Guilford Center"
+    },
+    {
+      "id": 204155,
+      "name": "Hamden"
+    },
+    {
+      "id": 204156,
+      "name": "Hartford"
+    },
+    {
+      "id": 204157,
+      "name": "Hartford County"
+    },
+    {
+      "id": 204158,
+      "name": "Hazardville"
+    },
+    {
+      "id": 204159,
+      "name": "Hebron"
+    },
+    {
+      "id": 204160,
+      "name": "Heritage Village"
+    },
+    {
+      "id": 204161,
+      "name": "Higganum"
+    },
+    {
+      "id": 204162,
+      "name": "Jewett City"
+    },
+    {
+      "id": 204163,
+      "name": "Kensington"
+    },
+    {
+      "id": 204164,
+      "name": "Kent"
+    },
+    {
+      "id": 204165,
+      "name": "Killingly Center"
+    },
+    {
+      "id": 204166,
+      "name": "Lake Pocotopaug"
+    },
+    {
+      "id": 204167,
+      "name": "Ledyard"
+    },
+    {
+      "id": 204168,
+      "name": "Lisbon"
+    },
+    {
+      "id": 204169,
+      "name": "Litchfield"
+    },
+    {
+      "id": 204170,
+      "name": "Litchfield County"
+    },
+    {
+      "id": 204171,
+      "name": "Long Hill"
+    },
+    {
+      "id": 204172,
+      "name": "Madison"
+    },
+    {
+      "id": 204173,
+      "name": "Madison Center"
+    },
+    {
+      "id": 204174,
+      "name": "Manchester"
+    },
+    {
+      "id": 204175,
+      "name": "Mansfield City"
+    },
+    {
+      "id": 204176,
+      "name": "Meriden"
+    },
+    {
+      "id": 204177,
+      "name": "Middlebury"
+    },
+    {
+      "id": 204178,
+      "name": "Middlesex County"
+    },
+    {
+      "id": 204179,
+      "name": "Middletown"
+    },
+    {
+      "id": 204180,
+      "name": "Milford"
+    },
+    {
+      "id": 204181,
+      "name": "Montville Center"
+    },
+    {
+      "id": 204182,
+      "name": "Moodus"
+    },
+    {
+      "id": 204183,
+      "name": "Moosup"
+    },
+    {
+      "id": 204184,
+      "name": "Mystic"
+    },
+    {
+      "id": 204185,
+      "name": "Naugatuck"
+    },
+    {
+      "id": 204186,
+      "name": "New Britain"
+    },
+    {
+      "id": 204187,
+      "name": "New Canaan"
+    },
+    {
+      "id": 204188,
+      "name": "New Fairfield"
+    },
+    {
+      "id": 204189,
+      "name": "New Hartford Center"
+    },
+    {
+      "id": 204190,
+      "name": "New Haven"
+    },
+    {
+      "id": 204191,
+      "name": "New Haven County"
+    },
+    {
+      "id": 204192,
+      "name": "New London"
+    },
+    {
+      "id": 204193,
+      "name": "New London County"
+    },
+    {
+      "id": 204194,
+      "name": "New Milford"
+    },
+    {
+      "id": 204195,
+      "name": "New Preston"
+    },
+    {
+      "id": 204196,
+      "name": "Newington"
+    },
+    {
+      "id": 204197,
+      "name": "Newtown"
+    },
+    {
+      "id": 204198,
+      "name": "Niantic"
+    },
+    {
+      "id": 204199,
+      "name": "Noank"
+    },
+    {
+      "id": 204200,
+      "name": "North Branford"
+    },
+    {
+      "id": 204201,
+      "name": "North Granby"
+    },
+    {
+      "id": 204202,
+      "name": "North Grosvenor Dale"
+    },
+    {
+      "id": 204203,
+      "name": "North Haven"
+    },
+    {
+      "id": 204204,
+      "name": "North Stamford"
+    },
+    {
+      "id": 204205,
+      "name": "Northwest Harwinton"
+    },
+    {
+      "id": 204206,
+      "name": "Norwalk"
+    },
+    {
+      "id": 204207,
+      "name": "Norwich"
+    },
+    {
+      "id": 204208,
+      "name": "Oakville"
+    },
+    {
+      "id": 204209,
+      "name": "Old Greenwich"
+    },
+    {
+      "id": 204210,
+      "name": "Old Mystic"
+    },
+    {
+      "id": 204211,
+      "name": "Old Saybrook"
+    },
+    {
+      "id": 204212,
+      "name": "Old Saybrook Center"
+    },
+    {
+      "id": 204213,
+      "name": "Orange"
+    },
+    {
+      "id": 204214,
+      "name": "Oxford"
+    },
+    {
+      "id": 204215,
+      "name": "Oxoboxo River"
+    },
+    {
+      "id": 204216,
+      "name": "Pawcatuck"
+    },
+    {
+      "id": 204217,
+      "name": "Pemberwick"
+    },
+    {
+      "id": 204218,
+      "name": "Plainfield"
+    },
+    {
+      "id": 204219,
+      "name": "Plainfield Village"
+    },
+    {
+      "id": 204220,
+      "name": "Plainville"
+    },
+    {
+      "id": 204221,
+      "name": "Plymouth"
+    },
+    {
+      "id": 204222,
+      "name": "Poquonock Bridge"
+    },
+    {
+      "id": 204223,
+      "name": "Portland"
+    },
+    {
+      "id": 204224,
+      "name": "Preston City"
+    },
+    {
+      "id": 204225,
+      "name": "Prospect"
+    },
+    {
+      "id": 204226,
+      "name": "Putnam"
+    },
+    {
+      "id": 204227,
+      "name": "Quinebaug"
+    },
+    {
+      "id": 204228,
+      "name": "Ridgefield"
+    },
+    {
+      "id": 204229,
+      "name": "Riverside"
+    },
+    {
+      "id": 204230,
+      "name": "Rockville"
+    },
+    {
+      "id": 204231,
+      "name": "Salem"
+    },
+    {
+      "id": 204232,
+      "name": "Salmon Brook"
+    },
+    {
+      "id": 204233,
+      "name": "Saybrook Manor"
+    },
+    {
+      "id": 204234,
+      "name": "Seymour"
+    },
+    {
+      "id": 204235,
+      "name": "Shelton"
+    },
+    {
+      "id": 204236,
+      "name": "Sherman"
+    },
+    {
+      "id": 204237,
+      "name": "Sherwood Manor"
+    },
+    {
+      "id": 204238,
+      "name": "Simsbury Center"
+    },
+    {
+      "id": 204239,
+      "name": "Somers"
+    },
+    {
+      "id": 204240,
+      "name": "South Coventry"
+    },
+    {
+      "id": 204241,
+      "name": "South Windham"
+    },
+    {
+      "id": 204242,
+      "name": "South Windsor"
+    },
+    {
+      "id": 204243,
+      "name": "South Woodstock"
+    },
+    {
+      "id": 204244,
+      "name": "Southbury"
+    },
+    {
+      "id": 204245,
+      "name": "Southport"
+    },
+    {
+      "id": 204246,
+      "name": "Southwood Acres"
+    },
+    {
+      "id": 204247,
+      "name": "Stafford"
+    },
+    {
+      "id": 204248,
+      "name": "Stafford Springs"
+    },
+    {
+      "id": 204249,
+      "name": "Stamford"
+    },
+    {
+      "id": 204250,
+      "name": "Storrs"
+    },
+    {
+      "id": 204251,
+      "name": "Stratford"
+    },
+    {
+      "id": 204252,
+      "name": "Suffield Depot"
+    },
+    {
+      "id": 204253,
+      "name": "Tariffville"
+    },
+    {
+      "id": 204254,
+      "name": "Terramuggus"
+    },
+    {
+      "id": 204255,
+      "name": "Terryville"
+    },
+    {
+      "id": 204256,
+      "name": "Thomaston"
+    },
+    {
+      "id": 204257,
+      "name": "Thompson"
+    },
+    {
+      "id": 204258,
+      "name": "Thompsonville"
+    },
+    {
+      "id": 204259,
+      "name": "Tolland"
+    },
+    {
+      "id": 204260,
+      "name": "Tolland County"
+    },
+    {
+      "id": 204261,
+      "name": "Torrington"
+    },
+    {
+      "id": 204262,
+      "name": "Trumbull"
+    },
+    {
+      "id": 204263,
+      "name": "Uncasville"
+    },
+    {
+      "id": 204264,
+      "name": "Wallingford"
+    },
+    {
+      "id": 204265,
+      "name": "Wallingford Center"
+    },
+    {
+      "id": 204266,
+      "name": "Washington"
+    },
+    {
+      "id": 204267,
+      "name": "Waterbury"
+    },
+    {
+      "id": 204268,
+      "name": "Waterford"
+    },
+    {
+      "id": 204269,
+      "name": "Watertown"
+    },
+    {
+      "id": 204270,
+      "name": "Wauregan"
+    },
+    {
+      "id": 204271,
+      "name": "Weatogue"
+    },
+    {
+      "id": 204272,
+      "name": "West Hartford"
+    },
+    {
+      "id": 204273,
+      "name": "West Haven"
+    },
+    {
+      "id": 204274,
+      "name": "West Simsbury"
+    },
+    {
+      "id": 204275,
+      "name": "West Torrington"
+    },
+    {
+      "id": 204276,
+      "name": "Westbrook Center"
+    },
+    {
+      "id": 204277,
+      "name": "Westport"
+    },
+    {
+      "id": 204278,
+      "name": "Wethersfield"
+    },
+    {
+      "id": 204279,
+      "name": "Willimantic"
+    },
+    {
+      "id": 204280,
+      "name": "Wilton"
+    },
+    {
+      "id": 204281,
+      "name": "Winchester Center"
+    },
+    {
+      "id": 204282,
+      "name": "Windham"
+    },
+    {
+      "id": 204283,
+      "name": "Windham County"
+    },
+    {
+      "id": 204284,
+      "name": "Windsor"
+    },
+    {
+      "id": 204285,
+      "name": "Windsor Locks"
+    },
+    {
+      "id": 204286,
+      "name": "Winsted"
+    },
+    {
+      "id": 204287,
+      "name": "Wolcott"
+    },
+    {
+      "id": 204288,
+      "name": "Woodbridge"
+    },
+    {
+      "id": 204289,
+      "name": "Woodbury"
+    },
+    {
+      "id": 204290,
+      "name": "Woodbury Center"
+    },
+    {
+      "id": 204291,
+      "name": "Woodmont"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "id": 6506,
+  "name": "A Coruña",
+  "state_code": "C",
+  "cities": [
+    {
+      "id": 181557,
+      "name": "Abegondo"
+    },
+    {
+      "id": 181558,
+      "name": "Amés"
+    },
+    {
+      "id": 181559,
+      "name": "Aranga"
+    },
+    {
+      "id": 181560,
+      "name": "Ares"
+    },
+    {
+      "id": 181561,
+      "name": "Arteixo"
+    },
+    {
+      "id": 181562,
+      "name": "Arzúa"
+    },
+    {
+      "id": 181563,
+      "name": "As Pontes de García Rodríguez"
+    },
+    {
+      "id": 181564,
+      "name": "Baña A"
+    },
+    {
+      "id": 181565,
+      "name": "Bergondo"
+    },
+    {
+      "id": 181566,
+      "name": "Betanzos"
+    },
+    {
+      "id": 181567,
+      "name": "Boimorto"
+    },
+    {
+      "id": 181568,
+      "name": "Boiro"
+    },
+    {
+      "id": 181569,
+      "name": "Boqueixón"
+    },
+    {
+      "id": 181570,
+      "name": "Brión"
+    },
+    {
+      "id": 181571,
+      "name": "Cabana de Bergantiños"
+    },
+    {
+      "id": 181572,
+      "name": "Cabanas"
+    },
+    {
+      "id": 181573,
+      "name": "Camariñas"
+    },
+    {
+      "id": 181574,
+      "name": "Cambre"
+    },
+    {
+      "id": 181575,
+      "name": "Capela A"
+    },
+    {
+      "id": 181576,
+      "name": "Carballo"
+    },
+    {
+      "id": 181577,
+      "name": "Cariño"
+    },
+    {
+      "id": 181578,
+      "name": "Carnota"
+    },
+    {
+      "id": 181579,
+      "name": "Carral"
+    },
+    {
+      "id": 181580,
+      "name": "Cedeira"
+    },
+    {
+      "id": 181581,
+      "name": "Cee"
+    },
+    {
+      "id": 181582,
+      "name": "Cerceda"
+    },
+    {
+      "id": 181583,
+      "name": "Cerdido"
+    },
+    {
+      "id": 181584,
+      "name": "Cesuras"
+    },
+    {
+      "id": 181585,
+      "name": "Coirós"
+    },
+    {
+      "id": 181586,
+      "name": "Corcubión"
+    },
+    {
+      "id": 181587,
+      "name": "Coristanco"
+    },
+    {
+      "id": 181588,
+      "name": "Coruña A"
+    },
+    {
+      "id": 181589,
+      "name": "Culleredo"
+    },
+    {
+      "id": 181590,
+      "name": "Curtis"
+    },
+    {
+      "id": 181591,
+      "name": "Dodro"
+    },
+    {
+      "id": 181592,
+      "name": "Dumbría"
+    },
+    {
+      "id": 181593,
+      "name": "Fene"
+    },
+    {
+      "id": 181594,
+      "name": "Ferrol"
+    },
+    {
+      "id": 181595,
+      "name": "Fisterra"
+    },
+    {
+      "id": 181596,
+      "name": "Frades"
+    },
+    {
+      "id": 181597,
+      "name": "Irixoa"
+    },
+    {
+      "id": 181598,
+      "name": "Laracha A"
+    },
+    {
+      "id": 181599,
+      "name": "Laxe"
+    },
+    {
+      "id": 181600,
+      "name": "Lousame"
+    },
+    {
+      "id": 181601,
+      "name": "Malpica de Bergantiños"
+    },
+    {
+      "id": 181602,
+      "name": "Mañón"
+    },
+    {
+      "id": 181603,
+      "name": "Mazaricos"
+    },
+    {
+      "id": 181604,
+      "name": "Melide"
+    },
+    {
+      "id": 181605,
+      "name": "Mesia"
+    },
+    {
+      "id": 181606,
+      "name": "Miño"
+    },
+    {
+      "id": 181607,
+      "name": "Moeche"
+    },
+    {
+      "id": 181608,
+      "name": "Monfero"
+    },
+    {
+      "id": 181609,
+      "name": "Mugardos"
+    },
+    {
+      "id": 181610,
+      "name": "Mugia"
+    },
+    {
+      "id": 181611,
+      "name": "Muros"
+    },
+    {
+      "id": 181612,
+      "name": "Muxía"
+    },
+    {
+      "id": 181613,
+      "name": "Narón"
+    },
+    {
+      "id": 181614,
+      "name": "Neda"
+    },
+    {
+      "id": 181615,
+      "name": "Negreira"
+    },
+    {
+      "id": 181616,
+      "name": "Noia"
+    },
+    {
+      "id": 181617,
+      "name": "Oleiros"
+    },
+    {
+      "id": 181618,
+      "name": "Ordes"
+    },
+    {
+      "id": 181619,
+      "name": "Oroso"
+    },
+    {
+      "id": 181620,
+      "name": "Ortigueira"
+    },
+    {
+      "id": 181621,
+      "name": "Outes"
+    },
+    {
+      "id": 181622,
+      "name": "Oza dos Ríos"
+    },
+    {
+      "id": 181623,
+      "name": "Paderne"
+    },
+    {
+      "id": 181624,
+      "name": "Padrón"
+    },
+    {
+      "id": 181625,
+      "name": "Pino O"
+    },
+    {
+      "id": 181626,
+      "name": "Pobra do Caramiñal A"
+    },
+    {
+      "id": 181627,
+      "name": "Ponteceso"
+    },
+    {
+      "id": 181628,
+      "name": "Pontedeume"
+    },
+    {
+      "id": 181629,
+      "name": "Pontes de García Rodríguez As"
+    },
+    {
+      "id": 181630,
+      "name": "Porto do Son"
+    },
+    {
+      "id": 181631,
+      "name": "Rianxo"
+    },
+    {
+      "id": 181632,
+      "name": "Ribeira"
+    },
+    {
+      "id": 181633,
+      "name": "Rois"
+    },
+    {
+      "id": 181634,
+      "name": "Sada"
+    },
+    {
+      "id": 181635,
+      "name": "San Sadurniño"
+    },
+    {
+      "id": 181636,
+      "name": "Santa Comba"
+    },
+    {
+      "id": 181637,
+      "name": "Santiago de Compostela"
+    },
+    {
+      "id": 181638,
+      "name": "Santiso"
+    },
+    {
+      "id": 181639,
+      "name": "Sobrado"
+    },
+    {
+      "id": 181640,
+      "name": "Somozas As"
+    },
+    {
+      "id": 181641,
+      "name": "Teo"
+    },
+    {
+      "id": 181642,
+      "name": "Toques"
+    },
+    {
+      "id": 181643,
+      "name": "Tordoia"
+    },
+    {
+      "id": 181644,
+      "name": "Touro"
+    },
+    {
+      "id": 181645,
+      "name": "Trazo"
+    },
+    {
+      "id": 181646,
+      "name": "Val do Dubra"
+    },
+    {
+      "id": 181647,
+      "name": "Valdoviño"
+    },
+    {
+      "id": 181648,
+      "name": "Vedra"
+    },
+    {
+      "id": 181649,
+      "name": "Vilarmaior"
+    },
+    {
+      "id": 181650,
+      "name": "Vilasantar"
+    },
+    {
+      "id": 181651,
+      "name": "Vimianzo"
+    },
+    {
+      "id": 181652,
+      "name": "Zas"
+    }
+  ]
+}

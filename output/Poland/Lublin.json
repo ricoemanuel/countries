@@ -1,0 +1,823 @@
+{
+  "id": 5827,
+  "name": "Lublin",
+  "state_code": "06",
+  "cities": [
+    {
+      "id": 162015,
+      "name": "Abramów"
+    },
+    {
+      "id": 162016,
+      "name": "Adamów"
+    },
+    {
+      "id": 162017,
+      "name": "Aleksandrów"
+    },
+    {
+      "id": 162018,
+      "name": "Annopol"
+    },
+    {
+      "id": 162019,
+      "name": "Baranów"
+    },
+    {
+      "id": 162020,
+      "name": "Batorz"
+    },
+    {
+      "id": 162021,
+      "name": "Bełżec"
+    },
+    {
+      "id": 162022,
+      "name": "Bełżyce"
+    },
+    {
+      "id": 162023,
+      "name": "Biała Podlaska"
+    },
+    {
+      "id": 162024,
+      "name": "Biłgoraj"
+    },
+    {
+      "id": 162025,
+      "name": "Biszcza"
+    },
+    {
+      "id": 162026,
+      "name": "Borki"
+    },
+    {
+      "id": 162027,
+      "name": "Borzechów"
+    },
+    {
+      "id": 162028,
+      "name": "Bychawa"
+    },
+    {
+      "id": 162029,
+      "name": "Chełm"
+    },
+    {
+      "id": 162030,
+      "name": "Chodel"
+    },
+    {
+      "id": 162031,
+      "name": "Chrzanów"
+    },
+    {
+      "id": 162032,
+      "name": "Cyców"
+    },
+    {
+      "id": 162033,
+      "name": "Czemierniki"
+    },
+    {
+      "id": 162034,
+      "name": "Dęblin"
+    },
+    {
+      "id": 162035,
+      "name": "Dębowa Kłoda"
+    },
+    {
+      "id": 162036,
+      "name": "Dołhobyczów"
+    },
+    {
+      "id": 162037,
+      "name": "Dorohusk"
+    },
+    {
+      "id": 162038,
+      "name": "Drelów"
+    },
+    {
+      "id": 162039,
+      "name": "Dubienka"
+    },
+    {
+      "id": 162040,
+      "name": "Dzwola"
+    },
+    {
+      "id": 162041,
+      "name": "Fajsławice"
+    },
+    {
+      "id": 162042,
+      "name": "Firlej"
+    },
+    {
+      "id": 162043,
+      "name": "Frampol"
+    },
+    {
+      "id": 162044,
+      "name": "Garbów"
+    },
+    {
+      "id": 162045,
+      "name": "Godziszów"
+    },
+    {
+      "id": 162046,
+      "name": "Godziszów Pierwszy"
+    },
+    {
+      "id": 162047,
+      "name": "Goraj"
+    },
+    {
+      "id": 162048,
+      "name": "Gorzków"
+    },
+    {
+      "id": 162049,
+      "name": "Gościeradów"
+    },
+    {
+      "id": 162050,
+      "name": "Grabowiec"
+    },
+    {
+      "id": 162051,
+      "name": "Hańsk"
+    },
+    {
+      "id": 162052,
+      "name": "Horodło"
+    },
+    {
+      "id": 162053,
+      "name": "Hrubieszów"
+    },
+    {
+      "id": 162054,
+      "name": "Izbica"
+    },
+    {
+      "id": 162055,
+      "name": "Jabłoń"
+    },
+    {
+      "id": 162056,
+      "name": "Jabłonna"
+    },
+    {
+      "id": 162057,
+      "name": "Jakubowice Murowane"
+    },
+    {
+      "id": 162058,
+      "name": "Janów Lubelski"
+    },
+    {
+      "id": 162059,
+      "name": "Janów Podlaski"
+    },
+    {
+      "id": 162060,
+      "name": "Janowiec"
+    },
+    {
+      "id": 162061,
+      "name": "Jarczów"
+    },
+    {
+      "id": 162062,
+      "name": "Jastków"
+    },
+    {
+      "id": 162063,
+      "name": "Jeziorzany"
+    },
+    {
+      "id": 162064,
+      "name": "Józefów"
+    },
+    {
+      "id": 162065,
+      "name": "Józefów nad Wisłą"
+    },
+    {
+      "id": 162066,
+      "name": "Kamionka"
+    },
+    {
+      "id": 162067,
+      "name": "Karczmiska"
+    },
+    {
+      "id": 162068,
+      "name": "Kazimierz Dolny"
+    },
+    {
+      "id": 162069,
+      "name": "Kłoczew"
+    },
+    {
+      "id": 162070,
+      "name": "Kock"
+    },
+    {
+      "id": 162071,
+      "name": "Kodeń"
+    },
+    {
+      "id": 162072,
+      "name": "Komarów-Osada"
+    },
+    {
+      "id": 162073,
+      "name": "Komarówka Podlaska"
+    },
+    {
+      "id": 162074,
+      "name": "Końskowola"
+    },
+    {
+      "id": 162075,
+      "name": "Konstantynów"
+    },
+    {
+      "id": 162076,
+      "name": "Kozubszczyzna"
+    },
+    {
+      "id": 162077,
+      "name": "Kraśniczyn"
+    },
+    {
+      "id": 162078,
+      "name": "Kraśnik"
+    },
+    {
+      "id": 162079,
+      "name": "Krasnobród"
+    },
+    {
+      "id": 162080,
+      "name": "Krasnystaw"
+    },
+    {
+      "id": 162081,
+      "name": "Krynice"
+    },
+    {
+      "id": 162082,
+      "name": "Krzczonów"
+    },
+    {
+      "id": 162083,
+      "name": "Krzywda"
+    },
+    {
+      "id": 162084,
+      "name": "Księżomierz"
+    },
+    {
+      "id": 162085,
+      "name": "Księżpol"
+    },
+    {
+      "id": 162086,
+      "name": "Kurów"
+    },
+    {
+      "id": 162087,
+      "name": "Leśna Podlaska"
+    },
+    {
+      "id": 162088,
+      "name": "Lubartów"
+    },
+    {
+      "id": 162089,
+      "name": "Lublin"
+    },
+    {
+      "id": 162090,
+      "name": "Lubycza Królewska"
+    },
+    {
+      "id": 162091,
+      "name": "Ludwin"
+    },
+    {
+      "id": 162092,
+      "name": "Łabunie"
+    },
+    {
+      "id": 162093,
+      "name": "Łaszczów"
+    },
+    {
+      "id": 162094,
+      "name": "Łaziska"
+    },
+    {
+      "id": 162095,
+      "name": "Łęczna"
+    },
+    {
+      "id": 162096,
+      "name": "Łomazy"
+    },
+    {
+      "id": 162097,
+      "name": "Łopiennik Górny"
+    },
+    {
+      "id": 162098,
+      "name": "Łuków"
+    },
+    {
+      "id": 162099,
+      "name": "Łukowa"
+    },
+    {
+      "id": 162100,
+      "name": "Markuszów"
+    },
+    {
+      "id": 162101,
+      "name": "Mełgiew"
+    },
+    {
+      "id": 162102,
+      "name": "Miączyn"
+    },
+    {
+      "id": 162103,
+      "name": "Michałów"
+    },
+    {
+      "id": 162104,
+      "name": "Michów"
+    },
+    {
+      "id": 162105,
+      "name": "Międzyrzec Podlaski"
+    },
+    {
+      "id": 162106,
+      "name": "Milanów"
+    },
+    {
+      "id": 162107,
+      "name": "Milejów"
+    },
+    {
+      "id": 162108,
+      "name": "Mircze"
+    },
+    {
+      "id": 162109,
+      "name": "Modliborzyce"
+    },
+    {
+      "id": 162110,
+      "name": "Nałęczów"
+    },
+    {
+      "id": 162111,
+      "name": "Niedrzwica Duża"
+    },
+    {
+      "id": 162112,
+      "name": "Niedźwiada"
+    },
+    {
+      "id": 162113,
+      "name": "Nielisz"
+    },
+    {
+      "id": 162114,
+      "name": "Niemce"
+    },
+    {
+      "id": 162115,
+      "name": "Nowodwór"
+    },
+    {
+      "id": 162116,
+      "name": "Obsza"
+    },
+    {
+      "id": 162117,
+      "name": "Opole Lubelskie"
+    },
+    {
+      "id": 162118,
+      "name": "Ostrów Lubelski"
+    },
+    {
+      "id": 162119,
+      "name": "Ostrówek"
+    },
+    {
+      "id": 162120,
+      "name": "Parczew"
+    },
+    {
+      "id": 162121,
+      "name": "Piaski"
+    },
+    {
+      "id": 162122,
+      "name": "Piszczac"
+    },
+    {
+      "id": 162123,
+      "name": "Podedwórze"
+    },
+    {
+      "id": 162124,
+      "name": "Pokrówka"
+    },
+    {
+      "id": 162125,
+      "name": "Poniatowa"
+    },
+    {
+      "id": 162126,
+      "name": "Potok Górny"
+    },
+    {
+      "id": 162127,
+      "name": "Potok Wielki"
+    },
+    {
+      "id": 162128,
+      "name": "Powiat bialski"
+    },
+    {
+      "id": 162129,
+      "name": "Powiat biłgorajski"
+    },
+    {
+      "id": 162130,
+      "name": "Powiat chełmski"
+    },
+    {
+      "id": 162131,
+      "name": "Powiat hrubieszowski"
+    },
+    {
+      "id": 162132,
+      "name": "Powiat janowski"
+    },
+    {
+      "id": 162133,
+      "name": "Powiat kraśnicki"
+    },
+    {
+      "id": 162134,
+      "name": "Powiat krasnostawski"
+    },
+    {
+      "id": 162135,
+      "name": "Powiat lubartowski"
+    },
+    {
+      "id": 162136,
+      "name": "Powiat lubelski"
+    },
+    {
+      "id": 162137,
+      "name": "Powiat łęczyński"
+    },
+    {
+      "id": 162138,
+      "name": "Powiat łukowski"
+    },
+    {
+      "id": 162139,
+      "name": "Powiat opolski"
+    },
+    {
+      "id": 162140,
+      "name": "Powiat parczewski"
+    },
+    {
+      "id": 162141,
+      "name": "Powiat puławski"
+    },
+    {
+      "id": 162142,
+      "name": "Powiat radzyński"
+    },
+    {
+      "id": 162143,
+      "name": "Powiat rycki"
+    },
+    {
+      "id": 162144,
+      "name": "Powiat świdnicki"
+    },
+    {
+      "id": 162145,
+      "name": "Powiat tomaszowski"
+    },
+    {
+      "id": 162146,
+      "name": "Powiat włodawski"
+    },
+    {
+      "id": 162147,
+      "name": "Powiat zamojski"
+    },
+    {
+      "id": 162148,
+      "name": "Przytoczno"
+    },
+    {
+      "id": 162149,
+      "name": "Puchaczów"
+    },
+    {
+      "id": 162150,
+      "name": "Puławy"
+    },
+    {
+      "id": 162151,
+      "name": "Rachanie"
+    },
+    {
+      "id": 162152,
+      "name": "Radecznica"
+    },
+    {
+      "id": 162153,
+      "name": "Radzyń Podlaski"
+    },
+    {
+      "id": 162154,
+      "name": "Rejowiec"
+    },
+    {
+      "id": 162155,
+      "name": "Rejowiec Fabryczny"
+    },
+    {
+      "id": 162156,
+      "name": "Rogóźno"
+    },
+    {
+      "id": 162157,
+      "name": "Rokitno"
+    },
+    {
+      "id": 162158,
+      "name": "Ruda-Huta"
+    },
+    {
+      "id": 162159,
+      "name": "Rudnik"
+    },
+    {
+      "id": 162160,
+      "name": "Rybczewice"
+    },
+    {
+      "id": 162161,
+      "name": "Ryki"
+    },
+    {
+      "id": 162162,
+      "name": "Rzeczyca"
+    },
+    {
+      "id": 162163,
+      "name": "Sawin"
+    },
+    {
+      "id": 162164,
+      "name": "Serniki"
+    },
+    {
+      "id": 162165,
+      "name": "Serokomla"
+    },
+    {
+      "id": 162166,
+      "name": "Siemień"
+    },
+    {
+      "id": 162167,
+      "name": "Siennica Różana"
+    },
+    {
+      "id": 162168,
+      "name": "Sitno"
+    },
+    {
+      "id": 162169,
+      "name": "Skierbieszów"
+    },
+    {
+      "id": 162170,
+      "name": "Sławatycze"
+    },
+    {
+      "id": 162171,
+      "name": "Sosnowica"
+    },
+    {
+      "id": 162172,
+      "name": "Sosnówka"
+    },
+    {
+      "id": 162173,
+      "name": "Spiczyn"
+    },
+    {
+      "id": 162174,
+      "name": "Stary Zamość"
+    },
+    {
+      "id": 162175,
+      "name": "Stężyca"
+    },
+    {
+      "id": 162176,
+      "name": "Stoczek Łukowski"
+    },
+    {
+      "id": 162177,
+      "name": "Strzyżowice"
+    },
+    {
+      "id": 162178,
+      "name": "Sułów"
+    },
+    {
+      "id": 162179,
+      "name": "Susiec"
+    },
+    {
+      "id": 162180,
+      "name": "Świdnik"
+    },
+    {
+      "id": 162181,
+      "name": "Szastarka"
+    },
+    {
+      "id": 162182,
+      "name": "Szczebrzeszyn"
+    },
+    {
+      "id": 162183,
+      "name": "Tarnawatka"
+    },
+    {
+      "id": 162184,
+      "name": "Tarnogród"
+    },
+    {
+      "id": 162185,
+      "name": "Telatyn"
+    },
+    {
+      "id": 162186,
+      "name": "Terespol"
+    },
+    {
+      "id": 162187,
+      "name": "Tereszpol"
+    },
+    {
+      "id": 162188,
+      "name": "Tomaszów Lubelski"
+    },
+    {
+      "id": 162189,
+      "name": "Trawniki"
+    },
+    {
+      "id": 162190,
+      "name": "Trzebieszów"
+    },
+    {
+      "id": 162191,
+      "name": "Trzydnik Duży"
+    },
+    {
+      "id": 162192,
+      "name": "Turobin"
+    },
+    {
+      "id": 162193,
+      "name": "Tyszowce"
+    },
+    {
+      "id": 162194,
+      "name": "Ulhówek"
+    },
+    {
+      "id": 162195,
+      "name": "Ułęż"
+    },
+    {
+      "id": 162196,
+      "name": "Urszulin"
+    },
+    {
+      "id": 162197,
+      "name": "Urzędów"
+    },
+    {
+      "id": 162198,
+      "name": "Uścimów Stary"
+    },
+    {
+      "id": 162199,
+      "name": "Wąwolnica"
+    },
+    {
+      "id": 162200,
+      "name": "Werbkowice"
+    },
+    {
+      "id": 162201,
+      "name": "Wilkołaz"
+    },
+    {
+      "id": 162202,
+      "name": "Wilków"
+    },
+    {
+      "id": 162203,
+      "name": "Wisznice"
+    },
+    {
+      "id": 162204,
+      "name": "Włodawa"
+    },
+    {
+      "id": 162205,
+      "name": "Wohyń"
+    },
+    {
+      "id": 162206,
+      "name": "Wojciechów"
+    },
+    {
+      "id": 162207,
+      "name": "Wojcieszków"
+    },
+    {
+      "id": 162208,
+      "name": "Wojsławice"
+    },
+    {
+      "id": 162209,
+      "name": "Wola Sernicka"
+    },
+    {
+      "id": 162210,
+      "name": "Wola Uhruska"
+    },
+    {
+      "id": 162211,
+      "name": "Wysokie"
+    },
+    {
+      "id": 162212,
+      "name": "Zakrzew"
+    },
+    {
+      "id": 162213,
+      "name": "Zakrzówek"
+    },
+    {
+      "id": 162214,
+      "name": "Zamch"
+    },
+    {
+      "id": 162215,
+      "name": "Zamość"
+    },
+    {
+      "id": 162216,
+      "name": "Żółkiewka"
+    },
+    {
+      "id": 162217,
+      "name": "Zwierzyniec"
+    },
+    {
+      "id": 162218,
+      "name": "Żyrzyn"
+    }
+  ]
+}

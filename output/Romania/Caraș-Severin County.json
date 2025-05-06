@@ -1,0 +1,691 @@
+{
+  "id": 5966,
+  "name": "Caraș-Severin County",
+  "state_code": "CS",
+  "cities": [
+    {
+      "id": 167464,
+      "name": "Anina"
+    },
+    {
+      "id": 167465,
+      "name": "Armeniş"
+    },
+    {
+      "id": 167466,
+      "name": "Băile Herculane"
+    },
+    {
+      "id": 167467,
+      "name": "Bănia"
+    },
+    {
+      "id": 167468,
+      "name": "Băuţar"
+    },
+    {
+      "id": 167469,
+      "name": "Berlişte"
+    },
+    {
+      "id": 167470,
+      "name": "Berzasca"
+    },
+    {
+      "id": 167471,
+      "name": "Berzovia"
+    },
+    {
+      "id": 167472,
+      "name": "Bocşa"
+    },
+    {
+      "id": 167473,
+      "name": "Bolvașnița"
+    },
+    {
+      "id": 167474,
+      "name": "Borlova"
+    },
+    {
+      "id": 167475,
+      "name": "Bozovici"
+    },
+    {
+      "id": 167476,
+      "name": "Brebu"
+    },
+    {
+      "id": 167477,
+      "name": "Brebu Nou"
+    },
+    {
+      "id": 167478,
+      "name": "Buchin"
+    },
+    {
+      "id": 167479,
+      "name": "Bucoşniţa"
+    },
+    {
+      "id": 167480,
+      "name": "Bucova"
+    },
+    {
+      "id": 167481,
+      "name": "Câlnic"
+    },
+    {
+      "id": 167482,
+      "name": "Caransebeş"
+    },
+    {
+      "id": 167483,
+      "name": "Caraşova"
+    },
+    {
+      "id": 167484,
+      "name": "Cărbunari"
+    },
+    {
+      "id": 167485,
+      "name": "Ciclova-Română"
+    },
+    {
+      "id": 167486,
+      "name": "Ciuchici"
+    },
+    {
+      "id": 167487,
+      "name": "Ciudanoviţa"
+    },
+    {
+      "id": 167488,
+      "name": "Clocotici"
+    },
+    {
+      "id": 167489,
+      "name": "Comuna Armeniş"
+    },
+    {
+      "id": 167490,
+      "name": "Comuna Bănia"
+    },
+    {
+      "id": 167491,
+      "name": "Comuna Băuţar"
+    },
+    {
+      "id": 167492,
+      "name": "Comuna Berlişte"
+    },
+    {
+      "id": 167493,
+      "name": "Comuna Berzasca"
+    },
+    {
+      "id": 167494,
+      "name": "Comuna Berzovia"
+    },
+    {
+      "id": 167495,
+      "name": "Comuna Bolvaşniţa"
+    },
+    {
+      "id": 167496,
+      "name": "Comuna Bozovici"
+    },
+    {
+      "id": 167497,
+      "name": "Comuna Brebu"
+    },
+    {
+      "id": 167498,
+      "name": "Comuna Brebu Nou"
+    },
+    {
+      "id": 167499,
+      "name": "Comuna Buchin"
+    },
+    {
+      "id": 167500,
+      "name": "Comuna Bucoşniţa"
+    },
+    {
+      "id": 167501,
+      "name": "Comuna Caraşova"
+    },
+    {
+      "id": 167502,
+      "name": "Comuna Cărbunari"
+    },
+    {
+      "id": 167503,
+      "name": "Comuna Ciclova Română"
+    },
+    {
+      "id": 167504,
+      "name": "Comuna Ciuchici"
+    },
+    {
+      "id": 167505,
+      "name": "Comuna Ciudanoviţa"
+    },
+    {
+      "id": 167506,
+      "name": "Comuna Constantin Daicoviciu"
+    },
+    {
+      "id": 167507,
+      "name": "Comuna Copăcele"
+    },
+    {
+      "id": 167508,
+      "name": "Comuna Cornea"
+    },
+    {
+      "id": 167509,
+      "name": "Comuna Cornereva"
+    },
+    {
+      "id": 167510,
+      "name": "Comuna Dalboşeţ"
+    },
+    {
+      "id": 167511,
+      "name": "Comuna Doclin"
+    },
+    {
+      "id": 167512,
+      "name": "Comuna Dognecea"
+    },
+    {
+      "id": 167513,
+      "name": "Comuna Domaşnea"
+    },
+    {
+      "id": 167514,
+      "name": "Comuna Eftimie Murgu"
+    },
+    {
+      "id": 167515,
+      "name": "Comuna Ezeriş"
+    },
+    {
+      "id": 167516,
+      "name": "Comuna Fârliug"
+    },
+    {
+      "id": 167517,
+      "name": "Comuna Forotic"
+    },
+    {
+      "id": 167518,
+      "name": "Comuna Gârnic"
+    },
+    {
+      "id": 167519,
+      "name": "Comuna Glimboca"
+    },
+    {
+      "id": 167520,
+      "name": "Comuna Goruia"
+    },
+    {
+      "id": 167521,
+      "name": "Comuna Grădinari"
+    },
+    {
+      "id": 167522,
+      "name": "Comuna Iablaniţa"
+    },
+    {
+      "id": 167523,
+      "name": "Comuna Lăpuşnicel"
+    },
+    {
+      "id": 167524,
+      "name": "Comuna Lăpuşnicu Mare"
+    },
+    {
+      "id": 167525,
+      "name": "Comuna Luncaviţa"
+    },
+    {
+      "id": 167526,
+      "name": "Comuna Lupac"
+    },
+    {
+      "id": 167527,
+      "name": "Comuna Marga"
+    },
+    {
+      "id": 167528,
+      "name": "Comuna Măureni"
+    },
+    {
+      "id": 167529,
+      "name": "Comuna Mehadia"
+    },
+    {
+      "id": 167530,
+      "name": "Comuna Mehadica"
+    },
+    {
+      "id": 167531,
+      "name": "Comuna Naidaş"
+    },
+    {
+      "id": 167532,
+      "name": "Comuna Obreja"
+    },
+    {
+      "id": 167533,
+      "name": "Comuna Ocna De Fier"
+    },
+    {
+      "id": 167534,
+      "name": "Comuna Pãltiniş"
+    },
+    {
+      "id": 167535,
+      "name": "Comuna Pescari"
+    },
+    {
+      "id": 167536,
+      "name": "Comuna Pojejena"
+    },
+    {
+      "id": 167537,
+      "name": "Comuna Prigor"
+    },
+    {
+      "id": 167538,
+      "name": "Comuna Răcăşdia"
+    },
+    {
+      "id": 167539,
+      "name": "Comuna Ramna"
+    },
+    {
+      "id": 167540,
+      "name": "Comuna Rusca Montană"
+    },
+    {
+      "id": 167541,
+      "name": "Comuna Sacu"
+    },
+    {
+      "id": 167542,
+      "name": "Comuna Sasca Montană"
+    },
+    {
+      "id": 167543,
+      "name": "Comuna Sicheviţa"
+    },
+    {
+      "id": 167544,
+      "name": "Comuna Slatina-Timiş"
+    },
+    {
+      "id": 167545,
+      "name": "Comuna Socol"
+    },
+    {
+      "id": 167546,
+      "name": "Comuna Şopotu Nou"
+    },
+    {
+      "id": 167547,
+      "name": "Comuna Târnova"
+    },
+    {
+      "id": 167548,
+      "name": "Comuna Teregova"
+    },
+    {
+      "id": 167549,
+      "name": "Comuna Ticvaniu Mare"
+    },
+    {
+      "id": 167550,
+      "name": "Comuna Topleţ"
+    },
+    {
+      "id": 167551,
+      "name": "Comuna Turnu Rueni"
+    },
+    {
+      "id": 167552,
+      "name": "Comuna Văliug"
+    },
+    {
+      "id": 167553,
+      "name": "Comuna Vărădia"
+    },
+    {
+      "id": 167554,
+      "name": "Comuna Vermeş"
+    },
+    {
+      "id": 167555,
+      "name": "Comuna Vrani"
+    },
+    {
+      "id": 167556,
+      "name": "Comuna Zăvoi"
+    },
+    {
+      "id": 167557,
+      "name": "Comuna Zorlenţu Mare"
+    },
+    {
+      "id": 167558,
+      "name": "Constantin Daicoviciu"
+    },
+    {
+      "id": 167559,
+      "name": "Copăcele"
+    },
+    {
+      "id": 167560,
+      "name": "Cornea"
+    },
+    {
+      "id": 167561,
+      "name": "Cornereva"
+    },
+    {
+      "id": 167562,
+      "name": "Cornuțel"
+    },
+    {
+      "id": 167563,
+      "name": "Coronini"
+    },
+    {
+      "id": 167564,
+      "name": "Dalboșeț"
+    },
+    {
+      "id": 167565,
+      "name": "Doclin"
+    },
+    {
+      "id": 167566,
+      "name": "Dognecea"
+    },
+    {
+      "id": 167567,
+      "name": "Domaşnea"
+    },
+    {
+      "id": 167568,
+      "name": "Eftimie Murgu"
+    },
+    {
+      "id": 167569,
+      "name": "Ezeriş"
+    },
+    {
+      "id": 167570,
+      "name": "Fârliug"
+    },
+    {
+      "id": 167571,
+      "name": "Fizeș"
+    },
+    {
+      "id": 167572,
+      "name": "Forotic"
+    },
+    {
+      "id": 167573,
+      "name": "Gârnic"
+    },
+    {
+      "id": 167574,
+      "name": "Gherteniș"
+    },
+    {
+      "id": 167575,
+      "name": "Glimboca"
+    },
+    {
+      "id": 167576,
+      "name": "Goruia"
+    },
+    {
+      "id": 167577,
+      "name": "Grădinari"
+    },
+    {
+      "id": 167578,
+      "name": "Greoni"
+    },
+    {
+      "id": 167579,
+      "name": "Iablaniţa"
+    },
+    {
+      "id": 167580,
+      "name": "Lăpuşnicel"
+    },
+    {
+      "id": 167581,
+      "name": "Lăpuşnicu Mare"
+    },
+    {
+      "id": 167582,
+      "name": "Liubcova"
+    },
+    {
+      "id": 167583,
+      "name": "Luncaviţa"
+    },
+    {
+      "id": 167584,
+      "name": "Lupac"
+    },
+    {
+      "id": 167585,
+      "name": "Marga"
+    },
+    {
+      "id": 167586,
+      "name": "Măru"
+    },
+    {
+      "id": 167587,
+      "name": "Măureni"
+    },
+    {
+      "id": 167588,
+      "name": "Mehadia"
+    },
+    {
+      "id": 167589,
+      "name": "Mehadica"
+    },
+    {
+      "id": 167590,
+      "name": "Moldova Nouă"
+    },
+    {
+      "id": 167591,
+      "name": "Municipiul Caransebeş"
+    },
+    {
+      "id": 167592,
+      "name": "Municipiul Reşiţa"
+    },
+    {
+      "id": 167593,
+      "name": "Muntele Mic"
+    },
+    {
+      "id": 167594,
+      "name": "Naidăș"
+    },
+    {
+      "id": 167595,
+      "name": "Obreja"
+    },
+    {
+      "id": 167596,
+      "name": "Oraş Anina"
+    },
+    {
+      "id": 167597,
+      "name": "Oraş Bãile Herculane"
+    },
+    {
+      "id": 167598,
+      "name": "Oraş Bocşa"
+    },
+    {
+      "id": 167599,
+      "name": "Oraş Oraviţa"
+    },
+    {
+      "id": 167600,
+      "name": "Oraş Oţelu Roşu"
+    },
+    {
+      "id": 167601,
+      "name": "Oraviţa"
+    },
+    {
+      "id": 167602,
+      "name": "Oţelu Roşu"
+    },
+    {
+      "id": 167603,
+      "name": "Padina Matei"
+    },
+    {
+      "id": 167604,
+      "name": "Păltiniş"
+    },
+    {
+      "id": 167605,
+      "name": "Petroșnița"
+    },
+    {
+      "id": 167606,
+      "name": "Plugova"
+    },
+    {
+      "id": 167607,
+      "name": "Pojejena"
+    },
+    {
+      "id": 167608,
+      "name": "Prigor"
+    },
+    {
+      "id": 167609,
+      "name": "Răcăşdia"
+    },
+    {
+      "id": 167610,
+      "name": "Ramna"
+    },
+    {
+      "id": 167611,
+      "name": "Reşiţa"
+    },
+    {
+      "id": 167612,
+      "name": "Rusca"
+    },
+    {
+      "id": 167613,
+      "name": "Rusca Montană"
+    },
+    {
+      "id": 167614,
+      "name": "Sacu"
+    },
+    {
+      "id": 167615,
+      "name": "Sasca Montană"
+    },
+    {
+      "id": 167616,
+      "name": "Sicheviţa"
+    },
+    {
+      "id": 167617,
+      "name": "Slatina-Timiş"
+    },
+    {
+      "id": 167618,
+      "name": "Socol"
+    },
+    {
+      "id": 167619,
+      "name": "Şopotu Nou"
+    },
+    {
+      "id": 167620,
+      "name": "Steierdorf"
+    },
+    {
+      "id": 167621,
+      "name": "Târnova"
+    },
+    {
+      "id": 167622,
+      "name": "Teregova"
+    },
+    {
+      "id": 167623,
+      "name": "Ticvaniu Mare"
+    },
+    {
+      "id": 167624,
+      "name": "Topleţ"
+    },
+    {
+      "id": 167625,
+      "name": "Turnu Ruieni"
+    },
+    {
+      "id": 167626,
+      "name": "Valea Bolvașnița"
+    },
+    {
+      "id": 167627,
+      "name": "Văliug"
+    },
+    {
+      "id": 167628,
+      "name": "Vărădia"
+    },
+    {
+      "id": 167629,
+      "name": "Vârciorova"
+    },
+    {
+      "id": 167630,
+      "name": "Verendin"
+    },
+    {
+      "id": 167631,
+      "name": "Vermeş"
+    },
+    {
+      "id": 167632,
+      "name": "Vrani"
+    },
+    {
+      "id": 167633,
+      "name": "Zăvoi"
+    },
+    {
+      "id": 167634,
+      "name": "Zorlenţu Mare"
+    }
+  ]
+}

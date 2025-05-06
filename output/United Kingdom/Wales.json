@@ -1,0 +1,1215 @@
+{
+  "id": 7413,
+  "name": "Wales",
+  "state_code": "WLS",
+  "cities": [
+    {
+      "id": 201397,
+      "name": "Aberaeron"
+    },
+    {
+      "id": 201398,
+      "name": "Abercanaid"
+    },
+    {
+      "id": 201399,
+      "name": "Abercarn"
+    },
+    {
+      "id": 201400,
+      "name": "Abercynon"
+    },
+    {
+      "id": 201401,
+      "name": "Aberdare"
+    },
+    {
+      "id": 201402,
+      "name": "Aberfan"
+    },
+    {
+      "id": 201403,
+      "name": "Abergavenny"
+    },
+    {
+      "id": 201404,
+      "name": "Abergele"
+    },
+    {
+      "id": 201405,
+      "name": "Aberkenfig"
+    },
+    {
+      "id": 201406,
+      "name": "Aberporth"
+    },
+    {
+      "id": 201407,
+      "name": "Abertillery"
+    },
+    {
+      "id": 201408,
+      "name": "Abertridwr"
+    },
+    {
+      "id": 201409,
+      "name": "Aberystwyth"
+    },
+    {
+      "id": 201410,
+      "name": "Amlwch"
+    },
+    {
+      "id": 201411,
+      "name": "Ammanford"
+    },
+    {
+      "id": 201412,
+      "name": "Anglesey"
+    },
+    {
+      "id": 201413,
+      "name": "Bagillt"
+    },
+    {
+      "id": 201414,
+      "name": "Bala"
+    },
+    {
+      "id": 201415,
+      "name": "Bangor"
+    },
+    {
+      "id": 201416,
+      "name": "Bargoed"
+    },
+    {
+      "id": 201417,
+      "name": "Barmouth"
+    },
+    {
+      "id": 201418,
+      "name": "Barry"
+    },
+    {
+      "id": 201419,
+      "name": "Beaumaris"
+    },
+    {
+      "id": 201420,
+      "name": "Beddau"
+    },
+    {
+      "id": 201421,
+      "name": "Bedlinog"
+    },
+    {
+      "id": 201422,
+      "name": "Bedwas"
+    },
+    {
+      "id": 201423,
+      "name": "Benllech"
+    },
+    {
+      "id": 201424,
+      "name": "Bethesda"
+    },
+    {
+      "id": 201425,
+      "name": "Betws"
+    },
+    {
+      "id": 201426,
+      "name": "Betws-y-Coed"
+    },
+    {
+      "id": 201427,
+      "name": "Bishopston"
+    },
+    {
+      "id": 201428,
+      "name": "Blackwood"
+    },
+    {
+      "id": 201429,
+      "name": "Blaenau Gwent"
+    },
+    {
+      "id": 201430,
+      "name": "Blaenau-Ffestiniog"
+    },
+    {
+      "id": 201431,
+      "name": "Blaenavon"
+    },
+    {
+      "id": 201432,
+      "name": "Blaengwynfi"
+    },
+    {
+      "id": 201433,
+      "name": "Bodedern"
+    },
+    {
+      "id": 201434,
+      "name": "Bodelwyddan"
+    },
+    {
+      "id": 201435,
+      "name": "Borth"
+    },
+    {
+      "id": 201436,
+      "name": "Bow Street"
+    },
+    {
+      "id": 201437,
+      "name": "Brecon"
+    },
+    {
+      "id": 201438,
+      "name": "Bridgend"
+    },
+    {
+      "id": 201439,
+      "name": "Bridgend county borough"
+    },
+    {
+      "id": 201440,
+      "name": "Briton Ferry"
+    },
+    {
+      "id": 201441,
+      "name": "Broughton"
+    },
+    {
+      "id": 201442,
+      "name": "Brymbo"
+    },
+    {
+      "id": 201443,
+      "name": "Bryn"
+    },
+    {
+      "id": 201444,
+      "name": "Brynamman"
+    },
+    {
+      "id": 201445,
+      "name": "Brynmawr"
+    },
+    {
+      "id": 201446,
+      "name": "Brynna"
+    },
+    {
+      "id": 201447,
+      "name": "Buckley"
+    },
+    {
+      "id": 201448,
+      "name": "Builth Wells"
+    },
+    {
+      "id": 201449,
+      "name": "Burry Port"
+    },
+    {
+      "id": 201450,
+      "name": "Caergwrle"
+    },
+    {
+      "id": 201451,
+      "name": "Caerleon"
+    },
+    {
+      "id": 201452,
+      "name": "Caernarfon"
+    },
+    {
+      "id": 201453,
+      "name": "Caerphilly"
+    },
+    {
+      "id": 201454,
+      "name": "Caerphilly County Borough"
+    },
+    {
+      "id": 201455,
+      "name": "Caerwent"
+    },
+    {
+      "id": 201456,
+      "name": "Caldicot"
+    },
+    {
+      "id": 201457,
+      "name": "Cardiff"
+    },
+    {
+      "id": 201458,
+      "name": "Cardigan"
+    },
+    {
+      "id": 201459,
+      "name": "Carmarthen"
+    },
+    {
+      "id": 201460,
+      "name": "Carmarthenshire"
+    },
+    {
+      "id": 201461,
+      "name": "Cefn Cribwr"
+    },
+    {
+      "id": 201462,
+      "name": "Cemaes Bay"
+    },
+    {
+      "id": 201463,
+      "name": "Chepstow"
+    },
+    {
+      "id": 201464,
+      "name": "Chirk"
+    },
+    {
+      "id": 201465,
+      "name": "City and County of Swansea"
+    },
+    {
+      "id": 201466,
+      "name": "Clydach"
+    },
+    {
+      "id": 201467,
+      "name": "Coedpoeth"
+    },
+    {
+      "id": 201468,
+      "name": "Coity"
+    },
+    {
+      "id": 201469,
+      "name": "Colwyn Bay"
+    },
+    {
+      "id": 201470,
+      "name": "Conwy"
+    },
+    {
+      "id": 201471,
+      "name": "County of Ceredigion"
+    },
+    {
+      "id": 201472,
+      "name": "County of Flintshire"
+    },
+    {
+      "id": 201473,
+      "name": "Cowbridge"
+    },
+    {
+      "id": 201474,
+      "name": "Criccieth"
+    },
+    {
+      "id": 201475,
+      "name": "Crickhowell"
+    },
+    {
+      "id": 201476,
+      "name": "Croeserw"
+    },
+    {
+      "id": 201477,
+      "name": "Crofty"
+    },
+    {
+      "id": 201478,
+      "name": "Cross Hands"
+    },
+    {
+      "id": 201479,
+      "name": "Crumlin"
+    },
+    {
+      "id": 201480,
+      "name": "Crymych"
+    },
+    {
+      "id": 201481,
+      "name": "Crynant"
+    },
+    {
+      "id": 201482,
+      "name": "Cwm"
+    },
+    {
+      "id": 201483,
+      "name": "Cwmafan"
+    },
+    {
+      "id": 201484,
+      "name": "Cwmbach"
+    },
+    {
+      "id": 201485,
+      "name": "Cwmbran"
+    },
+    {
+      "id": 201486,
+      "name": "Deeside"
+    },
+    {
+      "id": 201487,
+      "name": "Deganwy"
+    },
+    {
+      "id": 201488,
+      "name": "Deiniolen"
+    },
+    {
+      "id": 201489,
+      "name": "Denbigh"
+    },
+    {
+      "id": 201490,
+      "name": "Denbighshire"
+    },
+    {
+      "id": 201491,
+      "name": "Deri"
+    },
+    {
+      "id": 201492,
+      "name": "Dinas Powys"
+    },
+    {
+      "id": 201493,
+      "name": "Dolgellau"
+    },
+    {
+      "id": 201494,
+      "name": "Dyffryn Ardudwy"
+    },
+    {
+      "id": 201495,
+      "name": "Dyserth"
+    },
+    {
+      "id": 201496,
+      "name": "Ebbw Vale"
+    },
+    {
+      "id": 201497,
+      "name": "Ferndale"
+    },
+    {
+      "id": 201498,
+      "name": "Fishguard"
+    },
+    {
+      "id": 201499,
+      "name": "Flint"
+    },
+    {
+      "id": 201500,
+      "name": "Fochriw"
+    },
+    {
+      "id": 201501,
+      "name": "Four Crosses"
+    },
+    {
+      "id": 201502,
+      "name": "Gaerwen"
+    },
+    {
+      "id": 201503,
+      "name": "Gelligaer"
+    },
+    {
+      "id": 201504,
+      "name": "Gilfach Goch"
+    },
+    {
+      "id": 201505,
+      "name": "Gilwern"
+    },
+    {
+      "id": 201506,
+      "name": "Glanamman"
+    },
+    {
+      "id": 201507,
+      "name": "Glandwr"
+    },
+    {
+      "id": 201508,
+      "name": "Glyn-neath"
+    },
+    {
+      "id": 201509,
+      "name": "Glyncorrwg"
+    },
+    {
+      "id": 201510,
+      "name": "Goodwick"
+    },
+    {
+      "id": 201511,
+      "name": "Gorseinon"
+    },
+    {
+      "id": 201512,
+      "name": "Govilon"
+    },
+    {
+      "id": 201513,
+      "name": "Greenfield"
+    },
+    {
+      "id": 201514,
+      "name": "Gresford"
+    },
+    {
+      "id": 201515,
+      "name": "Gronant"
+    },
+    {
+      "id": 201516,
+      "name": "Grovesend"
+    },
+    {
+      "id": 201517,
+      "name": "Guilsfield"
+    },
+    {
+      "id": 201518,
+      "name": "Gwynedd"
+    },
+    {
+      "id": 201519,
+      "name": "Harlech"
+    },
+    {
+      "id": 201520,
+      "name": "Haverfordwest"
+    },
+    {
+      "id": 201521,
+      "name": "Hawarden"
+    },
+    {
+      "id": 201522,
+      "name": "Hay"
+    },
+    {
+      "id": 201523,
+      "name": "Hengoed"
+    },
+    {
+      "id": 201524,
+      "name": "Henllan"
+    },
+    {
+      "id": 201525,
+      "name": "Hirwaun"
+    },
+    {
+      "id": 201526,
+      "name": "Holyhead"
+    },
+    {
+      "id": 201527,
+      "name": "Holywell"
+    },
+    {
+      "id": 201528,
+      "name": "Hook"
+    },
+    {
+      "id": 201529,
+      "name": "Hope"
+    },
+    {
+      "id": 201530,
+      "name": "Hundleton"
+    },
+    {
+      "id": 201531,
+      "name": "Johnston"
+    },
+    {
+      "id": 201532,
+      "name": "Kidwelly"
+    },
+    {
+      "id": 201533,
+      "name": "Kilgetty"
+    },
+    {
+      "id": 201534,
+      "name": "Knighton"
+    },
+    {
+      "id": 201535,
+      "name": "Lampeter"
+    },
+    {
+      "id": 201536,
+      "name": "Leeswood"
+    },
+    {
+      "id": 201537,
+      "name": "Letterston"
+    },
+    {
+      "id": 201538,
+      "name": "Llanarth"
+    },
+    {
+      "id": 201539,
+      "name": "Llanbedr"
+    },
+    {
+      "id": 201540,
+      "name": "Llanberis"
+    },
+    {
+      "id": 201541,
+      "name": "Llanbradach"
+    },
+    {
+      "id": 201542,
+      "name": "Llandeilo"
+    },
+    {
+      "id": 201543,
+      "name": "Llandovery"
+    },
+    {
+      "id": 201544,
+      "name": "Llandrindod Wells"
+    },
+    {
+      "id": 201545,
+      "name": "Llandudno"
+    },
+    {
+      "id": 201546,
+      "name": "Llandybie"
+    },
+    {
+      "id": 201547,
+      "name": "Llandysul"
+    },
+    {
+      "id": 201548,
+      "name": "Llanelli"
+    },
+    {
+      "id": 201549,
+      "name": "Llanerchymedd"
+    },
+    {
+      "id": 201550,
+      "name": "Llanfair Caereinion"
+    },
+    {
+      "id": 201551,
+      "name": "Llanfairfechan"
+    },
+    {
+      "id": 201552,
+      "name": "Llanfairpwllgwyngyll"
+    },
+    {
+      "id": 201553,
+      "name": "Llanfyllin"
+    },
+    {
+      "id": 201554,
+      "name": "Llangefni"
+    },
+    {
+      "id": 201555,
+      "name": "Llangoed"
+    },
+    {
+      "id": 201556,
+      "name": "Llangollen"
+    },
+    {
+      "id": 201557,
+      "name": "Llangwm"
+    },
+    {
+      "id": 201558,
+      "name": "Llangybi"
+    },
+    {
+      "id": 201559,
+      "name": "Llangynidr"
+    },
+    {
+      "id": 201560,
+      "name": "Llanharan"
+    },
+    {
+      "id": 201561,
+      "name": "Llanharry"
+    },
+    {
+      "id": 201562,
+      "name": "Llanidloes"
+    },
+    {
+      "id": 201563,
+      "name": "Llanilar"
+    },
+    {
+      "id": 201564,
+      "name": "Llanrhaeadr-ym-Mochnant"
+    },
+    {
+      "id": 201565,
+      "name": "Llanrug"
+    },
+    {
+      "id": 201566,
+      "name": "Llanrwst"
+    },
+    {
+      "id": 201567,
+      "name": "Llansantffraid Glan Conwy"
+    },
+    {
+      "id": 201568,
+      "name": "Llansteffan"
+    },
+    {
+      "id": 201569,
+      "name": "Llantrisant"
+    },
+    {
+      "id": 201570,
+      "name": "Llantwit Fardre"
+    },
+    {
+      "id": 201571,
+      "name": "Llantwit Major"
+    },
+    {
+      "id": 201572,
+      "name": "Llwynypia"
+    },
+    {
+      "id": 201573,
+      "name": "Machen"
+    },
+    {
+      "id": 201574,
+      "name": "Machynlleth"
+    },
+    {
+      "id": 201575,
+      "name": "Maesteg"
+    },
+    {
+      "id": 201576,
+      "name": "Magor"
+    },
+    {
+      "id": 201577,
+      "name": "Marchwiel"
+    },
+    {
+      "id": 201578,
+      "name": "Marshfield"
+    },
+    {
+      "id": 201579,
+      "name": "Menai Bridge"
+    },
+    {
+      "id": 201580,
+      "name": "Merthyr Tydfil"
+    },
+    {
+      "id": 201581,
+      "name": "Merthyr Tydfil County Borough"
+    },
+    {
+      "id": 201582,
+      "name": "Milford Haven"
+    },
+    {
+      "id": 201583,
+      "name": "Moelfre"
+    },
+    {
+      "id": 201584,
+      "name": "Mold"
+    },
+    {
+      "id": 201585,
+      "name": "Monmouth"
+    },
+    {
+      "id": 201586,
+      "name": "Monmouthshire"
+    },
+    {
+      "id": 201587,
+      "name": "Mostyn"
+    },
+    {
+      "id": 201588,
+      "name": "Mountain Ash"
+    },
+    {
+      "id": 201589,
+      "name": "Narberth"
+    },
+    {
+      "id": 201590,
+      "name": "Neath"
+    },
+    {
+      "id": 201591,
+      "name": "Neath Port Talbot"
+    },
+    {
+      "id": 201592,
+      "name": "Nefyn"
+    },
+    {
+      "id": 201593,
+      "name": "Nelson"
+    },
+    {
+      "id": 201594,
+      "name": "New Quay"
+    },
+    {
+      "id": 201595,
+      "name": "New Tredegar"
+    },
+    {
+      "id": 201596,
+      "name": "Newbridge"
+    },
+    {
+      "id": 201597,
+      "name": "Newcastle Emlyn"
+    },
+    {
+      "id": 201598,
+      "name": "Newport"
+    },
+    {
+      "id": 201599,
+      "name": "Newtown"
+    },
+    {
+      "id": 201600,
+      "name": "Neyland"
+    },
+    {
+      "id": 201601,
+      "name": "Northop"
+    },
+    {
+      "id": 201602,
+      "name": "Ogmore Vale"
+    },
+    {
+      "id": 201603,
+      "name": "Overton"
+    },
+    {
+      "id": 201604,
+      "name": "Pembroke"
+    },
+    {
+      "id": 201605,
+      "name": "Pembroke Dock"
+    },
+    {
+      "id": 201606,
+      "name": "Pembrokeshire"
+    },
+    {
+      "id": 201607,
+      "name": "Pen-clawdd"
+    },
+    {
+      "id": 201608,
+      "name": "Penally"
+    },
+    {
+      "id": 201609,
+      "name": "Penarth"
+    },
+    {
+      "id": 201610,
+      "name": "Pencader"
+    },
+    {
+      "id": 201611,
+      "name": "Pencoed"
+    },
+    {
+      "id": 201612,
+      "name": "Penmaenmawr"
+    },
+    {
+      "id": 201613,
+      "name": "Penparcau"
+    },
+    {
+      "id": 201614,
+      "name": "Penrhyndeudraeth"
+    },
+    {
+      "id": 201615,
+      "name": "Pentre"
+    },
+    {
+      "id": 201616,
+      "name": "Pentyrch"
+    },
+    {
+      "id": 201617,
+      "name": "Penyffordd"
+    },
+    {
+      "id": 201618,
+      "name": "Penygroes"
+    },
+    {
+      "id": 201619,
+      "name": "Pont Rhyd-y-cyff"
+    },
+    {
+      "id": 201620,
+      "name": "Pontarddulais"
+    },
+    {
+      "id": 201621,
+      "name": "Pontlliw"
+    },
+    {
+      "id": 201622,
+      "name": "Pontyates"
+    },
+    {
+      "id": 201623,
+      "name": "Pontyberem"
+    },
+    {
+      "id": 201624,
+      "name": "Pontyclun"
+    },
+    {
+      "id": 201625,
+      "name": "Pontycymer"
+    },
+    {
+      "id": 201626,
+      "name": "Pontypool"
+    },
+    {
+      "id": 201627,
+      "name": "Pontypridd"
+    },
+    {
+      "id": 201628,
+      "name": "Port Talbot"
+    },
+    {
+      "id": 201629,
+      "name": "Porthcawl"
+    },
+    {
+      "id": 201630,
+      "name": "Porthmadog"
+    },
+    {
+      "id": 201631,
+      "name": "Prestatyn"
+    },
+    {
+      "id": 201632,
+      "name": "Presteigne"
+    },
+    {
+      "id": 201633,
+      "name": "Price Town"
+    },
+    {
+      "id": 201634,
+      "name": "Pwllheli"
+    },
+    {
+      "id": 201635,
+      "name": "Pyle"
+    },
+    {
+      "id": 201636,
+      "name": "Radyr"
+    },
+    {
+      "id": 201637,
+      "name": "Raglan"
+    },
+    {
+      "id": 201638,
+      "name": "Resolven"
+    },
+    {
+      "id": 201639,
+      "name": "Rhayader"
+    },
+    {
+      "id": 201640,
+      "name": "Rhondda"
+    },
+    {
+      "id": 201641,
+      "name": "Rhondda Cynon Taf"
+    },
+    {
+      "id": 201642,
+      "name": "Rhoose"
+    },
+    {
+      "id": 201643,
+      "name": "Rhosllanerchrugog"
+    },
+    {
+      "id": 201644,
+      "name": "Rhosneigr"
+    },
+    {
+      "id": 201645,
+      "name": "Rhuddlan"
+    },
+    {
+      "id": 201646,
+      "name": "Rhyl"
+    },
+    {
+      "id": 201647,
+      "name": "Rhymney"
+    },
+    {
+      "id": 201648,
+      "name": "Risca"
+    },
+    {
+      "id": 201649,
+      "name": "Rogiet"
+    },
+    {
+      "id": 201650,
+      "name": "Rossett"
+    },
+    {
+      "id": 201651,
+      "name": "Ruabon"
+    },
+    {
+      "id": 201652,
+      "name": "Ruthin"
+    },
+    {
+      "id": 201653,
+      "name": "Saint Asaph"
+    },
+    {
+      "id": 201654,
+      "name": "Saint Clears"
+    },
+    {
+      "id": 201655,
+      "name": "Saint Davids"
+    },
+    {
+      "id": 201656,
+      "name": "Saundersfoot"
+    },
+    {
+      "id": 201657,
+      "name": "Seven Sisters"
+    },
+    {
+      "id": 201658,
+      "name": "Sir Powys"
+    },
+    {
+      "id": 201659,
+      "name": "Southgate"
+    },
+    {
+      "id": 201660,
+      "name": "Spittal"
+    },
+    {
+      "id": 201661,
+      "name": "Steynton"
+    },
+    {
+      "id": 201662,
+      "name": "Swansea"
+    },
+    {
+      "id": 201663,
+      "name": "Taibach"
+    },
+    {
+      "id": 201664,
+      "name": "Tal-y-bont"
+    },
+    {
+      "id": 201665,
+      "name": "Talgarth"
+    },
+    {
+      "id": 201666,
+      "name": "Talysarn"
+    },
+    {
+      "id": 201667,
+      "name": "Templeton"
+    },
+    {
+      "id": 201668,
+      "name": "Tenby"
+    },
+    {
+      "id": 201669,
+      "name": "Three Crosses"
+    },
+    {
+      "id": 201670,
+      "name": "Tintern"
+    },
+    {
+      "id": 201671,
+      "name": "Tonypandy"
+    },
+    {
+      "id": 201672,
+      "name": "Tonyrefail"
+    },
+    {
+      "id": 201673,
+      "name": "Torfaen County Borough"
+    },
+    {
+      "id": 201674,
+      "name": "Trawsfynydd"
+    },
+    {
+      "id": 201675,
+      "name": "Tredegar"
+    },
+    {
+      "id": 201676,
+      "name": "Trefnant"
+    },
+    {
+      "id": 201677,
+      "name": "Tregaron"
+    },
+    {
+      "id": 201678,
+      "name": "Tregarth"
+    },
+    {
+      "id": 201679,
+      "name": "Treharris"
+    },
+    {
+      "id": 201680,
+      "name": "Treorchy"
+    },
+    {
+      "id": 201681,
+      "name": "Treuddyn"
+    },
+    {
+      "id": 201682,
+      "name": "Trimsaran"
+    },
+    {
+      "id": 201683,
+      "name": "Tumble"
+    },
+    {
+      "id": 201684,
+      "name": "Tycroes"
+    },
+    {
+      "id": 201685,
+      "name": "Tywyn"
+    },
+    {
+      "id": 201686,
+      "name": "Undy"
+    },
+    {
+      "id": 201687,
+      "name": "Usk"
+    },
+    {
+      "id": 201688,
+      "name": "Vale of Glamorgan"
+    },
+    {
+      "id": 201689,
+      "name": "Valley"
+    },
+    {
+      "id": 201690,
+      "name": "Victoria"
+    },
+    {
+      "id": 201691,
+      "name": "Welshpool"
+    },
+    {
+      "id": 201692,
+      "name": "Wenvoe"
+    },
+    {
+      "id": 201693,
+      "name": "Whitland"
+    },
+    {
+      "id": 201694,
+      "name": "Wick"
+    },
+    {
+      "id": 201695,
+      "name": "Wrexham"
+    },
+    {
+      "id": 201696,
+      "name": "Y Felinheli"
+    },
+    {
+      "id": 201697,
+      "name": "Ynysybwl"
+    },
+    {
+      "id": 201698,
+      "name": "Ystalyfera"
+    }
+  ]
+}

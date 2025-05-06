@@ -1,0 +1,1567 @@
+{
+  "id": 4458,
+  "name": "Trentino-South Tyrol",
+  "state_code": "32",
+  "cities": [
+    {
+      "id": 132711,
+      "name": "Ala"
+    },
+    {
+      "id": 132712,
+      "name": "Albiano"
+    },
+    {
+      "id": 132713,
+      "name": "Aldeno"
+    },
+    {
+      "id": 132714,
+      "name": "Aldino"
+    },
+    {
+      "id": 132715,
+      "name": "Amblar"
+    },
+    {
+      "id": 132716,
+      "name": "Andalo"
+    },
+    {
+      "id": 132717,
+      "name": "Andriano"
+    },
+    {
+      "id": 132718,
+      "name": "Anterivo"
+    },
+    {
+      "id": 132719,
+      "name": "Arco"
+    },
+    {
+      "id": 132720,
+      "name": "Avelengo"
+    },
+    {
+      "id": 132721,
+      "name": "Avio"
+    },
+    {
+      "id": 132722,
+      "name": "Badia"
+    },
+    {
+      "id": 132723,
+      "name": "Barbiano - Barbian"
+    },
+    {
+      "id": 132724,
+      "name": "Baselga di Pinè"
+    },
+    {
+      "id": 132725,
+      "name": "Bersone"
+    },
+    {
+      "id": 132726,
+      "name": "Besenello"
+    },
+    {
+      "id": 132727,
+      "name": "Bieno"
+    },
+    {
+      "id": 132728,
+      "name": "Bleggio Superiore"
+    },
+    {
+      "id": 132729,
+      "name": "Bocenago"
+    },
+    {
+      "id": 132730,
+      "name": "Bolbeno"
+    },
+    {
+      "id": 132731,
+      "name": "Bolognano-Vignole"
+    },
+    {
+      "id": 132732,
+      "name": "Bolzano"
+    },
+    {
+      "id": 132733,
+      "name": "Bondo"
+    },
+    {
+      "id": 132734,
+      "name": "Bondone"
+    },
+    {
+      "id": 132735,
+      "name": "Borgo Valsugana"
+    },
+    {
+      "id": 132736,
+      "name": "Bosentino-Migazzone"
+    },
+    {
+      "id": 132737,
+      "name": "Braies"
+    },
+    {
+      "id": 132738,
+      "name": "Breguzzo"
+    },
+    {
+      "id": 132739,
+      "name": "Brennero - Brenner"
+    },
+    {
+      "id": 132740,
+      "name": "Brentonico"
+    },
+    {
+      "id": 132741,
+      "name": "Bresimo"
+    },
+    {
+      "id": 132742,
+      "name": "Bressanone"
+    },
+    {
+      "id": 132743,
+      "name": "Brez"
+    },
+    {
+      "id": 132744,
+      "name": "Brione"
+    },
+    {
+      "id": 132745,
+      "name": "Bronzolo"
+    },
+    {
+      "id": 132746,
+      "name": "Brunico"
+    },
+    {
+      "id": 132747,
+      "name": "Caderzone Terme"
+    },
+    {
+      "id": 132748,
+      "name": "Cadine"
+    },
+    {
+      "id": 132749,
+      "name": "Cadipietra"
+    },
+    {
+      "id": 132750,
+      "name": "Cagnò"
+    },
+    {
+      "id": 132751,
+      "name": "Caines"
+    },
+    {
+      "id": 132752,
+      "name": "Caines - Kuens"
+    },
+    {
+      "id": 132753,
+      "name": "Calavino"
+    },
+    {
+      "id": 132754,
+      "name": "Calceranica al Lago"
+    },
+    {
+      "id": 132755,
+      "name": "Caldaro sulla Strada del Vino"
+    },
+    {
+      "id": 132756,
+      "name": "Caldes"
+    },
+    {
+      "id": 132757,
+      "name": "Caldonazzo"
+    },
+    {
+      "id": 132758,
+      "name": "Calliano"
+    },
+    {
+      "id": 132759,
+      "name": "Campitello di Fassa"
+    },
+    {
+      "id": 132760,
+      "name": "Campo di Trens"
+    },
+    {
+      "id": 132761,
+      "name": "Campo Tures"
+    },
+    {
+      "id": 132762,
+      "name": "Campodenno"
+    },
+    {
+      "id": 132763,
+      "name": "Canal San Bovo"
+    },
+    {
+      "id": 132764,
+      "name": "Canazei"
+    },
+    {
+      "id": 132765,
+      "name": "Capriana"
+    },
+    {
+      "id": 132766,
+      "name": "Carano"
+    },
+    {
+      "id": 132767,
+      "name": "Cardano"
+    },
+    {
+      "id": 132768,
+      "name": "Carisolo"
+    },
+    {
+      "id": 132769,
+      "name": "Carzano"
+    },
+    {
+      "id": 132770,
+      "name": "Castel Condino"
+    },
+    {
+      "id": 132771,
+      "name": "Castelbello"
+    },
+    {
+      "id": 132772,
+      "name": "Castelbello-Ciardes - Kastelbell-Tschars"
+    },
+    {
+      "id": 132773,
+      "name": "Castelfondo"
+    },
+    {
+      "id": 132774,
+      "name": "Castello Molina di Fiemme"
+    },
+    {
+      "id": 132775,
+      "name": "Castello Tesino"
+    },
+    {
+      "id": 132776,
+      "name": "Castelnuovo"
+    },
+    {
+      "id": 132777,
+      "name": "Castelrotto"
+    },
+    {
+      "id": 132778,
+      "name": "Cavalese"
+    },
+    {
+      "id": 132779,
+      "name": "Cavareno"
+    },
+    {
+      "id": 132780,
+      "name": "Cavedago"
+    },
+    {
+      "id": 132781,
+      "name": "Cavedine"
+    },
+    {
+      "id": 132782,
+      "name": "Cavizzana"
+    },
+    {
+      "id": 132783,
+      "name": "Cembra"
+    },
+    {
+      "id": 132784,
+      "name": "Centa San Nicolò"
+    },
+    {
+      "id": 132785,
+      "name": "Centrale"
+    },
+    {
+      "id": 132786,
+      "name": "Cermes"
+    },
+    {
+      "id": 132787,
+      "name": "Certosa"
+    },
+    {
+      "id": 132788,
+      "name": "Chienes"
+    },
+    {
+      "id": 132789,
+      "name": "Chiusa"
+    },
+    {
+      "id": 132790,
+      "name": "Cimego"
+    },
+    {
+      "id": 132791,
+      "name": "Cimoneri"
+    },
+    {
+      "id": 132792,
+      "name": "Cinte Tesino"
+    },
+    {
+      "id": 132793,
+      "name": "Cis"
+    },
+    {
+      "id": 132794,
+      "name": "Civezzano"
+    },
+    {
+      "id": 132795,
+      "name": "Cles"
+    },
+    {
+      "id": 132796,
+      "name": "Cloz"
+    },
+    {
+      "id": 132797,
+      "name": "Cogolo"
+    },
+    {
+      "id": 132798,
+      "name": "Collalbo"
+    },
+    {
+      "id": 132799,
+      "name": "Colle Isarco"
+    },
+    {
+      "id": 132800,
+      "name": "Commezzadura"
+    },
+    {
+      "id": 132801,
+      "name": "Condino"
+    },
+    {
+      "id": 132802,
+      "name": "Coredo"
+    },
+    {
+      "id": 132803,
+      "name": "Cornaiano"
+    },
+    {
+      "id": 132804,
+      "name": "Cornedo All'Isarco"
+    },
+    {
+      "id": 132805,
+      "name": "Cortaccia sulla Strada del Vino"
+    },
+    {
+      "id": 132806,
+      "name": "Cortina sulla Strada del Vino"
+    },
+    {
+      "id": 132807,
+      "name": "Corvara in Badia"
+    },
+    {
+      "id": 132808,
+      "name": "Covelo"
+    },
+    {
+      "id": 132809,
+      "name": "Creto"
+    },
+    {
+      "id": 132810,
+      "name": "Croviana"
+    },
+    {
+      "id": 132811,
+      "name": "Cunevo"
+    },
+    {
+      "id": 132812,
+      "name": "Curon Venosta"
+    },
+    {
+      "id": 132813,
+      "name": "Daiano"
+    },
+    {
+      "id": 132814,
+      "name": "Dambel"
+    },
+    {
+      "id": 132815,
+      "name": "Daone"
+    },
+    {
+      "id": 132816,
+      "name": "Denno"
+    },
+    {
+      "id": 132817,
+      "name": "Dimaro"
+    },
+    {
+      "id": 132818,
+      "name": "Dobbiaco"
+    },
+    {
+      "id": 132819,
+      "name": "Don"
+    },
+    {
+      "id": 132820,
+      "name": "Dorsino"
+    },
+    {
+      "id": 132821,
+      "name": "Drena"
+    },
+    {
+      "id": 132822,
+      "name": "Dro"
+    },
+    {
+      "id": 132823,
+      "name": "Egna"
+    },
+    {
+      "id": 132824,
+      "name": "Faedo"
+    },
+    {
+      "id": 132825,
+      "name": "Fai della Paganella"
+    },
+    {
+      "id": 132826,
+      "name": "Falzes"
+    },
+    {
+      "id": 132827,
+      "name": "Faver"
+    },
+    {
+      "id": 132828,
+      "name": "Fiavè"
+    },
+    {
+      "id": 132829,
+      "name": "Fiè Allo Sciliar"
+    },
+    {
+      "id": 132830,
+      "name": "Fiera di Primiero"
+    },
+    {
+      "id": 132831,
+      "name": "Fierozzo"
+    },
+    {
+      "id": 132832,
+      "name": "Flavon"
+    },
+    {
+      "id": 132833,
+      "name": "Folgaria"
+    },
+    {
+      "id": 132834,
+      "name": "Fondo"
+    },
+    {
+      "id": 132835,
+      "name": "Fontana Nuova-Bevia"
+    },
+    {
+      "id": 132836,
+      "name": "Fornace"
+    },
+    {
+      "id": 132837,
+      "name": "Fortezza"
+    },
+    {
+      "id": 132838,
+      "name": "Frassilongo"
+    },
+    {
+      "id": 132839,
+      "name": "Fraviano"
+    },
+    {
+      "id": 132840,
+      "name": "Funes - Villnoess"
+    },
+    {
+      "id": 132841,
+      "name": "Gais"
+    },
+    {
+      "id": 132842,
+      "name": "Ganda"
+    },
+    {
+      "id": 132843,
+      "name": "Gargazzone"
+    },
+    {
+      "id": 132844,
+      "name": "Garniga Nuova"
+    },
+    {
+      "id": 132845,
+      "name": "Gionghi-Cappella"
+    },
+    {
+      "id": 132846,
+      "name": "Giovo"
+    },
+    {
+      "id": 132847,
+      "name": "Giustino"
+    },
+    {
+      "id": 132848,
+      "name": "Glorenza"
+    },
+    {
+      "id": 132849,
+      "name": "Grauno"
+    },
+    {
+      "id": 132850,
+      "name": "Grigno"
+    },
+    {
+      "id": 132851,
+      "name": "Grumes"
+    },
+    {
+      "id": 132852,
+      "name": "Imer"
+    },
+    {
+      "id": 132853,
+      "name": "Isera"
+    },
+    {
+      "id": 132854,
+      "name": "La Valle - Wengen"
+    },
+    {
+      "id": 132855,
+      "name": "Laces"
+    },
+    {
+      "id": 132856,
+      "name": "Laghetti"
+    },
+    {
+      "id": 132857,
+      "name": "Lagundo"
+    },
+    {
+      "id": 132858,
+      "name": "Laion"
+    },
+    {
+      "id": 132859,
+      "name": "Laives"
+    },
+    {
+      "id": 132860,
+      "name": "Lana"
+    },
+    {
+      "id": 132861,
+      "name": "Lardaro"
+    },
+    {
+      "id": 132862,
+      "name": "Lasa"
+    },
+    {
+      "id": 132863,
+      "name": "Lases"
+    },
+    {
+      "id": 132864,
+      "name": "Lasino"
+    },
+    {
+      "id": 132865,
+      "name": "Lauregno"
+    },
+    {
+      "id": 132866,
+      "name": "Lavis"
+    },
+    {
+      "id": 132867,
+      "name": "Leone-Santa Elisabetta"
+    },
+    {
+      "id": 132868,
+      "name": "Levico Terme"
+    },
+    {
+      "id": 132869,
+      "name": "Lisignago"
+    },
+    {
+      "id": 132870,
+      "name": "Livo"
+    },
+    {
+      "id": 132871,
+      "name": "Lodrone-Darzo"
+    },
+    {
+      "id": 132872,
+      "name": "Lona-Lases"
+    },
+    {
+      "id": 132873,
+      "name": "Luserna"
+    },
+    {
+      "id": 132874,
+      "name": "Luson - Luesen"
+    },
+    {
+      "id": 132875,
+      "name": "Madrano-Canzolino"
+    },
+    {
+      "id": 132876,
+      "name": "Magrè sulla Strada del Vino"
+    },
+    {
+      "id": 132877,
+      "name": "Malè"
+    },
+    {
+      "id": 132878,
+      "name": "Malles Venosta"
+    },
+    {
+      "id": 132879,
+      "name": "Malosco"
+    },
+    {
+      "id": 132880,
+      "name": "Marco"
+    },
+    {
+      "id": 132881,
+      "name": "Marlengo"
+    },
+    {
+      "id": 132882,
+      "name": "Massimeno"
+    },
+    {
+      "id": 132883,
+      "name": "Mattarello"
+    },
+    {
+      "id": 132884,
+      "name": "Mazzin"
+    },
+    {
+      "id": 132885,
+      "name": "Meano"
+    },
+    {
+      "id": 132886,
+      "name": "Meiern"
+    },
+    {
+      "id": 132887,
+      "name": "Meltina"
+    },
+    {
+      "id": 132888,
+      "name": "Merano"
+    },
+    {
+      "id": 132889,
+      "name": "Mezzana"
+    },
+    {
+      "id": 132890,
+      "name": "Mezzano"
+    },
+    {
+      "id": 132891,
+      "name": "Mezzocorona"
+    },
+    {
+      "id": 132892,
+      "name": "Mezzolombardo"
+    },
+    {
+      "id": 132893,
+      "name": "Miola di Pinè"
+    },
+    {
+      "id": 132894,
+      "name": "Moena"
+    },
+    {
+      "id": 132895,
+      "name": "Molina di Ledro"
+    },
+    {
+      "id": 132896,
+      "name": "Molveno"
+    },
+    {
+      "id": 132897,
+      "name": "Monclassico"
+    },
+    {
+      "id": 132898,
+      "name": "Monguelfo"
+    },
+    {
+      "id": 132899,
+      "name": "Montagna"
+    },
+    {
+      "id": 132900,
+      "name": "Montagne"
+    },
+    {
+      "id": 132901,
+      "name": "Mori"
+    },
+    {
+      "id": 132902,
+      "name": "Moscheri"
+    },
+    {
+      "id": 132903,
+      "name": "Moso in Passiria"
+    },
+    {
+      "id": 132904,
+      "name": "Mühlen in Taufers"
+    },
+    {
+      "id": 132905,
+      "name": "Nago-Torbole"
+    },
+    {
+      "id": 132906,
+      "name": "Nalles"
+    },
+    {
+      "id": 132907,
+      "name": "Nanno"
+    },
+    {
+      "id": 132908,
+      "name": "Naturno"
+    },
+    {
+      "id": 132909,
+      "name": "Nave San Rocco"
+    },
+    {
+      "id": 132910,
+      "name": "Naz-Sciaves - Natz-Schabs"
+    },
+    {
+      "id": 132911,
+      "name": "Nogaredo"
+    },
+    {
+      "id": 132912,
+      "name": "Nomi"
+    },
+    {
+      "id": 132913,
+      "name": "Nova Levante"
+    },
+    {
+      "id": 132914,
+      "name": "Nova Ponente"
+    },
+    {
+      "id": 132915,
+      "name": "Novaledo"
+    },
+    {
+      "id": 132916,
+      "name": "Ora"
+    },
+    {
+      "id": 132917,
+      "name": "Ortisei"
+    },
+    {
+      "id": 132918,
+      "name": "Ospedaletto"
+    },
+    {
+      "id": 132919,
+      "name": "Ossana"
+    },
+    {
+      "id": 132920,
+      "name": "Padergnone"
+    },
+    {
+      "id": 132921,
+      "name": "Palù del Fersina"
+    },
+    {
+      "id": 132922,
+      "name": "Panchià"
+    },
+    {
+      "id": 132923,
+      "name": "Parcines"
+    },
+    {
+      "id": 132924,
+      "name": "Pellizzano"
+    },
+    {
+      "id": 132925,
+      "name": "Pelugo"
+    },
+    {
+      "id": 132926,
+      "name": "Perca"
+    },
+    {
+      "id": 132927,
+      "name": "Pergine Valsugana"
+    },
+    {
+      "id": 132928,
+      "name": "Piazza"
+    },
+    {
+      "id": 132929,
+      "name": "Pietramurata"
+    },
+    {
+      "id": 132930,
+      "name": "Pieve di Bono"
+    },
+    {
+      "id": 132931,
+      "name": "Pieve di Ledro"
+    },
+    {
+      "id": 132932,
+      "name": "Pieve Tesino"
+    },
+    {
+      "id": 132933,
+      "name": "Pineta"
+    },
+    {
+      "id": 132934,
+      "name": "Pinzolo"
+    },
+    {
+      "id": 132935,
+      "name": "Plaus"
+    },
+    {
+      "id": 132936,
+      "name": "Pomarolo"
+    },
+    {
+      "id": 132937,
+      "name": "Ponte Arche"
+    },
+    {
+      "id": 132938,
+      "name": "Ponte Gardena"
+    },
+    {
+      "id": 132939,
+      "name": "Postal"
+    },
+    {
+      "id": 132940,
+      "name": "Povo"
+    },
+    {
+      "id": 132941,
+      "name": "Pozza di Fassa"
+    },
+    {
+      "id": 132942,
+      "name": "Praso"
+    },
+    {
+      "id": 132943,
+      "name": "Prati"
+    },
+    {
+      "id": 132944,
+      "name": "Prato Allo Stelvio"
+    },
+    {
+      "id": 132945,
+      "name": "Predazzo"
+    },
+    {
+      "id": 132946,
+      "name": "Predoi"
+    },
+    {
+      "id": 132947,
+      "name": "Preore"
+    },
+    {
+      "id": 132948,
+      "name": "Prezzo"
+    },
+    {
+      "id": 132949,
+      "name": "Proves - Proveis"
+    },
+    {
+      "id": 132950,
+      "name": "Provincia autonoma di Trento"
+    },
+    {
+      "id": 132951,
+      "name": "Rabbi Fonti"
+    },
+    {
+      "id": 132952,
+      "name": "Rablà"
+    },
+    {
+      "id": 132953,
+      "name": "Racines"
+    },
+    {
+      "id": 132954,
+      "name": "Racines - Ratschings"
+    },
+    {
+      "id": 132955,
+      "name": "Ragoli"
+    },
+    {
+      "id": 132956,
+      "name": "Rasun Anterselva - Rasen-Antholz"
+    },
+    {
+      "id": 132957,
+      "name": "Ravina"
+    },
+    {
+      "id": 132958,
+      "name": "Renon - Ritten"
+    },
+    {
+      "id": 132959,
+      "name": "Revò"
+    },
+    {
+      "id": 132960,
+      "name": "Ried"
+    },
+    {
+      "id": 132961,
+      "name": "Rifiano"
+    },
+    {
+      "id": 132962,
+      "name": "Rio di Pusteria"
+    },
+    {
+      "id": 132963,
+      "name": "Riscone"
+    },
+    {
+      "id": 132964,
+      "name": "Riva del Garda"
+    },
+    {
+      "id": 132965,
+      "name": "Rodengo"
+    },
+    {
+      "id": 132966,
+      "name": "Rodengo - Rodeneck"
+    },
+    {
+      "id": 132967,
+      "name": "Romagnano"
+    },
+    {
+      "id": 132968,
+      "name": "Romallo"
+    },
+    {
+      "id": 132969,
+      "name": "Romeno"
+    },
+    {
+      "id": 132970,
+      "name": "Roncegno"
+    },
+    {
+      "id": 132971,
+      "name": "Ronchi Valsugana"
+    },
+    {
+      "id": 132972,
+      "name": "Roncone"
+    },
+    {
+      "id": 132973,
+      "name": "Ronzo-Chienis"
+    },
+    {
+      "id": 132974,
+      "name": "Ronzone"
+    },
+    {
+      "id": 132975,
+      "name": "Roverè della Luna"
+    },
+    {
+      "id": 132976,
+      "name": "Rovereto"
+    },
+    {
+      "id": 132977,
+      "name": "Ruffrè"
+    },
+    {
+      "id": 132978,
+      "name": "Rumo"
+    },
+    {
+      "id": 132979,
+      "name": "Sabbionara"
+    },
+    {
+      "id": 132980,
+      "name": "Sagron Mis"
+    },
+    {
+      "id": 132981,
+      "name": "Salorno"
+    },
+    {
+      "id": 132982,
+      "name": "Samone"
+    },
+    {
+      "id": 132983,
+      "name": "San Bernardo"
+    },
+    {
+      "id": 132984,
+      "name": "San Candido"
+    },
+    {
+      "id": 132985,
+      "name": "San Felice"
+    },
+    {
+      "id": 132986,
+      "name": "San Genesio"
+    },
+    {
+      "id": 132987,
+      "name": "San Genesio Atesino"
+    },
+    {
+      "id": 132988,
+      "name": "San Giacomo"
+    },
+    {
+      "id": 132989,
+      "name": "San Leonardo in Passiria"
+    },
+    {
+      "id": 132990,
+      "name": "San Lorenzo di Sebato"
+    },
+    {
+      "id": 132991,
+      "name": "San Lorenzo in Banale"
+    },
+    {
+      "id": 132992,
+      "name": "San Martino"
+    },
+    {
+      "id": 132993,
+      "name": "San Martino in Badia"
+    },
+    {
+      "id": 132994,
+      "name": "San Martino in Passiria"
+    },
+    {
+      "id": 132995,
+      "name": "San Michele"
+    },
+    {
+      "id": 132996,
+      "name": "San Michele All'Adige"
+    },
+    {
+      "id": 132997,
+      "name": "San Pancrazio"
+    },
+    {
+      "id": 132998,
+      "name": "San Paolo"
+    },
+    {
+      "id": 132999,
+      "name": "San Pietro"
+    },
+    {
+      "id": 133000,
+      "name": "San Vigilio"
+    },
+    {
+      "id": 133001,
+      "name": "Sant'Orsola"
+    },
+    {
+      "id": 133002,
+      "name": "Sant'Orsola Terme"
+    },
+    {
+      "id": 133003,
+      "name": "Santa Cristina Valgardena"
+    },
+    {
+      "id": 133004,
+      "name": "Santa Valburga"
+    },
+    {
+      "id": 133005,
+      "name": "Sanzeno"
+    },
+    {
+      "id": 133006,
+      "name": "Sarentino"
+    },
+    {
+      "id": 133007,
+      "name": "Sarnonico"
+    },
+    {
+      "id": 133008,
+      "name": "Scena"
+    },
+    {
+      "id": 133009,
+      "name": "Scena - Schenna"
+    },
+    {
+      "id": 133010,
+      "name": "Sciaves"
+    },
+    {
+      "id": 133011,
+      "name": "Scurelle"
+    },
+    {
+      "id": 133012,
+      "name": "Segonzano"
+    },
+    {
+      "id": 133013,
+      "name": "Selva"
+    },
+    {
+      "id": 133014,
+      "name": "Selva dei Molini"
+    },
+    {
+      "id": 133015,
+      "name": "Senale"
+    },
+    {
+      "id": 133016,
+      "name": "Senales"
+    },
+    {
+      "id": 133017,
+      "name": "Sesto"
+    },
+    {
+      "id": 133018,
+      "name": "Sfruz"
+    },
+    {
+      "id": 133019,
+      "name": "Silandro"
+    },
+    {
+      "id": 133020,
+      "name": "Sinigo"
+    },
+    {
+      "id": 133021,
+      "name": "Siror"
+    },
+    {
+      "id": 133022,
+      "name": "Siusi"
+    },
+    {
+      "id": 133023,
+      "name": "Sluderno"
+    },
+    {
+      "id": 133024,
+      "name": "Smarano"
+    },
+    {
+      "id": 133025,
+      "name": "Soprabolzano"
+    },
+    {
+      "id": 133026,
+      "name": "Soraga"
+    },
+    {
+      "id": 133027,
+      "name": "Sover"
+    },
+    {
+      "id": 133028,
+      "name": "Spera"
+    },
+    {
+      "id": 133029,
+      "name": "Spiazzo"
+    },
+    {
+      "id": 133030,
+      "name": "Spormaggiore"
+    },
+    {
+      "id": 133031,
+      "name": "Sporminore"
+    },
+    {
+      "id": 133032,
+      "name": "Stanghe"
+    },
+    {
+      "id": 133033,
+      "name": "Stelvio"
+    },
+    {
+      "id": 133034,
+      "name": "Stenico"
+    },
+    {
+      "id": 133035,
+      "name": "Storo"
+    },
+    {
+      "id": 133036,
+      "name": "Strembo"
+    },
+    {
+      "id": 133037,
+      "name": "Strigno"
+    },
+    {
+      "id": 133038,
+      "name": "Taio"
+    },
+    {
+      "id": 133039,
+      "name": "Tassullo"
+    },
+    {
+      "id": 133040,
+      "name": "Telve"
+    },
+    {
+      "id": 133041,
+      "name": "Telve di Sopra"
+    },
+    {
+      "id": 133042,
+      "name": "Tenna"
+    },
+    {
+      "id": 133043,
+      "name": "Tenno"
+    },
+    {
+      "id": 133044,
+      "name": "Terento"
+    },
+    {
+      "id": 133045,
+      "name": "Terlago"
+    },
+    {
+      "id": 133046,
+      "name": "Terlano"
+    },
+    {
+      "id": 133047,
+      "name": "Termeno"
+    },
+    {
+      "id": 133048,
+      "name": "Terragnolo"
+    },
+    {
+      "id": 133049,
+      "name": "Terres"
+    },
+    {
+      "id": 133050,
+      "name": "Terzolas"
+    },
+    {
+      "id": 133051,
+      "name": "Tesero"
+    },
+    {
+      "id": 133052,
+      "name": "Tesimo"
+    },
+    {
+      "id": 133053,
+      "name": "Tione di Trento"
+    },
+    {
+      "id": 133054,
+      "name": "Tires"
+    },
+    {
+      "id": 133055,
+      "name": "Tirolo"
+    },
+    {
+      "id": 133056,
+      "name": "Tonadico"
+    },
+    {
+      "id": 133057,
+      "name": "Torcegno"
+    },
+    {
+      "id": 133058,
+      "name": "Trambileno"
+    },
+    {
+      "id": 133059,
+      "name": "Transacqua"
+    },
+    {
+      "id": 133060,
+      "name": "Trento"
+    },
+    {
+      "id": 133061,
+      "name": "Tres"
+    },
+    {
+      "id": 133062,
+      "name": "Trodena"
+    },
+    {
+      "id": 133063,
+      "name": "Tubre"
+    },
+    {
+      "id": 133064,
+      "name": "Tuenno"
+    },
+    {
+      "id": 133065,
+      "name": "Ultimo - Ulten"
+    },
+    {
+      "id": 133066,
+      "name": "Vadena"
+    },
+    {
+      "id": 133067,
+      "name": "Valda"
+    },
+    {
+      "id": 133068,
+      "name": "Valdaora di Mezzo"
+    },
+    {
+      "id": 133069,
+      "name": "Valfloriana"
+    },
+    {
+      "id": 133070,
+      "name": "Vallarsa"
+    },
+    {
+      "id": 133071,
+      "name": "Valle Aurina - Ahrntal"
+    },
+    {
+      "id": 133072,
+      "name": "Valle di Casies - Gsies"
+    },
+    {
+      "id": 133073,
+      "name": "Vandoies - Vintl"
+    },
+    {
+      "id": 133074,
+      "name": "Vandoies di Sotto"
+    },
+    {
+      "id": 133075,
+      "name": "Varena"
+    },
+    {
+      "id": 133076,
+      "name": "Varna"
+    },
+    {
+      "id": 133077,
+      "name": "Vattaro"
+    },
+    {
+      "id": 133078,
+      "name": "Velturno"
+    },
+    {
+      "id": 133079,
+      "name": "Verano"
+    },
+    {
+      "id": 133080,
+      "name": "Verano - Voeran"
+    },
+    {
+      "id": 133081,
+      "name": "Verla"
+    },
+    {
+      "id": 133082,
+      "name": "Vermiglio"
+    },
+    {
+      "id": 133083,
+      "name": "Vervò"
+    },
+    {
+      "id": 133084,
+      "name": "Vezzano"
+    },
+    {
+      "id": 133085,
+      "name": "Vignola"
+    },
+    {
+      "id": 133086,
+      "name": "Vigo di Fassa"
+    },
+    {
+      "id": 133087,
+      "name": "Vigo di Ton"
+    },
+    {
+      "id": 133088,
+      "name": "Vigolo Vattaro"
+    },
+    {
+      "id": 133089,
+      "name": "Villa"
+    },
+    {
+      "id": 133090,
+      "name": "Villa Lagarina"
+    },
+    {
+      "id": 133091,
+      "name": "Villa Rendena"
+    },
+    {
+      "id": 133092,
+      "name": "Villa-Agnedo"
+    },
+    {
+      "id": 133093,
+      "name": "Villabassa"
+    },
+    {
+      "id": 133094,
+      "name": "Villandro"
+    },
+    {
+      "id": 133095,
+      "name": "Villandro - Villanders"
+    },
+    {
+      "id": 133096,
+      "name": "Vipiteno"
+    },
+    {
+      "id": 133097,
+      "name": "Volano"
+    },
+    {
+      "id": 133098,
+      "name": "Zambana"
+    },
+    {
+      "id": 133099,
+      "name": "Ziano di Fiemme"
+    },
+    {
+      "id": 133100,
+      "name": "Zuclo"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "id": 5154,
+  "name": "Zacatecas",
+  "state_code": "ZAC",
+  "cities": [
+    {
+      "id": 148064,
+      "name": "Agua Gorda"
+    },
+    {
+      "id": 148065,
+      "name": "Altamira"
+    },
+    {
+      "id": 148066,
+      "name": "Apozol"
+    },
+    {
+      "id": 148067,
+      "name": "Atolinga"
+    },
+    {
+      "id": 148068,
+      "name": "Bajío de San Nicolás"
+    },
+    {
+      "id": 148069,
+      "name": "Buenavista de Trujillo"
+    },
+    {
+      "id": 148070,
+      "name": "Cañas"
+    },
+    {
+      "id": 148071,
+      "name": "Cañitas de Felipe Pescador"
+    },
+    {
+      "id": 148072,
+      "name": "Cantuna"
+    },
+    {
+      "id": 148073,
+      "name": "Carrillo"
+    },
+    {
+      "id": 148074,
+      "name": "Casa de Cerros"
+    },
+    {
+      "id": 148075,
+      "name": "Cedros"
+    },
+    {
+      "id": 148076,
+      "name": "Cerrito de la Cruz"
+    },
+    {
+      "id": 148077,
+      "name": "Chalchihuites"
+    },
+    {
+      "id": 148078,
+      "name": "Chaparrosa"
+    },
+    {
+      "id": 148079,
+      "name": "Charco Blanco"
+    },
+    {
+      "id": 148080,
+      "name": "Chichimequillas"
+    },
+    {
+      "id": 148081,
+      "name": "Chupaderos"
+    },
+    {
+      "id": 148082,
+      "name": "Cicacalco"
+    },
+    {
+      "id": 148083,
+      "name": "Cieneguillas"
+    },
+    {
+      "id": 148084,
+      "name": "Cieneguitas"
+    },
+    {
+      "id": 148085,
+      "name": "Colonia Felipe Ángeles"
+    },
+    {
+      "id": 148086,
+      "name": "Colonia Francisco García Salinas"
+    },
+    {
+      "id": 148087,
+      "name": "Colonia Hidalgo (El Tecolote)"
+    },
+    {
+      "id": 148088,
+      "name": "Colonia José María Morelos"
+    },
+    {
+      "id": 148089,
+      "name": "Colonia Montemariana (Colonia Mariana)"
+    },
+    {
+      "id": 148090,
+      "name": "Colonia Plenitud"
+    },
+    {
+      "id": 148091,
+      "name": "Colonia San Francisco (San Francisco)"
+    },
+    {
+      "id": 148092,
+      "name": "Concepción del Oro"
+    },
+    {
+      "id": 148093,
+      "name": "Crisóstomos"
+    },
+    {
+      "id": 148094,
+      "name": "Ejido Hidalgo"
+    },
+    {
+      "id": 148095,
+      "name": "Ejido Zaragoza"
+    },
+    {
+      "id": 148096,
+      "name": "El Cazadero"
+    },
+    {
+      "id": 148097,
+      "name": "El Copetillo"
+    },
+    {
+      "id": 148098,
+      "name": "El Fuerte"
+    },
+    {
+      "id": 148099,
+      "name": "El Lampotal"
+    },
+    {
+      "id": 148100,
+      "name": "El Nigromante"
+    },
+    {
+      "id": 148101,
+      "name": "El Obraje"
+    },
+    {
+      "id": 148102,
+      "name": "El Plateado de Joaquín Amaro"
+    },
+    {
+      "id": 148103,
+      "name": "El Refugio"
+    },
+    {
+      "id": 148104,
+      "name": "El Rucio"
+    },
+    {
+      "id": 148105,
+      "name": "El Salto"
+    },
+    {
+      "id": 148106,
+      "name": "El Salvador"
+    },
+    {
+      "id": 148107,
+      "name": "El Saucito (El Horno)"
+    },
+    {
+      "id": 148108,
+      "name": "El Sitio"
+    },
+    {
+      "id": 148109,
+      "name": "El Tule"
+    },
+    {
+      "id": 148110,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 148111,
+      "name": "Emilio Carranza"
+    },
+    {
+      "id": 148112,
+      "name": "Ermita de Guadalupe"
+    },
+    {
+      "id": 148113,
+      "name": "Estación Camacho"
+    },
+    {
+      "id": 148114,
+      "name": "Estación San José"
+    },
+    {
+      "id": 148115,
+      "name": "Estancia de Ánimas"
+    },
+    {
+      "id": 148116,
+      "name": "Estancia de Guadalupe"
+    },
+    {
+      "id": 148117,
+      "name": "Florencia"
+    },
+    {
+      "id": 148118,
+      "name": "Fresnillo"
+    },
+    {
+      "id": 148119,
+      "name": "General Enrique Estrada"
+    },
+    {
+      "id": 148120,
+      "name": "General Juan José Ríos"
+    },
+    {
+      "id": 148121,
+      "name": "General Lauro G. Caloca (El Rascón)"
+    },
+    {
+      "id": 148122,
+      "name": "General Pánfilo Natera"
+    },
+    {
+      "id": 148123,
+      "name": "Gonzales Ortega"
+    },
+    {
+      "id": 148124,
+      "name": "Granadas"
+    },
+    {
+      "id": 148125,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 148126,
+      "name": "Guanajuatillo"
+    },
+    {
+      "id": 148127,
+      "name": "Hacienda Nueva"
+    },
+    {
+      "id": 148128,
+      "name": "Hacienda Toribio"
+    },
+    {
+      "id": 148129,
+      "name": "Hidalgo"
+    },
+    {
+      "id": 148130,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 148131,
+      "name": "J. Jesús González Ortega (San Mateo)"
+    },
+    {
+      "id": 148132,
+      "name": "Jalpa"
+    },
+    {
+      "id": 148133,
+      "name": "Jaula de Abajo"
+    },
+    {
+      "id": 148134,
+      "name": "Jerez de García Salinas"
+    },
+    {
+      "id": 148135,
+      "name": "Jiménez del Teul"
+    },
+    {
+      "id": 148136,
+      "name": "José María Morelos"
+    },
+    {
+      "id": 148137,
+      "name": "José María Morelos (Santa Mónica)"
+    },
+    {
+      "id": 148138,
+      "name": "José María Morelos y Pavón"
+    },
+    {
+      "id": 148139,
+      "name": "Juan Aldama"
+    },
+    {
+      "id": 148140,
+      "name": "Juchipila"
+    },
+    {
+      "id": 148141,
+      "name": "La Ballena"
+    },
+    {
+      "id": 148142,
+      "name": "La Capilla"
+    },
+    {
+      "id": 148143,
+      "name": "La Concepción"
+    },
+    {
+      "id": 148144,
+      "name": "La Florida"
+    },
+    {
+      "id": 148145,
+      "name": "La Laguna"
+    },
+    {
+      "id": 148146,
+      "name": "La Luz"
+    },
+    {
+      "id": 148147,
+      "name": "La Pendencia"
+    },
+    {
+      "id": 148148,
+      "name": "La Tesorera"
+    },
+    {
+      "id": 148149,
+      "name": "La Victoria"
+    },
+    {
+      "id": 148150,
+      "name": "La Zacatecana"
+    },
+    {
+      "id": 148151,
+      "name": "Laguna Seca"
+    },
+    {
+      "id": 148152,
+      "name": "Las Catarinas"
+    },
+    {
+      "id": 148153,
+      "name": "Las Esperanzas (El Ranchito)"
+    },
+    {
+      "id": 148154,
+      "name": "Las Pilas"
+    },
+    {
+      "id": 148155,
+      "name": "Lázaro Cárdenas (Rancho Grande)"
+    },
+    {
+      "id": 148156,
+      "name": "Lobatos"
+    },
+    {
+      "id": 148157,
+      "name": "Loreto"
+    },
+    {
+      "id": 148158,
+      "name": "Los Condes"
+    },
+    {
+      "id": 148159,
+      "name": "Los Ramírez"
+    },
+    {
+      "id": 148160,
+      "name": "Luis Moya"
+    },
+    {
+      "id": 148161,
+      "name": "Malpaso"
+    },
+    {
+      "id": 148162,
+      "name": "Maravillas"
+    },
+    {
+      "id": 148163,
+      "name": "Martínez Domínguez"
+    },
+    {
+      "id": 148164,
+      "name": "Mazapil"
+    },
+    {
+      "id": 148165,
+      "name": "Mezquital del Oro"
+    },
+    {
+      "id": 148166,
+      "name": "Miguel Auza"
+    },
+    {
+      "id": 148167,
+      "name": "Milagros"
+    },
+    {
+      "id": 148168,
+      "name": "Momax"
+    },
+    {
+      "id": 148169,
+      "name": "Monte Escobedo"
+    },
+    {
+      "id": 148170,
+      "name": "Morelos"
+    },
+    {
+      "id": 148171,
+      "name": "Moyahua de Estrada"
+    },
+    {
+      "id": 148172,
+      "name": "Nieves"
+    },
+    {
+      "id": 148173,
+      "name": "Nochistlán de Mejía"
+    },
+    {
+      "id": 148174,
+      "name": "Noria de Ángeles"
+    },
+    {
+      "id": 148175,
+      "name": "Ojitos"
+    },
+    {
+      "id": 148176,
+      "name": "Paso de Méndez"
+    },
+    {
+      "id": 148177,
+      "name": "Pastelera"
+    },
+    {
+      "id": 148178,
+      "name": "Pastoría"
+    },
+    {
+      "id": 148179,
+      "name": "Pedregoso"
+    },
+    {
+      "id": 148180,
+      "name": "Piedra Gorda"
+    },
+    {
+      "id": 148181,
+      "name": "Pinos"
+    },
+    {
+      "id": 148182,
+      "name": "Plateros"
+    },
+    {
+      "id": 148183,
+      "name": "Pozo de Jarillas"
+    },
+    {
+      "id": 148184,
+      "name": "Pozos de Gamboa"
+    },
+    {
+      "id": 148185,
+      "name": "Rafael Yáñez Sosa (El Mezquite)"
+    },
+    {
+      "id": 148186,
+      "name": "Rancho Nuevo"
+    },
+    {
+      "id": 148187,
+      "name": "Rancho Nuevo de Morelos (De Guadalupe)"
+    },
+    {
+      "id": 148188,
+      "name": "Rio de Medina"
+    },
+    {
+      "id": 148189,
+      "name": "Río Florido"
+    },
+    {
+      "id": 148190,
+      "name": "Río Grande"
+    },
+    {
+      "id": 148191,
+      "name": "Sain Alto"
+    },
+    {
+      "id": 148192,
+      "name": "Sain Bajo"
+    },
+    {
+      "id": 148193,
+      "name": "San Antonio del Cipres"
+    },
+    {
+      "id": 148194,
+      "name": "San Blas"
+    },
+    {
+      "id": 148195,
+      "name": "San Cristóbal"
+    },
+    {
+      "id": 148196,
+      "name": "San Jerónimo"
+    },
+    {
+      "id": 148197,
+      "name": "San José de Castellanos"
+    },
+    {
+      "id": 148198,
+      "name": "San José de la Era"
+    },
+    {
+      "id": 148199,
+      "name": "San Jose de Lourdes"
+    },
+    {
+      "id": 148200,
+      "name": "San José el Saladillo (El Saladillo)"
+    },
+    {
+      "id": 148201,
+      "name": "San Marcos"
+    },
+    {
+      "id": 148202,
+      "name": "San Martin"
+    },
+    {
+      "id": 148203,
+      "name": "San Pablo"
+    },
+    {
+      "id": 148204,
+      "name": "San Pedro Piedra Gorda"
+    },
+    {
+      "id": 148205,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 148206,
+      "name": "Santa Elena"
+    },
+    {
+      "id": 148207,
+      "name": "Santa María de los Ángeles"
+    },
+    {
+      "id": 148208,
+      "name": "Santa Mónica"
+    },
+    {
+      "id": 148209,
+      "name": "Santa Rita"
+    },
+    {
+      "id": 148210,
+      "name": "Santiago"
+    },
+    {
+      "id": 148211,
+      "name": "Santiaguillo"
+    },
+    {
+      "id": 148212,
+      "name": "Sauceda de La Borda"
+    },
+    {
+      "id": 148213,
+      "name": "Seis de Enero"
+    },
+    {
+      "id": 148214,
+      "name": "Susticacán"
+    },
+    {
+      "id": 148215,
+      "name": "Tabasco"
+    },
+    {
+      "id": 148216,
+      "name": "Tacoaleche"
+    },
+    {
+      "id": 148217,
+      "name": "Tapias de Santa Cruz (Pedro Ruiz González)"
+    },
+    {
+      "id": 148218,
+      "name": "Tayahua"
+    },
+    {
+      "id": 148219,
+      "name": "Tepechitlán"
+    },
+    {
+      "id": 148220,
+      "name": "Tepetongo"
+    },
+    {
+      "id": 148221,
+      "name": "Terminal de Providencia"
+    },
+    {
+      "id": 148222,
+      "name": "Tetillas"
+    },
+    {
+      "id": 148223,
+      "name": "Teúl de González Ortega"
+    },
+    {
+      "id": 148224,
+      "name": "Tierra Blanca"
+    },
+    {
+      "id": 148225,
+      "name": "Tlachichila"
+    },
+    {
+      "id": 148226,
+      "name": "Tlaltenango de Sánchez Román"
+    },
+    {
+      "id": 148227,
+      "name": "Trancoso"
+    },
+    {
+      "id": 148228,
+      "name": "Trinidad García de la Cadena"
+    },
+    {
+      "id": 148229,
+      "name": "Valparaíso"
+    },
+    {
+      "id": 148230,
+      "name": "Víctor Rosales"
+    },
+    {
+      "id": 148231,
+      "name": "Villa de Cos"
+    },
+    {
+      "id": 148232,
+      "name": "Villa García"
+    },
+    {
+      "id": 148233,
+      "name": "Villa González Ortega"
+    },
+    {
+      "id": 148234,
+      "name": "Villa Hidalgo"
+    },
+    {
+      "id": 148235,
+      "name": "Villa Insurgentes (El Calabazal)"
+    },
+    {
+      "id": 148236,
+      "name": "Villanueva"
+    },
+    {
+      "id": 148237,
+      "name": "Zacatecas"
+    },
+    {
+      "id": 148238,
+      "name": "Zoquite"
+    }
+  ]
+}

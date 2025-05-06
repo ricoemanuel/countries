@@ -1,0 +1,1503 @@
+{
+  "id": 6666,
+  "name": "Zürich",
+  "state_code": "ZH",
+  "cities": [
+    {
+      "id": 192157,
+      "name": "Adliswil"
+    },
+    {
+      "id": 192158,
+      "name": "Adliswil / Adliswil (Stadtkern)"
+    },
+    {
+      "id": 192159,
+      "name": "Adliswil / Hündli-Zopf"
+    },
+    {
+      "id": 192160,
+      "name": "Adliswil / Oberleimbach"
+    },
+    {
+      "id": 192161,
+      "name": "Adliswil / Sonnenberg"
+    },
+    {
+      "id": 192162,
+      "name": "Adliswil / Sood"
+    },
+    {
+      "id": 192163,
+      "name": "Adliswil / Tal"
+    },
+    {
+      "id": 192164,
+      "name": "Aesch"
+    },
+    {
+      "id": 192165,
+      "name": "Affoltern / Hasenbüel"
+    },
+    {
+      "id": 192166,
+      "name": "Affoltern / Oberdorf"
+    },
+    {
+      "id": 192167,
+      "name": "Affoltern / Sonnenberg"
+    },
+    {
+      "id": 192168,
+      "name": "Affoltern / Unterdorf"
+    },
+    {
+      "id": 192169,
+      "name": "Affoltern am Albis"
+    },
+    {
+      "id": 192170,
+      "name": "Andelfingen"
+    },
+    {
+      "id": 192171,
+      "name": "Au"
+    },
+    {
+      "id": 192172,
+      "name": "Au / Mittel-Dorf"
+    },
+    {
+      "id": 192173,
+      "name": "Au / Unter-Dorf"
+    },
+    {
+      "id": 192174,
+      "name": "Bachenbülach"
+    },
+    {
+      "id": 192175,
+      "name": "Bäretswil"
+    },
+    {
+      "id": 192176,
+      "name": "Bassersdorf"
+    },
+    {
+      "id": 192177,
+      "name": "Bauma"
+    },
+    {
+      "id": 192178,
+      "name": "Benglen"
+    },
+    {
+      "id": 192179,
+      "name": "Bezirk Affoltern"
+    },
+    {
+      "id": 192180,
+      "name": "Bezirk Andelfingen"
+    },
+    {
+      "id": 192181,
+      "name": "Bezirk Bülach"
+    },
+    {
+      "id": 192182,
+      "name": "Bezirk Dielsdorf"
+    },
+    {
+      "id": 192183,
+      "name": "Bezirk Dietikon"
+    },
+    {
+      "id": 192184,
+      "name": "Bezirk Hinwil"
+    },
+    {
+      "id": 192185,
+      "name": "Bezirk Horgen"
+    },
+    {
+      "id": 192186,
+      "name": "Bezirk Meilen"
+    },
+    {
+      "id": 192187,
+      "name": "Bezirk Pfäffikon"
+    },
+    {
+      "id": 192188,
+      "name": "Bezirk Uster"
+    },
+    {
+      "id": 192189,
+      "name": "Bezirk Winterthur"
+    },
+    {
+      "id": 192190,
+      "name": "Bezirk Zürich"
+    },
+    {
+      "id": 192191,
+      "name": "Binz"
+    },
+    {
+      "id": 192192,
+      "name": "Binzikon"
+    },
+    {
+      "id": 192193,
+      "name": "Birchwil"
+    },
+    {
+      "id": 192194,
+      "name": "Birmensdorf"
+    },
+    {
+      "id": 192195,
+      "name": "Bonstetten"
+    },
+    {
+      "id": 192196,
+      "name": "Brütten"
+    },
+    {
+      "id": 192197,
+      "name": "Brüttisellen"
+    },
+    {
+      "id": 192198,
+      "name": "Bubikon"
+    },
+    {
+      "id": 192199,
+      "name": "Bülach"
+    },
+    {
+      "id": 192200,
+      "name": "Bülach / Gstückt"
+    },
+    {
+      "id": 192201,
+      "name": "Bülach / Seematt"
+    },
+    {
+      "id": 192202,
+      "name": "Bülach / Soligänter"
+    },
+    {
+      "id": 192203,
+      "name": "Dachsen"
+    },
+    {
+      "id": 192204,
+      "name": "Dällikon / Dällikon (Dorf)"
+    },
+    {
+      "id": 192205,
+      "name": "Dänikon"
+    },
+    {
+      "id": 192206,
+      "name": "Dielsdorf"
+    },
+    {
+      "id": 192207,
+      "name": "Dietikon"
+    },
+    {
+      "id": 192208,
+      "name": "Dietikon / Almend"
+    },
+    {
+      "id": 192209,
+      "name": "Dietikon / Guggenbühl"
+    },
+    {
+      "id": 192210,
+      "name": "Dietikon / Hofacker"
+    },
+    {
+      "id": 192211,
+      "name": "Dietikon / Kreuzacker"
+    },
+    {
+      "id": 192212,
+      "name": "Dietikon / Oberdorf"
+    },
+    {
+      "id": 192213,
+      "name": "Dietikon / Schönenwerd"
+    },
+    {
+      "id": 192214,
+      "name": "Dietikon / Vorstadt"
+    },
+    {
+      "id": 192215,
+      "name": "Dietlikon / Dietlikon (Dorf)"
+    },
+    {
+      "id": 192216,
+      "name": "Dietlikon / Eichwiesen"
+    },
+    {
+      "id": 192217,
+      "name": "Dorf"
+    },
+    {
+      "id": 192218,
+      "name": "Dübendorf"
+    },
+    {
+      "id": 192219,
+      "name": "Dübendorf / Kunklerstrasse"
+    },
+    {
+      "id": 192220,
+      "name": "Dübendorf / Sonnenberg"
+    },
+    {
+      "id": 192221,
+      "name": "Dübendorf / Vogelquartier"
+    },
+    {
+      "id": 192222,
+      "name": "Dübendorf / Wasserfurren"
+    },
+    {
+      "id": 192223,
+      "name": "Dürnten"
+    },
+    {
+      "id": 192224,
+      "name": "Ebmatingen"
+    },
+    {
+      "id": 192225,
+      "name": "Effretikon"
+    },
+    {
+      "id": 192226,
+      "name": "Effretikon / Rappenhalde-Bannhalde"
+    },
+    {
+      "id": 192227,
+      "name": "Effretikon / Rikon"
+    },
+    {
+      "id": 192228,
+      "name": "Effretikon / Watt"
+    },
+    {
+      "id": 192229,
+      "name": "Egg"
+    },
+    {
+      "id": 192230,
+      "name": "Elgg"
+    },
+    {
+      "id": 192231,
+      "name": "Elgg / Städtchen und Umgebung"
+    },
+    {
+      "id": 192232,
+      "name": "Elsau-Räterschen"
+    },
+    {
+      "id": 192233,
+      "name": "Elsau-Räterschen / Räterschen"
+    },
+    {
+      "id": 192234,
+      "name": "Embrach"
+    },
+    {
+      "id": 192235,
+      "name": "Embrach / Embrach (Dorfkern)"
+    },
+    {
+      "id": 192236,
+      "name": "Embrach / Kellersacker"
+    },
+    {
+      "id": 192237,
+      "name": "Erlenbach"
+    },
+    {
+      "id": 192238,
+      "name": "Erlenbach / links des Dorfbachs oberhalb Bahnlinie"
+    },
+    {
+      "id": 192239,
+      "name": "Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie"
+    },
+    {
+      "id": 192240,
+      "name": "Esslingen"
+    },
+    {
+      "id": 192241,
+      "name": "Fällanden"
+    },
+    {
+      "id": 192242,
+      "name": "Fehraltorf"
+    },
+    {
+      "id": 192243,
+      "name": "Feldmeilen"
+    },
+    {
+      "id": 192244,
+      "name": "Feuerthalen"
+    },
+    {
+      "id": 192245,
+      "name": "Flurlingen"
+    },
+    {
+      "id": 192246,
+      "name": "Freienstein"
+    },
+    {
+      "id": 192247,
+      "name": "Gattikon"
+    },
+    {
+      "id": 192248,
+      "name": "Geroldswil"
+    },
+    {
+      "id": 192249,
+      "name": "Glattbrugg"
+    },
+    {
+      "id": 192250,
+      "name": "Glattbrugg / Rohr/Platten-Balsberg"
+    },
+    {
+      "id": 192251,
+      "name": "Glattbrugg / Wydacker/Bettacker/Lättenwiesen"
+    },
+    {
+      "id": 192252,
+      "name": "Glattfelden"
+    },
+    {
+      "id": 192253,
+      "name": "Gockhausen"
+    },
+    {
+      "id": 192254,
+      "name": "Gossau"
+    },
+    {
+      "id": 192255,
+      "name": "Greifensee"
+    },
+    {
+      "id": 192256,
+      "name": "Greifensee / Müllerwis / Seilerwis"
+    },
+    {
+      "id": 192257,
+      "name": "Greifensee / Pfisterhölzli"
+    },
+    {
+      "id": 192258,
+      "name": "Grossacker/Opfikon"
+    },
+    {
+      "id": 192259,
+      "name": "Grüt"
+    },
+    {
+      "id": 192260,
+      "name": "Gutenswil"
+    },
+    {
+      "id": 192261,
+      "name": "Hadlikon"
+    },
+    {
+      "id": 192262,
+      "name": "Hausen am Albis / Hausen (Dorf)"
+    },
+    {
+      "id": 192263,
+      "name": "Hedingen"
+    },
+    {
+      "id": 192264,
+      "name": "Hegnau"
+    },
+    {
+      "id": 192265,
+      "name": "Hegnau / Dammboden-Grindel"
+    },
+    {
+      "id": 192266,
+      "name": "Hegnau / Sunnebüel-Eich"
+    },
+    {
+      "id": 192267,
+      "name": "Henggart"
+    },
+    {
+      "id": 192268,
+      "name": "Herrliberg"
+    },
+    {
+      "id": 192269,
+      "name": "Hettlingen"
+    },
+    {
+      "id": 192270,
+      "name": "Hinteregg"
+    },
+    {
+      "id": 192271,
+      "name": "Hinwil"
+    },
+    {
+      "id": 192272,
+      "name": "Hittnau / Hittnau (Dorf)"
+    },
+    {
+      "id": 192273,
+      "name": "Hochfelden"
+    },
+    {
+      "id": 192274,
+      "name": "Hofstetten"
+    },
+    {
+      "id": 192275,
+      "name": "Hombrechtikon"
+    },
+    {
+      "id": 192276,
+      "name": "Horgen"
+    },
+    {
+      "id": 192277,
+      "name": "Horgen / Allmend"
+    },
+    {
+      "id": 192278,
+      "name": "Horgen / Horgen (Dorfkern)"
+    },
+    {
+      "id": 192279,
+      "name": "Horgen / Oberdorf"
+    },
+    {
+      "id": 192280,
+      "name": "Horgen / Scheller-Stockerstrasse"
+    },
+    {
+      "id": 192281,
+      "name": "Höri"
+    },
+    {
+      "id": 192282,
+      "name": "Illnau"
+    },
+    {
+      "id": 192283,
+      "name": "Illnau / Unter-Illnau"
+    },
+    {
+      "id": 192284,
+      "name": "Kilchberg"
+    },
+    {
+      "id": 192285,
+      "name": "Kilchberg / Bächler-Stocken"
+    },
+    {
+      "id": 192286,
+      "name": "Kilchberg / Kilchberg (Dorfkern)"
+    },
+    {
+      "id": 192287,
+      "name": "Kindhausen / Kindhausen (Dorf)"
+    },
+    {
+      "id": 192288,
+      "name": "Kleinandelfingen"
+    },
+    {
+      "id": 192289,
+      "name": "Kloten"
+    },
+    {
+      "id": 192290,
+      "name": "Kloten / Balsberg"
+    },
+    {
+      "id": 192291,
+      "name": "Kloten / Freienberg (Chanzler-Chlini Chaseren)"
+    },
+    {
+      "id": 192292,
+      "name": "Kloten / Geissberg"
+    },
+    {
+      "id": 192293,
+      "name": "Kloten / Holberg"
+    },
+    {
+      "id": 192294,
+      "name": "Kloten / Horainli"
+    },
+    {
+      "id": 192295,
+      "name": "Kloten / Hostrass"
+    },
+    {
+      "id": 192296,
+      "name": "Kloten / Kloten (Zentrum)"
+    },
+    {
+      "id": 192297,
+      "name": "Kloten / Rütlen"
+    },
+    {
+      "id": 192298,
+      "name": "Kloten / Spitz"
+    },
+    {
+      "id": 192299,
+      "name": "Knonau"
+    },
+    {
+      "id": 192300,
+      "name": "Kollbrunn"
+    },
+    {
+      "id": 192301,
+      "name": "Kollbrunn / Kollbrunn (Dorfkern)"
+    },
+    {
+      "id": 192302,
+      "name": "Küsnacht"
+    },
+    {
+      "id": 192303,
+      "name": "Küsnacht / Dorf"
+    },
+    {
+      "id": 192304,
+      "name": "Küsnacht / Goldbach"
+    },
+    {
+      "id": 192305,
+      "name": "Küsnacht / Heslibach"
+    },
+    {
+      "id": 192306,
+      "name": "Küsnacht / Itschnach"
+    },
+    {
+      "id": 192307,
+      "name": "Küsnacht / Schiedhalden"
+    },
+    {
+      "id": 192308,
+      "name": "Langnau / Langnau (Dorf)"
+    },
+    {
+      "id": 192309,
+      "name": "Langnau / Vitaquartier"
+    },
+    {
+      "id": 192310,
+      "name": "Langnau am Albis"
+    },
+    {
+      "id": 192311,
+      "name": "Männedorf"
+    },
+    {
+      "id": 192312,
+      "name": "Männedorf / Ausserfeld"
+    },
+    {
+      "id": 192313,
+      "name": "Männedorf / Dorfkern"
+    },
+    {
+      "id": 192314,
+      "name": "Marthalen"
+    },
+    {
+      "id": 192315,
+      "name": "Mattenbach (Kreis 7)"
+    },
+    {
+      "id": 192316,
+      "name": "Mattenbach (Kreis 7) / Deutweg"
+    },
+    {
+      "id": 192317,
+      "name": "Mattenbach (Kreis 7) / Endliker"
+    },
+    {
+      "id": 192318,
+      "name": "Mattenbach (Kreis 7) / Gutschick"
+    },
+    {
+      "id": 192319,
+      "name": "Meilen"
+    },
+    {
+      "id": 192320,
+      "name": "Mettmenstetten"
+    },
+    {
+      "id": 192321,
+      "name": "Mönchaltorf"
+    },
+    {
+      "id": 192322,
+      "name": "Mönchaltorf / Dorf"
+    },
+    {
+      "id": 192323,
+      "name": "Mühlehalde"
+    },
+    {
+      "id": 192324,
+      "name": "Nänikon"
+    },
+    {
+      "id": 192325,
+      "name": "Nänikon / Nänikon (Dorfkern)"
+    },
+    {
+      "id": 192326,
+      "name": "Neerach"
+    },
+    {
+      "id": 192327,
+      "name": "Neftenbach / Dorf Neftenbach"
+    },
+    {
+      "id": 192328,
+      "name": "Niederglatt"
+    },
+    {
+      "id": 192329,
+      "name": "Niederglatt / Niederglatt (Dorfkern)"
+    },
+    {
+      "id": 192330,
+      "name": "Niederhasli"
+    },
+    {
+      "id": 192331,
+      "name": "Nürensdorf"
+    },
+    {
+      "id": 192332,
+      "name": "Oberengstringen"
+    },
+    {
+      "id": 192333,
+      "name": "Oberengstringen / Rauchacher"
+    },
+    {
+      "id": 192334,
+      "name": "Oberengstringen / Sonnenberg"
+    },
+    {
+      "id": 192335,
+      "name": "Oberengstringen / Zentrum"
+    },
+    {
+      "id": 192336,
+      "name": "Oberglatt"
+    },
+    {
+      "id": 192337,
+      "name": "Oberglatt / Bahnhofquartier"
+    },
+    {
+      "id": 192338,
+      "name": "Oberglatt / Oberglatt (Dorfkern)"
+    },
+    {
+      "id": 192339,
+      "name": "Obermeilen"
+    },
+    {
+      "id": 192340,
+      "name": "Oberrieden"
+    },
+    {
+      "id": 192341,
+      "name": "Oberrieden / Berg"
+    },
+    {
+      "id": 192342,
+      "name": "Oberrieden / Mitte"
+    },
+    {
+      "id": 192343,
+      "name": "Oberwinterthur (Kreis 2)"
+    },
+    {
+      "id": 192344,
+      "name": "Oberwinterthur (Kreis 2) / Guggenbühl"
+    },
+    {
+      "id": 192345,
+      "name": "Oberwinterthur (Kreis 2) / Hegi"
+    },
+    {
+      "id": 192346,
+      "name": "Oberwinterthur (Kreis 2) / Talacker"
+    },
+    {
+      "id": 192347,
+      "name": "Oberwinterthur (Kreis 2) / Zinzikon"
+    },
+    {
+      "id": 192348,
+      "name": "Obfelden"
+    },
+    {
+      "id": 192349,
+      "name": "Obfelden / Oberlunnern"
+    },
+    {
+      "id": 192350,
+      "name": "Obfelden / Toussen"
+    },
+    {
+      "id": 192351,
+      "name": "Oetwil"
+    },
+    {
+      "id": 192352,
+      "name": "Opfikon"
+    },
+    {
+      "id": 192353,
+      "name": "Otelfingen"
+    },
+    {
+      "id": 192354,
+      "name": "Ottenbach"
+    },
+    {
+      "id": 192355,
+      "name": "Pfaffhausen"
+    },
+    {
+      "id": 192356,
+      "name": "Pfäffikon"
+    },
+    {
+      "id": 192357,
+      "name": "Pfäffikon / Irgenhausen"
+    },
+    {
+      "id": 192358,
+      "name": "Pfäffikon / Pfäffikon (Dorfkern)"
+    },
+    {
+      "id": 192359,
+      "name": "Pfungen"
+    },
+    {
+      "id": 192360,
+      "name": "Rafz"
+    },
+    {
+      "id": 192361,
+      "name": "Regensdorf"
+    },
+    {
+      "id": 192362,
+      "name": "Regensdorf / Feldblumen-Riedthofstrasse"
+    },
+    {
+      "id": 192363,
+      "name": "Regensdorf / Hofacher-Geeren"
+    },
+    {
+      "id": 192364,
+      "name": "Regensdorf / Obstgarten"
+    },
+    {
+      "id": 192365,
+      "name": "Richterswil"
+    },
+    {
+      "id": 192366,
+      "name": "Richterswil / Burghalde"
+    },
+    {
+      "id": 192367,
+      "name": "Richterswil / Dorfkern"
+    },
+    {
+      "id": 192368,
+      "name": "Richterswil / Richterswil (Dorfkern)"
+    },
+    {
+      "id": 192369,
+      "name": "Rorbas"
+    },
+    {
+      "id": 192370,
+      "name": "Rümlang"
+    },
+    {
+      "id": 192371,
+      "name": "Rümlang / Rümlang (Dorfkern)"
+    },
+    {
+      "id": 192372,
+      "name": "Rüschlikon"
+    },
+    {
+      "id": 192373,
+      "name": "Russikon"
+    },
+    {
+      "id": 192374,
+      "name": "Rüti"
+    },
+    {
+      "id": 192375,
+      "name": "Rüti / Dorfzentrum Südl. Teil"
+    },
+    {
+      "id": 192376,
+      "name": "Rüti / Oberdorf"
+    },
+    {
+      "id": 192377,
+      "name": "Rüti / Westlicher Dorfteil"
+    },
+    {
+      "id": 192378,
+      "name": "Samstagern"
+    },
+    {
+      "id": 192379,
+      "name": "Schachen"
+    },
+    {
+      "id": 192380,
+      "name": "Schlieren"
+    },
+    {
+      "id": 192381,
+      "name": "Schlieren / Boden"
+    },
+    {
+      "id": 192382,
+      "name": "Schlieren / Engstingerquartier"
+    },
+    {
+      "id": 192383,
+      "name": "Schlieren / Freiestrasse"
+    },
+    {
+      "id": 192384,
+      "name": "Schlieren / Kamp"
+    },
+    {
+      "id": 192385,
+      "name": "Schlieren / Spital"
+    },
+    {
+      "id": 192386,
+      "name": "Schlieren / Zentrum"
+    },
+    {
+      "id": 192387,
+      "name": "Schwerzenbach"
+    },
+    {
+      "id": 192388,
+      "name": "Schwerzenbach / Blatten"
+    },
+    {
+      "id": 192389,
+      "name": "Schwerzenbach / Chimli"
+    },
+    {
+      "id": 192390,
+      "name": "Seen (Kreis 3)"
+    },
+    {
+      "id": 192391,
+      "name": "Seen (Kreis 3) / Büelwiesen"
+    },
+    {
+      "id": 192392,
+      "name": "Seen (Kreis 3) / Ganzenbühl"
+    },
+    {
+      "id": 192393,
+      "name": "Seen (Kreis 3) / Oberseen"
+    },
+    {
+      "id": 192394,
+      "name": "Seen (Kreis 3) / Waldegg"
+    },
+    {
+      "id": 192395,
+      "name": "Seen (Kreis 3) / Waser"
+    },
+    {
+      "id": 192396,
+      "name": "Seglingen"
+    },
+    {
+      "id": 192397,
+      "name": "Sellenbüren"
+    },
+    {
+      "id": 192398,
+      "name": "Seuzach / Seuzach (Dorf)"
+    },
+    {
+      "id": 192399,
+      "name": "Seuzach Dorf"
+    },
+    {
+      "id": 192400,
+      "name": "Seuzach Dorf / Breite-Weid"
+    },
+    {
+      "id": 192401,
+      "name": "Sonnhalde"
+    },
+    {
+      "id": 192402,
+      "name": "Stadt Winterthur (Kreis 1)"
+    },
+    {
+      "id": 192403,
+      "name": "Stadt Winterthur (Kreis 1) / Altstadt"
+    },
+    {
+      "id": 192404,
+      "name": "Stadt Winterthur (Kreis 1) / Brühlberg"
+    },
+    {
+      "id": 192405,
+      "name": "Stadt Winterthur (Kreis 1) / Heiligberg"
+    },
+    {
+      "id": 192406,
+      "name": "Stadt Winterthur (Kreis 1) / Lind"
+    },
+    {
+      "id": 192407,
+      "name": "Stadt Winterthur (Kreis 1) / Neuwiesen"
+    },
+    {
+      "id": 192408,
+      "name": "Stadt Winterthur (Kreis 1) / Tössfeld"
+    },
+    {
+      "id": 192409,
+      "name": "Stäfa"
+    },
+    {
+      "id": 192410,
+      "name": "Steinmaur"
+    },
+    {
+      "id": 192411,
+      "name": "Sulz"
+    },
+    {
+      "id": 192412,
+      "name": "Tagelswangen"
+    },
+    {
+      "id": 192413,
+      "name": "Tann"
+    },
+    {
+      "id": 192414,
+      "name": "Tann / Tann (Dorfkern)"
+    },
+    {
+      "id": 192415,
+      "name": "Thalwil"
+    },
+    {
+      "id": 192416,
+      "name": "Thalwil / Berg"
+    },
+    {
+      "id": 192417,
+      "name": "Thalwil / Dorfkern"
+    },
+    {
+      "id": 192418,
+      "name": "Thalwil / Nord"
+    },
+    {
+      "id": 192419,
+      "name": "Thalwil / See"
+    },
+    {
+      "id": 192420,
+      "name": "Thalwil / Süd"
+    },
+    {
+      "id": 192421,
+      "name": "Töss (Kreis 4)"
+    },
+    {
+      "id": 192422,
+      "name": "Töss (Kreis 4) / Eichliacker"
+    },
+    {
+      "id": 192423,
+      "name": "Töss (Kreis 4) / Schlosstal"
+    },
+    {
+      "id": 192424,
+      "name": "Töss (Kreis 4) / Vorder-Dättnau"
+    },
+    {
+      "id": 192425,
+      "name": "Turbenthal"
+    },
+    {
+      "id": 192426,
+      "name": "Uerikon"
+    },
+    {
+      "id": 192427,
+      "name": "Uetikon"
+    },
+    {
+      "id": 192428,
+      "name": "Uetikon / Grossdorf"
+    },
+    {
+      "id": 192429,
+      "name": "Uhwiesen"
+    },
+    {
+      "id": 192430,
+      "name": "Uitikon"
+    },
+    {
+      "id": 192431,
+      "name": "Unterengstringen"
+    },
+    {
+      "id": 192432,
+      "name": "Urdorf"
+    },
+    {
+      "id": 192433,
+      "name": "Urdorf / Bodenfeld"
+    },
+    {
+      "id": 192434,
+      "name": "Urdorf / Moos"
+    },
+    {
+      "id": 192435,
+      "name": "Urdorf / Oberurdorf"
+    },
+    {
+      "id": 192436,
+      "name": "Uster"
+    },
+    {
+      "id": 192437,
+      "name": "Uster / Gschwader"
+    },
+    {
+      "id": 192438,
+      "name": "Uster / Kirch-Uster"
+    },
+    {
+      "id": 192439,
+      "name": "Uster / Nieder-Uster"
+    },
+    {
+      "id": 192440,
+      "name": "Uster / Nossikon"
+    },
+    {
+      "id": 192441,
+      "name": "Uster / Ober-Uster"
+    },
+    {
+      "id": 192442,
+      "name": "Veltheim (Kreis 5)"
+    },
+    {
+      "id": 192443,
+      "name": "Veltheim (Kreis 5) / Blumenau"
+    },
+    {
+      "id": 192444,
+      "name": "Veltheim (Kreis 5) / Rosenberg"
+    },
+    {
+      "id": 192445,
+      "name": "Volketswil / Volketswil (Dorf)"
+    },
+    {
+      "id": 192446,
+      "name": "Wädenswil"
+    },
+    {
+      "id": 192447,
+      "name": "Wädenswil / Boller-Giessen"
+    },
+    {
+      "id": 192448,
+      "name": "Wädenswil / Büelen"
+    },
+    {
+      "id": 192449,
+      "name": "Wädenswil / Dorf (Wädenswil)"
+    },
+    {
+      "id": 192450,
+      "name": "Wädenswil / Eichweid"
+    },
+    {
+      "id": 192451,
+      "name": "Wädenswil / Hangenmoos"
+    },
+    {
+      "id": 192452,
+      "name": "Wädenswil / Leihof-Mühlebach"
+    },
+    {
+      "id": 192453,
+      "name": "Wädenswil / Untermosen-Fuhr"
+    },
+    {
+      "id": 192454,
+      "name": "Wald"
+    },
+    {
+      "id": 192455,
+      "name": "Wallisellen"
+    },
+    {
+      "id": 192456,
+      "name": "Wallisellen / Rieden"
+    },
+    {
+      "id": 192457,
+      "name": "Wallisellen / Wallisellen-Ost"
+    },
+    {
+      "id": 192458,
+      "name": "Wallisellen / Wallisellen-West"
+    },
+    {
+      "id": 192459,
+      "name": "Wangen"
+    },
+    {
+      "id": 192460,
+      "name": "Weiningen"
+    },
+    {
+      "id": 192461,
+      "name": "Weisslingen"
+    },
+    {
+      "id": 192462,
+      "name": "Wettswil / Ausser-Dorf"
+    },
+    {
+      "id": 192463,
+      "name": "Wettswil / Wettswil (Dorf)"
+    },
+    {
+      "id": 192464,
+      "name": "Wetzikon"
+    },
+    {
+      "id": 192465,
+      "name": "Wetzikon / Kempten"
+    },
+    {
+      "id": 192466,
+      "name": "Wetzikon / Ober-Wetzikon"
+    },
+    {
+      "id": 192467,
+      "name": "Wetzikon / Robenhausen"
+    },
+    {
+      "id": 192468,
+      "name": "Wetzikon / Unter-Wetzikon"
+    },
+    {
+      "id": 192469,
+      "name": "Wiesendangen / Wiesendangen (Dorf)"
+    },
+    {
+      "id": 192470,
+      "name": "Wila"
+    },
+    {
+      "id": 192471,
+      "name": "Winterthur"
+    },
+    {
+      "id": 192472,
+      "name": "Wolfhausen"
+    },
+    {
+      "id": 192473,
+      "name": "Wülflingen (Kreis 6)"
+    },
+    {
+      "id": 192474,
+      "name": "Wülflingen (Kreis 6) / Härti"
+    },
+    {
+      "id": 192475,
+      "name": "Wülflingen (Kreis 6) / Lindenplatz"
+    },
+    {
+      "id": 192476,
+      "name": "Wülflingen (Kreis 6) / Niederfeld"
+    },
+    {
+      "id": 192477,
+      "name": "Wülflingen (Kreis 6) / Oberfeld"
+    },
+    {
+      "id": 192478,
+      "name": "Zollikerberg"
+    },
+    {
+      "id": 192479,
+      "name": "Zollikon"
+    },
+    {
+      "id": 192480,
+      "name": "Zumikon"
+    },
+    {
+      "id": 192481,
+      "name": "Zürich"
+    },
+    {
+      "id": 192482,
+      "name": "Zürich (Kreis 1)"
+    },
+    {
+      "id": 192483,
+      "name": "Zürich (Kreis 1) / City"
+    },
+    {
+      "id": 192484,
+      "name": "Zürich (Kreis 1) / Lindenhof"
+    },
+    {
+      "id": 192485,
+      "name": "Zürich (Kreis 1) / Rathaus"
+    },
+    {
+      "id": 192486,
+      "name": "Zürich (Kreis 10)"
+    },
+    {
+      "id": 192487,
+      "name": "Zürich (Kreis 10) / Höngg"
+    },
+    {
+      "id": 192488,
+      "name": "Zürich (Kreis 10) / Rütihof"
+    },
+    {
+      "id": 192489,
+      "name": "Zürich (Kreis 10) / Wipkingen"
+    },
+    {
+      "id": 192490,
+      "name": "Zürich (Kreis 11)"
+    },
+    {
+      "id": 192491,
+      "name": "Zürich (Kreis 11) / Affoltern"
+    },
+    {
+      "id": 192492,
+      "name": "Zürich (Kreis 11) / Oerlikon"
+    },
+    {
+      "id": 192493,
+      "name": "Zürich (Kreis 11) / Schwandenholz"
+    },
+    {
+      "id": 192494,
+      "name": "Zürich (Kreis 11) / Seebach"
+    },
+    {
+      "id": 192495,
+      "name": "Zürich (Kreis 12)"
+    },
+    {
+      "id": 192496,
+      "name": "Zürich (Kreis 12) / Auzelg"
+    },
+    {
+      "id": 192497,
+      "name": "Zürich (Kreis 12) / Hirzenbach"
+    },
+    {
+      "id": 192498,
+      "name": "Zürich (Kreis 12) / Saatlen"
+    },
+    {
+      "id": 192499,
+      "name": "Zürich (Kreis 12) / Schwamendingen-Mitte"
+    },
+    {
+      "id": 192500,
+      "name": "Zürich (Kreis 2)"
+    },
+    {
+      "id": 192501,
+      "name": "Zürich (Kreis 2) / Enge"
+    },
+    {
+      "id": 192502,
+      "name": "Zürich (Kreis 2) / Mittel-Leimbach"
+    },
+    {
+      "id": 192503,
+      "name": "Zürich (Kreis 2) / Unter-Leimbach"
+    },
+    {
+      "id": 192504,
+      "name": "Zürich (Kreis 2) / Wollishofen"
+    },
+    {
+      "id": 192505,
+      "name": "Zürich (Kreis 3)"
+    },
+    {
+      "id": 192506,
+      "name": "Zürich (Kreis 3) / Alt-Wiedikon"
+    },
+    {
+      "id": 192507,
+      "name": "Zürich (Kreis 3) / Friesenberg"
+    },
+    {
+      "id": 192508,
+      "name": "Zürich (Kreis 3) / Sihlfeld"
+    },
+    {
+      "id": 192509,
+      "name": "Zürich (Kreis 4) / Aussersihl"
+    },
+    {
+      "id": 192510,
+      "name": "Zürich (Kreis 4) / Hard"
+    },
+    {
+      "id": 192511,
+      "name": "Zürich (Kreis 4) / Langstrasse"
+    },
+    {
+      "id": 192512,
+      "name": "Zürich (Kreis 4) / Werd"
+    },
+    {
+      "id": 192513,
+      "name": "Zürich (Kreis 5)"
+    },
+    {
+      "id": 192514,
+      "name": "Zürich (Kreis 5) / Escher-Wyss"
+    },
+    {
+      "id": 192515,
+      "name": "Zürich (Kreis 5) / Gewerbeschule"
+    },
+    {
+      "id": 192516,
+      "name": "Zürich (Kreis 6)"
+    },
+    {
+      "id": 192517,
+      "name": "Zürich (Kreis 6) / Oberstrass"
+    },
+    {
+      "id": 192518,
+      "name": "Zürich (Kreis 6) / Unterstrass"
+    },
+    {
+      "id": 192519,
+      "name": "Zürich (Kreis 7)"
+    },
+    {
+      "id": 192520,
+      "name": "Zürich (Kreis 7) / Fluntern"
+    },
+    {
+      "id": 192521,
+      "name": "Zürich (Kreis 7) / Hirslanden"
+    },
+    {
+      "id": 192522,
+      "name": "Zürich (Kreis 7) / Hottingen"
+    },
+    {
+      "id": 192523,
+      "name": "Zürich (Kreis 7) / Witikon"
+    },
+    {
+      "id": 192524,
+      "name": "Zürich (Kreis 8)"
+    },
+    {
+      "id": 192525,
+      "name": "Zürich (Kreis 8) / Mühlebach"
+    },
+    {
+      "id": 192526,
+      "name": "Zürich (Kreis 8) / Seefeld"
+    },
+    {
+      "id": 192527,
+      "name": "Zürich (Kreis 8) / Weinegg"
+    },
+    {
+      "id": 192528,
+      "name": "Zürich (Kreis 9)"
+    },
+    {
+      "id": 192529,
+      "name": "Zürich (Kreis 9) / Albisrieden"
+    },
+    {
+      "id": 192530,
+      "name": "Zürich (Kreis 9) / Altstetten"
+    }
+  ]
+}

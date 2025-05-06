@@ -1,0 +1,539 @@
+{
+  "id": 7470,
+  "name": "North Dakota",
+  "state_code": "ND",
+  "cities": [
+    {
+      "id": 214553,
+      "name": "Adams County"
+    },
+    {
+      "id": 214554,
+      "name": "Amidon"
+    },
+    {
+      "id": 214555,
+      "name": "Ashley"
+    },
+    {
+      "id": 214556,
+      "name": "Barnes County"
+    },
+    {
+      "id": 214557,
+      "name": "Beach"
+    },
+    {
+      "id": 214558,
+      "name": "Belcourt"
+    },
+    {
+      "id": 214559,
+      "name": "Belfield"
+    },
+    {
+      "id": 214560,
+      "name": "Benson County"
+    },
+    {
+      "id": 214561,
+      "name": "Beulah"
+    },
+    {
+      "id": 214562,
+      "name": "Billings County"
+    },
+    {
+      "id": 214563,
+      "name": "Bismarck"
+    },
+    {
+      "id": 214564,
+      "name": "Bottineau"
+    },
+    {
+      "id": 214565,
+      "name": "Bottineau County"
+    },
+    {
+      "id": 214566,
+      "name": "Bowbells"
+    },
+    {
+      "id": 214567,
+      "name": "Bowman"
+    },
+    {
+      "id": 214568,
+      "name": "Bowman County"
+    },
+    {
+      "id": 214569,
+      "name": "Burke County"
+    },
+    {
+      "id": 214570,
+      "name": "Burleigh County"
+    },
+    {
+      "id": 214571,
+      "name": "Burlington"
+    },
+    {
+      "id": 214572,
+      "name": "Cando"
+    },
+    {
+      "id": 214573,
+      "name": "Carrington"
+    },
+    {
+      "id": 214574,
+      "name": "Carson"
+    },
+    {
+      "id": 214575,
+      "name": "Cass County"
+    },
+    {
+      "id": 214576,
+      "name": "Casselton"
+    },
+    {
+      "id": 214577,
+      "name": "Cavalier"
+    },
+    {
+      "id": 214578,
+      "name": "Cavalier County"
+    },
+    {
+      "id": 214579,
+      "name": "Center"
+    },
+    {
+      "id": 214580,
+      "name": "Cooperstown"
+    },
+    {
+      "id": 214581,
+      "name": "Crosby"
+    },
+    {
+      "id": 214582,
+      "name": "Devils Lake"
+    },
+    {
+      "id": 214583,
+      "name": "Dickey County"
+    },
+    {
+      "id": 214584,
+      "name": "Dickinson"
+    },
+    {
+      "id": 214585,
+      "name": "Divide County"
+    },
+    {
+      "id": 214586,
+      "name": "Dunn County"
+    },
+    {
+      "id": 214587,
+      "name": "Eddy County"
+    },
+    {
+      "id": 214588,
+      "name": "Ellendale"
+    },
+    {
+      "id": 214589,
+      "name": "Emmons County"
+    },
+    {
+      "id": 214590,
+      "name": "Fargo"
+    },
+    {
+      "id": 214591,
+      "name": "Fessenden"
+    },
+    {
+      "id": 214592,
+      "name": "Finley"
+    },
+    {
+      "id": 214593,
+      "name": "Forman"
+    },
+    {
+      "id": 214594,
+      "name": "Fort Totten"
+    },
+    {
+      "id": 214595,
+      "name": "Fort Yates"
+    },
+    {
+      "id": 214596,
+      "name": "Foster County"
+    },
+    {
+      "id": 214597,
+      "name": "Garrison"
+    },
+    {
+      "id": 214598,
+      "name": "Golden Valley County"
+    },
+    {
+      "id": 214599,
+      "name": "Grafton"
+    },
+    {
+      "id": 214600,
+      "name": "Grand Forks"
+    },
+    {
+      "id": 214601,
+      "name": "Grand Forks Air Force Base"
+    },
+    {
+      "id": 214602,
+      "name": "Grand Forks County"
+    },
+    {
+      "id": 214603,
+      "name": "Grant County"
+    },
+    {
+      "id": 214604,
+      "name": "Griggs County"
+    },
+    {
+      "id": 214605,
+      "name": "Harvey"
+    },
+    {
+      "id": 214606,
+      "name": "Hazen"
+    },
+    {
+      "id": 214607,
+      "name": "Hettinger"
+    },
+    {
+      "id": 214608,
+      "name": "Hettinger County"
+    },
+    {
+      "id": 214609,
+      "name": "Hillsboro"
+    },
+    {
+      "id": 214610,
+      "name": "Horace"
+    },
+    {
+      "id": 214611,
+      "name": "Jamestown"
+    },
+    {
+      "id": 214612,
+      "name": "Kenmare"
+    },
+    {
+      "id": 214613,
+      "name": "Kidder County"
+    },
+    {
+      "id": 214614,
+      "name": "Killdeer"
+    },
+    {
+      "id": 214615,
+      "name": "Lakota"
+    },
+    {
+      "id": 214616,
+      "name": "LaMoure County"
+    },
+    {
+      "id": 214617,
+      "name": "Langdon"
+    },
+    {
+      "id": 214618,
+      "name": "Larimore"
+    },
+    {
+      "id": 214619,
+      "name": "Lincoln"
+    },
+    {
+      "id": 214620,
+      "name": "Linton"
+    },
+    {
+      "id": 214621,
+      "name": "Lisbon"
+    },
+    {
+      "id": 214622,
+      "name": "Logan County"
+    },
+    {
+      "id": 214623,
+      "name": "Mandan"
+    },
+    {
+      "id": 214624,
+      "name": "Manning"
+    },
+    {
+      "id": 214625,
+      "name": "Mayville"
+    },
+    {
+      "id": 214626,
+      "name": "McClusky"
+    },
+    {
+      "id": 214627,
+      "name": "McHenry County"
+    },
+    {
+      "id": 214628,
+      "name": "McIntosh County"
+    },
+    {
+      "id": 214629,
+      "name": "McKenzie County"
+    },
+    {
+      "id": 214630,
+      "name": "McLean County"
+    },
+    {
+      "id": 214631,
+      "name": "Medora"
+    },
+    {
+      "id": 214632,
+      "name": "Mercer County"
+    },
+    {
+      "id": 214633,
+      "name": "Minnewaukan"
+    },
+    {
+      "id": 214634,
+      "name": "Minot"
+    },
+    {
+      "id": 214635,
+      "name": "Minot Air Force Base"
+    },
+    {
+      "id": 214636,
+      "name": "Mohall"
+    },
+    {
+      "id": 214637,
+      "name": "Morton County"
+    },
+    {
+      "id": 214638,
+      "name": "Mott"
+    },
+    {
+      "id": 214639,
+      "name": "Mountrail County"
+    },
+    {
+      "id": 214640,
+      "name": "Napoleon"
+    },
+    {
+      "id": 214641,
+      "name": "Nelson County"
+    },
+    {
+      "id": 214642,
+      "name": "New Rockford"
+    },
+    {
+      "id": 214643,
+      "name": "New Town"
+    },
+    {
+      "id": 214644,
+      "name": "Oakes"
+    },
+    {
+      "id": 214645,
+      "name": "Oliver County"
+    },
+    {
+      "id": 214646,
+      "name": "Park River"
+    },
+    {
+      "id": 214647,
+      "name": "Parshall"
+    },
+    {
+      "id": 214648,
+      "name": "Pembina County"
+    },
+    {
+      "id": 214649,
+      "name": "Pierce County"
+    },
+    {
+      "id": 214650,
+      "name": "Ramsey County"
+    },
+    {
+      "id": 214651,
+      "name": "Ransom County"
+    },
+    {
+      "id": 214652,
+      "name": "Renville County"
+    },
+    {
+      "id": 214653,
+      "name": "Richland County"
+    },
+    {
+      "id": 214654,
+      "name": "Rolette County"
+    },
+    {
+      "id": 214655,
+      "name": "Rolla"
+    },
+    {
+      "id": 214656,
+      "name": "Rugby"
+    },
+    {
+      "id": 214657,
+      "name": "Sargent County"
+    },
+    {
+      "id": 214658,
+      "name": "Sheldon"
+    },
+    {
+      "id": 214659,
+      "name": "Shell Valley"
+    },
+    {
+      "id": 214660,
+      "name": "Sheridan County"
+    },
+    {
+      "id": 214661,
+      "name": "Sioux County"
+    },
+    {
+      "id": 214662,
+      "name": "Slope County"
+    },
+    {
+      "id": 214663,
+      "name": "Stanley"
+    },
+    {
+      "id": 214664,
+      "name": "Stanton"
+    },
+    {
+      "id": 214665,
+      "name": "Stark County"
+    },
+    {
+      "id": 214666,
+      "name": "Steele"
+    },
+    {
+      "id": 214667,
+      "name": "Steele County"
+    },
+    {
+      "id": 214668,
+      "name": "Stutsman County"
+    },
+    {
+      "id": 214669,
+      "name": "Surrey"
+    },
+    {
+      "id": 214670,
+      "name": "Thompson"
+    },
+    {
+      "id": 214671,
+      "name": "Tioga"
+    },
+    {
+      "id": 214672,
+      "name": "Towner"
+    },
+    {
+      "id": 214673,
+      "name": "Towner County"
+    },
+    {
+      "id": 214674,
+      "name": "Traill County"
+    },
+    {
+      "id": 214675,
+      "name": "Valley City"
+    },
+    {
+      "id": 214676,
+      "name": "Velva"
+    },
+    {
+      "id": 214677,
+      "name": "Wahpeton"
+    },
+    {
+      "id": 214678,
+      "name": "Walsh County"
+    },
+    {
+      "id": 214679,
+      "name": "Ward County"
+    },
+    {
+      "id": 214680,
+      "name": "Washburn"
+    },
+    {
+      "id": 214681,
+      "name": "Watford City"
+    },
+    {
+      "id": 214682,
+      "name": "Wells County"
+    },
+    {
+      "id": 214683,
+      "name": "West Fargo"
+    },
+    {
+      "id": 214684,
+      "name": "Williams County"
+    },
+    {
+      "id": 214685,
+      "name": "Williston"
+    }
+  ]
+}

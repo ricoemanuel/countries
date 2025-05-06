@@ -1,0 +1,843 @@
+{
+  "id": 6549,
+  "name": "Segovia",
+  "state_code": "SG",
+  "cities": [
+    {
+      "id": 187762,
+      "name": "Abades"
+    },
+    {
+      "id": 187763,
+      "name": "Adrada de Pirón"
+    },
+    {
+      "id": 187764,
+      "name": "Adrados"
+    },
+    {
+      "id": 187765,
+      "name": "Aguilafuente"
+    },
+    {
+      "id": 187766,
+      "name": "Alconada de Maderuelo"
+    },
+    {
+      "id": 187767,
+      "name": "Aldea Real"
+    },
+    {
+      "id": 187768,
+      "name": "Aldealcorvo"
+    },
+    {
+      "id": 187769,
+      "name": "Aldealengua de Pedraza"
+    },
+    {
+      "id": 187770,
+      "name": "Aldealengua de Santa María"
+    },
+    {
+      "id": 187771,
+      "name": "Aldeanueva de la Serrezuela"
+    },
+    {
+      "id": 187772,
+      "name": "Aldeanueva del Codonal"
+    },
+    {
+      "id": 187773,
+      "name": "Aldeasoña"
+    },
+    {
+      "id": 187774,
+      "name": "Aldehorno"
+    },
+    {
+      "id": 187775,
+      "name": "Aldehuela del Codonal"
+    },
+    {
+      "id": 187776,
+      "name": "Aldeonte"
+    },
+    {
+      "id": 187777,
+      "name": "Anaya"
+    },
+    {
+      "id": 187778,
+      "name": "Añe"
+    },
+    {
+      "id": 187779,
+      "name": "Arahuetes"
+    },
+    {
+      "id": 187780,
+      "name": "Arcones"
+    },
+    {
+      "id": 187781,
+      "name": "Arevalillo de Cega"
+    },
+    {
+      "id": 187782,
+      "name": "Armuña"
+    },
+    {
+      "id": 187783,
+      "name": "Ayllón"
+    },
+    {
+      "id": 187784,
+      "name": "Barbolla"
+    },
+    {
+      "id": 187785,
+      "name": "Basardilla"
+    },
+    {
+      "id": 187786,
+      "name": "Bercial"
+    },
+    {
+      "id": 187787,
+      "name": "Bercimuel"
+    },
+    {
+      "id": 187788,
+      "name": "Bernardos"
+    },
+    {
+      "id": 187789,
+      "name": "Bernuy de Porreros"
+    },
+    {
+      "id": 187790,
+      "name": "Boceguillas"
+    },
+    {
+      "id": 187791,
+      "name": "Brieva"
+    },
+    {
+      "id": 187792,
+      "name": "Caballar"
+    },
+    {
+      "id": 187793,
+      "name": "Cabañas de Polendos"
+    },
+    {
+      "id": 187794,
+      "name": "Cabezuela"
+    },
+    {
+      "id": 187795,
+      "name": "Calabazas de Fuentidueña"
+    },
+    {
+      "id": 187796,
+      "name": "Campo de San Pedro"
+    },
+    {
+      "id": 187797,
+      "name": "Cantalejo"
+    },
+    {
+      "id": 187798,
+      "name": "Cantimpalos"
+    },
+    {
+      "id": 187799,
+      "name": "Carbonero el Mayor"
+    },
+    {
+      "id": 187800,
+      "name": "Carrascal del Río"
+    },
+    {
+      "id": 187801,
+      "name": "Casla"
+    },
+    {
+      "id": 187802,
+      "name": "Castillejo de Mesleón"
+    },
+    {
+      "id": 187803,
+      "name": "Castro de Fuentidueña"
+    },
+    {
+      "id": 187804,
+      "name": "Castrojimeno"
+    },
+    {
+      "id": 187805,
+      "name": "Castroserna de Abajo"
+    },
+    {
+      "id": 187806,
+      "name": "Castroserracín"
+    },
+    {
+      "id": 187807,
+      "name": "Cedillo de la Torre"
+    },
+    {
+      "id": 187808,
+      "name": "Cerezo de Abajo"
+    },
+    {
+      "id": 187809,
+      "name": "Cerezo de Arriba"
+    },
+    {
+      "id": 187810,
+      "name": "Chañe"
+    },
+    {
+      "id": 187811,
+      "name": "Cilleruelo de San Mamés"
+    },
+    {
+      "id": 187812,
+      "name": "Cobos de Fuentidueña"
+    },
+    {
+      "id": 187813,
+      "name": "Coca"
+    },
+    {
+      "id": 187814,
+      "name": "Codorniz"
+    },
+    {
+      "id": 187815,
+      "name": "Collado Hermoso"
+    },
+    {
+      "id": 187816,
+      "name": "Condado de Castilnovo"
+    },
+    {
+      "id": 187817,
+      "name": "Corral de Ayllón"
+    },
+    {
+      "id": 187818,
+      "name": "Cozuelos de Fuentidueña"
+    },
+    {
+      "id": 187819,
+      "name": "Cubillo"
+    },
+    {
+      "id": 187820,
+      "name": "Cuéllar"
+    },
+    {
+      "id": 187821,
+      "name": "Cuevas de Provanco"
+    },
+    {
+      "id": 187822,
+      "name": "Domingo García"
+    },
+    {
+      "id": 187823,
+      "name": "Donhierro"
+    },
+    {
+      "id": 187824,
+      "name": "Duruelo"
+    },
+    {
+      "id": 187825,
+      "name": "Encinas"
+    },
+    {
+      "id": 187826,
+      "name": "Encinillas"
+    },
+    {
+      "id": 187827,
+      "name": "Escalona del Prado"
+    },
+    {
+      "id": 187828,
+      "name": "Escarabajosa de Cabezas"
+    },
+    {
+      "id": 187829,
+      "name": "Escobar de Polendos"
+    },
+    {
+      "id": 187830,
+      "name": "Espinar El"
+    },
+    {
+      "id": 187831,
+      "name": "Espirdo"
+    },
+    {
+      "id": 187832,
+      "name": "Fresneda de Cuéllar"
+    },
+    {
+      "id": 187833,
+      "name": "Fresno de Cantespino"
+    },
+    {
+      "id": 187834,
+      "name": "Fresno de la Fuente"
+    },
+    {
+      "id": 187835,
+      "name": "Frumales"
+    },
+    {
+      "id": 187836,
+      "name": "Fuente de Santa Cruz"
+    },
+    {
+      "id": 187837,
+      "name": "Fuente el Olmo de Fuentidueña"
+    },
+    {
+      "id": 187838,
+      "name": "Fuente el Olmo de Íscar"
+    },
+    {
+      "id": 187839,
+      "name": "Fuentepelayo"
+    },
+    {
+      "id": 187840,
+      "name": "Fuentepiñel"
+    },
+    {
+      "id": 187841,
+      "name": "Fuenterrebollo"
+    },
+    {
+      "id": 187842,
+      "name": "Fuentesaúco de Fuentidueña"
+    },
+    {
+      "id": 187843,
+      "name": "Fuentesoto"
+    },
+    {
+      "id": 187844,
+      "name": "Fuentidueña"
+    },
+    {
+      "id": 187845,
+      "name": "Gallegos"
+    },
+    {
+      "id": 187846,
+      "name": "Garcillán"
+    },
+    {
+      "id": 187847,
+      "name": "Gomezserracín"
+    },
+    {
+      "id": 187848,
+      "name": "Grajera"
+    },
+    {
+      "id": 187849,
+      "name": "Honrubia de la Cuesta"
+    },
+    {
+      "id": 187850,
+      "name": "Hontalbilla"
+    },
+    {
+      "id": 187851,
+      "name": "Hontanares de Eresma"
+    },
+    {
+      "id": 187852,
+      "name": "Huertos Los"
+    },
+    {
+      "id": 187853,
+      "name": "Ituero y Lama"
+    },
+    {
+      "id": 187854,
+      "name": "Juarros de Riomoros"
+    },
+    {
+      "id": 187855,
+      "name": "Juarros de Voltoya"
+    },
+    {
+      "id": 187856,
+      "name": "Labajos"
+    },
+    {
+      "id": 187857,
+      "name": "Laguna de Contreras"
+    },
+    {
+      "id": 187858,
+      "name": "Languilla"
+    },
+    {
+      "id": 187859,
+      "name": "Lastras de Cuéllar"
+    },
+    {
+      "id": 187860,
+      "name": "Lastras del Pozo"
+    },
+    {
+      "id": 187861,
+      "name": "Lastrilla La"
+    },
+    {
+      "id": 187862,
+      "name": "Losa La"
+    },
+    {
+      "id": 187863,
+      "name": "Maderuelo"
+    },
+    {
+      "id": 187864,
+      "name": "Marazoleja"
+    },
+    {
+      "id": 187865,
+      "name": "Marazuela"
+    },
+    {
+      "id": 187866,
+      "name": "Martín Miguel"
+    },
+    {
+      "id": 187867,
+      "name": "Martín Muñoz de la Dehesa"
+    },
+    {
+      "id": 187868,
+      "name": "Martín Muñoz de las Posadas"
+    },
+    {
+      "id": 187869,
+      "name": "Marugán"
+    },
+    {
+      "id": 187870,
+      "name": "Mata de Cuéllar"
+    },
+    {
+      "id": 187871,
+      "name": "Matabuena"
+    },
+    {
+      "id": 187872,
+      "name": "Matilla La"
+    },
+    {
+      "id": 187873,
+      "name": "Melque de Cercos"
+    },
+    {
+      "id": 187874,
+      "name": "Membibre de la Hoz"
+    },
+    {
+      "id": 187875,
+      "name": "Migueláñez"
+    },
+    {
+      "id": 187876,
+      "name": "Montejo de Arévalo"
+    },
+    {
+      "id": 187877,
+      "name": "Montejo de la Vega de la Serrezuela"
+    },
+    {
+      "id": 187878,
+      "name": "Monterrubio"
+    },
+    {
+      "id": 187879,
+      "name": "Moral de Hornuez"
+    },
+    {
+      "id": 187880,
+      "name": "Mozoncillo"
+    },
+    {
+      "id": 187881,
+      "name": "Muñopedro"
+    },
+    {
+      "id": 187882,
+      "name": "Muñoveros"
+    },
+    {
+      "id": 187883,
+      "name": "Nava de la Asunción"
+    },
+    {
+      "id": 187884,
+      "name": "Navafría"
+    },
+    {
+      "id": 187885,
+      "name": "Navalilla"
+    },
+    {
+      "id": 187886,
+      "name": "Navalmanzano"
+    },
+    {
+      "id": 187887,
+      "name": "Navares de Ayuso"
+    },
+    {
+      "id": 187888,
+      "name": "Navares de Enmedio"
+    },
+    {
+      "id": 187889,
+      "name": "Navares de las Cuevas"
+    },
+    {
+      "id": 187890,
+      "name": "Navas de Oro"
+    },
+    {
+      "id": 187891,
+      "name": "Navas de Riofrío"
+    },
+    {
+      "id": 187892,
+      "name": "Navas de San Antonio"
+    },
+    {
+      "id": 187893,
+      "name": "Nieva"
+    },
+    {
+      "id": 187894,
+      "name": "Olombrada"
+    },
+    {
+      "id": 187895,
+      "name": "Orejana"
+    },
+    {
+      "id": 187896,
+      "name": "Ortigosa de Pestaño"
+    },
+    {
+      "id": 187897,
+      "name": "Ortigosa del Monte"
+    },
+    {
+      "id": 187898,
+      "name": "Otero de Herreros"
+    },
+    {
+      "id": 187899,
+      "name": "Pajarejos"
+    },
+    {
+      "id": 187900,
+      "name": "Palazuelos de Eresma"
+    },
+    {
+      "id": 187901,
+      "name": "Pedraza"
+    },
+    {
+      "id": 187902,
+      "name": "Pelayos del Arroyo"
+    },
+    {
+      "id": 187903,
+      "name": "Perosillo"
+    },
+    {
+      "id": 187904,
+      "name": "Pinarejos"
+    },
+    {
+      "id": 187905,
+      "name": "Pinarnegrillo"
+    },
+    {
+      "id": 187906,
+      "name": "Pradales"
+    },
+    {
+      "id": 187907,
+      "name": "Prádena"
+    },
+    {
+      "id": 187908,
+      "name": "Puebla de Pedraza"
+    },
+    {
+      "id": 187909,
+      "name": "Rapariegos"
+    },
+    {
+      "id": 187910,
+      "name": "Real Sitio de San Ildefonso"
+    },
+    {
+      "id": 187911,
+      "name": "Rebollo"
+    },
+    {
+      "id": 187912,
+      "name": "Remondo"
+    },
+    {
+      "id": 187913,
+      "name": "Riaguas de San Bartolomé"
+    },
+    {
+      "id": 187914,
+      "name": "Riaza"
+    },
+    {
+      "id": 187915,
+      "name": "Ribota"
+    },
+    {
+      "id": 187916,
+      "name": "Riofrío de Riaza"
+    },
+    {
+      "id": 187917,
+      "name": "Roda de Eresma"
+    },
+    {
+      "id": 187918,
+      "name": "Sacramenia"
+    },
+    {
+      "id": 187919,
+      "name": "Samboal"
+    },
+    {
+      "id": 187920,
+      "name": "San Cristóbal de Cuéllar"
+    },
+    {
+      "id": 187921,
+      "name": "San Cristóbal de la Vega"
+    },
+    {
+      "id": 187922,
+      "name": "San Cristóbal de Segovia"
+    },
+    {
+      "id": 187923,
+      "name": "San Martín y Mudrián"
+    },
+    {
+      "id": 187924,
+      "name": "San Miguel de Bernuy"
+    },
+    {
+      "id": 187925,
+      "name": "San Pedro de Gaíllos"
+    },
+    {
+      "id": 187926,
+      "name": "Sanchonuño"
+    },
+    {
+      "id": 187927,
+      "name": "Sangarcía"
+    },
+    {
+      "id": 187928,
+      "name": "Santa María la Real de Nieva"
+    },
+    {
+      "id": 187929,
+      "name": "Santa Marta del Cerro"
+    },
+    {
+      "id": 187930,
+      "name": "Santiuste de Pedraza"
+    },
+    {
+      "id": 187931,
+      "name": "Santiuste de San Juan Bautista"
+    },
+    {
+      "id": 187932,
+      "name": "Santo Domingo de Pirón"
+    },
+    {
+      "id": 187933,
+      "name": "Santo Tomé del Puerto"
+    },
+    {
+      "id": 187934,
+      "name": "Sauquillo de Cabezas"
+    },
+    {
+      "id": 187935,
+      "name": "Sebúlcor"
+    },
+    {
+      "id": 187936,
+      "name": "Segovia"
+    },
+    {
+      "id": 187937,
+      "name": "Sepúlveda"
+    },
+    {
+      "id": 187938,
+      "name": "Sequera de Fresno"
+    },
+    {
+      "id": 187939,
+      "name": "Sotillo"
+    },
+    {
+      "id": 187940,
+      "name": "Sotosalbos"
+    },
+    {
+      "id": 187941,
+      "name": "Tabanera la Luenga"
+    },
+    {
+      "id": 187942,
+      "name": "Tolocirio"
+    },
+    {
+      "id": 187943,
+      "name": "Torre Val de San Pedro"
+    },
+    {
+      "id": 187944,
+      "name": "Torreadrada"
+    },
+    {
+      "id": 187945,
+      "name": "Torrecaballeros"
+    },
+    {
+      "id": 187946,
+      "name": "Torrecilla del Pinar"
+    },
+    {
+      "id": 187947,
+      "name": "Torreiglesias"
+    },
+    {
+      "id": 187948,
+      "name": "Trescasas"
+    },
+    {
+      "id": 187949,
+      "name": "Turégano"
+    },
+    {
+      "id": 187950,
+      "name": "Urueñas"
+    },
+    {
+      "id": 187951,
+      "name": "Valdeprados"
+    },
+    {
+      "id": 187952,
+      "name": "Valdevacas de Montejo"
+    },
+    {
+      "id": 187953,
+      "name": "Valdevacas y Guijar"
+    },
+    {
+      "id": 187954,
+      "name": "Valle de Tabladillo"
+    },
+    {
+      "id": 187955,
+      "name": "Vallelado"
+    },
+    {
+      "id": 187956,
+      "name": "Valleruela de Pedraza"
+    },
+    {
+      "id": 187957,
+      "name": "Valleruela de Sepúlveda"
+    },
+    {
+      "id": 187958,
+      "name": "Valseca"
+    },
+    {
+      "id": 187959,
+      "name": "Valtiendas"
+    },
+    {
+      "id": 187960,
+      "name": "Valverde del Majano"
+    },
+    {
+      "id": 187961,
+      "name": "Veganzones"
+    },
+    {
+      "id": 187962,
+      "name": "Vegas de Matute"
+    },
+    {
+      "id": 187963,
+      "name": "Ventosilla y Tejadilla"
+    },
+    {
+      "id": 187964,
+      "name": "Villacastín"
+    },
+    {
+      "id": 187965,
+      "name": "Villaverde de Íscar"
+    },
+    {
+      "id": 187966,
+      "name": "Villaverde de Montejo"
+    },
+    {
+      "id": 187967,
+      "name": "Villeguillo"
+    },
+    {
+      "id": 187968,
+      "name": "Yanguas de Eresma"
+    },
+    {
+      "id": 187969,
+      "name": "Zarzuela del Monte"
+    },
+    {
+      "id": 187970,
+      "name": "Zarzuela del Pinar"
+    }
+  ]
+}

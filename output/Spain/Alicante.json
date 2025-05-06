@@ -1,0 +1,571 @@
+{
+  "id": 6508,
+  "name": "Alicante",
+  "state_code": "A",
+  "cities": [
+    {
+      "id": 181740,
+      "name": "Adsubia"
+    },
+    {
+      "id": 181741,
+      "name": "Agost"
+    },
+    {
+      "id": 181742,
+      "name": "Agres"
+    },
+    {
+      "id": 181743,
+      "name": "Aigües"
+    },
+    {
+      "id": 181744,
+      "name": "Albatera"
+    },
+    {
+      "id": 181745,
+      "name": "Alcalalí"
+    },
+    {
+      "id": 181746,
+      "name": "Alcocer de Planes"
+    },
+    {
+      "id": 181747,
+      "name": "Alcoleja"
+    },
+    {
+      "id": 181748,
+      "name": "Alcoy/Alcoi"
+    },
+    {
+      "id": 181749,
+      "name": "Alfafara"
+    },
+    {
+      "id": 181750,
+      "name": "Alfàs del Pi l"
+    },
+    {
+      "id": 181751,
+      "name": "Algorfa"
+    },
+    {
+      "id": 181752,
+      "name": "Algueña"
+    },
+    {
+      "id": 181753,
+      "name": "Alicante/Alacant"
+    },
+    {
+      "id": 181754,
+      "name": "Almoradí"
+    },
+    {
+      "id": 181755,
+      "name": "Almudaina"
+    },
+    {
+      "id": 181756,
+      "name": "Alqueria dAsnar l"
+    },
+    {
+      "id": 181757,
+      "name": "Altea"
+    },
+    {
+      "id": 181758,
+      "name": "Aspe"
+    },
+    {
+      "id": 181759,
+      "name": "Balones"
+    },
+    {
+      "id": 181760,
+      "name": "Banyeres de Mariola"
+    },
+    {
+      "id": 181761,
+      "name": "Benasau"
+    },
+    {
+      "id": 181762,
+      "name": "Beneixama"
+    },
+    {
+      "id": 181763,
+      "name": "Benejúzar"
+    },
+    {
+      "id": 181764,
+      "name": "Benferri"
+    },
+    {
+      "id": 181765,
+      "name": "Beniarbeig"
+    },
+    {
+      "id": 181766,
+      "name": "Beniardá"
+    },
+    {
+      "id": 181767,
+      "name": "Beniarrés"
+    },
+    {
+      "id": 181768,
+      "name": "Benidoleig"
+    },
+    {
+      "id": 181769,
+      "name": "Benidorm"
+    },
+    {
+      "id": 181770,
+      "name": "Benifallim"
+    },
+    {
+      "id": 181771,
+      "name": "Benifato"
+    },
+    {
+      "id": 181772,
+      "name": "Benigembla"
+    },
+    {
+      "id": 181773,
+      "name": "Benijofar"
+    },
+    {
+      "id": 181774,
+      "name": "Benilloba"
+    },
+    {
+      "id": 181775,
+      "name": "Benillup"
+    },
+    {
+      "id": 181776,
+      "name": "Benimantell"
+    },
+    {
+      "id": 181777,
+      "name": "Benimarfull"
+    },
+    {
+      "id": 181778,
+      "name": "Benimassot"
+    },
+    {
+      "id": 181779,
+      "name": "Benimeli"
+    },
+    {
+      "id": 181780,
+      "name": "Benissa"
+    },
+    {
+      "id": 181781,
+      "name": "Benitachell/Poble Nou de Benitatxell el"
+    },
+    {
+      "id": 181782,
+      "name": "Biar"
+    },
+    {
+      "id": 181783,
+      "name": "Bigastro"
+    },
+    {
+      "id": 181784,
+      "name": "Bolulla"
+    },
+    {
+      "id": 181785,
+      "name": "Busot"
+    },
+    {
+      "id": 181786,
+      "name": "Callosa de Segura"
+    },
+    {
+      "id": 181787,
+      "name": "Callosa dEn Sarrià"
+    },
+    {
+      "id": 181788,
+      "name": "Calp"
+    },
+    {
+      "id": 181789,
+      "name": "Campello el"
+    },
+    {
+      "id": 181790,
+      "name": "Campo de Mirra/Camp de Mirra el"
+    },
+    {
+      "id": 181791,
+      "name": "Cañada"
+    },
+    {
+      "id": 181792,
+      "name": "Castalla"
+    },
+    {
+      "id": 181793,
+      "name": "Castell de Castells"
+    },
+    {
+      "id": 181794,
+      "name": "Castell de Guadalest el"
+    },
+    {
+      "id": 181795,
+      "name": "Catral"
+    },
+    {
+      "id": 181796,
+      "name": "Cocentaina"
+    },
+    {
+      "id": 181797,
+      "name": "Confrides"
+    },
+    {
+      "id": 181798,
+      "name": "Cox"
+    },
+    {
+      "id": 181799,
+      "name": "Crevillent"
+    },
+    {
+      "id": 181800,
+      "name": "Daya Nueva"
+    },
+    {
+      "id": 181801,
+      "name": "Daya Vieja"
+    },
+    {
+      "id": 181802,
+      "name": "Denia"
+    },
+    {
+      "id": 181803,
+      "name": "Dolores"
+    },
+    {
+      "id": 181804,
+      "name": "Elche/Elx"
+    },
+    {
+      "id": 181805,
+      "name": "Elda"
+    },
+    {
+      "id": 181806,
+      "name": "Facheca"
+    },
+    {
+      "id": 181807,
+      "name": "Famorca"
+    },
+    {
+      "id": 181808,
+      "name": "Finestrat"
+    },
+    {
+      "id": 181809,
+      "name": "Fondó de les Neus el/Hondón de las Nieves"
+    },
+    {
+      "id": 181810,
+      "name": "Formentera del Segura"
+    },
+    {
+      "id": 181811,
+      "name": "Gaianes"
+    },
+    {
+      "id": 181812,
+      "name": "Gata de Gorgos"
+    },
+    {
+      "id": 181813,
+      "name": "Gorga"
+    },
+    {
+      "id": 181814,
+      "name": "Granja de Rocamora"
+    },
+    {
+      "id": 181815,
+      "name": "Guardamar del Segura"
+    },
+    {
+      "id": 181816,
+      "name": "Hondón de los Frailes"
+    },
+    {
+      "id": 181817,
+      "name": "Ibi"
+    },
+    {
+      "id": 181818,
+      "name": "Jacarilla"
+    },
+    {
+      "id": 181819,
+      "name": "Jávea/Xàbia"
+    },
+    {
+      "id": 181820,
+      "name": "Jijona/Xixona"
+    },
+    {
+      "id": 181821,
+      "name": "Llíber"
+    },
+    {
+      "id": 181822,
+      "name": "Lorcha/Orxa l"
+    },
+    {
+      "id": 181823,
+      "name": "Millena"
+    },
+    {
+      "id": 181824,
+      "name": "Monforte del Cid"
+    },
+    {
+      "id": 181825,
+      "name": "Monóvar/Monòver"
+    },
+    {
+      "id": 181826,
+      "name": "Montesinos Los"
+    },
+    {
+      "id": 181827,
+      "name": "Murla"
+    },
+    {
+      "id": 181828,
+      "name": "Muro de Alcoy"
+    },
+    {
+      "id": 181829,
+      "name": "Mutxamel"
+    },
+    {
+      "id": 181830,
+      "name": "Novelda"
+    },
+    {
+      "id": 181831,
+      "name": "Nucia la"
+    },
+    {
+      "id": 181832,
+      "name": "Ondara"
+    },
+    {
+      "id": 181833,
+      "name": "Onil"
+    },
+    {
+      "id": 181834,
+      "name": "Orba"
+    },
+    {
+      "id": 181835,
+      "name": "Orihuela"
+    },
+    {
+      "id": 181836,
+      "name": "Orxeta"
+    },
+    {
+      "id": 181837,
+      "name": "Parcent"
+    },
+    {
+      "id": 181838,
+      "name": "Pedreguer"
+    },
+    {
+      "id": 181839,
+      "name": "Pego"
+    },
+    {
+      "id": 181840,
+      "name": "Penàguila"
+    },
+    {
+      "id": 181841,
+      "name": "Petrer"
+    },
+    {
+      "id": 181842,
+      "name": "Pilar de la Horadada"
+    },
+    {
+      "id": 181843,
+      "name": "Pinós el/Pinoso"
+    },
+    {
+      "id": 181844,
+      "name": "Planes"
+    },
+    {
+      "id": 181845,
+      "name": "Poblets els"
+    },
+    {
+      "id": 181846,
+      "name": "Polop"
+    },
+    {
+      "id": 181847,
+      "name": "Quatretondeta"
+    },
+    {
+      "id": 181848,
+      "name": "Rafal"
+    },
+    {
+      "id": 181849,
+      "name": "Ràfol dAlmúnia El"
+    },
+    {
+      "id": 181850,
+      "name": "Redován"
+    },
+    {
+      "id": 181851,
+      "name": "Relleu"
+    },
+    {
+      "id": 181852,
+      "name": "Rojales"
+    },
+    {
+      "id": 181853,
+      "name": "Romana la"
+    },
+    {
+      "id": 181854,
+      "name": "Sagra"
+    },
+    {
+      "id": 181855,
+      "name": "Salinas"
+    },
+    {
+      "id": 181856,
+      "name": "San Fulgencio"
+    },
+    {
+      "id": 181857,
+      "name": "San Isidro"
+    },
+    {
+      "id": 181858,
+      "name": "San Miguel de Salinas"
+    },
+    {
+      "id": 181859,
+      "name": "San Vicente del Raspeig/Sant Vicent del Raspeig"
+    },
+    {
+      "id": 181860,
+      "name": "Sanet y Negrals"
+    },
+    {
+      "id": 181861,
+      "name": "Sant Joan dAlacant"
+    },
+    {
+      "id": 181862,
+      "name": "Santa Pola"
+    },
+    {
+      "id": 181863,
+      "name": "Sax"
+    },
+    {
+      "id": 181864,
+      "name": "Sella"
+    },
+    {
+      "id": 181865,
+      "name": "Senija"
+    },
+    {
+      "id": 181866,
+      "name": "Tàrbena"
+    },
+    {
+      "id": 181867,
+      "name": "Teulada"
+    },
+    {
+      "id": 181868,
+      "name": "Tibi"
+    },
+    {
+      "id": 181869,
+      "name": "Tollos"
+    },
+    {
+      "id": 181870,
+      "name": "Tormos"
+    },
+    {
+      "id": 181871,
+      "name": "Torremanzanas/Torre de les Maçanes la"
+    },
+    {
+      "id": 181872,
+      "name": "Torrevieja"
+    },
+    {
+      "id": 181873,
+      "name": "Vall dAlcalà la"
+    },
+    {
+      "id": 181874,
+      "name": "Vall de Gallinera"
+    },
+    {
+      "id": 181875,
+      "name": "Vall de Laguar la"
+    },
+    {
+      "id": 181876,
+      "name": "Vall dEbo la"
+    },
+    {
+      "id": 181877,
+      "name": "Verger el"
+    },
+    {
+      "id": 181878,
+      "name": "Villajoyosa/Vila Joiosa la"
+    },
+    {
+      "id": 181879,
+      "name": "Villena"
+    },
+    {
+      "id": 181880,
+      "name": "Xaló"
+    }
+  ]
+}

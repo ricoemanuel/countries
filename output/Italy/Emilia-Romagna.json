@@ -1,0 +1,2159 @@
+{
+  "id": 4390,
+  "name": "Emilia-Romagna",
+  "state_code": "45",
+  "cities": [
+    {
+      "id": 126694,
+      "name": "Agazzano"
+    },
+    {
+      "id": 126695,
+      "name": "Albareto"
+    },
+    {
+      "id": 126696,
+      "name": "Alberi"
+    },
+    {
+      "id": 126697,
+      "name": "Albinea"
+    },
+    {
+      "id": 126698,
+      "name": "Alseno"
+    },
+    {
+      "id": 126699,
+      "name": "Altedo"
+    },
+    {
+      "id": 126700,
+      "name": "Anzola dell'Emilia"
+    },
+    {
+      "id": 126701,
+      "name": "Arceto"
+    },
+    {
+      "id": 126702,
+      "name": "Argelato"
+    },
+    {
+      "id": 126703,
+      "name": "Argenta"
+    },
+    {
+      "id": 126704,
+      "name": "Argine"
+    },
+    {
+      "id": 126705,
+      "name": "Baganzola"
+    },
+    {
+      "id": 126706,
+      "name": "Baggiovara"
+    },
+    {
+      "id": 126707,
+      "name": "Bagnarola"
+    },
+    {
+      "id": 126708,
+      "name": "Bagno"
+    },
+    {
+      "id": 126709,
+      "name": "Bagnolo in Piano"
+    },
+    {
+      "id": 126710,
+      "name": "Baiso"
+    },
+    {
+      "id": 126711,
+      "name": "Barbiano"
+    },
+    {
+      "id": 126712,
+      "name": "Barco"
+    },
+    {
+      "id": 126713,
+      "name": "Bardi"
+    },
+    {
+      "id": 126714,
+      "name": "Baricella"
+    },
+    {
+      "id": 126715,
+      "name": "Basilicagoiano"
+    },
+    {
+      "id": 126716,
+      "name": "Basilicanova"
+    },
+    {
+      "id": 126717,
+      "name": "Bastiglia"
+    },
+    {
+      "id": 126718,
+      "name": "Bazzano"
+    },
+    {
+      "id": 126719,
+      "name": "Bedonia"
+    },
+    {
+      "id": 126720,
+      "name": "Bellaria-Igea Marina"
+    },
+    {
+      "id": 126721,
+      "name": "Bentivoglio"
+    },
+    {
+      "id": 126722,
+      "name": "Berceto"
+    },
+    {
+      "id": 126723,
+      "name": "Berra"
+    },
+    {
+      "id": 126724,
+      "name": "Bertinoro"
+    },
+    {
+      "id": 126725,
+      "name": "Berzantina"
+    },
+    {
+      "id": 126726,
+      "name": "Besenzone"
+    },
+    {
+      "id": 126727,
+      "name": "Bettola"
+    },
+    {
+      "id": 126728,
+      "name": "Bibbiano"
+    },
+    {
+      "id": 126729,
+      "name": "Bobbio"
+    },
+    {
+      "id": 126730,
+      "name": "Bologna"
+    },
+    {
+      "id": 126731,
+      "name": "Bomporto"
+    },
+    {
+      "id": 126732,
+      "name": "Bondeno"
+    },
+    {
+      "id": 126733,
+      "name": "Bora Bassa"
+    },
+    {
+      "id": 126734,
+      "name": "Bore"
+    },
+    {
+      "id": 126735,
+      "name": "Borello"
+    },
+    {
+      "id": 126736,
+      "name": "Boretto"
+    },
+    {
+      "id": 126737,
+      "name": "Borghi"
+    },
+    {
+      "id": 126738,
+      "name": "Borgo Tossignano"
+    },
+    {
+      "id": 126739,
+      "name": "Borgo Val di Taro"
+    },
+    {
+      "id": 126740,
+      "name": "Borgonovo Valtidone"
+    },
+    {
+      "id": 126741,
+      "name": "Borgonuovo"
+    },
+    {
+      "id": 126742,
+      "name": "Borzano"
+    },
+    {
+      "id": 126743,
+      "name": "Bosco Mesola"
+    },
+    {
+      "id": 126744,
+      "name": "Brescello"
+    },
+    {
+      "id": 126745,
+      "name": "Bubano"
+    },
+    {
+      "id": 126746,
+      "name": "Budrio"
+    },
+    {
+      "id": 126747,
+      "name": "Busana"
+    },
+    {
+      "id": 126748,
+      "name": "Busseto"
+    },
+    {
+      "id": 126749,
+      "name": "Cà Dè Fabbri"
+    },
+    {
+      "id": 126750,
+      "name": "Ca' di Sola"
+    },
+    {
+      "id": 126751,
+      "name": "Cadè-Gaida"
+    },
+    {
+      "id": 126752,
+      "name": "Cadelbosco di Sopra"
+    },
+    {
+      "id": 126753,
+      "name": "Cadelbosco di Sotto"
+    },
+    {
+      "id": 126754,
+      "name": "Calcara"
+    },
+    {
+      "id": 126755,
+      "name": "Calderara di Reno"
+    },
+    {
+      "id": 126756,
+      "name": "Calderino"
+    },
+    {
+      "id": 126757,
+      "name": "Calendasco"
+    },
+    {
+      "id": 126758,
+      "name": "Calerno"
+    },
+    {
+      "id": 126759,
+      "name": "Calestano"
+    },
+    {
+      "id": 126760,
+      "name": "Caminata"
+    },
+    {
+      "id": 126761,
+      "name": "Campagnola Emilia"
+    },
+    {
+      "id": 126762,
+      "name": "Campegine"
+    },
+    {
+      "id": 126763,
+      "name": "Campogalliano"
+    },
+    {
+      "id": 126764,
+      "name": "Camposanto"
+    },
+    {
+      "id": 126765,
+      "name": "Camugnano"
+    },
+    {
+      "id": 126766,
+      "name": "Caorso"
+    },
+    {
+      "id": 126767,
+      "name": "Caprara"
+    },
+    {
+      "id": 126768,
+      "name": "Carpaneto Piacentino"
+    },
+    {
+      "id": 126769,
+      "name": "Carpi Centro"
+    },
+    {
+      "id": 126770,
+      "name": "Carpineti"
+    },
+    {
+      "id": 126771,
+      "name": "Casale"
+    },
+    {
+      "id": 126772,
+      "name": "Casalecchio di Reno"
+    },
+    {
+      "id": 126773,
+      "name": "Casalfiumanese"
+    },
+    {
+      "id": 126774,
+      "name": "Casalgrande"
+    },
+    {
+      "id": 126775,
+      "name": "Casina"
+    },
+    {
+      "id": 126776,
+      "name": "Castel d'Aiano"
+    },
+    {
+      "id": 126777,
+      "name": "Castel del Rio"
+    },
+    {
+      "id": 126778,
+      "name": "Castel di Casio"
+    },
+    {
+      "id": 126779,
+      "name": "Castel Guelfo di Bologna"
+    },
+    {
+      "id": 126780,
+      "name": "Castel Maggiore"
+    },
+    {
+      "id": 126781,
+      "name": "Castel San Giovanni"
+    },
+    {
+      "id": 126782,
+      "name": "Castel San Pietro Terme"
+    },
+    {
+      "id": 126783,
+      "name": "Casteldelci"
+    },
+    {
+      "id": 126784,
+      "name": "Castelfranco Emilia"
+    },
+    {
+      "id": 126785,
+      "name": "Castell'Arquato"
+    },
+    {
+      "id": 126786,
+      "name": "Castellarano"
+    },
+    {
+      "id": 126787,
+      "name": "Castelletto"
+    },
+    {
+      "id": 126788,
+      "name": "Castello d'Argile"
+    },
+    {
+      "id": 126789,
+      "name": "Castelnovo di Sotto"
+    },
+    {
+      "id": 126790,
+      "name": "Castelnovo ne'Monti"
+    },
+    {
+      "id": 126791,
+      "name": "Castelnuovo Rangone"
+    },
+    {
+      "id": 126792,
+      "name": "Castelvetro di Modena"
+    },
+    {
+      "id": 126793,
+      "name": "Castelvetro Piacentino"
+    },
+    {
+      "id": 126794,
+      "name": "Castenaso"
+    },
+    {
+      "id": 126795,
+      "name": "Castiglione dei Pepoli"
+    },
+    {
+      "id": 126796,
+      "name": "Castrocaro Terme e Terra del Sole"
+    },
+    {
+      "id": 126797,
+      "name": "Cattolica"
+    },
+    {
+      "id": 126798,
+      "name": "Cavazzona"
+    },
+    {
+      "id": 126799,
+      "name": "Cavezzo"
+    },
+    {
+      "id": 126800,
+      "name": "Cavriago"
+    },
+    {
+      "id": 126801,
+      "name": "Cento"
+    },
+    {
+      "id": 126802,
+      "name": "Cerasolo"
+    },
+    {
+      "id": 126803,
+      "name": "Cerignale"
+    },
+    {
+      "id": 126804,
+      "name": "Cesena"
+    },
+    {
+      "id": 126805,
+      "name": "Cesenatico"
+    },
+    {
+      "id": 126806,
+      "name": "Ciano d'Enza"
+    },
+    {
+      "id": 126807,
+      "name": "Civitella di Romagna"
+    },
+    {
+      "id": 126808,
+      "name": "Classe"
+    },
+    {
+      "id": 126809,
+      "name": "Coccanile-Cesta"
+    },
+    {
+      "id": 126810,
+      "name": "Codemondo-Quaresimo"
+    },
+    {
+      "id": 126811,
+      "name": "Codigoro"
+    },
+    {
+      "id": 126812,
+      "name": "Codisotto"
+    },
+    {
+      "id": 126813,
+      "name": "Coli"
+    },
+    {
+      "id": 126814,
+      "name": "Collagna"
+    },
+    {
+      "id": 126815,
+      "name": "Collecchio"
+    },
+    {
+      "id": 126816,
+      "name": "Colombaro"
+    },
+    {
+      "id": 126817,
+      "name": "Colorno"
+    },
+    {
+      "id": 126818,
+      "name": "Comacchio"
+    },
+    {
+      "id": 126819,
+      "name": "Compiano"
+    },
+    {
+      "id": 126820,
+      "name": "Cona"
+    },
+    {
+      "id": 126821,
+      "name": "Concordia sulla Secchia"
+    },
+    {
+      "id": 126822,
+      "name": "Consandolo"
+    },
+    {
+      "id": 126823,
+      "name": "Copparo"
+    },
+    {
+      "id": 126824,
+      "name": "Corcagnano"
+    },
+    {
+      "id": 126825,
+      "name": "Coriano"
+    },
+    {
+      "id": 126826,
+      "name": "Corniglio"
+    },
+    {
+      "id": 126827,
+      "name": "Corpo Reno"
+    },
+    {
+      "id": 126828,
+      "name": "Corpolò"
+    },
+    {
+      "id": 126829,
+      "name": "Correggio"
+    },
+    {
+      "id": 126830,
+      "name": "Cortemaggiore"
+    },
+    {
+      "id": 126831,
+      "name": "Crespellano"
+    },
+    {
+      "id": 126832,
+      "name": "Crevalcore"
+    },
+    {
+      "id": 126833,
+      "name": "Cusercoli"
+    },
+    {
+      "id": 126834,
+      "name": "Decima"
+    },
+    {
+      "id": 126835,
+      "name": "Dodici Morelli"
+    },
+    {
+      "id": 126836,
+      "name": "Dosso"
+    },
+    {
+      "id": 126837,
+      "name": "Dovadola"
+    },
+    {
+      "id": 126838,
+      "name": "Dozza"
+    },
+    {
+      "id": 126839,
+      "name": "Fabbrico"
+    },
+    {
+      "id": 126840,
+      "name": "Fanano"
+    },
+    {
+      "id": 126841,
+      "name": "Farini"
+    },
+    {
+      "id": 126842,
+      "name": "Felegara"
+    },
+    {
+      "id": 126843,
+      "name": "Felina"
+    },
+    {
+      "id": 126844,
+      "name": "Felino"
+    },
+    {
+      "id": 126845,
+      "name": "Fellegara"
+    },
+    {
+      "id": 126846,
+      "name": "Ferrara"
+    },
+    {
+      "id": 126847,
+      "name": "Ferriere"
+    },
+    {
+      "id": 126848,
+      "name": "Fidenza"
+    },
+    {
+      "id": 126849,
+      "name": "Finale Emilia"
+    },
+    {
+      "id": 126850,
+      "name": "Fiorano"
+    },
+    {
+      "id": 126851,
+      "name": "Fiorenzuola d'Arda"
+    },
+    {
+      "id": 126852,
+      "name": "Fiumalbo-Dogana"
+    },
+    {
+      "id": 126853,
+      "name": "Fiumana"
+    },
+    {
+      "id": 126854,
+      "name": "Fogliano"
+    },
+    {
+      "id": 126855,
+      "name": "Fognano"
+    },
+    {
+      "id": 126856,
+      "name": "Fontanelice"
+    },
+    {
+      "id": 126857,
+      "name": "Fontanellato"
+    },
+    {
+      "id": 126858,
+      "name": "Fontevivo"
+    },
+    {
+      "id": 126859,
+      "name": "Forche"
+    },
+    {
+      "id": 126860,
+      "name": "Forlì"
+    },
+    {
+      "id": 126861,
+      "name": "Forlimpopoli"
+    },
+    {
+      "id": 126862,
+      "name": "Formica"
+    },
+    {
+      "id": 126863,
+      "name": "Formigine"
+    },
+    {
+      "id": 126864,
+      "name": "Formignana"
+    },
+    {
+      "id": 126865,
+      "name": "Fornace Zarattini"
+    },
+    {
+      "id": 126866,
+      "name": "Fornovo di Taro"
+    },
+    {
+      "id": 126867,
+      "name": "Fossa"
+    },
+    {
+      "id": 126868,
+      "name": "Fosso Ghiaia"
+    },
+    {
+      "id": 126869,
+      "name": "Fossoli"
+    },
+    {
+      "id": 126870,
+      "name": "Francolino"
+    },
+    {
+      "id": 126871,
+      "name": "Frassinoro"
+    },
+    {
+      "id": 126872,
+      "name": "Fratta Terme"
+    },
+    {
+      "id": 126873,
+      "name": "Gaggio"
+    },
+    {
+      "id": 126874,
+      "name": "Gaggio Montano"
+    },
+    {
+      "id": 126875,
+      "name": "Gaiano"
+    },
+    {
+      "id": 126876,
+      "name": "Gaibanella-Sant'Edigio"
+    },
+    {
+      "id": 126877,
+      "name": "Galeata"
+    },
+    {
+      "id": 126878,
+      "name": "Gallo"
+    },
+    {
+      "id": 126879,
+      "name": "Gambettola"
+    },
+    {
+      "id": 126880,
+      "name": "Gatteo a Mare"
+    },
+    {
+      "id": 126881,
+      "name": "Gatteo-Sant'Angelo"
+    },
+    {
+      "id": 126882,
+      "name": "Gazzola"
+    },
+    {
+      "id": 126883,
+      "name": "Gemmano"
+    },
+    {
+      "id": 126884,
+      "name": "Glorie"
+    },
+    {
+      "id": 126885,
+      "name": "Godo"
+    },
+    {
+      "id": 126886,
+      "name": "Goro"
+    },
+    {
+      "id": 126887,
+      "name": "Gorzano"
+    },
+    {
+      "id": 126888,
+      "name": "Gossolengo"
+    },
+    {
+      "id": 126889,
+      "name": "Gragnano Trebbiense"
+    },
+    {
+      "id": 126890,
+      "name": "Granarolo"
+    },
+    {
+      "id": 126891,
+      "name": "Granarolo dell'Emilia e Viadagola"
+    },
+    {
+      "id": 126892,
+      "name": "Grizzana"
+    },
+    {
+      "id": 126893,
+      "name": "Grizzana Morandi"
+    },
+    {
+      "id": 126894,
+      "name": "Gropparello"
+    },
+    {
+      "id": 126895,
+      "name": "Gualtieri"
+    },
+    {
+      "id": 126896,
+      "name": "Guastalla"
+    },
+    {
+      "id": 126897,
+      "name": "Guiglia"
+    },
+    {
+      "id": 126898,
+      "name": "Imola"
+    },
+    {
+      "id": 126899,
+      "name": "Jolanda di Savoia"
+    },
+    {
+      "id": 126900,
+      "name": "La Saletta-Tamara"
+    },
+    {
+      "id": 126901,
+      "name": "Lagosanto"
+    },
+    {
+      "id": 126902,
+      "name": "Lama"
+    },
+    {
+      "id": 126903,
+      "name": "Langhirano"
+    },
+    {
+      "id": 126904,
+      "name": "Lavezzola"
+    },
+    {
+      "id": 126905,
+      "name": "Lentigione-Sorbolo a Mane"
+    },
+    {
+      "id": 126906,
+      "name": "Lesignano de'Bagni"
+    },
+    {
+      "id": 126907,
+      "name": "Lido Adriano"
+    },
+    {
+      "id": 126908,
+      "name": "Lido degli Estensi"
+    },
+    {
+      "id": 126909,
+      "name": "Lido di Pomposa-Lido degli Scacchi"
+    },
+    {
+      "id": 126910,
+      "name": "Ligonchio"
+    },
+    {
+      "id": 126911,
+      "name": "Limidi"
+    },
+    {
+      "id": 126912,
+      "name": "Lizzano in Belvedere"
+    },
+    {
+      "id": 126913,
+      "name": "Loiano"
+    },
+    {
+      "id": 126914,
+      "name": "Longara"
+    },
+    {
+      "id": 126915,
+      "name": "Longastrino"
+    },
+    {
+      "id": 126916,
+      "name": "Longiano"
+    },
+    {
+      "id": 126917,
+      "name": "Lugagnano Val d'Arda"
+    },
+    {
+      "id": 126918,
+      "name": "Luzzara"
+    },
+    {
+      "id": 126919,
+      "name": "Madonna Dell'Albero"
+    },
+    {
+      "id": 126920,
+      "name": "Magreta"
+    },
+    {
+      "id": 126921,
+      "name": "Malalbergo"
+    },
+    {
+      "id": 126922,
+      "name": "Manzolino"
+    },
+    {
+      "id": 126923,
+      "name": "Maranello"
+    },
+    {
+      "id": 126924,
+      "name": "Marano sul Panaro"
+    },
+    {
+      "id": 126925,
+      "name": "Marina di Ravenna"
+    },
+    {
+      "id": 126926,
+      "name": "Marina Romea"
+    },
+    {
+      "id": 126927,
+      "name": "Marsaglia"
+    },
+    {
+      "id": 126928,
+      "name": "Marzabotto"
+    },
+    {
+      "id": 126929,
+      "name": "Masi-Torello"
+    },
+    {
+      "id": 126930,
+      "name": "Massa Finalese"
+    },
+    {
+      "id": 126931,
+      "name": "Massa Fiscaglia"
+    },
+    {
+      "id": 126932,
+      "name": "Massenzatico"
+    },
+    {
+      "id": 126933,
+      "name": "Medesano"
+    },
+    {
+      "id": 126934,
+      "name": "Medicina-Buda"
+    },
+    {
+      "id": 126935,
+      "name": "Medolla"
+    },
+    {
+      "id": 126936,
+      "name": "Meldola"
+    },
+    {
+      "id": 126937,
+      "name": "Mercato Saraceno"
+    },
+    {
+      "id": 126938,
+      "name": "Mesola"
+    },
+    {
+      "id": 126939,
+      "name": "Mezzano"
+    },
+    {
+      "id": 126940,
+      "name": "Mezzano Inferiore"
+    },
+    {
+      "id": 126941,
+      "name": "Mezzogoro"
+    },
+    {
+      "id": 126942,
+      "name": "Mezzolara"
+    },
+    {
+      "id": 126943,
+      "name": "Migliarina"
+    },
+    {
+      "id": 126944,
+      "name": "Migliarino"
+    },
+    {
+      "id": 126945,
+      "name": "Migliaro"
+    },
+    {
+      "id": 126946,
+      "name": "Milano Marittima"
+    },
+    {
+      "id": 126947,
+      "name": "Minerbio"
+    },
+    {
+      "id": 126948,
+      "name": "Mirabello"
+    },
+    {
+      "id": 126949,
+      "name": "Mirandola"
+    },
+    {
+      "id": 126950,
+      "name": "Misano Adriatico"
+    },
+    {
+      "id": 126951,
+      "name": "Modena"
+    },
+    {
+      "id": 126952,
+      "name": "Modigliana"
+    },
+    {
+      "id": 126953,
+      "name": "Molinella"
+    },
+    {
+      "id": 126954,
+      "name": "Molino del Pallone"
+    },
+    {
+      "id": 126955,
+      "name": "Monchio delle Corti"
+    },
+    {
+      "id": 126956,
+      "name": "Mondaino"
+    },
+    {
+      "id": 126957,
+      "name": "Monghidoro"
+    },
+    {
+      "id": 126958,
+      "name": "Montalbano"
+    },
+    {
+      "id": 126959,
+      "name": "Montale"
+    },
+    {
+      "id": 126960,
+      "name": "Monte Colombo"
+    },
+    {
+      "id": 126961,
+      "name": "Monte San Giovanni"
+    },
+    {
+      "id": 126962,
+      "name": "Montecavolo"
+    },
+    {
+      "id": 126963,
+      "name": "Montecchio Emilia"
+    },
+    {
+      "id": 126964,
+      "name": "Montechiarugolo"
+    },
+    {
+      "id": 126965,
+      "name": "Montecreto"
+    },
+    {
+      "id": 126966,
+      "name": "Montefiore Conca"
+    },
+    {
+      "id": 126967,
+      "name": "Montefiorino"
+    },
+    {
+      "id": 126968,
+      "name": "Montegridolfo"
+    },
+    {
+      "id": 126969,
+      "name": "Monterenzio"
+    },
+    {
+      "id": 126970,
+      "name": "Montescudo"
+    },
+    {
+      "id": 126971,
+      "name": "Montese"
+    },
+    {
+      "id": 126972,
+      "name": "Montiano"
+    },
+    {
+      "id": 126973,
+      "name": "Monticelli d'Ongina"
+    },
+    {
+      "id": 126974,
+      "name": "Monticelli Terme"
+    },
+    {
+      "id": 126975,
+      "name": "Monzuno"
+    },
+    {
+      "id": 126976,
+      "name": "Morciano di Romagna"
+    },
+    {
+      "id": 126977,
+      "name": "Mordano"
+    },
+    {
+      "id": 126978,
+      "name": "Morfasso"
+    },
+    {
+      "id": 126979,
+      "name": "Mulino"
+    },
+    {
+      "id": 126980,
+      "name": "Neviano degli Arduini"
+    },
+    {
+      "id": 126981,
+      "name": "Nibbiano"
+    },
+    {
+      "id": 126982,
+      "name": "Niviano"
+    },
+    {
+      "id": 126983,
+      "name": "Noceto"
+    },
+    {
+      "id": 126984,
+      "name": "Nonantola"
+    },
+    {
+      "id": 126985,
+      "name": "Novafeltria"
+    },
+    {
+      "id": 126986,
+      "name": "Novellara"
+    },
+    {
+      "id": 126987,
+      "name": "Novi di Modena"
+    },
+    {
+      "id": 126988,
+      "name": "Ospedaletto"
+    },
+    {
+      "id": 126989,
+      "name": "Ostellato"
+    },
+    {
+      "id": 126990,
+      "name": "Osteria Grande"
+    },
+    {
+      "id": 126991,
+      "name": "Osteria Nuova"
+    },
+    {
+      "id": 126992,
+      "name": "Ottone"
+    },
+    {
+      "id": 126993,
+      "name": "Ozzano dell'Emilia"
+    },
+    {
+      "id": 126994,
+      "name": "Ozzano Taro"
+    },
+    {
+      "id": 126995,
+      "name": "Padulle"
+    },
+    {
+      "id": 126996,
+      "name": "Palagano"
+    },
+    {
+      "id": 126997,
+      "name": "Palanzano"
+    },
+    {
+      "id": 126998,
+      "name": "Panighina"
+    },
+    {
+      "id": 126999,
+      "name": "Parma"
+    },
+    {
+      "id": 127000,
+      "name": "Pavullo nel Frignano"
+    },
+    {
+      "id": 127001,
+      "name": "Pecorara"
+    },
+    {
+      "id": 127002,
+      "name": "Pellegrino Parmense"
+    },
+    {
+      "id": 127003,
+      "name": "Pennabilli"
+    },
+    {
+      "id": 127004,
+      "name": "Piacenza"
+    },
+    {
+      "id": 127005,
+      "name": "Pianello Val Tidone"
+    },
+    {
+      "id": 127006,
+      "name": "Piangipane"
+    },
+    {
+      "id": 127007,
+      "name": "Pianoro"
+    },
+    {
+      "id": 127008,
+      "name": "Pietracuta"
+    },
+    {
+      "id": 127009,
+      "name": "Pieve di Cento"
+    },
+    {
+      "id": 127010,
+      "name": "Pievepelago"
+    },
+    {
+      "id": 127011,
+      "name": "Pilastro"
+    },
+    {
+      "id": 127012,
+      "name": "Pinarella"
+    },
+    {
+      "id": 127013,
+      "name": "Piozzano"
+    },
+    {
+      "id": 127014,
+      "name": "Pisignano"
+    },
+    {
+      "id": 127015,
+      "name": "Piumazzo"
+    },
+    {
+      "id": 127016,
+      "name": "Pizzano"
+    },
+    {
+      "id": 127017,
+      "name": "Podenzano"
+    },
+    {
+      "id": 127018,
+      "name": "Poggio Berni"
+    },
+    {
+      "id": 127019,
+      "name": "Poggio Renatico"
+    },
+    {
+      "id": 127020,
+      "name": "Polesine Parmense"
+    },
+    {
+      "id": 127021,
+      "name": "Polinago"
+    },
+    {
+      "id": 127022,
+      "name": "Ponte dell'Olio"
+    },
+    {
+      "id": 127023,
+      "name": "Ponte della Venturina"
+    },
+    {
+      "id": 127024,
+      "name": "Ponte Ronca"
+    },
+    {
+      "id": 127025,
+      "name": "Ponte Taro"
+    },
+    {
+      "id": 127026,
+      "name": "Pontegradella"
+    },
+    {
+      "id": 127027,
+      "name": "Pontelangorino"
+    },
+    {
+      "id": 127028,
+      "name": "Pontenure"
+    },
+    {
+      "id": 127029,
+      "name": "Ponticella"
+    },
+    {
+      "id": 127030,
+      "name": "Porotto-Cassama"
+    },
+    {
+      "id": 127031,
+      "name": "Porporano"
+    },
+    {
+      "id": 127032,
+      "name": "Porretta Terme"
+    },
+    {
+      "id": 127033,
+      "name": "Portico di Romagna"
+    },
+    {
+      "id": 127034,
+      "name": "Portico e San Benedetto"
+    },
+    {
+      "id": 127035,
+      "name": "Porto Corsini"
+    },
+    {
+      "id": 127036,
+      "name": "Porto Fuori"
+    },
+    {
+      "id": 127037,
+      "name": "Porto Garibaldi"
+    },
+    {
+      "id": 127038,
+      "name": "Portomaggiore"
+    },
+    {
+      "id": 127039,
+      "name": "Poviglio"
+    },
+    {
+      "id": 127040,
+      "name": "Pozza"
+    },
+    {
+      "id": 127041,
+      "name": "Praticello"
+    },
+    {
+      "id": 127042,
+      "name": "Pratissolo"
+    },
+    {
+      "id": 127043,
+      "name": "Prato"
+    },
+    {
+      "id": 127044,
+      "name": "Predappio"
+    },
+    {
+      "id": 127045,
+      "name": "Premilcuore"
+    },
+    {
+      "id": 127046,
+      "name": "Prignano"
+    },
+    {
+      "id": 127047,
+      "name": "Prignano sulla Secchia"
+    },
+    {
+      "id": 127048,
+      "name": "Progresso"
+    },
+    {
+      "id": 127049,
+      "name": "Provincia di Ferrara"
+    },
+    {
+      "id": 127050,
+      "name": "Provincia di Forlì-Cesena"
+    },
+    {
+      "id": 127051,
+      "name": "Provincia di Modena"
+    },
+    {
+      "id": 127052,
+      "name": "Provincia di Parma"
+    },
+    {
+      "id": 127053,
+      "name": "Provincia di Piacenza"
+    },
+    {
+      "id": 127054,
+      "name": "Provincia di Ravenna"
+    },
+    {
+      "id": 127055,
+      "name": "Provincia di Reggio Emilia"
+    },
+    {
+      "id": 127056,
+      "name": "Provincia di Rimini"
+    },
+    {
+      "id": 127057,
+      "name": "Puianello"
+    },
+    {
+      "id": 127058,
+      "name": "Pulce"
+    },
+    {
+      "id": 127059,
+      "name": "Punta Marina"
+    },
+    {
+      "id": 127060,
+      "name": "Quarantoli"
+    },
+    {
+      "id": 127061,
+      "name": "Quartesana"
+    },
+    {
+      "id": 127062,
+      "name": "Quarto Inferiore"
+    },
+    {
+      "id": 127063,
+      "name": "Quattro Castella"
+    },
+    {
+      "id": 127064,
+      "name": "Ramiola"
+    },
+    {
+      "id": 127065,
+      "name": "Ramiseto"
+    },
+    {
+      "id": 127066,
+      "name": "Rastignano-Carteria di Sesto"
+    },
+    {
+      "id": 127067,
+      "name": "Ravarino"
+    },
+    {
+      "id": 127068,
+      "name": "Reggio nell'Emilia"
+    },
+    {
+      "id": 127069,
+      "name": "Reggiolo"
+    },
+    {
+      "id": 127070,
+      "name": "Renazzo"
+    },
+    {
+      "id": 127071,
+      "name": "Riale"
+    },
+    {
+      "id": 127072,
+      "name": "Riccione"
+    },
+    {
+      "id": 127073,
+      "name": "Riccò"
+    },
+    {
+      "id": 127074,
+      "name": "Rimini"
+    },
+    {
+      "id": 127075,
+      "name": "Rio Saliceto"
+    },
+    {
+      "id": 127076,
+      "name": "Riolunato"
+    },
+    {
+      "id": 127077,
+      "name": "Rivazzurra"
+    },
+    {
+      "id": 127078,
+      "name": "Rivergaro"
+    },
+    {
+      "id": 127079,
+      "name": "Ro"
+    },
+    {
+      "id": 127080,
+      "name": "Rocca San Casciano"
+    },
+    {
+      "id": 127081,
+      "name": "Roccabianca"
+    },
+    {
+      "id": 127082,
+      "name": "Rolo"
+    },
+    {
+      "id": 127083,
+      "name": "Roncocesi"
+    },
+    {
+      "id": 127084,
+      "name": "Roncofreddo"
+    },
+    {
+      "id": 127085,
+      "name": "Roncofreddo-Santa Paola"
+    },
+    {
+      "id": 127086,
+      "name": "Roteglia"
+    },
+    {
+      "id": 127087,
+      "name": "Rottofreno"
+    },
+    {
+      "id": 127088,
+      "name": "Roveleto"
+    },
+    {
+      "id": 127089,
+      "name": "Rovereto"
+    },
+    {
+      "id": 127090,
+      "name": "Rubiera"
+    },
+    {
+      "id": 127091,
+      "name": "Sala"
+    },
+    {
+      "id": 127092,
+      "name": "Sala Baganza"
+    },
+    {
+      "id": 127093,
+      "name": "Sala Bolognese"
+    },
+    {
+      "id": 127094,
+      "name": "Salsomaggiore Terme"
+    },
+    {
+      "id": 127095,
+      "name": "Saludecio"
+    },
+    {
+      "id": 127096,
+      "name": "Salvaterra"
+    },
+    {
+      "id": 127097,
+      "name": "Sam Marino"
+    },
+    {
+      "id": 127098,
+      "name": "San Bartolomeo"
+    },
+    {
+      "id": 127099,
+      "name": "San Bartolomeo In Bosco"
+    },
+    {
+      "id": 127100,
+      "name": "San Benedetto Val di Sambro"
+    },
+    {
+      "id": 127101,
+      "name": "San Biagio"
+    },
+    {
+      "id": 127102,
+      "name": "San Carlo"
+    },
+    {
+      "id": 127103,
+      "name": "San Cesario sul Panaro"
+    },
+    {
+      "id": 127104,
+      "name": "San Clemente"
+    },
+    {
+      "id": 127105,
+      "name": "San Damaso"
+    },
+    {
+      "id": 127106,
+      "name": "San Felice sul Panaro"
+    },
+    {
+      "id": 127107,
+      "name": "San Gabriele-Mondonuovo"
+    },
+    {
+      "id": 127108,
+      "name": "San Giorgio di Piano"
+    },
+    {
+      "id": 127109,
+      "name": "San Giorgio Piacentino"
+    },
+    {
+      "id": 127110,
+      "name": "San Giovanni in Marignano"
+    },
+    {
+      "id": 127111,
+      "name": "San Giovanni in Persiceto"
+    },
+    {
+      "id": 127112,
+      "name": "San Giovanni-San Bernardino"
+    },
+    {
+      "id": 127113,
+      "name": "San Giuseppe"
+    },
+    {
+      "id": 127114,
+      "name": "San Lazzaro"
+    },
+    {
+      "id": 127115,
+      "name": "San Leo"
+    },
+    {
+      "id": 127116,
+      "name": "San Martino"
+    },
+    {
+      "id": 127117,
+      "name": "San Martino dei Mulini"
+    },
+    {
+      "id": 127118,
+      "name": "San Martino in Argine"
+    },
+    {
+      "id": 127119,
+      "name": "San Martino in Rio"
+    },
+    {
+      "id": 127120,
+      "name": "San Mauro a Mare"
+    },
+    {
+      "id": 127121,
+      "name": "San Mauro Pascoli"
+    },
+    {
+      "id": 127122,
+      "name": "San Michele dei Mucchietti"
+    },
+    {
+      "id": 127123,
+      "name": "San Michele Tiorre"
+    },
+    {
+      "id": 127124,
+      "name": "San Nicolò"
+    },
+    {
+      "id": 127125,
+      "name": "San Pancrazio"
+    },
+    {
+      "id": 127126,
+      "name": "San Piero in Bagno"
+    },
+    {
+      "id": 127127,
+      "name": "San Pietro Capofiume"
+    },
+    {
+      "id": 127128,
+      "name": "San Pietro in Casale"
+    },
+    {
+      "id": 127129,
+      "name": "San Pietro in Cerro"
+    },
+    {
+      "id": 127130,
+      "name": "San Pietro In Vincoli"
+    },
+    {
+      "id": 127131,
+      "name": "San Polo"
+    },
+    {
+      "id": 127132,
+      "name": "San Polo d'Enza"
+    },
+    {
+      "id": 127133,
+      "name": "San Possidonio"
+    },
+    {
+      "id": 127134,
+      "name": "San Prospero"
+    },
+    {
+      "id": 127135,
+      "name": "San Secondo Parmense"
+    },
+    {
+      "id": 127136,
+      "name": "San Venanzio"
+    },
+    {
+      "id": 127137,
+      "name": "San Vincenzo"
+    },
+    {
+      "id": 127138,
+      "name": "San Vito"
+    },
+    {
+      "id": 127139,
+      "name": "Sant'Agata Bolognese"
+    },
+    {
+      "id": 127140,
+      "name": "Sant'Agata Feltria"
+    },
+    {
+      "id": 127141,
+      "name": "Sant'Agostino"
+    },
+    {
+      "id": 127142,
+      "name": "Sant'Alberto"
+    },
+    {
+      "id": 127143,
+      "name": "Sant'Andrea"
+    },
+    {
+      "id": 127144,
+      "name": "Sant'Andrea in Casale"
+    },
+    {
+      "id": 127145,
+      "name": "Sant'Antonio"
+    },
+    {
+      "id": 127146,
+      "name": "Sant'Ilario d'Enza"
+    },
+    {
+      "id": 127147,
+      "name": "Santa Croce Scuole"
+    },
+    {
+      "id": 127148,
+      "name": "Santa Giustina"
+    },
+    {
+      "id": 127149,
+      "name": "Santa Maria Codifiume"
+    },
+    {
+      "id": 127150,
+      "name": "Santa Maria Nuova"
+    },
+    {
+      "id": 127151,
+      "name": "Santa Monica-Cella"
+    },
+    {
+      "id": 127152,
+      "name": "Santa Sofia"
+    },
+    {
+      "id": 127153,
+      "name": "Santa Vittoria"
+    },
+    {
+      "id": 127154,
+      "name": "Santarcangelo"
+    },
+    {
+      "id": 127155,
+      "name": "Santerno"
+    },
+    {
+      "id": 127156,
+      "name": "Santo Stefano-Carraie"
+    },
+    {
+      "id": 127157,
+      "name": "Sarmato"
+    },
+    {
+      "id": 127158,
+      "name": "Sarsina"
+    },
+    {
+      "id": 127159,
+      "name": "Sasso Marconi"
+    },
+    {
+      "id": 127160,
+      "name": "Sassuolo"
+    },
+    {
+      "id": 127161,
+      "name": "Savarna-Conventello"
+    },
+    {
+      "id": 127162,
+      "name": "Savignano sul Panaro"
+    },
+    {
+      "id": 127163,
+      "name": "Savignano sul Rubicone"
+    },
+    {
+      "id": 127164,
+      "name": "Savigno"
+    },
+    {
+      "id": 127165,
+      "name": "Savio"
+    },
+    {
+      "id": 127166,
+      "name": "Scandiano"
+    },
+    {
+      "id": 127167,
+      "name": "Scortichino"
+    },
+    {
+      "id": 127168,
+      "name": "Secchiano"
+    },
+    {
+      "id": 127169,
+      "name": "Serra di Maiolo"
+    },
+    {
+      "id": 127170,
+      "name": "Serramazzoni"
+    },
+    {
+      "id": 127171,
+      "name": "Serravalle"
+    },
+    {
+      "id": 127172,
+      "name": "Sesto Imolese"
+    },
+    {
+      "id": 127173,
+      "name": "Sestola"
+    },
+    {
+      "id": 127174,
+      "name": "Sissa"
+    },
+    {
+      "id": 127175,
+      "name": "Sogliano al Rubicone"
+    },
+    {
+      "id": 127176,
+      "name": "Solara"
+    },
+    {
+      "id": 127177,
+      "name": "Soliera"
+    },
+    {
+      "id": 127178,
+      "name": "Solignano"
+    },
+    {
+      "id": 127179,
+      "name": "Solignano Nuovo"
+    },
+    {
+      "id": 127180,
+      "name": "Soragna"
+    },
+    {
+      "id": 127181,
+      "name": "Sorbara"
+    },
+    {
+      "id": 127182,
+      "name": "Sorbolo"
+    },
+    {
+      "id": 127183,
+      "name": "Spilamberto"
+    },
+    {
+      "id": 127184,
+      "name": "Stazione Valmozzola"
+    },
+    {
+      "id": 127185,
+      "name": "Talamello"
+    },
+    {
+      "id": 127186,
+      "name": "Taneto"
+    },
+    {
+      "id": 127187,
+      "name": "Terenzo"
+    },
+    {
+      "id": 127188,
+      "name": "Tizzano Val Parma"
+    },
+    {
+      "id": 127189,
+      "name": "Toano"
+    },
+    {
+      "id": 127190,
+      "name": "Tornolo"
+    },
+    {
+      "id": 127191,
+      "name": "Torriana"
+    },
+    {
+      "id": 127192,
+      "name": "Torrile"
+    },
+    {
+      "id": 127193,
+      "name": "Toscanella"
+    },
+    {
+      "id": 127194,
+      "name": "Trarivi"
+    },
+    {
+      "id": 127195,
+      "name": "Traversetolo"
+    },
+    {
+      "id": 127196,
+      "name": "Travo"
+    },
+    {
+      "id": 127197,
+      "name": "Trebbo"
+    },
+    {
+      "id": 127198,
+      "name": "Trecasali"
+    },
+    {
+      "id": 127199,
+      "name": "Tredozio"
+    },
+    {
+      "id": 127200,
+      "name": "Tresigallo-Final di Rero"
+    },
+    {
+      "id": 127201,
+      "name": "Vado"
+    },
+    {
+      "id": 127202,
+      "name": "Varano De' Melegari"
+    },
+    {
+      "id": 127203,
+      "name": "Varsi"
+    },
+    {
+      "id": 127204,
+      "name": "Veggia-Villalunga"
+    },
+    {
+      "id": 127205,
+      "name": "Venezzano"
+    },
+    {
+      "id": 127206,
+      "name": "Ventoso"
+    },
+    {
+      "id": 127207,
+      "name": "Vergato"
+    },
+    {
+      "id": 127208,
+      "name": "Verghereto"
+    },
+    {
+      "id": 127209,
+      "name": "Vernasca"
+    },
+    {
+      "id": 127210,
+      "name": "Verucchio"
+    },
+    {
+      "id": 127211,
+      "name": "Vetto"
+    },
+    {
+      "id": 127212,
+      "name": "Vezzano sul Crostolo"
+    },
+    {
+      "id": 127213,
+      "name": "Viano"
+    },
+    {
+      "id": 127214,
+      "name": "Vicofertile"
+    },
+    {
+      "id": 127215,
+      "name": "Vigarano Mainarda"
+    },
+    {
+      "id": 127216,
+      "name": "Vigarano Pieve"
+    },
+    {
+      "id": 127217,
+      "name": "Vigatto"
+    },
+    {
+      "id": 127218,
+      "name": "Vignola"
+    },
+    {
+      "id": 127219,
+      "name": "Vigolzone"
+    },
+    {
+      "id": 127220,
+      "name": "Villa Fontana"
+    },
+    {
+      "id": 127221,
+      "name": "Villa Minozzo"
+    },
+    {
+      "id": 127222,
+      "name": "Villa Verucchio"
+    },
+    {
+      "id": 127223,
+      "name": "Villanova"
+    },
+    {
+      "id": 127224,
+      "name": "Villarotta"
+    },
+    {
+      "id": 127225,
+      "name": "Voghiera"
+    },
+    {
+      "id": 127226,
+      "name": "Voltana"
+    },
+    {
+      "id": 127227,
+      "name": "Zerba"
+    },
+    {
+      "id": 127228,
+      "name": "Ziano Piacentino"
+    },
+    {
+      "id": 127229,
+      "name": "Zibello"
+    },
+    {
+      "id": 127230,
+      "name": "Zocca"
+    },
+    {
+      "id": 127231,
+      "name": "Zola Predosa"
+    }
+  ]
+}

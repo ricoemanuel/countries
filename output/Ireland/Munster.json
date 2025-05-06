@@ -1,0 +1,339 @@
+{
+  "id": 4345,
+  "name": "Munster",
+  "state_code": "M",
+  "cities": [
+    {
+      "id": 124336,
+      "name": "Abbeyfeale"
+    },
+    {
+      "id": 124337,
+      "name": "Adare"
+    },
+    {
+      "id": 124338,
+      "name": "Aghada"
+    },
+    {
+      "id": 124339,
+      "name": "An Clár"
+    },
+    {
+      "id": 124340,
+      "name": "Annacotty"
+    },
+    {
+      "id": 124341,
+      "name": "Ardnacrusha"
+    },
+    {
+      "id": 124342,
+      "name": "Askeaton"
+    },
+    {
+      "id": 124343,
+      "name": "Ballina"
+    },
+    {
+      "id": 124344,
+      "name": "Ballybunnion"
+    },
+    {
+      "id": 124345,
+      "name": "Bandon"
+    },
+    {
+      "id": 124346,
+      "name": "Bantry"
+    },
+    {
+      "id": 124347,
+      "name": "Blarney"
+    },
+    {
+      "id": 124348,
+      "name": "Caherconlish"
+    },
+    {
+      "id": 124349,
+      "name": "Cahersiveen"
+    },
+    {
+      "id": 124350,
+      "name": "Cahir"
+    },
+    {
+      "id": 124351,
+      "name": "Carrick-on-Suir"
+    },
+    {
+      "id": 124352,
+      "name": "Carrigaline"
+    },
+    {
+      "id": 124353,
+      "name": "Carrigtwohill"
+    },
+    {
+      "id": 124354,
+      "name": "Cashel"
+    },
+    {
+      "id": 124355,
+      "name": "Castleconnell"
+    },
+    {
+      "id": 124356,
+      "name": "Castleisland"
+    },
+    {
+      "id": 124357,
+      "name": "Castlemartyr"
+    },
+    {
+      "id": 124358,
+      "name": "Ciarraí"
+    },
+    {
+      "id": 124359,
+      "name": "Cill Airne"
+    },
+    {
+      "id": 124360,
+      "name": "Clonakilty"
+    },
+    {
+      "id": 124361,
+      "name": "Cloyne"
+    },
+    {
+      "id": 124362,
+      "name": "Cluain Meala"
+    },
+    {
+      "id": 124363,
+      "name": "Cobh"
+    },
+    {
+      "id": 124364,
+      "name": "Cork"
+    },
+    {
+      "id": 124365,
+      "name": "Cork City"
+    },
+    {
+      "id": 124366,
+      "name": "County Cork"
+    },
+    {
+      "id": 124367,
+      "name": "County Tipperary"
+    },
+    {
+      "id": 124368,
+      "name": "Croom"
+    },
+    {
+      "id": 124369,
+      "name": "Crosshaven"
+    },
+    {
+      "id": 124370,
+      "name": "Derry"
+    },
+    {
+      "id": 124371,
+      "name": "Dingle"
+    },
+    {
+      "id": 124372,
+      "name": "Dungarvan"
+    },
+    {
+      "id": 124373,
+      "name": "Dunmanway"
+    },
+    {
+      "id": 124374,
+      "name": "Dunmore East"
+    },
+    {
+      "id": 124375,
+      "name": "Ennis"
+    },
+    {
+      "id": 124376,
+      "name": "Fermoy"
+    },
+    {
+      "id": 124377,
+      "name": "Fethard"
+    },
+    {
+      "id": 124378,
+      "name": "Kanturk"
+    },
+    {
+      "id": 124379,
+      "name": "Kenmare"
+    },
+    {
+      "id": 124380,
+      "name": "Killaloe"
+    },
+    {
+      "id": 124381,
+      "name": "Killorglin"
+    },
+    {
+      "id": 124382,
+      "name": "Killumney"
+    },
+    {
+      "id": 124383,
+      "name": "Kilmallock"
+    },
+    {
+      "id": 124384,
+      "name": "Kilrush"
+    },
+    {
+      "id": 124385,
+      "name": "Kinsale"
+    },
+    {
+      "id": 124386,
+      "name": "Limerick"
+    },
+    {
+      "id": 124387,
+      "name": "Listowel"
+    },
+    {
+      "id": 124388,
+      "name": "Macroom"
+    },
+    {
+      "id": 124389,
+      "name": "Mallow"
+    },
+    {
+      "id": 124390,
+      "name": "Midleton"
+    },
+    {
+      "id": 124391,
+      "name": "Millstreet"
+    },
+    {
+      "id": 124392,
+      "name": "Mitchelstown"
+    },
+    {
+      "id": 124393,
+      "name": "Moroe"
+    },
+    {
+      "id": 124394,
+      "name": "Moyross"
+    },
+    {
+      "id": 124395,
+      "name": "Nenagh"
+    },
+    {
+      "id": 124396,
+      "name": "Nenagh Bridge"
+    },
+    {
+      "id": 124397,
+      "name": "Newcastle West"
+    },
+    {
+      "id": 124398,
+      "name": "Newmarket on Fergus"
+    },
+    {
+      "id": 124399,
+      "name": "Newport"
+    },
+    {
+      "id": 124400,
+      "name": "Passage West"
+    },
+    {
+      "id": 124401,
+      "name": "Portlaw"
+    },
+    {
+      "id": 124402,
+      "name": "Ráth Luirc"
+    },
+    {
+      "id": 124403,
+      "name": "Rathcormac"
+    },
+    {
+      "id": 124404,
+      "name": "Rathkeale"
+    },
+    {
+      "id": 124405,
+      "name": "Roscrea"
+    },
+    {
+      "id": 124406,
+      "name": "Shannon"
+    },
+    {
+      "id": 124407,
+      "name": "Sixmilebridge"
+    },
+    {
+      "id": 124408,
+      "name": "Skibbereen"
+    },
+    {
+      "id": 124409,
+      "name": "Templemore"
+    },
+    {
+      "id": 124410,
+      "name": "Thurles"
+    },
+    {
+      "id": 124411,
+      "name": "Tipperary"
+    },
+    {
+      "id": 124412,
+      "name": "Tower"
+    },
+    {
+      "id": 124413,
+      "name": "Trá Mhór"
+    },
+    {
+      "id": 124414,
+      "name": "Tralee"
+    },
+    {
+      "id": 124415,
+      "name": "Waterford"
+    },
+    {
+      "id": 124416,
+      "name": "Watergrasshill"
+    },
+    {
+      "id": 124417,
+      "name": "Whitegate"
+    },
+    {
+      "id": 124418,
+      "name": "Youghal"
+    }
+  ]
+}

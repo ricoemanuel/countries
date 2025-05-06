@@ -1,0 +1,531 @@
+{
+  "id": 4207,
+  "name": "Bihar",
+  "state_code": "BR",
+  "cities": [
+    {
+      "id": 117374,
+      "name": "Amarpur"
+    },
+    {
+      "id": 117375,
+      "name": "Araria"
+    },
+    {
+      "id": 117376,
+      "name": "Arrah"
+    },
+    {
+      "id": 117377,
+      "name": "Arwal"
+    },
+    {
+      "id": 117378,
+      "name": "Asarganj"
+    },
+    {
+      "id": 117379,
+      "name": "Aurangabad"
+    },
+    {
+      "id": 117380,
+      "name": "Bagaha"
+    },
+    {
+      "id": 117381,
+      "name": "Bahadurganj"
+    },
+    {
+      "id": 117382,
+      "name": "Bairagnia"
+    },
+    {
+      "id": 117383,
+      "name": "Baisi"
+    },
+    {
+      "id": 117384,
+      "name": "Bakhtiyarpur"
+    },
+    {
+      "id": 117385,
+      "name": "Bangaon"
+    },
+    {
+      "id": 117386,
+      "name": "Banka"
+    },
+    {
+      "id": 117387,
+      "name": "Banmankhi"
+    },
+    {
+      "id": 117388,
+      "name": "Bar Bigha"
+    },
+    {
+      "id": 117389,
+      "name": "Barauli"
+    },
+    {
+      "id": 117390,
+      "name": "Barh"
+    },
+    {
+      "id": 117391,
+      "name": "Barhiya"
+    },
+    {
+      "id": 117392,
+      "name": "Bariarpur"
+    },
+    {
+      "id": 117393,
+      "name": "Baruni"
+    },
+    {
+      "id": 117394,
+      "name": "Begusarai"
+    },
+    {
+      "id": 117395,
+      "name": "Belsand"
+    },
+    {
+      "id": 117396,
+      "name": "Bettiah"
+    },
+    {
+      "id": 117397,
+      "name": "Bhabhua"
+    },
+    {
+      "id": 117398,
+      "name": "Bhagalpur"
+    },
+    {
+      "id": 117399,
+      "name": "Bhagirathpur"
+    },
+    {
+      "id": 117400,
+      "name": "Bhawanipur"
+    },
+    {
+      "id": 117401,
+      "name": "Bhojpur"
+    },
+    {
+      "id": 117402,
+      "name": "Bihar Sharif"
+    },
+    {
+      "id": 117403,
+      "name": "Bihariganj"
+    },
+    {
+      "id": 117404,
+      "name": "Bikramganj"
+    },
+    {
+      "id": 117405,
+      "name": "Birpur"
+    },
+    {
+      "id": 117406,
+      "name": "Bodh Gaya"
+    },
+    {
+      "id": 117407,
+      "name": "Buxar"
+    },
+    {
+      "id": 117408,
+      "name": "Chakia"
+    },
+    {
+      "id": 117409,
+      "name": "Chapra"
+    },
+    {
+      "id": 117410,
+      "name": "Chhatapur"
+    },
+    {
+      "id": 117411,
+      "name": "Colgong"
+    },
+    {
+      "id": 117412,
+      "name": "Dalsingh Sarai"
+    },
+    {
+      "id": 117413,
+      "name": "Darbhanga"
+    },
+    {
+      "id": 117414,
+      "name": "Daudnagar"
+    },
+    {
+      "id": 117415,
+      "name": "Dehri"
+    },
+    {
+      "id": 117416,
+      "name": "Dhaka"
+    },
+    {
+      "id": 117417,
+      "name": "Dighwara"
+    },
+    {
+      "id": 117418,
+      "name": "Dinapore"
+    },
+    {
+      "id": 117419,
+      "name": "Dumra"
+    },
+    {
+      "id": 117420,
+      "name": "Dumraon"
+    },
+    {
+      "id": 117421,
+      "name": "Fatwa"
+    },
+    {
+      "id": 117422,
+      "name": "Forbesganj"
+    },
+    {
+      "id": 117423,
+      "name": "Gaya"
+    },
+    {
+      "id": 117424,
+      "name": "Ghoga"
+    },
+    {
+      "id": 117425,
+      "name": "Gopalganj"
+    },
+    {
+      "id": 117426,
+      "name": "Hajipur"
+    },
+    {
+      "id": 117427,
+      "name": "Hilsa"
+    },
+    {
+      "id": 117428,
+      "name": "Hisua"
+    },
+    {
+      "id": 117429,
+      "name": "Islampur"
+    },
+    {
+      "id": 117430,
+      "name": "Jagdispur"
+    },
+    {
+      "id": 117431,
+      "name": "Jahanabad"
+    },
+    {
+      "id": 117432,
+      "name": "Jamalpur"
+    },
+    {
+      "id": 117433,
+      "name": "Jamui"
+    },
+    {
+      "id": 117434,
+      "name": "Jaynagar"
+    },
+    {
+      "id": 117435,
+      "name": "Jehanabad"
+    },
+    {
+      "id": 117436,
+      "name": "Jha-Jha"
+    },
+    {
+      "id": 117437,
+      "name": "Jhanjharpur"
+    },
+    {
+      "id": 117438,
+      "name": "Jogbani"
+    },
+    {
+      "id": 117439,
+      "name": "Kaimur District"
+    },
+    {
+      "id": 117440,
+      "name": "Kasba"
+    },
+    {
+      "id": 117441,
+      "name": "Katihar"
+    },
+    {
+      "id": 117442,
+      "name": "Khagaria"
+    },
+    {
+      "id": 117443,
+      "name": "Khagaul"
+    },
+    {
+      "id": 117444,
+      "name": "Kharagpur"
+    },
+    {
+      "id": 117445,
+      "name": "Khusropur"
+    },
+    {
+      "id": 117446,
+      "name": "Kishanganj"
+    },
+    {
+      "id": 117447,
+      "name": "Koath"
+    },
+    {
+      "id": 117448,
+      "name": "Koelwar"
+    },
+    {
+      "id": 117449,
+      "name": "Lakhisarai"
+    },
+    {
+      "id": 117450,
+      "name": "Lalganj"
+    },
+    {
+      "id": 117451,
+      "name": "Luckeesarai"
+    },
+    {
+      "id": 117452,
+      "name": "Madhepura"
+    },
+    {
+      "id": 117453,
+      "name": "Madhubani"
+    },
+    {
+      "id": 117454,
+      "name": "Maharajgani"
+    },
+    {
+      "id": 117455,
+      "name": "Mairwa"
+    },
+    {
+      "id": 117456,
+      "name": "Maner"
+    },
+    {
+      "id": 117457,
+      "name": "Manihari"
+    },
+    {
+      "id": 117458,
+      "name": "Marhaura"
+    },
+    {
+      "id": 117459,
+      "name": "Masaurhi Buzurg"
+    },
+    {
+      "id": 117460,
+      "name": "Mohiuddi nagar"
+    },
+    {
+      "id": 117461,
+      "name": "Mokameh"
+    },
+    {
+      "id": 117462,
+      "name": "Monghyr"
+    },
+    {
+      "id": 117463,
+      "name": "Mothihari"
+    },
+    {
+      "id": 117464,
+      "name": "Munger"
+    },
+    {
+      "id": 117465,
+      "name": "Murliganj"
+    },
+    {
+      "id": 117466,
+      "name": "Muzaffarpur"
+    },
+    {
+      "id": 117467,
+      "name": "Nabinagar"
+    },
+    {
+      "id": 117468,
+      "name": "Nalanda"
+    },
+    {
+      "id": 117469,
+      "name": "Nasriganj"
+    },
+    {
+      "id": 117470,
+      "name": "Naugachhia"
+    },
+    {
+      "id": 117471,
+      "name": "Nawada"
+    },
+    {
+      "id": 117472,
+      "name": "Nirmali"
+    },
+    {
+      "id": 117473,
+      "name": "Pashchim Champaran"
+    },
+    {
+      "id": 117474,
+      "name": "Patna"
+    },
+    {
+      "id": 117475,
+      "name": "Piro"
+    },
+    {
+      "id": 117476,
+      "name": "Pupri"
+    },
+    {
+      "id": 117477,
+      "name": "Purba Champaran"
+    },
+    {
+      "id": 117478,
+      "name": "Purnia"
+    },
+    {
+      "id": 117479,
+      "name": "Rafiganj"
+    },
+    {
+      "id": 117480,
+      "name": "Raghunathpur"
+    },
+    {
+      "id": 117481,
+      "name": "Rajgir"
+    },
+    {
+      "id": 117482,
+      "name": "Ramnagar"
+    },
+    {
+      "id": 117483,
+      "name": "Raxaul"
+    },
+    {
+      "id": 117484,
+      "name": "Revelganj"
+    },
+    {
+      "id": 117485,
+      "name": "Rohtas"
+    },
+    {
+      "id": 117486,
+      "name": "Rusera"
+    },
+    {
+      "id": 117487,
+      "name": "Sagauli"
+    },
+    {
+      "id": 117488,
+      "name": "Saharsa"
+    },
+    {
+      "id": 117489,
+      "name": "Samastipur"
+    },
+    {
+      "id": 117490,
+      "name": "Saran"
+    },
+    {
+      "id": 117491,
+      "name": "Shahbazpur"
+    },
+    {
+      "id": 117492,
+      "name": "Shahpur"
+    },
+    {
+      "id": 117493,
+      "name": "Sheikhpura"
+    },
+    {
+      "id": 117494,
+      "name": "Sheohar"
+    },
+    {
+      "id": 117495,
+      "name": "Sherghati"
+    },
+    {
+      "id": 117496,
+      "name": "Silao"
+    },
+    {
+      "id": 117497,
+      "name": "Sitamarhi"
+    },
+    {
+      "id": 117498,
+      "name": "Siwan"
+    },
+    {
+      "id": 117499,
+      "name": "Supaul"
+    },
+    {
+      "id": 117500,
+      "name": "Teghra"
+    },
+    {
+      "id": 117501,
+      "name": "Tekari"
+    },
+    {
+      "id": 117502,
+      "name": "Thakurganj"
+    },
+    {
+      "id": 117503,
+      "name": "Vaishali"
+    },
+    {
+      "id": 117504,
+      "name": "Waris Aliganj"
+    }
+  ]
+}

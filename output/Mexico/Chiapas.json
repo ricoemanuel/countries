@@ -1,0 +1,2143 @@
+{
+  "id": 5127,
+  "name": "Chiapas",
+  "state_code": "CHP",
+  "cities": [
+    {
+      "id": 139198,
+      "name": "1ra. Sección de Izapa"
+    },
+    {
+      "id": 139199,
+      "name": "2da. Sección de Medio Monte"
+    },
+    {
+      "id": 139200,
+      "name": "Abasolo"
+    },
+    {
+      "id": 139201,
+      "name": "Acacoyagua"
+    },
+    {
+      "id": 139202,
+      "name": "Acala"
+    },
+    {
+      "id": 139203,
+      "name": "Acapetahua"
+    },
+    {
+      "id": 139204,
+      "name": "Adolfo López Mateos"
+    },
+    {
+      "id": 139205,
+      "name": "Agrónomos Mexicanos"
+    },
+    {
+      "id": 139206,
+      "name": "Agua Azul"
+    },
+    {
+      "id": 139207,
+      "name": "Agua Blanca Serranía"
+    },
+    {
+      "id": 139208,
+      "name": "Agua Zarca"
+    },
+    {
+      "id": 139209,
+      "name": "Aguacatenango"
+    },
+    {
+      "id": 139210,
+      "name": "Agustín de Iturbide"
+    },
+    {
+      "id": 139211,
+      "name": "Ahuacatlán"
+    },
+    {
+      "id": 139212,
+      "name": "Ajilhó"
+    },
+    {
+      "id": 139213,
+      "name": "Aldama"
+    },
+    {
+      "id": 139214,
+      "name": "Alfonso Moguel"
+    },
+    {
+      "id": 139215,
+      "name": "Altamirano"
+    },
+    {
+      "id": 139216,
+      "name": "Álvaro Obregón"
+    },
+    {
+      "id": 139217,
+      "name": "Amado Nervo"
+    },
+    {
+      "id": 139218,
+      "name": "Amatán"
+    },
+    {
+      "id": 139219,
+      "name": "Amatenango de la Frontera"
+    },
+    {
+      "id": 139220,
+      "name": "Amatenango del Valle"
+    },
+    {
+      "id": 139221,
+      "name": "América Libre"
+    },
+    {
+      "id": 139222,
+      "name": "Ángel Albino Corzo"
+    },
+    {
+      "id": 139223,
+      "name": "Ángel Albino Corzo (Guadalupe)"
+    },
+    {
+      "id": 139224,
+      "name": "Apas"
+    },
+    {
+      "id": 139225,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 139226,
+      "name": "Arimatea"
+    },
+    {
+      "id": 139227,
+      "name": "Arriaga"
+    },
+    {
+      "id": 139228,
+      "name": "Arroyo Grande"
+    },
+    {
+      "id": 139229,
+      "name": "Arroyo Granizo"
+    },
+    {
+      "id": 139230,
+      "name": "Arroyo Palenque"
+    },
+    {
+      "id": 139231,
+      "name": "Arvenza Uno"
+    },
+    {
+      "id": 139232,
+      "name": "Aurora Ermita"
+    },
+    {
+      "id": 139233,
+      "name": "Aurora Esquipulas"
+    },
+    {
+      "id": 139234,
+      "name": "Azteca"
+    },
+    {
+      "id": 139235,
+      "name": "Aztlán"
+    },
+    {
+      "id": 139236,
+      "name": "Bachajón"
+    },
+    {
+      "id": 139237,
+      "name": "Bajucu"
+    },
+    {
+      "id": 139238,
+      "name": "Bautista Chico"
+    },
+    {
+      "id": 139239,
+      "name": "Bejucal de Ocampo"
+    },
+    {
+      "id": 139240,
+      "name": "Belisario Domínguez"
+    },
+    {
+      "id": 139241,
+      "name": "Bella Vista"
+    },
+    {
+      "id": 139242,
+      "name": "Benemérito de las Américas"
+    },
+    {
+      "id": 139243,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 139244,
+      "name": "Berriozábal"
+    },
+    {
+      "id": 139245,
+      "name": "Betania"
+    },
+    {
+      "id": 139246,
+      "name": "Bochil"
+    },
+    {
+      "id": 139247,
+      "name": "Bochojbo Alto"
+    },
+    {
+      "id": 139248,
+      "name": "Brisas Barra de Suchiate"
+    },
+    {
+      "id": 139249,
+      "name": "Buenavista"
+    },
+    {
+      "id": 139250,
+      "name": "Buenavista (Matasanos)"
+    },
+    {
+      "id": 139251,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 139252,
+      "name": "Cabeza de Toro"
+    },
+    {
+      "id": 139253,
+      "name": "Cacahoatán"
+    },
+    {
+      "id": 139254,
+      "name": "Cacaté"
+    },
+    {
+      "id": 139255,
+      "name": "Cálido"
+    },
+    {
+      "id": 139256,
+      "name": "Calzada Larga"
+    },
+    {
+      "id": 139257,
+      "name": "Cancuc"
+    },
+    {
+      "id": 139258,
+      "name": "Cantioc"
+    },
+    {
+      "id": 139259,
+      "name": "Cantón las Delicias"
+    },
+    {
+      "id": 139260,
+      "name": "Cantón Rancho Nuevo"
+    },
+    {
+      "id": 139261,
+      "name": "Cantón Villaflor"
+    },
+    {
+      "id": 139262,
+      "name": "Carmen Yalchuch"
+    },
+    {
+      "id": 139263,
+      "name": "Carmen Zacatal"
+    },
+    {
+      "id": 139264,
+      "name": "Carrillo Puerto"
+    },
+    {
+      "id": 139265,
+      "name": "Cash"
+    },
+    {
+      "id": 139266,
+      "name": "Catazajá"
+    },
+    {
+      "id": 139267,
+      "name": "Catishtic"
+    },
+    {
+      "id": 139268,
+      "name": "Cebadilla 1ra. Sección"
+    },
+    {
+      "id": 139269,
+      "name": "Cenobio Aguilar (La Trinidad)"
+    },
+    {
+      "id": 139270,
+      "name": "Cereso 14 (El Amate)"
+    },
+    {
+      "id": 139271,
+      "name": "Chacaljocóm"
+    },
+    {
+      "id": 139272,
+      "name": "Chacoma"
+    },
+    {
+      "id": 139273,
+      "name": "Chalam"
+    },
+    {
+      "id": 139274,
+      "name": "Chalchihuitán"
+    },
+    {
+      "id": 139275,
+      "name": "Chamula"
+    },
+    {
+      "id": 139276,
+      "name": "Chamulapita"
+    },
+    {
+      "id": 139277,
+      "name": "Chanal"
+    },
+    {
+      "id": 139278,
+      "name": "Chapallal Grande"
+    },
+    {
+      "id": 139279,
+      "name": "Chapultenango"
+    },
+    {
+      "id": 139280,
+      "name": "Chiapa de Corzo"
+    },
+    {
+      "id": 139281,
+      "name": "Chiapilla"
+    },
+    {
+      "id": 139282,
+      "name": "Chicoasén"
+    },
+    {
+      "id": 139283,
+      "name": "Chicomuselo"
+    },
+    {
+      "id": 139284,
+      "name": "Chicumtantic"
+    },
+    {
+      "id": 139285,
+      "name": "Chihuahua"
+    },
+    {
+      "id": 139286,
+      "name": "Chiloljá"
+    },
+    {
+      "id": 139287,
+      "name": "Chilón"
+    },
+    {
+      "id": 139288,
+      "name": "Chimhucum"
+    },
+    {
+      "id": 139289,
+      "name": "Chiquinival"
+    },
+    {
+      "id": 139290,
+      "name": "Chiquinshulum"
+    },
+    {
+      "id": 139291,
+      "name": "Chixtontic"
+    },
+    {
+      "id": 139292,
+      "name": "Chulum Cárdenas"
+    },
+    {
+      "id": 139293,
+      "name": "Chulum Juárez"
+    },
+    {
+      "id": 139294,
+      "name": "Cintalapa"
+    },
+    {
+      "id": 139295,
+      "name": "Cintalapa de Figueroa"
+    },
+    {
+      "id": 139296,
+      "name": "Ciudad Cuauhtémoc"
+    },
+    {
+      "id": 139297,
+      "name": "Ciudad Hidalgo"
+    },
+    {
+      "id": 139298,
+      "name": "Coapilla"
+    },
+    {
+      "id": 139299,
+      "name": "Colonia Obrera"
+    },
+    {
+      "id": 139300,
+      "name": "Comalapa"
+    },
+    {
+      "id": 139301,
+      "name": "Comitán"
+    },
+    {
+      "id": 139302,
+      "name": "Concepción"
+    },
+    {
+      "id": 139303,
+      "name": "Congregación Reforma"
+    },
+    {
+      "id": 139304,
+      "name": "Constitución"
+    },
+    {
+      "id": 139305,
+      "name": "Copainalá"
+    },
+    {
+      "id": 139306,
+      "name": "Copoya"
+    },
+    {
+      "id": 139307,
+      "name": "Cristóbal Colón"
+    },
+    {
+      "id": 139308,
+      "name": "Cristóbal Obregón"
+    },
+    {
+      "id": 139309,
+      "name": "Cruztón"
+    },
+    {
+      "id": 139310,
+      "name": "Cuauhtémoc"
+    },
+    {
+      "id": 139311,
+      "name": "Cuchulumtic"
+    },
+    {
+      "id": 139312,
+      "name": "Damasco"
+    },
+    {
+      "id": 139313,
+      "name": "Diamante de Echeverría"
+    },
+    {
+      "id": 139314,
+      "name": "Dieciséis de Septiembre"
+    },
+    {
+      "id": 139315,
+      "name": "Doctor Belisario Domínguez (La Barra)"
+    },
+    {
+      "id": 139316,
+      "name": "Doctor Domingo Chanona"
+    },
+    {
+      "id": 139317,
+      "name": "Doctor Rodulfo Figueroa (Tierra Blanca)"
+    },
+    {
+      "id": 139318,
+      "name": "Doctor Samuel León Brindis"
+    },
+    {
+      "id": 139319,
+      "name": "Dolores Jaltenango"
+    },
+    {
+      "id": 139320,
+      "name": "Efraín A. Gutiérrez"
+    },
+    {
+      "id": 139321,
+      "name": "Egipto"
+    },
+    {
+      "id": 139322,
+      "name": "El Águila"
+    },
+    {
+      "id": 139323,
+      "name": "El Ámbar"
+    },
+    {
+      "id": 139324,
+      "name": "El Ámbar (El Ámbar de Echeverría)"
+    },
+    {
+      "id": 139325,
+      "name": "El Arenal"
+    },
+    {
+      "id": 139326,
+      "name": "El Bosque"
+    },
+    {
+      "id": 139327,
+      "name": "El Calvario"
+    },
+    {
+      "id": 139328,
+      "name": "El Carmen"
+    },
+    {
+      "id": 139329,
+      "name": "El Carmen (El Limón)"
+    },
+    {
+      "id": 139330,
+      "name": "El Censo"
+    },
+    {
+      "id": 139331,
+      "name": "El Consuelo Ulapa"
+    },
+    {
+      "id": 139332,
+      "name": "El Copal"
+    },
+    {
+      "id": 139333,
+      "name": "El Copalar"
+    },
+    {
+      "id": 139334,
+      "name": "El Edén"
+    },
+    {
+      "id": 139335,
+      "name": "El Encanto"
+    },
+    {
+      "id": 139336,
+      "name": "El Espinal"
+    },
+    {
+      "id": 139337,
+      "name": "El Jardín"
+    },
+    {
+      "id": 139338,
+      "name": "El Jobo"
+    },
+    {
+      "id": 139339,
+      "name": "El Limar"
+    },
+    {
+      "id": 139340,
+      "name": "El Limonar"
+    },
+    {
+      "id": 139341,
+      "name": "El Mango"
+    },
+    {
+      "id": 139342,
+      "name": "El Nopal"
+    },
+    {
+      "id": 139343,
+      "name": "El Pacayal"
+    },
+    {
+      "id": 139344,
+      "name": "El Palmar (San Gabriel)"
+    },
+    {
+      "id": 139345,
+      "name": "El Palmar Grande"
+    },
+    {
+      "id": 139346,
+      "name": "El Palmarcito"
+    },
+    {
+      "id": 139347,
+      "name": "El Paraíso"
+    },
+    {
+      "id": 139348,
+      "name": "El Parral"
+    },
+    {
+      "id": 139349,
+      "name": "El Portal"
+    },
+    {
+      "id": 139350,
+      "name": "El Porvenir"
+    },
+    {
+      "id": 139351,
+      "name": "El Porvenir Agrarista"
+    },
+    {
+      "id": 139352,
+      "name": "El Porvenir de Velasco Suárez"
+    },
+    {
+      "id": 139353,
+      "name": "El Pozo"
+    },
+    {
+      "id": 139354,
+      "name": "El Progreso"
+    },
+    {
+      "id": 139355,
+      "name": "El Puerto"
+    },
+    {
+      "id": 139356,
+      "name": "El Ramal (Porvenir)"
+    },
+    {
+      "id": 139357,
+      "name": "El Sacrificio"
+    },
+    {
+      "id": 139358,
+      "name": "El Sibal"
+    },
+    {
+      "id": 139359,
+      "name": "El Triunfo"
+    },
+    {
+      "id": 139360,
+      "name": "El Triunfo 1ra. Sección (Cardona)"
+    },
+    {
+      "id": 139361,
+      "name": "El Triunfo de las Tres Maravillas"
+    },
+    {
+      "id": 139362,
+      "name": "El Tumbo"
+    },
+    {
+      "id": 139363,
+      "name": "El Tzay"
+    },
+    {
+      "id": 139364,
+      "name": "El Vergel"
+    },
+    {
+      "id": 139365,
+      "name": "El Zapotal"
+    },
+    {
+      "id": 139366,
+      "name": "El Zapotillo"
+    },
+    {
+      "id": 139367,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 139368,
+      "name": "Escuintla"
+    },
+    {
+      "id": 139369,
+      "name": "Estación Huehuetán"
+    },
+    {
+      "id": 139370,
+      "name": "Estación San Manuel"
+    },
+    {
+      "id": 139371,
+      "name": "Estación Tuzantán"
+    },
+    {
+      "id": 139372,
+      "name": "Estrella de Belén"
+    },
+    {
+      "id": 139373,
+      "name": "Faja de Oro"
+    },
+    {
+      "id": 139374,
+      "name": "Flor de Cacao"
+    },
+    {
+      "id": 139375,
+      "name": "Francisco I. Madero"
+    },
+    {
+      "id": 139376,
+      "name": "Francisco León"
+    },
+    {
+      "id": 139377,
+      "name": "Francisco Sarabia"
+    },
+    {
+      "id": 139378,
+      "name": "Francisco Villa"
+    },
+    {
+      "id": 139379,
+      "name": "Frontera Corozal"
+    },
+    {
+      "id": 139380,
+      "name": "Frontera Hidalgo"
+    },
+    {
+      "id": 139381,
+      "name": "Gabriel Esquinca"
+    },
+    {
+      "id": 139382,
+      "name": "Galecio Narcia"
+    },
+    {
+      "id": 139383,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 139384,
+      "name": "Guadalupe Grijalva"
+    },
+    {
+      "id": 139385,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 139386,
+      "name": "Guaquitepec"
+    },
+    {
+      "id": 139387,
+      "name": "Hermenegildo Galeana"
+    },
+    {
+      "id": 139388,
+      "name": "Héroes de Chapultepec"
+    },
+    {
+      "id": 139389,
+      "name": "Hidalgo"
+    },
+    {
+      "id": 139390,
+      "name": "Hidalgo Joshil"
+    },
+    {
+      "id": 139391,
+      "name": "Huehuetán"
+    },
+    {
+      "id": 139392,
+      "name": "Huitiupán"
+    },
+    {
+      "id": 139393,
+      "name": "Huixtla"
+    },
+    {
+      "id": 139394,
+      "name": "Huizachal"
+    },
+    {
+      "id": 139395,
+      "name": "Ignacio Allende"
+    },
+    {
+      "id": 139396,
+      "name": "Ignacio López Rayón"
+    },
+    {
+      "id": 139397,
+      "name": "Ignacio Ramírez"
+    },
+    {
+      "id": 139398,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 139399,
+      "name": "Ignacio Zaragoza (El Morro)"
+    },
+    {
+      "id": 139400,
+      "name": "Independencia"
+    },
+    {
+      "id": 139401,
+      "name": "Ixhuatán"
+    },
+    {
+      "id": 139402,
+      "name": "Ixtacomitán"
+    },
+    {
+      "id": 139403,
+      "name": "Ixtapa"
+    },
+    {
+      "id": 139404,
+      "name": "Ixtapangajoya"
+    },
+    {
+      "id": 139405,
+      "name": "Jalisco"
+    },
+    {
+      "id": 139406,
+      "name": "Jaltenango de la Paz"
+    },
+    {
+      "id": 139407,
+      "name": "Jardínes del Grijalva"
+    },
+    {
+      "id": 139408,
+      "name": "Jericó"
+    },
+    {
+      "id": 139409,
+      "name": "Jerusalén"
+    },
+    {
+      "id": 139410,
+      "name": "Jesús María Garza"
+    },
+    {
+      "id": 139411,
+      "name": "Jiquilpan (Estación Bonanza)"
+    },
+    {
+      "id": 139412,
+      "name": "Jiquipilas"
+    },
+    {
+      "id": 139413,
+      "name": "Jitotol"
+    },
+    {
+      "id": 139414,
+      "name": "Joaquín Miguel Gutiérrez"
+    },
+    {
+      "id": 139415,
+      "name": "Joaquín Miguel Gutiérrez (Margaritas)"
+    },
+    {
+      "id": 139416,
+      "name": "Joljá"
+    },
+    {
+      "id": 139417,
+      "name": "Jolsibaquil"
+    },
+    {
+      "id": 139418,
+      "name": "Joltealal"
+    },
+    {
+      "id": 139419,
+      "name": "Jomanichim"
+    },
+    {
+      "id": 139420,
+      "name": "José María Morelos"
+    },
+    {
+      "id": 139421,
+      "name": "José María Morelos y Pavón"
+    },
+    {
+      "id": 139422,
+      "name": "José María Pino Suárez"
+    },
+    {
+      "id": 139423,
+      "name": "Joshil"
+    },
+    {
+      "id": 139424,
+      "name": "Juan Aldama"
+    },
+    {
+      "id": 139425,
+      "name": "Juan del Grijalva"
+    },
+    {
+      "id": 139426,
+      "name": "Juárez"
+    },
+    {
+      "id": 139427,
+      "name": "Julián Grajales"
+    },
+    {
+      "id": 139428,
+      "name": "Justo Sierra"
+    },
+    {
+      "id": 139429,
+      "name": "Kotolte"
+    },
+    {
+      "id": 139430,
+      "name": "La Candelaria"
+    },
+    {
+      "id": 139431,
+      "name": "La Ceiba"
+    },
+    {
+      "id": 139432,
+      "name": "La Competencia"
+    },
+    {
+      "id": 139433,
+      "name": "La Concordia"
+    },
+    {
+      "id": 139434,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 139435,
+      "name": "La Esperanza (El Zapotal)"
+    },
+    {
+      "id": 139436,
+      "name": "La Floresta"
+    },
+    {
+      "id": 139437,
+      "name": "La Gloria"
+    },
+    {
+      "id": 139438,
+      "name": "La Grandeza"
+    },
+    {
+      "id": 139439,
+      "name": "La Independencia"
+    },
+    {
+      "id": 139440,
+      "name": "La Independencia (Las Pilas)"
+    },
+    {
+      "id": 139441,
+      "name": "La Laguna"
+    },
+    {
+      "id": 139442,
+      "name": "La Libertad"
+    },
+    {
+      "id": 139443,
+      "name": "La Línea"
+    },
+    {
+      "id": 139444,
+      "name": "La Patria"
+    },
+    {
+      "id": 139445,
+      "name": "La Pimienta"
+    },
+    {
+      "id": 139446,
+      "name": "La Rinconada"
+    },
+    {
+      "id": 139447,
+      "name": "La Tigrilla"
+    },
+    {
+      "id": 139448,
+      "name": "La Trinitaria"
+    },
+    {
+      "id": 139449,
+      "name": "Lacandón"
+    },
+    {
+      "id": 139450,
+      "name": "Laguna del Cofre"
+    },
+    {
+      "id": 139451,
+      "name": "Larráinzar"
+    },
+    {
+      "id": 139452,
+      "name": "Las Brisas"
+    },
+    {
+      "id": 139453,
+      "name": "Las Chicharras"
+    },
+    {
+      "id": 139454,
+      "name": "Las Delicias"
+    },
+    {
+      "id": 139455,
+      "name": "Las Flechas"
+    },
+    {
+      "id": 139456,
+      "name": "Las Maravillas"
+    },
+    {
+      "id": 139457,
+      "name": "Las Margaritas"
+    },
+    {
+      "id": 139458,
+      "name": "Las Ollas"
+    },
+    {
+      "id": 139459,
+      "name": "Las Rosas"
+    },
+    {
+      "id": 139460,
+      "name": "Las Tazas"
+    },
+    {
+      "id": 139461,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 139462,
+      "name": "Lázaro Cárdenas (Chilil)"
+    },
+    {
+      "id": 139463,
+      "name": "Libertad Melchor Ocampo"
+    },
+    {
+      "id": 139464,
+      "name": "Libertad Ventanas"
+    },
+    {
+      "id": 139465,
+      "name": "Llano de la Lima"
+    },
+    {
+      "id": 139466,
+      "name": "Loma Bonita"
+    },
+    {
+      "id": 139467,
+      "name": "Lomantán"
+    },
+    {
+      "id": 139468,
+      "name": "Los Cafetales"
+    },
+    {
+      "id": 139469,
+      "name": "Los Corazones"
+    },
+    {
+      "id": 139470,
+      "name": "Los Naranjos"
+    },
+    {
+      "id": 139471,
+      "name": "Los Palacios"
+    },
+    {
+      "id": 139472,
+      "name": "Los Pinos"
+    },
+    {
+      "id": 139473,
+      "name": "Los Plátanos"
+    },
+    {
+      "id": 139474,
+      "name": "Los Pozos"
+    },
+    {
+      "id": 139475,
+      "name": "Los Riegos"
+    },
+    {
+      "id": 139476,
+      "name": "Luis Espinoza"
+    },
+    {
+      "id": 139477,
+      "name": "Macvilhó"
+    },
+    {
+      "id": 139478,
+      "name": "Majastic"
+    },
+    {
+      "id": 139479,
+      "name": "Majomut"
+    },
+    {
+      "id": 139480,
+      "name": "Manuel Ávila Camacho"
+    },
+    {
+      "id": 139481,
+      "name": "Manuel Ávila Camacho (Ponte Duro)"
+    },
+    {
+      "id": 139482,
+      "name": "Manuel Lazos"
+    },
+    {
+      "id": 139483,
+      "name": "Mapastepec"
+    },
+    {
+      "id": 139484,
+      "name": "Maravilla Tenejapa"
+    },
+    {
+      "id": 139485,
+      "name": "Maravillas"
+    },
+    {
+      "id": 139486,
+      "name": "Mariano Matamoros"
+    },
+    {
+      "id": 139487,
+      "name": "Mariscal Subikuski"
+    },
+    {
+      "id": 139488,
+      "name": "Marqués de Comillas"
+    },
+    {
+      "id": 139489,
+      "name": "Marte R. Gómez"
+    },
+    {
+      "id": 139490,
+      "name": "Matzam"
+    },
+    {
+      "id": 139491,
+      "name": "Mazapa"
+    },
+    {
+      "id": 139492,
+      "name": "Mazapa de Madero"
+    },
+    {
+      "id": 139493,
+      "name": "Mazatán"
+    },
+    {
+      "id": 139494,
+      "name": "Mérida"
+    },
+    {
+      "id": 139495,
+      "name": "Metapa"
+    },
+    {
+      "id": 139496,
+      "name": "Miguel Hidalgo"
+    },
+    {
+      "id": 139497,
+      "name": "Miguel Utrilla (Los Chorros)"
+    },
+    {
+      "id": 139498,
+      "name": "Misija"
+    },
+    {
+      "id": 139499,
+      "name": "Mitontic"
+    },
+    {
+      "id": 139500,
+      "name": "Mitzitón"
+    },
+    {
+      "id": 139501,
+      "name": "Mixcum"
+    },
+    {
+      "id": 139502,
+      "name": "Monte Redondo"
+    },
+    {
+      "id": 139503,
+      "name": "Montecristo"
+    },
+    {
+      "id": 139504,
+      "name": "Montecristo de Guerrero"
+    },
+    {
+      "id": 139505,
+      "name": "Monterrey"
+    },
+    {
+      "id": 139506,
+      "name": "Morelia (Victórico Rodolfo Grajales)"
+    },
+    {
+      "id": 139507,
+      "name": "Motozintla"
+    },
+    {
+      "id": 139508,
+      "name": "Moyos"
+    },
+    {
+      "id": 139509,
+      "name": "Muquén"
+    },
+    {
+      "id": 139510,
+      "name": "Nachig"
+    },
+    {
+      "id": 139511,
+      "name": "Narciso Mendoza"
+    },
+    {
+      "id": 139512,
+      "name": "Navenchauc"
+    },
+    {
+      "id": 139513,
+      "name": "Nicolás Bravo"
+    },
+    {
+      "id": 139514,
+      "name": "Nicolás Ruiz"
+    },
+    {
+      "id": 139515,
+      "name": "Nueva América"
+    },
+    {
+      "id": 139516,
+      "name": "Nueva Colombia"
+    },
+    {
+      "id": 139517,
+      "name": "Nueva Esperanza"
+    },
+    {
+      "id": 139518,
+      "name": "Nueva Independencia"
+    },
+    {
+      "id": 139519,
+      "name": "Nueva Libertad"
+    },
+    {
+      "id": 139520,
+      "name": "Nueva Libertad (El Colorado)"
+    },
+    {
+      "id": 139521,
+      "name": "Nueva Morelia"
+    },
+    {
+      "id": 139522,
+      "name": "Nueva Palestina"
+    },
+    {
+      "id": 139523,
+      "name": "Nueva Sesecapa"
+    },
+    {
+      "id": 139524,
+      "name": "Nueva Tenochtitlán (Rizo de Oro)"
+    },
+    {
+      "id": 139525,
+      "name": "Nuevo Amatenango"
+    },
+    {
+      "id": 139526,
+      "name": "Nuevo Carmen Tonapac"
+    },
+    {
+      "id": 139527,
+      "name": "Nuevo Francisco León"
+    },
+    {
+      "id": 139528,
+      "name": "Nuevo Juan del Grijalva"
+    },
+    {
+      "id": 139529,
+      "name": "Nuevo León"
+    },
+    {
+      "id": 139530,
+      "name": "Nuevo Limar"
+    },
+    {
+      "id": 139531,
+      "name": "Nuevo México"
+    },
+    {
+      "id": 139532,
+      "name": "Nuevo Milenio Valdivia"
+    },
+    {
+      "id": 139533,
+      "name": "Nuevo Naranjo"
+    },
+    {
+      "id": 139534,
+      "name": "Nuevo Nicapa"
+    },
+    {
+      "id": 139535,
+      "name": "Nuevo Pacayal"
+    },
+    {
+      "id": 139536,
+      "name": "Nuevo Pumpuapa (Cereso)"
+    },
+    {
+      "id": 139537,
+      "name": "Nuevo San Juan Chamula"
+    },
+    {
+      "id": 139538,
+      "name": "Nuevo Sitalá"
+    },
+    {
+      "id": 139539,
+      "name": "Nuevo Vicente Guerrero"
+    },
+    {
+      "id": 139540,
+      "name": "Nuevo Vicente Guerrero (El Chichonal)"
+    },
+    {
+      "id": 139541,
+      "name": "Nuevo Volcán Chichonal"
+    },
+    {
+      "id": 139542,
+      "name": "Nuevo Xochimilco"
+    },
+    {
+      "id": 139543,
+      "name": "Ochusjob"
+    },
+    {
+      "id": 139544,
+      "name": "Ococh"
+    },
+    {
+      "id": 139545,
+      "name": "Ocosingo"
+    },
+    {
+      "id": 139546,
+      "name": "Ocotepec"
+    },
+    {
+      "id": 139547,
+      "name": "Ocozocoautla de Espinosa"
+    },
+    {
+      "id": 139548,
+      "name": "Octavio Paz"
+    },
+    {
+      "id": 139549,
+      "name": "Ojo de Agua"
+    },
+    {
+      "id": 139550,
+      "name": "Omoa"
+    },
+    {
+      "id": 139551,
+      "name": "Once de Abril"
+    },
+    {
+      "id": 139552,
+      "name": "Ostuacán"
+    },
+    {
+      "id": 139553,
+      "name": "Osumacinta"
+    },
+    {
+      "id": 139554,
+      "name": "Oxchuc"
+    },
+    {
+      "id": 139555,
+      "name": "Oxinam"
+    },
+    {
+      "id": 139556,
+      "name": "Pablo L. Sidar"
+    },
+    {
+      "id": 139557,
+      "name": "Pacú"
+    },
+    {
+      "id": 139558,
+      "name": "Palenque"
+    },
+    {
+      "id": 139559,
+      "name": "Pantelhó"
+    },
+    {
+      "id": 139560,
+      "name": "Pantepec"
+    },
+    {
+      "id": 139561,
+      "name": "Paraíso del Grijalva"
+    },
+    {
+      "id": 139562,
+      "name": "Paredón"
+    },
+    {
+      "id": 139563,
+      "name": "Paso Hondo"
+    },
+    {
+      "id": 139564,
+      "name": "Pasté"
+    },
+    {
+      "id": 139565,
+      "name": "Patosil"
+    },
+    {
+      "id": 139566,
+      "name": "Patria Nueva (San José el Contento)"
+    },
+    {
+      "id": 139567,
+      "name": "Pavencul"
+    },
+    {
+      "id": 139568,
+      "name": "Perla de Acapulco"
+    },
+    {
+      "id": 139569,
+      "name": "Petalcingo"
+    },
+    {
+      "id": 139570,
+      "name": "Pichucalco"
+    },
+    {
+      "id": 139571,
+      "name": "Piedra Labrada"
+    },
+    {
+      "id": 139572,
+      "name": "Pijijiapan"
+    },
+    {
+      "id": 139573,
+      "name": "Plan de Agua Prieta"
+    },
+    {
+      "id": 139574,
+      "name": "Plan de Ayala"
+    },
+    {
+      "id": 139575,
+      "name": "Pomposo Castellanos"
+    },
+    {
+      "id": 139576,
+      "name": "Potrerillo"
+    },
+    {
+      "id": 139577,
+      "name": "Presidente Echeverría (Laja Tendida)"
+    },
+    {
+      "id": 139578,
+      "name": "Primer Cantón"
+    },
+    {
+      "id": 139579,
+      "name": "Profresor Roberto Barrios"
+    },
+    {
+      "id": 139580,
+      "name": "Puebla"
+    },
+    {
+      "id": 139581,
+      "name": "Pueblo Nuevo"
+    },
+    {
+      "id": 139582,
+      "name": "Puerto Madero"
+    },
+    {
+      "id": 139583,
+      "name": "Pugchén Mumuntic"
+    },
+    {
+      "id": 139584,
+      "name": "Punta Arena"
+    },
+    {
+      "id": 139585,
+      "name": "Querétaro"
+    },
+    {
+      "id": 139586,
+      "name": "Quintana Roo"
+    },
+    {
+      "id": 139587,
+      "name": "Rafael Pascacio Gamboa"
+    },
+    {
+      "id": 139588,
+      "name": "Rafael Ramírez"
+    },
+    {
+      "id": 139589,
+      "name": "Ramón F. Balboa"
+    },
+    {
+      "id": 139590,
+      "name": "Raudales Malpaso"
+    },
+    {
+      "id": 139591,
+      "name": "Raymundo Enríquez"
+    },
+    {
+      "id": 139592,
+      "name": "Rayón"
+    },
+    {
+      "id": 139593,
+      "name": "Reforma"
+    },
+    {
+      "id": 139594,
+      "name": "Reforma y Planada"
+    },
+    {
+      "id": 139595,
+      "name": "Revolución Mexicana"
+    },
+    {
+      "id": 139596,
+      "name": "Ricardo Flores Magón"
+    },
+    {
+      "id": 139597,
+      "name": "Rincón Chamula"
+    },
+    {
+      "id": 139598,
+      "name": "Río Blanco"
+    },
+    {
+      "id": 139599,
+      "name": "Río Chancalá"
+    },
+    {
+      "id": 139600,
+      "name": "Río Jordán"
+    },
+    {
+      "id": 139601,
+      "name": "Rizo de Oro"
+    },
+    {
+      "id": 139602,
+      "name": "Roblada Grande"
+    },
+    {
+      "id": 139603,
+      "name": "Rodulfo Figueroa"
+    },
+    {
+      "id": 139604,
+      "name": "Romerillo"
+    },
+    {
+      "id": 139605,
+      "name": "Sabanilla"
+    },
+    {
+      "id": 139606,
+      "name": "Sabinalito"
+    },
+    {
+      "id": 139607,
+      "name": "Saclamantón"
+    },
+    {
+      "id": 139608,
+      "name": "Saltillo"
+    },
+    {
+      "id": 139609,
+      "name": "Salto de Agua"
+    },
+    {
+      "id": 139610,
+      "name": "Salvador Urbina"
+    },
+    {
+      "id": 139611,
+      "name": "San Andrés Duraznal"
+    },
+    {
+      "id": 139612,
+      "name": "San Antonio Buenavista"
+    },
+    {
+      "id": 139613,
+      "name": "San Antonio Bulujib"
+    },
+    {
+      "id": 139614,
+      "name": "San Antonio del Monte"
+    },
+    {
+      "id": 139615,
+      "name": "San Caralampio"
+    },
+    {
+      "id": 139616,
+      "name": "San Cayetano"
+    },
+    {
+      "id": 139617,
+      "name": "San Cristóbal de las Casas"
+    },
+    {
+      "id": 139618,
+      "name": "San Felipe Tizapa"
+    },
+    {
+      "id": 139619,
+      "name": "San Fernando"
+    },
+    {
+      "id": 139620,
+      "name": "San Francisco (El Calvito)"
+    },
+    {
+      "id": 139621,
+      "name": "San Francisco Jaconá"
+    },
+    {
+      "id": 139622,
+      "name": "San Francisco Pujiltic"
+    },
+    {
+      "id": 139623,
+      "name": "San Isidro"
+    },
+    {
+      "id": 139624,
+      "name": "San Isidro las Banderas"
+    },
+    {
+      "id": 139625,
+      "name": "San Jerónimo Tulijá"
+    },
+    {
+      "id": 139626,
+      "name": "San José Chapayal"
+    },
+    {
+      "id": 139627,
+      "name": "San José las Chicharras"
+    },
+    {
+      "id": 139628,
+      "name": "San José Yashitinín"
+    },
+    {
+      "id": 139629,
+      "name": "San José Yocnajab"
+    },
+    {
+      "id": 139630,
+      "name": "San Lucas"
+    },
+    {
+      "id": 139631,
+      "name": "San Luqueño"
+    },
+    {
+      "id": 139632,
+      "name": "San Miguel"
+    },
+    {
+      "id": 139633,
+      "name": "San Miguel la Sardina"
+    },
+    {
+      "id": 139634,
+      "name": "San Pablo Huacano"
+    },
+    {
+      "id": 139635,
+      "name": "San Pedro Buenavista"
+    },
+    {
+      "id": 139636,
+      "name": "San Pedro Nichtalucum"
+    },
+    {
+      "id": 139637,
+      "name": "San Quintín"
+    },
+    {
+      "id": 139638,
+      "name": "San Vicente la Mesilla"
+    },
+    {
+      "id": 139639,
+      "name": "Santa Elena"
+    },
+    {
+      "id": 139640,
+      "name": "Santa María"
+    },
+    {
+      "id": 139641,
+      "name": "Santa Rita"
+    },
+    {
+      "id": 139642,
+      "name": "Santiago el Pinar"
+    },
+    {
+      "id": 139643,
+      "name": "Santiago Pojcol"
+    },
+    {
+      "id": 139644,
+      "name": "Santo Domingo"
+    },
+    {
+      "id": 139645,
+      "name": "Santo Domingo de las Palmas"
+    },
+    {
+      "id": 139646,
+      "name": "Señor del Pozo"
+    },
+    {
+      "id": 139647,
+      "name": "Shoctic"
+    },
+    {
+      "id": 139648,
+      "name": "Sibacá"
+    },
+    {
+      "id": 139649,
+      "name": "Sibaniljá Pocolum"
+    },
+    {
+      "id": 139650,
+      "name": "Siltepec"
+    },
+    {
+      "id": 139651,
+      "name": "Simojovel"
+    },
+    {
+      "id": 139652,
+      "name": "Simojovel de Allende"
+    },
+    {
+      "id": 139653,
+      "name": "Sinaloa"
+    },
+    {
+      "id": 139654,
+      "name": "Sitalá"
+    },
+    {
+      "id": 139655,
+      "name": "Socoltenango"
+    },
+    {
+      "id": 139656,
+      "name": "Soconusco"
+    },
+    {
+      "id": 139657,
+      "name": "Solosuchiapa"
+    },
+    {
+      "id": 139658,
+      "name": "Soyaló"
+    },
+    {
+      "id": 139659,
+      "name": "Soyatitán"
+    },
+    {
+      "id": 139660,
+      "name": "Suchiapa"
+    },
+    {
+      "id": 139661,
+      "name": "Suchiate"
+    },
+    {
+      "id": 139662,
+      "name": "Tacuba Nueva"
+    },
+    {
+      "id": 139663,
+      "name": "Talismán"
+    },
+    {
+      "id": 139664,
+      "name": "Tamaulipas"
+    },
+    {
+      "id": 139665,
+      "name": "Taniperla"
+    },
+    {
+      "id": 139666,
+      "name": "Tapachula"
+    },
+    {
+      "id": 139667,
+      "name": "Tapalapa"
+    },
+    {
+      "id": 139668,
+      "name": "Tapilula"
+    },
+    {
+      "id": 139669,
+      "name": "Tecpatán"
+    },
+    {
+      "id": 139670,
+      "name": "Tenango"
+    },
+    {
+      "id": 139671,
+      "name": "Tentic"
+    },
+    {
+      "id": 139672,
+      "name": "Teopisca"
+    },
+    {
+      "id": 139673,
+      "name": "Texcaltic"
+    },
+    {
+      "id": 139674,
+      "name": "Tierra y Libertad"
+    },
+    {
+      "id": 139675,
+      "name": "Tila"
+    },
+    {
+      "id": 139676,
+      "name": "Tiltepec"
+    },
+    {
+      "id": 139677,
+      "name": "Tinajas 1ra. Sección"
+    },
+    {
+      "id": 139678,
+      "name": "Tocob Leglemal"
+    },
+    {
+      "id": 139679,
+      "name": "Tonalá"
+    },
+    {
+      "id": 139680,
+      "name": "Totolapa"
+    },
+    {
+      "id": 139681,
+      "name": "Tres Cerros"
+    },
+    {
+      "id": 139682,
+      "name": "Tres Picos"
+    },
+    {
+      "id": 139683,
+      "name": "Tumbala"
+    },
+    {
+      "id": 139684,
+      "name": "Tuxtla"
+    },
+    {
+      "id": 139685,
+      "name": "Tuxtla Chico"
+    },
+    {
+      "id": 139686,
+      "name": "Tuzantán"
+    },
+    {
+      "id": 139687,
+      "name": "Tz'Aquiviljok"
+    },
+    {
+      "id": 139688,
+      "name": "Tzajalá"
+    },
+    {
+      "id": 139689,
+      "name": "Tzajalchén"
+    },
+    {
+      "id": 139690,
+      "name": "Tzeltal"
+    },
+    {
+      "id": 139691,
+      "name": "Tzimol"
+    },
+    {
+      "id": 139692,
+      "name": "Tzinil"
+    },
+    {
+      "id": 139693,
+      "name": "Tziscao"
+    },
+    {
+      "id": 139694,
+      "name": "Tzoeptic"
+    },
+    {
+      "id": 139695,
+      "name": "Tzontehuitz"
+    },
+    {
+      "id": 139696,
+      "name": "Tzopilja"
+    },
+    {
+      "id": 139697,
+      "name": "Ubilio García"
+    },
+    {
+      "id": 139698,
+      "name": "Unión Buena Vista"
+    },
+    {
+      "id": 139699,
+      "name": "Unión Buenavista"
+    },
+    {
+      "id": 139700,
+      "name": "Unión Juárez"
+    },
+    {
+      "id": 139701,
+      "name": "Unión Roja"
+    },
+    {
+      "id": 139702,
+      "name": "Usipa"
+    },
+    {
+      "id": 139703,
+      "name": "Vega del Rosario"
+    },
+    {
+      "id": 139704,
+      "name": "Veinte de Noviembre"
+    },
+    {
+      "id": 139705,
+      "name": "Venustiano Carranza"
+    },
+    {
+      "id": 139706,
+      "name": "Veracruz"
+    },
+    {
+      "id": 139707,
+      "name": "Verapaz"
+    },
+    {
+      "id": 139708,
+      "name": "Vicente Guerrero"
+    },
+    {
+      "id": 139709,
+      "name": "Vida Mejor I"
+    },
+    {
+      "id": 139710,
+      "name": "Villa Comaltitlán"
+    },
+    {
+      "id": 139711,
+      "name": "Villa Corzo"
+    },
+    {
+      "id": 139712,
+      "name": "Villa Hidalgo"
+    },
+    {
+      "id": 139713,
+      "name": "Villaflores"
+    },
+    {
+      "id": 139714,
+      "name": "Villahermosa Yaluma"
+    },
+    {
+      "id": 139715,
+      "name": "Villamorelos"
+    },
+    {
+      "id": 139716,
+      "name": "Viva Cárdenas"
+    },
+    {
+      "id": 139717,
+      "name": "Viva México"
+    },
+    {
+      "id": 139718,
+      "name": "Xochiltepec"
+    },
+    {
+      "id": 139719,
+      "name": "Yajalón"
+    },
+    {
+      "id": 139720,
+      "name": "Yaltem"
+    },
+    {
+      "id": 139721,
+      "name": "Yasha"
+    },
+    {
+      "id": 139722,
+      "name": "Yashanal"
+    },
+    {
+      "id": 139723,
+      "name": "Yibeljoj"
+    },
+    {
+      "id": 139724,
+      "name": "Yoshib"
+    },
+    {
+      "id": 139725,
+      "name": "Zacatonal de Juárez"
+    },
+    {
+      "id": 139726,
+      "name": "Zacualpa"
+    },
+    {
+      "id": 139727,
+      "name": "Zamora Pico de Oro"
+    },
+    {
+      "id": 139728,
+      "name": "Zaragoza"
+    },
+    {
+      "id": 139729,
+      "name": "Zaragoza la Montaña"
+    },
+    {
+      "id": 139730,
+      "name": "Zequentic"
+    },
+    {
+      "id": 139731,
+      "name": "Zinacantán"
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": 5981,
+  "name": "Mehedinți County",
+  "state_code": "MH",
+  "cities": [
+    {
+      "id": 170177,
+      "name": "Bâcleș"
+    },
+    {
+      "id": 170178,
+      "name": "Baia de Aramă"
+    },
+    {
+      "id": 170179,
+      "name": "Bala"
+    },
+    {
+      "id": 170180,
+      "name": "Bălăciţa"
+    },
+    {
+      "id": 170181,
+      "name": "Balta"
+    },
+    {
+      "id": 170182,
+      "name": "Balta Verde"
+    },
+    {
+      "id": 170183,
+      "name": "Bâlvăneşti"
+    },
+    {
+      "id": 170184,
+      "name": "Bistrița"
+    },
+    {
+      "id": 170185,
+      "name": "Braniștea"
+    },
+    {
+      "id": 170186,
+      "name": "Brezniţa Ocol"
+    },
+    {
+      "id": 170187,
+      "name": "Brezniţa-Motru"
+    },
+    {
+      "id": 170188,
+      "name": "Broşteni"
+    },
+    {
+      "id": 170189,
+      "name": "Burila Mare"
+    },
+    {
+      "id": 170190,
+      "name": "Butoieşti"
+    },
+    {
+      "id": 170191,
+      "name": "Căzăneşti"
+    },
+    {
+      "id": 170192,
+      "name": "Cerneți"
+    },
+    {
+      "id": 170193,
+      "name": "Ciochiuța"
+    },
+    {
+      "id": 170194,
+      "name": "Cioroboreni"
+    },
+    {
+      "id": 170195,
+      "name": "Cireşu"
+    },
+    {
+      "id": 170196,
+      "name": "Comanda"
+    },
+    {
+      "id": 170197,
+      "name": "Comuna Bâcleş"
+    },
+    {
+      "id": 170198,
+      "name": "Comuna Bala"
+    },
+    {
+      "id": 170199,
+      "name": "Comuna Bălăciţa"
+    },
+    {
+      "id": 170200,
+      "name": "Comuna Balta"
+    },
+    {
+      "id": 170201,
+      "name": "Comuna Bâlvăneşti"
+    },
+    {
+      "id": 170202,
+      "name": "Comuna Braniştea"
+    },
+    {
+      "id": 170203,
+      "name": "Comuna Brezniţa Ocol"
+    },
+    {
+      "id": 170204,
+      "name": "Comuna Brezniţa-Motru"
+    },
+    {
+      "id": 170205,
+      "name": "Comuna Broşteni"
+    },
+    {
+      "id": 170206,
+      "name": "Comuna Burila Mare"
+    },
+    {
+      "id": 170207,
+      "name": "Comuna Butoieşti"
+    },
+    {
+      "id": 170208,
+      "name": "Comuna Căzăneşti"
+    },
+    {
+      "id": 170209,
+      "name": "Comuna Cireşu"
+    },
+    {
+      "id": 170210,
+      "name": "Comuna Corcova"
+    },
+    {
+      "id": 170211,
+      "name": "Comuna Corlăţel"
+    },
+    {
+      "id": 170212,
+      "name": "Comuna Cujmir"
+    },
+    {
+      "id": 170213,
+      "name": "Comuna Dârvari"
+    },
+    {
+      "id": 170214,
+      "name": "Comuna Devesel"
+    },
+    {
+      "id": 170215,
+      "name": "Comuna Dubova"
+    },
+    {
+      "id": 170216,
+      "name": "Comuna Dumbrava"
+    },
+    {
+      "id": 170217,
+      "name": "Comuna Eşelniţa"
+    },
+    {
+      "id": 170218,
+      "name": "Comuna Floreşti"
+    },
+    {
+      "id": 170219,
+      "name": "Comuna Gârla Mare"
+    },
+    {
+      "id": 170220,
+      "name": "Comuna Godeanu"
+    },
+    {
+      "id": 170221,
+      "name": "Comuna Gogoşu"
+    },
+    {
+      "id": 170222,
+      "name": "Comuna Greci"
+    },
+    {
+      "id": 170223,
+      "name": "Comuna Grozeşti"
+    },
+    {
+      "id": 170224,
+      "name": "Comuna Gruia"
+    },
+    {
+      "id": 170225,
+      "name": "Comuna Hinova"
+    },
+    {
+      "id": 170226,
+      "name": "Comuna Husnicioara"
+    },
+    {
+      "id": 170227,
+      "name": "Comuna Ilovăt"
+    },
+    {
+      "id": 170228,
+      "name": "Comuna Iloviţa"
+    },
+    {
+      "id": 170229,
+      "name": "Comuna Isverna"
+    },
+    {
+      "id": 170230,
+      "name": "Comuna Izvoru Bârzii"
+    },
+    {
+      "id": 170231,
+      "name": "Comuna Jiana"
+    },
+    {
+      "id": 170232,
+      "name": "Comuna Livezile"
+    },
+    {
+      "id": 170233,
+      "name": "Comuna Malovãţ"
+    },
+    {
+      "id": 170234,
+      "name": "Comuna Obârşia De Câmp"
+    },
+    {
+      "id": 170235,
+      "name": "Comuna Obârşia-Cloşani"
+    },
+    {
+      "id": 170236,
+      "name": "Comuna Oprişor"
+    },
+    {
+      "id": 170237,
+      "name": "Comuna Padina"
+    },
+    {
+      "id": 170238,
+      "name": "Comuna Pătulele"
+    },
+    {
+      "id": 170239,
+      "name": "Comuna Podeni"
+    },
+    {
+      "id": 170240,
+      "name": "Comuna Ponoarele"
+    },
+    {
+      "id": 170241,
+      "name": "Comuna Poroina Mare"
+    },
+    {
+      "id": 170242,
+      "name": "Comuna Pristol"
+    },
+    {
+      "id": 170243,
+      "name": "Comuna Prunişor"
+    },
+    {
+      "id": 170244,
+      "name": "Comuna Punghina"
+    },
+    {
+      "id": 170245,
+      "name": "Comuna Rogova"
+    },
+    {
+      "id": 170246,
+      "name": "Comuna Salcia"
+    },
+    {
+      "id": 170247,
+      "name": "Comuna Simian"
+    },
+    {
+      "id": 170248,
+      "name": "Comuna Siseşti"
+    },
+    {
+      "id": 170249,
+      "name": "Comuna Sovarna"
+    },
+    {
+      "id": 170250,
+      "name": "Comuna Stângăceaua"
+    },
+    {
+      "id": 170251,
+      "name": "Comuna Sviniţa"
+    },
+    {
+      "id": 170252,
+      "name": "Comuna Tâmna"
+    },
+    {
+      "id": 170253,
+      "name": "Comuna Vânători"
+    },
+    {
+      "id": 170254,
+      "name": "Comuna Vânjuleţ"
+    },
+    {
+      "id": 170255,
+      "name": "Comuna Vlădaia"
+    },
+    {
+      "id": 170256,
+      "name": "Comuna Voloiac"
+    },
+    {
+      "id": 170257,
+      "name": "Comuna Vrata"
+    },
+    {
+      "id": 170258,
+      "name": "Corcova"
+    },
+    {
+      "id": 170259,
+      "name": "Corlăţel"
+    },
+    {
+      "id": 170260,
+      "name": "Cujmir"
+    },
+    {
+      "id": 170261,
+      "name": "Dănceu"
+    },
+    {
+      "id": 170262,
+      "name": "Dârvari"
+    },
+    {
+      "id": 170263,
+      "name": "Devesel"
+    },
+    {
+      "id": 170264,
+      "name": "Drobeta-Turnu Severin"
+    },
+    {
+      "id": 170265,
+      "name": "Dubova"
+    },
+    {
+      "id": 170266,
+      "name": "Dudașu"
+    },
+    {
+      "id": 170267,
+      "name": "Dumbrava de Sus"
+    },
+    {
+      "id": 170268,
+      "name": "Eşelniţa"
+    },
+    {
+      "id": 170269,
+      "name": "Floreşti"
+    },
+    {
+      "id": 170270,
+      "name": "Gârla-Mare"
+    },
+    {
+      "id": 170271,
+      "name": "Gemeni"
+    },
+    {
+      "id": 170272,
+      "name": "Godeanu"
+    },
+    {
+      "id": 170273,
+      "name": "Gogoşu"
+    },
+    {
+      "id": 170274,
+      "name": "Greci"
+    },
+    {
+      "id": 170275,
+      "name": "Grozeşti"
+    },
+    {
+      "id": 170276,
+      "name": "Gruia"
+    },
+    {
+      "id": 170277,
+      "name": "Gura Văii"
+    },
+    {
+      "id": 170278,
+      "name": "Gvardinița"
+    },
+    {
+      "id": 170279,
+      "name": "Halânga"
+    },
+    {
+      "id": 170280,
+      "name": "Hinova"
+    },
+    {
+      "id": 170281,
+      "name": "Husnicioara"
+    },
+    {
+      "id": 170282,
+      "name": "Ilovăț"
+    },
+    {
+      "id": 170283,
+      "name": "Iloviţa"
+    },
+    {
+      "id": 170284,
+      "name": "Isverna"
+    },
+    {
+      "id": 170285,
+      "name": "Izimșa"
+    },
+    {
+      "id": 170286,
+      "name": "Izvoarele"
+    },
+    {
+      "id": 170287,
+      "name": "Izvoru Bârzii"
+    },
+    {
+      "id": 170288,
+      "name": "Jiana"
+    },
+    {
+      "id": 170289,
+      "name": "Jiana Veche"
+    },
+    {
+      "id": 170290,
+      "name": "Jidoștița"
+    },
+    {
+      "id": 170291,
+      "name": "Jirov"
+    },
+    {
+      "id": 170292,
+      "name": "Livezile"
+    },
+    {
+      "id": 170293,
+      "name": "Malovăţ"
+    },
+    {
+      "id": 170294,
+      "name": "Municipiul Drobeta-Turnu Severin"
+    },
+    {
+      "id": 170295,
+      "name": "Municipiul Orşova"
+    },
+    {
+      "id": 170296,
+      "name": "Nicolae Bălcescu"
+    },
+    {
+      "id": 170297,
+      "name": "Obârșia de Câmp"
+    },
+    {
+      "id": 170298,
+      "name": "Obârşia-Cloşani"
+    },
+    {
+      "id": 170299,
+      "name": "Oprişor"
+    },
+    {
+      "id": 170300,
+      "name": "Oraş Baia De Aramã"
+    },
+    {
+      "id": 170301,
+      "name": "Oraş Strehaia"
+    },
+    {
+      "id": 170302,
+      "name": "Oraş Vânju Mare"
+    },
+    {
+      "id": 170303,
+      "name": "Orevița Mare"
+    },
+    {
+      "id": 170304,
+      "name": "Orşova"
+    },
+    {
+      "id": 170305,
+      "name": "Ostrovu Mare"
+    },
+    {
+      "id": 170306,
+      "name": "Padina Mică"
+    },
+    {
+      "id": 170307,
+      "name": "Pătulele"
+    },
+    {
+      "id": 170308,
+      "name": "Podeni"
+    },
+    {
+      "id": 170309,
+      "name": "Ponoarele"
+    },
+    {
+      "id": 170310,
+      "name": "Poroina Mare"
+    },
+    {
+      "id": 170311,
+      "name": "Pristol"
+    },
+    {
+      "id": 170312,
+      "name": "Prunişor"
+    },
+    {
+      "id": 170313,
+      "name": "Punghina"
+    },
+    {
+      "id": 170314,
+      "name": "Recea"
+    },
+    {
+      "id": 170315,
+      "name": "Rogova"
+    },
+    {
+      "id": 170316,
+      "name": "Roșiori"
+    },
+    {
+      "id": 170317,
+      "name": "Salcia"
+    },
+    {
+      "id": 170318,
+      "name": "Şimian"
+    },
+    {
+      "id": 170319,
+      "name": "Şişeşti"
+    },
+    {
+      "id": 170320,
+      "name": "Şovarna"
+    },
+    {
+      "id": 170321,
+      "name": "Stângăceaua"
+    },
+    {
+      "id": 170322,
+      "name": "Strehaia"
+    },
+    {
+      "id": 170323,
+      "name": "Sviniţa"
+    },
+    {
+      "id": 170324,
+      "name": "Tâmna"
+    },
+    {
+      "id": 170325,
+      "name": "Vânători"
+    },
+    {
+      "id": 170326,
+      "name": "Vânju-Mare"
+    },
+    {
+      "id": 170327,
+      "name": "Vânjuleţ"
+    },
+    {
+      "id": 170328,
+      "name": "Vlădaia"
+    },
+    {
+      "id": 170329,
+      "name": "Voloiac"
+    },
+    {
+      "id": 170330,
+      "name": "Vrata"
+    }
+  ]
+}

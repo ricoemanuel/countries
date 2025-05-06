@@ -1,0 +1,807 @@
+{
+  "id": 5993,
+  "name": "Vâlcea County",
+  "state_code": "VL",
+  "cities": [
+    {
+      "id": 172901,
+      "name": "Alunu"
+    },
+    {
+      "id": 172902,
+      "name": "Amărăşti"
+    },
+    {
+      "id": 172903,
+      "name": "Băbeni"
+    },
+    {
+      "id": 172904,
+      "name": "Băbeni-Oltețu"
+    },
+    {
+      "id": 172905,
+      "name": "Băile Govora"
+    },
+    {
+      "id": 172906,
+      "name": "Băile Olăneşti"
+    },
+    {
+      "id": 172907,
+      "name": "Bălceşti"
+    },
+    {
+      "id": 172908,
+      "name": "Bărbăteşti"
+    },
+    {
+      "id": 172909,
+      "name": "Batârăşti"
+    },
+    {
+      "id": 172910,
+      "name": "Berbeşti"
+    },
+    {
+      "id": 172911,
+      "name": "Berislăveşti"
+    },
+    {
+      "id": 172912,
+      "name": "Bistrița"
+    },
+    {
+      "id": 172913,
+      "name": "Bodești"
+    },
+    {
+      "id": 172914,
+      "name": "Boişoara"
+    },
+    {
+      "id": 172915,
+      "name": "Brezoi"
+    },
+    {
+      "id": 172916,
+      "name": "Budeşti"
+    },
+    {
+      "id": 172917,
+      "name": "Bujoreni"
+    },
+    {
+      "id": 172918,
+      "name": "Buneşti"
+    },
+    {
+      "id": 172919,
+      "name": "Câinenii Mici"
+    },
+    {
+      "id": 172920,
+      "name": "Călimăneşti"
+    },
+    {
+      "id": 172921,
+      "name": "Călina"
+    },
+    {
+      "id": 172922,
+      "name": "Cernişoara"
+    },
+    {
+      "id": 172923,
+      "name": "Cheia"
+    },
+    {
+      "id": 172924,
+      "name": "Comuna Alunu"
+    },
+    {
+      "id": 172925,
+      "name": "Comuna Amărăşti"
+    },
+    {
+      "id": 172926,
+      "name": "Comuna Bărbăteşti"
+    },
+    {
+      "id": 172927,
+      "name": "Comuna Berislăveşti"
+    },
+    {
+      "id": 172928,
+      "name": "Comuna Boişoara"
+    },
+    {
+      "id": 172929,
+      "name": "Comuna Budeşti"
+    },
+    {
+      "id": 172930,
+      "name": "Comuna Bujoreni"
+    },
+    {
+      "id": 172931,
+      "name": "Comuna Buneşti"
+    },
+    {
+      "id": 172932,
+      "name": "Comuna Câineni"
+    },
+    {
+      "id": 172933,
+      "name": "Comuna Cernişoara"
+    },
+    {
+      "id": 172934,
+      "name": "Comuna Copăceni"
+    },
+    {
+      "id": 172935,
+      "name": "Comuna Costeşti"
+    },
+    {
+      "id": 172936,
+      "name": "Comuna Creţeni"
+    },
+    {
+      "id": 172937,
+      "name": "Comuna Dăeşti"
+    },
+    {
+      "id": 172938,
+      "name": "Comuna Dănicei"
+    },
+    {
+      "id": 172939,
+      "name": "Comuna Diculeşti"
+    },
+    {
+      "id": 172940,
+      "name": "Comuna Drăgoeşti"
+    },
+    {
+      "id": 172941,
+      "name": "Comuna Fârtãţeşti"
+    },
+    {
+      "id": 172942,
+      "name": "Comuna Făureşti"
+    },
+    {
+      "id": 172943,
+      "name": "Comuna Frânceşti-Mânăstireni"
+    },
+    {
+      "id": 172944,
+      "name": "Comuna Galicea"
+    },
+    {
+      "id": 172945,
+      "name": "Comuna Ghioroiu"
+    },
+    {
+      "id": 172946,
+      "name": "Comuna Glăvile"
+    },
+    {
+      "id": 172947,
+      "name": "Comuna Goleşti"
+    },
+    {
+      "id": 172948,
+      "name": "Comuna Grădiştea"
+    },
+    {
+      "id": 172949,
+      "name": "Comuna Guşoeni"
+    },
+    {
+      "id": 172950,
+      "name": "Comuna Ioneşti"
+    },
+    {
+      "id": 172951,
+      "name": "Comuna Lăcusteni"
+    },
+    {
+      "id": 172952,
+      "name": "Comuna Lădeşti"
+    },
+    {
+      "id": 172953,
+      "name": "Comuna Laloşu"
+    },
+    {
+      "id": 172954,
+      "name": "Comuna Lăpuşata"
+    },
+    {
+      "id": 172955,
+      "name": "Comuna Livezi"
+    },
+    {
+      "id": 172956,
+      "name": "Comuna Lungeşti"
+    },
+    {
+      "id": 172957,
+      "name": "Comuna Măciuca"
+    },
+    {
+      "id": 172958,
+      "name": "Comuna Mădulari-Beica"
+    },
+    {
+      "id": 172959,
+      "name": "Comuna Malaia"
+    },
+    {
+      "id": 172960,
+      "name": "Comuna Măldăreşti"
+    },
+    {
+      "id": 172961,
+      "name": "Comuna Mateeşti"
+    },
+    {
+      "id": 172962,
+      "name": "Comuna Mihăeşti"
+    },
+    {
+      "id": 172963,
+      "name": "Comuna Milcoiu"
+    },
+    {
+      "id": 172964,
+      "name": "Comuna Mitrofani"
+    },
+    {
+      "id": 172965,
+      "name": "Comuna Muereasca"
+    },
+    {
+      "id": 172966,
+      "name": "Comuna Nicolae Bãlcescu"
+    },
+    {
+      "id": 172967,
+      "name": "Comuna Olanu"
+    },
+    {
+      "id": 172968,
+      "name": "Comuna Orleşti"
+    },
+    {
+      "id": 172969,
+      "name": "Comuna Oteşani"
+    },
+    {
+      "id": 172970,
+      "name": "Comuna Păuşeşti"
+    },
+    {
+      "id": 172971,
+      "name": "Comuna Păuşeşti-Măglaşi"
+    },
+    {
+      "id": 172972,
+      "name": "Comuna Perişani"
+    },
+    {
+      "id": 172973,
+      "name": "Comuna Pesceana"
+    },
+    {
+      "id": 172974,
+      "name": "Comuna Pietrari"
+    },
+    {
+      "id": 172975,
+      "name": "Comuna Popeşti"
+    },
+    {
+      "id": 172976,
+      "name": "Comuna Prundeni"
+    },
+    {
+      "id": 172977,
+      "name": "Comuna Racoviţa"
+    },
+    {
+      "id": 172978,
+      "name": "Comuna Roeşti"
+    },
+    {
+      "id": 172979,
+      "name": "Comuna Roşiile"
+    },
+    {
+      "id": 172980,
+      "name": "Comuna Runcu"
+    },
+    {
+      "id": 172981,
+      "name": "Comuna Sălătrucel"
+    },
+    {
+      "id": 172982,
+      "name": "Comuna Scundu"
+    },
+    {
+      "id": 172983,
+      "name": "Comuna Sineşti"
+    },
+    {
+      "id": 172984,
+      "name": "Comuna Şirineasa"
+    },
+    {
+      "id": 172985,
+      "name": "Comuna Slătioara"
+    },
+    {
+      "id": 172986,
+      "name": "Comuna Stăneşti"
+    },
+    {
+      "id": 172987,
+      "name": "Comuna Ştefăneşti"
+    },
+    {
+      "id": 172988,
+      "name": "Comuna Stoeneşti"
+    },
+    {
+      "id": 172989,
+      "name": "Comuna Stoileşti"
+    },
+    {
+      "id": 172990,
+      "name": "Comuna Stroeşti"
+    },
+    {
+      "id": 172991,
+      "name": "Comuna Şuşani"
+    },
+    {
+      "id": 172992,
+      "name": "Comuna Suteşti"
+    },
+    {
+      "id": 172993,
+      "name": "Comuna Tetoiu"
+    },
+    {
+      "id": 172994,
+      "name": "Comuna Titeşti"
+    },
+    {
+      "id": 172995,
+      "name": "Comuna Tomşani"
+    },
+    {
+      "id": 172996,
+      "name": "Comuna Vaideeni"
+    },
+    {
+      "id": 172997,
+      "name": "Comuna Valea Mare"
+    },
+    {
+      "id": 172998,
+      "name": "Comuna Vlădeşti"
+    },
+    {
+      "id": 172999,
+      "name": "Comuna Voiceşti"
+    },
+    {
+      "id": 173000,
+      "name": "Comuna Voineasa"
+    },
+    {
+      "id": 173001,
+      "name": "Comuna Zătreni"
+    },
+    {
+      "id": 173002,
+      "name": "Copăcelu"
+    },
+    {
+      "id": 173003,
+      "name": "Copăceni"
+    },
+    {
+      "id": 173004,
+      "name": "Coșani"
+    },
+    {
+      "id": 173005,
+      "name": "Costeşti"
+    },
+    {
+      "id": 173006,
+      "name": "Creţeni"
+    },
+    {
+      "id": 173007,
+      "name": "Dăeşti"
+    },
+    {
+      "id": 173008,
+      "name": "Dealu Aluniș"
+    },
+    {
+      "id": 173009,
+      "name": "Dealu Dănicei"
+    },
+    {
+      "id": 173010,
+      "name": "Diculești"
+    },
+    {
+      "id": 173011,
+      "name": "Dobrușa"
+    },
+    {
+      "id": 173012,
+      "name": "Drăgăşani"
+    },
+    {
+      "id": 173013,
+      "name": "Drăgoeşti"
+    },
+    {
+      "id": 173014,
+      "name": "Fărtăţeşti"
+    },
+    {
+      "id": 173015,
+      "name": "Făureşti"
+    },
+    {
+      "id": 173016,
+      "name": "Galicea"
+    },
+    {
+      "id": 173017,
+      "name": "Ghioroiu"
+    },
+    {
+      "id": 173018,
+      "name": "Glăvile"
+    },
+    {
+      "id": 173019,
+      "name": "Goranu"
+    },
+    {
+      "id": 173020,
+      "name": "Grădiştea"
+    },
+    {
+      "id": 173021,
+      "name": "Greblești"
+    },
+    {
+      "id": 173022,
+      "name": "Gura Suhașului"
+    },
+    {
+      "id": 173023,
+      "name": "Guşoeni"
+    },
+    {
+      "id": 173024,
+      "name": "Horezu"
+    },
+    {
+      "id": 173025,
+      "name": "Igoiu"
+    },
+    {
+      "id": 173026,
+      "name": "Ioneşti"
+    },
+    {
+      "id": 173027,
+      "name": "Jiblea Veche"
+    },
+    {
+      "id": 173028,
+      "name": "Lăcusteni"
+    },
+    {
+      "id": 173029,
+      "name": "Lădeşti"
+    },
+    {
+      "id": 173030,
+      "name": "Laloşu"
+    },
+    {
+      "id": 173031,
+      "name": "Livadia"
+    },
+    {
+      "id": 173032,
+      "name": "Livezi"
+    },
+    {
+      "id": 173033,
+      "name": "Lungeşti"
+    },
+    {
+      "id": 173034,
+      "name": "Mădulari"
+    },
+    {
+      "id": 173035,
+      "name": "Malaia"
+    },
+    {
+      "id": 173036,
+      "name": "Măldăreşti"
+    },
+    {
+      "id": 173037,
+      "name": "Mănăilești"
+    },
+    {
+      "id": 173038,
+      "name": "Mateeşti"
+    },
+    {
+      "id": 173039,
+      "name": "Mihăeşti"
+    },
+    {
+      "id": 173040,
+      "name": "Milcoiu"
+    },
+    {
+      "id": 173041,
+      "name": "Mitrofani"
+    },
+    {
+      "id": 173042,
+      "name": "Mogești"
+    },
+    {
+      "id": 173043,
+      "name": "Muereasca"
+    },
+    {
+      "id": 173044,
+      "name": "Municipiul Drãgãşani"
+    },
+    {
+      "id": 173045,
+      "name": "Municipiul Râmnicu Vâlcea"
+    },
+    {
+      "id": 173046,
+      "name": "Olănești"
+    },
+    {
+      "id": 173047,
+      "name": "Olanu"
+    },
+    {
+      "id": 173048,
+      "name": "Oraş Bãbeni"
+    },
+    {
+      "id": 173049,
+      "name": "Oraş Bãile Govora"
+    },
+    {
+      "id": 173050,
+      "name": "Oraş Bãile Olãneşti"
+    },
+    {
+      "id": 173051,
+      "name": "Oraş Bãlceşti"
+    },
+    {
+      "id": 173052,
+      "name": "Oraş Berbeşti"
+    },
+    {
+      "id": 173053,
+      "name": "Oraş Brezoi"
+    },
+    {
+      "id": 173054,
+      "name": "Oraş Cãlimãneşti"
+    },
+    {
+      "id": 173055,
+      "name": "Oraş Horezu"
+    },
+    {
+      "id": 173056,
+      "name": "Oraş Ocnele Mari"
+    },
+    {
+      "id": 173057,
+      "name": "Orleşti"
+    },
+    {
+      "id": 173058,
+      "name": "Oteşani"
+    },
+    {
+      "id": 173059,
+      "name": "Otetelișu"
+    },
+    {
+      "id": 173060,
+      "name": "Oveselu"
+    },
+    {
+      "id": 173061,
+      "name": "Păuşeşti"
+    },
+    {
+      "id": 173062,
+      "name": "Păuşeşti-Măglaşi"
+    },
+    {
+      "id": 173063,
+      "name": "Perişani"
+    },
+    {
+      "id": 173064,
+      "name": "Pesceana"
+    },
+    {
+      "id": 173065,
+      "name": "Pietrari"
+    },
+    {
+      "id": 173066,
+      "name": "Pietrarii de Sus"
+    },
+    {
+      "id": 173067,
+      "name": "Popeşti"
+    },
+    {
+      "id": 173068,
+      "name": "Prajila"
+    },
+    {
+      "id": 173069,
+      "name": "Prundeni"
+    },
+    {
+      "id": 173070,
+      "name": "Racoviţa"
+    },
+    {
+      "id": 173071,
+      "name": "Râmești"
+    },
+    {
+      "id": 173072,
+      "name": "Râmnicu Vâlcea"
+    },
+    {
+      "id": 173073,
+      "name": "Roeşti"
+    },
+    {
+      "id": 173074,
+      "name": "Români"
+    },
+    {
+      "id": 173075,
+      "name": "Roşiile"
+    },
+    {
+      "id": 173076,
+      "name": "Runcu"
+    },
+    {
+      "id": 173077,
+      "name": "Sălătrucel"
+    },
+    {
+      "id": 173078,
+      "name": "Scundu"
+    },
+    {
+      "id": 173079,
+      "name": "Sineşti"
+    },
+    {
+      "id": 173080,
+      "name": "Şirineasa"
+    },
+    {
+      "id": 173081,
+      "name": "Stănești"
+    },
+    {
+      "id": 173082,
+      "name": "Ştefăneşti"
+    },
+    {
+      "id": 173083,
+      "name": "Stoeneşti"
+    },
+    {
+      "id": 173084,
+      "name": "Stoileşti"
+    },
+    {
+      "id": 173085,
+      "name": "Stolniceni"
+    },
+    {
+      "id": 173086,
+      "name": "Stroeşti"
+    },
+    {
+      "id": 173087,
+      "name": "Şuşani"
+    },
+    {
+      "id": 173088,
+      "name": "Sutești"
+    },
+    {
+      "id": 173089,
+      "name": "Tetoiu"
+    },
+    {
+      "id": 173090,
+      "name": "Titești"
+    },
+    {
+      "id": 173091,
+      "name": "Tomşani"
+    },
+    {
+      "id": 173092,
+      "name": "Turcești"
+    },
+    {
+      "id": 173093,
+      "name": "Urși"
+    },
+    {
+      "id": 173094,
+      "name": "Vaideeni"
+    },
+    {
+      "id": 173095,
+      "name": "Valea Mare"
+    },
+    {
+      "id": 173096,
+      "name": "Vlădeşti"
+    },
+    {
+      "id": 173097,
+      "name": "Voiceşti"
+    },
+    {
+      "id": 173098,
+      "name": "Voineasa"
+    },
+    {
+      "id": 173099,
+      "name": "Zătreni"
+    },
+    {
+      "id": 173100,
+      "name": "Zlătărei"
+    }
+  ]
+}

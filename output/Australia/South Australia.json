@@ -1,0 +1,1803 @@
+{
+  "id": 2819,
+  "name": "South Australia",
+  "state_code": "SA",
+  "cities": [
+    {
+      "id": 76383,
+      "name": "Aberfoyle Park"
+    },
+    {
+      "id": 76384,
+      "name": "Adelaide"
+    },
+    {
+      "id": 76385,
+      "name": "Adelaide city centre"
+    },
+    {
+      "id": 76386,
+      "name": "Adelaide Hills"
+    },
+    {
+      "id": 76387,
+      "name": "Albert Park"
+    },
+    {
+      "id": 76388,
+      "name": "Alberton"
+    },
+    {
+      "id": 76389,
+      "name": "Aldgate"
+    },
+    {
+      "id": 76390,
+      "name": "Aldinga Beach"
+    },
+    {
+      "id": 76391,
+      "name": "Alexandrina"
+    },
+    {
+      "id": 76392,
+      "name": "Allenby Gardens"
+    },
+    {
+      "id": 76393,
+      "name": "Anangu Pitjantjatjara"
+    },
+    {
+      "id": 76394,
+      "name": "Andrews Farm"
+    },
+    {
+      "id": 76395,
+      "name": "Angaston"
+    },
+    {
+      "id": 76396,
+      "name": "Angle Park"
+    },
+    {
+      "id": 76397,
+      "name": "Angle Vale"
+    },
+    {
+      "id": 76398,
+      "name": "Ardrossan"
+    },
+    {
+      "id": 76399,
+      "name": "Ascot Park"
+    },
+    {
+      "id": 76400,
+      "name": "Ashford"
+    },
+    {
+      "id": 76401,
+      "name": "Athelstone"
+    },
+    {
+      "id": 76402,
+      "name": "Athol Park"
+    },
+    {
+      "id": 76403,
+      "name": "Balaklava"
+    },
+    {
+      "id": 76404,
+      "name": "Balhannah"
+    },
+    {
+      "id": 76405,
+      "name": "Banksia Park"
+    },
+    {
+      "id": 76406,
+      "name": "Barmera"
+    },
+    {
+      "id": 76407,
+      "name": "Barossa"
+    },
+    {
+      "id": 76408,
+      "name": "Barunga West"
+    },
+    {
+      "id": 76409,
+      "name": "Beaumont"
+    },
+    {
+      "id": 76410,
+      "name": "Bedford Park"
+    },
+    {
+      "id": 76411,
+      "name": "Belair"
+    },
+    {
+      "id": 76412,
+      "name": "Bellevue Heights"
+    },
+    {
+      "id": 76413,
+      "name": "Berri"
+    },
+    {
+      "id": 76414,
+      "name": "Berri and Barmera"
+    },
+    {
+      "id": 76415,
+      "name": "Beulah Park"
+    },
+    {
+      "id": 76416,
+      "name": "Beverley"
+    },
+    {
+      "id": 76417,
+      "name": "Birdwood"
+    },
+    {
+      "id": 76418,
+      "name": "Birkenhead"
+    },
+    {
+      "id": 76419,
+      "name": "Black Forest"
+    },
+    {
+      "id": 76420,
+      "name": "Blackwood"
+    },
+    {
+      "id": 76421,
+      "name": "Blair Athol"
+    },
+    {
+      "id": 76422,
+      "name": "Blakeview"
+    },
+    {
+      "id": 76423,
+      "name": "Bordertown"
+    },
+    {
+      "id": 76424,
+      "name": "Brahma Lodge"
+    },
+    {
+      "id": 76425,
+      "name": "Bridgewater"
+    },
+    {
+      "id": 76426,
+      "name": "Brighton"
+    },
+    {
+      "id": 76427,
+      "name": "Broadview"
+    },
+    {
+      "id": 76428,
+      "name": "Brompton"
+    },
+    {
+      "id": 76429,
+      "name": "Brooklyn Park"
+    },
+    {
+      "id": 76430,
+      "name": "Burnside"
+    },
+    {
+      "id": 76431,
+      "name": "Burra"
+    },
+    {
+      "id": 76432,
+      "name": "Burton"
+    },
+    {
+      "id": 76433,
+      "name": "Camden Park"
+    },
+    {
+      "id": 76434,
+      "name": "Campbelltown"
+    },
+    {
+      "id": 76435,
+      "name": "Ceduna"
+    },
+    {
+      "id": 76436,
+      "name": "Charles Sturt"
+    },
+    {
+      "id": 76437,
+      "name": "Cheltenham"
+    },
+    {
+      "id": 76438,
+      "name": "Christie Downs"
+    },
+    {
+      "id": 76439,
+      "name": "Christies Beach"
+    },
+    {
+      "id": 76440,
+      "name": "City of West Torrens"
+    },
+    {
+      "id": 76441,
+      "name": "Clapham"
+    },
+    {
+      "id": 76442,
+      "name": "Clare"
+    },
+    {
+      "id": 76443,
+      "name": "Clare and Gilbert Valleys"
+    },
+    {
+      "id": 76444,
+      "name": "Clarence Gardens"
+    },
+    {
+      "id": 76445,
+      "name": "Clarence Park"
+    },
+    {
+      "id": 76446,
+      "name": "Clearview"
+    },
+    {
+      "id": 76447,
+      "name": "Cleve"
+    },
+    {
+      "id": 76448,
+      "name": "Clovelly Park"
+    },
+    {
+      "id": 76449,
+      "name": "Collinswood"
+    },
+    {
+      "id": 76450,
+      "name": "Colonel Light Gardens"
+    },
+    {
+      "id": 76451,
+      "name": "Coober Pedy"
+    },
+    {
+      "id": 76452,
+      "name": "Copper Coast"
+    },
+    {
+      "id": 76453,
+      "name": "Coromandel Valley"
+    },
+    {
+      "id": 76454,
+      "name": "Cowandilla"
+    },
+    {
+      "id": 76455,
+      "name": "Cowell"
+    },
+    {
+      "id": 76456,
+      "name": "Crafers"
+    },
+    {
+      "id": 76457,
+      "name": "Crafers West"
+    },
+    {
+      "id": 76458,
+      "name": "Craigburn Farm"
+    },
+    {
+      "id": 76459,
+      "name": "Craigmore"
+    },
+    {
+      "id": 76460,
+      "name": "Croydon Park"
+    },
+    {
+      "id": 76461,
+      "name": "Crystal Brook"
+    },
+    {
+      "id": 76462,
+      "name": "Cumberland Park"
+    },
+    {
+      "id": 76463,
+      "name": "Darlington"
+    },
+    {
+      "id": 76464,
+      "name": "Davoren Park"
+    },
+    {
+      "id": 76465,
+      "name": "Daw Park"
+    },
+    {
+      "id": 76466,
+      "name": "Dernancourt"
+    },
+    {
+      "id": 76467,
+      "name": "Dover Gardens"
+    },
+    {
+      "id": 76468,
+      "name": "Dulwich"
+    },
+    {
+      "id": 76469,
+      "name": "Echunga"
+    },
+    {
+      "id": 76470,
+      "name": "Eden Hills"
+    },
+    {
+      "id": 76471,
+      "name": "Edwardstown"
+    },
+    {
+      "id": 76472,
+      "name": "Elizabeth Downs"
+    },
+    {
+      "id": 76473,
+      "name": "Elizabeth East"
+    },
+    {
+      "id": 76474,
+      "name": "Elizabeth Grove"
+    },
+    {
+      "id": 76475,
+      "name": "Elizabeth North"
+    },
+    {
+      "id": 76476,
+      "name": "Elizabeth Park"
+    },
+    {
+      "id": 76477,
+      "name": "Elizabeth South"
+    },
+    {
+      "id": 76478,
+      "name": "Elizabeth Vale"
+    },
+    {
+      "id": 76479,
+      "name": "Elliston"
+    },
+    {
+      "id": 76480,
+      "name": "Encounter Bay"
+    },
+    {
+      "id": 76481,
+      "name": "Enfield"
+    },
+    {
+      "id": 76482,
+      "name": "Erindale"
+    },
+    {
+      "id": 76483,
+      "name": "Ethelton"
+    },
+    {
+      "id": 76484,
+      "name": "Evandale"
+    },
+    {
+      "id": 76485,
+      "name": "Evanston"
+    },
+    {
+      "id": 76486,
+      "name": "Evanston Gardens"
+    },
+    {
+      "id": 76487,
+      "name": "Evanston Park"
+    },
+    {
+      "id": 76488,
+      "name": "Everard Park"
+    },
+    {
+      "id": 76489,
+      "name": "Exeter"
+    },
+    {
+      "id": 76490,
+      "name": "Fairview Park"
+    },
+    {
+      "id": 76491,
+      "name": "Felixstow"
+    },
+    {
+      "id": 76492,
+      "name": "Ferryden Park"
+    },
+    {
+      "id": 76493,
+      "name": "Findon"
+    },
+    {
+      "id": 76494,
+      "name": "Firle"
+    },
+    {
+      "id": 76495,
+      "name": "Flagstaff Hill"
+    },
+    {
+      "id": 76496,
+      "name": "Flinders Park"
+    },
+    {
+      "id": 76497,
+      "name": "Flinders Ranges"
+    },
+    {
+      "id": 76498,
+      "name": "Forestville"
+    },
+    {
+      "id": 76499,
+      "name": "Franklin Harbour"
+    },
+    {
+      "id": 76500,
+      "name": "Freeling"
+    },
+    {
+      "id": 76501,
+      "name": "Fulham"
+    },
+    {
+      "id": 76502,
+      "name": "Fulham Gardens"
+    },
+    {
+      "id": 76503,
+      "name": "Fullarton"
+    },
+    {
+      "id": 76504,
+      "name": "Gawler"
+    },
+    {
+      "id": 76505,
+      "name": "Gawler East"
+    },
+    {
+      "id": 76506,
+      "name": "Gawler South"
+    },
+    {
+      "id": 76507,
+      "name": "Gilberton"
+    },
+    {
+      "id": 76508,
+      "name": "Gilles Plains"
+    },
+    {
+      "id": 76509,
+      "name": "Glandore"
+    },
+    {
+      "id": 76510,
+      "name": "Glen Osmond"
+    },
+    {
+      "id": 76511,
+      "name": "Glenalta"
+    },
+    {
+      "id": 76512,
+      "name": "Glenelg"
+    },
+    {
+      "id": 76513,
+      "name": "Glenelg East"
+    },
+    {
+      "id": 76514,
+      "name": "Glenelg North"
+    },
+    {
+      "id": 76515,
+      "name": "Glenelg South"
+    },
+    {
+      "id": 76516,
+      "name": "Glengowrie"
+    },
+    {
+      "id": 76517,
+      "name": "Glenside"
+    },
+    {
+      "id": 76518,
+      "name": "Glenunga"
+    },
+    {
+      "id": 76519,
+      "name": "Glynde"
+    },
+    {
+      "id": 76520,
+      "name": "Golden Grove"
+    },
+    {
+      "id": 76521,
+      "name": "Goodwood"
+    },
+    {
+      "id": 76522,
+      "name": "Goolwa"
+    },
+    {
+      "id": 76523,
+      "name": "Goolwa Beach"
+    },
+    {
+      "id": 76524,
+      "name": "Goyder"
+    },
+    {
+      "id": 76525,
+      "name": "Grange"
+    },
+    {
+      "id": 76526,
+      "name": "Grant"
+    },
+    {
+      "id": 76527,
+      "name": "Greenacres"
+    },
+    {
+      "id": 76528,
+      "name": "Greenock"
+    },
+    {
+      "id": 76529,
+      "name": "Greenwith"
+    },
+    {
+      "id": 76530,
+      "name": "Gulfview Heights"
+    },
+    {
+      "id": 76531,
+      "name": "Hackham"
+    },
+    {
+      "id": 76532,
+      "name": "Hackham West"
+    },
+    {
+      "id": 76533,
+      "name": "Hahndorf"
+    },
+    {
+      "id": 76534,
+      "name": "Hallett Cove"
+    },
+    {
+      "id": 76535,
+      "name": "Hampstead Gardens"
+    },
+    {
+      "id": 76536,
+      "name": "Happy Valley"
+    },
+    {
+      "id": 76537,
+      "name": "Hawthorn"
+    },
+    {
+      "id": 76538,
+      "name": "Hawthorndene"
+    },
+    {
+      "id": 76539,
+      "name": "Hayborough"
+    },
+    {
+      "id": 76540,
+      "name": "Hazelwood Park"
+    },
+    {
+      "id": 76541,
+      "name": "Hectorville"
+    },
+    {
+      "id": 76542,
+      "name": "Henley Beach"
+    },
+    {
+      "id": 76543,
+      "name": "Henley Beach South"
+    },
+    {
+      "id": 76544,
+      "name": "Hewett"
+    },
+    {
+      "id": 76545,
+      "name": "Highbury"
+    },
+    {
+      "id": 76546,
+      "name": "Highgate"
+    },
+    {
+      "id": 76547,
+      "name": "Hillbank"
+    },
+    {
+      "id": 76548,
+      "name": "Hillcrest"
+    },
+    {
+      "id": 76549,
+      "name": "Hindmarsh Island"
+    },
+    {
+      "id": 76550,
+      "name": "Holden Hill"
+    },
+    {
+      "id": 76551,
+      "name": "Holdfast Bay"
+    },
+    {
+      "id": 76552,
+      "name": "Hope Valley"
+    },
+    {
+      "id": 76553,
+      "name": "Hove"
+    },
+    {
+      "id": 76554,
+      "name": "Huntfield Heights"
+    },
+    {
+      "id": 76555,
+      "name": "Hyde Park"
+    },
+    {
+      "id": 76556,
+      "name": "Ingle Farm"
+    },
+    {
+      "id": 76557,
+      "name": "Jamestown"
+    },
+    {
+      "id": 76558,
+      "name": "Joslin"
+    },
+    {
+      "id": 76559,
+      "name": "Kadina"
+    },
+    {
+      "id": 76560,
+      "name": "Kangaroo Island"
+    },
+    {
+      "id": 76561,
+      "name": "Kapunda"
+    },
+    {
+      "id": 76562,
+      "name": "Karoonda East Murray"
+    },
+    {
+      "id": 76563,
+      "name": "Keith"
+    },
+    {
+      "id": 76564,
+      "name": "Kensington Gardens"
+    },
+    {
+      "id": 76565,
+      "name": "Kensington Park"
+    },
+    {
+      "id": 76566,
+      "name": "Kent Town"
+    },
+    {
+      "id": 76567,
+      "name": "Kersbrook"
+    },
+    {
+      "id": 76568,
+      "name": "Kidman Park"
+    },
+    {
+      "id": 76569,
+      "name": "Kilburn"
+    },
+    {
+      "id": 76570,
+      "name": "Kilkenny"
+    },
+    {
+      "id": 76571,
+      "name": "Kimba"
+    },
+    {
+      "id": 76572,
+      "name": "Kingscote"
+    },
+    {
+      "id": 76573,
+      "name": "Kingston"
+    },
+    {
+      "id": 76574,
+      "name": "Kingston South East"
+    },
+    {
+      "id": 76575,
+      "name": "Klemzig"
+    },
+    {
+      "id": 76576,
+      "name": "Kurralta Park"
+    },
+    {
+      "id": 76577,
+      "name": "Largs Bay"
+    },
+    {
+      "id": 76578,
+      "name": "Largs North"
+    },
+    {
+      "id": 76579,
+      "name": "Leabrook"
+    },
+    {
+      "id": 76580,
+      "name": "Lewiston"
+    },
+    {
+      "id": 76581,
+      "name": "Light"
+    },
+    {
+      "id": 76582,
+      "name": "Linden Park"
+    },
+    {
+      "id": 76583,
+      "name": "Little Hampton"
+    },
+    {
+      "id": 76584,
+      "name": "Lobethal"
+    },
+    {
+      "id": 76585,
+      "name": "Lockleys"
+    },
+    {
+      "id": 76586,
+      "name": "Lower Eyre Peninsula"
+    },
+    {
+      "id": 76587,
+      "name": "Lower Mitcham"
+    },
+    {
+      "id": 76588,
+      "name": "Loxton"
+    },
+    {
+      "id": 76589,
+      "name": "Loxton Waikerie"
+    },
+    {
+      "id": 76590,
+      "name": "Lyndoch"
+    },
+    {
+      "id": 76591,
+      "name": "Macclesfield"
+    },
+    {
+      "id": 76592,
+      "name": "Magill"
+    },
+    {
+      "id": 76593,
+      "name": "Maitland"
+    },
+    {
+      "id": 76594,
+      "name": "Mallala"
+    },
+    {
+      "id": 76595,
+      "name": "Malvern"
+    },
+    {
+      "id": 76596,
+      "name": "Manningham"
+    },
+    {
+      "id": 76597,
+      "name": "Mannum"
+    },
+    {
+      "id": 76598,
+      "name": "Mansfield Park"
+    },
+    {
+      "id": 76599,
+      "name": "Maralinga Tjarutja"
+    },
+    {
+      "id": 76600,
+      "name": "Marden"
+    },
+    {
+      "id": 76601,
+      "name": "Marino"
+    },
+    {
+      "id": 76602,
+      "name": "Marion"
+    },
+    {
+      "id": 76603,
+      "name": "Marleston"
+    },
+    {
+      "id": 76604,
+      "name": "Maslin Beach"
+    },
+    {
+      "id": 76605,
+      "name": "Mawson Lakes"
+    },
+    {
+      "id": 76606,
+      "name": "Maylands"
+    },
+    {
+      "id": 76607,
+      "name": "McCracken"
+    },
+    {
+      "id": 76608,
+      "name": "McLaren Flat"
+    },
+    {
+      "id": 76609,
+      "name": "McLaren Vale"
+    },
+    {
+      "id": 76610,
+      "name": "Meadows"
+    },
+    {
+      "id": 76611,
+      "name": "Medindie"
+    },
+    {
+      "id": 76612,
+      "name": "Melrose Park"
+    },
+    {
+      "id": 76613,
+      "name": "Meningie"
+    },
+    {
+      "id": 76614,
+      "name": "Mid Murray"
+    },
+    {
+      "id": 76615,
+      "name": "Middleton"
+    },
+    {
+      "id": 76616,
+      "name": "Mile End"
+    },
+    {
+      "id": 76617,
+      "name": "Millicent"
+    },
+    {
+      "id": 76618,
+      "name": "Millswood"
+    },
+    {
+      "id": 76619,
+      "name": "Minlaton"
+    },
+    {
+      "id": 76620,
+      "name": "Mitcham"
+    },
+    {
+      "id": 76621,
+      "name": "Mitchell Park"
+    },
+    {
+      "id": 76622,
+      "name": "Moana"
+    },
+    {
+      "id": 76623,
+      "name": "Modbury"
+    },
+    {
+      "id": 76624,
+      "name": "Modbury Heights"
+    },
+    {
+      "id": 76625,
+      "name": "Modbury North"
+    },
+    {
+      "id": 76626,
+      "name": "Monash"
+    },
+    {
+      "id": 76627,
+      "name": "Moonta Bay"
+    },
+    {
+      "id": 76628,
+      "name": "Moorak"
+    },
+    {
+      "id": 76629,
+      "name": "Morphett Vale"
+    },
+    {
+      "id": 76630,
+      "name": "Morphettville"
+    },
+    {
+      "id": 76631,
+      "name": "Mount Barker"
+    },
+    {
+      "id": 76632,
+      "name": "Mount Compass"
+    },
+    {
+      "id": 76633,
+      "name": "Mount Gambier"
+    },
+    {
+      "id": 76634,
+      "name": "Mount Remarkable"
+    },
+    {
+      "id": 76635,
+      "name": "Munno Para"
+    },
+    {
+      "id": 76636,
+      "name": "Munno Para West"
+    },
+    {
+      "id": 76637,
+      "name": "Murray Bridge"
+    },
+    {
+      "id": 76638,
+      "name": "Mylor"
+    },
+    {
+      "id": 76639,
+      "name": "Myrtle Bank"
+    },
+    {
+      "id": 76640,
+      "name": "Nailsworth"
+    },
+    {
+      "id": 76641,
+      "name": "Nairne"
+    },
+    {
+      "id": 76642,
+      "name": "Naracoorte"
+    },
+    {
+      "id": 76643,
+      "name": "Naracoorte and Lucindale"
+    },
+    {
+      "id": 76644,
+      "name": "Netherby"
+    },
+    {
+      "id": 76645,
+      "name": "Netley"
+    },
+    {
+      "id": 76646,
+      "name": "Newton"
+    },
+    {
+      "id": 76647,
+      "name": "Noarlunga Downs"
+    },
+    {
+      "id": 76648,
+      "name": "Normanville"
+    },
+    {
+      "id": 76649,
+      "name": "North Adelaide"
+    },
+    {
+      "id": 76650,
+      "name": "North Brighton"
+    },
+    {
+      "id": 76651,
+      "name": "North Haven"
+    },
+    {
+      "id": 76652,
+      "name": "North Plympton"
+    },
+    {
+      "id": 76653,
+      "name": "Northern Areas"
+    },
+    {
+      "id": 76654,
+      "name": "Northfield"
+    },
+    {
+      "id": 76655,
+      "name": "Northgate"
+    },
+    {
+      "id": 76656,
+      "name": "Norwood"
+    },
+    {
+      "id": 76657,
+      "name": "Norwood Payneham St Peters"
+    },
+    {
+      "id": 76658,
+      "name": "Novar Gardens"
+    },
+    {
+      "id": 76659,
+      "name": "Nuriootpa"
+    },
+    {
+      "id": 76660,
+      "name": "O'Sullivan Beach"
+    },
+    {
+      "id": 76661,
+      "name": "O’Halloran Hill"
+    },
+    {
+      "id": 76662,
+      "name": "Oakden"
+    },
+    {
+      "id": 76663,
+      "name": "Oaklands Park"
+    },
+    {
+      "id": 76664,
+      "name": "Old Noarlunga"
+    },
+    {
+      "id": 76665,
+      "name": "Old Reynella"
+    },
+    {
+      "id": 76666,
+      "name": "One Tree Hill"
+    },
+    {
+      "id": 76667,
+      "name": "Onkaparinga"
+    },
+    {
+      "id": 76668,
+      "name": "Onkaparinga Hills"
+    },
+    {
+      "id": 76669,
+      "name": "Orroroo/Carrieton"
+    },
+    {
+      "id": 76670,
+      "name": "Osborne"
+    },
+    {
+      "id": 76671,
+      "name": "Ottoway"
+    },
+    {
+      "id": 76672,
+      "name": "Panorama"
+    },
+    {
+      "id": 76673,
+      "name": "Para Hills"
+    },
+    {
+      "id": 76674,
+      "name": "Para Hills West"
+    },
+    {
+      "id": 76675,
+      "name": "Para Vista"
+    },
+    {
+      "id": 76676,
+      "name": "Paradise"
+    },
+    {
+      "id": 76677,
+      "name": "Parafield Gardens"
+    },
+    {
+      "id": 76678,
+      "name": "Paralowie"
+    },
+    {
+      "id": 76679,
+      "name": "Paringa"
+    },
+    {
+      "id": 76680,
+      "name": "Park Holme"
+    },
+    {
+      "id": 76681,
+      "name": "Parkside"
+    },
+    {
+      "id": 76682,
+      "name": "Pasadena"
+    },
+    {
+      "id": 76683,
+      "name": "Payneham"
+    },
+    {
+      "id": 76684,
+      "name": "Payneham South"
+    },
+    {
+      "id": 76685,
+      "name": "Pennington"
+    },
+    {
+      "id": 76686,
+      "name": "Penola"
+    },
+    {
+      "id": 76687,
+      "name": "Peterborough"
+    },
+    {
+      "id": 76688,
+      "name": "Peterhead"
+    },
+    {
+      "id": 76689,
+      "name": "Playford"
+    },
+    {
+      "id": 76690,
+      "name": "Plympton"
+    },
+    {
+      "id": 76691,
+      "name": "Plympton Park"
+    },
+    {
+      "id": 76692,
+      "name": "Pooraka"
+    },
+    {
+      "id": 76693,
+      "name": "Port Adelaide"
+    },
+    {
+      "id": 76694,
+      "name": "Port Adelaide Enfield"
+    },
+    {
+      "id": 76695,
+      "name": "Port Augusta"
+    },
+    {
+      "id": 76696,
+      "name": "Port Augusta West"
+    },
+    {
+      "id": 76697,
+      "name": "Port Broughton"
+    },
+    {
+      "id": 76698,
+      "name": "Port Elliot"
+    },
+    {
+      "id": 76699,
+      "name": "Port Lincoln"
+    },
+    {
+      "id": 76700,
+      "name": "Port Noarlunga"
+    },
+    {
+      "id": 76701,
+      "name": "Port Noarlunga South"
+    },
+    {
+      "id": 76702,
+      "name": "Port Pirie"
+    },
+    {
+      "id": 76703,
+      "name": "Port Pirie City and Dists"
+    },
+    {
+      "id": 76704,
+      "name": "Port Pirie South"
+    },
+    {
+      "id": 76705,
+      "name": "Port Pirie West"
+    },
+    {
+      "id": 76706,
+      "name": "Port Willunga"
+    },
+    {
+      "id": 76707,
+      "name": "Prospect"
+    },
+    {
+      "id": 76708,
+      "name": "Queenstown"
+    },
+    {
+      "id": 76709,
+      "name": "Quorn"
+    },
+    {
+      "id": 76710,
+      "name": "Redwood Park"
+    },
+    {
+      "id": 76711,
+      "name": "Renmark"
+    },
+    {
+      "id": 76712,
+      "name": "Renmark Paringa"
+    },
+    {
+      "id": 76713,
+      "name": "Renmark West"
+    },
+    {
+      "id": 76714,
+      "name": "Renown Park"
+    },
+    {
+      "id": 76715,
+      "name": "Reynella"
+    },
+    {
+      "id": 76716,
+      "name": "Reynella East"
+    },
+    {
+      "id": 76717,
+      "name": "Richmond"
+    },
+    {
+      "id": 76718,
+      "name": "Ridgehaven"
+    },
+    {
+      "id": 76719,
+      "name": "Ridleyton"
+    },
+    {
+      "id": 76720,
+      "name": "Risdon Park"
+    },
+    {
+      "id": 76721,
+      "name": "Risdon Park South"
+    },
+    {
+      "id": 76722,
+      "name": "Robe"
+    },
+    {
+      "id": 76723,
+      "name": "Rose Park"
+    },
+    {
+      "id": 76724,
+      "name": "Rosewater"
+    },
+    {
+      "id": 76725,
+      "name": "Rosslyn Park"
+    },
+    {
+      "id": 76726,
+      "name": "Rostrevor"
+    },
+    {
+      "id": 76727,
+      "name": "Roxby Downs"
+    },
+    {
+      "id": 76728,
+      "name": "Royal Park"
+    },
+    {
+      "id": 76729,
+      "name": "Royston Park"
+    },
+    {
+      "id": 76730,
+      "name": "Salisbury"
+    },
+    {
+      "id": 76731,
+      "name": "Salisbury Downs"
+    },
+    {
+      "id": 76732,
+      "name": "Salisbury East"
+    },
+    {
+      "id": 76733,
+      "name": "Salisbury Heights"
+    },
+    {
+      "id": 76734,
+      "name": "Salisbury North"
+    },
+    {
+      "id": 76735,
+      "name": "Salisbury Park"
+    },
+    {
+      "id": 76736,
+      "name": "Salisbury Plain"
+    },
+    {
+      "id": 76737,
+      "name": "Seacliff"
+    },
+    {
+      "id": 76738,
+      "name": "Seacliff Park"
+    },
+    {
+      "id": 76739,
+      "name": "Seacombe Gardens"
+    },
+    {
+      "id": 76740,
+      "name": "Seacombe Heights"
+    },
+    {
+      "id": 76741,
+      "name": "Seaford"
+    },
+    {
+      "id": 76742,
+      "name": "Seaford Meadows"
+    },
+    {
+      "id": 76743,
+      "name": "Seaford Rise"
+    },
+    {
+      "id": 76744,
+      "name": "Seaton"
+    },
+    {
+      "id": 76745,
+      "name": "Seaview Downs"
+    },
+    {
+      "id": 76746,
+      "name": "Sefton Park"
+    },
+    {
+      "id": 76747,
+      "name": "Sellicks Beach"
+    },
+    {
+      "id": 76748,
+      "name": "Semaphore"
+    },
+    {
+      "id": 76749,
+      "name": "Semaphore Park"
+    },
+    {
+      "id": 76750,
+      "name": "Semaphore South"
+    },
+    {
+      "id": 76751,
+      "name": "Sheidow Park"
+    },
+    {
+      "id": 76752,
+      "name": "Smithfield"
+    },
+    {
+      "id": 76753,
+      "name": "Smithfield Plains"
+    },
+    {
+      "id": 76754,
+      "name": "Solomontown"
+    },
+    {
+      "id": 76755,
+      "name": "Somerton Park"
+    },
+    {
+      "id": 76756,
+      "name": "South Brighton"
+    },
+    {
+      "id": 76757,
+      "name": "South Plympton"
+    },
+    {
+      "id": 76758,
+      "name": "Southern Mallee"
+    },
+    {
+      "id": 76759,
+      "name": "St Agnes"
+    },
+    {
+      "id": 76760,
+      "name": "St Georges"
+    },
+    {
+      "id": 76761,
+      "name": "St Marys"
+    },
+    {
+      "id": 76762,
+      "name": "St Morris"
+    },
+    {
+      "id": 76763,
+      "name": "St Peters"
+    },
+    {
+      "id": 76764,
+      "name": "Stirling"
+    },
+    {
+      "id": 76765,
+      "name": "Stirling North"
+    },
+    {
+      "id": 76766,
+      "name": "Stonyfell"
+    },
+    {
+      "id": 76767,
+      "name": "Strathalbyn"
+    },
+    {
+      "id": 76768,
+      "name": "Streaky Bay"
+    },
+    {
+      "id": 76769,
+      "name": "Sturt"
+    },
+    {
+      "id": 76770,
+      "name": "Surrey Downs"
+    },
+    {
+      "id": 76771,
+      "name": "Tailem Bend"
+    },
+    {
+      "id": 76772,
+      "name": "Tanunda"
+    },
+    {
+      "id": 76773,
+      "name": "Taperoo"
+    },
+    {
+      "id": 76774,
+      "name": "Tatiara"
+    },
+    {
+      "id": 76775,
+      "name": "Tea Tree Gully"
+    },
+    {
+      "id": 76776,
+      "name": "Tennyson"
+    },
+    {
+      "id": 76777,
+      "name": "The Coorong"
+    },
+    {
+      "id": 76778,
+      "name": "Thebarton"
+    },
+    {
+      "id": 76779,
+      "name": "Toorak Gardens"
+    },
+    {
+      "id": 76780,
+      "name": "Torrens Park"
+    },
+    {
+      "id": 76781,
+      "name": "Torrensville"
+    },
+    {
+      "id": 76782,
+      "name": "Tranmere"
+    },
+    {
+      "id": 76783,
+      "name": "Trinity Gardens"
+    },
+    {
+      "id": 76784,
+      "name": "Trott Park"
+    },
+    {
+      "id": 76785,
+      "name": "Tumby Bay"
+    },
+    {
+      "id": 76786,
+      "name": "Tusmore"
+    },
+    {
+      "id": 76787,
+      "name": "Two Wells"
+    },
+    {
+      "id": 76788,
+      "name": "Underdale"
+    },
+    {
+      "id": 76789,
+      "name": "Unley"
+    },
+    {
+      "id": 76790,
+      "name": "Unley Park"
+    },
+    {
+      "id": 76791,
+      "name": "Vale Park"
+    },
+    {
+      "id": 76792,
+      "name": "Valley View"
+    },
+    {
+      "id": 76793,
+      "name": "Victor Harbor"
+    },
+    {
+      "id": 76794,
+      "name": "Virginia"
+    },
+    {
+      "id": 76795,
+      "name": "Waikerie"
+    },
+    {
+      "id": 76796,
+      "name": "Wakefield"
+    },
+    {
+      "id": 76797,
+      "name": "Walkerville"
+    },
+    {
+      "id": 76798,
+      "name": "Walkley Heights"
+    },
+    {
+      "id": 76799,
+      "name": "Wallaroo"
+    },
+    {
+      "id": 76800,
+      "name": "Warradale"
+    },
+    {
+      "id": 76801,
+      "name": "Waterloo Corner"
+    },
+    {
+      "id": 76802,
+      "name": "Wattle Park"
+    },
+    {
+      "id": 76803,
+      "name": "Wattle Range"
+    },
+    {
+      "id": 76804,
+      "name": "Wayville"
+    },
+    {
+      "id": 76805,
+      "name": "West Beach"
+    },
+    {
+      "id": 76806,
+      "name": "West Croydon"
+    },
+    {
+      "id": 76807,
+      "name": "West Hindmarsh"
+    },
+    {
+      "id": 76808,
+      "name": "West Lakes"
+    },
+    {
+      "id": 76809,
+      "name": "West Lakes Shore"
+    },
+    {
+      "id": 76810,
+      "name": "Westbourne Park"
+    },
+    {
+      "id": 76811,
+      "name": "Whyalla"
+    },
+    {
+      "id": 76812,
+      "name": "Whyalla Jenkins"
+    },
+    {
+      "id": 76813,
+      "name": "Whyalla Norrie"
+    },
+    {
+      "id": 76814,
+      "name": "Whyalla Playford"
+    },
+    {
+      "id": 76815,
+      "name": "Whyalla Stuart"
+    },
+    {
+      "id": 76816,
+      "name": "Willaston"
+    },
+    {
+      "id": 76817,
+      "name": "Williamstown"
+    },
+    {
+      "id": 76818,
+      "name": "Willunga"
+    },
+    {
+      "id": 76819,
+      "name": "Windsor Gardens"
+    },
+    {
+      "id": 76820,
+      "name": "Woodcroft"
+    },
+    {
+      "id": 76821,
+      "name": "Woodside"
+    },
+    {
+      "id": 76822,
+      "name": "Woodville"
+    },
+    {
+      "id": 76823,
+      "name": "Woodville Gardens"
+    },
+    {
+      "id": 76824,
+      "name": "Woodville North"
+    },
+    {
+      "id": 76825,
+      "name": "Woodville Park"
+    },
+    {
+      "id": 76826,
+      "name": "Woodville South"
+    },
+    {
+      "id": 76827,
+      "name": "Woodville West"
+    },
+    {
+      "id": 76828,
+      "name": "Wudinna"
+    },
+    {
+      "id": 76829,
+      "name": "Wynn Vale"
+    },
+    {
+      "id": 76830,
+      "name": "Yankalilla"
+    },
+    {
+      "id": 76831,
+      "name": "Yorke Peninsula"
+    }
+  ]
+}

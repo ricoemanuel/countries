@@ -1,0 +1,755 @@
+{
+  "id": 3038,
+  "name": "Ceará",
+  "state_code": "CE",
+  "cities": [
+    {
+      "id": 83015,
+      "name": "Abaiara"
+    },
+    {
+      "id": 83016,
+      "name": "Acarape"
+    },
+    {
+      "id": 83017,
+      "name": "Acaraú"
+    },
+    {
+      "id": 83018,
+      "name": "Acopiara"
+    },
+    {
+      "id": 83019,
+      "name": "Aiuaba"
+    },
+    {
+      "id": 83020,
+      "name": "Alcântaras"
+    },
+    {
+      "id": 83021,
+      "name": "Altaneira"
+    },
+    {
+      "id": 83022,
+      "name": "Alto Santo"
+    },
+    {
+      "id": 83023,
+      "name": "Amontada"
+    },
+    {
+      "id": 83024,
+      "name": "Antonina do Norte"
+    },
+    {
+      "id": 83025,
+      "name": "Apuiarés"
+    },
+    {
+      "id": 83026,
+      "name": "Aquiraz"
+    },
+    {
+      "id": 83027,
+      "name": "Aracati"
+    },
+    {
+      "id": 83028,
+      "name": "Aracoiaba"
+    },
+    {
+      "id": 83029,
+      "name": "Ararendá"
+    },
+    {
+      "id": 83030,
+      "name": "Araripe"
+    },
+    {
+      "id": 83031,
+      "name": "Aratuba"
+    },
+    {
+      "id": 83032,
+      "name": "Arneiroz"
+    },
+    {
+      "id": 83033,
+      "name": "Assaré"
+    },
+    {
+      "id": 83034,
+      "name": "Aurora"
+    },
+    {
+      "id": 83035,
+      "name": "Baixio"
+    },
+    {
+      "id": 83036,
+      "name": "Banabuiú"
+    },
+    {
+      "id": 83037,
+      "name": "Barbalha"
+    },
+    {
+      "id": 83038,
+      "name": "Barreira"
+    },
+    {
+      "id": 83039,
+      "name": "Barro"
+    },
+    {
+      "id": 83040,
+      "name": "Barroquinha"
+    },
+    {
+      "id": 83041,
+      "name": "Baturité"
+    },
+    {
+      "id": 83042,
+      "name": "Beberibe"
+    },
+    {
+      "id": 83043,
+      "name": "Bela Cruz"
+    },
+    {
+      "id": 83044,
+      "name": "Boa Viagem"
+    },
+    {
+      "id": 83045,
+      "name": "Brejo Santo"
+    },
+    {
+      "id": 83046,
+      "name": "Camocim"
+    },
+    {
+      "id": 83047,
+      "name": "Campos Sales"
+    },
+    {
+      "id": 83048,
+      "name": "Canindé"
+    },
+    {
+      "id": 83049,
+      "name": "Capistrano"
+    },
+    {
+      "id": 83050,
+      "name": "Caridade"
+    },
+    {
+      "id": 83051,
+      "name": "Cariré"
+    },
+    {
+      "id": 83052,
+      "name": "Caririaçu"
+    },
+    {
+      "id": 83053,
+      "name": "Cariús"
+    },
+    {
+      "id": 83054,
+      "name": "Carnaubal"
+    },
+    {
+      "id": 83055,
+      "name": "Cascavel"
+    },
+    {
+      "id": 83056,
+      "name": "Catarina"
+    },
+    {
+      "id": 83057,
+      "name": "Catunda"
+    },
+    {
+      "id": 83058,
+      "name": "Caucaia"
+    },
+    {
+      "id": 83059,
+      "name": "Cedro"
+    },
+    {
+      "id": 83060,
+      "name": "Chaval"
+    },
+    {
+      "id": 83061,
+      "name": "Choró"
+    },
+    {
+      "id": 83062,
+      "name": "Chorozinho"
+    },
+    {
+      "id": 83063,
+      "name": "Coreaú"
+    },
+    {
+      "id": 83064,
+      "name": "Crateús"
+    },
+    {
+      "id": 83065,
+      "name": "Crato"
+    },
+    {
+      "id": 83066,
+      "name": "Croatá"
+    },
+    {
+      "id": 83067,
+      "name": "Cruz"
+    },
+    {
+      "id": 83068,
+      "name": "Deputado Irapuan Pinheiro"
+    },
+    {
+      "id": 83069,
+      "name": "Ererê"
+    },
+    {
+      "id": 83070,
+      "name": "Eusébio"
+    },
+    {
+      "id": 83071,
+      "name": "Farias Brito"
+    },
+    {
+      "id": 83072,
+      "name": "Forquilha"
+    },
+    {
+      "id": 83073,
+      "name": "Fortaleza"
+    },
+    {
+      "id": 83074,
+      "name": "Fortim"
+    },
+    {
+      "id": 83075,
+      "name": "Frecheirinha"
+    },
+    {
+      "id": 83076,
+      "name": "General Sampaio"
+    },
+    {
+      "id": 83077,
+      "name": "Graça"
+    },
+    {
+      "id": 83078,
+      "name": "Granja"
+    },
+    {
+      "id": 83079,
+      "name": "Granjeiro"
+    },
+    {
+      "id": 83080,
+      "name": "Groaíras"
+    },
+    {
+      "id": 83081,
+      "name": "Guaiúba"
+    },
+    {
+      "id": 83082,
+      "name": "Guaraciaba do Norte"
+    },
+    {
+      "id": 83083,
+      "name": "Guaramiranga"
+    },
+    {
+      "id": 83084,
+      "name": "Hidrolândia"
+    },
+    {
+      "id": 83085,
+      "name": "Horizonte"
+    },
+    {
+      "id": 83086,
+      "name": "Ibaretama"
+    },
+    {
+      "id": 83087,
+      "name": "Ibiapina"
+    },
+    {
+      "id": 83088,
+      "name": "Ibicuitinga"
+    },
+    {
+      "id": 83089,
+      "name": "Icapuí"
+    },
+    {
+      "id": 83090,
+      "name": "Icó"
+    },
+    {
+      "id": 83091,
+      "name": "Iguatu"
+    },
+    {
+      "id": 83092,
+      "name": "Independência"
+    },
+    {
+      "id": 83093,
+      "name": "Ipaporanga"
+    },
+    {
+      "id": 83094,
+      "name": "Ipaumirim"
+    },
+    {
+      "id": 83095,
+      "name": "Ipu"
+    },
+    {
+      "id": 83096,
+      "name": "Ipueiras"
+    },
+    {
+      "id": 83097,
+      "name": "Iracema"
+    },
+    {
+      "id": 83098,
+      "name": "Irauçuba"
+    },
+    {
+      "id": 83099,
+      "name": "Itaiçaba"
+    },
+    {
+      "id": 83100,
+      "name": "Itaitinga"
+    },
+    {
+      "id": 83101,
+      "name": "Itapagé"
+    },
+    {
+      "id": 83102,
+      "name": "Itapajé"
+    },
+    {
+      "id": 83103,
+      "name": "Itapipoca"
+    },
+    {
+      "id": 83104,
+      "name": "Itapiúna"
+    },
+    {
+      "id": 83105,
+      "name": "Itarema"
+    },
+    {
+      "id": 83106,
+      "name": "Itatira"
+    },
+    {
+      "id": 83107,
+      "name": "Jaguaretama"
+    },
+    {
+      "id": 83108,
+      "name": "Jaguaribara"
+    },
+    {
+      "id": 83109,
+      "name": "Jaguaribe"
+    },
+    {
+      "id": 83110,
+      "name": "Jaguaruana"
+    },
+    {
+      "id": 83111,
+      "name": "Jardim"
+    },
+    {
+      "id": 83112,
+      "name": "Jati"
+    },
+    {
+      "id": 83113,
+      "name": "Jijoca de Jericoacoara"
+    },
+    {
+      "id": 83114,
+      "name": "Juá dos Vieiras"
+    },
+    {
+      "id": 83115,
+      "name": "Juazeiro do Norte"
+    },
+    {
+      "id": 83116,
+      "name": "Jucás"
+    },
+    {
+      "id": 83117,
+      "name": "Lavras da Mangabeira"
+    },
+    {
+      "id": 83118,
+      "name": "Limoeiro do Norte"
+    },
+    {
+      "id": 83119,
+      "name": "Madalena"
+    },
+    {
+      "id": 83120,
+      "name": "Maracanaú"
+    },
+    {
+      "id": 83121,
+      "name": "Maranguape"
+    },
+    {
+      "id": 83122,
+      "name": "Marco"
+    },
+    {
+      "id": 83123,
+      "name": "Martinópole"
+    },
+    {
+      "id": 83124,
+      "name": "Massapê"
+    },
+    {
+      "id": 83125,
+      "name": "Mauriti"
+    },
+    {
+      "id": 83126,
+      "name": "Meruoca"
+    },
+    {
+      "id": 83127,
+      "name": "Milagres"
+    },
+    {
+      "id": 83128,
+      "name": "Milhã"
+    },
+    {
+      "id": 83129,
+      "name": "Miraíma"
+    },
+    {
+      "id": 83130,
+      "name": "Missão Velha"
+    },
+    {
+      "id": 83131,
+      "name": "Mombaça"
+    },
+    {
+      "id": 83132,
+      "name": "Monsenhor Tabosa"
+    },
+    {
+      "id": 83133,
+      "name": "Morada Nova"
+    },
+    {
+      "id": 83134,
+      "name": "Moraújo"
+    },
+    {
+      "id": 83135,
+      "name": "Morrinhos"
+    },
+    {
+      "id": 83136,
+      "name": "Mucambo"
+    },
+    {
+      "id": 83137,
+      "name": "Mulungu"
+    },
+    {
+      "id": 83138,
+      "name": "Nova Olinda"
+    },
+    {
+      "id": 83139,
+      "name": "Nova Russas"
+    },
+    {
+      "id": 83140,
+      "name": "Novo Oriente"
+    },
+    {
+      "id": 83141,
+      "name": "Ocara"
+    },
+    {
+      "id": 83142,
+      "name": "Orós"
+    },
+    {
+      "id": 83143,
+      "name": "Pacajus"
+    },
+    {
+      "id": 83144,
+      "name": "Pacatuba"
+    },
+    {
+      "id": 83145,
+      "name": "Pacoti"
+    },
+    {
+      "id": 83146,
+      "name": "Pacujá"
+    },
+    {
+      "id": 83147,
+      "name": "Palhano"
+    },
+    {
+      "id": 83148,
+      "name": "Palmácia"
+    },
+    {
+      "id": 83149,
+      "name": "Paracuru"
+    },
+    {
+      "id": 83150,
+      "name": "Paraipaba"
+    },
+    {
+      "id": 83151,
+      "name": "Parambu"
+    },
+    {
+      "id": 83152,
+      "name": "Paramoti"
+    },
+    {
+      "id": 83153,
+      "name": "Pedra Branca"
+    },
+    {
+      "id": 83154,
+      "name": "Penaforte"
+    },
+    {
+      "id": 83155,
+      "name": "Pentecoste"
+    },
+    {
+      "id": 83156,
+      "name": "Pereiro"
+    },
+    {
+      "id": 83157,
+      "name": "Pindoretama"
+    },
+    {
+      "id": 83158,
+      "name": "Piquet Carneiro"
+    },
+    {
+      "id": 83159,
+      "name": "Pires Ferreira"
+    },
+    {
+      "id": 83160,
+      "name": "Poranga"
+    },
+    {
+      "id": 83161,
+      "name": "Porteiras"
+    },
+    {
+      "id": 83162,
+      "name": "Potengi"
+    },
+    {
+      "id": 83163,
+      "name": "Potiretama"
+    },
+    {
+      "id": 83164,
+      "name": "Quiterianópolis"
+    },
+    {
+      "id": 83165,
+      "name": "Quixadá"
+    },
+    {
+      "id": 83166,
+      "name": "Quixelô"
+    },
+    {
+      "id": 83167,
+      "name": "Quixeramobim"
+    },
+    {
+      "id": 83168,
+      "name": "Quixeré"
+    },
+    {
+      "id": 83169,
+      "name": "Redenção"
+    },
+    {
+      "id": 83170,
+      "name": "Reriutaba"
+    },
+    {
+      "id": 83171,
+      "name": "Russas"
+    },
+    {
+      "id": 83172,
+      "name": "Saboeiro"
+    },
+    {
+      "id": 83173,
+      "name": "Salitre"
+    },
+    {
+      "id": 83174,
+      "name": "Santa Quitéria"
+    },
+    {
+      "id": 83175,
+      "name": "Santana do Acaraú"
+    },
+    {
+      "id": 83176,
+      "name": "Santana do Cariri"
+    },
+    {
+      "id": 83177,
+      "name": "São Benedito"
+    },
+    {
+      "id": 83178,
+      "name": "São Gonçalo do Amarante"
+    },
+    {
+      "id": 83179,
+      "name": "São João do Jaguaribe"
+    },
+    {
+      "id": 83180,
+      "name": "São João dos Inhamuns"
+    },
+    {
+      "id": 83181,
+      "name": "São Luís do Curu"
+    },
+    {
+      "id": 83182,
+      "name": "Senador Pompeu"
+    },
+    {
+      "id": 83183,
+      "name": "Senador Sá"
+    },
+    {
+      "id": 83184,
+      "name": "Sobral"
+    },
+    {
+      "id": 83185,
+      "name": "Solonópole"
+    },
+    {
+      "id": 83186,
+      "name": "Tabuleiro do Norte"
+    },
+    {
+      "id": 83187,
+      "name": "Tamboril"
+    },
+    {
+      "id": 83188,
+      "name": "Tarrafas"
+    },
+    {
+      "id": 83189,
+      "name": "Tauá"
+    },
+    {
+      "id": 83190,
+      "name": "Tejuçuoca"
+    },
+    {
+      "id": 83191,
+      "name": "Tianguá"
+    },
+    {
+      "id": 83192,
+      "name": "Trairi"
+    },
+    {
+      "id": 83193,
+      "name": "Tururu"
+    },
+    {
+      "id": 83194,
+      "name": "Ubajara"
+    },
+    {
+      "id": 83195,
+      "name": "Umari"
+    },
+    {
+      "id": 83196,
+      "name": "Umirim"
+    },
+    {
+      "id": 83197,
+      "name": "Uruburetama"
+    },
+    {
+      "id": 83198,
+      "name": "Uruoca"
+    },
+    {
+      "id": 83199,
+      "name": "Varjota"
+    },
+    {
+      "id": 83200,
+      "name": "Várzea Alegre"
+    },
+    {
+      "id": 83201,
+      "name": "Viçosa do Ceará"
+    }
+  ]
+}

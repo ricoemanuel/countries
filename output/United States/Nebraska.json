@@ -1,0 +1,959 @@
+{
+  "id": 7463,
+  "name": "Nebraska",
+  "state_code": "NE",
+  "cities": [
+    {
+      "id": 211708,
+      "name": "Adams County"
+    },
+    {
+      "id": 211709,
+      "name": "Ainsworth"
+    },
+    {
+      "id": 211710,
+      "name": "Albion"
+    },
+    {
+      "id": 211711,
+      "name": "Alliance"
+    },
+    {
+      "id": 211712,
+      "name": "Alma"
+    },
+    {
+      "id": 211713,
+      "name": "Antelope County"
+    },
+    {
+      "id": 211714,
+      "name": "Arapahoe"
+    },
+    {
+      "id": 211715,
+      "name": "Arlington"
+    },
+    {
+      "id": 211716,
+      "name": "Arthur"
+    },
+    {
+      "id": 211717,
+      "name": "Arthur County"
+    },
+    {
+      "id": 211718,
+      "name": "Ashland"
+    },
+    {
+      "id": 211719,
+      "name": "Atkinson"
+    },
+    {
+      "id": 211720,
+      "name": "Auburn"
+    },
+    {
+      "id": 211721,
+      "name": "Aurora"
+    },
+    {
+      "id": 211722,
+      "name": "Banner County"
+    },
+    {
+      "id": 211723,
+      "name": "Bartlett"
+    },
+    {
+      "id": 211724,
+      "name": "Bassett"
+    },
+    {
+      "id": 211725,
+      "name": "Battle Creek"
+    },
+    {
+      "id": 211726,
+      "name": "Bayard"
+    },
+    {
+      "id": 211727,
+      "name": "Beatrice"
+    },
+    {
+      "id": 211728,
+      "name": "Beaver City"
+    },
+    {
+      "id": 211729,
+      "name": "Bellevue"
+    },
+    {
+      "id": 211730,
+      "name": "Benkelman"
+    },
+    {
+      "id": 211731,
+      "name": "Bennington"
+    },
+    {
+      "id": 211732,
+      "name": "Blaine County"
+    },
+    {
+      "id": 211733,
+      "name": "Blair"
+    },
+    {
+      "id": 211734,
+      "name": "Boone County"
+    },
+    {
+      "id": 211735,
+      "name": "Box Butte County"
+    },
+    {
+      "id": 211736,
+      "name": "Boyd County"
+    },
+    {
+      "id": 211737,
+      "name": "Brewster"
+    },
+    {
+      "id": 211738,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 211739,
+      "name": "Broken Bow"
+    },
+    {
+      "id": 211740,
+      "name": "Brown County"
+    },
+    {
+      "id": 211741,
+      "name": "Buffalo County"
+    },
+    {
+      "id": 211742,
+      "name": "Burt County"
+    },
+    {
+      "id": 211743,
+      "name": "Burwell"
+    },
+    {
+      "id": 211744,
+      "name": "Butler County"
+    },
+    {
+      "id": 211745,
+      "name": "Butte"
+    },
+    {
+      "id": 211746,
+      "name": "Cambridge"
+    },
+    {
+      "id": 211747,
+      "name": "Cass County"
+    },
+    {
+      "id": 211748,
+      "name": "Cedar County"
+    },
+    {
+      "id": 211749,
+      "name": "Center"
+    },
+    {
+      "id": 211750,
+      "name": "Central City"
+    },
+    {
+      "id": 211751,
+      "name": "Chadron"
+    },
+    {
+      "id": 211752,
+      "name": "Chalco"
+    },
+    {
+      "id": 211753,
+      "name": "Chappell"
+    },
+    {
+      "id": 211754,
+      "name": "Chase County"
+    },
+    {
+      "id": 211755,
+      "name": "Cherry County"
+    },
+    {
+      "id": 211756,
+      "name": "Cheyenne County"
+    },
+    {
+      "id": 211757,
+      "name": "Clay Center"
+    },
+    {
+      "id": 211758,
+      "name": "Clay County"
+    },
+    {
+      "id": 211759,
+      "name": "Colfax County"
+    },
+    {
+      "id": 211760,
+      "name": "Columbus"
+    },
+    {
+      "id": 211761,
+      "name": "Cozad"
+    },
+    {
+      "id": 211762,
+      "name": "Creighton"
+    },
+    {
+      "id": 211763,
+      "name": "Crete"
+    },
+    {
+      "id": 211764,
+      "name": "Cuming County"
+    },
+    {
+      "id": 211765,
+      "name": "Custer County"
+    },
+    {
+      "id": 211766,
+      "name": "Dakota City"
+    },
+    {
+      "id": 211767,
+      "name": "Dakota County"
+    },
+    {
+      "id": 211768,
+      "name": "David City"
+    },
+    {
+      "id": 211769,
+      "name": "Dawes County"
+    },
+    {
+      "id": 211770,
+      "name": "Dawson County"
+    },
+    {
+      "id": 211771,
+      "name": "Deuel County"
+    },
+    {
+      "id": 211772,
+      "name": "Dixon County"
+    },
+    {
+      "id": 211773,
+      "name": "Dodge County"
+    },
+    {
+      "id": 211774,
+      "name": "Douglas County"
+    },
+    {
+      "id": 211775,
+      "name": "Dundy County"
+    },
+    {
+      "id": 211776,
+      "name": "Eagle"
+    },
+    {
+      "id": 211777,
+      "name": "Elkhorn"
+    },
+    {
+      "id": 211778,
+      "name": "Elwood"
+    },
+    {
+      "id": 211779,
+      "name": "Fairbury"
+    },
+    {
+      "id": 211780,
+      "name": "Falls City"
+    },
+    {
+      "id": 211781,
+      "name": "Fillmore County"
+    },
+    {
+      "id": 211782,
+      "name": "Franklin"
+    },
+    {
+      "id": 211783,
+      "name": "Franklin County"
+    },
+    {
+      "id": 211784,
+      "name": "Fremont"
+    },
+    {
+      "id": 211785,
+      "name": "Friend"
+    },
+    {
+      "id": 211786,
+      "name": "Frontier County"
+    },
+    {
+      "id": 211787,
+      "name": "Fullerton"
+    },
+    {
+      "id": 211788,
+      "name": "Furnas County"
+    },
+    {
+      "id": 211789,
+      "name": "Gage County"
+    },
+    {
+      "id": 211790,
+      "name": "Garden County"
+    },
+    {
+      "id": 211791,
+      "name": "Garfield County"
+    },
+    {
+      "id": 211792,
+      "name": "Geneva"
+    },
+    {
+      "id": 211793,
+      "name": "Gering"
+    },
+    {
+      "id": 211794,
+      "name": "Gibbon"
+    },
+    {
+      "id": 211795,
+      "name": "Gordon"
+    },
+    {
+      "id": 211796,
+      "name": "Gosper County"
+    },
+    {
+      "id": 211797,
+      "name": "Gothenburg"
+    },
+    {
+      "id": 211798,
+      "name": "Grand Island"
+    },
+    {
+      "id": 211799,
+      "name": "Grant"
+    },
+    {
+      "id": 211800,
+      "name": "Grant County"
+    },
+    {
+      "id": 211801,
+      "name": "Greeley"
+    },
+    {
+      "id": 211802,
+      "name": "Greeley County"
+    },
+    {
+      "id": 211803,
+      "name": "Gretna"
+    },
+    {
+      "id": 211804,
+      "name": "Hall County"
+    },
+    {
+      "id": 211805,
+      "name": "Hamilton County"
+    },
+    {
+      "id": 211806,
+      "name": "Harlan County"
+    },
+    {
+      "id": 211807,
+      "name": "Harrisburg"
+    },
+    {
+      "id": 211808,
+      "name": "Harrison"
+    },
+    {
+      "id": 211809,
+      "name": "Hartington"
+    },
+    {
+      "id": 211810,
+      "name": "Hastings"
+    },
+    {
+      "id": 211811,
+      "name": "Hayes Center"
+    },
+    {
+      "id": 211812,
+      "name": "Hayes County"
+    },
+    {
+      "id": 211813,
+      "name": "Hebron"
+    },
+    {
+      "id": 211814,
+      "name": "Hickman"
+    },
+    {
+      "id": 211815,
+      "name": "Hitchcock County"
+    },
+    {
+      "id": 211816,
+      "name": "Holdrege"
+    },
+    {
+      "id": 211817,
+      "name": "Holt County"
+    },
+    {
+      "id": 211818,
+      "name": "Hooker County"
+    },
+    {
+      "id": 211819,
+      "name": "Howard County"
+    },
+    {
+      "id": 211820,
+      "name": "Hyannis"
+    },
+    {
+      "id": 211821,
+      "name": "Imperial"
+    },
+    {
+      "id": 211822,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 211823,
+      "name": "Johnson County"
+    },
+    {
+      "id": 211824,
+      "name": "Kearney"
+    },
+    {
+      "id": 211825,
+      "name": "Kearney County"
+    },
+    {
+      "id": 211826,
+      "name": "Keith County"
+    },
+    {
+      "id": 211827,
+      "name": "Keya Paha County"
+    },
+    {
+      "id": 211828,
+      "name": "Kimball"
+    },
+    {
+      "id": 211829,
+      "name": "Kimball County"
+    },
+    {
+      "id": 211830,
+      "name": "Knox County"
+    },
+    {
+      "id": 211831,
+      "name": "La Vista"
+    },
+    {
+      "id": 211832,
+      "name": "Lancaster County"
+    },
+    {
+      "id": 211833,
+      "name": "Lexington"
+    },
+    {
+      "id": 211834,
+      "name": "Lincoln"
+    },
+    {
+      "id": 211835,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 211836,
+      "name": "Logan County"
+    },
+    {
+      "id": 211837,
+      "name": "Louisville"
+    },
+    {
+      "id": 211838,
+      "name": "Loup City"
+    },
+    {
+      "id": 211839,
+      "name": "Loup County"
+    },
+    {
+      "id": 211840,
+      "name": "Macy"
+    },
+    {
+      "id": 211841,
+      "name": "Madison"
+    },
+    {
+      "id": 211842,
+      "name": "Madison County"
+    },
+    {
+      "id": 211843,
+      "name": "McCook"
+    },
+    {
+      "id": 211844,
+      "name": "McPherson County"
+    },
+    {
+      "id": 211845,
+      "name": "Merrick County"
+    },
+    {
+      "id": 211846,
+      "name": "Milford"
+    },
+    {
+      "id": 211847,
+      "name": "Minden"
+    },
+    {
+      "id": 211848,
+      "name": "Mitchell"
+    },
+    {
+      "id": 211849,
+      "name": "Morrill County"
+    },
+    {
+      "id": 211850,
+      "name": "Mullen"
+    },
+    {
+      "id": 211851,
+      "name": "Nance County"
+    },
+    {
+      "id": 211852,
+      "name": "Nebraska City"
+    },
+    {
+      "id": 211853,
+      "name": "Neligh"
+    },
+    {
+      "id": 211854,
+      "name": "Nelson"
+    },
+    {
+      "id": 211855,
+      "name": "Nemaha County"
+    },
+    {
+      "id": 211856,
+      "name": "Norfolk"
+    },
+    {
+      "id": 211857,
+      "name": "North Bend"
+    },
+    {
+      "id": 211858,
+      "name": "North Platte"
+    },
+    {
+      "id": 211859,
+      "name": "Nuckolls County"
+    },
+    {
+      "id": 211860,
+      "name": "O'Neill"
+    },
+    {
+      "id": 211861,
+      "name": "Oakland"
+    },
+    {
+      "id": 211862,
+      "name": "Offutt Air Force Base"
+    },
+    {
+      "id": 211863,
+      "name": "Ogallala"
+    },
+    {
+      "id": 211864,
+      "name": "Omaha"
+    },
+    {
+      "id": 211865,
+      "name": "Ord"
+    },
+    {
+      "id": 211866,
+      "name": "Osceola"
+    },
+    {
+      "id": 211867,
+      "name": "Oshkosh"
+    },
+    {
+      "id": 211868,
+      "name": "Otoe County"
+    },
+    {
+      "id": 211869,
+      "name": "Papillion"
+    },
+    {
+      "id": 211870,
+      "name": "Pawnee City"
+    },
+    {
+      "id": 211871,
+      "name": "Pawnee County"
+    },
+    {
+      "id": 211872,
+      "name": "Pender"
+    },
+    {
+      "id": 211873,
+      "name": "Perkins County"
+    },
+    {
+      "id": 211874,
+      "name": "Phelps County"
+    },
+    {
+      "id": 211875,
+      "name": "Pierce"
+    },
+    {
+      "id": 211876,
+      "name": "Pierce County"
+    },
+    {
+      "id": 211877,
+      "name": "Plainview"
+    },
+    {
+      "id": 211878,
+      "name": "Platte County"
+    },
+    {
+      "id": 211879,
+      "name": "Plattsmouth"
+    },
+    {
+      "id": 211880,
+      "name": "Polk County"
+    },
+    {
+      "id": 211881,
+      "name": "Ponca"
+    },
+    {
+      "id": 211882,
+      "name": "Ralston"
+    },
+    {
+      "id": 211883,
+      "name": "Ravenna"
+    },
+    {
+      "id": 211884,
+      "name": "Red Cloud"
+    },
+    {
+      "id": 211885,
+      "name": "Red Willow County"
+    },
+    {
+      "id": 211886,
+      "name": "Richardson County"
+    },
+    {
+      "id": 211887,
+      "name": "Rock County"
+    },
+    {
+      "id": 211888,
+      "name": "Rushville"
+    },
+    {
+      "id": 211889,
+      "name": "Saint Paul"
+    },
+    {
+      "id": 211890,
+      "name": "Saline County"
+    },
+    {
+      "id": 211891,
+      "name": "Sarpy County"
+    },
+    {
+      "id": 211892,
+      "name": "Saunders County"
+    },
+    {
+      "id": 211893,
+      "name": "Schuyler"
+    },
+    {
+      "id": 211894,
+      "name": "Scotts Bluff County"
+    },
+    {
+      "id": 211895,
+      "name": "Scottsbluff"
+    },
+    {
+      "id": 211896,
+      "name": "Seward"
+    },
+    {
+      "id": 211897,
+      "name": "Seward County"
+    },
+    {
+      "id": 211898,
+      "name": "Shelton"
+    },
+    {
+      "id": 211899,
+      "name": "Sheridan County"
+    },
+    {
+      "id": 211900,
+      "name": "Sherman County"
+    },
+    {
+      "id": 211901,
+      "name": "Sidney"
+    },
+    {
+      "id": 211902,
+      "name": "Sioux County"
+    },
+    {
+      "id": 211903,
+      "name": "South Sioux City"
+    },
+    {
+      "id": 211904,
+      "name": "Springfield"
+    },
+    {
+      "id": 211905,
+      "name": "Springview"
+    },
+    {
+      "id": 211906,
+      "name": "Stanton"
+    },
+    {
+      "id": 211907,
+      "name": "Stanton County"
+    },
+    {
+      "id": 211908,
+      "name": "Stapleton"
+    },
+    {
+      "id": 211909,
+      "name": "Stockville"
+    },
+    {
+      "id": 211910,
+      "name": "Stromsburg"
+    },
+    {
+      "id": 211911,
+      "name": "Superior"
+    },
+    {
+      "id": 211912,
+      "name": "Sutherland"
+    },
+    {
+      "id": 211913,
+      "name": "Sutton"
+    },
+    {
+      "id": 211914,
+      "name": "Syracuse"
+    },
+    {
+      "id": 211915,
+      "name": "Taylor"
+    },
+    {
+      "id": 211916,
+      "name": "Tecumseh"
+    },
+    {
+      "id": 211917,
+      "name": "Tekamah"
+    },
+    {
+      "id": 211918,
+      "name": "Terrytown"
+    },
+    {
+      "id": 211919,
+      "name": "Thayer County"
+    },
+    {
+      "id": 211920,
+      "name": "Thedford"
+    },
+    {
+      "id": 211921,
+      "name": "Thomas County"
+    },
+    {
+      "id": 211922,
+      "name": "Thurston County"
+    },
+    {
+      "id": 211923,
+      "name": "Trenton"
+    },
+    {
+      "id": 211924,
+      "name": "Tryon"
+    },
+    {
+      "id": 211925,
+      "name": "Valentine"
+    },
+    {
+      "id": 211926,
+      "name": "Valley"
+    },
+    {
+      "id": 211927,
+      "name": "Valley County"
+    },
+    {
+      "id": 211928,
+      "name": "Wahoo"
+    },
+    {
+      "id": 211929,
+      "name": "Wakefield"
+    },
+    {
+      "id": 211930,
+      "name": "Washington County"
+    },
+    {
+      "id": 211931,
+      "name": "Waterloo"
+    },
+    {
+      "id": 211932,
+      "name": "Waverly"
+    },
+    {
+      "id": 211933,
+      "name": "Wayne"
+    },
+    {
+      "id": 211934,
+      "name": "Wayne County"
+    },
+    {
+      "id": 211935,
+      "name": "Webster County"
+    },
+    {
+      "id": 211936,
+      "name": "Weeping Water"
+    },
+    {
+      "id": 211937,
+      "name": "West Point"
+    },
+    {
+      "id": 211938,
+      "name": "Wheeler County"
+    },
+    {
+      "id": 211939,
+      "name": "Wilber"
+    },
+    {
+      "id": 211940,
+      "name": "Wisner"
+    },
+    {
+      "id": 211941,
+      "name": "Wood River"
+    },
+    {
+      "id": 211942,
+      "name": "Wymore"
+    },
+    {
+      "id": 211943,
+      "name": "York"
+    },
+    {
+      "id": 211944,
+      "name": "York County"
+    },
+    {
+      "id": 211945,
+      "name": "Yutan"
+    }
+  ]
+}

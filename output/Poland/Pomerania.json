@@ -1,0 +1,591 @@
+{
+  "id": 5832,
+  "name": "Pomerania",
+  "state_code": "22",
+  "cities": [
+    {
+      "id": 162936,
+      "name": "Banino"
+    },
+    {
+      "id": 162937,
+      "name": "Bobowo"
+    },
+    {
+      "id": 162938,
+      "name": "Bojano"
+    },
+    {
+      "id": 162939,
+      "name": "Bolszewo"
+    },
+    {
+      "id": 162940,
+      "name": "Borzytuchom"
+    },
+    {
+      "id": 162941,
+      "name": "Brusy"
+    },
+    {
+      "id": 162942,
+      "name": "Bytów"
+    },
+    {
+      "id": 162943,
+      "name": "Cedry Wielkie"
+    },
+    {
+      "id": 162944,
+      "name": "Cewice"
+    },
+    {
+      "id": 162945,
+      "name": "Chłapowo"
+    },
+    {
+      "id": 162946,
+      "name": "Chmielno"
+    },
+    {
+      "id": 162947,
+      "name": "Choczewo"
+    },
+    {
+      "id": 162948,
+      "name": "Chojnice"
+    },
+    {
+      "id": 162949,
+      "name": "Chwaszczyno"
+    },
+    {
+      "id": 162950,
+      "name": "Czarna Dąbrówka"
+    },
+    {
+      "id": 162951,
+      "name": "Czarna Woda"
+    },
+    {
+      "id": 162952,
+      "name": "Czarne"
+    },
+    {
+      "id": 162953,
+      "name": "Czersk"
+    },
+    {
+      "id": 162954,
+      "name": "Człuchów"
+    },
+    {
+      "id": 162955,
+      "name": "Damnica"
+    },
+    {
+      "id": 162956,
+      "name": "Dębnica Kaszubska"
+    },
+    {
+      "id": 162957,
+      "name": "Debrzno"
+    },
+    {
+      "id": 162958,
+      "name": "Dziemiany"
+    },
+    {
+      "id": 162959,
+      "name": "Dzierzgoń"
+    },
+    {
+      "id": 162960,
+      "name": "Garcz"
+    },
+    {
+      "id": 162961,
+      "name": "Gardeja"
+    },
+    {
+      "id": 162962,
+      "name": "Gdańsk"
+    },
+    {
+      "id": 162963,
+      "name": "Gdynia"
+    },
+    {
+      "id": 162964,
+      "name": "Główczyce"
+    },
+    {
+      "id": 162965,
+      "name": "Gniew"
+    },
+    {
+      "id": 162966,
+      "name": "Gniewino"
+    },
+    {
+      "id": 162967,
+      "name": "Gnieżdżewo"
+    },
+    {
+      "id": 162968,
+      "name": "Gościcino"
+    },
+    {
+      "id": 162969,
+      "name": "Grabowo Kościerskie"
+    },
+    {
+      "id": 162970,
+      "name": "Hel"
+    },
+    {
+      "id": 162971,
+      "name": "Jastarnia"
+    },
+    {
+      "id": 162972,
+      "name": "Jastrzębia Góra"
+    },
+    {
+      "id": 162973,
+      "name": "Kaliska"
+    },
+    {
+      "id": 162974,
+      "name": "Karsin"
+    },
+    {
+      "id": 162975,
+      "name": "Kartuzy"
+    },
+    {
+      "id": 162976,
+      "name": "Kępice"
+    },
+    {
+      "id": 162977,
+      "name": "Kobylnica"
+    },
+    {
+      "id": 162978,
+      "name": "Koczała"
+    },
+    {
+      "id": 162979,
+      "name": "Kolbudy"
+    },
+    {
+      "id": 162980,
+      "name": "Koleczkowo"
+    },
+    {
+      "id": 162981,
+      "name": "Kołczygłowy"
+    },
+    {
+      "id": 162982,
+      "name": "Kosakowo"
+    },
+    {
+      "id": 162983,
+      "name": "Kościerzyna"
+    },
+    {
+      "id": 162984,
+      "name": "Kowale"
+    },
+    {
+      "id": 162985,
+      "name": "Krokowa"
+    },
+    {
+      "id": 162986,
+      "name": "Krynica Morska"
+    },
+    {
+      "id": 162987,
+      "name": "Kwidzyn"
+    },
+    {
+      "id": 162988,
+      "name": "Lębork"
+    },
+    {
+      "id": 162989,
+      "name": "Linia"
+    },
+    {
+      "id": 162990,
+      "name": "Liniewo"
+    },
+    {
+      "id": 162991,
+      "name": "Lipnica"
+    },
+    {
+      "id": 162992,
+      "name": "Lipusz"
+    },
+    {
+      "id": 162993,
+      "name": "Lisewo Malborskie"
+    },
+    {
+      "id": 162994,
+      "name": "Lubichowo"
+    },
+    {
+      "id": 162995,
+      "name": "Lublewo Gdańskie"
+    },
+    {
+      "id": 162996,
+      "name": "Luzino"
+    },
+    {
+      "id": 162997,
+      "name": "Łeba"
+    },
+    {
+      "id": 162998,
+      "name": "Łęczyce"
+    },
+    {
+      "id": 162999,
+      "name": "Łęgowo"
+    },
+    {
+      "id": 163000,
+      "name": "Malbork"
+    },
+    {
+      "id": 163001,
+      "name": "Miastko"
+    },
+    {
+      "id": 163002,
+      "name": "Mikołajki Pomorskie"
+    },
+    {
+      "id": 163003,
+      "name": "Miłoradz"
+    },
+    {
+      "id": 163004,
+      "name": "Mosty"
+    },
+    {
+      "id": 163005,
+      "name": "Mrzezino"
+    },
+    {
+      "id": 163006,
+      "name": "Nowa Wieś Lęborska"
+    },
+    {
+      "id": 163007,
+      "name": "Nowy Dwór Gdański"
+    },
+    {
+      "id": 163008,
+      "name": "Nowy Staw"
+    },
+    {
+      "id": 163009,
+      "name": "Orle"
+    },
+    {
+      "id": 163010,
+      "name": "Osiek"
+    },
+    {
+      "id": 163011,
+      "name": "Ostaszewo"
+    },
+    {
+      "id": 163012,
+      "name": "Parchowo"
+    },
+    {
+      "id": 163013,
+      "name": "Pelplin"
+    },
+    {
+      "id": 163014,
+      "name": "Pogórze"
+    },
+    {
+      "id": 163015,
+      "name": "Potęgowo"
+    },
+    {
+      "id": 163016,
+      "name": "Powiat bytowski"
+    },
+    {
+      "id": 163017,
+      "name": "Powiat chojnicki"
+    },
+    {
+      "id": 163018,
+      "name": "Powiat człuchowski"
+    },
+    {
+      "id": 163019,
+      "name": "Powiat gdański"
+    },
+    {
+      "id": 163020,
+      "name": "Powiat kartuski"
+    },
+    {
+      "id": 163021,
+      "name": "Powiat kościerski"
+    },
+    {
+      "id": 163022,
+      "name": "Powiat kwidzyński"
+    },
+    {
+      "id": 163023,
+      "name": "Powiat lęborski"
+    },
+    {
+      "id": 163024,
+      "name": "Powiat malborski"
+    },
+    {
+      "id": 163025,
+      "name": "Powiat nowodworski"
+    },
+    {
+      "id": 163026,
+      "name": "Powiat pucki"
+    },
+    {
+      "id": 163027,
+      "name": "Powiat słupski"
+    },
+    {
+      "id": 163028,
+      "name": "Powiat starogardzki"
+    },
+    {
+      "id": 163029,
+      "name": "Powiat sztumski"
+    },
+    {
+      "id": 163030,
+      "name": "Powiat tczewski"
+    },
+    {
+      "id": 163031,
+      "name": "Powiat wejherowski"
+    },
+    {
+      "id": 163032,
+      "name": "Prabuty"
+    },
+    {
+      "id": 163033,
+      "name": "Pruszcz Gdański"
+    },
+    {
+      "id": 163034,
+      "name": "Przechlewo"
+    },
+    {
+      "id": 163035,
+      "name": "Przodkowo"
+    },
+    {
+      "id": 163036,
+      "name": "Przywidz"
+    },
+    {
+      "id": 163037,
+      "name": "Pszczółki"
+    },
+    {
+      "id": 163038,
+      "name": "Puck"
+    },
+    {
+      "id": 163039,
+      "name": "Reda"
+    },
+    {
+      "id": 163040,
+      "name": "Rekowo Dolne"
+    },
+    {
+      "id": 163041,
+      "name": "Rotmanka"
+    },
+    {
+      "id": 163042,
+      "name": "Rumia"
+    },
+    {
+      "id": 163043,
+      "name": "Ryjewo"
+    },
+    {
+      "id": 163044,
+      "name": "Rzeczenica"
+    },
+    {
+      "id": 163045,
+      "name": "Sadlinki"
+    },
+    {
+      "id": 163046,
+      "name": "Sierakowice"
+    },
+    {
+      "id": 163047,
+      "name": "Skarszewy"
+    },
+    {
+      "id": 163048,
+      "name": "Skórcz"
+    },
+    {
+      "id": 163049,
+      "name": "Słupsk"
+    },
+    {
+      "id": 163050,
+      "name": "Smętowo Graniczne"
+    },
+    {
+      "id": 163051,
+      "name": "Smołdzino"
+    },
+    {
+      "id": 163052,
+      "name": "Somonino"
+    },
+    {
+      "id": 163053,
+      "name": "Sopot"
+    },
+    {
+      "id": 163054,
+      "name": "Stara Kiszewa"
+    },
+    {
+      "id": 163055,
+      "name": "Stare Pole"
+    },
+    {
+      "id": 163056,
+      "name": "Starogard Gdański"
+    },
+    {
+      "id": 163057,
+      "name": "Stary Targ"
+    },
+    {
+      "id": 163058,
+      "name": "Stegna"
+    },
+    {
+      "id": 163059,
+      "name": "Stężyca"
+    },
+    {
+      "id": 163060,
+      "name": "Straszyn"
+    },
+    {
+      "id": 163061,
+      "name": "Strzelno"
+    },
+    {
+      "id": 163062,
+      "name": "Studzienice"
+    },
+    {
+      "id": 163063,
+      "name": "Subkowy"
+    },
+    {
+      "id": 163064,
+      "name": "Suchy Dąb"
+    },
+    {
+      "id": 163065,
+      "name": "Sulęczyno"
+    },
+    {
+      "id": 163066,
+      "name": "Szemud"
+    },
+    {
+      "id": 163067,
+      "name": "Szlachta"
+    },
+    {
+      "id": 163068,
+      "name": "Sztum"
+    },
+    {
+      "id": 163069,
+      "name": "Sztutowo"
+    },
+    {
+      "id": 163070,
+      "name": "Tczew"
+    },
+    {
+      "id": 163071,
+      "name": "Trąbki Wielkie"
+    },
+    {
+      "id": 163072,
+      "name": "Trzebielino"
+    },
+    {
+      "id": 163073,
+      "name": "Tuchomie"
+    },
+    {
+      "id": 163074,
+      "name": "Ustka"
+    },
+    {
+      "id": 163075,
+      "name": "Wejherowo"
+    },
+    {
+      "id": 163076,
+      "name": "Wielki Kack"
+    },
+    {
+      "id": 163077,
+      "name": "Wierzchucino"
+    },
+    {
+      "id": 163078,
+      "name": "Władysławowo"
+    },
+    {
+      "id": 163079,
+      "name": "Zblewo"
+    },
+    {
+      "id": 163080,
+      "name": "Żelistrzewo"
+    },
+    {
+      "id": 163081,
+      "name": "Żukowo"
+    }
+  ]
+}

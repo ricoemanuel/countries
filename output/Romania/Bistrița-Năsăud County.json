@@ -1,0 +1,599 @@
+{
+  "id": 5959,
+  "name": "Bistrița-Năsăud County",
+  "state_code": "BN",
+  "cities": [
+    {
+      "id": 166521,
+      "name": "Agrieș"
+    },
+    {
+      "id": 166522,
+      "name": "Anieș"
+    },
+    {
+      "id": 166523,
+      "name": "Beclean"
+    },
+    {
+      "id": 166524,
+      "name": "Bichigiu"
+    },
+    {
+      "id": 166525,
+      "name": "Bistriţa"
+    },
+    {
+      "id": 166526,
+      "name": "Bistriţa Bârgăului"
+    },
+    {
+      "id": 166527,
+      "name": "Braniştea"
+    },
+    {
+      "id": 166528,
+      "name": "Breaza"
+    },
+    {
+      "id": 166529,
+      "name": "Budacu de Jos"
+    },
+    {
+      "id": 166530,
+      "name": "Budacu de Sus"
+    },
+    {
+      "id": 166531,
+      "name": "Budeşti"
+    },
+    {
+      "id": 166532,
+      "name": "Căianu Mic"
+    },
+    {
+      "id": 166533,
+      "name": "Chiochiş"
+    },
+    {
+      "id": 166534,
+      "name": "Chiuza"
+    },
+    {
+      "id": 166535,
+      "name": "Ciceu-Giurgeşti"
+    },
+    {
+      "id": 166536,
+      "name": "Ciceu-Mihăiești"
+    },
+    {
+      "id": 166537,
+      "name": "Cireșoaia"
+    },
+    {
+      "id": 166538,
+      "name": "Cociu"
+    },
+    {
+      "id": 166539,
+      "name": "Comuna Bistriţa Bârgăului"
+    },
+    {
+      "id": 166540,
+      "name": "Comuna Braniştea"
+    },
+    {
+      "id": 166541,
+      "name": "Comuna Budacu de Jos"
+    },
+    {
+      "id": 166542,
+      "name": "Comuna Budeşti"
+    },
+    {
+      "id": 166543,
+      "name": "Comuna Căianu"
+    },
+    {
+      "id": 166544,
+      "name": "Comuna Chiochiş"
+    },
+    {
+      "id": 166545,
+      "name": "Comuna Chiuza"
+    },
+    {
+      "id": 166546,
+      "name": "Comuna Ciceu-Giurgeşti"
+    },
+    {
+      "id": 166547,
+      "name": "Comuna Ciceu-Mihăieşti"
+    },
+    {
+      "id": 166548,
+      "name": "Comuna Coşbuc"
+    },
+    {
+      "id": 166549,
+      "name": "Comuna Dumitra"
+    },
+    {
+      "id": 166550,
+      "name": "Comuna Dumitriţa"
+    },
+    {
+      "id": 166551,
+      "name": "Comuna Feldru"
+    },
+    {
+      "id": 166552,
+      "name": "Comuna Galaţii Bistriţei"
+    },
+    {
+      "id": 166553,
+      "name": "Comuna Ilva Mare"
+    },
+    {
+      "id": 166554,
+      "name": "Comuna Ilva Mică"
+    },
+    {
+      "id": 166555,
+      "name": "Comuna Josenii Bârgăului"
+    },
+    {
+      "id": 166556,
+      "name": "Comuna Lechinţa"
+    },
+    {
+      "id": 166557,
+      "name": "Comuna Leşu"
+    },
+    {
+      "id": 166558,
+      "name": "Comuna Livezile"
+    },
+    {
+      "id": 166559,
+      "name": "Comuna Lunca Ilvei"
+    },
+    {
+      "id": 166560,
+      "name": "Comuna Măgura Ilvei"
+    },
+    {
+      "id": 166561,
+      "name": "Comuna Măieru"
+    },
+    {
+      "id": 166562,
+      "name": "Comuna Mărişelu"
+    },
+    {
+      "id": 166563,
+      "name": "Comuna Matei"
+    },
+    {
+      "id": 166564,
+      "name": "Comuna Miceştii de Câmpie"
+    },
+    {
+      "id": 166565,
+      "name": "Comuna Milas"
+    },
+    {
+      "id": 166566,
+      "name": "Comuna Monor"
+    },
+    {
+      "id": 166567,
+      "name": "Comuna Negrileşti"
+    },
+    {
+      "id": 166568,
+      "name": "Comuna Nimigea"
+    },
+    {
+      "id": 166569,
+      "name": "Comuna Nuşeni"
+    },
+    {
+      "id": 166570,
+      "name": "Comuna Parva"
+    },
+    {
+      "id": 166571,
+      "name": "Comuna Petru Rareş"
+    },
+    {
+      "id": 166572,
+      "name": "Comuna Poiana  Ilvei"
+    },
+    {
+      "id": 166573,
+      "name": "Comuna Prundu Bârgăului"
+    },
+    {
+      "id": 166574,
+      "name": "Comuna Războeni-Cetate"
+    },
+    {
+      "id": 166575,
+      "name": "Comuna Rebra"
+    },
+    {
+      "id": 166576,
+      "name": "Comuna Rebrişoara"
+    },
+    {
+      "id": 166577,
+      "name": "Comuna Rodna"
+    },
+    {
+      "id": 166578,
+      "name": "Comuna Romuli"
+    },
+    {
+      "id": 166579,
+      "name": "Comuna Runcu Salvei"
+    },
+    {
+      "id": 166580,
+      "name": "Comuna Salva"
+    },
+    {
+      "id": 166581,
+      "name": "Comuna Sânmihaiu de Câmpie"
+    },
+    {
+      "id": 166582,
+      "name": "Comuna Şanţ"
+    },
+    {
+      "id": 166583,
+      "name": "Comuna Şieu"
+    },
+    {
+      "id": 166584,
+      "name": "Comuna Şieu-Măgheruş"
+    },
+    {
+      "id": 166585,
+      "name": "Comuna Şieu-Odorhei"
+    },
+    {
+      "id": 166586,
+      "name": "Comuna Şieuţ"
+    },
+    {
+      "id": 166587,
+      "name": "Comuna Silivaşu De Câmpie"
+    },
+    {
+      "id": 166588,
+      "name": "Comuna Şintereag"
+    },
+    {
+      "id": 166589,
+      "name": "Comuna Spermezeu"
+    },
+    {
+      "id": 166590,
+      "name": "Comuna Târlişua"
+    },
+    {
+      "id": 166591,
+      "name": "Comuna Teaca"
+    },
+    {
+      "id": 166592,
+      "name": "Comuna Telciu"
+    },
+    {
+      "id": 166593,
+      "name": "Comuna Tiha Bârgăului"
+    },
+    {
+      "id": 166594,
+      "name": "Comuna Uriu"
+    },
+    {
+      "id": 166595,
+      "name": "Comuna Urmeniş"
+    },
+    {
+      "id": 166596,
+      "name": "Comuna Zagra"
+    },
+    {
+      "id": 166597,
+      "name": "Cormaia"
+    },
+    {
+      "id": 166598,
+      "name": "Coşbuc"
+    },
+    {
+      "id": 166599,
+      "name": "Cristeștii Ciceului"
+    },
+    {
+      "id": 166600,
+      "name": "Dobric"
+    },
+    {
+      "id": 166601,
+      "name": "Dumitra"
+    },
+    {
+      "id": 166602,
+      "name": "Dumitrița"
+    },
+    {
+      "id": 166603,
+      "name": "Feldru"
+    },
+    {
+      "id": 166604,
+      "name": "Frunzi"
+    },
+    {
+      "id": 166605,
+      "name": "Galaţii Bistriţei"
+    },
+    {
+      "id": 166606,
+      "name": "Ilva Mare"
+    },
+    {
+      "id": 166607,
+      "name": "Ilva Mică"
+    },
+    {
+      "id": 166608,
+      "name": "Josenii Bârgăului"
+    },
+    {
+      "id": 166609,
+      "name": "Lechinţa"
+    },
+    {
+      "id": 166610,
+      "name": "Leşu"
+    },
+    {
+      "id": 166611,
+      "name": "Livezile"
+    },
+    {
+      "id": 166612,
+      "name": "Lunca Ilvei"
+    },
+    {
+      "id": 166613,
+      "name": "Lunca Leșului"
+    },
+    {
+      "id": 166614,
+      "name": "Măgura Ilvei"
+    },
+    {
+      "id": 166615,
+      "name": "Măieru"
+    },
+    {
+      "id": 166616,
+      "name": "Mărişelu"
+    },
+    {
+      "id": 166617,
+      "name": "Matei"
+    },
+    {
+      "id": 166618,
+      "name": "Miceştii de Câmpie"
+    },
+    {
+      "id": 166619,
+      "name": "Mijlocenii Bârgăului"
+    },
+    {
+      "id": 166620,
+      "name": "Milaş"
+    },
+    {
+      "id": 166621,
+      "name": "Monor"
+    },
+    {
+      "id": 166622,
+      "name": "Municipiul Bistriţa"
+    },
+    {
+      "id": 166623,
+      "name": "Năsăud"
+    },
+    {
+      "id": 166624,
+      "name": "Negrilești"
+    },
+    {
+      "id": 166625,
+      "name": "Nepos"
+    },
+    {
+      "id": 166626,
+      "name": "Nimigea de Jos"
+    },
+    {
+      "id": 166627,
+      "name": "Nimigea de Sus"
+    },
+    {
+      "id": 166628,
+      "name": "Nuşeni"
+    },
+    {
+      "id": 166629,
+      "name": "Ocnița"
+    },
+    {
+      "id": 166630,
+      "name": "Oraş Beclean"
+    },
+    {
+      "id": 166631,
+      "name": "Oraş Nãsãud"
+    },
+    {
+      "id": 166632,
+      "name": "Oraş Sângeorz-Bãi"
+    },
+    {
+      "id": 166633,
+      "name": "Parva"
+    },
+    {
+      "id": 166634,
+      "name": "Petriș"
+    },
+    {
+      "id": 166635,
+      "name": "Poiana Ilvei"
+    },
+    {
+      "id": 166636,
+      "name": "Prundu Bârgăului"
+    },
+    {
+      "id": 166637,
+      "name": "Răpănaşu"
+    },
+    {
+      "id": 166638,
+      "name": "Rebra"
+    },
+    {
+      "id": 166639,
+      "name": "Rebrişoara"
+    },
+    {
+      "id": 166640,
+      "name": "Reteag"
+    },
+    {
+      "id": 166641,
+      "name": "Rodna"
+    },
+    {
+      "id": 166642,
+      "name": "Romuli"
+    },
+    {
+      "id": 166643,
+      "name": "Runcu Salvei"
+    },
+    {
+      "id": 166644,
+      "name": "Salva"
+    },
+    {
+      "id": 166645,
+      "name": "Sângeorz-Băi"
+    },
+    {
+      "id": 166646,
+      "name": "Sânmihaiu de Câmpie"
+    },
+    {
+      "id": 166647,
+      "name": "Șanț"
+    },
+    {
+      "id": 166648,
+      "name": "Şieu"
+    },
+    {
+      "id": 166649,
+      "name": "Şieu-Măgheruş"
+    },
+    {
+      "id": 166650,
+      "name": "Şieu-Odorhei"
+    },
+    {
+      "id": 166651,
+      "name": "Şieuţ"
+    },
+    {
+      "id": 166652,
+      "name": "Silivașu de Câmpie"
+    },
+    {
+      "id": 166653,
+      "name": "Şintereag"
+    },
+    {
+      "id": 166654,
+      "name": "Spermezeu"
+    },
+    {
+      "id": 166655,
+      "name": "Susenii Bârgăului"
+    },
+    {
+      "id": 166656,
+      "name": "Târlişua"
+    },
+    {
+      "id": 166657,
+      "name": "Teaca"
+    },
+    {
+      "id": 166658,
+      "name": "Telcișor"
+    },
+    {
+      "id": 166659,
+      "name": "Telciu"
+    },
+    {
+      "id": 166660,
+      "name": "Tiha Bârgăului"
+    },
+    {
+      "id": 166661,
+      "name": "Tureac"
+    },
+    {
+      "id": 166662,
+      "name": "Unirea"
+    },
+    {
+      "id": 166663,
+      "name": "Uriu"
+    },
+    {
+      "id": 166664,
+      "name": "Urmeniş"
+    },
+    {
+      "id": 166665,
+      "name": "Valea Borcutului"
+    },
+    {
+      "id": 166666,
+      "name": "Viile Tecii"
+    },
+    {
+      "id": 166667,
+      "name": "Viișoara"
+    },
+    {
+      "id": 166668,
+      "name": "Zagra"
+    }
+  ]
+}

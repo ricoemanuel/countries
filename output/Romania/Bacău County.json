@@ -1,0 +1,1023 @@
+{
+  "id": 5957,
+  "name": "Bacău County",
+  "state_code": "BC",
+  "cities": [
+    {
+      "id": 166024,
+      "name": "Agăş"
+    },
+    {
+      "id": 166025,
+      "name": "Apa Asău"
+    },
+    {
+      "id": 166026,
+      "name": "Ardeoani"
+    },
+    {
+      "id": 166027,
+      "name": "Arini"
+    },
+    {
+      "id": 166028,
+      "name": "Asău"
+    },
+    {
+      "id": 166029,
+      "name": "Bacău"
+    },
+    {
+      "id": 166030,
+      "name": "Băcioiu"
+    },
+    {
+      "id": 166031,
+      "name": "Balcani"
+    },
+    {
+      "id": 166032,
+      "name": "Barați"
+    },
+    {
+      "id": 166033,
+      "name": "Bârsăneşti"
+    },
+    {
+      "id": 166034,
+      "name": "Berești"
+    },
+    {
+      "id": 166035,
+      "name": "Bereşti-Bistriţa"
+    },
+    {
+      "id": 166036,
+      "name": "Bereşti-Tazlău"
+    },
+    {
+      "id": 166037,
+      "name": "Berzunţi"
+    },
+    {
+      "id": 166038,
+      "name": "Bijghir"
+    },
+    {
+      "id": 166039,
+      "name": "Blăgeşti"
+    },
+    {
+      "id": 166040,
+      "name": "Bogdăneşti"
+    },
+    {
+      "id": 166041,
+      "name": "Bolătău"
+    },
+    {
+      "id": 166042,
+      "name": "Bolovăniș"
+    },
+    {
+      "id": 166043,
+      "name": "Brătești"
+    },
+    {
+      "id": 166044,
+      "name": "Brătila"
+    },
+    {
+      "id": 166045,
+      "name": "Brusturoasa"
+    },
+    {
+      "id": 166046,
+      "name": "Buciumi"
+    },
+    {
+      "id": 166047,
+      "name": "Bucșești"
+    },
+    {
+      "id": 166048,
+      "name": "Buda"
+    },
+    {
+      "id": 166049,
+      "name": "Buhoci"
+    },
+    {
+      "id": 166050,
+      "name": "Buhuşi"
+    },
+    {
+      "id": 166051,
+      "name": "Căiuți"
+    },
+    {
+      "id": 166052,
+      "name": "Căiuţi-Sat"
+    },
+    {
+      "id": 166053,
+      "name": "Caraclău"
+    },
+    {
+      "id": 166054,
+      "name": "Cârligi"
+    },
+    {
+      "id": 166055,
+      "name": "Caşin"
+    },
+    {
+      "id": 166056,
+      "name": "Cerdac"
+    },
+    {
+      "id": 166057,
+      "name": "Cernu"
+    },
+    {
+      "id": 166058,
+      "name": "Cireșoaia"
+    },
+    {
+      "id": 166059,
+      "name": "Ciugheș"
+    },
+    {
+      "id": 166060,
+      "name": "Cleja"
+    },
+    {
+      "id": 166061,
+      "name": "Coloneşti"
+    },
+    {
+      "id": 166062,
+      "name": "Comăneşti"
+    },
+    {
+      "id": 166063,
+      "name": "Comuna Agăş"
+    },
+    {
+      "id": 166064,
+      "name": "Comuna Ardeoani"
+    },
+    {
+      "id": 166065,
+      "name": "Comuna Asău"
+    },
+    {
+      "id": 166066,
+      "name": "Comuna Balcani"
+    },
+    {
+      "id": 166067,
+      "name": "Comuna Bârsăneşti"
+    },
+    {
+      "id": 166068,
+      "name": "Comuna Bereşti-Bistriţa"
+    },
+    {
+      "id": 166069,
+      "name": "Comuna Bereşti-Tazlău"
+    },
+    {
+      "id": 166070,
+      "name": "Comuna Berzunţi"
+    },
+    {
+      "id": 166071,
+      "name": "Comuna Blăgeşti"
+    },
+    {
+      "id": 166072,
+      "name": "Comuna Bogdăneşti"
+    },
+    {
+      "id": 166073,
+      "name": "Comuna Brusturoasa"
+    },
+    {
+      "id": 166074,
+      "name": "Comuna Buciumi"
+    },
+    {
+      "id": 166075,
+      "name": "Comuna Buhoci"
+    },
+    {
+      "id": 166076,
+      "name": "Comuna Căiuţi"
+    },
+    {
+      "id": 166077,
+      "name": "Comuna Cleja"
+    },
+    {
+      "id": 166078,
+      "name": "Comuna Coloneşti"
+    },
+    {
+      "id": 166079,
+      "name": "Comuna Corbasca"
+    },
+    {
+      "id": 166080,
+      "name": "Comuna Coţofăneşti"
+    },
+    {
+      "id": 166081,
+      "name": "Comuna Dămieneşti"
+    },
+    {
+      "id": 166082,
+      "name": "Comuna Dealu Morii"
+    },
+    {
+      "id": 166083,
+      "name": "Comuna Dofteana"
+    },
+    {
+      "id": 166084,
+      "name": "Comuna Faraoani"
+    },
+    {
+      "id": 166085,
+      "name": "Comuna Filipeni"
+    },
+    {
+      "id": 166086,
+      "name": "Comuna Filipeşti"
+    },
+    {
+      "id": 166087,
+      "name": "Comuna Găiceana"
+    },
+    {
+      "id": 166088,
+      "name": "Comuna Gârleni"
+    },
+    {
+      "id": 166089,
+      "name": "Comuna Ghimeş-Făget"
+    },
+    {
+      "id": 166090,
+      "name": "Comuna Gioseni"
+    },
+    {
+      "id": 166091,
+      "name": "Comuna Glăvăneşti"
+    },
+    {
+      "id": 166092,
+      "name": "Comuna Gura Văii"
+    },
+    {
+      "id": 166093,
+      "name": "Comuna Helegiu"
+    },
+    {
+      "id": 166094,
+      "name": "Comuna Hemeiuşi"
+    },
+    {
+      "id": 166095,
+      "name": "Comuna Horgeşti"
+    },
+    {
+      "id": 166096,
+      "name": "Comuna Huruieşti"
+    },
+    {
+      "id": 166097,
+      "name": "Comuna Iteşti"
+    },
+    {
+      "id": 166098,
+      "name": "Comuna Izvoru Berheciului"
+    },
+    {
+      "id": 166099,
+      "name": "Comuna Letea Veche"
+    },
+    {
+      "id": 166100,
+      "name": "Comuna Lipova"
+    },
+    {
+      "id": 166101,
+      "name": "Comuna Livezi"
+    },
+    {
+      "id": 166102,
+      "name": "Comuna Luizi-Cãlugãra"
+    },
+    {
+      "id": 166103,
+      "name": "Comuna Măgireşti"
+    },
+    {
+      "id": 166104,
+      "name": "Comuna Măgura"
+    },
+    {
+      "id": 166105,
+      "name": "Comuna Mânăstirea Caşin"
+    },
+    {
+      "id": 166106,
+      "name": "Comuna Mărgineni"
+    },
+    {
+      "id": 166107,
+      "name": "Comuna Motoşeni"
+    },
+    {
+      "id": 166108,
+      "name": "Comuna Negri"
+    },
+    {
+      "id": 166109,
+      "name": "Comuna Nicolae Bălcescu"
+    },
+    {
+      "id": 166110,
+      "name": "Comuna Odobeşti"
+    },
+    {
+      "id": 166111,
+      "name": "Comuna Oituz"
+    },
+    {
+      "id": 166112,
+      "name": "Comuna Onceşti"
+    },
+    {
+      "id": 166113,
+      "name": "Comuna Orbeni"
+    },
+    {
+      "id": 166114,
+      "name": "Comuna Palanca"
+    },
+    {
+      "id": 166115,
+      "name": "Comuna Pănceşti"
+    },
+    {
+      "id": 166116,
+      "name": "Comuna Parava"
+    },
+    {
+      "id": 166117,
+      "name": "Comuna Pârgăreşti"
+    },
+    {
+      "id": 166118,
+      "name": "Comuna Parincea"
+    },
+    {
+      "id": 166119,
+      "name": "Comuna Pârjol"
+    },
+    {
+      "id": 166120,
+      "name": "Comuna Plopana"
+    },
+    {
+      "id": 166121,
+      "name": "Comuna Podu Turcului"
+    },
+    {
+      "id": 166122,
+      "name": "Comuna Poduri"
+    },
+    {
+      "id": 166123,
+      "name": "Comuna Prăjeşti"
+    },
+    {
+      "id": 166124,
+      "name": "Comuna Răcăciuni"
+    },
+    {
+      "id": 166125,
+      "name": "Comuna Răchitoasa"
+    },
+    {
+      "id": 166126,
+      "name": "Comuna Racova"
+    },
+    {
+      "id": 166127,
+      "name": "Comuna Roşiori"
+    },
+    {
+      "id": 166128,
+      "name": "Comuna Sănduleni"
+    },
+    {
+      "id": 166129,
+      "name": "Comuna Sărata"
+    },
+    {
+      "id": 166130,
+      "name": "Comuna Sascut"
+    },
+    {
+      "id": 166131,
+      "name": "Comuna Săuceşti"
+    },
+    {
+      "id": 166132,
+      "name": "Comuna Scorţeni"
+    },
+    {
+      "id": 166133,
+      "name": "Comuna Secuieni"
+    },
+    {
+      "id": 166134,
+      "name": "Comuna Solonţ"
+    },
+    {
+      "id": 166135,
+      "name": "Comuna Stănişeşti"
+    },
+    {
+      "id": 166136,
+      "name": "Comuna Ştefan Cel Mare"
+    },
+    {
+      "id": 166137,
+      "name": "Comuna Strugari"
+    },
+    {
+      "id": 166138,
+      "name": "Comuna Tamaşi"
+    },
+    {
+      "id": 166139,
+      "name": "Comuna Târgu Trotuş"
+    },
+    {
+      "id": 166140,
+      "name": "Comuna Tătărăşti"
+    },
+    {
+      "id": 166141,
+      "name": "Comuna Traian"
+    },
+    {
+      "id": 166142,
+      "name": "Comuna Ungureni"
+    },
+    {
+      "id": 166143,
+      "name": "Comuna Urecheşti"
+    },
+    {
+      "id": 166144,
+      "name": "Comuna Valea Seacă"
+    },
+    {
+      "id": 166145,
+      "name": "Comuna Vultureni"
+    },
+    {
+      "id": 166146,
+      "name": "Comuna Zemeş"
+    },
+    {
+      "id": 166147,
+      "name": "Corbasca"
+    },
+    {
+      "id": 166148,
+      "name": "Coţofăneşti"
+    },
+    {
+      "id": 166149,
+      "name": "Cotumba"
+    },
+    {
+      "id": 166150,
+      "name": "Cucuieți"
+    },
+    {
+      "id": 166151,
+      "name": "Dămieneşti"
+    },
+    {
+      "id": 166152,
+      "name": "Dămoc"
+    },
+    {
+      "id": 166153,
+      "name": "Dărmăneşti"
+    },
+    {
+      "id": 166154,
+      "name": "Dealu Morii"
+    },
+    {
+      "id": 166155,
+      "name": "Deleni"
+    },
+    {
+      "id": 166156,
+      "name": "Dofteana"
+    },
+    {
+      "id": 166157,
+      "name": "Dragomir"
+    },
+    {
+      "id": 166158,
+      "name": "Drăgugești"
+    },
+    {
+      "id": 166159,
+      "name": "Dumbrava"
+    },
+    {
+      "id": 166160,
+      "name": "Făget"
+    },
+    {
+      "id": 166161,
+      "name": "Faraoaní"
+    },
+    {
+      "id": 166162,
+      "name": "Ferestrău-Oituz"
+    },
+    {
+      "id": 166163,
+      "name": "Filipeni"
+    },
+    {
+      "id": 166164,
+      "name": "Filipeşti"
+    },
+    {
+      "id": 166165,
+      "name": "Frumoasa"
+    },
+    {
+      "id": 166166,
+      "name": "Frumușelu"
+    },
+    {
+      "id": 166167,
+      "name": "Fundu Răcăciuni"
+    },
+    {
+      "id": 166168,
+      "name": "Găiceana"
+    },
+    {
+      "id": 166169,
+      "name": "Galbeni"
+    },
+    {
+      "id": 166170,
+      "name": "Gârleni"
+    },
+    {
+      "id": 166171,
+      "name": "Gârlenii de Sus"
+    },
+    {
+      "id": 166172,
+      "name": "Găzărie"
+    },
+    {
+      "id": 166173,
+      "name": "Gheorghe Doja"
+    },
+    {
+      "id": 166174,
+      "name": "Ghimeș"
+    },
+    {
+      "id": 166175,
+      "name": "Ghimeş-Făget"
+    },
+    {
+      "id": 166176,
+      "name": "Gioseni"
+    },
+    {
+      "id": 166177,
+      "name": "Glăvăneşti"
+    },
+    {
+      "id": 166178,
+      "name": "Gura Văii"
+    },
+    {
+      "id": 166179,
+      "name": "Hăghiac"
+    },
+    {
+      "id": 166180,
+      "name": "Helegiu"
+    },
+    {
+      "id": 166181,
+      "name": "Hemeiuș"
+    },
+    {
+      "id": 166182,
+      "name": "Holt"
+    },
+    {
+      "id": 166183,
+      "name": "Horgeşti"
+    },
+    {
+      "id": 166184,
+      "name": "Huruiești"
+    },
+    {
+      "id": 166185,
+      "name": "Iteşti"
+    },
+    {
+      "id": 166186,
+      "name": "Izvoru Berheciului"
+    },
+    {
+      "id": 166187,
+      "name": "Lăpoș"
+    },
+    {
+      "id": 166188,
+      "name": "Larga"
+    },
+    {
+      "id": 166189,
+      "name": "Lespezi"
+    },
+    {
+      "id": 166190,
+      "name": "Letea Veche"
+    },
+    {
+      "id": 166191,
+      "name": "Lilieci"
+    },
+    {
+      "id": 166192,
+      "name": "Lipova"
+    },
+    {
+      "id": 166193,
+      "name": "Livezi"
+    },
+    {
+      "id": 166194,
+      "name": "Livezi-Vale"
+    },
+    {
+      "id": 166195,
+      "name": "Ludași"
+    },
+    {
+      "id": 166196,
+      "name": "Luizi-Călugăra"
+    },
+    {
+      "id": 166197,
+      "name": "Măgireşti"
+    },
+    {
+      "id": 166198,
+      "name": "Măgura"
+    },
+    {
+      "id": 166199,
+      "name": "Mânăstirea Caşin"
+    },
+    {
+      "id": 166200,
+      "name": "Mărgineni"
+    },
+    {
+      "id": 166201,
+      "name": "Mărgineni-Munteni"
+    },
+    {
+      "id": 166202,
+      "name": "Moineşti"
+    },
+    {
+      "id": 166203,
+      "name": "Motoşeni"
+    },
+    {
+      "id": 166204,
+      "name": "Municipiul Bacãu"
+    },
+    {
+      "id": 166205,
+      "name": "Municipiul Moineşti"
+    },
+    {
+      "id": 166206,
+      "name": "Municipiul Oneşti"
+    },
+    {
+      "id": 166207,
+      "name": "Negri"
+    },
+    {
+      "id": 166208,
+      "name": "Nicolae Bălcescu"
+    },
+    {
+      "id": 166209,
+      "name": "Odobești"
+    },
+    {
+      "id": 166210,
+      "name": "Oituz"
+    },
+    {
+      "id": 166211,
+      "name": "Onceşti"
+    },
+    {
+      "id": 166212,
+      "name": "Onesti"
+    },
+    {
+      "id": 166213,
+      "name": "Oraş Buhuşi"
+    },
+    {
+      "id": 166214,
+      "name": "Oraş Comãneşti"
+    },
+    {
+      "id": 166215,
+      "name": "Oraş Dãrmãneşti"
+    },
+    {
+      "id": 166216,
+      "name": "Oraş Slãnic-Moldova"
+    },
+    {
+      "id": 166217,
+      "name": "Oraş Târgu Ocna"
+    },
+    {
+      "id": 166218,
+      "name": "Orășa"
+    },
+    {
+      "id": 166219,
+      "name": "Orbeni"
+    },
+    {
+      "id": 166220,
+      "name": "Osebiți"
+    },
+    {
+      "id": 166221,
+      "name": "Palanca"
+    },
+    {
+      "id": 166222,
+      "name": "Pănceşti"
+    },
+    {
+      "id": 166223,
+      "name": "Parava"
+    },
+    {
+      "id": 166224,
+      "name": "Pârgăreşti"
+    },
+    {
+      "id": 166225,
+      "name": "Parincea"
+    },
+    {
+      "id": 166226,
+      "name": "Pârjol"
+    },
+    {
+      "id": 166227,
+      "name": "Plopana"
+    },
+    {
+      "id": 166228,
+      "name": "Plopu"
+    },
+    {
+      "id": 166229,
+      "name": "Podu Turcului"
+    },
+    {
+      "id": 166230,
+      "name": "Poduri"
+    },
+    {
+      "id": 166231,
+      "name": "Poiana"
+    },
+    {
+      "id": 166232,
+      "name": "Prăjești"
+    },
+    {
+      "id": 166233,
+      "name": "Prohozești"
+    },
+    {
+      "id": 166234,
+      "name": "Pustiana"
+    },
+    {
+      "id": 166235,
+      "name": "Răcăciuni"
+    },
+    {
+      "id": 166236,
+      "name": "Răcăuți"
+    },
+    {
+      "id": 166237,
+      "name": "Răchitoasa"
+    },
+    {
+      "id": 166238,
+      "name": "Racova"
+    },
+    {
+      "id": 166239,
+      "name": "Roşiori"
+    },
+    {
+      "id": 166240,
+      "name": "Sănduleni"
+    },
+    {
+      "id": 166241,
+      "name": "Sărata"
+    },
+    {
+      "id": 166242,
+      "name": "Sascut"
+    },
+    {
+      "id": 166243,
+      "name": "Sascut-Sat"
+    },
+    {
+      "id": 166244,
+      "name": "Satu Nou"
+    },
+    {
+      "id": 166245,
+      "name": "Săucești"
+    },
+    {
+      "id": 166246,
+      "name": "Schitu Frumoasa"
+    },
+    {
+      "id": 166247,
+      "name": "Scorţeni"
+    },
+    {
+      "id": 166248,
+      "name": "Scurta"
+    },
+    {
+      "id": 166249,
+      "name": "Secuieni"
+    },
+    {
+      "id": 166250,
+      "name": "Slănic-Moldova"
+    },
+    {
+      "id": 166251,
+      "name": "Slobozia"
+    },
+    {
+      "id": 166252,
+      "name": "Solonţ"
+    },
+    {
+      "id": 166253,
+      "name": "Somușca"
+    },
+    {
+      "id": 166254,
+      "name": "Stănişeşti"
+    },
+    {
+      "id": 166255,
+      "name": "Ştefan Cel Mare"
+    },
+    {
+      "id": 166256,
+      "name": "Ștefan Vodă"
+    },
+    {
+      "id": 166257,
+      "name": "Straja"
+    },
+    {
+      "id": 166258,
+      "name": "Strugari"
+    },
+    {
+      "id": 166259,
+      "name": "Tamaşi"
+    },
+    {
+      "id": 166260,
+      "name": "Târgu Ocna"
+    },
+    {
+      "id": 166261,
+      "name": "Târgu Trotuş"
+    },
+    {
+      "id": 166262,
+      "name": "Tătărăști"
+    },
+    {
+      "id": 166263,
+      "name": "Traian"
+    },
+    {
+      "id": 166264,
+      "name": "Turluianu"
+    },
+    {
+      "id": 166265,
+      "name": "Tuta"
+    },
+    {
+      "id": 166266,
+      "name": "Ungureni"
+    },
+    {
+      "id": 166267,
+      "name": "Urecheşti"
+    },
+    {
+      "id": 166268,
+      "name": "Vâlcele"
+    },
+    {
+      "id": 166269,
+      "name": "Valea Arinilor"
+    },
+    {
+      "id": 166270,
+      "name": "Valea lui Ion"
+    },
+    {
+      "id": 166271,
+      "name": "Valea Seacă"
+    },
+    {
+      "id": 166272,
+      "name": "Valea Șoșii"
+    },
+    {
+      "id": 166273,
+      "name": "Vermești"
+    },
+    {
+      "id": 166274,
+      "name": "Verșești"
+    },
+    {
+      "id": 166275,
+      "name": "Viișoara"
+    },
+    {
+      "id": 166276,
+      "name": "Vultureni"
+    },
+    {
+      "id": 166277,
+      "name": "Zemeş"
+    }
+  ]
+}

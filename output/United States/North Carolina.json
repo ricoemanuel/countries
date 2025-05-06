@@ -1,0 +1,2223 @@
+{
+  "id": 7469,
+  "name": "North Carolina",
+  "state_code": "NC",
+  "cities": [
+    {
+      "id": 213999,
+      "name": "Aberdeen"
+    },
+    {
+      "id": 214000,
+      "name": "Advance"
+    },
+    {
+      "id": 214001,
+      "name": "Ahoskie"
+    },
+    {
+      "id": 214002,
+      "name": "Alamance County"
+    },
+    {
+      "id": 214003,
+      "name": "Albemarle"
+    },
+    {
+      "id": 214004,
+      "name": "Alexander County"
+    },
+    {
+      "id": 214005,
+      "name": "Alleghany County"
+    },
+    {
+      "id": 214006,
+      "name": "Andrews"
+    },
+    {
+      "id": 214007,
+      "name": "Angier"
+    },
+    {
+      "id": 214008,
+      "name": "Anson County"
+    },
+    {
+      "id": 214009,
+      "name": "Apex"
+    },
+    {
+      "id": 214010,
+      "name": "Archdale"
+    },
+    {
+      "id": 214011,
+      "name": "Archer Lodge"
+    },
+    {
+      "id": 214012,
+      "name": "Ashe County"
+    },
+    {
+      "id": 214013,
+      "name": "Asheboro"
+    },
+    {
+      "id": 214014,
+      "name": "Asheville"
+    },
+    {
+      "id": 214015,
+      "name": "Atlantic Beach"
+    },
+    {
+      "id": 214016,
+      "name": "Avery County"
+    },
+    {
+      "id": 214017,
+      "name": "Avery Creek"
+    },
+    {
+      "id": 214018,
+      "name": "Ayden"
+    },
+    {
+      "id": 214019,
+      "name": "Badin"
+    },
+    {
+      "id": 214020,
+      "name": "Bakersville"
+    },
+    {
+      "id": 214021,
+      "name": "Balfour"
+    },
+    {
+      "id": 214022,
+      "name": "Banner Elk"
+    },
+    {
+      "id": 214023,
+      "name": "Barker Heights"
+    },
+    {
+      "id": 214024,
+      "name": "Bayboro"
+    },
+    {
+      "id": 214025,
+      "name": "Bayshore"
+    },
+    {
+      "id": 214026,
+      "name": "Beaufort"
+    },
+    {
+      "id": 214027,
+      "name": "Beaufort County"
+    },
+    {
+      "id": 214028,
+      "name": "Belhaven"
+    },
+    {
+      "id": 214029,
+      "name": "Belmont"
+    },
+    {
+      "id": 214030,
+      "name": "Belville"
+    },
+    {
+      "id": 214031,
+      "name": "Benson"
+    },
+    {
+      "id": 214032,
+      "name": "Bent Creek"
+    },
+    {
+      "id": 214033,
+      "name": "Bermuda Run"
+    },
+    {
+      "id": 214034,
+      "name": "Bertie County"
+    },
+    {
+      "id": 214035,
+      "name": "Bessemer City"
+    },
+    {
+      "id": 214036,
+      "name": "Bethel"
+    },
+    {
+      "id": 214037,
+      "name": "Bethlehem"
+    },
+    {
+      "id": 214038,
+      "name": "Beulaville"
+    },
+    {
+      "id": 214039,
+      "name": "Biltmore Forest"
+    },
+    {
+      "id": 214040,
+      "name": "Biscoe"
+    },
+    {
+      "id": 214041,
+      "name": "Black Mountain"
+    },
+    {
+      "id": 214042,
+      "name": "Bladen County"
+    },
+    {
+      "id": 214043,
+      "name": "Bladenboro"
+    },
+    {
+      "id": 214044,
+      "name": "Blowing Rock"
+    },
+    {
+      "id": 214045,
+      "name": "Boiling Spring Lakes"
+    },
+    {
+      "id": 214046,
+      "name": "Boiling Springs"
+    },
+    {
+      "id": 214047,
+      "name": "Bolivia"
+    },
+    {
+      "id": 214048,
+      "name": "Boone"
+    },
+    {
+      "id": 214049,
+      "name": "Boonville"
+    },
+    {
+      "id": 214050,
+      "name": "Brevard"
+    },
+    {
+      "id": 214051,
+      "name": "Brices Creek"
+    },
+    {
+      "id": 214052,
+      "name": "Broad Creek"
+    },
+    {
+      "id": 214053,
+      "name": "Broadway"
+    },
+    {
+      "id": 214054,
+      "name": "Brogden"
+    },
+    {
+      "id": 214055,
+      "name": "Brunswick"
+    },
+    {
+      "id": 214056,
+      "name": "Brunswick County"
+    },
+    {
+      "id": 214057,
+      "name": "Bryson City"
+    },
+    {
+      "id": 214058,
+      "name": "Buies Creek"
+    },
+    {
+      "id": 214059,
+      "name": "Buncombe County"
+    },
+    {
+      "id": 214060,
+      "name": "Burgaw"
+    },
+    {
+      "id": 214061,
+      "name": "Burke County"
+    },
+    {
+      "id": 214062,
+      "name": "Burlington"
+    },
+    {
+      "id": 214063,
+      "name": "Burnsville"
+    },
+    {
+      "id": 214064,
+      "name": "Butner"
+    },
+    {
+      "id": 214065,
+      "name": "Buxton"
+    },
+    {
+      "id": 214066,
+      "name": "Cabarrus County"
+    },
+    {
+      "id": 214067,
+      "name": "Cajahs Mountain"
+    },
+    {
+      "id": 214068,
+      "name": "Calabash"
+    },
+    {
+      "id": 214069,
+      "name": "Caldwell County"
+    },
+    {
+      "id": 214070,
+      "name": "Camden"
+    },
+    {
+      "id": 214071,
+      "name": "Camden County"
+    },
+    {
+      "id": 214072,
+      "name": "Canton"
+    },
+    {
+      "id": 214073,
+      "name": "Cape Carteret"
+    },
+    {
+      "id": 214074,
+      "name": "Carolina Beach"
+    },
+    {
+      "id": 214075,
+      "name": "Carolina Shores"
+    },
+    {
+      "id": 214076,
+      "name": "Carrboro"
+    },
+    {
+      "id": 214077,
+      "name": "Carteret County"
+    },
+    {
+      "id": 214078,
+      "name": "Carthage"
+    },
+    {
+      "id": 214079,
+      "name": "Cary"
+    },
+    {
+      "id": 214080,
+      "name": "Castle Hayne"
+    },
+    {
+      "id": 214081,
+      "name": "Caswell County"
+    },
+    {
+      "id": 214082,
+      "name": "Catawba County"
+    },
+    {
+      "id": 214083,
+      "name": "Cedar Point"
+    },
+    {
+      "id": 214084,
+      "name": "Chadbourn"
+    },
+    {
+      "id": 214085,
+      "name": "Chapel Hill"
+    },
+    {
+      "id": 214086,
+      "name": "Charlotte"
+    },
+    {
+      "id": 214087,
+      "name": "Chatham County"
+    },
+    {
+      "id": 214088,
+      "name": "Cherokee"
+    },
+    {
+      "id": 214089,
+      "name": "Cherokee County"
+    },
+    {
+      "id": 214090,
+      "name": "Cherryville"
+    },
+    {
+      "id": 214091,
+      "name": "China Grove"
+    },
+    {
+      "id": 214092,
+      "name": "Chowan County"
+    },
+    {
+      "id": 214093,
+      "name": "Claremont"
+    },
+    {
+      "id": 214094,
+      "name": "Clay County"
+    },
+    {
+      "id": 214095,
+      "name": "Clayton"
+    },
+    {
+      "id": 214096,
+      "name": "Clemmons"
+    },
+    {
+      "id": 214097,
+      "name": "Cleveland County"
+    },
+    {
+      "id": 214098,
+      "name": "Clinton"
+    },
+    {
+      "id": 214099,
+      "name": "Clyde"
+    },
+    {
+      "id": 214100,
+      "name": "Coats"
+    },
+    {
+      "id": 214101,
+      "name": "Columbia"
+    },
+    {
+      "id": 214102,
+      "name": "Columbus"
+    },
+    {
+      "id": 214103,
+      "name": "Columbus County"
+    },
+    {
+      "id": 214104,
+      "name": "Concord"
+    },
+    {
+      "id": 214105,
+      "name": "Connelly Springs"
+    },
+    {
+      "id": 214106,
+      "name": "Conover"
+    },
+    {
+      "id": 214107,
+      "name": "Cordova"
+    },
+    {
+      "id": 214108,
+      "name": "Cornelius"
+    },
+    {
+      "id": 214109,
+      "name": "Cove Creek"
+    },
+    {
+      "id": 214110,
+      "name": "Cramerton"
+    },
+    {
+      "id": 214111,
+      "name": "Craven County"
+    },
+    {
+      "id": 214112,
+      "name": "Creedmoor"
+    },
+    {
+      "id": 214113,
+      "name": "Cricket"
+    },
+    {
+      "id": 214114,
+      "name": "Cullowhee"
+    },
+    {
+      "id": 214115,
+      "name": "Cumberland County"
+    },
+    {
+      "id": 214116,
+      "name": "Currituck"
+    },
+    {
+      "id": 214117,
+      "name": "Currituck County"
+    },
+    {
+      "id": 214118,
+      "name": "Dallas"
+    },
+    {
+      "id": 214119,
+      "name": "Dana"
+    },
+    {
+      "id": 214120,
+      "name": "Danbury"
+    },
+    {
+      "id": 214121,
+      "name": "Dare County"
+    },
+    {
+      "id": 214122,
+      "name": "Davidson"
+    },
+    {
+      "id": 214123,
+      "name": "Davidson County"
+    },
+    {
+      "id": 214124,
+      "name": "Davie County"
+    },
+    {
+      "id": 214125,
+      "name": "Denton"
+    },
+    {
+      "id": 214126,
+      "name": "Denver"
+    },
+    {
+      "id": 214127,
+      "name": "Dobson"
+    },
+    {
+      "id": 214128,
+      "name": "Drexel"
+    },
+    {
+      "id": 214129,
+      "name": "Dunn"
+    },
+    {
+      "id": 214130,
+      "name": "Duplin County"
+    },
+    {
+      "id": 214131,
+      "name": "Durham"
+    },
+    {
+      "id": 214132,
+      "name": "Durham County"
+    },
+    {
+      "id": 214133,
+      "name": "East Flat Rock"
+    },
+    {
+      "id": 214134,
+      "name": "East Rockingham"
+    },
+    {
+      "id": 214135,
+      "name": "East Spencer"
+    },
+    {
+      "id": 214136,
+      "name": "Eastover"
+    },
+    {
+      "id": 214137,
+      "name": "Eden"
+    },
+    {
+      "id": 214138,
+      "name": "Edenton"
+    },
+    {
+      "id": 214139,
+      "name": "Edgecombe County"
+    },
+    {
+      "id": 214140,
+      "name": "Edneyville"
+    },
+    {
+      "id": 214141,
+      "name": "Elizabeth City"
+    },
+    {
+      "id": 214142,
+      "name": "Elizabethtown"
+    },
+    {
+      "id": 214143,
+      "name": "Elkin"
+    },
+    {
+      "id": 214144,
+      "name": "Ellerbe"
+    },
+    {
+      "id": 214145,
+      "name": "Elm City"
+    },
+    {
+      "id": 214146,
+      "name": "Elon"
+    },
+    {
+      "id": 214147,
+      "name": "Elroy"
+    },
+    {
+      "id": 214148,
+      "name": "Emerald Isle"
+    },
+    {
+      "id": 214149,
+      "name": "Enfield"
+    },
+    {
+      "id": 214150,
+      "name": "Enochville"
+    },
+    {
+      "id": 214151,
+      "name": "Erwin"
+    },
+    {
+      "id": 214152,
+      "name": "Etowah"
+    },
+    {
+      "id": 214153,
+      "name": "Fairfield Harbour"
+    },
+    {
+      "id": 214154,
+      "name": "Fairmont"
+    },
+    {
+      "id": 214155,
+      "name": "Fairplains"
+    },
+    {
+      "id": 214156,
+      "name": "Fairview"
+    },
+    {
+      "id": 214157,
+      "name": "Farmville"
+    },
+    {
+      "id": 214158,
+      "name": "Fayetteville"
+    },
+    {
+      "id": 214159,
+      "name": "Fearrington Village"
+    },
+    {
+      "id": 214160,
+      "name": "Flat Rock"
+    },
+    {
+      "id": 214161,
+      "name": "Fletcher"
+    },
+    {
+      "id": 214162,
+      "name": "Forest City"
+    },
+    {
+      "id": 214163,
+      "name": "Forest Oaks"
+    },
+    {
+      "id": 214164,
+      "name": "Forsyth County"
+    },
+    {
+      "id": 214165,
+      "name": "Fort Bragg"
+    },
+    {
+      "id": 214166,
+      "name": "Foscoe"
+    },
+    {
+      "id": 214167,
+      "name": "Four Oaks"
+    },
+    {
+      "id": 214168,
+      "name": "Franklin"
+    },
+    {
+      "id": 214169,
+      "name": "Franklin County"
+    },
+    {
+      "id": 214170,
+      "name": "Franklinton"
+    },
+    {
+      "id": 214171,
+      "name": "Franklinville"
+    },
+    {
+      "id": 214172,
+      "name": "Fremont"
+    },
+    {
+      "id": 214173,
+      "name": "Fruitland"
+    },
+    {
+      "id": 214174,
+      "name": "Fuquay-Varina"
+    },
+    {
+      "id": 214175,
+      "name": "Gamewell"
+    },
+    {
+      "id": 214176,
+      "name": "Garner"
+    },
+    {
+      "id": 214177,
+      "name": "Gaston"
+    },
+    {
+      "id": 214178,
+      "name": "Gaston County"
+    },
+    {
+      "id": 214179,
+      "name": "Gastonia"
+    },
+    {
+      "id": 214180,
+      "name": "Gates County"
+    },
+    {
+      "id": 214181,
+      "name": "Gatesville"
+    },
+    {
+      "id": 214182,
+      "name": "Gibsonville"
+    },
+    {
+      "id": 214183,
+      "name": "Glen Alpine"
+    },
+    {
+      "id": 214184,
+      "name": "Glen Raven"
+    },
+    {
+      "id": 214185,
+      "name": "Goldsboro"
+    },
+    {
+      "id": 214186,
+      "name": "Gorman"
+    },
+    {
+      "id": 214187,
+      "name": "Graham"
+    },
+    {
+      "id": 214188,
+      "name": "Graham County"
+    },
+    {
+      "id": 214189,
+      "name": "Granite Falls"
+    },
+    {
+      "id": 214190,
+      "name": "Granite Quarry"
+    },
+    {
+      "id": 214191,
+      "name": "Granville County"
+    },
+    {
+      "id": 214192,
+      "name": "Green Level"
+    },
+    {
+      "id": 214193,
+      "name": "Greene County"
+    },
+    {
+      "id": 214194,
+      "name": "Greensboro"
+    },
+    {
+      "id": 214195,
+      "name": "Greenville"
+    },
+    {
+      "id": 214196,
+      "name": "Grifton"
+    },
+    {
+      "id": 214197,
+      "name": "Guilford County"
+    },
+    {
+      "id": 214198,
+      "name": "Half Moon"
+    },
+    {
+      "id": 214199,
+      "name": "Halifax"
+    },
+    {
+      "id": 214200,
+      "name": "Halifax County"
+    },
+    {
+      "id": 214201,
+      "name": "Hamlet"
+    },
+    {
+      "id": 214202,
+      "name": "Hampstead"
+    },
+    {
+      "id": 214203,
+      "name": "Harkers Island"
+    },
+    {
+      "id": 214204,
+      "name": "Harnett County"
+    },
+    {
+      "id": 214205,
+      "name": "Harrisburg"
+    },
+    {
+      "id": 214206,
+      "name": "Havelock"
+    },
+    {
+      "id": 214207,
+      "name": "Haw River"
+    },
+    {
+      "id": 214208,
+      "name": "Hayesville"
+    },
+    {
+      "id": 214209,
+      "name": "Hays"
+    },
+    {
+      "id": 214210,
+      "name": "Haywood County"
+    },
+    {
+      "id": 214211,
+      "name": "Hazelwood"
+    },
+    {
+      "id": 214212,
+      "name": "Hemby Bridge"
+    },
+    {
+      "id": 214213,
+      "name": "Henderson"
+    },
+    {
+      "id": 214214,
+      "name": "Henderson County"
+    },
+    {
+      "id": 214215,
+      "name": "Hendersonville"
+    },
+    {
+      "id": 214216,
+      "name": "Hertford"
+    },
+    {
+      "id": 214217,
+      "name": "Hertford County"
+    },
+    {
+      "id": 214218,
+      "name": "Hickory"
+    },
+    {
+      "id": 214219,
+      "name": "High Point"
+    },
+    {
+      "id": 214220,
+      "name": "Hildebran"
+    },
+    {
+      "id": 214221,
+      "name": "Hillsborough"
+    },
+    {
+      "id": 214222,
+      "name": "Hoke County"
+    },
+    {
+      "id": 214223,
+      "name": "Holly Ridge"
+    },
+    {
+      "id": 214224,
+      "name": "Holly Springs"
+    },
+    {
+      "id": 214225,
+      "name": "Hoopers Creek"
+    },
+    {
+      "id": 214226,
+      "name": "Hope Mills"
+    },
+    {
+      "id": 214227,
+      "name": "Horse Shoe"
+    },
+    {
+      "id": 214228,
+      "name": "Hudson"
+    },
+    {
+      "id": 214229,
+      "name": "Huntersville"
+    },
+    {
+      "id": 214230,
+      "name": "Hyde County"
+    },
+    {
+      "id": 214231,
+      "name": "Icard"
+    },
+    {
+      "id": 214232,
+      "name": "Indian Trail"
+    },
+    {
+      "id": 214233,
+      "name": "Iredell County"
+    },
+    {
+      "id": 214234,
+      "name": "Jackson"
+    },
+    {
+      "id": 214235,
+      "name": "Jackson County"
+    },
+    {
+      "id": 214236,
+      "name": "Jacksonville"
+    },
+    {
+      "id": 214237,
+      "name": "James City"
+    },
+    {
+      "id": 214238,
+      "name": "Jamestown"
+    },
+    {
+      "id": 214239,
+      "name": "Jefferson"
+    },
+    {
+      "id": 214240,
+      "name": "Johnston County"
+    },
+    {
+      "id": 214241,
+      "name": "Jones County"
+    },
+    {
+      "id": 214242,
+      "name": "Jonesville"
+    },
+    {
+      "id": 214243,
+      "name": "Kannapolis"
+    },
+    {
+      "id": 214244,
+      "name": "Kenansville"
+    },
+    {
+      "id": 214245,
+      "name": "Kenly"
+    },
+    {
+      "id": 214246,
+      "name": "Kernersville"
+    },
+    {
+      "id": 214247,
+      "name": "Kill Devil Hills"
+    },
+    {
+      "id": 214248,
+      "name": "King"
+    },
+    {
+      "id": 214249,
+      "name": "Kings Grant"
+    },
+    {
+      "id": 214250,
+      "name": "Kings Mountain"
+    },
+    {
+      "id": 214251,
+      "name": "Kinston"
+    },
+    {
+      "id": 214252,
+      "name": "Kitty Hawk"
+    },
+    {
+      "id": 214253,
+      "name": "Knightdale"
+    },
+    {
+      "id": 214254,
+      "name": "Kure Beach"
+    },
+    {
+      "id": 214255,
+      "name": "La Grange"
+    },
+    {
+      "id": 214256,
+      "name": "Lake Junaluska"
+    },
+    {
+      "id": 214257,
+      "name": "Lake Lure"
+    },
+    {
+      "id": 214258,
+      "name": "Lake Norman of Catawba"
+    },
+    {
+      "id": 214259,
+      "name": "Lake Park"
+    },
+    {
+      "id": 214260,
+      "name": "Lake Waccamaw"
+    },
+    {
+      "id": 214261,
+      "name": "Landis"
+    },
+    {
+      "id": 214262,
+      "name": "Laurel Hill"
+    },
+    {
+      "id": 214263,
+      "name": "Laurel Park"
+    },
+    {
+      "id": 214264,
+      "name": "Laurinburg"
+    },
+    {
+      "id": 214265,
+      "name": "Lee County"
+    },
+    {
+      "id": 214266,
+      "name": "Leland"
+    },
+    {
+      "id": 214267,
+      "name": "Lenoir"
+    },
+    {
+      "id": 214268,
+      "name": "Lenoir County"
+    },
+    {
+      "id": 214269,
+      "name": "Lewisville"
+    },
+    {
+      "id": 214270,
+      "name": "Lexington"
+    },
+    {
+      "id": 214271,
+      "name": "Liberty"
+    },
+    {
+      "id": 214272,
+      "name": "Lillington"
+    },
+    {
+      "id": 214273,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 214274,
+      "name": "Lincolnton"
+    },
+    {
+      "id": 214275,
+      "name": "Locust"
+    },
+    {
+      "id": 214276,
+      "name": "Long Beach"
+    },
+    {
+      "id": 214277,
+      "name": "Longview"
+    },
+    {
+      "id": 214278,
+      "name": "Louisburg"
+    },
+    {
+      "id": 214279,
+      "name": "Lowell"
+    },
+    {
+      "id": 214280,
+      "name": "Lowesville"
+    },
+    {
+      "id": 214281,
+      "name": "Lucama"
+    },
+    {
+      "id": 214282,
+      "name": "Lumberton"
+    },
+    {
+      "id": 214283,
+      "name": "Macon County"
+    },
+    {
+      "id": 214284,
+      "name": "Madison"
+    },
+    {
+      "id": 214285,
+      "name": "Madison County"
+    },
+    {
+      "id": 214286,
+      "name": "Maggie Valley"
+    },
+    {
+      "id": 214287,
+      "name": "Maiden"
+    },
+    {
+      "id": 214288,
+      "name": "Manteo"
+    },
+    {
+      "id": 214289,
+      "name": "Mar-Mac"
+    },
+    {
+      "id": 214290,
+      "name": "Marion"
+    },
+    {
+      "id": 214291,
+      "name": "Mars Hill"
+    },
+    {
+      "id": 214292,
+      "name": "Marshall"
+    },
+    {
+      "id": 214293,
+      "name": "Marshville"
+    },
+    {
+      "id": 214294,
+      "name": "Martin County"
+    },
+    {
+      "id": 214295,
+      "name": "Marvin"
+    },
+    {
+      "id": 214296,
+      "name": "Masonboro"
+    },
+    {
+      "id": 214297,
+      "name": "Matthews"
+    },
+    {
+      "id": 214298,
+      "name": "Maury"
+    },
+    {
+      "id": 214299,
+      "name": "Maxton"
+    },
+    {
+      "id": 214300,
+      "name": "Mayodan"
+    },
+    {
+      "id": 214301,
+      "name": "Maysville"
+    },
+    {
+      "id": 214302,
+      "name": "McDowell County"
+    },
+    {
+      "id": 214303,
+      "name": "McLeansville"
+    },
+    {
+      "id": 214304,
+      "name": "Mebane"
+    },
+    {
+      "id": 214305,
+      "name": "Mecklenburg County"
+    },
+    {
+      "id": 214306,
+      "name": "Midland"
+    },
+    {
+      "id": 214307,
+      "name": "Midway"
+    },
+    {
+      "id": 214308,
+      "name": "Millers Creek"
+    },
+    {
+      "id": 214309,
+      "name": "Mills River"
+    },
+    {
+      "id": 214310,
+      "name": "Mineral Springs"
+    },
+    {
+      "id": 214311,
+      "name": "Mint Hill"
+    },
+    {
+      "id": 214312,
+      "name": "Mitchell County"
+    },
+    {
+      "id": 214313,
+      "name": "Mocksville"
+    },
+    {
+      "id": 214314,
+      "name": "Monroe"
+    },
+    {
+      "id": 214315,
+      "name": "Montgomery County"
+    },
+    {
+      "id": 214316,
+      "name": "Moore County"
+    },
+    {
+      "id": 214317,
+      "name": "Mooresville"
+    },
+    {
+      "id": 214318,
+      "name": "Moravian Falls"
+    },
+    {
+      "id": 214319,
+      "name": "Morehead City"
+    },
+    {
+      "id": 214320,
+      "name": "Morganton"
+    },
+    {
+      "id": 214321,
+      "name": "Morrisville"
+    },
+    {
+      "id": 214322,
+      "name": "Mount Airy"
+    },
+    {
+      "id": 214323,
+      "name": "Mount Gilead"
+    },
+    {
+      "id": 214324,
+      "name": "Mount Holly"
+    },
+    {
+      "id": 214325,
+      "name": "Mount Olive"
+    },
+    {
+      "id": 214326,
+      "name": "Mount Pleasant"
+    },
+    {
+      "id": 214327,
+      "name": "Mountain Home"
+    },
+    {
+      "id": 214328,
+      "name": "Mountain View"
+    },
+    {
+      "id": 214329,
+      "name": "Moyock"
+    },
+    {
+      "id": 214330,
+      "name": "Mulberry"
+    },
+    {
+      "id": 214331,
+      "name": "Murfreesboro"
+    },
+    {
+      "id": 214332,
+      "name": "Murphy"
+    },
+    {
+      "id": 214333,
+      "name": "Murraysville"
+    },
+    {
+      "id": 214334,
+      "name": "Myrtle Grove"
+    },
+    {
+      "id": 214335,
+      "name": "Nags Head"
+    },
+    {
+      "id": 214336,
+      "name": "Nash County"
+    },
+    {
+      "id": 214337,
+      "name": "Nashville"
+    },
+    {
+      "id": 214338,
+      "name": "Navassa"
+    },
+    {
+      "id": 214339,
+      "name": "Neuse Forest"
+    },
+    {
+      "id": 214340,
+      "name": "New Bern"
+    },
+    {
+      "id": 214341,
+      "name": "New Hanover County"
+    },
+    {
+      "id": 214342,
+      "name": "Newland"
+    },
+    {
+      "id": 214343,
+      "name": "Newport"
+    },
+    {
+      "id": 214344,
+      "name": "Newton"
+    },
+    {
+      "id": 214345,
+      "name": "Norlina"
+    },
+    {
+      "id": 214346,
+      "name": "North Wilkesboro"
+    },
+    {
+      "id": 214347,
+      "name": "Northampton County"
+    },
+    {
+      "id": 214348,
+      "name": "Northchase"
+    },
+    {
+      "id": 214349,
+      "name": "Northlakes"
+    },
+    {
+      "id": 214350,
+      "name": "Norwood"
+    },
+    {
+      "id": 214351,
+      "name": "Oak Island"
+    },
+    {
+      "id": 214352,
+      "name": "Oak Ridge"
+    },
+    {
+      "id": 214353,
+      "name": "Oakboro"
+    },
+    {
+      "id": 214354,
+      "name": "Ogden"
+    },
+    {
+      "id": 214355,
+      "name": "Onslow County"
+    },
+    {
+      "id": 214356,
+      "name": "Orange County"
+    },
+    {
+      "id": 214357,
+      "name": "Oxford"
+    },
+    {
+      "id": 214358,
+      "name": "Pamlico County"
+    },
+    {
+      "id": 214359,
+      "name": "Pasquotank County"
+    },
+    {
+      "id": 214360,
+      "name": "Pembroke"
+    },
+    {
+      "id": 214361,
+      "name": "Pender County"
+    },
+    {
+      "id": 214362,
+      "name": "Perquimans County"
+    },
+    {
+      "id": 214363,
+      "name": "Person County"
+    },
+    {
+      "id": 214364,
+      "name": "Pilot Mountain"
+    },
+    {
+      "id": 214365,
+      "name": "Pine Knoll Shores"
+    },
+    {
+      "id": 214366,
+      "name": "Pine Level"
+    },
+    {
+      "id": 214367,
+      "name": "Pinebluff"
+    },
+    {
+      "id": 214368,
+      "name": "Pinehurst"
+    },
+    {
+      "id": 214369,
+      "name": "Pinetops"
+    },
+    {
+      "id": 214370,
+      "name": "Pineville"
+    },
+    {
+      "id": 214371,
+      "name": "Piney Green"
+    },
+    {
+      "id": 214372,
+      "name": "Pitt County"
+    },
+    {
+      "id": 214373,
+      "name": "Pittsboro"
+    },
+    {
+      "id": 214374,
+      "name": "Plain View"
+    },
+    {
+      "id": 214375,
+      "name": "Pleasant Garden"
+    },
+    {
+      "id": 214376,
+      "name": "Pleasant Hill"
+    },
+    {
+      "id": 214377,
+      "name": "Plymouth"
+    },
+    {
+      "id": 214378,
+      "name": "Polk County"
+    },
+    {
+      "id": 214379,
+      "name": "Polkton"
+    },
+    {
+      "id": 214380,
+      "name": "Princeton"
+    },
+    {
+      "id": 214381,
+      "name": "Princeville"
+    },
+    {
+      "id": 214382,
+      "name": "Pumpkin Center"
+    },
+    {
+      "id": 214383,
+      "name": "Raeford"
+    },
+    {
+      "id": 214384,
+      "name": "Raleigh"
+    },
+    {
+      "id": 214385,
+      "name": "Ramseur"
+    },
+    {
+      "id": 214386,
+      "name": "Randleman"
+    },
+    {
+      "id": 214387,
+      "name": "Randolph County"
+    },
+    {
+      "id": 214388,
+      "name": "Ranlo"
+    },
+    {
+      "id": 214389,
+      "name": "Red Oak"
+    },
+    {
+      "id": 214390,
+      "name": "Red Springs"
+    },
+    {
+      "id": 214391,
+      "name": "Reidsville"
+    },
+    {
+      "id": 214392,
+      "name": "Rhodhiss"
+    },
+    {
+      "id": 214393,
+      "name": "Richlands"
+    },
+    {
+      "id": 214394,
+      "name": "Richmond County"
+    },
+    {
+      "id": 214395,
+      "name": "River Bend"
+    },
+    {
+      "id": 214396,
+      "name": "River Road"
+    },
+    {
+      "id": 214397,
+      "name": "Roanoke Rapids"
+    },
+    {
+      "id": 214398,
+      "name": "Robbins"
+    },
+    {
+      "id": 214399,
+      "name": "Robbinsville"
+    },
+    {
+      "id": 214400,
+      "name": "Robersonville"
+    },
+    {
+      "id": 214401,
+      "name": "Robeson County"
+    },
+    {
+      "id": 214402,
+      "name": "Rockfish"
+    },
+    {
+      "id": 214403,
+      "name": "Rockingham"
+    },
+    {
+      "id": 214404,
+      "name": "Rockingham County"
+    },
+    {
+      "id": 214405,
+      "name": "Rockwell"
+    },
+    {
+      "id": 214406,
+      "name": "Rocky Mount"
+    },
+    {
+      "id": 214407,
+      "name": "Rocky Point"
+    },
+    {
+      "id": 214408,
+      "name": "Rolesville"
+    },
+    {
+      "id": 214409,
+      "name": "Rose Hill"
+    },
+    {
+      "id": 214410,
+      "name": "Roseboro"
+    },
+    {
+      "id": 214411,
+      "name": "Rowan County"
+    },
+    {
+      "id": 214412,
+      "name": "Rowland"
+    },
+    {
+      "id": 214413,
+      "name": "Roxboro"
+    },
+    {
+      "id": 214414,
+      "name": "Royal Pines"
+    },
+    {
+      "id": 214415,
+      "name": "Rural Hall"
+    },
+    {
+      "id": 214416,
+      "name": "Rutherford College"
+    },
+    {
+      "id": 214417,
+      "name": "Rutherford County"
+    },
+    {
+      "id": 214418,
+      "name": "Rutherfordton"
+    },
+    {
+      "id": 214419,
+      "name": "Saint James"
+    },
+    {
+      "id": 214420,
+      "name": "Saint Pauls"
+    },
+    {
+      "id": 214421,
+      "name": "Saint Stephens"
+    },
+    {
+      "id": 214422,
+      "name": "Salem"
+    },
+    {
+      "id": 214423,
+      "name": "Salisbury"
+    },
+    {
+      "id": 214424,
+      "name": "Sampson County"
+    },
+    {
+      "id": 214425,
+      "name": "Sanford"
+    },
+    {
+      "id": 214426,
+      "name": "Sawmills"
+    },
+    {
+      "id": 214427,
+      "name": "Saxapahaw"
+    },
+    {
+      "id": 214428,
+      "name": "Scotland County"
+    },
+    {
+      "id": 214429,
+      "name": "Scotland Neck"
+    },
+    {
+      "id": 214430,
+      "name": "Scotts Mill"
+    },
+    {
+      "id": 214431,
+      "name": "Sea Breeze"
+    },
+    {
+      "id": 214432,
+      "name": "Seagate"
+    },
+    {
+      "id": 214433,
+      "name": "Selma"
+    },
+    {
+      "id": 214434,
+      "name": "Seven Lakes"
+    },
+    {
+      "id": 214435,
+      "name": "Shallotte"
+    },
+    {
+      "id": 214436,
+      "name": "Sharpsburg"
+    },
+    {
+      "id": 214437,
+      "name": "Shelby"
+    },
+    {
+      "id": 214438,
+      "name": "Sherrills Ford"
+    },
+    {
+      "id": 214439,
+      "name": "Siler City"
+    },
+    {
+      "id": 214440,
+      "name": "Silver Lake"
+    },
+    {
+      "id": 214441,
+      "name": "Skippers Corner"
+    },
+    {
+      "id": 214442,
+      "name": "Smithfield"
+    },
+    {
+      "id": 214443,
+      "name": "Sneads Ferry"
+    },
+    {
+      "id": 214444,
+      "name": "Snow Hill"
+    },
+    {
+      "id": 214445,
+      "name": "South Gastonia"
+    },
+    {
+      "id": 214446,
+      "name": "South Henderson"
+    },
+    {
+      "id": 214447,
+      "name": "South Rosemary"
+    },
+    {
+      "id": 214448,
+      "name": "Southern Pines"
+    },
+    {
+      "id": 214449,
+      "name": "Southern Shores"
+    },
+    {
+      "id": 214450,
+      "name": "Southmont"
+    },
+    {
+      "id": 214451,
+      "name": "Southport"
+    },
+    {
+      "id": 214452,
+      "name": "Sparta"
+    },
+    {
+      "id": 214453,
+      "name": "Spencer"
+    },
+    {
+      "id": 214454,
+      "name": "Spindale"
+    },
+    {
+      "id": 214455,
+      "name": "Spring Hope"
+    },
+    {
+      "id": 214456,
+      "name": "Spring Lake"
+    },
+    {
+      "id": 214457,
+      "name": "Spruce Pine"
+    },
+    {
+      "id": 214458,
+      "name": "Stallings"
+    },
+    {
+      "id": 214459,
+      "name": "Stanfield"
+    },
+    {
+      "id": 214460,
+      "name": "Stanley"
+    },
+    {
+      "id": 214461,
+      "name": "Stanly County"
+    },
+    {
+      "id": 214462,
+      "name": "Statesville"
+    },
+    {
+      "id": 214463,
+      "name": "Stedman"
+    },
+    {
+      "id": 214464,
+      "name": "Stokes County"
+    },
+    {
+      "id": 214465,
+      "name": "Stokesdale"
+    },
+    {
+      "id": 214466,
+      "name": "Stoneville"
+    },
+    {
+      "id": 214467,
+      "name": "Stony Point"
+    },
+    {
+      "id": 214468,
+      "name": "Summerfield"
+    },
+    {
+      "id": 214469,
+      "name": "Sunset Beach"
+    },
+    {
+      "id": 214470,
+      "name": "Surf City"
+    },
+    {
+      "id": 214471,
+      "name": "Surry County"
+    },
+    {
+      "id": 214472,
+      "name": "Swain County"
+    },
+    {
+      "id": 214473,
+      "name": "Swannanoa"
+    },
+    {
+      "id": 214474,
+      "name": "Swanquarter"
+    },
+    {
+      "id": 214475,
+      "name": "Swansboro"
+    },
+    {
+      "id": 214476,
+      "name": "Swepsonville"
+    },
+    {
+      "id": 214477,
+      "name": "Sylva"
+    },
+    {
+      "id": 214478,
+      "name": "Tabor City"
+    },
+    {
+      "id": 214479,
+      "name": "Tarboro"
+    },
+    {
+      "id": 214480,
+      "name": "Taylorsville"
+    },
+    {
+      "id": 214481,
+      "name": "Thomasville"
+    },
+    {
+      "id": 214482,
+      "name": "Thurmond"
+    },
+    {
+      "id": 214483,
+      "name": "Toast"
+    },
+    {
+      "id": 214484,
+      "name": "Tobaccoville"
+    },
+    {
+      "id": 214485,
+      "name": "Transylvania County"
+    },
+    {
+      "id": 214486,
+      "name": "Trent Woods"
+    },
+    {
+      "id": 214487,
+      "name": "Trenton"
+    },
+    {
+      "id": 214488,
+      "name": "Trinity"
+    },
+    {
+      "id": 214489,
+      "name": "Troutman"
+    },
+    {
+      "id": 214490,
+      "name": "Troy"
+    },
+    {
+      "id": 214491,
+      "name": "Tryon"
+    },
+    {
+      "id": 214492,
+      "name": "Tyro"
+    },
+    {
+      "id": 214493,
+      "name": "Tyrrell County"
+    },
+    {
+      "id": 214494,
+      "name": "Union County"
+    },
+    {
+      "id": 214495,
+      "name": "Unionville"
+    },
+    {
+      "id": 214496,
+      "name": "Valdese"
+    },
+    {
+      "id": 214497,
+      "name": "Valley Hill"
+    },
+    {
+      "id": 214498,
+      "name": "Vance County"
+    },
+    {
+      "id": 214499,
+      "name": "Vander"
+    },
+    {
+      "id": 214500,
+      "name": "Wadesboro"
+    },
+    {
+      "id": 214501,
+      "name": "Wake County"
+    },
+    {
+      "id": 214502,
+      "name": "Wake Forest"
+    },
+    {
+      "id": 214503,
+      "name": "Walkertown"
+    },
+    {
+      "id": 214504,
+      "name": "Wallace"
+    },
+    {
+      "id": 214505,
+      "name": "Wallburg"
+    },
+    {
+      "id": 214506,
+      "name": "Walnut Cove"
+    },
+    {
+      "id": 214507,
+      "name": "Wanchese"
+    },
+    {
+      "id": 214508,
+      "name": "Warren County"
+    },
+    {
+      "id": 214509,
+      "name": "Warrenton"
+    },
+    {
+      "id": 214510,
+      "name": "Warsaw"
+    },
+    {
+      "id": 214511,
+      "name": "Washington"
+    },
+    {
+      "id": 214512,
+      "name": "Washington County"
+    },
+    {
+      "id": 214513,
+      "name": "Watauga County"
+    },
+    {
+      "id": 214514,
+      "name": "Waxhaw"
+    },
+    {
+      "id": 214515,
+      "name": "Wayne County"
+    },
+    {
+      "id": 214516,
+      "name": "Waynesville"
+    },
+    {
+      "id": 214517,
+      "name": "Weaverville"
+    },
+    {
+      "id": 214518,
+      "name": "Weddington"
+    },
+    {
+      "id": 214519,
+      "name": "Welcome"
+    },
+    {
+      "id": 214520,
+      "name": "Weldon"
+    },
+    {
+      "id": 214521,
+      "name": "Wendell"
+    },
+    {
+      "id": 214522,
+      "name": "Wentworth"
+    },
+    {
+      "id": 214523,
+      "name": "Wesley Chapel"
+    },
+    {
+      "id": 214524,
+      "name": "West Canton"
+    },
+    {
+      "id": 214525,
+      "name": "West Jefferson"
+    },
+    {
+      "id": 214526,
+      "name": "West Marion"
+    },
+    {
+      "id": 214527,
+      "name": "West Raleigh"
+    },
+    {
+      "id": 214528,
+      "name": "Westport"
+    },
+    {
+      "id": 214529,
+      "name": "Whispering Pines"
+    },
+    {
+      "id": 214530,
+      "name": "White Plains"
+    },
+    {
+      "id": 214531,
+      "name": "Whiteville"
+    },
+    {
+      "id": 214532,
+      "name": "Wilkes County"
+    },
+    {
+      "id": 214533,
+      "name": "Wilkesboro"
+    },
+    {
+      "id": 214534,
+      "name": "Williamston"
+    },
+    {
+      "id": 214535,
+      "name": "Wilmington"
+    },
+    {
+      "id": 214536,
+      "name": "Wilson"
+    },
+    {
+      "id": 214537,
+      "name": "Wilson County"
+    },
+    {
+      "id": 214538,
+      "name": "Wilsons Mills"
+    },
+    {
+      "id": 214539,
+      "name": "Windsor"
+    },
+    {
+      "id": 214540,
+      "name": "Wingate"
+    },
+    {
+      "id": 214541,
+      "name": "Winston-Salem"
+    },
+    {
+      "id": 214542,
+      "name": "Winterville"
+    },
+    {
+      "id": 214543,
+      "name": "Winton"
+    },
+    {
+      "id": 214544,
+      "name": "Woodfin"
+    },
+    {
+      "id": 214545,
+      "name": "Wrightsboro"
+    },
+    {
+      "id": 214546,
+      "name": "Wrightsville Beach"
+    },
+    {
+      "id": 214547,
+      "name": "Yadkin County"
+    },
+    {
+      "id": 214548,
+      "name": "Yadkinville"
+    },
+    {
+      "id": 214549,
+      "name": "Yancey County"
+    },
+    {
+      "id": 214550,
+      "name": "Yanceyville"
+    },
+    {
+      "id": 214551,
+      "name": "Youngsville"
+    },
+    {
+      "id": 214552,
+      "name": "Zebulon"
+    }
+  ]
+}

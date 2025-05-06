@@ -1,0 +1,1675 @@
+{
+  "id": 5136,
+  "name": "Hidalgo",
+  "state_code": "HID",
+  "cities": [
+    {
+      "id": 142044,
+      "name": "Acahuasco"
+    },
+    {
+      "id": 142045,
+      "name": "Acatepec"
+    },
+    {
+      "id": 142046,
+      "name": "Acatlán"
+    },
+    {
+      "id": 142047,
+      "name": "Acaxochitlán"
+    },
+    {
+      "id": 142048,
+      "name": "Acayuca"
+    },
+    {
+      "id": 142049,
+      "name": "Acoapa"
+    },
+    {
+      "id": 142050,
+      "name": "Acoxcatlán"
+    },
+    {
+      "id": 142051,
+      "name": "Acoyotla"
+    },
+    {
+      "id": 142052,
+      "name": "Actopan"
+    },
+    {
+      "id": 142053,
+      "name": "Ahuatitla"
+    },
+    {
+      "id": 142054,
+      "name": "Ahuehuetitla"
+    },
+    {
+      "id": 142055,
+      "name": "Ajacuba"
+    },
+    {
+      "id": 142056,
+      "name": "Alfajayucan"
+    },
+    {
+      "id": 142057,
+      "name": "Almoloya"
+    },
+    {
+      "id": 142058,
+      "name": "Álvaro Obregón"
+    },
+    {
+      "id": 142059,
+      "name": "Apan"
+    },
+    {
+      "id": 142060,
+      "name": "Atengo"
+    },
+    {
+      "id": 142061,
+      "name": "Atitalaquia"
+    },
+    {
+      "id": 142062,
+      "name": "Atlapexco"
+    },
+    {
+      "id": 142063,
+      "name": "Atotonilco de Tula"
+    },
+    {
+      "id": 142064,
+      "name": "Atotonilco el Grande"
+    },
+    {
+      "id": 142065,
+      "name": "Bangandhó"
+    },
+    {
+      "id": 142066,
+      "name": "Barrio Aztlán"
+    },
+    {
+      "id": 142067,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 142068,
+      "name": "Bomanxotha"
+    },
+    {
+      "id": 142069,
+      "name": "Bomintzha"
+    },
+    {
+      "id": 142070,
+      "name": "Bondojito"
+    },
+    {
+      "id": 142071,
+      "name": "Calnali"
+    },
+    {
+      "id": 142072,
+      "name": "Caltimacan"
+    },
+    {
+      "id": 142073,
+      "name": "Camelia (Barrio la Camelia)"
+    },
+    {
+      "id": 142074,
+      "name": "Campestre Villas del Álamo"
+    },
+    {
+      "id": 142075,
+      "name": "Cañada"
+    },
+    {
+      "id": 142076,
+      "name": "Cañada de Madero"
+    },
+    {
+      "id": 142077,
+      "name": "Cantera de Villagrán"
+    },
+    {
+      "id": 142078,
+      "name": "Cantinela"
+    },
+    {
+      "id": 142079,
+      "name": "Carboneras"
+    },
+    {
+      "id": 142080,
+      "name": "Cardonal"
+    },
+    {
+      "id": 142081,
+      "name": "Carpinteros"
+    },
+    {
+      "id": 142082,
+      "name": "Caxuxi"
+    },
+    {
+      "id": 142083,
+      "name": "Cerritos"
+    },
+    {
+      "id": 142084,
+      "name": "Chachahuantla"
+    },
+    {
+      "id": 142085,
+      "name": "Chalahuiyapa"
+    },
+    {
+      "id": 142086,
+      "name": "Chapantongo"
+    },
+    {
+      "id": 142087,
+      "name": "Chapulhuacán"
+    },
+    {
+      "id": 142088,
+      "name": "Chapulhuacanito"
+    },
+    {
+      "id": 142089,
+      "name": "Chatipán"
+    },
+    {
+      "id": 142090,
+      "name": "Chicavasco"
+    },
+    {
+      "id": 142091,
+      "name": "Chichatla"
+    },
+    {
+      "id": 142092,
+      "name": "Chilcuautla"
+    },
+    {
+      "id": 142093,
+      "name": "Chililico"
+    },
+    {
+      "id": 142094,
+      "name": "Chimalapa"
+    },
+    {
+      "id": 142095,
+      "name": "Chimalpa y Tlalayote"
+    },
+    {
+      "id": 142096,
+      "name": "Cipreses"
+    },
+    {
+      "id": 142097,
+      "name": "Ciudad Sahagun"
+    },
+    {
+      "id": 142098,
+      "name": "Coacuilco"
+    },
+    {
+      "id": 142099,
+      "name": "Colinas de Plata"
+    },
+    {
+      "id": 142100,
+      "name": "Colonia 28 de Mayo (Santa Rosa)"
+    },
+    {
+      "id": 142101,
+      "name": "Colonia Benito Juárez"
+    },
+    {
+      "id": 142102,
+      "name": "Colonia Felipe Ángeles"
+    },
+    {
+      "id": 142103,
+      "name": "Colonia Guadalupe"
+    },
+    {
+      "id": 142104,
+      "name": "Colonia Militar"
+    },
+    {
+      "id": 142105,
+      "name": "Colonia Morelos"
+    },
+    {
+      "id": 142106,
+      "name": "Colonia Morelos (El Nueve)"
+    },
+    {
+      "id": 142107,
+      "name": "Colonia San Juan"
+    },
+    {
+      "id": 142108,
+      "name": "Colonia Sesenta y Dos"
+    },
+    {
+      "id": 142109,
+      "name": "Colonia Teñhe"
+    },
+    {
+      "id": 142110,
+      "name": "Conejos"
+    },
+    {
+      "id": 142111,
+      "name": "Coyotillos"
+    },
+    {
+      "id": 142112,
+      "name": "Cuapaxtitla"
+    },
+    {
+      "id": 142113,
+      "name": "Cuatolol"
+    },
+    {
+      "id": 142114,
+      "name": "Cuautepec de Hinojosa"
+    },
+    {
+      "id": 142115,
+      "name": "Cuazahuatl"
+    },
+    {
+      "id": 142116,
+      "name": "Dajiedi"
+    },
+    {
+      "id": 142117,
+      "name": "Dantzibojay"
+    },
+    {
+      "id": 142118,
+      "name": "Daxtha"
+    },
+    {
+      "id": 142119,
+      "name": "Dengantzha"
+    },
+    {
+      "id": 142120,
+      "name": "Déxtho de Victoria"
+    },
+    {
+      "id": 142121,
+      "name": "Dios Padre"
+    },
+    {
+      "id": 142122,
+      "name": "Don Antonio"
+    },
+    {
+      "id": 142123,
+      "name": "Doxey"
+    },
+    {
+      "id": 142124,
+      "name": "El Arenal"
+    },
+    {
+      "id": 142125,
+      "name": "El Barrido"
+    },
+    {
+      "id": 142126,
+      "name": "El Bingú"
+    },
+    {
+      "id": 142127,
+      "name": "El Boxtha"
+    },
+    {
+      "id": 142128,
+      "name": "El Capulín"
+    },
+    {
+      "id": 142129,
+      "name": "El Cid"
+    },
+    {
+      "id": 142130,
+      "name": "El Colorado"
+    },
+    {
+      "id": 142131,
+      "name": "El Huaxtho"
+    },
+    {
+      "id": 142132,
+      "name": "El Huixmí"
+    },
+    {
+      "id": 142133,
+      "name": "El Jagüey"
+    },
+    {
+      "id": 142134,
+      "name": "El Jiadi"
+    },
+    {
+      "id": 142135,
+      "name": "El Llano"
+    },
+    {
+      "id": 142136,
+      "name": "El Mirador"
+    },
+    {
+      "id": 142137,
+      "name": "El Moreno (San Miguel Moreno)"
+    },
+    {
+      "id": 142138,
+      "name": "El Nith"
+    },
+    {
+      "id": 142139,
+      "name": "El Olvera"
+    },
+    {
+      "id": 142140,
+      "name": "El Paredón"
+    },
+    {
+      "id": 142141,
+      "name": "El Pintor"
+    },
+    {
+      "id": 142142,
+      "name": "El Refugio"
+    },
+    {
+      "id": 142143,
+      "name": "El Rincón"
+    },
+    {
+      "id": 142144,
+      "name": "El Roble"
+    },
+    {
+      "id": 142145,
+      "name": "El Rosario"
+    },
+    {
+      "id": 142146,
+      "name": "El Saucillo"
+    },
+    {
+      "id": 142147,
+      "name": "El Saucillo (Fraccionamiento)"
+    },
+    {
+      "id": 142148,
+      "name": "El Susto"
+    },
+    {
+      "id": 142149,
+      "name": "El Tepeyac"
+    },
+    {
+      "id": 142150,
+      "name": "El Tephé"
+    },
+    {
+      "id": 142151,
+      "name": "El Venado"
+    },
+    {
+      "id": 142152,
+      "name": "Eloxochitlán"
+    },
+    {
+      "id": 142153,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 142154,
+      "name": "Epazoyucan"
+    },
+    {
+      "id": 142155,
+      "name": "Estación de Apulco"
+    },
+    {
+      "id": 142156,
+      "name": "Fontezuelas"
+    },
+    {
+      "id": 142157,
+      "name": "Forjadores de Pachuca"
+    },
+    {
+      "id": 142158,
+      "name": "Fraccionamiento Carlos Salinas de Gortari"
+    },
+    {
+      "id": 142159,
+      "name": "Fraccionamiento del Magisterio Tulancinguense"
+    },
+    {
+      "id": 142160,
+      "name": "Gandhó"
+    },
+    {
+      "id": 142161,
+      "name": "General Felipe Ángeles (Los Ángeles)"
+    },
+    {
+      "id": 142162,
+      "name": "General Pedro María Anaya"
+    },
+    {
+      "id": 142163,
+      "name": "Guadalupe Minerva"
+    },
+    {
+      "id": 142164,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 142165,
+      "name": "Hualula"
+    },
+    {
+      "id": 142166,
+      "name": "Huasca de Ocampo"
+    },
+    {
+      "id": 142167,
+      "name": "Huautla"
+    },
+    {
+      "id": 142168,
+      "name": "Huehuetla"
+    },
+    {
+      "id": 142169,
+      "name": "Huejutla de Reyes"
+    },
+    {
+      "id": 142170,
+      "name": "Hueyapa"
+    },
+    {
+      "id": 142171,
+      "name": "Huichapan"
+    },
+    {
+      "id": 142172,
+      "name": "Huitel"
+    },
+    {
+      "id": 142173,
+      "name": "Huitepec"
+    },
+    {
+      "id": 142174,
+      "name": "Huitzila"
+    },
+    {
+      "id": 142175,
+      "name": "Huitzitzilingo"
+    },
+    {
+      "id": 142176,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 142177,
+      "name": "Irolo"
+    },
+    {
+      "id": 142178,
+      "name": "Ixcatlán"
+    },
+    {
+      "id": 142179,
+      "name": "Ixcuinquitlapilco"
+    },
+    {
+      "id": 142180,
+      "name": "Ixmiquilpan"
+    },
+    {
+      "id": 142181,
+      "name": "Ixtlahuaca"
+    },
+    {
+      "id": 142182,
+      "name": "Jacala"
+    },
+    {
+      "id": 142183,
+      "name": "Jagüey Blanco"
+    },
+    {
+      "id": 142184,
+      "name": "Jagüey de Téllez (Estación Téllez)"
+    },
+    {
+      "id": 142185,
+      "name": "Jalpa"
+    },
+    {
+      "id": 142186,
+      "name": "Jaltepec"
+    },
+    {
+      "id": 142187,
+      "name": "Jaltocan"
+    },
+    {
+      "id": 142188,
+      "name": "Javier Rojo Gómez"
+    },
+    {
+      "id": 142189,
+      "name": "Jonacapa"
+    },
+    {
+      "id": 142190,
+      "name": "José María Morelos (San José)"
+    },
+    {
+      "id": 142191,
+      "name": "José María Pino Suárez"
+    },
+    {
+      "id": 142192,
+      "name": "Julián Villagrán"
+    },
+    {
+      "id": 142193,
+      "name": "La Amistad"
+    },
+    {
+      "id": 142194,
+      "name": "La Boveda"
+    },
+    {
+      "id": 142195,
+      "name": "La Colonia"
+    },
+    {
+      "id": 142196,
+      "name": "La Cruz"
+    },
+    {
+      "id": 142197,
+      "name": "La Esquina"
+    },
+    {
+      "id": 142198,
+      "name": "La Estancia"
+    },
+    {
+      "id": 142199,
+      "name": "La Estanzuela"
+    },
+    {
+      "id": 142200,
+      "name": "La Laguna"
+    },
+    {
+      "id": 142201,
+      "name": "La Lagunilla"
+    },
+    {
+      "id": 142202,
+      "name": "La Loma"
+    },
+    {
+      "id": 142203,
+      "name": "La Mesilla"
+    },
+    {
+      "id": 142204,
+      "name": "La Providencia Siglo XXI"
+    },
+    {
+      "id": 142205,
+      "name": "La Reforma"
+    },
+    {
+      "id": 142206,
+      "name": "La Sabinita"
+    },
+    {
+      "id": 142207,
+      "name": "La Sala (La Caliente)"
+    },
+    {
+      "id": 142208,
+      "name": "La Trinidad"
+    },
+    {
+      "id": 142209,
+      "name": "Lagunilla"
+    },
+    {
+      "id": 142210,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 142211,
+      "name": "Lindavista"
+    },
+    {
+      "id": 142212,
+      "name": "Llano Largo"
+    },
+    {
+      "id": 142213,
+      "name": "Lolotla"
+    },
+    {
+      "id": 142214,
+      "name": "Los Cides"
+    },
+    {
+      "id": 142215,
+      "name": "Los Reyes"
+    },
+    {
+      "id": 142216,
+      "name": "Los Romeros"
+    },
+    {
+      "id": 142217,
+      "name": "Los Sabinos"
+    },
+    {
+      "id": 142218,
+      "name": "Los Tuzos"
+    },
+    {
+      "id": 142219,
+      "name": "Machetla"
+    },
+    {
+      "id": 142220,
+      "name": "Magisterio Digno"
+    },
+    {
+      "id": 142221,
+      "name": "Maguey Blanco"
+    },
+    {
+      "id": 142222,
+      "name": "Mamithi"
+    },
+    {
+      "id": 142223,
+      "name": "Mangas"
+    },
+    {
+      "id": 142224,
+      "name": "Manuel Ávila Camacho"
+    },
+    {
+      "id": 142225,
+      "name": "Mecatlán"
+    },
+    {
+      "id": 142226,
+      "name": "Melchor Ocampo"
+    },
+    {
+      "id": 142227,
+      "name": "Metepec"
+    },
+    {
+      "id": 142228,
+      "name": "Metepec Primero"
+    },
+    {
+      "id": 142229,
+      "name": "Metztitlán"
+    },
+    {
+      "id": 142230,
+      "name": "Mezquititlán"
+    },
+    {
+      "id": 142231,
+      "name": "Michimaloya"
+    },
+    {
+      "id": 142232,
+      "name": "Mineral del Monte"
+    },
+    {
+      "id": 142233,
+      "name": "Mixquiahuala de Juarez"
+    },
+    {
+      "id": 142234,
+      "name": "Molango"
+    },
+    {
+      "id": 142235,
+      "name": "Monte Alegre"
+    },
+    {
+      "id": 142236,
+      "name": "Motovatha"
+    },
+    {
+      "id": 142237,
+      "name": "Munitepec de Madero"
+    },
+    {
+      "id": 142238,
+      "name": "Nantzha"
+    },
+    {
+      "id": 142239,
+      "name": "Nopala de Villagran"
+    },
+    {
+      "id": 142240,
+      "name": "Nuevo Centro de Población Agrícola el Chacón"
+    },
+    {
+      "id": 142241,
+      "name": "Ocampo"
+    },
+    {
+      "id": 142242,
+      "name": "Ohuatipa"
+    },
+    {
+      "id": 142243,
+      "name": "Ojo de Agua"
+    },
+    {
+      "id": 142244,
+      "name": "Omitlán de Juárez"
+    },
+    {
+      "id": 142245,
+      "name": "Oriental de Zapata"
+    },
+    {
+      "id": 142246,
+      "name": "Orizabita"
+    },
+    {
+      "id": 142247,
+      "name": "Oxeloco"
+    },
+    {
+      "id": 142248,
+      "name": "Pachiquita"
+    },
+    {
+      "id": 142249,
+      "name": "Pachuca de Soto"
+    },
+    {
+      "id": 142250,
+      "name": "Pachuquilla"
+    },
+    {
+      "id": 142251,
+      "name": "Pahactla"
+    },
+    {
+      "id": 142252,
+      "name": "Pahuatlán"
+    },
+    {
+      "id": 142253,
+      "name": "Palmillas"
+    },
+    {
+      "id": 142254,
+      "name": "Panales"
+    },
+    {
+      "id": 142255,
+      "name": "Pañhé"
+    },
+    {
+      "id": 142256,
+      "name": "Panuaya"
+    },
+    {
+      "id": 142257,
+      "name": "Papatlatla"
+    },
+    {
+      "id": 142258,
+      "name": "Parque de Poblamiento Solidaridad"
+    },
+    {
+      "id": 142259,
+      "name": "Parque Urbano Napateco"
+    },
+    {
+      "id": 142260,
+      "name": "Paseos de la Pradera"
+    },
+    {
+      "id": 142261,
+      "name": "Patria Nueva"
+    },
+    {
+      "id": 142262,
+      "name": "Paxtepec"
+    },
+    {
+      "id": 142263,
+      "name": "Pedregal de San José"
+    },
+    {
+      "id": 142264,
+      "name": "Pino Suárez"
+    },
+    {
+      "id": 142265,
+      "name": "Pisaflores"
+    },
+    {
+      "id": 142266,
+      "name": "Portezuelo"
+    },
+    {
+      "id": 142267,
+      "name": "Pozuelos"
+    },
+    {
+      "id": 142268,
+      "name": "Praderas del Potrero"
+    },
+    {
+      "id": 142269,
+      "name": "Presas"
+    },
+    {
+      "id": 142270,
+      "name": "PRI Chacón"
+    },
+    {
+      "id": 142271,
+      "name": "Privada del Álamo"
+    },
+    {
+      "id": 142272,
+      "name": "Progreso"
+    },
+    {
+      "id": 142273,
+      "name": "Progreso de Alvaro Obregon"
+    },
+    {
+      "id": 142274,
+      "name": "Pueblo Hidalgo"
+    },
+    {
+      "id": 142275,
+      "name": "Pueblo Nuevo"
+    },
+    {
+      "id": 142276,
+      "name": "Residencial Arboledas"
+    },
+    {
+      "id": 142277,
+      "name": "Rinconada de los Ángeles"
+    },
+    {
+      "id": 142278,
+      "name": "Rinconadas de San Francisco"
+    },
+    {
+      "id": 142279,
+      "name": "Rinconadas del Venado I"
+    },
+    {
+      "id": 142280,
+      "name": "Rincones de la Hacienda"
+    },
+    {
+      "id": 142281,
+      "name": "Rio de la Soledad"
+    },
+    {
+      "id": 142282,
+      "name": "Río Seco Puente de Doria"
+    },
+    {
+      "id": 142283,
+      "name": "Salitrillo"
+    },
+    {
+      "id": 142284,
+      "name": "San Agustín Tlaxiaca"
+    },
+    {
+      "id": 142285,
+      "name": "San Agustín Zapotlán"
+    },
+    {
+      "id": 142286,
+      "name": "San Andrés"
+    },
+    {
+      "id": 142287,
+      "name": "San Andrés (San Andrés Chichayotla)"
+    },
+    {
+      "id": 142288,
+      "name": "San Antonio"
+    },
+    {
+      "id": 142289,
+      "name": "San Antonio el Grande"
+    },
+    {
+      "id": 142290,
+      "name": "San Antonio el Paso"
+    },
+    {
+      "id": 142291,
+      "name": "San Antonio Zaragoza"
+    },
+    {
+      "id": 142292,
+      "name": "San Bartolo Ozocalpan"
+    },
+    {
+      "id": 142293,
+      "name": "San Bartolo Tutotepec"
+    },
+    {
+      "id": 142294,
+      "name": "San Buenaventura"
+    },
+    {
+      "id": 142295,
+      "name": "San Cristóbal Chacón"
+    },
+    {
+      "id": 142296,
+      "name": "San Esteban"
+    },
+    {
+      "id": 142297,
+      "name": "San Felipe Orizatlán"
+    },
+    {
+      "id": 142298,
+      "name": "San Francisco"
+    },
+    {
+      "id": 142299,
+      "name": "San Francisco Atotonilco"
+    },
+    {
+      "id": 142300,
+      "name": "San Gabriel"
+    },
+    {
+      "id": 142301,
+      "name": "San Gabriel Azteca"
+    },
+    {
+      "id": 142302,
+      "name": "San Gregorio"
+    },
+    {
+      "id": 142303,
+      "name": "San Ignacio Nopala"
+    },
+    {
+      "id": 142304,
+      "name": "San Ildefonso"
+    },
+    {
+      "id": 142305,
+      "name": "San Isidro"
+    },
+    {
+      "id": 142306,
+      "name": "San Joaquín"
+    },
+    {
+      "id": 142307,
+      "name": "San José"
+    },
+    {
+      "id": 142308,
+      "name": "San José Atlán"
+    },
+    {
+      "id": 142309,
+      "name": "San José Boxay"
+    },
+    {
+      "id": 142310,
+      "name": "San José Corral Blanco"
+    },
+    {
+      "id": 142311,
+      "name": "San José Ocotillos"
+    },
+    {
+      "id": 142312,
+      "name": "San Juan Achichilco"
+    },
+    {
+      "id": 142313,
+      "name": "San Juan Ahuehueco"
+    },
+    {
+      "id": 142314,
+      "name": "San Juan Hueyapan"
+    },
+    {
+      "id": 142315,
+      "name": "San Juan Solís"
+    },
+    {
+      "id": 142316,
+      "name": "San Juan Tepa"
+    },
+    {
+      "id": 142317,
+      "name": "San Juan Tilcuautla"
+    },
+    {
+      "id": 142318,
+      "name": "San Juan Tizahuapán"
+    },
+    {
+      "id": 142319,
+      "name": "San Lorenzo Achiotepec"
+    },
+    {
+      "id": 142320,
+      "name": "San Lorenzo Sayula"
+    },
+    {
+      "id": 142321,
+      "name": "San Luis Tecuhautitlán"
+    },
+    {
+      "id": 142322,
+      "name": "San Marcos"
+    },
+    {
+      "id": 142323,
+      "name": "San Marcos Guaquilpan"
+    },
+    {
+      "id": 142324,
+      "name": "San Mateo"
+    },
+    {
+      "id": 142325,
+      "name": "San Miguel Cerezo (El Cerezo)"
+    },
+    {
+      "id": 142326,
+      "name": "San Miguel Vindho"
+    },
+    {
+      "id": 142327,
+      "name": "San Nicolás"
+    },
+    {
+      "id": 142328,
+      "name": "San Nicolás el Chico"
+    },
+    {
+      "id": 142329,
+      "name": "San Nicolás Tecomatlán"
+    },
+    {
+      "id": 142330,
+      "name": "San Pablo el Grande"
+    },
+    {
+      "id": 142331,
+      "name": "San Pedro Tlachichilco"
+    },
+    {
+      "id": 142332,
+      "name": "San Pedro Tlaquilpan"
+    },
+    {
+      "id": 142333,
+      "name": "San Salvador"
+    },
+    {
+      "id": 142334,
+      "name": "San Sebastián Tenochtitlán"
+    },
+    {
+      "id": 142335,
+      "name": "Santa Ana Ahuehuepan"
+    },
+    {
+      "id": 142336,
+      "name": "Santa Ana Azcapotzaltongo"
+    },
+    {
+      "id": 142337,
+      "name": "Santa Ana Batha"
+    },
+    {
+      "id": 142338,
+      "name": "Santa Ana de Allende"
+    },
+    {
+      "id": 142339,
+      "name": "Santa Ana Hueytlalpan"
+    },
+    {
+      "id": 142340,
+      "name": "Santa Ana Tlachiahualpa"
+    },
+    {
+      "id": 142341,
+      "name": "Santa Ana Tzacuala"
+    },
+    {
+      "id": 142342,
+      "name": "Santa Bárbara"
+    },
+    {
+      "id": 142343,
+      "name": "Santa Catarina"
+    },
+    {
+      "id": 142344,
+      "name": "Santa Clara"
+    },
+    {
+      "id": 142345,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 142346,
+      "name": "Santa Elena Paliseca"
+    },
+    {
+      "id": 142347,
+      "name": "Santa María Actipac"
+    },
+    {
+      "id": 142348,
+      "name": "Santa María Amajac"
+    },
+    {
+      "id": 142349,
+      "name": "Santa Maria Amealco"
+    },
+    {
+      "id": 142350,
+      "name": "Santa María Apaxco"
+    },
+    {
+      "id": 142351,
+      "name": "Santa María Asunción"
+    },
+    {
+      "id": 142352,
+      "name": "Santa María Batha"
+    },
+    {
+      "id": 142353,
+      "name": "Santa María Ilucan"
+    },
+    {
+      "id": 142354,
+      "name": "Santa María la Calera"
+    },
+    {
+      "id": 142355,
+      "name": "Santa Maria Macua"
+    },
+    {
+      "id": 142356,
+      "name": "Santa María Magdalena"
+    },
+    {
+      "id": 142357,
+      "name": "Santa María Nativitas"
+    },
+    {
+      "id": 142358,
+      "name": "Santa María Quelites"
+    },
+    {
+      "id": 142359,
+      "name": "Santa María Xigui"
+    },
+    {
+      "id": 142360,
+      "name": "Santa Mónica"
+    },
+    {
+      "id": 142361,
+      "name": "Santa Teresa"
+    },
+    {
+      "id": 142362,
+      "name": "Santa Úrsula"
+    },
+    {
+      "id": 142363,
+      "name": "Santiago Acayutlán"
+    },
+    {
+      "id": 142364,
+      "name": "Santiago Cuaula"
+    },
+    {
+      "id": 142365,
+      "name": "Santiago de Anaya"
+    },
+    {
+      "id": 142366,
+      "name": "Santiago Jaltepec"
+    },
+    {
+      "id": 142367,
+      "name": "Santiago Tepeyahualco"
+    },
+    {
+      "id": 142368,
+      "name": "Santiago Tezontlale"
+    },
+    {
+      "id": 142369,
+      "name": "Santiago Tlaltepoxco"
+    },
+    {
+      "id": 142370,
+      "name": "Santiago Tlapacoya"
+    },
+    {
+      "id": 142371,
+      "name": "Santiago Tlapanaloya"
+    },
+    {
+      "id": 142372,
+      "name": "Santiago Tlautla"
+    },
+    {
+      "id": 142373,
+      "name": "Santiago Tulantepec"
+    },
+    {
+      "id": 142374,
+      "name": "Santo Tomas"
+    },
+    {
+      "id": 142375,
+      "name": "Singuilucan"
+    },
+    {
+      "id": 142376,
+      "name": "Talol"
+    },
+    {
+      "id": 142377,
+      "name": "Tancazahuela"
+    },
+    {
+      "id": 142378,
+      "name": "Tasquillo"
+    },
+    {
+      "id": 142379,
+      "name": "Taxadho"
+    },
+    {
+      "id": 142380,
+      "name": "Teacalco"
+    },
+    {
+      "id": 142381,
+      "name": "Tecacahuaco"
+    },
+    {
+      "id": 142382,
+      "name": "Tecozautla"
+    },
+    {
+      "id": 142383,
+      "name": "Tehuetlán"
+    },
+    {
+      "id": 142384,
+      "name": "Teltipán de Juárez"
+    },
+    {
+      "id": 142385,
+      "name": "Temango"
+    },
+    {
+      "id": 142386,
+      "name": "Tenango"
+    },
+    {
+      "id": 142387,
+      "name": "Tenango de Doria"
+    },
+    {
+      "id": 142388,
+      "name": "Teocalco"
+    },
+    {
+      "id": 142389,
+      "name": "Teofani"
+    },
+    {
+      "id": 142390,
+      "name": "Tepatepec"
+    },
+    {
+      "id": 142391,
+      "name": "Tepeapulco"
+    },
+    {
+      "id": 142392,
+      "name": "Tepehuacán de Guerrero"
+    },
+    {
+      "id": 142393,
+      "name": "Tepeitic"
+    },
+    {
+      "id": 142394,
+      "name": "Tepeji del Río de Ocampo"
+    },
+    {
+      "id": 142395,
+      "name": "Tepepa"
+    },
+    {
+      "id": 142396,
+      "name": "Tepetitla"
+    },
+    {
+      "id": 142397,
+      "name": "Tepetitlán"
+    },
+    {
+      "id": 142398,
+      "name": "Tepexititla"
+    },
+    {
+      "id": 142399,
+      "name": "Tepojaco"
+    },
+    {
+      "id": 142400,
+      "name": "Tetepango"
+    },
+    {
+      "id": 142401,
+      "name": "Texcaco"
+    },
+    {
+      "id": 142402,
+      "name": "Texcaltepec"
+    },
+    {
+      "id": 142403,
+      "name": "Texcapa"
+    },
+    {
+      "id": 142404,
+      "name": "Texcatepec"
+    },
+    {
+      "id": 142405,
+      "name": "Tezapotla"
+    },
+    {
+      "id": 142406,
+      "name": "Tezontepec"
+    },
+    {
+      "id": 142407,
+      "name": "Tezontepec de Aldama"
+    },
+    {
+      "id": 142408,
+      "name": "Tezoquipa"
+    },
+    {
+      "id": 142409,
+      "name": "Tianguistengo"
+    },
+    {
+      "id": 142410,
+      "name": "Tianguistengo (La Romera)"
+    },
+    {
+      "id": 142411,
+      "name": "Tiltepec"
+    },
+    {
+      "id": 142412,
+      "name": "Tinajas"
+    },
+    {
+      "id": 142413,
+      "name": "Tizayuca"
+    },
+    {
+      "id": 142414,
+      "name": "Tlacomulco"
+    },
+    {
+      "id": 142415,
+      "name": "Tlacpac"
+    },
+    {
+      "id": 142416,
+      "name": "Tlahuelilpan"
+    },
+    {
+      "id": 142417,
+      "name": "Tlahuelompa (San Francisco Tlahuelompa)"
+    },
+    {
+      "id": 142418,
+      "name": "Tlahuiltepa"
+    },
+    {
+      "id": 142419,
+      "name": "Tlalchiyahualica"
+    },
+    {
+      "id": 142420,
+      "name": "Tlalminulpa"
+    },
+    {
+      "id": 142421,
+      "name": "Tlamaco (San Gerónimo Tlamaco)"
+    },
+    {
+      "id": 142422,
+      "name": "Tlanalapa"
+    },
+    {
+      "id": 142423,
+      "name": "Tlanchinol"
+    },
+    {
+      "id": 142424,
+      "name": "Tlaxcalilla"
+    },
+    {
+      "id": 142425,
+      "name": "Tlaxcoapan"
+    },
+    {
+      "id": 142426,
+      "name": "Tlaxocoyucan"
+    },
+    {
+      "id": 142427,
+      "name": "Tolcayuca"
+    },
+    {
+      "id": 142428,
+      "name": "Tula de Allende"
+    },
+    {
+      "id": 142429,
+      "name": "Tulancingo"
+    },
+    {
+      "id": 142430,
+      "name": "Tulancingo de Bravo"
+    },
+    {
+      "id": 142431,
+      "name": "Tulipanes"
+    },
+    {
+      "id": 142432,
+      "name": "Tunititlán"
+    },
+    {
+      "id": 142433,
+      "name": "Unidad Habitacional Antonio Osorio de León (Bojay)"
+    },
+    {
+      "id": 142434,
+      "name": "Unidad Minera 11 de Julio"
+    },
+    {
+      "id": 142435,
+      "name": "Unidades Habitacionales"
+    },
+    {
+      "id": 142436,
+      "name": "Ventoquipa"
+    },
+    {
+      "id": 142437,
+      "name": "Vicente Guerrero"
+    },
+    {
+      "id": 142438,
+      "name": "Vicente Guerrero (San Javier)"
+    },
+    {
+      "id": 142439,
+      "name": "Vito"
+    },
+    {
+      "id": 142440,
+      "name": "Xiquila"
+    },
+    {
+      "id": 142441,
+      "name": "Xiteje de Zapata"
+    },
+    {
+      "id": 142442,
+      "name": "Xochiatipan"
+    },
+    {
+      "id": 142443,
+      "name": "Xochiatipan de Castillo"
+    },
+    {
+      "id": 142444,
+      "name": "Xochicoatlán"
+    },
+    {
+      "id": 142445,
+      "name": "Xochitlán"
+    },
+    {
+      "id": 142446,
+      "name": "Xolostitla de Morelos (Xolostitla)"
+    },
+    {
+      "id": 142447,
+      "name": "Xoxolpa"
+    },
+    {
+      "id": 142448,
+      "name": "Yahualica"
+    },
+    {
+      "id": 142449,
+      "name": "Yolotepec"
+    },
+    {
+      "id": 142450,
+      "name": "Zacacuautla"
+    },
+    {
+      "id": 142451,
+      "name": "Zacamulpa"
+    },
+    {
+      "id": 142452,
+      "name": "Zacualtipán"
+    },
+    {
+      "id": 142453,
+      "name": "Zacualtipanito"
+    },
+    {
+      "id": 142454,
+      "name": "Zapotlán de Juárez"
+    },
+    {
+      "id": 142455,
+      "name": "Zempoala"
+    },
+    {
+      "id": 142456,
+      "name": "Zimapan"
+    },
+    {
+      "id": 142457,
+      "name": "Zocea"
+    },
+    {
+      "id": 142458,
+      "name": "Zoquitipán"
+    },
+    {
+      "id": 142459,
+      "name": "Zothé"
+    },
+    {
+      "id": 142460,
+      "name": "Zotoluca"
+    }
+  ]
+}

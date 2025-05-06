@@ -1,0 +1,1155 @@
+{
+  "id": 7431,
+  "name": "Arkansas",
+  "state_code": "AR",
+  "cities": [
+    {
+      "id": 202400,
+      "name": "Alexander"
+    },
+    {
+      "id": 202401,
+      "name": "Alma"
+    },
+    {
+      "id": 202402,
+      "name": "Arkadelphia"
+    },
+    {
+      "id": 202403,
+      "name": "Arkansas City"
+    },
+    {
+      "id": 202404,
+      "name": "Arkansas County"
+    },
+    {
+      "id": 202405,
+      "name": "Ash Flat"
+    },
+    {
+      "id": 202406,
+      "name": "Ashdown"
+    },
+    {
+      "id": 202407,
+      "name": "Ashley County"
+    },
+    {
+      "id": 202408,
+      "name": "Atkins"
+    },
+    {
+      "id": 202409,
+      "name": "Augusta"
+    },
+    {
+      "id": 202410,
+      "name": "Austin"
+    },
+    {
+      "id": 202411,
+      "name": "Bald Knob"
+    },
+    {
+      "id": 202412,
+      "name": "Barling"
+    },
+    {
+      "id": 202413,
+      "name": "Batesville"
+    },
+    {
+      "id": 202414,
+      "name": "Baxter County"
+    },
+    {
+      "id": 202415,
+      "name": "Bay"
+    },
+    {
+      "id": 202416,
+      "name": "Beebe"
+    },
+    {
+      "id": 202417,
+      "name": "Bella Vista"
+    },
+    {
+      "id": 202418,
+      "name": "Benton"
+    },
+    {
+      "id": 202419,
+      "name": "Benton County"
+    },
+    {
+      "id": 202420,
+      "name": "Bentonville"
+    },
+    {
+      "id": 202421,
+      "name": "Berryville"
+    },
+    {
+      "id": 202422,
+      "name": "Bethel Heights"
+    },
+    {
+      "id": 202423,
+      "name": "Blytheville"
+    },
+    {
+      "id": 202424,
+      "name": "Bono"
+    },
+    {
+      "id": 202425,
+      "name": "Boone County"
+    },
+    {
+      "id": 202426,
+      "name": "Booneville"
+    },
+    {
+      "id": 202427,
+      "name": "Bradley County"
+    },
+    {
+      "id": 202428,
+      "name": "Brinkley"
+    },
+    {
+      "id": 202429,
+      "name": "Brookland"
+    },
+    {
+      "id": 202430,
+      "name": "Bryant"
+    },
+    {
+      "id": 202431,
+      "name": "Bull Shoals"
+    },
+    {
+      "id": 202432,
+      "name": "Cabot"
+    },
+    {
+      "id": 202433,
+      "name": "Calhoun County"
+    },
+    {
+      "id": 202434,
+      "name": "Calico Rock"
+    },
+    {
+      "id": 202435,
+      "name": "Camden"
+    },
+    {
+      "id": 202436,
+      "name": "Caraway"
+    },
+    {
+      "id": 202437,
+      "name": "Carlisle"
+    },
+    {
+      "id": 202438,
+      "name": "Carroll County"
+    },
+    {
+      "id": 202439,
+      "name": "Cave City"
+    },
+    {
+      "id": 202440,
+      "name": "Cave Springs"
+    },
+    {
+      "id": 202441,
+      "name": "Cedarville"
+    },
+    {
+      "id": 202442,
+      "name": "Centerton"
+    },
+    {
+      "id": 202443,
+      "name": "Charleston"
+    },
+    {
+      "id": 202444,
+      "name": "Cherokee Village"
+    },
+    {
+      "id": 202445,
+      "name": "Chicot County"
+    },
+    {
+      "id": 202446,
+      "name": "Clarendon"
+    },
+    {
+      "id": 202447,
+      "name": "Clark County"
+    },
+    {
+      "id": 202448,
+      "name": "Clarksville"
+    },
+    {
+      "id": 202449,
+      "name": "Clay County"
+    },
+    {
+      "id": 202450,
+      "name": "Cleburne County"
+    },
+    {
+      "id": 202451,
+      "name": "Cleveland County"
+    },
+    {
+      "id": 202452,
+      "name": "Clinton"
+    },
+    {
+      "id": 202453,
+      "name": "Coal Hill"
+    },
+    {
+      "id": 202454,
+      "name": "Columbia County"
+    },
+    {
+      "id": 202455,
+      "name": "Conway"
+    },
+    {
+      "id": 202456,
+      "name": "Conway County"
+    },
+    {
+      "id": 202457,
+      "name": "Corning"
+    },
+    {
+      "id": 202458,
+      "name": "Craighead County"
+    },
+    {
+      "id": 202459,
+      "name": "Crawford County"
+    },
+    {
+      "id": 202460,
+      "name": "Crittenden County"
+    },
+    {
+      "id": 202461,
+      "name": "Cross County"
+    },
+    {
+      "id": 202462,
+      "name": "Crossett"
+    },
+    {
+      "id": 202463,
+      "name": "Dallas County"
+    },
+    {
+      "id": 202464,
+      "name": "Danville"
+    },
+    {
+      "id": 202465,
+      "name": "Dardanelle"
+    },
+    {
+      "id": 202466,
+      "name": "De Queen"
+    },
+    {
+      "id": 202467,
+      "name": "De Witt"
+    },
+    {
+      "id": 202468,
+      "name": "Decatur"
+    },
+    {
+      "id": 202469,
+      "name": "Dermott"
+    },
+    {
+      "id": 202470,
+      "name": "Des Arc"
+    },
+    {
+      "id": 202471,
+      "name": "Desha County"
+    },
+    {
+      "id": 202472,
+      "name": "Diaz"
+    },
+    {
+      "id": 202473,
+      "name": "Dierks"
+    },
+    {
+      "id": 202474,
+      "name": "Dover"
+    },
+    {
+      "id": 202475,
+      "name": "Drew County"
+    },
+    {
+      "id": 202476,
+      "name": "Dumas"
+    },
+    {
+      "id": 202477,
+      "name": "Earle"
+    },
+    {
+      "id": 202478,
+      "name": "East End"
+    },
+    {
+      "id": 202479,
+      "name": "El Dorado"
+    },
+    {
+      "id": 202480,
+      "name": "Elkins"
+    },
+    {
+      "id": 202481,
+      "name": "Elm Springs"
+    },
+    {
+      "id": 202482,
+      "name": "England"
+    },
+    {
+      "id": 202483,
+      "name": "Eudora"
+    },
+    {
+      "id": 202484,
+      "name": "Eureka Springs"
+    },
+    {
+      "id": 202485,
+      "name": "Fairfield Bay"
+    },
+    {
+      "id": 202486,
+      "name": "Farmington"
+    },
+    {
+      "id": 202487,
+      "name": "Faulkner County"
+    },
+    {
+      "id": 202488,
+      "name": "Fayetteville"
+    },
+    {
+      "id": 202489,
+      "name": "Flippin"
+    },
+    {
+      "id": 202490,
+      "name": "Fordyce"
+    },
+    {
+      "id": 202491,
+      "name": "Forrest City"
+    },
+    {
+      "id": 202492,
+      "name": "Fort Smith"
+    },
+    {
+      "id": 202493,
+      "name": "Franklin County"
+    },
+    {
+      "id": 202494,
+      "name": "Fulton County"
+    },
+    {
+      "id": 202495,
+      "name": "Garland County"
+    },
+    {
+      "id": 202496,
+      "name": "Gassville"
+    },
+    {
+      "id": 202497,
+      "name": "Gentry"
+    },
+    {
+      "id": 202498,
+      "name": "Gibson"
+    },
+    {
+      "id": 202499,
+      "name": "Glenwood"
+    },
+    {
+      "id": 202500,
+      "name": "Goshen"
+    },
+    {
+      "id": 202501,
+      "name": "Gosnell"
+    },
+    {
+      "id": 202502,
+      "name": "Grant County"
+    },
+    {
+      "id": 202503,
+      "name": "Gravel Ridge"
+    },
+    {
+      "id": 202504,
+      "name": "Gravette"
+    },
+    {
+      "id": 202505,
+      "name": "Green Forest"
+    },
+    {
+      "id": 202506,
+      "name": "Greenbrier"
+    },
+    {
+      "id": 202507,
+      "name": "Greene County"
+    },
+    {
+      "id": 202508,
+      "name": "Greenland"
+    },
+    {
+      "id": 202509,
+      "name": "Greenwood"
+    },
+    {
+      "id": 202510,
+      "name": "Gurdon"
+    },
+    {
+      "id": 202511,
+      "name": "Hamburg"
+    },
+    {
+      "id": 202512,
+      "name": "Hampton"
+    },
+    {
+      "id": 202513,
+      "name": "Harrisburg"
+    },
+    {
+      "id": 202514,
+      "name": "Harrison"
+    },
+    {
+      "id": 202515,
+      "name": "Haskell"
+    },
+    {
+      "id": 202516,
+      "name": "Hazen"
+    },
+    {
+      "id": 202517,
+      "name": "Heber Springs"
+    },
+    {
+      "id": 202518,
+      "name": "Helena"
+    },
+    {
+      "id": 202519,
+      "name": "Helena-West Helena"
+    },
+    {
+      "id": 202520,
+      "name": "Hempstead County"
+    },
+    {
+      "id": 202521,
+      "name": "Highland"
+    },
+    {
+      "id": 202522,
+      "name": "Holiday Island"
+    },
+    {
+      "id": 202523,
+      "name": "Hope"
+    },
+    {
+      "id": 202524,
+      "name": "Horatio"
+    },
+    {
+      "id": 202525,
+      "name": "Horseshoe Bend"
+    },
+    {
+      "id": 202526,
+      "name": "Hot Spring County"
+    },
+    {
+      "id": 202527,
+      "name": "Hot Springs"
+    },
+    {
+      "id": 202528,
+      "name": "Hot Springs National Park"
+    },
+    {
+      "id": 202529,
+      "name": "Hot Springs Village"
+    },
+    {
+      "id": 202530,
+      "name": "Howard County"
+    },
+    {
+      "id": 202531,
+      "name": "Hoxie"
+    },
+    {
+      "id": 202532,
+      "name": "Hughes"
+    },
+    {
+      "id": 202533,
+      "name": "Huntsville"
+    },
+    {
+      "id": 202534,
+      "name": "Independence County"
+    },
+    {
+      "id": 202535,
+      "name": "Izard County"
+    },
+    {
+      "id": 202536,
+      "name": "Jackson County"
+    },
+    {
+      "id": 202537,
+      "name": "Jacksonville"
+    },
+    {
+      "id": 202538,
+      "name": "Jasper"
+    },
+    {
+      "id": 202539,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 202540,
+      "name": "Johnson"
+    },
+    {
+      "id": 202541,
+      "name": "Johnson County"
+    },
+    {
+      "id": 202542,
+      "name": "Jonesboro"
+    },
+    {
+      "id": 202543,
+      "name": "Judsonia"
+    },
+    {
+      "id": 202544,
+      "name": "Kensett"
+    },
+    {
+      "id": 202545,
+      "name": "Lafayette County"
+    },
+    {
+      "id": 202546,
+      "name": "Lake City"
+    },
+    {
+      "id": 202547,
+      "name": "Lake Hamilton"
+    },
+    {
+      "id": 202548,
+      "name": "Lake Village"
+    },
+    {
+      "id": 202549,
+      "name": "Lamar"
+    },
+    {
+      "id": 202550,
+      "name": "Landmark"
+    },
+    {
+      "id": 202551,
+      "name": "Lavaca"
+    },
+    {
+      "id": 202552,
+      "name": "Lawrence County"
+    },
+    {
+      "id": 202553,
+      "name": "Leachville"
+    },
+    {
+      "id": 202554,
+      "name": "Lee County"
+    },
+    {
+      "id": 202555,
+      "name": "Lepanto"
+    },
+    {
+      "id": 202556,
+      "name": "Lewisville"
+    },
+    {
+      "id": 202557,
+      "name": "Lincoln"
+    },
+    {
+      "id": 202558,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 202559,
+      "name": "Little Flock"
+    },
+    {
+      "id": 202560,
+      "name": "Little River County"
+    },
+    {
+      "id": 202561,
+      "name": "Little Rock"
+    },
+    {
+      "id": 202562,
+      "name": "Little Rock Air Force Base"
+    },
+    {
+      "id": 202563,
+      "name": "Logan County"
+    },
+    {
+      "id": 202564,
+      "name": "London"
+    },
+    {
+      "id": 202565,
+      "name": "Lonoke"
+    },
+    {
+      "id": 202566,
+      "name": "Lonoke County"
+    },
+    {
+      "id": 202567,
+      "name": "Lowell"
+    },
+    {
+      "id": 202568,
+      "name": "Luxora"
+    },
+    {
+      "id": 202569,
+      "name": "Madison County"
+    },
+    {
+      "id": 202570,
+      "name": "Magnolia"
+    },
+    {
+      "id": 202571,
+      "name": "Malvern"
+    },
+    {
+      "id": 202572,
+      "name": "Manila"
+    },
+    {
+      "id": 202573,
+      "name": "Mansfield"
+    },
+    {
+      "id": 202574,
+      "name": "Marianna"
+    },
+    {
+      "id": 202575,
+      "name": "Marion"
+    },
+    {
+      "id": 202576,
+      "name": "Marion County"
+    },
+    {
+      "id": 202577,
+      "name": "Marked Tree"
+    },
+    {
+      "id": 202578,
+      "name": "Marmaduke"
+    },
+    {
+      "id": 202579,
+      "name": "Marshall"
+    },
+    {
+      "id": 202580,
+      "name": "Marvell"
+    },
+    {
+      "id": 202581,
+      "name": "Maumelle"
+    },
+    {
+      "id": 202582,
+      "name": "Mayflower"
+    },
+    {
+      "id": 202583,
+      "name": "McAlmont"
+    },
+    {
+      "id": 202584,
+      "name": "McCrory"
+    },
+    {
+      "id": 202585,
+      "name": "McGehee"
+    },
+    {
+      "id": 202586,
+      "name": "Melbourne"
+    },
+    {
+      "id": 202587,
+      "name": "Mena"
+    },
+    {
+      "id": 202588,
+      "name": "Midway"
+    },
+    {
+      "id": 202589,
+      "name": "Miller County"
+    },
+    {
+      "id": 202590,
+      "name": "Mineral Springs"
+    },
+    {
+      "id": 202591,
+      "name": "Mississippi County"
+    },
+    {
+      "id": 202592,
+      "name": "Monette"
+    },
+    {
+      "id": 202593,
+      "name": "Monroe County"
+    },
+    {
+      "id": 202594,
+      "name": "Montgomery County"
+    },
+    {
+      "id": 202595,
+      "name": "Monticello"
+    },
+    {
+      "id": 202596,
+      "name": "Morrilton"
+    },
+    {
+      "id": 202597,
+      "name": "Mount Ida"
+    },
+    {
+      "id": 202598,
+      "name": "Mountain Home"
+    },
+    {
+      "id": 202599,
+      "name": "Mountain View"
+    },
+    {
+      "id": 202600,
+      "name": "Mulberry"
+    },
+    {
+      "id": 202601,
+      "name": "Murfreesboro"
+    },
+    {
+      "id": 202602,
+      "name": "Nashville"
+    },
+    {
+      "id": 202603,
+      "name": "Nevada County"
+    },
+    {
+      "id": 202604,
+      "name": "Newark"
+    },
+    {
+      "id": 202605,
+      "name": "Newport"
+    },
+    {
+      "id": 202606,
+      "name": "Newton County"
+    },
+    {
+      "id": 202607,
+      "name": "North Crossett"
+    },
+    {
+      "id": 202608,
+      "name": "North Little Rock"
+    },
+    {
+      "id": 202609,
+      "name": "Ola"
+    },
+    {
+      "id": 202610,
+      "name": "Osceola"
+    },
+    {
+      "id": 202611,
+      "name": "Ouachita County"
+    },
+    {
+      "id": 202612,
+      "name": "Ozark"
+    },
+    {
+      "id": 202613,
+      "name": "Paragould"
+    },
+    {
+      "id": 202614,
+      "name": "Paris"
+    },
+    {
+      "id": 202615,
+      "name": "Parkin"
+    },
+    {
+      "id": 202616,
+      "name": "Pea Ridge"
+    },
+    {
+      "id": 202617,
+      "name": "Perry County"
+    },
+    {
+      "id": 202618,
+      "name": "Perryville"
+    },
+    {
+      "id": 202619,
+      "name": "Phillips County"
+    },
+    {
+      "id": 202620,
+      "name": "Piggott"
+    },
+    {
+      "id": 202621,
+      "name": "Pike County"
+    },
+    {
+      "id": 202622,
+      "name": "Pine Bluff"
+    },
+    {
+      "id": 202623,
+      "name": "Piney"
+    },
+    {
+      "id": 202624,
+      "name": "Pocahontas"
+    },
+    {
+      "id": 202625,
+      "name": "Poinsett County"
+    },
+    {
+      "id": 202626,
+      "name": "Polk County"
+    },
+    {
+      "id": 202627,
+      "name": "Pope County"
+    },
+    {
+      "id": 202628,
+      "name": "Pottsville"
+    },
+    {
+      "id": 202629,
+      "name": "Prairie County"
+    },
+    {
+      "id": 202630,
+      "name": "Prairie Creek"
+    },
+    {
+      "id": 202631,
+      "name": "Prairie Grove"
+    },
+    {
+      "id": 202632,
+      "name": "Prescott"
+    },
+    {
+      "id": 202633,
+      "name": "Pulaski County"
+    },
+    {
+      "id": 202634,
+      "name": "Randolph County"
+    },
+    {
+      "id": 202635,
+      "name": "Rector"
+    },
+    {
+      "id": 202636,
+      "name": "Redfield"
+    },
+    {
+      "id": 202637,
+      "name": "Rison"
+    },
+    {
+      "id": 202638,
+      "name": "Rockwell"
+    },
+    {
+      "id": 202639,
+      "name": "Rogers"
+    },
+    {
+      "id": 202640,
+      "name": "Russellville"
+    },
+    {
+      "id": 202641,
+      "name": "Saint Francis County"
+    },
+    {
+      "id": 202642,
+      "name": "Salem"
+    },
+    {
+      "id": 202643,
+      "name": "Saline County"
+    },
+    {
+      "id": 202644,
+      "name": "Scott County"
+    },
+    {
+      "id": 202645,
+      "name": "Searcy"
+    },
+    {
+      "id": 202646,
+      "name": "Searcy County"
+    },
+    {
+      "id": 202647,
+      "name": "Sebastian County"
+    },
+    {
+      "id": 202648,
+      "name": "Sevier County"
+    },
+    {
+      "id": 202649,
+      "name": "Shannon Hills"
+    },
+    {
+      "id": 202650,
+      "name": "Sharp County"
+    },
+    {
+      "id": 202651,
+      "name": "Sheridan"
+    },
+    {
+      "id": 202652,
+      "name": "Sherwood"
+    },
+    {
+      "id": 202653,
+      "name": "Siloam Springs"
+    },
+    {
+      "id": 202654,
+      "name": "Smackover"
+    },
+    {
+      "id": 202655,
+      "name": "Southside"
+    },
+    {
+      "id": 202656,
+      "name": "Springdale"
+    },
+    {
+      "id": 202657,
+      "name": "Stamps"
+    },
+    {
+      "id": 202658,
+      "name": "Star City"
+    },
+    {
+      "id": 202659,
+      "name": "Stone County"
+    },
+    {
+      "id": 202660,
+      "name": "Stuttgart"
+    },
+    {
+      "id": 202661,
+      "name": "Sulphur Springs"
+    },
+    {
+      "id": 202662,
+      "name": "Texarkana"
+    },
+    {
+      "id": 202663,
+      "name": "Tontitown"
+    },
+    {
+      "id": 202664,
+      "name": "Trumann"
+    },
+    {
+      "id": 202665,
+      "name": "Tuckerman"
+    },
+    {
+      "id": 202666,
+      "name": "Union County"
+    },
+    {
+      "id": 202667,
+      "name": "Van Buren"
+    },
+    {
+      "id": 202668,
+      "name": "Van Buren County"
+    },
+    {
+      "id": 202669,
+      "name": "Vilonia"
+    },
+    {
+      "id": 202670,
+      "name": "Waldo"
+    },
+    {
+      "id": 202671,
+      "name": "Waldron"
+    },
+    {
+      "id": 202672,
+      "name": "Walnut Ridge"
+    },
+    {
+      "id": 202673,
+      "name": "Ward"
+    },
+    {
+      "id": 202674,
+      "name": "Warren"
+    },
+    {
+      "id": 202675,
+      "name": "Washington County"
+    },
+    {
+      "id": 202676,
+      "name": "West Crossett"
+    },
+    {
+      "id": 202677,
+      "name": "West Fork"
+    },
+    {
+      "id": 202678,
+      "name": "West Helena"
+    },
+    {
+      "id": 202679,
+      "name": "West Memphis"
+    },
+    {
+      "id": 202680,
+      "name": "White County"
+    },
+    {
+      "id": 202681,
+      "name": "White Hall"
+    },
+    {
+      "id": 202682,
+      "name": "Woodruff County"
+    },
+    {
+      "id": 202683,
+      "name": "Wrightsville"
+    },
+    {
+      "id": 202684,
+      "name": "Wynne"
+    },
+    {
+      "id": 202685,
+      "name": "Yell County"
+    },
+    {
+      "id": 202686,
+      "name": "Yellville"
+    }
+  ]
+}

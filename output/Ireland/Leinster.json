@@ -1,0 +1,855 @@
+{
+  "id": 4338,
+  "name": "Leinster",
+  "state_code": "L",
+  "cities": [
+    {
+      "id": 124124,
+      "name": "Abbeyleix"
+    },
+    {
+      "id": 124125,
+      "name": "An Iarmhí"
+    },
+    {
+      "id": 124126,
+      "name": "An Longfort"
+    },
+    {
+      "id": 124127,
+      "name": "An Mhí"
+    },
+    {
+      "id": 124128,
+      "name": "An Muileann gCearr"
+    },
+    {
+      "id": 124129,
+      "name": "An Ros"
+    },
+    {
+      "id": 124130,
+      "name": "Ardee"
+    },
+    {
+      "id": 124131,
+      "name": "Arklow"
+    },
+    {
+      "id": 124132,
+      "name": "Artane"
+    },
+    {
+      "id": 124133,
+      "name": "Ashbourne"
+    },
+    {
+      "id": 124134,
+      "name": "Ashford"
+    },
+    {
+      "id": 124135,
+      "name": "Athboy"
+    },
+    {
+      "id": 124136,
+      "name": "Athgarvan"
+    },
+    {
+      "id": 124137,
+      "name": "Athlone"
+    },
+    {
+      "id": 124138,
+      "name": "Athy"
+    },
+    {
+      "id": 124139,
+      "name": "Aughrim"
+    },
+    {
+      "id": 124140,
+      "name": "Bagenalstown"
+    },
+    {
+      "id": 124141,
+      "name": "Balally"
+    },
+    {
+      "id": 124142,
+      "name": "Balbriggan"
+    },
+    {
+      "id": 124143,
+      "name": "Baldoyle"
+    },
+    {
+      "id": 124144,
+      "name": "Ballinroad"
+    },
+    {
+      "id": 124145,
+      "name": "Ballinteer"
+    },
+    {
+      "id": 124146,
+      "name": "Ballivor"
+    },
+    {
+      "id": 124147,
+      "name": "Ballyboden"
+    },
+    {
+      "id": 124148,
+      "name": "Ballyfermot"
+    },
+    {
+      "id": 124149,
+      "name": "Ballygerry"
+    },
+    {
+      "id": 124150,
+      "name": "Ballylinan"
+    },
+    {
+      "id": 124151,
+      "name": "Ballymahon"
+    },
+    {
+      "id": 124152,
+      "name": "Ballymun"
+    },
+    {
+      "id": 124153,
+      "name": "Ballyragget"
+    },
+    {
+      "id": 124154,
+      "name": "Balrothery"
+    },
+    {
+      "id": 124155,
+      "name": "Baltinglass"
+    },
+    {
+      "id": 124156,
+      "name": "Banagher"
+    },
+    {
+      "id": 124157,
+      "name": "Bayside"
+    },
+    {
+      "id": 124158,
+      "name": "Beaumont"
+    },
+    {
+      "id": 124159,
+      "name": "Birr"
+    },
+    {
+      "id": 124160,
+      "name": "Blackrock"
+    },
+    {
+      "id": 124161,
+      "name": "Blanchardstown"
+    },
+    {
+      "id": 124162,
+      "name": "Blessington"
+    },
+    {
+      "id": 124163,
+      "name": "Bonnybrook"
+    },
+    {
+      "id": 124164,
+      "name": "Booterstown"
+    },
+    {
+      "id": 124165,
+      "name": "Bray"
+    },
+    {
+      "id": 124166,
+      "name": "Bunclody"
+    },
+    {
+      "id": 124167,
+      "name": "Cabinteely"
+    },
+    {
+      "id": 124168,
+      "name": "Cabra"
+    },
+    {
+      "id": 124169,
+      "name": "Callan"
+    },
+    {
+      "id": 124170,
+      "name": "Carlingford"
+    },
+    {
+      "id": 124171,
+      "name": "Carlow"
+    },
+    {
+      "id": 124172,
+      "name": "Carnew"
+    },
+    {
+      "id": 124173,
+      "name": "Castlebellingham"
+    },
+    {
+      "id": 124174,
+      "name": "Castlebridge"
+    },
+    {
+      "id": 124175,
+      "name": "Castlecomer"
+    },
+    {
+      "id": 124176,
+      "name": "Castledermot"
+    },
+    {
+      "id": 124177,
+      "name": "Castleknock"
+    },
+    {
+      "id": 124178,
+      "name": "Castlepollard"
+    },
+    {
+      "id": 124179,
+      "name": "Castletown"
+    },
+    {
+      "id": 124180,
+      "name": "Celbridge"
+    },
+    {
+      "id": 124181,
+      "name": "Chapelizod"
+    },
+    {
+      "id": 124182,
+      "name": "Charlesland"
+    },
+    {
+      "id": 124183,
+      "name": "Cherry Orchard"
+    },
+    {
+      "id": 124184,
+      "name": "Cherryville"
+    },
+    {
+      "id": 124185,
+      "name": "Clane"
+    },
+    {
+      "id": 124186,
+      "name": "Clara"
+    },
+    {
+      "id": 124187,
+      "name": "Clogherhead"
+    },
+    {
+      "id": 124188,
+      "name": "Clondalkin"
+    },
+    {
+      "id": 124189,
+      "name": "Clonskeagh"
+    },
+    {
+      "id": 124190,
+      "name": "Confey"
+    },
+    {
+      "id": 124191,
+      "name": "Coolock"
+    },
+    {
+      "id": 124192,
+      "name": "County Carlow"
+    },
+    {
+      "id": 124193,
+      "name": "Courtown"
+    },
+    {
+      "id": 124194,
+      "name": "Crumlin"
+    },
+    {
+      "id": 124195,
+      "name": "Daingean"
+    },
+    {
+      "id": 124196,
+      "name": "Dalkey"
+    },
+    {
+      "id": 124197,
+      "name": "Darndale"
+    },
+    {
+      "id": 124198,
+      "name": "Derrinturn"
+    },
+    {
+      "id": 124199,
+      "name": "Dollymount"
+    },
+    {
+      "id": 124200,
+      "name": "Donabate"
+    },
+    {
+      "id": 124201,
+      "name": "Donaghmede"
+    },
+    {
+      "id": 124202,
+      "name": "Donnybrook"
+    },
+    {
+      "id": 124203,
+      "name": "Donnycarney"
+    },
+    {
+      "id": 124204,
+      "name": "Drogheda"
+    },
+    {
+      "id": 124205,
+      "name": "Droichead Nua"
+    },
+    {
+      "id": 124206,
+      "name": "Dromiskin"
+    },
+    {
+      "id": 124207,
+      "name": "Drumcondra"
+    },
+    {
+      "id": 124208,
+      "name": "Dublin"
+    },
+    {
+      "id": 124209,
+      "name": "Dublin City"
+    },
+    {
+      "id": 124210,
+      "name": "Duleek"
+    },
+    {
+      "id": 124211,
+      "name": "Dún Laoghaire"
+    },
+    {
+      "id": 124212,
+      "name": "Dún Laoghaire-Rathdown"
+    },
+    {
+      "id": 124213,
+      "name": "Dunboyne"
+    },
+    {
+      "id": 124214,
+      "name": "Dundalk"
+    },
+    {
+      "id": 124215,
+      "name": "Dundrum"
+    },
+    {
+      "id": 124216,
+      "name": "Dunleer"
+    },
+    {
+      "id": 124217,
+      "name": "Dunshaughlin"
+    },
+    {
+      "id": 124218,
+      "name": "Eadestown"
+    },
+    {
+      "id": 124219,
+      "name": "Edenderry"
+    },
+    {
+      "id": 124220,
+      "name": "Edgeworthstown"
+    },
+    {
+      "id": 124221,
+      "name": "Enfield"
+    },
+    {
+      "id": 124222,
+      "name": "Enniscorthy"
+    },
+    {
+      "id": 124223,
+      "name": "Enniskerry"
+    },
+    {
+      "id": 124224,
+      "name": "Fairview"
+    },
+    {
+      "id": 124225,
+      "name": "Ferbane"
+    },
+    {
+      "id": 124226,
+      "name": "Ferns"
+    },
+    {
+      "id": 124227,
+      "name": "Fingal County"
+    },
+    {
+      "id": 124228,
+      "name": "Finglas"
+    },
+    {
+      "id": 124229,
+      "name": "Firhouse"
+    },
+    {
+      "id": 124230,
+      "name": "Foxrock"
+    },
+    {
+      "id": 124231,
+      "name": "Glasnevin"
+    },
+    {
+      "id": 124232,
+      "name": "Gorey"
+    },
+    {
+      "id": 124233,
+      "name": "Graiguenamanagh"
+    },
+    {
+      "id": 124234,
+      "name": "Granard"
+    },
+    {
+      "id": 124235,
+      "name": "Greenhills"
+    },
+    {
+      "id": 124236,
+      "name": "Greystones"
+    },
+    {
+      "id": 124237,
+      "name": "Hartstown"
+    },
+    {
+      "id": 124238,
+      "name": "Howth"
+    },
+    {
+      "id": 124239,
+      "name": "Jobstown"
+    },
+    {
+      "id": 124240,
+      "name": "Johnstown"
+    },
+    {
+      "id": 124241,
+      "name": "Kells"
+    },
+    {
+      "id": 124242,
+      "name": "Kentstown"
+    },
+    {
+      "id": 124243,
+      "name": "Kilbeggan"
+    },
+    {
+      "id": 124244,
+      "name": "Kilcock"
+    },
+    {
+      "id": 124245,
+      "name": "Kilcoole"
+    },
+    {
+      "id": 124246,
+      "name": "Kilcullen"
+    },
+    {
+      "id": 124247,
+      "name": "Kildare"
+    },
+    {
+      "id": 124248,
+      "name": "Kilkenny"
+    },
+    {
+      "id": 124249,
+      "name": "Kill"
+    },
+    {
+      "id": 124250,
+      "name": "Killester"
+    },
+    {
+      "id": 124251,
+      "name": "Kilmacanoge"
+    },
+    {
+      "id": 124252,
+      "name": "Kilpedder"
+    },
+    {
+      "id": 124253,
+      "name": "Kilquade"
+    },
+    {
+      "id": 124254,
+      "name": "Kinnegad"
+    },
+    {
+      "id": 124255,
+      "name": "Kinsealy-Drinan"
+    },
+    {
+      "id": 124256,
+      "name": "Knocklyon"
+    },
+    {
+      "id": 124257,
+      "name": "Lanesborough"
+    },
+    {
+      "id": 124258,
+      "name": "Laois"
+    },
+    {
+      "id": 124259,
+      "name": "Laytown"
+    },
+    {
+      "id": 124260,
+      "name": "Leixlip"
+    },
+    {
+      "id": 124261,
+      "name": "Little Bray"
+    },
+    {
+      "id": 124262,
+      "name": "Loch Garman"
+    },
+    {
+      "id": 124263,
+      "name": "Longford"
+    },
+    {
+      "id": 124264,
+      "name": "Longwood"
+    },
+    {
+      "id": 124265,
+      "name": "Loughlinstown"
+    },
+    {
+      "id": 124266,
+      "name": "Lú"
+    },
+    {
+      "id": 124267,
+      "name": "Lucan"
+    },
+    {
+      "id": 124268,
+      "name": "Lusk"
+    },
+    {
+      "id": 124269,
+      "name": "Malahide"
+    },
+    {
+      "id": 124270,
+      "name": "Marino"
+    },
+    {
+      "id": 124271,
+      "name": "Maynooth"
+    },
+    {
+      "id": 124272,
+      "name": "Milltown"
+    },
+    {
+      "id": 124273,
+      "name": "Moate"
+    },
+    {
+      "id": 124274,
+      "name": "Monasterevin"
+    },
+    {
+      "id": 124275,
+      "name": "Monkstown"
+    },
+    {
+      "id": 124276,
+      "name": "Mooncoin"
+    },
+    {
+      "id": 124277,
+      "name": "Moone"
+    },
+    {
+      "id": 124278,
+      "name": "Mount Merrion"
+    },
+    {
+      "id": 124279,
+      "name": "Mountmellick"
+    },
+    {
+      "id": 124280,
+      "name": "Mountrath"
+    },
+    {
+      "id": 124281,
+      "name": "Naas"
+    },
+    {
+      "id": 124282,
+      "name": "Navan"
+    },
+    {
+      "id": 124283,
+      "name": "New Ross"
+    },
+    {
+      "id": 124284,
+      "name": "Newcastle"
+    },
+    {
+      "id": 124285,
+      "name": "Newtown Trim"
+    },
+    {
+      "id": 124286,
+      "name": "Newtownmountkennedy"
+    },
+    {
+      "id": 124287,
+      "name": "Old Kilcullen"
+    },
+    {
+      "id": 124288,
+      "name": "Oldbawn"
+    },
+    {
+      "id": 124289,
+      "name": "Oldcastle"
+    },
+    {
+      "id": 124290,
+      "name": "Palmerstown"
+    },
+    {
+      "id": 124291,
+      "name": "Piltown"
+    },
+    {
+      "id": 124292,
+      "name": "Portarlington"
+    },
+    {
+      "id": 124293,
+      "name": "Portlaoise"
+    },
+    {
+      "id": 124294,
+      "name": "Portmarnock"
+    },
+    {
+      "id": 124295,
+      "name": "Portraine"
+    },
+    {
+      "id": 124296,
+      "name": "Prosperous"
+    },
+    {
+      "id": 124297,
+      "name": "Raheny"
+    },
+    {
+      "id": 124298,
+      "name": "Rathangan"
+    },
+    {
+      "id": 124299,
+      "name": "Rathcoole"
+    },
+    {
+      "id": 124300,
+      "name": "Rathdowney"
+    },
+    {
+      "id": 124301,
+      "name": "Rathdrum"
+    },
+    {
+      "id": 124302,
+      "name": "Rathgar"
+    },
+    {
+      "id": 124303,
+      "name": "Rathmines"
+    },
+    {
+      "id": 124304,
+      "name": "Rathnew"
+    },
+    {
+      "id": 124305,
+      "name": "Rathwire"
+    },
+    {
+      "id": 124306,
+      "name": "Ratoath"
+    },
+    {
+      "id": 124307,
+      "name": "Rialto"
+    },
+    {
+      "id": 124308,
+      "name": "Ringsend"
+    },
+    {
+      "id": 124309,
+      "name": "Rochfortbridge"
+    },
+    {
+      "id": 124310,
+      "name": "Rosslare"
+    },
+    {
+      "id": 124311,
+      "name": "Saggart"
+    },
+    {
+      "id": 124312,
+      "name": "Sallins"
+    },
+    {
+      "id": 124313,
+      "name": "Sallynoggin"
+    },
+    {
+      "id": 124314,
+      "name": "Sandyford"
+    },
+    {
+      "id": 124315,
+      "name": "Sandymount"
+    },
+    {
+      "id": 124316,
+      "name": "Shankill"
+    },
+    {
+      "id": 124317,
+      "name": "Skerries"
+    },
+    {
+      "id": 124318,
+      "name": "Slane"
+    },
+    {
+      "id": 124319,
+      "name": "South Dublin"
+    },
+    {
+      "id": 124320,
+      "name": "Stamullin"
+    },
+    {
+      "id": 124321,
+      "name": "Stradbally"
+    },
+    {
+      "id": 124322,
+      "name": "Sutton"
+    },
+    {
+      "id": 124323,
+      "name": "Swords"
+    },
+    {
+      "id": 124324,
+      "name": "Tallaght"
+    },
+    {
+      "id": 124325,
+      "name": "Templeogue"
+    },
+    {
+      "id": 124326,
+      "name": "Terenure"
+    },
+    {
+      "id": 124327,
+      "name": "Termonfeckin"
+    },
+    {
+      "id": 124328,
+      "name": "Thomastown"
+    },
+    {
+      "id": 124329,
+      "name": "Trim"
+    },
+    {
+      "id": 124330,
+      "name": "Tullamore"
+    },
+    {
+      "id": 124331,
+      "name": "Tullow"
+    },
+    {
+      "id": 124332,
+      "name": "Tullyallen"
+    },
+    {
+      "id": 124333,
+      "name": "Uíbh Fhailí"
+    },
+    {
+      "id": 124334,
+      "name": "Valleymount"
+    },
+    {
+      "id": 124335,
+      "name": "Wicklow"
+    }
+  ]
+}

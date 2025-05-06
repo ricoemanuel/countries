@@ -1,0 +1,735 @@
+{
+  "id": 7467,
+  "name": "New Mexico",
+  "state_code": "NM",
+  "cities": [
+    {
+      "id": 212767,
+      "name": "Agua Fria"
+    },
+    {
+      "id": 212768,
+      "name": "Alamo"
+    },
+    {
+      "id": 212769,
+      "name": "Alamogordo"
+    },
+    {
+      "id": 212770,
+      "name": "Albuquerque"
+    },
+    {
+      "id": 212771,
+      "name": "Angel Fire"
+    },
+    {
+      "id": 212772,
+      "name": "Anthony"
+    },
+    {
+      "id": 212773,
+      "name": "Arenas Valley"
+    },
+    {
+      "id": 212774,
+      "name": "Arroyo Seco"
+    },
+    {
+      "id": 212775,
+      "name": "Artesia"
+    },
+    {
+      "id": 212776,
+      "name": "Atoka"
+    },
+    {
+      "id": 212777,
+      "name": "Aztec"
+    },
+    {
+      "id": 212778,
+      "name": "Bayard"
+    },
+    {
+      "id": 212779,
+      "name": "Belen"
+    },
+    {
+      "id": 212780,
+      "name": "Berino"
+    },
+    {
+      "id": 212781,
+      "name": "Bernalillo"
+    },
+    {
+      "id": 212782,
+      "name": "Bernalillo County"
+    },
+    {
+      "id": 212783,
+      "name": "Black Rock"
+    },
+    {
+      "id": 212784,
+      "name": "Bloomfield"
+    },
+    {
+      "id": 212785,
+      "name": "Boles Acres"
+    },
+    {
+      "id": 212786,
+      "name": "Bosque Farms"
+    },
+    {
+      "id": 212787,
+      "name": "Cannon Air Force Base"
+    },
+    {
+      "id": 212788,
+      "name": "Capitan"
+    },
+    {
+      "id": 212789,
+      "name": "Carlsbad"
+    },
+    {
+      "id": 212790,
+      "name": "Carnuel"
+    },
+    {
+      "id": 212791,
+      "name": "Carrizozo"
+    },
+    {
+      "id": 212792,
+      "name": "Catron County"
+    },
+    {
+      "id": 212793,
+      "name": "Chama"
+    },
+    {
+      "id": 212794,
+      "name": "Chaparral"
+    },
+    {
+      "id": 212795,
+      "name": "Chaves County"
+    },
+    {
+      "id": 212796,
+      "name": "Chimayo"
+    },
+    {
+      "id": 212797,
+      "name": "Church Rock"
+    },
+    {
+      "id": 212798,
+      "name": "Cibola County"
+    },
+    {
+      "id": 212799,
+      "name": "Clayton"
+    },
+    {
+      "id": 212800,
+      "name": "Clovis"
+    },
+    {
+      "id": 212801,
+      "name": "Colfax County"
+    },
+    {
+      "id": 212802,
+      "name": "Columbus"
+    },
+    {
+      "id": 212803,
+      "name": "Corrales"
+    },
+    {
+      "id": 212804,
+      "name": "Crownpoint"
+    },
+    {
+      "id": 212805,
+      "name": "Curry County"
+    },
+    {
+      "id": 212806,
+      "name": "De Baca County"
+    },
+    {
+      "id": 212807,
+      "name": "Deming"
+    },
+    {
+      "id": 212808,
+      "name": "Dexter"
+    },
+    {
+      "id": 212809,
+      "name": "Doña Ana"
+    },
+    {
+      "id": 212810,
+      "name": "Doña Ana County"
+    },
+    {
+      "id": 212811,
+      "name": "Dulce"
+    },
+    {
+      "id": 212812,
+      "name": "Eddy County"
+    },
+    {
+      "id": 212813,
+      "name": "Edgewood"
+    },
+    {
+      "id": 212814,
+      "name": "El Cerro"
+    },
+    {
+      "id": 212815,
+      "name": "El Cerro Mission"
+    },
+    {
+      "id": 212816,
+      "name": "El Rancho"
+    },
+    {
+      "id": 212817,
+      "name": "El Valle de Arroyo Seco"
+    },
+    {
+      "id": 212818,
+      "name": "Eldorado at Santa Fe"
+    },
+    {
+      "id": 212819,
+      "name": "Elephant Butte"
+    },
+    {
+      "id": 212820,
+      "name": "Enchanted Hills"
+    },
+    {
+      "id": 212821,
+      "name": "Española"
+    },
+    {
+      "id": 212822,
+      "name": "Estancia"
+    },
+    {
+      "id": 212823,
+      "name": "Eunice"
+    },
+    {
+      "id": 212824,
+      "name": "Farmington"
+    },
+    {
+      "id": 212825,
+      "name": "Flora Vista"
+    },
+    {
+      "id": 212826,
+      "name": "Fort Sumner"
+    },
+    {
+      "id": 212827,
+      "name": "Gallup"
+    },
+    {
+      "id": 212828,
+      "name": "Grant County"
+    },
+    {
+      "id": 212829,
+      "name": "Grants"
+    },
+    {
+      "id": 212830,
+      "name": "Guadalupe County"
+    },
+    {
+      "id": 212831,
+      "name": "Hagerman"
+    },
+    {
+      "id": 212832,
+      "name": "Harding County"
+    },
+    {
+      "id": 212833,
+      "name": "Hatch"
+    },
+    {
+      "id": 212834,
+      "name": "Hidalgo County"
+    },
+    {
+      "id": 212835,
+      "name": "Hobbs"
+    },
+    {
+      "id": 212836,
+      "name": "Holloman Air Force Base"
+    },
+    {
+      "id": 212837,
+      "name": "Hurley"
+    },
+    {
+      "id": 212838,
+      "name": "Jal"
+    },
+    {
+      "id": 212839,
+      "name": "Jarales"
+    },
+    {
+      "id": 212840,
+      "name": "Jemez Pueblo"
+    },
+    {
+      "id": 212841,
+      "name": "Keeler Farm"
+    },
+    {
+      "id": 212842,
+      "name": "Kirtland"
+    },
+    {
+      "id": 212843,
+      "name": "La Cienega"
+    },
+    {
+      "id": 212844,
+      "name": "La Huerta"
+    },
+    {
+      "id": 212845,
+      "name": "La Luz"
+    },
+    {
+      "id": 212846,
+      "name": "La Mesilla"
+    },
+    {
+      "id": 212847,
+      "name": "La Puebla"
+    },
+    {
+      "id": 212848,
+      "name": "La Union"
+    },
+    {
+      "id": 212849,
+      "name": "Laguna"
+    },
+    {
+      "id": 212850,
+      "name": "Las Cruces"
+    },
+    {
+      "id": 212851,
+      "name": "Las Maravillas"
+    },
+    {
+      "id": 212852,
+      "name": "Las Vegas"
+    },
+    {
+      "id": 212853,
+      "name": "Lea County"
+    },
+    {
+      "id": 212854,
+      "name": "Lee Acres"
+    },
+    {
+      "id": 212855,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 212856,
+      "name": "Lordsburg"
+    },
+    {
+      "id": 212857,
+      "name": "Los Alamos"
+    },
+    {
+      "id": 212858,
+      "name": "Los Alamos County"
+    },
+    {
+      "id": 212859,
+      "name": "Los Chavez"
+    },
+    {
+      "id": 212860,
+      "name": "Los Lunas"
+    },
+    {
+      "id": 212861,
+      "name": "Los Ranchos de Albuquerque"
+    },
+    {
+      "id": 212862,
+      "name": "Loving"
+    },
+    {
+      "id": 212863,
+      "name": "Lovington"
+    },
+    {
+      "id": 212864,
+      "name": "Luna County"
+    },
+    {
+      "id": 212865,
+      "name": "McIntosh"
+    },
+    {
+      "id": 212866,
+      "name": "McKinley County"
+    },
+    {
+      "id": 212867,
+      "name": "Meadow Lake"
+    },
+    {
+      "id": 212868,
+      "name": "Mescalero"
+    },
+    {
+      "id": 212869,
+      "name": "Mesilla"
+    },
+    {
+      "id": 212870,
+      "name": "Mesquite"
+    },
+    {
+      "id": 212871,
+      "name": "Milan"
+    },
+    {
+      "id": 212872,
+      "name": "Monterey Park"
+    },
+    {
+      "id": 212873,
+      "name": "Mora"
+    },
+    {
+      "id": 212874,
+      "name": "Mora County"
+    },
+    {
+      "id": 212875,
+      "name": "Moriarty"
+    },
+    {
+      "id": 212876,
+      "name": "Mosquero"
+    },
+    {
+      "id": 212877,
+      "name": "Nambe"
+    },
+    {
+      "id": 212878,
+      "name": "Navajo"
+    },
+    {
+      "id": 212879,
+      "name": "North Valley"
+    },
+    {
+      "id": 212880,
+      "name": "Ohkay Owingeh"
+    },
+    {
+      "id": 212881,
+      "name": "Otero County"
+    },
+    {
+      "id": 212882,
+      "name": "Paradise Hills"
+    },
+    {
+      "id": 212883,
+      "name": "Pecos"
+    },
+    {
+      "id": 212884,
+      "name": "Peralta"
+    },
+    {
+      "id": 212885,
+      "name": "Placitas"
+    },
+    {
+      "id": 212886,
+      "name": "Pojoaque"
+    },
+    {
+      "id": 212887,
+      "name": "Ponderosa Pine"
+    },
+    {
+      "id": 212888,
+      "name": "Portales"
+    },
+    {
+      "id": 212889,
+      "name": "Quay County"
+    },
+    {
+      "id": 212890,
+      "name": "Questa"
+    },
+    {
+      "id": 212891,
+      "name": "Radium Springs"
+    },
+    {
+      "id": 212892,
+      "name": "Ranchos de Taos"
+    },
+    {
+      "id": 212893,
+      "name": "Raton"
+    },
+    {
+      "id": 212894,
+      "name": "Reserve"
+    },
+    {
+      "id": 212895,
+      "name": "Rio Arriba County"
+    },
+    {
+      "id": 212896,
+      "name": "Rio Communities"
+    },
+    {
+      "id": 212897,
+      "name": "Rio Rancho"
+    },
+    {
+      "id": 212898,
+      "name": "Roosevelt County"
+    },
+    {
+      "id": 212899,
+      "name": "Roswell"
+    },
+    {
+      "id": 212900,
+      "name": "Ruidoso"
+    },
+    {
+      "id": 212901,
+      "name": "Ruidoso Downs"
+    },
+    {
+      "id": 212902,
+      "name": "San Felipe Pueblo"
+    },
+    {
+      "id": 212903,
+      "name": "San Juan County"
+    },
+    {
+      "id": 212904,
+      "name": "San Miguel"
+    },
+    {
+      "id": 212905,
+      "name": "San Miguel County"
+    },
+    {
+      "id": 212906,
+      "name": "San Ysidro"
+    },
+    {
+      "id": 212907,
+      "name": "Sandia Heights"
+    },
+    {
+      "id": 212908,
+      "name": "Sandia Knolls"
+    },
+    {
+      "id": 212909,
+      "name": "Sandoval County"
+    },
+    {
+      "id": 212910,
+      "name": "Santa Clara"
+    },
+    {
+      "id": 212911,
+      "name": "Santa Clara Pueblo"
+    },
+    {
+      "id": 212912,
+      "name": "Santa Fe"
+    },
+    {
+      "id": 212913,
+      "name": "Santa Fe County"
+    },
+    {
+      "id": 212914,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 212915,
+      "name": "Santa Teresa"
+    },
+    {
+      "id": 212916,
+      "name": "Santo Domingo Pueblo"
+    },
+    {
+      "id": 212917,
+      "name": "Shiprock"
+    },
+    {
+      "id": 212918,
+      "name": "Sierra County"
+    },
+    {
+      "id": 212919,
+      "name": "Silver City"
+    },
+    {
+      "id": 212920,
+      "name": "Skyline-Ganipa"
+    },
+    {
+      "id": 212921,
+      "name": "Socorro"
+    },
+    {
+      "id": 212922,
+      "name": "Socorro County"
+    },
+    {
+      "id": 212923,
+      "name": "South Valley"
+    },
+    {
+      "id": 212924,
+      "name": "Spencerville"
+    },
+    {
+      "id": 212925,
+      "name": "Sunland Park"
+    },
+    {
+      "id": 212926,
+      "name": "Taos"
+    },
+    {
+      "id": 212927,
+      "name": "Taos County"
+    },
+    {
+      "id": 212928,
+      "name": "Taos Pueblo"
+    },
+    {
+      "id": 212929,
+      "name": "Texico"
+    },
+    {
+      "id": 212930,
+      "name": "Thoreau"
+    },
+    {
+      "id": 212931,
+      "name": "Tierra Amarilla"
+    },
+    {
+      "id": 212932,
+      "name": "Tome"
+    },
+    {
+      "id": 212933,
+      "name": "Torrance County"
+    },
+    {
+      "id": 212934,
+      "name": "Truth or Consequences"
+    },
+    {
+      "id": 212935,
+      "name": "Tucumcari"
+    },
+    {
+      "id": 212936,
+      "name": "Tularosa"
+    },
+    {
+      "id": 212937,
+      "name": "Twin Lakes"
+    },
+    {
+      "id": 212938,
+      "name": "Union County"
+    },
+    {
+      "id": 212939,
+      "name": "University Park"
+    },
+    {
+      "id": 212940,
+      "name": "Upper Fruitland"
+    },
+    {
+      "id": 212941,
+      "name": "Vado"
+    },
+    {
+      "id": 212942,
+      "name": "Valencia"
+    },
+    {
+      "id": 212943,
+      "name": "Valencia County"
+    },
+    {
+      "id": 212944,
+      "name": "Waterflow"
+    },
+    {
+      "id": 212945,
+      "name": "West Hammond"
+    },
+    {
+      "id": 212946,
+      "name": "White Rock"
+    },
+    {
+      "id": 212947,
+      "name": "White Sands"
+    },
+    {
+      "id": 212948,
+      "name": "Zuni Pueblo"
+    }
+  ]
+}

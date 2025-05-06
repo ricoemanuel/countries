@@ -1,0 +1,755 @@
+{
+  "id": 2777,
+  "name": "Córdoba",
+  "state_code": "X",
+  "cities": [
+    {
+      "id": 72970,
+      "name": "Achiras"
+    },
+    {
+      "id": 72971,
+      "name": "Adelia María"
+    },
+    {
+      "id": 72972,
+      "name": "Agua de Oro"
+    },
+    {
+      "id": 72973,
+      "name": "Alejandro Roca"
+    },
+    {
+      "id": 72974,
+      "name": "Alejo Ledesma"
+    },
+    {
+      "id": 72975,
+      "name": "Almafuerte"
+    },
+    {
+      "id": 72976,
+      "name": "Alta Gracia"
+    },
+    {
+      "id": 72977,
+      "name": "Altos de Chipión"
+    },
+    {
+      "id": 72978,
+      "name": "Arias"
+    },
+    {
+      "id": 72979,
+      "name": "Arroyito"
+    },
+    {
+      "id": 72980,
+      "name": "Arroyo Cabral"
+    },
+    {
+      "id": 72981,
+      "name": "Balnearia"
+    },
+    {
+      "id": 72982,
+      "name": "Bell Ville"
+    },
+    {
+      "id": 72983,
+      "name": "Berrotarán"
+    },
+    {
+      "id": 72984,
+      "name": "Brinkmann"
+    },
+    {
+      "id": 72985,
+      "name": "Buchardo"
+    },
+    {
+      "id": 72986,
+      "name": "Camilo Aldao"
+    },
+    {
+      "id": 72987,
+      "name": "Cañada de Luque"
+    },
+    {
+      "id": 72988,
+      "name": "Canals"
+    },
+    {
+      "id": 72989,
+      "name": "Capilla del Monte"
+    },
+    {
+      "id": 72990,
+      "name": "Carnerillo"
+    },
+    {
+      "id": 72991,
+      "name": "Carrilobo"
+    },
+    {
+      "id": 72992,
+      "name": "Cavanagh"
+    },
+    {
+      "id": 72993,
+      "name": "Charras"
+    },
+    {
+      "id": 72994,
+      "name": "Chazón"
+    },
+    {
+      "id": 72995,
+      "name": "Cintra"
+    },
+    {
+      "id": 72996,
+      "name": "Colonia La Tordilla"
+    },
+    {
+      "id": 72997,
+      "name": "Colonia San Bartolomé"
+    },
+    {
+      "id": 72998,
+      "name": "Córdoba"
+    },
+    {
+      "id": 72999,
+      "name": "Coronel Baigorria"
+    },
+    {
+      "id": 73000,
+      "name": "Coronel Moldes"
+    },
+    {
+      "id": 73001,
+      "name": "Corral de Bustos"
+    },
+    {
+      "id": 73002,
+      "name": "Corralito"
+    },
+    {
+      "id": 73003,
+      "name": "Cosquín"
+    },
+    {
+      "id": 73004,
+      "name": "Costa Sacate"
+    },
+    {
+      "id": 73005,
+      "name": "Cruz Alta"
+    },
+    {
+      "id": 73006,
+      "name": "Cruz del Eje"
+    },
+    {
+      "id": 73007,
+      "name": "Cuesta Blanca"
+    },
+    {
+      "id": 73008,
+      "name": "Dalmacio Vélez Sársfield"
+    },
+    {
+      "id": 73009,
+      "name": "Deán Funes"
+    },
+    {
+      "id": 73010,
+      "name": "Del Campillo"
+    },
+    {
+      "id": 73011,
+      "name": "Departamento de Calamuchita"
+    },
+    {
+      "id": 73012,
+      "name": "Departamento de Colón"
+    },
+    {
+      "id": 73013,
+      "name": "Departamento de Cruz del Eje"
+    },
+    {
+      "id": 73014,
+      "name": "Departamento de General Roca"
+    },
+    {
+      "id": 73015,
+      "name": "Departamento de General San Martín"
+    },
+    {
+      "id": 73016,
+      "name": "Departamento de Juárez Celman"
+    },
+    {
+      "id": 73017,
+      "name": "Departamento de Marcos Juárez"
+    },
+    {
+      "id": 73018,
+      "name": "Departamento de Minas"
+    },
+    {
+      "id": 73019,
+      "name": "Departamento de Presidente Roque Sáenz Peña"
+    },
+    {
+      "id": 73020,
+      "name": "Departamento de Río Cuarto"
+    },
+    {
+      "id": 73021,
+      "name": "Departamento de Río Primero"
+    },
+    {
+      "id": 73022,
+      "name": "Departamento de Río Seco"
+    },
+    {
+      "id": 73023,
+      "name": "Departamento de Río Segundo"
+    },
+    {
+      "id": 73024,
+      "name": "Departamento de San Alberto"
+    },
+    {
+      "id": 73025,
+      "name": "Departamento de San Javier"
+    },
+    {
+      "id": 73026,
+      "name": "Departamento de San Justo"
+    },
+    {
+      "id": 73027,
+      "name": "Departamento de Sobremonte"
+    },
+    {
+      "id": 73028,
+      "name": "Departamento de Totoral"
+    },
+    {
+      "id": 73029,
+      "name": "Departamento de Tulumba"
+    },
+    {
+      "id": 73030,
+      "name": "Departamento de Unión"
+    },
+    {
+      "id": 73031,
+      "name": "Despeñaderos"
+    },
+    {
+      "id": 73032,
+      "name": "Devoto"
+    },
+    {
+      "id": 73033,
+      "name": "El Arañado"
+    },
+    {
+      "id": 73034,
+      "name": "El Tío"
+    },
+    {
+      "id": 73035,
+      "name": "Elena"
+    },
+    {
+      "id": 73036,
+      "name": "Embalse"
+    },
+    {
+      "id": 73037,
+      "name": "Etruria"
+    },
+    {
+      "id": 73038,
+      "name": "General Baldissera"
+    },
+    {
+      "id": 73039,
+      "name": "General Cabrera"
+    },
+    {
+      "id": 73040,
+      "name": "General Levalle"
+    },
+    {
+      "id": 73041,
+      "name": "General Roca"
+    },
+    {
+      "id": 73042,
+      "name": "Guatimozín"
+    },
+    {
+      "id": 73043,
+      "name": "Hernando"
+    },
+    {
+      "id": 73044,
+      "name": "Huanchillas"
+    },
+    {
+      "id": 73045,
+      "name": "Huerta Grande"
+    },
+    {
+      "id": 73046,
+      "name": "Huinca Renancó"
+    },
+    {
+      "id": 73047,
+      "name": "Idiazábal"
+    },
+    {
+      "id": 73048,
+      "name": "Inriville"
+    },
+    {
+      "id": 73049,
+      "name": "Isla Verde"
+    },
+    {
+      "id": 73050,
+      "name": "Italó"
+    },
+    {
+      "id": 73051,
+      "name": "James Craik"
+    },
+    {
+      "id": 73052,
+      "name": "Jesús María"
+    },
+    {
+      "id": 73053,
+      "name": "Justiniano Posse"
+    },
+    {
+      "id": 73054,
+      "name": "La Calera"
+    },
+    {
+      "id": 73055,
+      "name": "La Carlota"
+    },
+    {
+      "id": 73056,
+      "name": "La Cesira"
+    },
+    {
+      "id": 73057,
+      "name": "La Cumbre"
+    },
+    {
+      "id": 73058,
+      "name": "La Falda"
+    },
+    {
+      "id": 73059,
+      "name": "La Francia"
+    },
+    {
+      "id": 73060,
+      "name": "La Granja"
+    },
+    {
+      "id": 73061,
+      "name": "La Para"
+    },
+    {
+      "id": 73062,
+      "name": "La Playosa"
+    },
+    {
+      "id": 73063,
+      "name": "Laborde"
+    },
+    {
+      "id": 73064,
+      "name": "Laboulaye"
+    },
+    {
+      "id": 73065,
+      "name": "Laguna Larga"
+    },
+    {
+      "id": 73066,
+      "name": "Las Acequias"
+    },
+    {
+      "id": 73067,
+      "name": "Las Higueras"
+    },
+    {
+      "id": 73068,
+      "name": "Las Junturas"
+    },
+    {
+      "id": 73069,
+      "name": "Las Perdices"
+    },
+    {
+      "id": 73070,
+      "name": "Las Varas"
+    },
+    {
+      "id": 73071,
+      "name": "Las Varillas"
+    },
+    {
+      "id": 73072,
+      "name": "Leones"
+    },
+    {
+      "id": 73073,
+      "name": "Los Cocos"
+    },
+    {
+      "id": 73074,
+      "name": "Los Cóndores"
+    },
+    {
+      "id": 73075,
+      "name": "Los Surgentes"
+    },
+    {
+      "id": 73076,
+      "name": "Malagueño"
+    },
+    {
+      "id": 73077,
+      "name": "Malvinas Argentinas"
+    },
+    {
+      "id": 73078,
+      "name": "Marcos Juárez"
+    },
+    {
+      "id": 73079,
+      "name": "Marull"
+    },
+    {
+      "id": 73080,
+      "name": "Mattaldi"
+    },
+    {
+      "id": 73081,
+      "name": "Mendiolaza"
+    },
+    {
+      "id": 73082,
+      "name": "Mina Clavero"
+    },
+    {
+      "id": 73083,
+      "name": "Miramar"
+    },
+    {
+      "id": 73084,
+      "name": "Monte Buey"
+    },
+    {
+      "id": 73085,
+      "name": "Monte Cristo"
+    },
+    {
+      "id": 73086,
+      "name": "Monte Maíz"
+    },
+    {
+      "id": 73087,
+      "name": "Morrison"
+    },
+    {
+      "id": 73088,
+      "name": "Morteros"
+    },
+    {
+      "id": 73089,
+      "name": "Noetinger"
+    },
+    {
+      "id": 73090,
+      "name": "Obispo Trejo"
+    },
+    {
+      "id": 73091,
+      "name": "Oliva"
+    },
+    {
+      "id": 73092,
+      "name": "Oncativo"
+    },
+    {
+      "id": 73093,
+      "name": "Ordóñez"
+    },
+    {
+      "id": 73094,
+      "name": "Pascanas"
+    },
+    {
+      "id": 73095,
+      "name": "Pasco"
+    },
+    {
+      "id": 73096,
+      "name": "Pilar"
+    },
+    {
+      "id": 73097,
+      "name": "Piquillín"
+    },
+    {
+      "id": 73098,
+      "name": "Porteña"
+    },
+    {
+      "id": 73099,
+      "name": "Pozo del Molle"
+    },
+    {
+      "id": 73100,
+      "name": "Quilino"
+    },
+    {
+      "id": 73101,
+      "name": "Río Ceballos"
+    },
+    {
+      "id": 73102,
+      "name": "Río Cuarto"
+    },
+    {
+      "id": 73103,
+      "name": "Río Segundo"
+    },
+    {
+      "id": 73104,
+      "name": "Río Tercero"
+    },
+    {
+      "id": 73105,
+      "name": "Sacanta"
+    },
+    {
+      "id": 73106,
+      "name": "Saldán"
+    },
+    {
+      "id": 73107,
+      "name": "Salsacate"
+    },
+    {
+      "id": 73108,
+      "name": "Salsipuedes"
+    },
+    {
+      "id": 73109,
+      "name": "Sampacho"
+    },
+    {
+      "id": 73110,
+      "name": "San Agustín"
+    },
+    {
+      "id": 73111,
+      "name": "San Antonio de Litín"
+    },
+    {
+      "id": 73112,
+      "name": "San Basilio"
+    },
+    {
+      "id": 73113,
+      "name": "San Carlos"
+    },
+    {
+      "id": 73114,
+      "name": "San Francisco"
+    },
+    {
+      "id": 73115,
+      "name": "San Francisco del Chañar"
+    },
+    {
+      "id": 73116,
+      "name": "San José de la Dormida"
+    },
+    {
+      "id": 73117,
+      "name": "Santa Eufemia"
+    },
+    {
+      "id": 73118,
+      "name": "Santa Magdalena"
+    },
+    {
+      "id": 73119,
+      "name": "Santa Rosa de Calamuchita"
+    },
+    {
+      "id": 73120,
+      "name": "Santa Rosa de Río Primero"
+    },
+    {
+      "id": 73121,
+      "name": "Santiago Temple"
+    },
+    {
+      "id": 73122,
+      "name": "Saturnino M. Laspiur"
+    },
+    {
+      "id": 73123,
+      "name": "Sebastián Elcano"
+    },
+    {
+      "id": 73124,
+      "name": "Serrano"
+    },
+    {
+      "id": 73125,
+      "name": "Serrezuela"
+    },
+    {
+      "id": 73126,
+      "name": "Tancacha"
+    },
+    {
+      "id": 73127,
+      "name": "Ticino"
+    },
+    {
+      "id": 73128,
+      "name": "Tío Pujio"
+    },
+    {
+      "id": 73129,
+      "name": "Toledo"
+    },
+    {
+      "id": 73130,
+      "name": "Ucacha"
+    },
+    {
+      "id": 73131,
+      "name": "Unquillo"
+    },
+    {
+      "id": 73132,
+      "name": "Valle Hermoso"
+    },
+    {
+      "id": 73133,
+      "name": "Viamonte"
+    },
+    {
+      "id": 73134,
+      "name": "Vicuña Mackenna"
+    },
+    {
+      "id": 73135,
+      "name": "Villa Allende"
+    },
+    {
+      "id": 73136,
+      "name": "Villa Ascasubi"
+    },
+    {
+      "id": 73137,
+      "name": "Villa Berna"
+    },
+    {
+      "id": 73138,
+      "name": "Villa Carlos Paz"
+    },
+    {
+      "id": 73139,
+      "name": "Villa Concepción del Tío"
+    },
+    {
+      "id": 73140,
+      "name": "Villa Cura Brochero"
+    },
+    {
+      "id": 73141,
+      "name": "Villa de Soto"
+    },
+    {
+      "id": 73142,
+      "name": "Villa del Dique"
+    },
+    {
+      "id": 73143,
+      "name": "Villa del Rosario"
+    },
+    {
+      "id": 73144,
+      "name": "Villa del Totoral"
+    },
+    {
+      "id": 73145,
+      "name": "Villa Dolores"
+    },
+    {
+      "id": 73146,
+      "name": "Villa General Belgrano"
+    },
+    {
+      "id": 73147,
+      "name": "Villa Giardino"
+    },
+    {
+      "id": 73148,
+      "name": "Villa Huidobro"
+    },
+    {
+      "id": 73149,
+      "name": "Villa Las Rosas"
+    },
+    {
+      "id": 73150,
+      "name": "Villa María"
+    },
+    {
+      "id": 73151,
+      "name": "Villa Nueva"
+    },
+    {
+      "id": 73152,
+      "name": "Villa Reducción"
+    },
+    {
+      "id": 73153,
+      "name": "Villa Rumipal"
+    },
+    {
+      "id": 73154,
+      "name": "Villa Tulumba"
+    },
+    {
+      "id": 73155,
+      "name": "Villa Valeria"
+    },
+    {
+      "id": 73156,
+      "name": "Wenceslao Escalante"
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "id": 6552,
+  "name": "Tarragona",
+  "state_code": "T",
+  "cities": [
+    {
+      "id": 188259,
+      "name": "Aiguamúrcia"
+    },
+    {
+      "id": 188260,
+      "name": "Albinyana"
+    },
+    {
+      "id": 188261,
+      "name": "Albiol"
+    },
+    {
+      "id": 188262,
+      "name": "Alcanar"
+    },
+    {
+      "id": 188263,
+      "name": "Alcover"
+    },
+    {
+      "id": 188264,
+      "name": "Aldea L"
+    },
+    {
+      "id": 188265,
+      "name": "Aldover"
+    },
+    {
+      "id": 188266,
+      "name": "Aleixar"
+    },
+    {
+      "id": 188267,
+      "name": "Alfara de Carles"
+    },
+    {
+      "id": 188268,
+      "name": "Alforja"
+    },
+    {
+      "id": 188269,
+      "name": "Alió"
+    },
+    {
+      "id": 188270,
+      "name": "Almoster"
+    },
+    {
+      "id": 188271,
+      "name": "Altafulla"
+    },
+    {
+      "id": 188272,
+      "name": "Ametlla de Mar"
+    },
+    {
+      "id": 188273,
+      "name": "Ampolla L"
+    },
+    {
+      "id": 188274,
+      "name": "Amposta"
+    },
+    {
+      "id": 188275,
+      "name": "Arboç"
+    },
+    {
+      "id": 188276,
+      "name": "Arbolí"
+    },
+    {
+      "id": 188277,
+      "name": "Argentera"
+    },
+    {
+      "id": 188278,
+      "name": "Arnes"
+    },
+    {
+      "id": 188279,
+      "name": "Ascó"
+    },
+    {
+      "id": 188280,
+      "name": "Banyeres del Penedès"
+    },
+    {
+      "id": 188281,
+      "name": "Barberà de la Conca"
+    },
+    {
+      "id": 188282,
+      "name": "Batea"
+    },
+    {
+      "id": 188283,
+      "name": "Bellmunt del Priorat"
+    },
+    {
+      "id": 188284,
+      "name": "Bellvei"
+    },
+    {
+      "id": 188285,
+      "name": "Benifallet"
+    },
+    {
+      "id": 188286,
+      "name": "Benissanet"
+    },
+    {
+      "id": 188287,
+      "name": "Bisbal de Falset"
+    },
+    {
+      "id": 188288,
+      "name": "Bisbal del Penedès"
+    },
+    {
+      "id": 188289,
+      "name": "Blancafort"
+    },
+    {
+      "id": 188290,
+      "name": "Bonastre"
+    },
+    {
+      "id": 188291,
+      "name": "Borges del Camp"
+    },
+    {
+      "id": 188292,
+      "name": "Bot"
+    },
+    {
+      "id": 188293,
+      "name": "Botarell"
+    },
+    {
+      "id": 188294,
+      "name": "Bràfim"
+    },
+    {
+      "id": 188295,
+      "name": "Cabacés"
+    },
+    {
+      "id": 188296,
+      "name": "Cabra del Camp"
+    },
+    {
+      "id": 188297,
+      "name": "Calafell"
+    },
+    {
+      "id": 188298,
+      "name": "Camarles"
+    },
+    {
+      "id": 188299,
+      "name": "Cambrils"
+    },
+    {
+      "id": 188300,
+      "name": "Canonja La"
+    },
+    {
+      "id": 188301,
+      "name": "Capafonts"
+    },
+    {
+      "id": 188302,
+      "name": "Capçanes"
+    },
+    {
+      "id": 188303,
+      "name": "Caseres"
+    },
+    {
+      "id": 188304,
+      "name": "Castellvell del Camp"
+    },
+    {
+      "id": 188305,
+      "name": "Catllar"
+    },
+    {
+      "id": 188306,
+      "name": "Colldejou"
+    },
+    {
+      "id": 188307,
+      "name": "Conesa"
+    },
+    {
+      "id": 188308,
+      "name": "Constantí"
+    },
+    {
+      "id": 188309,
+      "name": "Corbera dEbre"
+    },
+    {
+      "id": 188310,
+      "name": "Cornudella de Montsant"
+    },
+    {
+      "id": 188311,
+      "name": "Creixell"
+    },
+    {
+      "id": 188312,
+      "name": "Cunit"
+    },
+    {
+      "id": 188313,
+      "name": "Deltebre"
+    },
+    {
+      "id": 188314,
+      "name": "Duesaigües"
+    },
+    {
+      "id": 188315,
+      "name": "Espluga de Francolí"
+    },
+    {
+      "id": 188316,
+      "name": "Falset"
+    },
+    {
+      "id": 188317,
+      "name": "Fatarella"
+    },
+    {
+      "id": 188318,
+      "name": "Febró"
+    },
+    {
+      "id": 188319,
+      "name": "Figuera"
+    },
+    {
+      "id": 188320,
+      "name": "Figuerola del Camp"
+    },
+    {
+      "id": 188321,
+      "name": "Flix"
+    },
+    {
+      "id": 188322,
+      "name": "Forès"
+    },
+    {
+      "id": 188323,
+      "name": "Freginals"
+    },
+    {
+      "id": 188324,
+      "name": "Galera"
+    },
+    {
+      "id": 188325,
+      "name": "Gandesa"
+    },
+    {
+      "id": 188326,
+      "name": "Garcia"
+    },
+    {
+      "id": 188327,
+      "name": "Garidells"
+    },
+    {
+      "id": 188328,
+      "name": "Ginestar"
+    },
+    {
+      "id": 188329,
+      "name": "Godall"
+    },
+    {
+      "id": 188330,
+      "name": "Gratallops"
+    },
+    {
+      "id": 188331,
+      "name": "Guiamets"
+    },
+    {
+      "id": 188332,
+      "name": "Horta de Sant Joan"
+    },
+    {
+      "id": 188333,
+      "name": "Lloar"
+    },
+    {
+      "id": 188334,
+      "name": "Llorac"
+    },
+    {
+      "id": 188335,
+      "name": "Llorenç del Penedès"
+    },
+    {
+      "id": 188336,
+      "name": "Marçà"
+    },
+    {
+      "id": 188337,
+      "name": "Margalef"
+    },
+    {
+      "id": 188338,
+      "name": "Mas de Barberans"
+    },
+    {
+      "id": 188339,
+      "name": "Masdenverge"
+    },
+    {
+      "id": 188340,
+      "name": "Masllorenç"
+    },
+    {
+      "id": 188341,
+      "name": "Masó"
+    },
+    {
+      "id": 188342,
+      "name": "Maspujols"
+    },
+    {
+      "id": 188343,
+      "name": "Masroig"
+    },
+    {
+      "id": 188344,
+      "name": "Milà"
+    },
+    {
+      "id": 188345,
+      "name": "Miravet"
+    },
+    {
+      "id": 188346,
+      "name": "Molar"
+    },
+    {
+      "id": 188347,
+      "name": "Mont-ral"
+    },
+    {
+      "id": 188348,
+      "name": "Mont-roig del Camp"
+    },
+    {
+      "id": 188349,
+      "name": "Montblanc"
+    },
+    {
+      "id": 188350,
+      "name": "Montbrió del Camp"
+    },
+    {
+      "id": 188351,
+      "name": "Montferri"
+    },
+    {
+      "id": 188352,
+      "name": "Montmell"
+    },
+    {
+      "id": 188353,
+      "name": "Móra dEbre"
+    },
+    {
+      "id": 188354,
+      "name": "Móra la Nova"
+    },
+    {
+      "id": 188355,
+      "name": "Morell"
+    },
+    {
+      "id": 188356,
+      "name": "Morera de Montsant"
+    },
+    {
+      "id": 188357,
+      "name": "Nou de Gaià"
+    },
+    {
+      "id": 188358,
+      "name": "Nulles"
+    },
+    {
+      "id": 188359,
+      "name": "Pallaresos"
+    },
+    {
+      "id": 188360,
+      "name": "Palma dEbre"
+    },
+    {
+      "id": 188361,
+      "name": "Passanant i Belltall"
+    },
+    {
+      "id": 188362,
+      "name": "Paüls"
+    },
+    {
+      "id": 188363,
+      "name": "Perafort"
+    },
+    {
+      "id": 188364,
+      "name": "Perelló El"
+    },
+    {
+      "id": 188365,
+      "name": "Piles Les"
+    },
+    {
+      "id": 188366,
+      "name": "Pinell de Brai"
+    },
+    {
+      "id": 188367,
+      "name": "Pira"
+    },
+    {
+      "id": 188368,
+      "name": "Pla de Santa Maria"
+    },
+    {
+      "id": 188369,
+      "name": "Pobla de Mafumet"
+    },
+    {
+      "id": 188370,
+      "name": "Pobla de Massaluc"
+    },
+    {
+      "id": 188371,
+      "name": "Pobla de Montornès"
+    },
+    {
+      "id": 188372,
+      "name": "Poboleda"
+    },
+    {
+      "id": 188373,
+      "name": "Pont dArmentera"
+    },
+    {
+      "id": 188374,
+      "name": "Pontils"
+    },
+    {
+      "id": 188375,
+      "name": "Porrera"
+    },
+    {
+      "id": 188376,
+      "name": "Pradell de la Teixeta"
+    },
+    {
+      "id": 188377,
+      "name": "Prades"
+    },
+    {
+      "id": 188378,
+      "name": "Prat de Comte"
+    },
+    {
+      "id": 188379,
+      "name": "Pratdip"
+    },
+    {
+      "id": 188380,
+      "name": "Puigpelat"
+    },
+    {
+      "id": 188381,
+      "name": "Querol"
+    },
+    {
+      "id": 188382,
+      "name": "Rasquera"
+    },
+    {
+      "id": 188383,
+      "name": "Renau"
+    },
+    {
+      "id": 188384,
+      "name": "Reus"
+    },
+    {
+      "id": 188385,
+      "name": "Riba La"
+    },
+    {
+      "id": 188386,
+      "name": "Riba-roja dEbre"
+    },
+    {
+      "id": 188387,
+      "name": "Riera de Gaià La"
+    },
+    {
+      "id": 188388,
+      "name": "Riudecanyes"
+    },
+    {
+      "id": 188389,
+      "name": "Riudecols"
+    },
+    {
+      "id": 188390,
+      "name": "Riudoms"
+    },
+    {
+      "id": 188391,
+      "name": "Rocafort de Queralt"
+    },
+    {
+      "id": 188392,
+      "name": "Roda de Barà"
+    },
+    {
+      "id": 188393,
+      "name": "Rodonyà"
+    },
+    {
+      "id": 188394,
+      "name": "Roquetes"
+    },
+    {
+      "id": 188395,
+      "name": "Rourell"
+    },
+    {
+      "id": 188396,
+      "name": "Salomó"
+    },
+    {
+      "id": 188397,
+      "name": "Salou"
+    },
+    {
+      "id": 188398,
+      "name": "Sant Carles de la Ràpita"
+    },
+    {
+      "id": 188399,
+      "name": "Sant Jaume dels Domenys"
+    },
+    {
+      "id": 188400,
+      "name": "Sant Jaume dEnveja"
+    },
+    {
+      "id": 188401,
+      "name": "Santa Bárbara"
+    },
+    {
+      "id": 188402,
+      "name": "Santa Coloma de Queralt"
+    },
+    {
+      "id": 188403,
+      "name": "Santa Oliva"
+    },
+    {
+      "id": 188404,
+      "name": "Sarral"
+    },
+    {
+      "id": 188405,
+      "name": "Savallà del Comtat"
+    },
+    {
+      "id": 188406,
+      "name": "Secuita"
+    },
+    {
+      "id": 188407,
+      "name": "Selva del Camp"
+    },
+    {
+      "id": 188408,
+      "name": "Senan"
+    },
+    {
+      "id": 188409,
+      "name": "Sénia"
+    },
+    {
+      "id": 188410,
+      "name": "Solivella"
+    },
+    {
+      "id": 188411,
+      "name": "Tarragona"
+    },
+    {
+      "id": 188412,
+      "name": "Tivenys"
+    },
+    {
+      "id": 188413,
+      "name": "Tivissa"
+    },
+    {
+      "id": 188414,
+      "name": "Torre de Espanyol"
+    },
+    {
+      "id": 188415,
+      "name": "Torre de Fontaubella"
+    },
+    {
+      "id": 188416,
+      "name": "Torredembarra"
+    },
+    {
+      "id": 188417,
+      "name": "Torroja del Priorat"
+    },
+    {
+      "id": 188418,
+      "name": "Tortosa"
+    },
+    {
+      "id": 188419,
+      "name": "Ulldecona"
+    },
+    {
+      "id": 188420,
+      "name": "Ulldemolins"
+    },
+    {
+      "id": 188421,
+      "name": "Vallclara"
+    },
+    {
+      "id": 188422,
+      "name": "Vallfogona de Riucorb"
+    },
+    {
+      "id": 188423,
+      "name": "Vallmoll"
+    },
+    {
+      "id": 188424,
+      "name": "Valls"
+    },
+    {
+      "id": 188425,
+      "name": "Vandellòs i Hospitalet de Infant"
+    },
+    {
+      "id": 188426,
+      "name": "Vendrell"
+    },
+    {
+      "id": 188427,
+      "name": "Vespella de Gaià"
+    },
+    {
+      "id": 188428,
+      "name": "Vila-rodona"
+    },
+    {
+      "id": 188429,
+      "name": "Vila-seca"
+    },
+    {
+      "id": 188430,
+      "name": "Vilabella"
+    },
+    {
+      "id": 188431,
+      "name": "Vilalba dels Arcs"
+    },
+    {
+      "id": 188432,
+      "name": "Vilallonga del Camp"
+    },
+    {
+      "id": 188433,
+      "name": "Vilanova de Prades"
+    },
+    {
+      "id": 188434,
+      "name": "Vilanova dEscornalbou"
+    },
+    {
+      "id": 188435,
+      "name": "Vilaplana"
+    },
+    {
+      "id": 188436,
+      "name": "Vilaverd"
+    },
+    {
+      "id": 188437,
+      "name": "Vilella Alta La"
+    },
+    {
+      "id": 188438,
+      "name": "Vilella Baixa La"
+    },
+    {
+      "id": 188439,
+      "name": "Vimbodí i Poblet"
+    },
+    {
+      "id": 188440,
+      "name": "Vinebre"
+    },
+    {
+      "id": 188441,
+      "name": "Vinyols i els Arcs"
+    },
+    {
+      "id": 188442,
+      "name": "Xerta"
+    }
+  ]
+}

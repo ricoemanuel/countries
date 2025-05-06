@@ -1,0 +1,395 @@
+{
+  "id": 5757,
+  "name": "Cordillera Administrative",
+  "state_code": "15",
+  "cities": [
+    {
+      "id": 158786,
+      "name": "Agbannawag"
+    },
+    {
+      "id": 158787,
+      "name": "Ambuclao"
+    },
+    {
+      "id": 158788,
+      "name": "Amlimay"
+    },
+    {
+      "id": 158789,
+      "name": "Ampusungan"
+    },
+    {
+      "id": 158790,
+      "name": "Angad"
+    },
+    {
+      "id": 158791,
+      "name": "Apayao"
+    },
+    {
+      "id": 158792,
+      "name": "Atok"
+    },
+    {
+      "id": 158793,
+      "name": "Baculongan"
+    },
+    {
+      "id": 158794,
+      "name": "Baguinge"
+    },
+    {
+      "id": 158795,
+      "name": "Baguio"
+    },
+    {
+      "id": 158796,
+      "name": "Bakun"
+    },
+    {
+      "id": 158797,
+      "name": "Balbalan"
+    },
+    {
+      "id": 158798,
+      "name": "Banaue"
+    },
+    {
+      "id": 158799,
+      "name": "Bangao"
+    },
+    {
+      "id": 158800,
+      "name": "Bangued"
+    },
+    {
+      "id": 158801,
+      "name": "Bantay"
+    },
+    {
+      "id": 158802,
+      "name": "Barlig"
+    },
+    {
+      "id": 158803,
+      "name": "Bauko"
+    },
+    {
+      "id": 158804,
+      "name": "Bayabas"
+    },
+    {
+      "id": 158805,
+      "name": "Besao"
+    },
+    {
+      "id": 158806,
+      "name": "Betwagan"
+    },
+    {
+      "id": 158807,
+      "name": "Bocos"
+    },
+    {
+      "id": 158808,
+      "name": "Bokod"
+    },
+    {
+      "id": 158809,
+      "name": "Boliney"
+    },
+    {
+      "id": 158810,
+      "name": "Bontoc"
+    },
+    {
+      "id": 158811,
+      "name": "Bucay"
+    },
+    {
+      "id": 158812,
+      "name": "Buguias"
+    },
+    {
+      "id": 158813,
+      "name": "Bulalacao"
+    },
+    {
+      "id": 158814,
+      "name": "Butigui"
+    },
+    {
+      "id": 158815,
+      "name": "Calaba"
+    },
+    {
+      "id": 158816,
+      "name": "Calanasan"
+    },
+    {
+      "id": 158817,
+      "name": "Conner"
+    },
+    {
+      "id": 158818,
+      "name": "Daguioman"
+    },
+    {
+      "id": 158819,
+      "name": "Dalipey"
+    },
+    {
+      "id": 158820,
+      "name": "Dalupirip"
+    },
+    {
+      "id": 158821,
+      "name": "Danglas"
+    },
+    {
+      "id": 158822,
+      "name": "Dolores"
+    },
+    {
+      "id": 158823,
+      "name": "Flora"
+    },
+    {
+      "id": 158824,
+      "name": "Gambang"
+    },
+    {
+      "id": 158825,
+      "name": "Guinsadan"
+    },
+    {
+      "id": 158826,
+      "name": "Hapao"
+    },
+    {
+      "id": 158827,
+      "name": "Itogon"
+    },
+    {
+      "id": 158828,
+      "name": "Kabugao"
+    },
+    {
+      "id": 158829,
+      "name": "Kalinga"
+    },
+    {
+      "id": 158830,
+      "name": "Kapangan"
+    },
+    {
+      "id": 158831,
+      "name": "Kiangan"
+    },
+    {
+      "id": 158832,
+      "name": "Kibungan"
+    },
+    {
+      "id": 158833,
+      "name": "La Paz"
+    },
+    {
+      "id": 158834,
+      "name": "La Trinidad"
+    },
+    {
+      "id": 158835,
+      "name": "Lagangilang"
+    },
+    {
+      "id": 158836,
+      "name": "Lagawe"
+    },
+    {
+      "id": 158837,
+      "name": "Lagayan"
+    },
+    {
+      "id": 158838,
+      "name": "Lamut"
+    },
+    {
+      "id": 158839,
+      "name": "Laya"
+    },
+    {
+      "id": 158840,
+      "name": "Licuan"
+    },
+    {
+      "id": 158841,
+      "name": "Liwan"
+    },
+    {
+      "id": 158842,
+      "name": "Loacan"
+    },
+    {
+      "id": 158843,
+      "name": "Luba"
+    },
+    {
+      "id": 158844,
+      "name": "Lubuagan"
+    },
+    {
+      "id": 158845,
+      "name": "Luna"
+    },
+    {
+      "id": 158846,
+      "name": "Manabo"
+    },
+    {
+      "id": 158847,
+      "name": "Mankayan"
+    },
+    {
+      "id": 158848,
+      "name": "Monamon"
+    },
+    {
+      "id": 158849,
+      "name": "Mountain Province"
+    },
+    {
+      "id": 158850,
+      "name": "Nangalisan"
+    },
+    {
+      "id": 158851,
+      "name": "Natonin"
+    },
+    {
+      "id": 158852,
+      "name": "Natubleng"
+    },
+    {
+      "id": 158853,
+      "name": "Paracelis"
+    },
+    {
+      "id": 158854,
+      "name": "Pasil"
+    },
+    {
+      "id": 158855,
+      "name": "Peñarrubia"
+    },
+    {
+      "id": 158856,
+      "name": "Pidigan"
+    },
+    {
+      "id": 158857,
+      "name": "Pilar"
+    },
+    {
+      "id": 158858,
+      "name": "Pinukpuk"
+    },
+    {
+      "id": 158859,
+      "name": "Province of Abra"
+    },
+    {
+      "id": 158860,
+      "name": "Province of Benguet"
+    },
+    {
+      "id": 158861,
+      "name": "Province of Ifugao"
+    },
+    {
+      "id": 158862,
+      "name": "Sablan"
+    },
+    {
+      "id": 158863,
+      "name": "Sadanga"
+    },
+    {
+      "id": 158864,
+      "name": "Sadsadan"
+    },
+    {
+      "id": 158865,
+      "name": "Sagada"
+    },
+    {
+      "id": 158866,
+      "name": "San Juan"
+    },
+    {
+      "id": 158867,
+      "name": "San Ramon"
+    },
+    {
+      "id": 158868,
+      "name": "Santa Marcela"
+    },
+    {
+      "id": 158869,
+      "name": "Tabaan"
+    },
+    {
+      "id": 158870,
+      "name": "Tabio"
+    },
+    {
+      "id": 158871,
+      "name": "Tabuk"
+    },
+    {
+      "id": 158872,
+      "name": "Tacadang"
+    },
+    {
+      "id": 158873,
+      "name": "Tadian"
+    },
+    {
+      "id": 158874,
+      "name": "Taloy"
+    },
+    {
+      "id": 158875,
+      "name": "Tanudan"
+    },
+    {
+      "id": 158876,
+      "name": "Tayum"
+    },
+    {
+      "id": 158877,
+      "name": "Tinglayan"
+    },
+    {
+      "id": 158878,
+      "name": "Topdac"
+    },
+    {
+      "id": 158879,
+      "name": "Tublay"
+    },
+    {
+      "id": 158880,
+      "name": "Tuding"
+    },
+    {
+      "id": 158881,
+      "name": "Villarosa"
+    },
+    {
+      "id": 158882,
+      "name": "Villaviciosa"
+    }
+  ]
+}

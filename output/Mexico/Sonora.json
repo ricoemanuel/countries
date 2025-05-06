@@ -1,0 +1,647 @@
+{
+  "id": 5148,
+  "name": "Sonora",
+  "state_code": "SON",
+  "cities": [
+    {
+      "id": 146462,
+      "name": "31 de Octubre"
+    },
+    {
+      "id": 146463,
+      "name": "Aconchi"
+    },
+    {
+      "id": 146464,
+      "name": "Aduana del Sásabe"
+    },
+    {
+      "id": 146465,
+      "name": "Agiabampo Uno"
+    },
+    {
+      "id": 146466,
+      "name": "Agua Prieta"
+    },
+    {
+      "id": 146467,
+      "name": "Álamos"
+    },
+    {
+      "id": 146468,
+      "name": "Allende"
+    },
+    {
+      "id": 146469,
+      "name": "Antonio Rosales"
+    },
+    {
+      "id": 146470,
+      "name": "Arivechi"
+    },
+    {
+      "id": 146471,
+      "name": "Arizpe"
+    },
+    {
+      "id": 146472,
+      "name": "Atil"
+    },
+    {
+      "id": 146473,
+      "name": "Bacabachi"
+    },
+    {
+      "id": 146474,
+      "name": "Bacadéhuachi"
+    },
+    {
+      "id": 146475,
+      "name": "Bacame Nuevo"
+    },
+    {
+      "id": 146476,
+      "name": "Bacanora"
+    },
+    {
+      "id": 146477,
+      "name": "Bacerac"
+    },
+    {
+      "id": 146478,
+      "name": "Bacobampo"
+    },
+    {
+      "id": 146479,
+      "name": "Bácum"
+    },
+    {
+      "id": 146480,
+      "name": "Bahía de Kino"
+    },
+    {
+      "id": 146481,
+      "name": "Bahía de Lobos"
+    },
+    {
+      "id": 146482,
+      "name": "Basconcobe"
+    },
+    {
+      "id": 146483,
+      "name": "Bavispe"
+    },
+    {
+      "id": 146484,
+      "name": "Benjamín Hill"
+    },
+    {
+      "id": 146485,
+      "name": "Buaysiacobe"
+    },
+    {
+      "id": 146486,
+      "name": "Buayums"
+    },
+    {
+      "id": 146487,
+      "name": "Campo Carretero"
+    },
+    {
+      "id": 146488,
+      "name": "Campo Sesenta"
+    },
+    {
+      "id": 146489,
+      "name": "Cananea"
+    },
+    {
+      "id": 146490,
+      "name": "Carbo"
+    },
+    {
+      "id": 146491,
+      "name": "Centro de Readaptación Social Nuevo"
+    },
+    {
+      "id": 146492,
+      "name": "Chucarit"
+    },
+    {
+      "id": 146493,
+      "name": "Ciudad Obregón"
+    },
+    {
+      "id": 146494,
+      "name": "Cocorit"
+    },
+    {
+      "id": 146495,
+      "name": "Cuauhtémoc (Campo Cinco)"
+    },
+    {
+      "id": 146496,
+      "name": "Cucurpe"
+    },
+    {
+      "id": 146497,
+      "name": "Cumpas"
+    },
+    {
+      "id": 146498,
+      "name": "Ejido Lagunitas"
+    },
+    {
+      "id": 146499,
+      "name": "El Coyote"
+    },
+    {
+      "id": 146500,
+      "name": "El Diamante (La Retranca)"
+    },
+    {
+      "id": 146501,
+      "name": "El Paredoncito"
+    },
+    {
+      "id": 146502,
+      "name": "El Recodo"
+    },
+    {
+      "id": 146503,
+      "name": "El Rodeo"
+    },
+    {
+      "id": 146504,
+      "name": "El Sahuaral"
+    },
+    {
+      "id": 146505,
+      "name": "El Saneal"
+    },
+    {
+      "id": 146506,
+      "name": "El Siviral (Jigica)"
+    },
+    {
+      "id": 146507,
+      "name": "El Tobarito"
+    },
+    {
+      "id": 146508,
+      "name": "Empalme"
+    },
+    {
+      "id": 146509,
+      "name": "Esperanza"
+    },
+    {
+      "id": 146510,
+      "name": "Esqueda"
+    },
+    {
+      "id": 146511,
+      "name": "Estación Corral"
+    },
+    {
+      "id": 146512,
+      "name": "Estación Llano"
+    },
+    {
+      "id": 146513,
+      "name": "Estación Zamora"
+    },
+    {
+      "id": 146514,
+      "name": "Etchojoa"
+    },
+    {
+      "id": 146515,
+      "name": "Etchoropo"
+    },
+    {
+      "id": 146516,
+      "name": "Francisco Javier Mina"
+    },
+    {
+      "id": 146517,
+      "name": "Fronteras"
+    },
+    {
+      "id": 146518,
+      "name": "Golfo de Santa Clara"
+    },
+    {
+      "id": 146519,
+      "name": "Granados"
+    },
+    {
+      "id": 146520,
+      "name": "Guásimas (De Belem)"
+    },
+    {
+      "id": 146521,
+      "name": "Guaymitas"
+    },
+    {
+      "id": 146522,
+      "name": "Hermosillo"
+    },
+    {
+      "id": 146523,
+      "name": "Heroica Caborca"
+    },
+    {
+      "id": 146524,
+      "name": "Heroica Guaymas"
+    },
+    {
+      "id": 146525,
+      "name": "Huachinera"
+    },
+    {
+      "id": 146526,
+      "name": "Huásabas"
+    },
+    {
+      "id": 146527,
+      "name": "Huatabampo"
+    },
+    {
+      "id": 146528,
+      "name": "Huépac"
+    },
+    {
+      "id": 146529,
+      "name": "Imuris"
+    },
+    {
+      "id": 146530,
+      "name": "Islita"
+    },
+    {
+      "id": 146531,
+      "name": "Jecopaco"
+    },
+    {
+      "id": 146532,
+      "name": "Jitonhueca"
+    },
+    {
+      "id": 146533,
+      "name": "José María Morelos y Pavón"
+    },
+    {
+      "id": 146534,
+      "name": "Juraré"
+    },
+    {
+      "id": 146535,
+      "name": "La Bocana"
+    },
+    {
+      "id": 146536,
+      "name": "La Colorada"
+    },
+    {
+      "id": 146537,
+      "name": "La Libertad"
+    },
+    {
+      "id": 146538,
+      "name": "La Mesa"
+    },
+    {
+      "id": 146539,
+      "name": "La Palma"
+    },
+    {
+      "id": 146540,
+      "name": "La Providencia"
+    },
+    {
+      "id": 146541,
+      "name": "La Unión"
+    },
+    {
+      "id": 146542,
+      "name": "La Victoria"
+    },
+    {
+      "id": 146543,
+      "name": "Las Bocas"
+    },
+    {
+      "id": 146544,
+      "name": "Las Mercedes [Agropecuaria]"
+    },
+    {
+      "id": 146545,
+      "name": "Loma de Bácum"
+    },
+    {
+      "id": 146546,
+      "name": "Loma de Guamúchil"
+    },
+    {
+      "id": 146547,
+      "name": "Loma del Refugio"
+    },
+    {
+      "id": 146548,
+      "name": "Los Bahuises"
+    },
+    {
+      "id": 146549,
+      "name": "Los Hoyos"
+    },
+    {
+      "id": 146550,
+      "name": "Magdalena de Kino"
+    },
+    {
+      "id": 146551,
+      "name": "Marte R. Gómez (Tobarito)"
+    },
+    {
+      "id": 146552,
+      "name": "Masiaca"
+    },
+    {
+      "id": 146553,
+      "name": "Mazatán"
+    },
+    {
+      "id": 146554,
+      "name": "Mi Patria es Primero"
+    },
+    {
+      "id": 146555,
+      "name": "Miguel Alemán (La Doce)"
+    },
+    {
+      "id": 146556,
+      "name": "Milpillas"
+    },
+    {
+      "id": 146557,
+      "name": "Moctezuma"
+    },
+    {
+      "id": 146558,
+      "name": "Molino de Camou"
+    },
+    {
+      "id": 146559,
+      "name": "Mora Villalobos"
+    },
+    {
+      "id": 146560,
+      "name": "Moroncarit"
+    },
+    {
+      "id": 146561,
+      "name": "Naco"
+    },
+    {
+      "id": 146562,
+      "name": "Nácori Chico"
+    },
+    {
+      "id": 146563,
+      "name": "Nacozari de García"
+    },
+    {
+      "id": 146564,
+      "name": "Nacozari Viejo"
+    },
+    {
+      "id": 146565,
+      "name": "Navojoa"
+    },
+    {
+      "id": 146566,
+      "name": "Nogales"
+    },
+    {
+      "id": 146567,
+      "name": "Nuevo Michoacán (Estación Riíto)"
+    },
+    {
+      "id": 146568,
+      "name": "Onavas"
+    },
+    {
+      "id": 146569,
+      "name": "Opodepe"
+    },
+    {
+      "id": 146570,
+      "name": "Oquitoa"
+    },
+    {
+      "id": 146571,
+      "name": "Ortiz"
+    },
+    {
+      "id": 146572,
+      "name": "Paredón Colorado"
+    },
+    {
+      "id": 146573,
+      "name": "Pesqueira"
+    },
+    {
+      "id": 146574,
+      "name": "Pitiquito"
+    },
+    {
+      "id": 146575,
+      "name": "Plutarco Elías Calles (La Y Griega)"
+    },
+    {
+      "id": 146576,
+      "name": "Potam"
+    },
+    {
+      "id": 146577,
+      "name": "Pozo Dulce"
+    },
+    {
+      "id": 146578,
+      "name": "Primero de Mayo"
+    },
+    {
+      "id": 146579,
+      "name": "Progreso (Campo 47)"
+    },
+    {
+      "id": 146580,
+      "name": "Providencia"
+    },
+    {
+      "id": 146581,
+      "name": "Pueblo Mayo"
+    },
+    {
+      "id": 146582,
+      "name": "Pueblo Yaqui"
+    },
+    {
+      "id": 146583,
+      "name": "Puerto Peñasco"
+    },
+    {
+      "id": 146584,
+      "name": "Querobabi"
+    },
+    {
+      "id": 146585,
+      "name": "Quetchehueca"
+    },
+    {
+      "id": 146586,
+      "name": "Quiriego"
+    },
+    {
+      "id": 146587,
+      "name": "Rayón"
+    },
+    {
+      "id": 146588,
+      "name": "Rosales"
+    },
+    {
+      "id": 146589,
+      "name": "Rosario"
+    },
+    {
+      "id": 146590,
+      "name": "Sahuaral de Otero"
+    },
+    {
+      "id": 146591,
+      "name": "Sahuaripa"
+    },
+    {
+      "id": 146592,
+      "name": "San Bernardo"
+    },
+    {
+      "id": 146593,
+      "name": "San Carlos"
+    },
+    {
+      "id": 146594,
+      "name": "San Ignacio"
+    },
+    {
+      "id": 146595,
+      "name": "San Ignacio Río Muerto"
+    },
+    {
+      "id": 146596,
+      "name": "San José de Bacum"
+    },
+    {
+      "id": 146597,
+      "name": "San José de Guaymas"
+    },
+    {
+      "id": 146598,
+      "name": "San Luis Río Colorado"
+    },
+    {
+      "id": 146599,
+      "name": "San Miguel de Horcasitas"
+    },
+    {
+      "id": 146600,
+      "name": "San Pedro de la Cueva"
+    },
+    {
+      "id": 146601,
+      "name": "San Pedro Río Mayo"
+    },
+    {
+      "id": 146602,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 146603,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 146604,
+      "name": "Santa María de Guaymas"
+    },
+    {
+      "id": 146605,
+      "name": "Santa María del Buáraje"
+    },
+    {
+      "id": 146606,
+      "name": "Sáric"
+    },
+    {
+      "id": 146607,
+      "name": "Sinahuiza"
+    },
+    {
+      "id": 146608,
+      "name": "Siviral"
+    },
+    {
+      "id": 146609,
+      "name": "Sonoita"
+    },
+    {
+      "id": 146610,
+      "name": "Soyopa"
+    },
+    {
+      "id": 146611,
+      "name": "Suaqui Grande"
+    },
+    {
+      "id": 146612,
+      "name": "Tepache"
+    },
+    {
+      "id": 146613,
+      "name": "Tierra Blanca"
+    },
+    {
+      "id": 146614,
+      "name": "Tubutama"
+    },
+    {
+      "id": 146615,
+      "name": "Ures"
+    },
+    {
+      "id": 146616,
+      "name": "Vicam"
+    },
+    {
+      "id": 146617,
+      "name": "Vicente Guerrero"
+    },
+    {
+      "id": 146618,
+      "name": "Villa Hidalgo"
+    },
+    {
+      "id": 146619,
+      "name": "Villa Juárez"
+    },
+    {
+      "id": 146620,
+      "name": "Villa Pesqueira"
+    },
+    {
+      "id": 146621,
+      "name": "Yavaros"
+    }
+  ]
+}

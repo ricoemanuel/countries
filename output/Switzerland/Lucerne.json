@@ -1,0 +1,275 @@
+{
+  "id": 6652,
+  "name": "Lucerne",
+  "state_code": "LU",
+  "cities": [
+    {
+      "id": 191551,
+      "name": "Adligenswil"
+    },
+    {
+      "id": 191552,
+      "name": "Altishofen"
+    },
+    {
+      "id": 191553,
+      "name": "Ballwil"
+    },
+    {
+      "id": 191554,
+      "name": "Beromünster"
+    },
+    {
+      "id": 191555,
+      "name": "Buchrain"
+    },
+    {
+      "id": 191556,
+      "name": "Büron"
+    },
+    {
+      "id": 191557,
+      "name": "Buttisholz"
+    },
+    {
+      "id": 191558,
+      "name": "Dagmersellen"
+    },
+    {
+      "id": 191559,
+      "name": "Ebikon"
+    },
+    {
+      "id": 191560,
+      "name": "Eich"
+    },
+    {
+      "id": 191561,
+      "name": "Emmen"
+    },
+    {
+      "id": 191562,
+      "name": "Entlebuch"
+    },
+    {
+      "id": 191563,
+      "name": "Entlebuch District"
+    },
+    {
+      "id": 191564,
+      "name": "Escholzmatt"
+    },
+    {
+      "id": 191565,
+      "name": "Ettiswil"
+    },
+    {
+      "id": 191566,
+      "name": "Flühli"
+    },
+    {
+      "id": 191567,
+      "name": "Geuensee"
+    },
+    {
+      "id": 191568,
+      "name": "Grosswangen"
+    },
+    {
+      "id": 191569,
+      "name": "Gunzwil"
+    },
+    {
+      "id": 191570,
+      "name": "Hasle"
+    },
+    {
+      "id": 191571,
+      "name": "Hildisrieden"
+    },
+    {
+      "id": 191572,
+      "name": "Hitzkirch"
+    },
+    {
+      "id": 191573,
+      "name": "Hochdorf"
+    },
+    {
+      "id": 191574,
+      "name": "Hochdorf District"
+    },
+    {
+      "id": 191575,
+      "name": "Hohenrain"
+    },
+    {
+      "id": 191576,
+      "name": "Horw"
+    },
+    {
+      "id": 191577,
+      "name": "Inwil"
+    },
+    {
+      "id": 191578,
+      "name": "Knutwil"
+    },
+    {
+      "id": 191579,
+      "name": "Kriens"
+    },
+    {
+      "id": 191580,
+      "name": "Littau"
+    },
+    {
+      "id": 191581,
+      "name": "Lucerne-Land District"
+    },
+    {
+      "id": 191582,
+      "name": "Lucerne-Stadt District"
+    },
+    {
+      "id": 191583,
+      "name": "Luthern"
+    },
+    {
+      "id": 191584,
+      "name": "Luzern"
+    },
+    {
+      "id": 191585,
+      "name": "Malters"
+    },
+    {
+      "id": 191586,
+      "name": "Mauensee"
+    },
+    {
+      "id": 191587,
+      "name": "Meggen"
+    },
+    {
+      "id": 191588,
+      "name": "Meierskappel"
+    },
+    {
+      "id": 191589,
+      "name": "Menznau"
+    },
+    {
+      "id": 191590,
+      "name": "Nebikon"
+    },
+    {
+      "id": 191591,
+      "name": "Neudorf"
+    },
+    {
+      "id": 191592,
+      "name": "Neuenkirch"
+    },
+    {
+      "id": 191593,
+      "name": "Nottwil"
+    },
+    {
+      "id": 191594,
+      "name": "Oberkirch"
+    },
+    {
+      "id": 191595,
+      "name": "Pfaffnau"
+    },
+    {
+      "id": 191596,
+      "name": "Reiden"
+    },
+    {
+      "id": 191597,
+      "name": "Römerswil"
+    },
+    {
+      "id": 191598,
+      "name": "Root"
+    },
+    {
+      "id": 191599,
+      "name": "Ruswil"
+    },
+    {
+      "id": 191600,
+      "name": "Schenkon"
+    },
+    {
+      "id": 191601,
+      "name": "Schötz"
+    },
+    {
+      "id": 191602,
+      "name": "Schüpfheim"
+    },
+    {
+      "id": 191603,
+      "name": "Schwarzenberg"
+    },
+    {
+      "id": 191604,
+      "name": "Sempach"
+    },
+    {
+      "id": 191605,
+      "name": "Sursee"
+    },
+    {
+      "id": 191606,
+      "name": "Sursee District"
+    },
+    {
+      "id": 191607,
+      "name": "Triengen"
+    },
+    {
+      "id": 191608,
+      "name": "Udligenswil"
+    },
+    {
+      "id": 191609,
+      "name": "Vitznau"
+    },
+    {
+      "id": 191610,
+      "name": "Wauwil"
+    },
+    {
+      "id": 191611,
+      "name": "Weggis"
+    },
+    {
+      "id": 191612,
+      "name": "Werthenstein"
+    },
+    {
+      "id": 191613,
+      "name": "Wikon"
+    },
+    {
+      "id": 191614,
+      "name": "Willisau"
+    },
+    {
+      "id": 191615,
+      "name": "Willisau District"
+    },
+    {
+      "id": 191616,
+      "name": "Wolhusen"
+    },
+    {
+      "id": 191617,
+      "name": "Zell"
+    }
+  ]
+}

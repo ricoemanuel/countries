@@ -1,0 +1,283 @@
+{
+  "id": 4172,
+  "name": "Komárom-Esztergom",
+  "state_code": "KE",
+  "cities": [
+    {
+      "id": 116516,
+      "name": "Ács"
+    },
+    {
+      "id": 116517,
+      "name": "Aka"
+    },
+    {
+      "id": 116518,
+      "name": "Almásfüzitő"
+    },
+    {
+      "id": 116519,
+      "name": "Ászár"
+    },
+    {
+      "id": 116520,
+      "name": "Bábolna"
+    },
+    {
+      "id": 116521,
+      "name": "Bajót"
+    },
+    {
+      "id": 116522,
+      "name": "Bakonybánk"
+    },
+    {
+      "id": 116523,
+      "name": "Bakonysárkány"
+    },
+    {
+      "id": 116524,
+      "name": "Bakonyszombathely"
+    },
+    {
+      "id": 116525,
+      "name": "Bana"
+    },
+    {
+      "id": 116526,
+      "name": "Bánhida"
+    },
+    {
+      "id": 116527,
+      "name": "Bársonyos"
+    },
+    {
+      "id": 116528,
+      "name": "Császár"
+    },
+    {
+      "id": 116529,
+      "name": "Csatka"
+    },
+    {
+      "id": 116530,
+      "name": "Csém"
+    },
+    {
+      "id": 116531,
+      "name": "Csép"
+    },
+    {
+      "id": 116532,
+      "name": "Csolnok"
+    },
+    {
+      "id": 116533,
+      "name": "Dad"
+    },
+    {
+      "id": 116534,
+      "name": "Dág"
+    },
+    {
+      "id": 116535,
+      "name": "Dömös"
+    },
+    {
+      "id": 116536,
+      "name": "Dorog"
+    },
+    {
+      "id": 116537,
+      "name": "Dunaalmás"
+    },
+    {
+      "id": 116538,
+      "name": "Dunaszentmiklós"
+    },
+    {
+      "id": 116539,
+      "name": "Epöl"
+    },
+    {
+      "id": 116540,
+      "name": "Esztergom"
+    },
+    {
+      "id": 116541,
+      "name": "Ete"
+    },
+    {
+      "id": 116542,
+      "name": "Gyermely"
+    },
+    {
+      "id": 116543,
+      "name": "Héreg"
+    },
+    {
+      "id": 116544,
+      "name": "Kecskéd"
+    },
+    {
+      "id": 116545,
+      "name": "Kerékteleki"
+    },
+    {
+      "id": 116546,
+      "name": "Kesztölc"
+    },
+    {
+      "id": 116547,
+      "name": "Kisbér"
+    },
+    {
+      "id": 116548,
+      "name": "Kisigmánd"
+    },
+    {
+      "id": 116549,
+      "name": "Kocs"
+    },
+    {
+      "id": 116550,
+      "name": "Komárom"
+    },
+    {
+      "id": 116551,
+      "name": "Kömlőd"
+    },
+    {
+      "id": 116552,
+      "name": "Környe"
+    },
+    {
+      "id": 116553,
+      "name": "Lábatlan"
+    },
+    {
+      "id": 116554,
+      "name": "Leányvár"
+    },
+    {
+      "id": 116555,
+      "name": "Máriahalom"
+    },
+    {
+      "id": 116556,
+      "name": "Mocsa"
+    },
+    {
+      "id": 116557,
+      "name": "Mogyorósbánya"
+    },
+    {
+      "id": 116558,
+      "name": "Nagyigmánd"
+    },
+    {
+      "id": 116559,
+      "name": "Nagysáp"
+    },
+    {
+      "id": 116560,
+      "name": "Naszály"
+    },
+    {
+      "id": 116561,
+      "name": "Neszmély"
+    },
+    {
+      "id": 116562,
+      "name": "Nyergesújfalu"
+    },
+    {
+      "id": 116563,
+      "name": "Oroszlány"
+    },
+    {
+      "id": 116564,
+      "name": "Piliscsév"
+    },
+    {
+      "id": 116565,
+      "name": "Pilismarót"
+    },
+    {
+      "id": 116566,
+      "name": "Réde"
+    },
+    {
+      "id": 116567,
+      "name": "Sárisáp"
+    },
+    {
+      "id": 116568,
+      "name": "Súr"
+    },
+    {
+      "id": 116569,
+      "name": "Süttő"
+    },
+    {
+      "id": 116570,
+      "name": "Szákszend"
+    },
+    {
+      "id": 116571,
+      "name": "Szomód"
+    },
+    {
+      "id": 116572,
+      "name": "Szomor"
+    },
+    {
+      "id": 116573,
+      "name": "Szőny"
+    },
+    {
+      "id": 116574,
+      "name": "Tardos"
+    },
+    {
+      "id": 116575,
+      "name": "Tarján"
+    },
+    {
+      "id": 116576,
+      "name": "Tárkány"
+    },
+    {
+      "id": 116577,
+      "name": "Tatabánya"
+    },
+    {
+      "id": 116578,
+      "name": "Tokodaltáró"
+    },
+    {
+      "id": 116579,
+      "name": "Úny"
+    },
+    {
+      "id": 116580,
+      "name": "Várgesztes"
+    },
+    {
+      "id": 116581,
+      "name": "Vérteskethely"
+    },
+    {
+      "id": 116582,
+      "name": "Vértessomló"
+    },
+    {
+      "id": 116583,
+      "name": "Vértesszőlős"
+    },
+    {
+      "id": 116584,
+      "name": "Vértestolna"
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "id": 5147,
+  "name": "Sinaloa",
+  "state_code": "SIN",
+  "cities": [
+    {
+      "id": 146241,
+      "name": "Adolfo López Mateos (El Tamarindo)"
+    },
+    {
+      "id": 146242,
+      "name": "Adolfo Ruiz Cortines"
+    },
+    {
+      "id": 146243,
+      "name": "Agua Caliente Grande (De Gastélum)"
+    },
+    {
+      "id": 146244,
+      "name": "Agua Verde"
+    },
+    {
+      "id": 146245,
+      "name": "Ahome"
+    },
+    {
+      "id": 146246,
+      "name": "Alfonso G. Calderón (Poblado Siete)"
+    },
+    {
+      "id": 146247,
+      "name": "Alfonso G. Calderón Velarde"
+    },
+    {
+      "id": 146248,
+      "name": "Alfredo V. Bonfil (Siete Ejidos)"
+    },
+    {
+      "id": 146249,
+      "name": "Alhuey"
+    },
+    {
+      "id": 146250,
+      "name": "Altata"
+    },
+    {
+      "id": 146251,
+      "name": "Angostura"
+    },
+    {
+      "id": 146252,
+      "name": "Apoderado"
+    },
+    {
+      "id": 146253,
+      "name": "Baburia"
+    },
+    {
+      "id": 146254,
+      "name": "Bachigualatito"
+    },
+    {
+      "id": 146255,
+      "name": "Bachoco"
+    },
+    {
+      "id": 146256,
+      "name": "Bachomobampo Número Dos"
+    },
+    {
+      "id": 146257,
+      "name": "Bacorehuis"
+    },
+    {
+      "id": 146258,
+      "name": "Bacubirito"
+    },
+    {
+      "id": 146259,
+      "name": "Badiraguato"
+    },
+    {
+      "id": 146260,
+      "name": "Bagojo Colectivo"
+    },
+    {
+      "id": 146261,
+      "name": "Bamoa"
+    },
+    {
+      "id": 146262,
+      "name": "Bariometo"
+    },
+    {
+      "id": 146263,
+      "name": "Barrón"
+    },
+    {
+      "id": 146264,
+      "name": "Bellavista"
+    },
+    {
+      "id": 146265,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 146266,
+      "name": "Benito Juárez (Vinatería)"
+    },
+    {
+      "id": 146267,
+      "name": "Buen Retiro (El Retiro)"
+    },
+    {
+      "id": 146268,
+      "name": "Cacalotán"
+    },
+    {
+      "id": 146269,
+      "name": "Caimanero"
+    },
+    {
+      "id": 146270,
+      "name": "Campo Balbuena"
+    },
+    {
+      "id": 146271,
+      "name": "Campo la Arrocera"
+    },
+    {
+      "id": 146272,
+      "name": "Campo Pesquero el Colorado"
+    },
+    {
+      "id": 146273,
+      "name": "Carricitos"
+    },
+    {
+      "id": 146274,
+      "name": "Casa Blanca"
+    },
+    {
+      "id": 146275,
+      "name": "CERESO Nuevo"
+    },
+    {
+      "id": 146276,
+      "name": "Cerrillos (Campo 35)"
+    },
+    {
+      "id": 146277,
+      "name": "Cerro Agudo"
+    },
+    {
+      "id": 146278,
+      "name": "Ceuta"
+    },
+    {
+      "id": 146279,
+      "name": "Chametla"
+    },
+    {
+      "id": 146280,
+      "name": "Charay"
+    },
+    {
+      "id": 146281,
+      "name": "Chihuahuita"
+    },
+    {
+      "id": 146282,
+      "name": "Chinobampo"
+    },
+    {
+      "id": 146283,
+      "name": "Choix"
+    },
+    {
+      "id": 146284,
+      "name": "Cofradía de Navolato (Cofradía de los Rocha)"
+    },
+    {
+      "id": 146285,
+      "name": "Colonia 24 de Febrero"
+    },
+    {
+      "id": 146286,
+      "name": "Colonia Agrícola México (Palmitas)"
+    },
+    {
+      "id": 146287,
+      "name": "Colonia Michoacana"
+    },
+    {
+      "id": 146288,
+      "name": "Concentración 5 de Febrero"
+    },
+    {
+      "id": 146289,
+      "name": "Concordia"
+    },
+    {
+      "id": 146290,
+      "name": "Constancia"
+    },
+    {
+      "id": 146291,
+      "name": "Corerepe"
+    },
+    {
+      "id": 146292,
+      "name": "Cosalá"
+    },
+    {
+      "id": 146293,
+      "name": "Costa Azul"
+    },
+    {
+      "id": 146294,
+      "name": "Coyotitán"
+    },
+    {
+      "id": 146295,
+      "name": "Cristo Rey"
+    },
+    {
+      "id": 146296,
+      "name": "Cruz Blanca"
+    },
+    {
+      "id": 146297,
+      "name": "Cubiri de Portelas"
+    },
+    {
+      "id": 146298,
+      "name": "Culiacán"
+    },
+    {
+      "id": 146299,
+      "name": "Culiacancito"
+    },
+    {
+      "id": 146300,
+      "name": "Dautillos"
+    },
+    {
+      "id": 146301,
+      "name": "Dos de Abril"
+    },
+    {
+      "id": 146302,
+      "name": "Ejido Cajón Ojo de Agua Número Dos"
+    },
+    {
+      "id": 146303,
+      "name": "Ejido Cinco de Mayo"
+    },
+    {
+      "id": 146304,
+      "name": "Ejido Cohuibampo"
+    },
+    {
+      "id": 146305,
+      "name": "Ejido Mayocoba"
+    },
+    {
+      "id": 146306,
+      "name": "Ejido Ohuira"
+    },
+    {
+      "id": 146307,
+      "name": "Ejido Tosalibampo"
+    },
+    {
+      "id": 146308,
+      "name": "El Aguajito"
+    },
+    {
+      "id": 146309,
+      "name": "El Burrión"
+    },
+    {
+      "id": 146310,
+      "name": "El Carrizo"
+    },
+    {
+      "id": 146311,
+      "name": "El Castillo"
+    },
+    {
+      "id": 146312,
+      "name": "El Diez"
+    },
+    {
+      "id": 146313,
+      "name": "El Dorado"
+    },
+    {
+      "id": 146314,
+      "name": "El Fuerte"
+    },
+    {
+      "id": 146315,
+      "name": "El Guayabo"
+    },
+    {
+      "id": 146316,
+      "name": "El Habal"
+    },
+    {
+      "id": 146317,
+      "name": "El Higueral"
+    },
+    {
+      "id": 146318,
+      "name": "El Huajote"
+    },
+    {
+      "id": 146319,
+      "name": "El Huitusi"
+    },
+    {
+      "id": 146320,
+      "name": "El Limón de los Ramos"
+    },
+    {
+      "id": 146321,
+      "name": "El Molino"
+    },
+    {
+      "id": 146322,
+      "name": "El Nio"
+    },
+    {
+      "id": 146323,
+      "name": "El Pochotal"
+    },
+    {
+      "id": 146324,
+      "name": "El Potrero de Sataya"
+    },
+    {
+      "id": 146325,
+      "name": "El Pozole"
+    },
+    {
+      "id": 146326,
+      "name": "El Progreso"
+    },
+    {
+      "id": 146327,
+      "name": "El Quelite"
+    },
+    {
+      "id": 146328,
+      "name": "El Refugio"
+    },
+    {
+      "id": 146329,
+      "name": "El Roble"
+    },
+    {
+      "id": 146330,
+      "name": "El Rosario"
+    },
+    {
+      "id": 146331,
+      "name": "El Sabino"
+    },
+    {
+      "id": 146332,
+      "name": "El Saladito"
+    },
+    {
+      "id": 146333,
+      "name": "El Varal (San Sebastián Número Uno)"
+    },
+    {
+      "id": 146334,
+      "name": "El Verde"
+    },
+    {
+      "id": 146335,
+      "name": "El Walamo"
+    },
+    {
+      "id": 146336,
+      "name": "Eldorado"
+    },
+    {
+      "id": 146337,
+      "name": "Elota"
+    },
+    {
+      "id": 146338,
+      "name": "Empaque Tarriba"
+    },
+    {
+      "id": 146339,
+      "name": "Escamillas"
+    },
+    {
+      "id": 146340,
+      "name": "Escuinapa"
+    },
+    {
+      "id": 146341,
+      "name": "Estacion Bamoa"
+    },
+    {
+      "id": 146342,
+      "name": "Estación Capomas"
+    },
+    {
+      "id": 146343,
+      "name": "Estación Chimaneco"
+    },
+    {
+      "id": 146344,
+      "name": "Estación Obispo"
+    },
+    {
+      "id": 146345,
+      "name": "Estación Rosales"
+    },
+    {
+      "id": 146346,
+      "name": "Felipe Angeles"
+    },
+    {
+      "id": 146347,
+      "name": "Flor Azul"
+    },
+    {
+      "id": 146348,
+      "name": "Fraccionamiento los Ángeles"
+    },
+    {
+      "id": 146349,
+      "name": "Gabriel Leyva Solano (Zapotillo Dos)"
+    },
+    {
+      "id": 146350,
+      "name": "Gabriel Leyva Velázquez"
+    },
+    {
+      "id": 146351,
+      "name": "Gambino"
+    },
+    {
+      "id": 146352,
+      "name": "Genaro Estrada"
+    },
+    {
+      "id": 146353,
+      "name": "General Ángel Flores (La Palma)"
+    },
+    {
+      "id": 146354,
+      "name": "Goros Número Dos"
+    },
+    {
+      "id": 146355,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 146356,
+      "name": "Guamúchil"
+    },
+    {
+      "id": 146357,
+      "name": "Guasave"
+    },
+    {
+      "id": 146358,
+      "name": "Guasavito"
+    },
+    {
+      "id": 146359,
+      "name": "Gustavo Díaz Ordaz"
+    },
+    {
+      "id": 146360,
+      "name": "Heriberto Valdez Romero (El Guayabo)"
+    },
+    {
+      "id": 146361,
+      "name": "Higuera de los Vega"
+    },
+    {
+      "id": 146362,
+      "name": "Higuera de Zaragoza"
+    },
+    {
+      "id": 146363,
+      "name": "Higueras de Abuya"
+    },
+    {
+      "id": 146364,
+      "name": "Higueras de los Natoches"
+    },
+    {
+      "id": 146365,
+      "name": "Huepaco"
+    },
+    {
+      "id": 146366,
+      "name": "Isla del Bosque"
+    },
+    {
+      "id": 146367,
+      "name": "Javier Rojo Gómez"
+    },
+    {
+      "id": 146368,
+      "name": "Jesús María"
+    },
+    {
+      "id": 146369,
+      "name": "Jitzamuri"
+    },
+    {
+      "id": 146370,
+      "name": "Juan Aldama (El Tigre)"
+    },
+    {
+      "id": 146371,
+      "name": "Juan José Ríos"
+    },
+    {
+      "id": 146372,
+      "name": "La Brecha"
+    },
+    {
+      "id": 146373,
+      "name": "La Concepción"
+    },
+    {
+      "id": 146374,
+      "name": "La Concha (La Concepción)"
+    },
+    {
+      "id": 146375,
+      "name": "La Cruz"
+    },
+    {
+      "id": 146376,
+      "name": "La Despensa"
+    },
+    {
+      "id": 146377,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 146378,
+      "name": "La Loma (La Loma de Quila)"
+    },
+    {
+      "id": 146379,
+      "name": "La Noria"
+    },
+    {
+      "id": 146380,
+      "name": "La Noria de San Antonio"
+    },
+    {
+      "id": 146381,
+      "name": "La Palma"
+    },
+    {
+      "id": 146382,
+      "name": "La Palmita y Anexos (La Presita)"
+    },
+    {
+      "id": 146383,
+      "name": "La Presita"
+    },
+    {
+      "id": 146384,
+      "name": "La Reforma"
+    },
+    {
+      "id": 146385,
+      "name": "La Trinidad"
+    },
+    {
+      "id": 146386,
+      "name": "Ladrilleras de Ocoro"
+    },
+    {
+      "id": 146387,
+      "name": "Las Aguamitas"
+    },
+    {
+      "id": 146388,
+      "name": "Las Arenitas"
+    },
+    {
+      "id": 146389,
+      "name": "Las Brisas"
+    },
+    {
+      "id": 146390,
+      "name": "Las Compuertas"
+    },
+    {
+      "id": 146391,
+      "name": "Las Grullas Margen Derecha"
+    },
+    {
+      "id": 146392,
+      "name": "Las Grullas Margen Izquierda"
+    },
+    {
+      "id": 146393,
+      "name": "Las Moras"
+    },
+    {
+      "id": 146394,
+      "name": "Las Quemazones"
+    },
+    {
+      "id": 146395,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 146396,
+      "name": "Leyva Solano"
+    },
+    {
+      "id": 146397,
+      "name": "Licenciado Benito Juárez (Campo Gobierno)"
+    },
+    {
+      "id": 146398,
+      "name": "Llano Grande"
+    },
+    {
+      "id": 146399,
+      "name": "Lo de Jesús (Campo Romero)"
+    },
+    {
+      "id": 146400,
+      "name": "Los Angeles"
+    },
+    {
+      "id": 146401,
+      "name": "Los Mochis"
+    },
+    {
+      "id": 146402,
+      "name": "Los Pozos"
+    },
+    {
+      "id": 146403,
+      "name": "Macapule"
+    },
+    {
+      "id": 146404,
+      "name": "Marcol"
+    },
+    {
+      "id": 146405,
+      "name": "Maripa"
+    },
+    {
+      "id": 146406,
+      "name": "Mazatlán"
+    },
+    {
+      "id": 146407,
+      "name": "Melchor Ocampo"
+    },
+    {
+      "id": 146408,
+      "name": "Mesillas"
+    },
+    {
+      "id": 146409,
+      "name": "Miguel Valdez Quintero (El Corazón)"
+    },
+    {
+      "id": 146410,
+      "name": "Mochicahui"
+    },
+    {
+      "id": 146411,
+      "name": "Mochis"
+    },
+    {
+      "id": 146412,
+      "name": "Mocorito"
+    },
+    {
+      "id": 146413,
+      "name": "Naranjo"
+    },
+    {
+      "id": 146414,
+      "name": "Navolato"
+    },
+    {
+      "id": 146415,
+      "name": "Nuevo San Miguel"
+    },
+    {
+      "id": 146416,
+      "name": "Ojo de Agua de Palmillas"
+    },
+    {
+      "id": 146417,
+      "name": "Orba (Infiernito)"
+    },
+    {
+      "id": 146418,
+      "name": "Oso Viejo"
+    },
+    {
+      "id": 146419,
+      "name": "Palmito del Verde"
+    },
+    {
+      "id": 146420,
+      "name": "Palos Verdes"
+    },
+    {
+      "id": 146421,
+      "name": "Pericos"
+    },
+    {
+      "id": 146422,
+      "name": "Piaxtla de Abajo"
+    },
+    {
+      "id": 146423,
+      "name": "Pitahayal"
+    },
+    {
+      "id": 146424,
+      "name": "Plan de Ayala (Campo Cinco)"
+    },
+    {
+      "id": 146425,
+      "name": "Poblado Número Cinco"
+    },
+    {
+      "id": 146426,
+      "name": "Portaceli"
+    },
+    {
+      "id": 146427,
+      "name": "Portugués de Gálvez"
+    },
+    {
+      "id": 146428,
+      "name": "Potrerillo del Norote"
+    },
+    {
+      "id": 146429,
+      "name": "Potrero de los Sánchez (Estación Techa)"
+    },
+    {
+      "id": 146430,
+      "name": "Primero de Mayo"
+    },
+    {
+      "id": 146431,
+      "name": "Pueblo Nuevo"
+    },
+    {
+      "id": 146432,
+      "name": "Pueblo Viejo"
+    },
+    {
+      "id": 146433,
+      "name": "Pueblos Unidos"
+    },
+    {
+      "id": 146434,
+      "name": "Quila"
+    },
+    {
+      "id": 146435,
+      "name": "Ranchito de Castro"
+    },
+    {
+      "id": 146436,
+      "name": "Recoveco"
+    },
+    {
+      "id": 146437,
+      "name": "Ricardo Flores Magón"
+    },
+    {
+      "id": 146438,
+      "name": "Salado"
+    },
+    {
+      "id": 146439,
+      "name": "San Blas"
+    },
+    {
+      "id": 146440,
+      "name": "San Diego"
+    },
+    {
+      "id": 146441,
+      "name": "San Francisco de Tacuichamona"
+    },
+    {
+      "id": 146442,
+      "name": "San Ignacio"
+    },
+    {
+      "id": 146443,
+      "name": "San Isidro"
+    },
+    {
+      "id": 146444,
+      "name": "San Miguel Zapotitlan"
+    },
+    {
+      "id": 146445,
+      "name": "San Pedro Guasave"
+    },
+    {
+      "id": 146446,
+      "name": "San Rafael"
+    },
+    {
+      "id": 146447,
+      "name": "Sanalona"
+    },
+    {
+      "id": 146448,
+      "name": "Sinaloa"
+    },
+    {
+      "id": 146449,
+      "name": "Sinaloa de Leyva"
+    },
+    {
+      "id": 146450,
+      "name": "Siqueros"
+    },
+    {
+      "id": 146451,
+      "name": "Tamazula"
+    },
+    {
+      "id": 146452,
+      "name": "Tanques"
+    },
+    {
+      "id": 146453,
+      "name": "Taxtes"
+    },
+    {
+      "id": 146454,
+      "name": "Teacapan"
+    },
+    {
+      "id": 146455,
+      "name": "Tecualilla"
+    },
+    {
+      "id": 146456,
+      "name": "Topolobampo"
+    },
+    {
+      "id": 146457,
+      "name": "Tres Garantías"
+    },
+    {
+      "id": 146458,
+      "name": "Vallejo (Porvenir Vallejo)"
+    },
+    {
+      "id": 146459,
+      "name": "Villa de Costa Rica"
+    },
+    {
+      "id": 146460,
+      "name": "Villa Juárez"
+    },
+    {
+      "id": 146461,
+      "name": "Villa Unión"
+    }
+  ]
+}

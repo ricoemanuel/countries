@@ -1,0 +1,751 @@
+{
+  "id": 5954,
+  "name": "Alba",
+  "state_code": "AB",
+  "cities": [
+    {
+      "id": 165395,
+      "name": "Abrud"
+    },
+    {
+      "id": 165396,
+      "name": "Abrud-Sat"
+    },
+    {
+      "id": 165397,
+      "name": "Aiud"
+    },
+    {
+      "id": 165398,
+      "name": "Aiudul de Sus"
+    },
+    {
+      "id": 165399,
+      "name": "Alba Iulia"
+    },
+    {
+      "id": 165400,
+      "name": "Albac"
+    },
+    {
+      "id": 165401,
+      "name": "Almaşu Mare"
+    },
+    {
+      "id": 165402,
+      "name": "Arieşeni"
+    },
+    {
+      "id": 165403,
+      "name": "Avram Iancu"
+    },
+    {
+      "id": 165404,
+      "name": "Baia de Arieş"
+    },
+    {
+      "id": 165405,
+      "name": "Bălcaciu"
+    },
+    {
+      "id": 165406,
+      "name": "Bărăbanț"
+    },
+    {
+      "id": 165407,
+      "name": "Berghin"
+    },
+    {
+      "id": 165408,
+      "name": "Biia"
+    },
+    {
+      "id": 165409,
+      "name": "Bistra"
+    },
+    {
+      "id": 165410,
+      "name": "Blaj"
+    },
+    {
+      "id": 165411,
+      "name": "Blândiana"
+    },
+    {
+      "id": 165412,
+      "name": "Blideşti"
+    },
+    {
+      "id": 165413,
+      "name": "Bucerdea-Grânoasă"
+    },
+    {
+      "id": 165414,
+      "name": "Bucium"
+    },
+    {
+      "id": 165415,
+      "name": "Câlnic"
+    },
+    {
+      "id": 165416,
+      "name": "Câmpeni"
+    },
+    {
+      "id": 165417,
+      "name": "Cenade"
+    },
+    {
+      "id": 165418,
+      "name": "Cergău Mare"
+    },
+    {
+      "id": 165419,
+      "name": "Cergău Mic"
+    },
+    {
+      "id": 165420,
+      "name": "Ceru-Băcăinţi"
+    },
+    {
+      "id": 165421,
+      "name": "Cetatea de Baltă"
+    },
+    {
+      "id": 165422,
+      "name": "Ciugud"
+    },
+    {
+      "id": 165423,
+      "name": "Ciumbrud"
+    },
+    {
+      "id": 165424,
+      "name": "Ciuruleasa"
+    },
+    {
+      "id": 165425,
+      "name": "Comuna Albac"
+    },
+    {
+      "id": 165426,
+      "name": "Comuna Almaşu Mare"
+    },
+    {
+      "id": 165427,
+      "name": "Comuna Arieşeni"
+    },
+    {
+      "id": 165428,
+      "name": "Comuna Avram Iancu"
+    },
+    {
+      "id": 165429,
+      "name": "Comuna Berghin"
+    },
+    {
+      "id": 165430,
+      "name": "Comuna Bistra"
+    },
+    {
+      "id": 165431,
+      "name": "Comuna Blândiana"
+    },
+    {
+      "id": 165432,
+      "name": "Comuna Bucerdea-Grânoasă"
+    },
+    {
+      "id": 165433,
+      "name": "Comuna Bucium"
+    },
+    {
+      "id": 165434,
+      "name": "Comuna Câlnic"
+    },
+    {
+      "id": 165435,
+      "name": "Comuna Cenade"
+    },
+    {
+      "id": 165436,
+      "name": "Comuna Cergău"
+    },
+    {
+      "id": 165437,
+      "name": "Comuna Ceru-Băcăinţi"
+    },
+    {
+      "id": 165438,
+      "name": "Comuna Cetatea de Baltă"
+    },
+    {
+      "id": 165439,
+      "name": "Comuna Ciugud"
+    },
+    {
+      "id": 165440,
+      "name": "Comuna Ciuruleasa"
+    },
+    {
+      "id": 165441,
+      "name": "Comuna Crăciunelu de Jos"
+    },
+    {
+      "id": 165442,
+      "name": "Comuna Cricău"
+    },
+    {
+      "id": 165443,
+      "name": "Comuna Cut"
+    },
+    {
+      "id": 165444,
+      "name": "Comuna Daia Română"
+    },
+    {
+      "id": 165445,
+      "name": "Comuna Doştat"
+    },
+    {
+      "id": 165446,
+      "name": "Comuna Fărău"
+    },
+    {
+      "id": 165447,
+      "name": "Comuna Galda de Jos"
+    },
+    {
+      "id": 165448,
+      "name": "Comuna Gârbova"
+    },
+    {
+      "id": 165449,
+      "name": "Comuna Gârda de Sus"
+    },
+    {
+      "id": 165450,
+      "name": "Comuna Hopârta"
+    },
+    {
+      "id": 165451,
+      "name": "Comuna Horea"
+    },
+    {
+      "id": 165452,
+      "name": "Comuna Ighiu"
+    },
+    {
+      "id": 165453,
+      "name": "Comuna Întregalde"
+    },
+    {
+      "id": 165454,
+      "name": "Comuna Jidvei"
+    },
+    {
+      "id": 165455,
+      "name": "Comuna Livezile"
+    },
+    {
+      "id": 165456,
+      "name": "Comuna Lopadea Nouă"
+    },
+    {
+      "id": 165457,
+      "name": "Comuna Lunca Mureşului"
+    },
+    {
+      "id": 165458,
+      "name": "Comuna Lupşa"
+    },
+    {
+      "id": 165459,
+      "name": "Comuna Meteş"
+    },
+    {
+      "id": 165460,
+      "name": "Comuna Mihalţ"
+    },
+    {
+      "id": 165461,
+      "name": "Comuna Mirăslău"
+    },
+    {
+      "id": 165462,
+      "name": "Comuna Mogoş"
+    },
+    {
+      "id": 165463,
+      "name": "Comuna Noşlac"
+    },
+    {
+      "id": 165464,
+      "name": "Comuna Ocoliş"
+    },
+    {
+      "id": 165465,
+      "name": "Comuna Ohaba"
+    },
+    {
+      "id": 165466,
+      "name": "Comuna Pianu"
+    },
+    {
+      "id": 165467,
+      "name": "Comuna Poiana Vadului"
+    },
+    {
+      "id": 165468,
+      "name": "Comuna Ponor"
+    },
+    {
+      "id": 165469,
+      "name": "Comuna Poşaga"
+    },
+    {
+      "id": 165470,
+      "name": "Comuna Rădeşti"
+    },
+    {
+      "id": 165471,
+      "name": "Comuna Râmeţ"
+    },
+    {
+      "id": 165472,
+      "name": "Comuna Râmetea"
+    },
+    {
+      "id": 165473,
+      "name": "Comuna Roşia de Secaş"
+    },
+    {
+      "id": 165474,
+      "name": "Comuna Roşia Montană"
+    },
+    {
+      "id": 165475,
+      "name": "Comuna Sălciua"
+    },
+    {
+      "id": 165476,
+      "name": "Comuna Sãliştea"
+    },
+    {
+      "id": 165477,
+      "name": "Comuna Sâncel"
+    },
+    {
+      "id": 165478,
+      "name": "Comuna Sântimbru"
+    },
+    {
+      "id": 165479,
+      "name": "Comuna Săsciori"
+    },
+    {
+      "id": 165480,
+      "name": "Comuna Scărişoara"
+    },
+    {
+      "id": 165481,
+      "name": "Comuna Şibot"
+    },
+    {
+      "id": 165482,
+      "name": "Comuna Sohodol"
+    },
+    {
+      "id": 165483,
+      "name": "Comuna Şona"
+    },
+    {
+      "id": 165484,
+      "name": "Comuna Şpring"
+    },
+    {
+      "id": 165485,
+      "name": "Comuna Stremţ"
+    },
+    {
+      "id": 165486,
+      "name": "Comuna Şugag"
+    },
+    {
+      "id": 165487,
+      "name": "Comuna Unirea"
+    },
+    {
+      "id": 165488,
+      "name": "Comuna Vadu Moţilor"
+    },
+    {
+      "id": 165489,
+      "name": "Comuna Valea Lungă"
+    },
+    {
+      "id": 165490,
+      "name": "Comuna Vidra"
+    },
+    {
+      "id": 165491,
+      "name": "Comuna Vinţu de Jos"
+    },
+    {
+      "id": 165492,
+      "name": "Crăciunelu de Jos"
+    },
+    {
+      "id": 165493,
+      "name": "Cricău"
+    },
+    {
+      "id": 165494,
+      "name": "Cugir"
+    },
+    {
+      "id": 165495,
+      "name": "Cut"
+    },
+    {
+      "id": 165496,
+      "name": "Daia Română"
+    },
+    {
+      "id": 165497,
+      "name": "Dobra"
+    },
+    {
+      "id": 165498,
+      "name": "Doştat"
+    },
+    {
+      "id": 165499,
+      "name": "Fărău"
+    },
+    {
+      "id": 165500,
+      "name": "Feisa"
+    },
+    {
+      "id": 165501,
+      "name": "Feneș"
+    },
+    {
+      "id": 165502,
+      "name": "Galda de Jos"
+    },
+    {
+      "id": 165503,
+      "name": "Gârbova"
+    },
+    {
+      "id": 165504,
+      "name": "Gârda de Sus"
+    },
+    {
+      "id": 165505,
+      "name": "Hopârta"
+    },
+    {
+      "id": 165506,
+      "name": "Horea"
+    },
+    {
+      "id": 165507,
+      "name": "Ighiel"
+    },
+    {
+      "id": 165508,
+      "name": "Ighiu"
+    },
+    {
+      "id": 165509,
+      "name": "Intregalde"
+    },
+    {
+      "id": 165510,
+      "name": "Izvoarele"
+    },
+    {
+      "id": 165511,
+      "name": "Jidvei"
+    },
+    {
+      "id": 165512,
+      "name": "Lancrăm"
+    },
+    {
+      "id": 165513,
+      "name": "Livezile"
+    },
+    {
+      "id": 165514,
+      "name": "Lopadea Nouă"
+    },
+    {
+      "id": 165515,
+      "name": "Lunca Mureşului"
+    },
+    {
+      "id": 165516,
+      "name": "Lupşa"
+    },
+    {
+      "id": 165517,
+      "name": "Meteş"
+    },
+    {
+      "id": 165518,
+      "name": "Micești"
+    },
+    {
+      "id": 165519,
+      "name": "Mihalţ"
+    },
+    {
+      "id": 165520,
+      "name": "Mirăslău"
+    },
+    {
+      "id": 165521,
+      "name": "Mogoș"
+    },
+    {
+      "id": 165522,
+      "name": "Municipiul Aiud"
+    },
+    {
+      "id": 165523,
+      "name": "Municipiul Alba Iulia"
+    },
+    {
+      "id": 165524,
+      "name": "Municipiul Blaj"
+    },
+    {
+      "id": 165525,
+      "name": "Municipiul Sebeş"
+    },
+    {
+      "id": 165526,
+      "name": "Noşlac"
+    },
+    {
+      "id": 165527,
+      "name": "Oarda"
+    },
+    {
+      "id": 165528,
+      "name": "Ocna Mureş"
+    },
+    {
+      "id": 165529,
+      "name": "Ocoliş"
+    },
+    {
+      "id": 165530,
+      "name": "Ohaba"
+    },
+    {
+      "id": 165531,
+      "name": "Oraş abrud"
+    },
+    {
+      "id": 165532,
+      "name": "Oraş Baia de Arieş"
+    },
+    {
+      "id": 165533,
+      "name": "Oraş Câmpeni"
+    },
+    {
+      "id": 165534,
+      "name": "Oraş Cugir"
+    },
+    {
+      "id": 165535,
+      "name": "Oraş Ocna Mureş"
+    },
+    {
+      "id": 165536,
+      "name": "Oraş Teiuş"
+    },
+    {
+      "id": 165537,
+      "name": "Oraş Zlatna"
+    },
+    {
+      "id": 165538,
+      "name": "Petrești"
+    },
+    {
+      "id": 165539,
+      "name": "Pianu de Jos"
+    },
+    {
+      "id": 165540,
+      "name": "Pianu de Sus"
+    },
+    {
+      "id": 165541,
+      "name": "Poiana Vadului"
+    },
+    {
+      "id": 165542,
+      "name": "Poienile-Mogoş"
+    },
+    {
+      "id": 165543,
+      "name": "Ponor"
+    },
+    {
+      "id": 165544,
+      "name": "Poşaga de Sus"
+    },
+    {
+      "id": 165545,
+      "name": "Rădeşti"
+    },
+    {
+      "id": 165546,
+      "name": "Războieni-Cetate"
+    },
+    {
+      "id": 165547,
+      "name": "Rimetea"
+    },
+    {
+      "id": 165548,
+      "name": "Roşia de Secaş"
+    },
+    {
+      "id": 165549,
+      "name": "Roșia Montană"
+    },
+    {
+      "id": 165550,
+      "name": "Sălciua de Sus"
+    },
+    {
+      "id": 165551,
+      "name": "Săliștea"
+    },
+    {
+      "id": 165552,
+      "name": "Săliştea-Deal"
+    },
+    {
+      "id": 165553,
+      "name": "Sâncel"
+    },
+    {
+      "id": 165554,
+      "name": "Sâncrai"
+    },
+    {
+      "id": 165555,
+      "name": "Sântimbru"
+    },
+    {
+      "id": 165556,
+      "name": "Șard"
+    },
+    {
+      "id": 165557,
+      "name": "Săsciori"
+    },
+    {
+      "id": 165558,
+      "name": "Scărişoara"
+    },
+    {
+      "id": 165559,
+      "name": "Sebeş"
+    },
+    {
+      "id": 165560,
+      "name": "Sebeșel"
+    },
+    {
+      "id": 165561,
+      "name": "Şibot"
+    },
+    {
+      "id": 165562,
+      "name": "Sohodol"
+    },
+    {
+      "id": 165563,
+      "name": "Şona"
+    },
+    {
+      "id": 165564,
+      "name": "Şpring"
+    },
+    {
+      "id": 165565,
+      "name": "Stremţ"
+    },
+    {
+      "id": 165566,
+      "name": "Şugag"
+    },
+    {
+      "id": 165567,
+      "name": "Teiuş"
+    },
+    {
+      "id": 165568,
+      "name": "Țelna"
+    },
+    {
+      "id": 165569,
+      "name": "Tiur"
+    },
+    {
+      "id": 165570,
+      "name": "Uioara de Jos"
+    },
+    {
+      "id": 165571,
+      "name": "Unirea"
+    },
+    {
+      "id": 165572,
+      "name": "Vadu Moţilor"
+    },
+    {
+      "id": 165573,
+      "name": "Valea Lungă Alba Romania"
+    },
+    {
+      "id": 165574,
+      "name": "Veseuș"
+    },
+    {
+      "id": 165575,
+      "name": "Veza"
+    },
+    {
+      "id": 165576,
+      "name": "Vidra"
+    },
+    {
+      "id": 165577,
+      "name": "Vinerea"
+    },
+    {
+      "id": 165578,
+      "name": "Vințu de Jos"
+    },
+    {
+      "id": 165579,
+      "name": "Vurpăr"
+    },
+    {
+      "id": 165580,
+      "name": "Zlatna"
+    }
+  ]
+}

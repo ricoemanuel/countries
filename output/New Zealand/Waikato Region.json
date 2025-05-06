@@ -1,0 +1,83 @@
+{
+  "id": 5421,
+  "name": "Waikato Region",
+  "state_code": "WKO",
+  "cities": [
+    {
+      "id": 150717,
+      "name": "Cambridge"
+    },
+    {
+      "id": 150718,
+      "name": "Coromandel"
+    },
+    {
+      "id": 150719,
+      "name": "Hamilton"
+    },
+    {
+      "id": 150720,
+      "name": "Matamata"
+    },
+    {
+      "id": 150721,
+      "name": "Ngaruawahia"
+    },
+    {
+      "id": 150722,
+      "name": "Ngatea"
+    },
+    {
+      "id": 150723,
+      "name": "Otorohanga"
+    },
+    {
+      "id": 150724,
+      "name": "Paeroa"
+    },
+    {
+      "id": 150725,
+      "name": "Raglan"
+    },
+    {
+      "id": 150726,
+      "name": "South Waikato District"
+    },
+    {
+      "id": 150727,
+      "name": "Tairua"
+    },
+    {
+      "id": 150728,
+      "name": "Taupo"
+    },
+    {
+      "id": 150729,
+      "name": "Te Kauwhata"
+    },
+    {
+      "id": 150730,
+      "name": "Thames"
+    },
+    {
+      "id": 150731,
+      "name": "Tokoroa"
+    },
+    {
+      "id": 150732,
+      "name": "Turangi"
+    },
+    {
+      "id": 150733,
+      "name": "Waihi"
+    },
+    {
+      "id": 150734,
+      "name": "Whangamata"
+    },
+    {
+      "id": 150735,
+      "name": "Whitianga"
+    }
+  ]
+}

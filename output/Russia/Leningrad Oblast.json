@@ -1,0 +1,571 @@
+{
+  "id": 6025,
+  "name": "Leningrad Oblast",
+  "state_code": "LEN",
+  "cities": [
+    {
+      "id": 175263,
+      "name": "Agalatovo"
+    },
+    {
+      "id": 175264,
+      "name": "Akademicheskoe"
+    },
+    {
+      "id": 175265,
+      "name": "Annino"
+    },
+    {
+      "id": 175266,
+      "name": "Begunitsy"
+    },
+    {
+      "id": 175267,
+      "name": "Boksitogorsk"
+    },
+    {
+      "id": 175268,
+      "name": "Boksitogorskiy Rayon"
+    },
+    {
+      "id": 175269,
+      "name": "Bol’shaya Izhora"
+    },
+    {
+      "id": 175270,
+      "name": "Borisova Griva"
+    },
+    {
+      "id": 175271,
+      "name": "Budogoshch’"
+    },
+    {
+      "id": 175272,
+      "name": "Bugry"
+    },
+    {
+      "id": 175273,
+      "name": "Chernaya Rechka"
+    },
+    {
+      "id": 175274,
+      "name": "Druzhnaya Gorka"
+    },
+    {
+      "id": 175275,
+      "name": "Fëdorovskoye"
+    },
+    {
+      "id": 175276,
+      "name": "Finlyandskiy"
+    },
+    {
+      "id": 175277,
+      "name": "Fornosovo"
+    },
+    {
+      "id": 175278,
+      "name": "Garbolovo"
+    },
+    {
+      "id": 175279,
+      "name": "Gatchina"
+    },
+    {
+      "id": 175280,
+      "name": "Glebychevo"
+    },
+    {
+      "id": 175281,
+      "name": "Gorbunki"
+    },
+    {
+      "id": 175282,
+      "name": "Gorskaya"
+    },
+    {
+      "id": 175283,
+      "name": "Gostilitsy"
+    },
+    {
+      "id": 175284,
+      "name": "Il’ichëvo"
+    },
+    {
+      "id": 175285,
+      "name": "Imeni Morozova"
+    },
+    {
+      "id": 175286,
+      "name": "Imeni Sverdlova"
+    },
+    {
+      "id": 175287,
+      "name": "Issad"
+    },
+    {
+      "id": 175288,
+      "name": "Ivangorod"
+    },
+    {
+      "id": 175289,
+      "name": "Kalininskiy"
+    },
+    {
+      "id": 175290,
+      "name": "Kamenka"
+    },
+    {
+      "id": 175291,
+      "name": "Kamennogorsk"
+    },
+    {
+      "id": 175292,
+      "name": "Khvalovo"
+    },
+    {
+      "id": 175293,
+      "name": "Kikerino"
+    },
+    {
+      "id": 175294,
+      "name": "Kingisepp"
+    },
+    {
+      "id": 175295,
+      "name": "Kingiseppskiy Rayon"
+    },
+    {
+      "id": 175296,
+      "name": "Kipen’"
+    },
+    {
+      "id": 175297,
+      "name": "Kirishi"
+    },
+    {
+      "id": 175298,
+      "name": "Kirovsk"
+    },
+    {
+      "id": 175299,
+      "name": "Kirovskiy Rayon"
+    },
+    {
+      "id": 175300,
+      "name": "Kobrinskoye"
+    },
+    {
+      "id": 175301,
+      "name": "Kolchanovo"
+    },
+    {
+      "id": 175302,
+      "name": "Koltushi"
+    },
+    {
+      "id": 175303,
+      "name": "Kommunar"
+    },
+    {
+      "id": 175304,
+      "name": "Kopor’ye"
+    },
+    {
+      "id": 175305,
+      "name": "Korobitsyno"
+    },
+    {
+      "id": 175306,
+      "name": "Krasnyy Bor"
+    },
+    {
+      "id": 175307,
+      "name": "Krestovskiy ostrov"
+    },
+    {
+      "id": 175308,
+      "name": "Kurortnyy"
+    },
+    {
+      "id": 175309,
+      "name": "Kuyvozi"
+    },
+    {
+      "id": 175310,
+      "name": "Kuznechnoye"
+    },
+    {
+      "id": 175311,
+      "name": "Lebyazh’ye"
+    },
+    {
+      "id": 175312,
+      "name": "Leninskoye"
+    },
+    {
+      "id": 175313,
+      "name": "Leskolovo"
+    },
+    {
+      "id": 175314,
+      "name": "Lesogorskiy"
+    },
+    {
+      "id": 175315,
+      "name": "Lodeynopol’skiy Rayon"
+    },
+    {
+      "id": 175316,
+      "name": "Lodeynoye Pole"
+    },
+    {
+      "id": 175317,
+      "name": "Lomonosovskiy Rayon"
+    },
+    {
+      "id": 175318,
+      "name": "Luga"
+    },
+    {
+      "id": 175319,
+      "name": "Luppolovo"
+    },
+    {
+      "id": 175320,
+      "name": "Luzhskiy Rayon"
+    },
+    {
+      "id": 175321,
+      "name": "Lyuban’"
+    },
+    {
+      "id": 175322,
+      "name": "Maloye Verevo"
+    },
+    {
+      "id": 175323,
+      "name": "Mariyenburg"
+    },
+    {
+      "id": 175324,
+      "name": "Mga"
+    },
+    {
+      "id": 175325,
+      "name": "Michurinskoye"
+    },
+    {
+      "id": 175326,
+      "name": "Mshinskaya"
+    },
+    {
+      "id": 175327,
+      "name": "Murino"
+    },
+    {
+      "id": 175328,
+      "name": "Nikol’skoye"
+    },
+    {
+      "id": 175329,
+      "name": "Novaya Ladoga"
+    },
+    {
+      "id": 175330,
+      "name": "Novoye Devyatkino"
+    },
+    {
+      "id": 175331,
+      "name": "Nurma"
+    },
+    {
+      "id": 175332,
+      "name": "Ol’gino"
+    },
+    {
+      "id": 175333,
+      "name": "Osel’ki"
+    },
+    {
+      "id": 175334,
+      "name": "Otradnoye"
+    },
+    {
+      "id": 175335,
+      "name": "Parnas"
+    },
+    {
+      "id": 175336,
+      "name": "Pasha"
+    },
+    {
+      "id": 175337,
+      "name": "Pavlovo"
+    },
+    {
+      "id": 175338,
+      "name": "Pervomayskoye"
+    },
+    {
+      "id": 175339,
+      "name": "Pikalëvo"
+    },
+    {
+      "id": 175340,
+      "name": "Podporozh’ye"
+    },
+    {
+      "id": 175341,
+      "name": "Podporozhskiy Rayon"
+    },
+    {
+      "id": 175342,
+      "name": "Priladozhskiy"
+    },
+    {
+      "id": 175343,
+      "name": "Primorsk"
+    },
+    {
+      "id": 175344,
+      "name": "Priozërsk"
+    },
+    {
+      "id": 175345,
+      "name": "Priozersky"
+    },
+    {
+      "id": 175346,
+      "name": "Romanovka"
+    },
+    {
+      "id": 175347,
+      "name": "Roshchino"
+    },
+    {
+      "id": 175348,
+      "name": "Rozhdestveno"
+    },
+    {
+      "id": 175349,
+      "name": "Russko-Vysotskoye"
+    },
+    {
+      "id": 175350,
+      "name": "Ryabovo"
+    },
+    {
+      "id": 175351,
+      "name": "Rybatskoye"
+    },
+    {
+      "id": 175352,
+      "name": "Sampsonievskiy"
+    },
+    {
+      "id": 175353,
+      "name": "Sapernoye"
+    },
+    {
+      "id": 175354,
+      "name": "Semiozerje"
+    },
+    {
+      "id": 175355,
+      "name": "Sertolovo"
+    },
+    {
+      "id": 175356,
+      "name": "Shcheglovo"
+    },
+    {
+      "id": 175357,
+      "name": "Shlissel’burg"
+    },
+    {
+      "id": 175358,
+      "name": "Sinyavino"
+    },
+    {
+      "id": 175359,
+      "name": "Sista-Palkino"
+    },
+    {
+      "id": 175360,
+      "name": "Siverskiy"
+    },
+    {
+      "id": 175361,
+      "name": "Slantsevskiy Rayon"
+    },
+    {
+      "id": 175362,
+      "name": "Slantsy"
+    },
+    {
+      "id": 175363,
+      "name": "Sosnovo"
+    },
+    {
+      "id": 175364,
+      "name": "Sosnovyy Bor"
+    },
+    {
+      "id": 175365,
+      "name": "Sovetskiy"
+    },
+    {
+      "id": 175366,
+      "name": "Staraya"
+    },
+    {
+      "id": 175367,
+      "name": "Staraya Ladoga"
+    },
+    {
+      "id": 175368,
+      "name": "Svetlanovskiy"
+    },
+    {
+      "id": 175369,
+      "name": "Svetogorsk"
+    },
+    {
+      "id": 175370,
+      "name": "Syas’stroy"
+    },
+    {
+      "id": 175371,
+      "name": "Taytsy"
+    },
+    {
+      "id": 175372,
+      "name": "Tikhvin"
+    },
+    {
+      "id": 175373,
+      "name": "Tikhvinskiy Rayon"
+    },
+    {
+      "id": 175374,
+      "name": "Toksovo"
+    },
+    {
+      "id": 175375,
+      "name": "Tolmachevo"
+    },
+    {
+      "id": 175376,
+      "name": "Tosnenskiy Rayon"
+    },
+    {
+      "id": 175377,
+      "name": "Tosno"
+    },
+    {
+      "id": 175378,
+      "name": "Udel’naya"
+    },
+    {
+      "id": 175379,
+      "name": "Ul’yanovka"
+    },
+    {
+      "id": 175380,
+      "name": "Untolovo"
+    },
+    {
+      "id": 175381,
+      "name": "Ust’-Luga"
+    },
+    {
+      "id": 175382,
+      "name": "Vaskelovo"
+    },
+    {
+      "id": 175383,
+      "name": "Vazhiny"
+    },
+    {
+      "id": 175384,
+      "name": "Verkhniye Osel’ki"
+    },
+    {
+      "id": 175385,
+      "name": "Veshchevo"
+    },
+    {
+      "id": 175386,
+      "name": "Vinnitsy"
+    },
+    {
+      "id": 175387,
+      "name": "Vistino"
+    },
+    {
+      "id": 175388,
+      "name": "Volkhov"
+    },
+    {
+      "id": 175389,
+      "name": "Volkhovskiy rayon"
+    },
+    {
+      "id": 175390,
+      "name": "Volosovo"
+    },
+    {
+      "id": 175391,
+      "name": "Volosovskiy Rayon"
+    },
+    {
+      "id": 175392,
+      "name": "Voyskovitsy"
+    },
+    {
+      "id": 175393,
+      "name": "Voznesen’ye"
+    },
+    {
+      "id": 175394,
+      "name": "Vsevolozhsk"
+    },
+    {
+      "id": 175395,
+      "name": "Vsevolozhskiy Rayon"
+    },
+    {
+      "id": 175396,
+      "name": "Vyborg"
+    },
+    {
+      "id": 175397,
+      "name": "Vyritsa"
+    },
+    {
+      "id": 175398,
+      "name": "Vysotsk"
+    },
+    {
+      "id": 175399,
+      "name": "Yakovlevo"
+    },
+    {
+      "id": 175400,
+      "name": "Yanino-1"
+    },
+    {
+      "id": 175401,
+      "name": "Yaroslavichi"
+    },
+    {
+      "id": 175402,
+      "name": "Yefimovskiy"
+    },
+    {
+      "id": 175403,
+      "name": "Yelizavetino"
+    }
+  ]
+}

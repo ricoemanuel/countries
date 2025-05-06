@@ -1,0 +1,879 @@
+{
+  "id": 5805,
+  "name": "Soccsksargen",
+  "state_code": "12",
+  "cities": [
+    {
+      "id": 160504,
+      "name": "Alabel"
+    },
+    {
+      "id": 160505,
+      "name": "Alamada"
+    },
+    {
+      "id": 160506,
+      "name": "Amas"
+    },
+    {
+      "id": 160507,
+      "name": "Bagontapay"
+    },
+    {
+      "id": 160508,
+      "name": "Baguer"
+    },
+    {
+      "id": 160509,
+      "name": "Baliton"
+    },
+    {
+      "id": 160510,
+      "name": "Balogo"
+    },
+    {
+      "id": 160511,
+      "name": "Banawa"
+    },
+    {
+      "id": 160512,
+      "name": "Bañga"
+    },
+    {
+      "id": 160513,
+      "name": "Banisilan"
+    },
+    {
+      "id": 160514,
+      "name": "Bantogon"
+    },
+    {
+      "id": 160515,
+      "name": "Barongis"
+    },
+    {
+      "id": 160516,
+      "name": "Basak"
+    },
+    {
+      "id": 160517,
+      "name": "Batasan"
+    },
+    {
+      "id": 160518,
+      "name": "Batutitik"
+    },
+    {
+      "id": 160519,
+      "name": "Bau"
+    },
+    {
+      "id": 160520,
+      "name": "Bayasong"
+    },
+    {
+      "id": 160521,
+      "name": "Bialong"
+    },
+    {
+      "id": 160522,
+      "name": "Biwang"
+    },
+    {
+      "id": 160523,
+      "name": "Blingkong"
+    },
+    {
+      "id": 160524,
+      "name": "Buadtasan"
+    },
+    {
+      "id": 160525,
+      "name": "Bual"
+    },
+    {
+      "id": 160526,
+      "name": "Buawan"
+    },
+    {
+      "id": 160527,
+      "name": "Buayan"
+    },
+    {
+      "id": 160528,
+      "name": "Bukay Pait"
+    },
+    {
+      "id": 160529,
+      "name": "Bulatukan"
+    },
+    {
+      "id": 160530,
+      "name": "Burias"
+    },
+    {
+      "id": 160531,
+      "name": "Busok"
+    },
+    {
+      "id": 160532,
+      "name": "Carmen"
+    },
+    {
+      "id": 160533,
+      "name": "Carpenter Hill"
+    },
+    {
+      "id": 160534,
+      "name": "Cebuano"
+    },
+    {
+      "id": 160535,
+      "name": "Colongulo"
+    },
+    {
+      "id": 160536,
+      "name": "Columbio"
+    },
+    {
+      "id": 160537,
+      "name": "Conel"
+    },
+    {
+      "id": 160538,
+      "name": "Cotabato City"
+    },
+    {
+      "id": 160539,
+      "name": "Daguma"
+    },
+    {
+      "id": 160540,
+      "name": "Dahay"
+    },
+    {
+      "id": 160541,
+      "name": "Daliao"
+    },
+    {
+      "id": 160542,
+      "name": "Damawato"
+    },
+    {
+      "id": 160543,
+      "name": "Dansuli"
+    },
+    {
+      "id": 160544,
+      "name": "Digkilaan"
+    },
+    {
+      "id": 160545,
+      "name": "Dualing"
+    },
+    {
+      "id": 160546,
+      "name": "Dukay"
+    },
+    {
+      "id": 160547,
+      "name": "Dumaguil"
+    },
+    {
+      "id": 160548,
+      "name": "Dunguan"
+    },
+    {
+      "id": 160549,
+      "name": "Esperanza"
+    },
+    {
+      "id": 160550,
+      "name": "Gansing"
+    },
+    {
+      "id": 160551,
+      "name": "General Santos"
+    },
+    {
+      "id": 160552,
+      "name": "Glad"
+    },
+    {
+      "id": 160553,
+      "name": "Glamang"
+    },
+    {
+      "id": 160554,
+      "name": "Glan"
+    },
+    {
+      "id": 160555,
+      "name": "Glan Peidu"
+    },
+    {
+      "id": 160556,
+      "name": "Gocoton"
+    },
+    {
+      "id": 160557,
+      "name": "Guinsang-an"
+    },
+    {
+      "id": 160558,
+      "name": "Ilaya"
+    },
+    {
+      "id": 160559,
+      "name": "Iligan City"
+    },
+    {
+      "id": 160560,
+      "name": "Isulan"
+    },
+    {
+      "id": 160561,
+      "name": "Kabacan"
+    },
+    {
+      "id": 160562,
+      "name": "Kabalen"
+    },
+    {
+      "id": 160563,
+      "name": "Kablalan"
+    },
+    {
+      "id": 160564,
+      "name": "Kalaisan"
+    },
+    {
+      "id": 160565,
+      "name": "Kalamangog"
+    },
+    {
+      "id": 160566,
+      "name": "Kalamansig"
+    },
+    {
+      "id": 160567,
+      "name": "Kalandagan"
+    },
+    {
+      "id": 160568,
+      "name": "Kamanga"
+    },
+    {
+      "id": 160569,
+      "name": "Kapatan"
+    },
+    {
+      "id": 160570,
+      "name": "Kapaya"
+    },
+    {
+      "id": 160571,
+      "name": "Kapingkong"
+    },
+    {
+      "id": 160572,
+      "name": "Katangawan"
+    },
+    {
+      "id": 160573,
+      "name": "Katubao"
+    },
+    {
+      "id": 160574,
+      "name": "Kiamba"
+    },
+    {
+      "id": 160575,
+      "name": "Kidapawan"
+    },
+    {
+      "id": 160576,
+      "name": "Kipalbig"
+    },
+    {
+      "id": 160577,
+      "name": "Kisante"
+    },
+    {
+      "id": 160578,
+      "name": "Kiupo"
+    },
+    {
+      "id": 160579,
+      "name": "Klinan"
+    },
+    {
+      "id": 160580,
+      "name": "Kolumbug"
+    },
+    {
+      "id": 160581,
+      "name": "Koronadal"
+    },
+    {
+      "id": 160582,
+      "name": "Kudanding"
+    },
+    {
+      "id": 160583,
+      "name": "Kulaman"
+    },
+    {
+      "id": 160584,
+      "name": "Labu-o"
+    },
+    {
+      "id": 160585,
+      "name": "Laguilayan"
+    },
+    {
+      "id": 160586,
+      "name": "Lake Sebu"
+    },
+    {
+      "id": 160587,
+      "name": "Lala"
+    },
+    {
+      "id": 160588,
+      "name": "Lamba"
+    },
+    {
+      "id": 160589,
+      "name": "Lambayong"
+    },
+    {
+      "id": 160590,
+      "name": "Lambontong"
+    },
+    {
+      "id": 160591,
+      "name": "Lamian"
+    },
+    {
+      "id": 160592,
+      "name": "Lampari"
+    },
+    {
+      "id": 160593,
+      "name": "Lampitak"
+    },
+    {
+      "id": 160594,
+      "name": "Lapuz"
+    },
+    {
+      "id": 160595,
+      "name": "Libas"
+    },
+    {
+      "id": 160596,
+      "name": "Liberty"
+    },
+    {
+      "id": 160597,
+      "name": "Libungan"
+    },
+    {
+      "id": 160598,
+      "name": "Liliongan"
+    },
+    {
+      "id": 160599,
+      "name": "Limbalod"
+    },
+    {
+      "id": 160600,
+      "name": "Limulan"
+    },
+    {
+      "id": 160601,
+      "name": "Linan"
+    },
+    {
+      "id": 160602,
+      "name": "Linao"
+    },
+    {
+      "id": 160603,
+      "name": "Lopez Jaena"
+    },
+    {
+      "id": 160604,
+      "name": "Lumatil"
+    },
+    {
+      "id": 160605,
+      "name": "Lumazal"
+    },
+    {
+      "id": 160606,
+      "name": "Lumuyon"
+    },
+    {
+      "id": 160607,
+      "name": "Lun Pequeño"
+    },
+    {
+      "id": 160608,
+      "name": "Lunen"
+    },
+    {
+      "id": 160609,
+      "name": "Maan"
+    },
+    {
+      "id": 160610,
+      "name": "Maasim"
+    },
+    {
+      "id": 160611,
+      "name": "Mabay"
+    },
+    {
+      "id": 160612,
+      "name": "Mabini"
+    },
+    {
+      "id": 160613,
+      "name": "Magpet"
+    },
+    {
+      "id": 160614,
+      "name": "Maguling"
+    },
+    {
+      "id": 160615,
+      "name": "Maibu"
+    },
+    {
+      "id": 160616,
+      "name": "Maindang"
+    },
+    {
+      "id": 160617,
+      "name": "Maitum"
+    },
+    {
+      "id": 160618,
+      "name": "Makilala"
+    },
+    {
+      "id": 160619,
+      "name": "Malamote"
+    },
+    {
+      "id": 160620,
+      "name": "Malandag"
+    },
+    {
+      "id": 160621,
+      "name": "Malapag"
+    },
+    {
+      "id": 160622,
+      "name": "Malapatan"
+    },
+    {
+      "id": 160623,
+      "name": "Malasila"
+    },
+    {
+      "id": 160624,
+      "name": "Malbang"
+    },
+    {
+      "id": 160625,
+      "name": "Malinao"
+    },
+    {
+      "id": 160626,
+      "name": "Malingao"
+    },
+    {
+      "id": 160627,
+      "name": "Malisbeng"
+    },
+    {
+      "id": 160628,
+      "name": "Malitubog"
+    },
+    {
+      "id": 160629,
+      "name": "Maltana"
+    },
+    {
+      "id": 160630,
+      "name": "Maluñgun"
+    },
+    {
+      "id": 160631,
+      "name": "Mamali"
+    },
+    {
+      "id": 160632,
+      "name": "Manaulanan"
+    },
+    {
+      "id": 160633,
+      "name": "Manga"
+    },
+    {
+      "id": 160634,
+      "name": "Manuangan"
+    },
+    {
+      "id": 160635,
+      "name": "Manuel Roxas"
+    },
+    {
+      "id": 160636,
+      "name": "Marbel"
+    },
+    {
+      "id": 160637,
+      "name": "Mariano Marcos"
+    },
+    {
+      "id": 160638,
+      "name": "Matalam"
+    },
+    {
+      "id": 160639,
+      "name": "Matiompong"
+    },
+    {
+      "id": 160640,
+      "name": "Midsayap"
+    },
+    {
+      "id": 160641,
+      "name": "Minapan"
+    },
+    {
+      "id": 160642,
+      "name": "Mindupok"
+    },
+    {
+      "id": 160643,
+      "name": "Nalus"
+    },
+    {
+      "id": 160644,
+      "name": "New Cebu"
+    },
+    {
+      "id": 160645,
+      "name": "New Iloilo"
+    },
+    {
+      "id": 160646,
+      "name": "New Lagao"
+    },
+    {
+      "id": 160647,
+      "name": "New Panay"
+    },
+    {
+      "id": 160648,
+      "name": "Noling"
+    },
+    {
+      "id": 160649,
+      "name": "Norala"
+    },
+    {
+      "id": 160650,
+      "name": "Nunguan"
+    },
+    {
+      "id": 160651,
+      "name": "Osias"
+    },
+    {
+      "id": 160652,
+      "name": "Paatan"
+    },
+    {
+      "id": 160653,
+      "name": "Pagalungan"
+    },
+    {
+      "id": 160654,
+      "name": "Pagangan"
+    },
+    {
+      "id": 160655,
+      "name": "Palian"
+    },
+    {
+      "id": 160656,
+      "name": "Palimbang"
+    },
+    {
+      "id": 160657,
+      "name": "Palkan"
+    },
+    {
+      "id": 160658,
+      "name": "Pamantingan"
+    },
+    {
+      "id": 160659,
+      "name": "Panay"
+    },
+    {
+      "id": 160660,
+      "name": "Pangyan"
+    },
+    {
+      "id": 160661,
+      "name": "Paraiso"
+    },
+    {
+      "id": 160662,
+      "name": "Patindeguen"
+    },
+    {
+      "id": 160663,
+      "name": "Pedtad"
+    },
+    {
+      "id": 160664,
+      "name": "Pigcawayan"
+    },
+    {
+      "id": 160665,
+      "name": "Pikit"
+    },
+    {
+      "id": 160666,
+      "name": "Pimbalayan"
+    },
+    {
+      "id": 160667,
+      "name": "Polo"
+    },
+    {
+      "id": 160668,
+      "name": "Polomolok"
+    },
+    {
+      "id": 160669,
+      "name": "Polonoling"
+    },
+    {
+      "id": 160670,
+      "name": "President Quirino"
+    },
+    {
+      "id": 160671,
+      "name": "President Roxas"
+    },
+    {
+      "id": 160672,
+      "name": "Province of Cotabato"
+    },
+    {
+      "id": 160673,
+      "name": "Province of Sarangani"
+    },
+    {
+      "id": 160674,
+      "name": "Province of South Cotabato"
+    },
+    {
+      "id": 160675,
+      "name": "Province of Sultan Kudarat"
+    },
+    {
+      "id": 160676,
+      "name": "Puloypuloy"
+    },
+    {
+      "id": 160677,
+      "name": "Punolu"
+    },
+    {
+      "id": 160678,
+      "name": "Puricay"
+    },
+    {
+      "id": 160679,
+      "name": "Ragandang"
+    },
+    {
+      "id": 160680,
+      "name": "Rogongon"
+    },
+    {
+      "id": 160681,
+      "name": "Rotonda"
+    },
+    {
+      "id": 160682,
+      "name": "Sadsalan"
+    },
+    {
+      "id": 160683,
+      "name": "Saguing"
+    },
+    {
+      "id": 160684,
+      "name": "Salimbao"
+    },
+    {
+      "id": 160685,
+      "name": "Salunayan"
+    },
+    {
+      "id": 160686,
+      "name": "Salvador"
+    },
+    {
+      "id": 160687,
+      "name": "Sampao"
+    },
+    {
+      "id": 160688,
+      "name": "San Miguel"
+    },
+    {
+      "id": 160689,
+      "name": "San Vicente"
+    },
+    {
+      "id": 160690,
+      "name": "Sangay"
+    },
+    {
+      "id": 160691,
+      "name": "Santo Niño"
+    },
+    {
+      "id": 160692,
+      "name": "Sapad"
+    },
+    {
+      "id": 160693,
+      "name": "Sapu Padidu"
+    },
+    {
+      "id": 160694,
+      "name": "Silway 7"
+    },
+    {
+      "id": 160695,
+      "name": "Sinolon"
+    },
+    {
+      "id": 160696,
+      "name": "Sulit"
+    },
+    {
+      "id": 160697,
+      "name": "Surallah"
+    },
+    {
+      "id": 160698,
+      "name": "Suyan"
+    },
+    {
+      "id": 160699,
+      "name": "Tacurong"
+    },
+    {
+      "id": 160700,
+      "name": "Taguisa"
+    },
+    {
+      "id": 160701,
+      "name": "Taluya"
+    },
+    {
+      "id": 160702,
+      "name": "Tambak"
+    },
+    {
+      "id": 160703,
+      "name": "Tambilil"
+    },
+    {
+      "id": 160704,
+      "name": "Tamnag"
+    },
+    {
+      "id": 160705,
+      "name": "Tamontaka"
+    },
+    {
+      "id": 160706,
+      "name": "Tampakan"
+    },
+    {
+      "id": 160707,
+      "name": "Tañgo"
+    },
+    {
+      "id": 160708,
+      "name": "Tantangan"
+    },
+    {
+      "id": 160709,
+      "name": "Telafas"
+    },
+    {
+      "id": 160710,
+      "name": "Teresita"
+    },
+    {
+      "id": 160711,
+      "name": "Tinagacan"
+    },
+    {
+      "id": 160712,
+      "name": "Tinoto"
+    },
+    {
+      "id": 160713,
+      "name": "Tomado"
+    },
+    {
+      "id": 160714,
+      "name": "Tran"
+    },
+    {
+      "id": 160715,
+      "name": "Tuka"
+    },
+    {
+      "id": 160716,
+      "name": "Tulunan"
+    },
+    {
+      "id": 160717,
+      "name": "Tupi"
+    },
+    {
+      "id": 160718,
+      "name": "Tuyan"
+    },
+    {
+      "id": 160719,
+      "name": "Upper Klinan"
+    },
+    {
+      "id": 160720,
+      "name": "Upper San Mateo"
+    },
+    {
+      "id": 160721,
+      "name": "Villamor"
+    }
+  ]
+}

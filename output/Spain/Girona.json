@@ -1,0 +1,887 @@
+{
+  "id": 6527,
+  "name": "Girona",
+  "state_code": "GI",
+  "cities": [
+    {
+      "id": 184329,
+      "name": "Agullana"
+    },
+    {
+      "id": 184330,
+      "name": "Aiguaviva"
+    },
+    {
+      "id": 184331,
+      "name": "Albanyà"
+    },
+    {
+      "id": 184332,
+      "name": "Albons"
+    },
+    {
+      "id": 184333,
+      "name": "Alp"
+    },
+    {
+      "id": 184334,
+      "name": "Amer"
+    },
+    {
+      "id": 184335,
+      "name": "Anglès"
+    },
+    {
+      "id": 184336,
+      "name": "Arbúcies"
+    },
+    {
+      "id": 184337,
+      "name": "Argelaguer"
+    },
+    {
+      "id": 184338,
+      "name": "Armentera L"
+    },
+    {
+      "id": 184339,
+      "name": "Avinyonet de Puigventós"
+    },
+    {
+      "id": 184340,
+      "name": "Banyoles"
+    },
+    {
+      "id": 184341,
+      "name": "Bàscara"
+    },
+    {
+      "id": 184342,
+      "name": "Begur"
+    },
+    {
+      "id": 184343,
+      "name": "Bellcaire dEmpordà"
+    },
+    {
+      "id": 184344,
+      "name": "Besalú"
+    },
+    {
+      "id": 184345,
+      "name": "Bescanó"
+    },
+    {
+      "id": 184346,
+      "name": "Beuda"
+    },
+    {
+      "id": 184347,
+      "name": "Bisbal dEmpordà La"
+    },
+    {
+      "id": 184348,
+      "name": "Biure"
+    },
+    {
+      "id": 184349,
+      "name": "Blanes"
+    },
+    {
+      "id": 184350,
+      "name": "Boadella i les Escaules"
+    },
+    {
+      "id": 184351,
+      "name": "Bolvir"
+    },
+    {
+      "id": 184352,
+      "name": "Bordils"
+    },
+    {
+      "id": 184353,
+      "name": "Borrassà"
+    },
+    {
+      "id": 184354,
+      "name": "Breda"
+    },
+    {
+      "id": 184355,
+      "name": "Brunyola"
+    },
+    {
+      "id": 184356,
+      "name": "Cabanelles"
+    },
+    {
+      "id": 184357,
+      "name": "Cadaqués"
+    },
+    {
+      "id": 184358,
+      "name": "Caldes de Malavella"
+    },
+    {
+      "id": 184359,
+      "name": "Calonge"
+    },
+    {
+      "id": 184360,
+      "name": "Camós"
+    },
+    {
+      "id": 184361,
+      "name": "Campdevànol"
+    },
+    {
+      "id": 184362,
+      "name": "Campelles"
+    },
+    {
+      "id": 184363,
+      "name": "Campllong"
+    },
+    {
+      "id": 184364,
+      "name": "Camprodon"
+    },
+    {
+      "id": 184365,
+      "name": "Canet dAdri"
+    },
+    {
+      "id": 184366,
+      "name": "Cantallops"
+    },
+    {
+      "id": 184367,
+      "name": "Capmany"
+    },
+    {
+      "id": 184368,
+      "name": "Cassà de la Selva"
+    },
+    {
+      "id": 184369,
+      "name": "Castell-Platja dAro"
+    },
+    {
+      "id": 184370,
+      "name": "Castellfollit de la Roca"
+    },
+    {
+      "id": 184371,
+      "name": "Castelló dEmpúries"
+    },
+    {
+      "id": 184372,
+      "name": "Cellera de Ter La"
+    },
+    {
+      "id": 184373,
+      "name": "Celrà"
+    },
+    {
+      "id": 184374,
+      "name": "Cervià de Ter"
+    },
+    {
+      "id": 184375,
+      "name": "Cistella"
+    },
+    {
+      "id": 184376,
+      "name": "Colera"
+    },
+    {
+      "id": 184377,
+      "name": "Colomers"
+    },
+    {
+      "id": 184378,
+      "name": "Corçà"
+    },
+    {
+      "id": 184379,
+      "name": "Cornellà del Terri"
+    },
+    {
+      "id": 184380,
+      "name": "Crespià"
+    },
+    {
+      "id": 184381,
+      "name": "Cruïlles  Monells i Sant Sadurní de lHeura"
+    },
+    {
+      "id": 184382,
+      "name": "Darnius"
+    },
+    {
+      "id": 184383,
+      "name": "Das"
+    },
+    {
+      "id": 184384,
+      "name": "Escala L"
+    },
+    {
+      "id": 184385,
+      "name": "Espinelves"
+    },
+    {
+      "id": 184386,
+      "name": "Espolla"
+    },
+    {
+      "id": 184387,
+      "name": "Esponellà"
+    },
+    {
+      "id": 184388,
+      "name": "Far dEmpordà El"
+    },
+    {
+      "id": 184389,
+      "name": "Figueres"
+    },
+    {
+      "id": 184390,
+      "name": "Flaçà"
+    },
+    {
+      "id": 184391,
+      "name": "Foixà"
+    },
+    {
+      "id": 184392,
+      "name": "Fontanals de Cerdanya"
+    },
+    {
+      "id": 184393,
+      "name": "Fontanilles"
+    },
+    {
+      "id": 184394,
+      "name": "Fontcoberta"
+    },
+    {
+      "id": 184395,
+      "name": "Forallac"
+    },
+    {
+      "id": 184396,
+      "name": "Fornells de la Selva"
+    },
+    {
+      "id": 184397,
+      "name": "Fortià"
+    },
+    {
+      "id": 184398,
+      "name": "Garrigàs"
+    },
+    {
+      "id": 184399,
+      "name": "Garrigoles"
+    },
+    {
+      "id": 184400,
+      "name": "Garriguella"
+    },
+    {
+      "id": 184401,
+      "name": "Ger"
+    },
+    {
+      "id": 184402,
+      "name": "Girona"
+    },
+    {
+      "id": 184403,
+      "name": "Gombrèn"
+    },
+    {
+      "id": 184404,
+      "name": "Gualta"
+    },
+    {
+      "id": 184405,
+      "name": "Guils de Cerdanya"
+    },
+    {
+      "id": 184406,
+      "name": "Hostalric"
+    },
+    {
+      "id": 184407,
+      "name": "Isòvol"
+    },
+    {
+      "id": 184408,
+      "name": "Jafre"
+    },
+    {
+      "id": 184409,
+      "name": "Jonquera La"
+    },
+    {
+      "id": 184410,
+      "name": "Juià"
+    },
+    {
+      "id": 184411,
+      "name": "Lladó"
+    },
+    {
+      "id": 184412,
+      "name": "Llagostera"
+    },
+    {
+      "id": 184413,
+      "name": "Llambilles"
+    },
+    {
+      "id": 184414,
+      "name": "Llanars"
+    },
+    {
+      "id": 184415,
+      "name": "Llançà"
+    },
+    {
+      "id": 184416,
+      "name": "Llers"
+    },
+    {
+      "id": 184417,
+      "name": "Llívia"
+    },
+    {
+      "id": 184418,
+      "name": "Lloret de Mar"
+    },
+    {
+      "id": 184419,
+      "name": "Llosses Les"
+    },
+    {
+      "id": 184420,
+      "name": "Maçanet de Cabrenys"
+    },
+    {
+      "id": 184421,
+      "name": "Maçanet de la Selva"
+    },
+    {
+      "id": 184422,
+      "name": "Madremanya"
+    },
+    {
+      "id": 184423,
+      "name": "Maià de Montcal"
+    },
+    {
+      "id": 184424,
+      "name": "Masarac"
+    },
+    {
+      "id": 184425,
+      "name": "Massanes"
+    },
+    {
+      "id": 184426,
+      "name": "Meranges"
+    },
+    {
+      "id": 184427,
+      "name": "Mieres"
+    },
+    {
+      "id": 184428,
+      "name": "Mollet de Peralada"
+    },
+    {
+      "id": 184429,
+      "name": "Molló"
+    },
+    {
+      "id": 184430,
+      "name": "Mont-ras"
+    },
+    {
+      "id": 184431,
+      "name": "Montagut i Oix"
+    },
+    {
+      "id": 184432,
+      "name": "Navata"
+    },
+    {
+      "id": 184433,
+      "name": "Ogassa"
+    },
+    {
+      "id": 184434,
+      "name": "Olot"
+    },
+    {
+      "id": 184435,
+      "name": "Ordis"
+    },
+    {
+      "id": 184436,
+      "name": "Osor"
+    },
+    {
+      "id": 184437,
+      "name": "Palafrugell"
+    },
+    {
+      "id": 184438,
+      "name": "Palamós"
+    },
+    {
+      "id": 184439,
+      "name": "Palau de Santa Eulàlia"
+    },
+    {
+      "id": 184440,
+      "name": "Palau-sator"
+    },
+    {
+      "id": 184441,
+      "name": "Palau-saverdera"
+    },
+    {
+      "id": 184442,
+      "name": "Palol de Revardit"
+    },
+    {
+      "id": 184443,
+      "name": "Pals"
+    },
+    {
+      "id": 184444,
+      "name": "Pardines"
+    },
+    {
+      "id": 184445,
+      "name": "Parlavà"
+    },
+    {
+      "id": 184446,
+      "name": "Pau"
+    },
+    {
+      "id": 184447,
+      "name": "Pedret i Marzà"
+    },
+    {
+      "id": 184448,
+      "name": "Pera La"
+    },
+    {
+      "id": 184449,
+      "name": "Peralada"
+    },
+    {
+      "id": 184450,
+      "name": "Planes dHostoles Les"
+    },
+    {
+      "id": 184451,
+      "name": "Planoles"
+    },
+    {
+      "id": 184452,
+      "name": "Pont de Molins"
+    },
+    {
+      "id": 184453,
+      "name": "Pontós"
+    },
+    {
+      "id": 184454,
+      "name": "Porqueres"
+    },
+    {
+      "id": 184455,
+      "name": "Port de la Selva El"
+    },
+    {
+      "id": 184456,
+      "name": "Portbou"
+    },
+    {
+      "id": 184457,
+      "name": "Preses Les"
+    },
+    {
+      "id": 184458,
+      "name": "Puigcerdà"
+    },
+    {
+      "id": 184459,
+      "name": "Quart"
+    },
+    {
+      "id": 184460,
+      "name": "Queralbs"
+    },
+    {
+      "id": 184461,
+      "name": "Rabós"
+    },
+    {
+      "id": 184462,
+      "name": "Regencós"
+    },
+    {
+      "id": 184463,
+      "name": "Ribes de Freser"
+    },
+    {
+      "id": 184464,
+      "name": "Riells i Viabrea"
+    },
+    {
+      "id": 184465,
+      "name": "Ripoll"
+    },
+    {
+      "id": 184466,
+      "name": "Riudarenes"
+    },
+    {
+      "id": 184467,
+      "name": "Riudaura"
+    },
+    {
+      "id": 184468,
+      "name": "Riudellots de la Selva"
+    },
+    {
+      "id": 184469,
+      "name": "Riumors"
+    },
+    {
+      "id": 184470,
+      "name": "Roses"
+    },
+    {
+      "id": 184471,
+      "name": "Rupià"
+    },
+    {
+      "id": 184472,
+      "name": "Sales de Llierca"
+    },
+    {
+      "id": 184473,
+      "name": "Salt"
+    },
+    {
+      "id": 184474,
+      "name": "Sant Andreu Salou"
+    },
+    {
+      "id": 184475,
+      "name": "Sant Aniol de Finestres"
+    },
+    {
+      "id": 184476,
+      "name": "Sant Climent Sescebes"
+    },
+    {
+      "id": 184477,
+      "name": "Sant Feliu de Buixalleu"
+    },
+    {
+      "id": 184478,
+      "name": "Sant Feliu de Guíxols"
+    },
+    {
+      "id": 184479,
+      "name": "Sant Feliu de Pallerols"
+    },
+    {
+      "id": 184480,
+      "name": "Sant Ferriol"
+    },
+    {
+      "id": 184481,
+      "name": "Sant Gregori"
+    },
+    {
+      "id": 184482,
+      "name": "Sant Hilari Sacalm"
+    },
+    {
+      "id": 184483,
+      "name": "Sant Jaume de Llierca"
+    },
+    {
+      "id": 184484,
+      "name": "Sant Joan de les Abadesses"
+    },
+    {
+      "id": 184485,
+      "name": "Sant Joan de Mollet"
+    },
+    {
+      "id": 184486,
+      "name": "Sant Joan les Fonts"
+    },
+    {
+      "id": 184487,
+      "name": "Sant Jordi Desvalls"
+    },
+    {
+      "id": 184488,
+      "name": "Sant Julià de Ramis"
+    },
+    {
+      "id": 184489,
+      "name": "Sant Julià del Llor i Bonmatí"
+    },
+    {
+      "id": 184490,
+      "name": "Sant Llorenç de la Muga"
+    },
+    {
+      "id": 184491,
+      "name": "Sant Martí de Llémena"
+    },
+    {
+      "id": 184492,
+      "name": "Sant Martí Vell"
+    },
+    {
+      "id": 184493,
+      "name": "Sant Miquel de Campmajor"
+    },
+    {
+      "id": 184494,
+      "name": "Sant Miquel de Fluvià"
+    },
+    {
+      "id": 184495,
+      "name": "Sant Mori"
+    },
+    {
+      "id": 184496,
+      "name": "Sant Pau de Segúries"
+    },
+    {
+      "id": 184497,
+      "name": "Sant Pere Pescador"
+    },
+    {
+      "id": 184498,
+      "name": "Santa Coloma de Farners"
+    },
+    {
+      "id": 184499,
+      "name": "Santa Cristina dAro"
+    },
+    {
+      "id": 184500,
+      "name": "Santa Llogaia dÀlguema"
+    },
+    {
+      "id": 184501,
+      "name": "Santa Pau"
+    },
+    {
+      "id": 184502,
+      "name": "Sarrià de Ter"
+    },
+    {
+      "id": 184503,
+      "name": "Saus  Camallera i Llampaies"
+    },
+    {
+      "id": 184504,
+      "name": "Selva de Mar La"
+    },
+    {
+      "id": 184505,
+      "name": "Serinyà"
+    },
+    {
+      "id": 184506,
+      "name": "Serra de Daró"
+    },
+    {
+      "id": 184507,
+      "name": "Setcases"
+    },
+    {
+      "id": 184508,
+      "name": "Sils"
+    },
+    {
+      "id": 184509,
+      "name": "Siurana"
+    },
+    {
+      "id": 184510,
+      "name": "Susqueda"
+    },
+    {
+      "id": 184511,
+      "name": "Tallada dEmpordà La"
+    },
+    {
+      "id": 184512,
+      "name": "Terrades"
+    },
+    {
+      "id": 184513,
+      "name": "Torrent"
+    },
+    {
+      "id": 184514,
+      "name": "Torroella de Fluvià"
+    },
+    {
+      "id": 184515,
+      "name": "Torroella de Montgrí"
+    },
+    {
+      "id": 184516,
+      "name": "Tortellà"
+    },
+    {
+      "id": 184517,
+      "name": "Toses"
+    },
+    {
+      "id": 184518,
+      "name": "Tossa de Mar"
+    },
+    {
+      "id": 184519,
+      "name": "Ullà"
+    },
+    {
+      "id": 184520,
+      "name": "Ullastret"
+    },
+    {
+      "id": 184521,
+      "name": "Ultramort"
+    },
+    {
+      "id": 184522,
+      "name": "Urús"
+    },
+    {
+      "id": 184523,
+      "name": "Vajol La"
+    },
+    {
+      "id": 184524,
+      "name": "Vall de Bianya La"
+    },
+    {
+      "id": 184525,
+      "name": "Vall den Bas La"
+    },
+    {
+      "id": 184526,
+      "name": "Vall-llobrega"
+    },
+    {
+      "id": 184527,
+      "name": "Vallfogona de Ripollès"
+    },
+    {
+      "id": 184528,
+      "name": "Ventalló"
+    },
+    {
+      "id": 184529,
+      "name": "Verges"
+    },
+    {
+      "id": 184530,
+      "name": "Vidrà"
+    },
+    {
+      "id": 184531,
+      "name": "Vidreres"
+    },
+    {
+      "id": 184532,
+      "name": "Vila-sacra"
+    },
+    {
+      "id": 184533,
+      "name": "Vilabertran"
+    },
+    {
+      "id": 184534,
+      "name": "Vilablareix"
+    },
+    {
+      "id": 184535,
+      "name": "Viladamat"
+    },
+    {
+      "id": 184536,
+      "name": "Viladasens"
+    },
+    {
+      "id": 184537,
+      "name": "Vilademuls"
+    },
+    {
+      "id": 184538,
+      "name": "Viladrau"
+    },
+    {
+      "id": 184539,
+      "name": "Vilafant"
+    },
+    {
+      "id": 184540,
+      "name": "Vilajuïga"
+    },
+    {
+      "id": 184541,
+      "name": "Vilallonga de Ter"
+    },
+    {
+      "id": 184542,
+      "name": "Vilamacolum"
+    },
+    {
+      "id": 184543,
+      "name": "Vilamalla"
+    },
+    {
+      "id": 184544,
+      "name": "Vilamaniscle"
+    },
+    {
+      "id": 184545,
+      "name": "Vilanant"
+    },
+    {
+      "id": 184546,
+      "name": "Vilaür"
+    },
+    {
+      "id": 184547,
+      "name": "Vilobí dOnyar"
+    },
+    {
+      "id": 184548,
+      "name": "Vilopriu"
+    }
+  ]
+}

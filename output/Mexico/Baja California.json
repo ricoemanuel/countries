@@ -1,0 +1,387 @@
+{
+  "id": 5124,
+  "name": "Baja California",
+  "state_code": "BCN",
+  "cities": [
+    {
+      "id": 138999,
+      "name": "Alfonso Garzón [Granjas Familiares]"
+    },
+    {
+      "id": 139000,
+      "name": "Benito García (El Zorrillo)"
+    },
+    {
+      "id": 139001,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 139002,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 139003,
+      "name": "Camalú"
+    },
+    {
+      "id": 139004,
+      "name": "Cereso del Hongo"
+    },
+    {
+      "id": 139005,
+      "name": "Ciudad Coahuila (Kilómetro Cincuenta y Siete)"
+    },
+    {
+      "id": 139006,
+      "name": "Ciudad Morelos"
+    },
+    {
+      "id": 139007,
+      "name": "Colinas del Sol"
+    },
+    {
+      "id": 139008,
+      "name": "Colonia Gómez Morín"
+    },
+    {
+      "id": 139009,
+      "name": "Colonia Lomas de San Ramón (Triquis)"
+    },
+    {
+      "id": 139010,
+      "name": "Colonia Nueva Era"
+    },
+    {
+      "id": 139011,
+      "name": "Colonia Venustiano Carranza"
+    },
+    {
+      "id": 139012,
+      "name": "Delta"
+    },
+    {
+      "id": 139013,
+      "name": "Doctor Alberto Oviedo Mota"
+    },
+    {
+      "id": 139014,
+      "name": "Durango"
+    },
+    {
+      "id": 139015,
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)"
+    },
+    {
+      "id": 139016,
+      "name": "Ejido General Leandro Valle"
+    },
+    {
+      "id": 139017,
+      "name": "Ejido Javier Rojo Gómez"
+    },
+    {
+      "id": 139018,
+      "name": "Ejido Jiquilpan"
+    },
+    {
+      "id": 139019,
+      "name": "Ejido Lázaro Cárdenas"
+    },
+    {
+      "id": 139020,
+      "name": "Ejido Michoacán de Ocampo"
+    },
+    {
+      "id": 139021,
+      "name": "Ejido Netzahualcóyotl"
+    },
+    {
+      "id": 139022,
+      "name": "Ejido Nuevo León"
+    },
+    {
+      "id": 139023,
+      "name": "Ejido Ojo de Agua"
+    },
+    {
+      "id": 139024,
+      "name": "Ejido Pátzcuaro"
+    },
+    {
+      "id": 139025,
+      "name": "Ejido Plan de Ayala"
+    },
+    {
+      "id": 139026,
+      "name": "Ejido Quintana Roo"
+    },
+    {
+      "id": 139027,
+      "name": "Ejido Saltillo"
+    },
+    {
+      "id": 139028,
+      "name": "Ejido Sinaloa"
+    },
+    {
+      "id": 139029,
+      "name": "Ejido Sonora"
+    },
+    {
+      "id": 139030,
+      "name": "Ejido Tabasco"
+    },
+    {
+      "id": 139031,
+      "name": "Ejido Toluca"
+    },
+    {
+      "id": 139032,
+      "name": "Ejido Vicente Guerrero"
+    },
+    {
+      "id": 139033,
+      "name": "Ejido Yucatán"
+    },
+    {
+      "id": 139034,
+      "name": "El Niño"
+    },
+    {
+      "id": 139035,
+      "name": "El Porvenir"
+    },
+    {
+      "id": 139036,
+      "name": "El Rosario de Arriba"
+    },
+    {
+      "id": 139037,
+      "name": "El Sauzal de Rodríguez"
+    },
+    {
+      "id": 139038,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 139039,
+      "name": "Ensenada"
+    },
+    {
+      "id": 139040,
+      "name": "Estación Coahuila"
+    },
+    {
+      "id": 139041,
+      "name": "Estación Pescaderos"
+    },
+    {
+      "id": 139042,
+      "name": "Fraccionamiento del Valle"
+    },
+    {
+      "id": 139043,
+      "name": "Francisco Zarco"
+    },
+    {
+      "id": 139044,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 139045,
+      "name": "Guerrero Negro"
+    },
+    {
+      "id": 139046,
+      "name": "Hacienda Tecate"
+    },
+    {
+      "id": 139047,
+      "name": "Hermosillo"
+    },
+    {
+      "id": 139048,
+      "name": "Islas Agrarias Grupo A"
+    },
+    {
+      "id": 139049,
+      "name": "Islas Agrarias Grupo B"
+    },
+    {
+      "id": 139050,
+      "name": "La Esperanza [Granjas Familiares]"
+    },
+    {
+      "id": 139051,
+      "name": "La Providencia"
+    },
+    {
+      "id": 139052,
+      "name": "Las Brisas"
+    },
+    {
+      "id": 139053,
+      "name": "Las Delicias"
+    },
+    {
+      "id": 139054,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 139055,
+      "name": "Licenciado Gustavo Díaz Ordaz"
+    },
+    {
+      "id": 139056,
+      "name": "Lomas de Santa Anita"
+    },
+    {
+      "id": 139057,
+      "name": "Lomas de Tlatelolco"
+    },
+    {
+      "id": 139058,
+      "name": "Los Algodones"
+    },
+    {
+      "id": 139059,
+      "name": "Los Valles"
+    },
+    {
+      "id": 139060,
+      "name": "Luis Rodríguez (El Vergel)"
+    },
+    {
+      "id": 139061,
+      "name": "Maclovio Herrera (Colonia Aviación)"
+    },
+    {
+      "id": 139062,
+      "name": "Maclovio Rojas"
+    },
+    {
+      "id": 139063,
+      "name": "Mexicali"
+    },
+    {
+      "id": 139064,
+      "name": "Playas de Rosarito"
+    },
+    {
+      "id": 139065,
+      "name": "Poblado Chulavista (El Chorizo)"
+    },
+    {
+      "id": 139066,
+      "name": "Poblado Lázaro Cárdenas (La Veintiocho)"
+    },
+    {
+      "id": 139067,
+      "name": "Pórticos de San Antonio"
+    },
+    {
+      "id": 139068,
+      "name": "Primo Tapia"
+    },
+    {
+      "id": 139069,
+      "name": "Progreso"
+    },
+    {
+      "id": 139070,
+      "name": "Puebla"
+    },
+    {
+      "id": 139071,
+      "name": "Pueblo Benito García"
+    },
+    {
+      "id": 139072,
+      "name": "Quinta del Cedro"
+    },
+    {
+      "id": 139073,
+      "name": "Rancho La Gloria"
+    },
+    {
+      "id": 139074,
+      "name": "Rancho Verde"
+    },
+    {
+      "id": 139075,
+      "name": "Rodolfo Sánchez Taboada"
+    },
+    {
+      "id": 139076,
+      "name": "Rosarito"
+    },
+    {
+      "id": 139077,
+      "name": "Rumorosa"
+    },
+    {
+      "id": 139078,
+      "name": "Salvador Rosas Magallón"
+    },
+    {
+      "id": 139079,
+      "name": "San Felipe"
+    },
+    {
+      "id": 139080,
+      "name": "San Luis"
+    },
+    {
+      "id": 139081,
+      "name": "San Quintín"
+    },
+    {
+      "id": 139082,
+      "name": "San Vicente"
+    },
+    {
+      "id": 139083,
+      "name": "Santa Anita"
+    },
+    {
+      "id": 139084,
+      "name": "Santa Fé"
+    },
+    {
+      "id": 139085,
+      "name": "Santa Isabel"
+    },
+    {
+      "id": 139086,
+      "name": "Tecate"
+    },
+    {
+      "id": 139087,
+      "name": "Tecolots"
+    },
+    {
+      "id": 139088,
+      "name": "Terrazas del Valle"
+    },
+    {
+      "id": 139089,
+      "name": "Tijuana"
+    },
+    {
+      "id": 139090,
+      "name": "Vicente Guerrero"
+    },
+    {
+      "id": 139091,
+      "name": "Villa del Campo"
+    },
+    {
+      "id": 139092,
+      "name": "Villa del Prado 2da Sección"
+    },
+    {
+      "id": 139093,
+      "name": "Viñas del Sol"
+    }
+  ]
+}

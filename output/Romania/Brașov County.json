@@ -1,0 +1,535 @@
+{
+  "id": 5962,
+  "name": "Brașov County",
+  "state_code": "BV",
+  "cities": [
+    {
+      "id": 166971,
+      "name": "Acriș"
+    },
+    {
+      "id": 166972,
+      "name": "Apaţa"
+    },
+    {
+      "id": 166973,
+      "name": "Augustin"
+    },
+    {
+      "id": 166974,
+      "name": "Beclean"
+    },
+    {
+      "id": 166975,
+      "name": "Bod"
+    },
+    {
+      "id": 166976,
+      "name": "Bran"
+    },
+    {
+      "id": 166977,
+      "name": "Braşov"
+    },
+    {
+      "id": 166978,
+      "name": "Budila"
+    },
+    {
+      "id": 166979,
+      "name": "Buneşti"
+    },
+    {
+      "id": 166980,
+      "name": "Caţa"
+    },
+    {
+      "id": 166981,
+      "name": "Cincu"
+    },
+    {
+      "id": 166982,
+      "name": "Codlea"
+    },
+    {
+      "id": 166983,
+      "name": "Colonia Bod"
+    },
+    {
+      "id": 166984,
+      "name": "Comana de Jos"
+    },
+    {
+      "id": 166985,
+      "name": "Comana de Sus"
+    },
+    {
+      "id": 166986,
+      "name": "Comuna Apaţa"
+    },
+    {
+      "id": 166987,
+      "name": "Comuna Augustin"
+    },
+    {
+      "id": 166988,
+      "name": "Comuna Beclean"
+    },
+    {
+      "id": 166989,
+      "name": "Comuna Bod"
+    },
+    {
+      "id": 166990,
+      "name": "Comuna Bran"
+    },
+    {
+      "id": 166991,
+      "name": "Comuna Budila"
+    },
+    {
+      "id": 166992,
+      "name": "Comuna Buneşti"
+    },
+    {
+      "id": 166993,
+      "name": "Comuna Caţa"
+    },
+    {
+      "id": 166994,
+      "name": "Comuna Cincu"
+    },
+    {
+      "id": 166995,
+      "name": "Comuna Comana"
+    },
+    {
+      "id": 166996,
+      "name": "Comuna Cristian"
+    },
+    {
+      "id": 166997,
+      "name": "Comuna Crizbav"
+    },
+    {
+      "id": 166998,
+      "name": "Comuna Drăguş"
+    },
+    {
+      "id": 166999,
+      "name": "Comuna Dumbrăviţa"
+    },
+    {
+      "id": 167000,
+      "name": "Comuna Feldioara"
+    },
+    {
+      "id": 167001,
+      "name": "Comuna Fundata"
+    },
+    {
+      "id": 167002,
+      "name": "Comuna Hălchiu"
+    },
+    {
+      "id": 167003,
+      "name": "Comuna Hărman"
+    },
+    {
+      "id": 167004,
+      "name": "Comuna Hârşeni"
+    },
+    {
+      "id": 167005,
+      "name": "Comuna Hoghiz"
+    },
+    {
+      "id": 167006,
+      "name": "Comuna Holbav"
+    },
+    {
+      "id": 167007,
+      "name": "Comuna Homorod"
+    },
+    {
+      "id": 167008,
+      "name": "Comuna Jibert"
+    },
+    {
+      "id": 167009,
+      "name": "Comuna Lisa"
+    },
+    {
+      "id": 167010,
+      "name": "Comuna Mãieruş"
+    },
+    {
+      "id": 167011,
+      "name": "Comuna Mândra"
+    },
+    {
+      "id": 167012,
+      "name": "Comuna Moieciu"
+    },
+    {
+      "id": 167013,
+      "name": "Comuna Ormeniş"
+    },
+    {
+      "id": 167014,
+      "name": "Comuna Pârâu"
+    },
+    {
+      "id": 167015,
+      "name": "Comuna Poiana Mărului (Brașov)"
+    },
+    {
+      "id": 167016,
+      "name": "Comuna Prejmer"
+    },
+    {
+      "id": 167017,
+      "name": "Comuna Racoş"
+    },
+    {
+      "id": 167018,
+      "name": "Comuna Recea"
+    },
+    {
+      "id": 167019,
+      "name": "Comuna Sâmbăta de Sus"
+    },
+    {
+      "id": 167020,
+      "name": "Comuna Sânpetru"
+    },
+    {
+      "id": 167021,
+      "name": "Comuna Şercaia"
+    },
+    {
+      "id": 167022,
+      "name": "Comuna Şinca Nouă"
+    },
+    {
+      "id": 167023,
+      "name": "Comuna Şinca Veche"
+    },
+    {
+      "id": 167024,
+      "name": "Comuna Şoarş"
+    },
+    {
+      "id": 167025,
+      "name": "Comuna Tărlungeni"
+    },
+    {
+      "id": 167026,
+      "name": "Comuna Teliu"
+    },
+    {
+      "id": 167027,
+      "name": "Comuna Ticuşu Vechi"
+    },
+    {
+      "id": 167028,
+      "name": "Comuna Ucea de Jos"
+    },
+    {
+      "id": 167029,
+      "name": "Comuna Ungra"
+    },
+    {
+      "id": 167030,
+      "name": "Comuna Vama Buzăului"
+    },
+    {
+      "id": 167031,
+      "name": "Comuna Viştea de Jos"
+    },
+    {
+      "id": 167032,
+      "name": "Comuna Voila"
+    },
+    {
+      "id": 167033,
+      "name": "Comuna Vulcan"
+    },
+    {
+      "id": 167034,
+      "name": "Cristian"
+    },
+    {
+      "id": 167035,
+      "name": "Crivina"
+    },
+    {
+      "id": 167036,
+      "name": "Crizbav"
+    },
+    {
+      "id": 167037,
+      "name": "Cuciulata"
+    },
+    {
+      "id": 167038,
+      "name": "Drăguș"
+    },
+    {
+      "id": 167039,
+      "name": "Dumbrăviţa"
+    },
+    {
+      "id": 167040,
+      "name": "Făgăraș"
+    },
+    {
+      "id": 167041,
+      "name": "Feldioara"
+    },
+    {
+      "id": 167042,
+      "name": "Fișer"
+    },
+    {
+      "id": 167043,
+      "name": "Fundata"
+    },
+    {
+      "id": 167044,
+      "name": "Ghimbav"
+    },
+    {
+      "id": 167045,
+      "name": "Hălchiu"
+    },
+    {
+      "id": 167046,
+      "name": "Hărman"
+    },
+    {
+      "id": 167047,
+      "name": "Hârşeni"
+    },
+    {
+      "id": 167048,
+      "name": "Hoghiz"
+    },
+    {
+      "id": 167049,
+      "name": "Holbav"
+    },
+    {
+      "id": 167050,
+      "name": "Homorod"
+    },
+    {
+      "id": 167051,
+      "name": "Jibert"
+    },
+    {
+      "id": 167052,
+      "name": "Lisa"
+    },
+    {
+      "id": 167053,
+      "name": "Măieruş"
+    },
+    {
+      "id": 167054,
+      "name": "Mândra"
+    },
+    {
+      "id": 167055,
+      "name": "Moeciu de Jos"
+    },
+    {
+      "id": 167056,
+      "name": "Moieciu de Jos"
+    },
+    {
+      "id": 167057,
+      "name": "Municipiul  Codlea"
+    },
+    {
+      "id": 167058,
+      "name": "Municipiul Braşov"
+    },
+    {
+      "id": 167059,
+      "name": "Municipiul Fãgãraş"
+    },
+    {
+      "id": 167060,
+      "name": "Municipiul Sãcele"
+    },
+    {
+      "id": 167061,
+      "name": "Oraş Ghimbav"
+    },
+    {
+      "id": 167062,
+      "name": "Oraş Predeal"
+    },
+    {
+      "id": 167063,
+      "name": "Oraş Râşnov"
+    },
+    {
+      "id": 167064,
+      "name": "Oraş Rupea"
+    },
+    {
+      "id": 167065,
+      "name": "Oraş Victoria"
+    },
+    {
+      "id": 167066,
+      "name": "Oraş Zãrneşti"
+    },
+    {
+      "id": 167067,
+      "name": "Ormeniş"
+    },
+    {
+      "id": 167068,
+      "name": "Pârâu"
+    },
+    {
+      "id": 167069,
+      "name": "Perșani"
+    },
+    {
+      "id": 167070,
+      "name": "Poiana Mărului (Brașov)"
+    },
+    {
+      "id": 167071,
+      "name": "Predeal"
+    },
+    {
+      "id": 167072,
+      "name": "Prejmer"
+    },
+    {
+      "id": 167073,
+      "name": "Purcăreni"
+    },
+    {
+      "id": 167074,
+      "name": "Racoș"
+    },
+    {
+      "id": 167075,
+      "name": "Râşnov"
+    },
+    {
+      "id": 167076,
+      "name": "Recea"
+    },
+    {
+      "id": 167077,
+      "name": "Rupea"
+    },
+    {
+      "id": 167078,
+      "name": "Săcele"
+    },
+    {
+      "id": 167079,
+      "name": "Sâmbăta de Sus"
+    },
+    {
+      "id": 167080,
+      "name": "Sânpetru"
+    },
+    {
+      "id": 167081,
+      "name": "Şercaia"
+    },
+    {
+      "id": 167082,
+      "name": "Șimon"
+    },
+    {
+      "id": 167083,
+      "name": "Șinca Nouă"
+    },
+    {
+      "id": 167084,
+      "name": "Şinca Veche"
+    },
+    {
+      "id": 167085,
+      "name": "Şoarş"
+    },
+    {
+      "id": 167086,
+      "name": "Sohodol"
+    },
+    {
+      "id": 167087,
+      "name": "Tărlungeni"
+    },
+    {
+      "id": 167088,
+      "name": "Teliu"
+    },
+    {
+      "id": 167089,
+      "name": "Ticuşu Vechi"
+    },
+    {
+      "id": 167090,
+      "name": "Tohanu Nou"
+    },
+    {
+      "id": 167091,
+      "name": "Tunelu-Teliu"
+    },
+    {
+      "id": 167092,
+      "name": "Ucea de Jos"
+    },
+    {
+      "id": 167093,
+      "name": "Ucea de Sus"
+    },
+    {
+      "id": 167094,
+      "name": "Ungra"
+    },
+    {
+      "id": 167095,
+      "name": "Vama Buzăului"
+    },
+    {
+      "id": 167096,
+      "name": "Victoria"
+    },
+    {
+      "id": 167097,
+      "name": "Viscri"
+    },
+    {
+      "id": 167098,
+      "name": "Viștea de Jos"
+    },
+    {
+      "id": 167099,
+      "name": "Voila"
+    },
+    {
+      "id": 167100,
+      "name": "Vulcan"
+    },
+    {
+      "id": 167101,
+      "name": "Zărnești"
+    },
+    {
+      "id": 167102,
+      "name": "Zizin"
+    }
+  ]
+}

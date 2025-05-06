@@ -1,0 +1,979 @@
+{
+  "id": 5958,
+  "name": "Bihor County",
+  "state_code": "BH",
+  "cities": [
+    {
+      "id": 166278,
+      "name": "Abram"
+    },
+    {
+      "id": 166279,
+      "name": "Abrămuţ"
+    },
+    {
+      "id": 166280,
+      "name": "Albiș"
+    },
+    {
+      "id": 166281,
+      "name": "Aleşd"
+    },
+    {
+      "id": 166282,
+      "name": "Alparea"
+    },
+    {
+      "id": 166283,
+      "name": "Aştileu"
+    },
+    {
+      "id": 166284,
+      "name": "Auşeu"
+    },
+    {
+      "id": 166285,
+      "name": "Avram Iancu"
+    },
+    {
+      "id": 166286,
+      "name": "Balc"
+    },
+    {
+      "id": 166287,
+      "name": "Bălnaca"
+    },
+    {
+      "id": 166288,
+      "name": "Batăr"
+    },
+    {
+      "id": 166289,
+      "name": "Beiuş"
+    },
+    {
+      "id": 166290,
+      "name": "Beznea"
+    },
+    {
+      "id": 166291,
+      "name": "Biharia"
+    },
+    {
+      "id": 166292,
+      "name": "Bistra"
+    },
+    {
+      "id": 166293,
+      "name": "Bogei"
+    },
+    {
+      "id": 166294,
+      "name": "Boianu Mare"
+    },
+    {
+      "id": 166295,
+      "name": "Borod"
+    },
+    {
+      "id": 166296,
+      "name": "Borş"
+    },
+    {
+      "id": 166297,
+      "name": "Bratca"
+    },
+    {
+      "id": 166298,
+      "name": "Brusturi"
+    },
+    {
+      "id": 166299,
+      "name": "Budureasa"
+    },
+    {
+      "id": 166300,
+      "name": "Buduslău"
+    },
+    {
+      "id": 166301,
+      "name": "Bulz"
+    },
+    {
+      "id": 166302,
+      "name": "Bunteşti"
+    },
+    {
+      "id": 166303,
+      "name": "Burzuc"
+    },
+    {
+      "id": 166304,
+      "name": "Căbeşti"
+    },
+    {
+      "id": 166305,
+      "name": "Cadea"
+    },
+    {
+      "id": 166306,
+      "name": "Călacea"
+    },
+    {
+      "id": 166307,
+      "name": "Câmpani"
+    },
+    {
+      "id": 166308,
+      "name": "Câmpani de Pomezeu"
+    },
+    {
+      "id": 166309,
+      "name": "Căpâlna"
+    },
+    {
+      "id": 166310,
+      "name": "Cărpinet"
+    },
+    {
+      "id": 166311,
+      "name": "Cefa"
+    },
+    {
+      "id": 166312,
+      "name": "Ceica"
+    },
+    {
+      "id": 166313,
+      "name": "Cetariu"
+    },
+    {
+      "id": 166314,
+      "name": "Cherechiu"
+    },
+    {
+      "id": 166315,
+      "name": "Cheșereu"
+    },
+    {
+      "id": 166316,
+      "name": "Cheț"
+    },
+    {
+      "id": 166317,
+      "name": "Chişlaz"
+    },
+    {
+      "id": 166318,
+      "name": "Ciumeghiu"
+    },
+    {
+      "id": 166319,
+      "name": "Ciutelec"
+    },
+    {
+      "id": 166320,
+      "name": "Cociuba Mare"
+    },
+    {
+      "id": 166321,
+      "name": "Comuna Abram"
+    },
+    {
+      "id": 166322,
+      "name": "Comuna Abrămuţ"
+    },
+    {
+      "id": 166323,
+      "name": "Comuna Aştileu"
+    },
+    {
+      "id": 166324,
+      "name": "Comuna Auşeu"
+    },
+    {
+      "id": 166325,
+      "name": "Comuna Avram Iancu"
+    },
+    {
+      "id": 166326,
+      "name": "Comuna Balc"
+    },
+    {
+      "id": 166327,
+      "name": "Comuna Batăr"
+    },
+    {
+      "id": 166328,
+      "name": "Comuna Biharia"
+    },
+    {
+      "id": 166329,
+      "name": "Comuna Boianu Mare"
+    },
+    {
+      "id": 166330,
+      "name": "Comuna Borod"
+    },
+    {
+      "id": 166331,
+      "name": "Comuna Borş"
+    },
+    {
+      "id": 166332,
+      "name": "Comuna Bratca"
+    },
+    {
+      "id": 166333,
+      "name": "Comuna Brusturi"
+    },
+    {
+      "id": 166334,
+      "name": "Comuna Budureasa"
+    },
+    {
+      "id": 166335,
+      "name": "Comuna Buduslău"
+    },
+    {
+      "id": 166336,
+      "name": "Comuna Bulz"
+    },
+    {
+      "id": 166337,
+      "name": "Comuna Bunteşti"
+    },
+    {
+      "id": 166338,
+      "name": "Comuna Căbeşti"
+    },
+    {
+      "id": 166339,
+      "name": "Comuna Câmpani"
+    },
+    {
+      "id": 166340,
+      "name": "Comuna Cãpâlna"
+    },
+    {
+      "id": 166341,
+      "name": "Comuna Cărpinet"
+    },
+    {
+      "id": 166342,
+      "name": "Comuna Cefa"
+    },
+    {
+      "id": 166343,
+      "name": "Comuna Ceica"
+    },
+    {
+      "id": 166344,
+      "name": "Comuna Cetariu"
+    },
+    {
+      "id": 166345,
+      "name": "Comuna Cherechiu"
+    },
+    {
+      "id": 166346,
+      "name": "Comuna Chişlaz"
+    },
+    {
+      "id": 166347,
+      "name": "Comuna Ciumeghiu"
+    },
+    {
+      "id": 166348,
+      "name": "Comuna Cociuba Mare"
+    },
+    {
+      "id": 166349,
+      "name": "Comuna Copăcel"
+    },
+    {
+      "id": 166350,
+      "name": "Comuna Criștioru de Jos"
+    },
+    {
+      "id": 166351,
+      "name": "Comuna Curăţele"
+    },
+    {
+      "id": 166352,
+      "name": "Comuna Curtuişeni"
+    },
+    {
+      "id": 166353,
+      "name": "Comuna Derna"
+    },
+    {
+      "id": 166354,
+      "name": "Comuna Diosig"
+    },
+    {
+      "id": 166355,
+      "name": "Comuna Dobreşti"
+    },
+    {
+      "id": 166356,
+      "name": "Comuna Drăgăneşti"
+    },
+    {
+      "id": 166357,
+      "name": "Comuna Drăgeşti"
+    },
+    {
+      "id": 166358,
+      "name": "Comuna Finiş"
+    },
+    {
+      "id": 166359,
+      "name": "Comuna Gepiu"
+    },
+    {
+      "id": 166360,
+      "name": "Comuna Girişu de Criş"
+    },
+    {
+      "id": 166361,
+      "name": "Comuna Hidişelu De Sus"
+    },
+    {
+      "id": 166362,
+      "name": "Comuna Holod"
+    },
+    {
+      "id": 166363,
+      "name": "Comuna Husasău de Tinca"
+    },
+    {
+      "id": 166364,
+      "name": "Comuna Ineu"
+    },
+    {
+      "id": 166365,
+      "name": "Comuna Lăzăreni"
+    },
+    {
+      "id": 166366,
+      "name": "Comuna Lazuri de Beiuş"
+    },
+    {
+      "id": 166367,
+      "name": "Comuna Lugaşu De Jos"
+    },
+    {
+      "id": 166368,
+      "name": "Comuna Lunca"
+    },
+    {
+      "id": 166369,
+      "name": "Comuna Mădăraş"
+    },
+    {
+      "id": 166370,
+      "name": "Comuna Măgeşti"
+    },
+    {
+      "id": 166371,
+      "name": "Comuna Nojorid"
+    },
+    {
+      "id": 166372,
+      "name": "Comuna Olcea"
+    },
+    {
+      "id": 166373,
+      "name": "Comuna Oşorhei"
+    },
+    {
+      "id": 166374,
+      "name": "Comuna Paleu"
+    },
+    {
+      "id": 166375,
+      "name": "Comuna Pietroasa"
+    },
+    {
+      "id": 166376,
+      "name": "Comuna Pocola"
+    },
+    {
+      "id": 166377,
+      "name": "Comuna Pomezeu"
+    },
+    {
+      "id": 166378,
+      "name": "Comuna Popeşti"
+    },
+    {
+      "id": 166379,
+      "name": "Comuna Răbăgani"
+    },
+    {
+      "id": 166380,
+      "name": "Comuna Remetea"
+    },
+    {
+      "id": 166381,
+      "name": "Comuna Rieni"
+    },
+    {
+      "id": 166382,
+      "name": "Comuna Roşia"
+    },
+    {
+      "id": 166383,
+      "name": "Comuna Roşiori"
+    },
+    {
+      "id": 166384,
+      "name": "Comuna Săcădat"
+    },
+    {
+      "id": 166385,
+      "name": "Comuna Sălacea"
+    },
+    {
+      "id": 166386,
+      "name": "Comuna Sălard"
+    },
+    {
+      "id": 166387,
+      "name": "Comuna Sâmbăta"
+    },
+    {
+      "id": 166388,
+      "name": "Comuna Sâniob"
+    },
+    {
+      "id": 166389,
+      "name": "Comuna Sânmartin"
+    },
+    {
+      "id": 166390,
+      "name": "Comuna Sânnicolau-Român"
+    },
+    {
+      "id": 166391,
+      "name": "Comuna Sântandrei"
+    },
+    {
+      "id": 166392,
+      "name": "Comuna Sârbi"
+    },
+    {
+      "id": 166393,
+      "name": "Comuna Şimian"
+    },
+    {
+      "id": 166394,
+      "name": "Comuna Şinteu"
+    },
+    {
+      "id": 166395,
+      "name": "Comuna Şoimi"
+    },
+    {
+      "id": 166396,
+      "name": "Comuna Spinuş"
+    },
+    {
+      "id": 166397,
+      "name": "Comuna Şuncuiuş"
+    },
+    {
+      "id": 166398,
+      "name": "Comuna Suplacu de Barcău"
+    },
+    {
+      "id": 166399,
+      "name": "Comuna Tãmãşeu"
+    },
+    {
+      "id": 166400,
+      "name": "Comuna Tărcaia"
+    },
+    {
+      "id": 166401,
+      "name": "Comuna Tarcea"
+    },
+    {
+      "id": 166402,
+      "name": "Comuna Tăuteu"
+    },
+    {
+      "id": 166403,
+      "name": "Comuna Ţeţchea"
+    },
+    {
+      "id": 166404,
+      "name": "Comuna Tileagd"
+    },
+    {
+      "id": 166405,
+      "name": "Comuna Tinca"
+    },
+    {
+      "id": 166406,
+      "name": "Comuna Toboliu"
+    },
+    {
+      "id": 166407,
+      "name": "Comuna Tulca"
+    },
+    {
+      "id": 166408,
+      "name": "Comuna Uileacu de Beiuş"
+    },
+    {
+      "id": 166409,
+      "name": "Comuna Vadu Crişului"
+    },
+    {
+      "id": 166410,
+      "name": "Comuna Vârciorog"
+    },
+    {
+      "id": 166411,
+      "name": "Comuna Viişoara"
+    },
+    {
+      "id": 166412,
+      "name": "Copăcel"
+    },
+    {
+      "id": 166413,
+      "name": "Cordău"
+    },
+    {
+      "id": 166414,
+      "name": "Criştioru de Jos"
+    },
+    {
+      "id": 166415,
+      "name": "Cubulcut"
+    },
+    {
+      "id": 166416,
+      "name": "Curăţele"
+    },
+    {
+      "id": 166417,
+      "name": "Curtuișeni"
+    },
+    {
+      "id": 166418,
+      "name": "Cuzap"
+    },
+    {
+      "id": 166419,
+      "name": "Derna"
+    },
+    {
+      "id": 166420,
+      "name": "Diosig"
+    },
+    {
+      "id": 166421,
+      "name": "Dobreşti"
+    },
+    {
+      "id": 166422,
+      "name": "Drăgăneşti"
+    },
+    {
+      "id": 166423,
+      "name": "Drăgeşti"
+    },
+    {
+      "id": 166424,
+      "name": "Finiş"
+    },
+    {
+      "id": 166425,
+      "name": "Foglaş"
+    },
+    {
+      "id": 166426,
+      "name": "Forău"
+    },
+    {
+      "id": 166427,
+      "name": "Galoșpetreu"
+    },
+    {
+      "id": 166428,
+      "name": "Gepiu"
+    },
+    {
+      "id": 166429,
+      "name": "Ghighișeni"
+    },
+    {
+      "id": 166430,
+      "name": "Ghiorac"
+    },
+    {
+      "id": 166431,
+      "name": "Girișu de Criș"
+    },
+    {
+      "id": 166432,
+      "name": "Groși"
+    },
+    {
+      "id": 166433,
+      "name": "Gurbediu"
+    },
+    {
+      "id": 166434,
+      "name": "Hidişelu de Sus"
+    },
+    {
+      "id": 166435,
+      "name": "Holod"
+    },
+    {
+      "id": 166436,
+      "name": "Hotar"
+    },
+    {
+      "id": 166437,
+      "name": "Husasău de Tinca"
+    },
+    {
+      "id": 166438,
+      "name": "Ianoșda"
+    },
+    {
+      "id": 166439,
+      "name": "Ineu"
+    },
+    {
+      "id": 166440,
+      "name": "Lăzăreni"
+    },
+    {
+      "id": 166441,
+      "name": "Lazuri de Beiuş"
+    },
+    {
+      "id": 166442,
+      "name": "Livada de Bihor"
+    },
+    {
+      "id": 166443,
+      "name": "Lugaşu de Jos"
+    },
+    {
+      "id": 166444,
+      "name": "Lunca"
+    },
+    {
+      "id": 166445,
+      "name": "Luncșoara"
+    },
+    {
+      "id": 166446,
+      "name": "Mădăraş"
+    },
+    {
+      "id": 166447,
+      "name": "Măgeşti"
+    },
+    {
+      "id": 166448,
+      "name": "Marghita"
+    },
+    {
+      "id": 166449,
+      "name": "Meziad"
+    },
+    {
+      "id": 166450,
+      "name": "Mihai Bravu"
+    },
+    {
+      "id": 166451,
+      "name": "Mișca"
+    },
+    {
+      "id": 166452,
+      "name": "Municipiul Beiuş"
+    },
+    {
+      "id": 166453,
+      "name": "Municipiul Marghita"
+    },
+    {
+      "id": 166454,
+      "name": "Municipiul Oradea"
+    },
+    {
+      "id": 166455,
+      "name": "Municipiul Salonta"
+    },
+    {
+      "id": 166456,
+      "name": "Nojorid"
+    },
+    {
+      "id": 166457,
+      "name": "Nucet"
+    },
+    {
+      "id": 166458,
+      "name": "Olcea"
+    },
+    {
+      "id": 166459,
+      "name": "Oradea"
+    },
+    {
+      "id": 166460,
+      "name": "Oraș Aleşd"
+    },
+    {
+      "id": 166461,
+      "name": "Oraş Nucet"
+    },
+    {
+      "id": 166462,
+      "name": "Oraş Sãcueni"
+    },
+    {
+      "id": 166463,
+      "name": "Oraş Ştei"
+    },
+    {
+      "id": 166464,
+      "name": "Oraş Valea Lui Mihai"
+    },
+    {
+      "id": 166465,
+      "name": "Oraş Vaşcãu"
+    },
+    {
+      "id": 166466,
+      "name": "Oșorhei"
+    },
+    {
+      "id": 166467,
+      "name": "Pădurea Neagră"
+    },
+    {
+      "id": 166468,
+      "name": "Paleu"
+    },
+    {
+      "id": 166469,
+      "name": "Peștiș"
+    },
+    {
+      "id": 166470,
+      "name": "Petreu"
+    },
+    {
+      "id": 166471,
+      "name": "Pietroasa"
+    },
+    {
+      "id": 166472,
+      "name": "Pocola"
+    },
+    {
+      "id": 166473,
+      "name": "Pomezeu"
+    },
+    {
+      "id": 166474,
+      "name": "Popeşti"
+    },
+    {
+      "id": 166475,
+      "name": "Răbăgani"
+    },
+    {
+      "id": 166476,
+      "name": "Remetea"
+    },
+    {
+      "id": 166477,
+      "name": "Rieni"
+    },
+    {
+      "id": 166478,
+      "name": "Roşia"
+    },
+    {
+      "id": 166479,
+      "name": "Roșiori"
+    },
+    {
+      "id": 166480,
+      "name": "Săcădat"
+    },
+    {
+      "id": 166481,
+      "name": "Săcueni"
+    },
+    {
+      "id": 166482,
+      "name": "Sălacea"
+    },
+    {
+      "id": 166483,
+      "name": "Sălard"
+    },
+    {
+      "id": 166484,
+      "name": "Salonta"
+    },
+    {
+      "id": 166485,
+      "name": "Sâmbăta"
+    },
+    {
+      "id": 166486,
+      "name": "Sâniob"
+    },
+    {
+      "id": 166487,
+      "name": "Sânnicolau Român"
+    },
+    {
+      "id": 166488,
+      "name": "Sântandrei"
+    },
+    {
+      "id": 166489,
+      "name": "Sântion"
+    },
+    {
+      "id": 166490,
+      "name": "Sârbi"
+    },
+    {
+      "id": 166491,
+      "name": "Șilindru"
+    },
+    {
+      "id": 166492,
+      "name": "Şimian"
+    },
+    {
+      "id": 166493,
+      "name": "Sînmartin"
+    },
+    {
+      "id": 166494,
+      "name": "Şinteu"
+    },
+    {
+      "id": 166495,
+      "name": "Şoimi"
+    },
+    {
+      "id": 166496,
+      "name": "Spinuş"
+    },
+    {
+      "id": 166497,
+      "name": "Ștei"
+    },
+    {
+      "id": 166498,
+      "name": "Şuncuiuş"
+    },
+    {
+      "id": 166499,
+      "name": "Suplacu de Barcău"
+    },
+    {
+      "id": 166500,
+      "name": "Talpoș"
+    },
+    {
+      "id": 166501,
+      "name": "Tămașda"
+    },
+    {
+      "id": 166502,
+      "name": "Tămășeu"
+    },
+    {
+      "id": 166503,
+      "name": "Tărcaia"
+    },
+    {
+      "id": 166504,
+      "name": "Tarcea"
+    },
+    {
+      "id": 166505,
+      "name": "Tășad"
+    },
+    {
+      "id": 166506,
+      "name": "Tăut"
+    },
+    {
+      "id": 166507,
+      "name": "Tăuteu"
+    },
+    {
+      "id": 166508,
+      "name": "Tileagd"
+    },
+    {
+      "id": 166509,
+      "name": "Tinca"
+    },
+    {
+      "id": 166510,
+      "name": "Toboliu"
+    },
+    {
+      "id": 166511,
+      "name": "Tulca"
+    },
+    {
+      "id": 166512,
+      "name": "Uileacu de Beiuș"
+    },
+    {
+      "id": 166513,
+      "name": "Vadu Crişului"
+    },
+    {
+      "id": 166514,
+      "name": "Valea lui Mihai"
+    },
+    {
+      "id": 166515,
+      "name": "Vârciorog"
+    },
+    {
+      "id": 166516,
+      "name": "Vășad"
+    },
+    {
+      "id": 166517,
+      "name": "Vaşcău"
+    },
+    {
+      "id": 166518,
+      "name": "Viişoara"
+    },
+    {
+      "id": 166519,
+      "name": "Vintere"
+    },
+    {
+      "id": 166520,
+      "name": "Voivozi"
+    }
+  ]
+}

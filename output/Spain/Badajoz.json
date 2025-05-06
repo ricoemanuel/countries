@@ -1,0 +1,659 @@
+{
+  "id": 6513,
+  "name": "Badajoz",
+  "state_code": "BA",
+  "cities": [
+    {
+      "id": 182359,
+      "name": "Acedera"
+    },
+    {
+      "id": 182360,
+      "name": "Aceuchal"
+    },
+    {
+      "id": 182361,
+      "name": "Ahillones"
+    },
+    {
+      "id": 182362,
+      "name": "Alange"
+    },
+    {
+      "id": 182363,
+      "name": "Albuera La"
+    },
+    {
+      "id": 182364,
+      "name": "Alburquerque"
+    },
+    {
+      "id": 182365,
+      "name": "Alconchel"
+    },
+    {
+      "id": 182366,
+      "name": "Alconera"
+    },
+    {
+      "id": 182367,
+      "name": "Aljucén"
+    },
+    {
+      "id": 182368,
+      "name": "Almendral"
+    },
+    {
+      "id": 182369,
+      "name": "Almendralejo"
+    },
+    {
+      "id": 182370,
+      "name": "Arroyo de San Serván"
+    },
+    {
+      "id": 182371,
+      "name": "Atalaya"
+    },
+    {
+      "id": 182372,
+      "name": "Azuaga"
+    },
+    {
+      "id": 182373,
+      "name": "Badajoz"
+    },
+    {
+      "id": 182374,
+      "name": "Barcarrota"
+    },
+    {
+      "id": 182375,
+      "name": "Baterno"
+    },
+    {
+      "id": 182376,
+      "name": "Benquerencia de la Serena"
+    },
+    {
+      "id": 182377,
+      "name": "Berlanga"
+    },
+    {
+      "id": 182378,
+      "name": "Bienvenida"
+    },
+    {
+      "id": 182379,
+      "name": "Bodonal de la Sierra"
+    },
+    {
+      "id": 182380,
+      "name": "Burguillos del Cerro"
+    },
+    {
+      "id": 182381,
+      "name": "Cabeza del Buey"
+    },
+    {
+      "id": 182382,
+      "name": "Cabeza la Vaca"
+    },
+    {
+      "id": 182383,
+      "name": "Calamonte"
+    },
+    {
+      "id": 182384,
+      "name": "Calera de León"
+    },
+    {
+      "id": 182385,
+      "name": "Calzadilla de los Barros"
+    },
+    {
+      "id": 182386,
+      "name": "Campanario"
+    },
+    {
+      "id": 182387,
+      "name": "Campillo de Llerena"
+    },
+    {
+      "id": 182388,
+      "name": "Capilla"
+    },
+    {
+      "id": 182389,
+      "name": "Carmonita"
+    },
+    {
+      "id": 182390,
+      "name": "Carrascalejo El"
+    },
+    {
+      "id": 182391,
+      "name": "Casas de Don Pedro"
+    },
+    {
+      "id": 182392,
+      "name": "Casas de Reina"
+    },
+    {
+      "id": 182393,
+      "name": "Castilblanco"
+    },
+    {
+      "id": 182394,
+      "name": "Castuera"
+    },
+    {
+      "id": 182395,
+      "name": "Cheles"
+    },
+    {
+      "id": 182396,
+      "name": "Codosera La"
+    },
+    {
+      "id": 182397,
+      "name": "Cordobilla de Lácara"
+    },
+    {
+      "id": 182398,
+      "name": "Coronada La"
+    },
+    {
+      "id": 182399,
+      "name": "Corte de Peleas"
+    },
+    {
+      "id": 182400,
+      "name": "Cristina"
+    },
+    {
+      "id": 182401,
+      "name": "Don Álvaro"
+    },
+    {
+      "id": 182402,
+      "name": "Don Benito"
+    },
+    {
+      "id": 182403,
+      "name": "Entrín Bajo"
+    },
+    {
+      "id": 182404,
+      "name": "Esparragalejo"
+    },
+    {
+      "id": 182405,
+      "name": "Esparragosa de la Serena"
+    },
+    {
+      "id": 182406,
+      "name": "Esparragosa de Lares"
+    },
+    {
+      "id": 182407,
+      "name": "Feria"
+    },
+    {
+      "id": 182408,
+      "name": "Fregenal de la Sierra"
+    },
+    {
+      "id": 182409,
+      "name": "Fuenlabrada de los Montes"
+    },
+    {
+      "id": 182410,
+      "name": "Fuente de Cantos"
+    },
+    {
+      "id": 182411,
+      "name": "Fuente del Arco"
+    },
+    {
+      "id": 182412,
+      "name": "Fuente del Maestre"
+    },
+    {
+      "id": 182413,
+      "name": "Fuentes de León"
+    },
+    {
+      "id": 182414,
+      "name": "Garbayuela"
+    },
+    {
+      "id": 182415,
+      "name": "Garlitos"
+    },
+    {
+      "id": 182416,
+      "name": "Garrovilla La"
+    },
+    {
+      "id": 182417,
+      "name": "Granja de Torrehermosa"
+    },
+    {
+      "id": 182418,
+      "name": "Guareña"
+    },
+    {
+      "id": 182419,
+      "name": "Haba La"
+    },
+    {
+      "id": 182420,
+      "name": "Helechosa de los Montes"
+    },
+    {
+      "id": 182421,
+      "name": "Herrera del Duque"
+    },
+    {
+      "id": 182422,
+      "name": "Higuera de la Serena"
+    },
+    {
+      "id": 182423,
+      "name": "Higuera de Llerena"
+    },
+    {
+      "id": 182424,
+      "name": "Higuera de Vargas"
+    },
+    {
+      "id": 182425,
+      "name": "Higuera la Real"
+    },
+    {
+      "id": 182426,
+      "name": "Hinojosa del Valle"
+    },
+    {
+      "id": 182427,
+      "name": "Hornachos"
+    },
+    {
+      "id": 182428,
+      "name": "Jerez de los Caballeros"
+    },
+    {
+      "id": 182429,
+      "name": "Lapa La"
+    },
+    {
+      "id": 182430,
+      "name": "Llera"
+    },
+    {
+      "id": 182431,
+      "name": "Llerena"
+    },
+    {
+      "id": 182432,
+      "name": "Lobón"
+    },
+    {
+      "id": 182433,
+      "name": "Magacela"
+    },
+    {
+      "id": 182434,
+      "name": "Maguilla"
+    },
+    {
+      "id": 182435,
+      "name": "Malcocinado"
+    },
+    {
+      "id": 182436,
+      "name": "Malpartida de la Serena"
+    },
+    {
+      "id": 182437,
+      "name": "Manchita"
+    },
+    {
+      "id": 182438,
+      "name": "Medellín"
+    },
+    {
+      "id": 182439,
+      "name": "Medina de las Torres"
+    },
+    {
+      "id": 182440,
+      "name": "Mengabril"
+    },
+    {
+      "id": 182441,
+      "name": "Mérida"
+    },
+    {
+      "id": 182442,
+      "name": "Mirandilla"
+    },
+    {
+      "id": 182443,
+      "name": "Monesterio"
+    },
+    {
+      "id": 182444,
+      "name": "Montemolín"
+    },
+    {
+      "id": 182445,
+      "name": "Monterrubio de la Serena"
+    },
+    {
+      "id": 182446,
+      "name": "Montijo"
+    },
+    {
+      "id": 182447,
+      "name": "Morera La"
+    },
+    {
+      "id": 182448,
+      "name": "Nava de Santiago La"
+    },
+    {
+      "id": 182449,
+      "name": "Navalvillar de Pela"
+    },
+    {
+      "id": 182450,
+      "name": "Nogales"
+    },
+    {
+      "id": 182451,
+      "name": "Oliva de la Frontera"
+    },
+    {
+      "id": 182452,
+      "name": "Oliva de Mérida"
+    },
+    {
+      "id": 182453,
+      "name": "Olivenza"
+    },
+    {
+      "id": 182454,
+      "name": "Orellana de la Sierra"
+    },
+    {
+      "id": 182455,
+      "name": "Orellana la Vieja"
+    },
+    {
+      "id": 182456,
+      "name": "Palomas"
+    },
+    {
+      "id": 182457,
+      "name": "Parra La"
+    },
+    {
+      "id": 182458,
+      "name": "Peñalsordo"
+    },
+    {
+      "id": 182459,
+      "name": "Peraleda del Zaucejo"
+    },
+    {
+      "id": 182460,
+      "name": "Puebla de Alcocer"
+    },
+    {
+      "id": 182461,
+      "name": "Puebla de la Calzada"
+    },
+    {
+      "id": 182462,
+      "name": "Puebla de la Reina"
+    },
+    {
+      "id": 182463,
+      "name": "Puebla de Obando"
+    },
+    {
+      "id": 182464,
+      "name": "Puebla de Sancho Pérez"
+    },
+    {
+      "id": 182465,
+      "name": "Puebla del Maestre"
+    },
+    {
+      "id": 182466,
+      "name": "Puebla del Prior"
+    },
+    {
+      "id": 182467,
+      "name": "Pueblonuevo del Guadiana"
+    },
+    {
+      "id": 182468,
+      "name": "Quintana de la Serena"
+    },
+    {
+      "id": 182469,
+      "name": "Reina"
+    },
+    {
+      "id": 182470,
+      "name": "Rena"
+    },
+    {
+      "id": 182471,
+      "name": "Retamal de Llerena"
+    },
+    {
+      "id": 182472,
+      "name": "Ribera del Fresno"
+    },
+    {
+      "id": 182473,
+      "name": "Risco"
+    },
+    {
+      "id": 182474,
+      "name": "Roca de la Sierra La"
+    },
+    {
+      "id": 182475,
+      "name": "Salvaleón"
+    },
+    {
+      "id": 182476,
+      "name": "Salvatierra de los Barros"
+    },
+    {
+      "id": 182477,
+      "name": "San Pedro de Mérida"
+    },
+    {
+      "id": 182478,
+      "name": "San Vicente de Alcántara"
+    },
+    {
+      "id": 182479,
+      "name": "Santa Amalia"
+    },
+    {
+      "id": 182480,
+      "name": "Santa Marta"
+    },
+    {
+      "id": 182481,
+      "name": "Santos de Maimona Los"
+    },
+    {
+      "id": 182482,
+      "name": "Segura de León"
+    },
+    {
+      "id": 182483,
+      "name": "Siruela"
+    },
+    {
+      "id": 182484,
+      "name": "Solana de los Barros"
+    },
+    {
+      "id": 182485,
+      "name": "Talarrubias"
+    },
+    {
+      "id": 182486,
+      "name": "Talavera La Real"
+    },
+    {
+      "id": 182487,
+      "name": "Táliga"
+    },
+    {
+      "id": 182488,
+      "name": "Tamurejo"
+    },
+    {
+      "id": 182489,
+      "name": "Torre de Miguel Sesmero"
+    },
+    {
+      "id": 182490,
+      "name": "Torremayor"
+    },
+    {
+      "id": 182491,
+      "name": "Torremejía"
+    },
+    {
+      "id": 182492,
+      "name": "Trasierra"
+    },
+    {
+      "id": 182493,
+      "name": "Trujillanos"
+    },
+    {
+      "id": 182494,
+      "name": "Usagre"
+    },
+    {
+      "id": 182495,
+      "name": "Valdecaballeros"
+    },
+    {
+      "id": 182496,
+      "name": "Valdelacalzada"
+    },
+    {
+      "id": 182497,
+      "name": "Valdetorres"
+    },
+    {
+      "id": 182498,
+      "name": "Valencia de las Torres"
+    },
+    {
+      "id": 182499,
+      "name": "Valencia del Mombuey"
+    },
+    {
+      "id": 182500,
+      "name": "Valencia del Ventoso"
+    },
+    {
+      "id": 182501,
+      "name": "Valle de la Serena"
+    },
+    {
+      "id": 182502,
+      "name": "Valle de Matamoros"
+    },
+    {
+      "id": 182503,
+      "name": "Valle de Santa Ana"
+    },
+    {
+      "id": 182504,
+      "name": "Valverde de Burguillos"
+    },
+    {
+      "id": 182505,
+      "name": "Valverde de Leganés"
+    },
+    {
+      "id": 182506,
+      "name": "Valverde de Llerena"
+    },
+    {
+      "id": 182507,
+      "name": "Valverde de Mérida"
+    },
+    {
+      "id": 182508,
+      "name": "Villafranca de los Barros"
+    },
+    {
+      "id": 182509,
+      "name": "Villagarcía de la Torre"
+    },
+    {
+      "id": 182510,
+      "name": "Villagonzalo"
+    },
+    {
+      "id": 182511,
+      "name": "Villalba de los Barros"
+    },
+    {
+      "id": 182512,
+      "name": "Villanueva de la Serena"
+    },
+    {
+      "id": 182513,
+      "name": "Villanueva del Fresno"
+    },
+    {
+      "id": 182514,
+      "name": "Villar de Rena"
+    },
+    {
+      "id": 182515,
+      "name": "Villar del Rey"
+    },
+    {
+      "id": 182516,
+      "name": "Villarta de los Montes"
+    },
+    {
+      "id": 182517,
+      "name": "Zafra"
+    },
+    {
+      "id": 182518,
+      "name": "Zahinos"
+    },
+    {
+      "id": 182519,
+      "name": "Zalamea de la Serena"
+    },
+    {
+      "id": 182520,
+      "name": "Zarza La"
+    },
+    {
+      "id": 182521,
+      "name": "Zarza-Capilla"
+    }
+  ]
+}

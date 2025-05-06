@@ -1,0 +1,675 @@
+{
+  "id": 7480,
+  "name": "South Dakota",
+  "state_code": "SD",
+  "cities": [
+    {
+      "id": 217663,
+      "name": "Aberdeen"
+    },
+    {
+      "id": 217664,
+      "name": "Alexandria"
+    },
+    {
+      "id": 217665,
+      "name": "Armour"
+    },
+    {
+      "id": 217666,
+      "name": "Aurora County"
+    },
+    {
+      "id": 217667,
+      "name": "Baltic"
+    },
+    {
+      "id": 217668,
+      "name": "Beadle County"
+    },
+    {
+      "id": 217669,
+      "name": "Belle Fourche"
+    },
+    {
+      "id": 217670,
+      "name": "Bennett County"
+    },
+    {
+      "id": 217671,
+      "name": "Beresford"
+    },
+    {
+      "id": 217672,
+      "name": "Bison"
+    },
+    {
+      "id": 217673,
+      "name": "Blackhawk"
+    },
+    {
+      "id": 217674,
+      "name": "Bon Homme County"
+    },
+    {
+      "id": 217675,
+      "name": "Box Elder"
+    },
+    {
+      "id": 217676,
+      "name": "Brandon"
+    },
+    {
+      "id": 217677,
+      "name": "Britton"
+    },
+    {
+      "id": 217678,
+      "name": "Brookings"
+    },
+    {
+      "id": 217679,
+      "name": "Brookings County"
+    },
+    {
+      "id": 217680,
+      "name": "Brown County"
+    },
+    {
+      "id": 217681,
+      "name": "Brule County"
+    },
+    {
+      "id": 217682,
+      "name": "Buffalo"
+    },
+    {
+      "id": 217683,
+      "name": "Buffalo County"
+    },
+    {
+      "id": 217684,
+      "name": "Burke"
+    },
+    {
+      "id": 217685,
+      "name": "Butte County"
+    },
+    {
+      "id": 217686,
+      "name": "Campbell County"
+    },
+    {
+      "id": 217687,
+      "name": "Canton"
+    },
+    {
+      "id": 217688,
+      "name": "Chamberlain"
+    },
+    {
+      "id": 217689,
+      "name": "Charles Mix County"
+    },
+    {
+      "id": 217690,
+      "name": "Clark"
+    },
+    {
+      "id": 217691,
+      "name": "Clark County"
+    },
+    {
+      "id": 217692,
+      "name": "Clay County"
+    },
+    {
+      "id": 217693,
+      "name": "Clear Lake"
+    },
+    {
+      "id": 217694,
+      "name": "Codington County"
+    },
+    {
+      "id": 217695,
+      "name": "Colonial Pine Hills"
+    },
+    {
+      "id": 217696,
+      "name": "Corson County"
+    },
+    {
+      "id": 217697,
+      "name": "Crooks"
+    },
+    {
+      "id": 217698,
+      "name": "Custer"
+    },
+    {
+      "id": 217699,
+      "name": "Custer County"
+    },
+    {
+      "id": 217700,
+      "name": "Dakota Dunes"
+    },
+    {
+      "id": 217701,
+      "name": "Davison County"
+    },
+    {
+      "id": 217702,
+      "name": "Day County"
+    },
+    {
+      "id": 217703,
+      "name": "De Smet"
+    },
+    {
+      "id": 217704,
+      "name": "Deadwood"
+    },
+    {
+      "id": 217705,
+      "name": "Dell Rapids"
+    },
+    {
+      "id": 217706,
+      "name": "Deuel County"
+    },
+    {
+      "id": 217707,
+      "name": "Dewey County"
+    },
+    {
+      "id": 217708,
+      "name": "Douglas County"
+    },
+    {
+      "id": 217709,
+      "name": "Dupree"
+    },
+    {
+      "id": 217710,
+      "name": "Eagle Butte"
+    },
+    {
+      "id": 217711,
+      "name": "Edmunds County"
+    },
+    {
+      "id": 217712,
+      "name": "Elk Point"
+    },
+    {
+      "id": 217713,
+      "name": "Fall River County"
+    },
+    {
+      "id": 217714,
+      "name": "Faulk County"
+    },
+    {
+      "id": 217715,
+      "name": "Faulkton"
+    },
+    {
+      "id": 217716,
+      "name": "Flandreau"
+    },
+    {
+      "id": 217717,
+      "name": "Fort Pierre"
+    },
+    {
+      "id": 217718,
+      "name": "Fort Thompson"
+    },
+    {
+      "id": 217719,
+      "name": "Freeman"
+    },
+    {
+      "id": 217720,
+      "name": "Garretson"
+    },
+    {
+      "id": 217721,
+      "name": "Gettysburg"
+    },
+    {
+      "id": 217722,
+      "name": "Grant County"
+    },
+    {
+      "id": 217723,
+      "name": "Gregory"
+    },
+    {
+      "id": 217724,
+      "name": "Gregory County"
+    },
+    {
+      "id": 217725,
+      "name": "Groton"
+    },
+    {
+      "id": 217726,
+      "name": "Haakon County"
+    },
+    {
+      "id": 217727,
+      "name": "Hamlin County"
+    },
+    {
+      "id": 217728,
+      "name": "Hand County"
+    },
+    {
+      "id": 217729,
+      "name": "Hanson County"
+    },
+    {
+      "id": 217730,
+      "name": "Harding County"
+    },
+    {
+      "id": 217731,
+      "name": "Harrisburg"
+    },
+    {
+      "id": 217732,
+      "name": "Hartford"
+    },
+    {
+      "id": 217733,
+      "name": "Hayti"
+    },
+    {
+      "id": 217734,
+      "name": "Highmore"
+    },
+    {
+      "id": 217735,
+      "name": "Hot Springs"
+    },
+    {
+      "id": 217736,
+      "name": "Howard"
+    },
+    {
+      "id": 217737,
+      "name": "Hughes County"
+    },
+    {
+      "id": 217738,
+      "name": "Huron"
+    },
+    {
+      "id": 217739,
+      "name": "Hutchinson County"
+    },
+    {
+      "id": 217740,
+      "name": "Hyde County"
+    },
+    {
+      "id": 217741,
+      "name": "Ipswich"
+    },
+    {
+      "id": 217742,
+      "name": "Jackson County"
+    },
+    {
+      "id": 217743,
+      "name": "Jerauld County"
+    },
+    {
+      "id": 217744,
+      "name": "Jones County"
+    },
+    {
+      "id": 217745,
+      "name": "Kadoka"
+    },
+    {
+      "id": 217746,
+      "name": "Kennebec"
+    },
+    {
+      "id": 217747,
+      "name": "Kingsbury County"
+    },
+    {
+      "id": 217748,
+      "name": "Lake Andes"
+    },
+    {
+      "id": 217749,
+      "name": "Lake County"
+    },
+    {
+      "id": 217750,
+      "name": "Lawrence County"
+    },
+    {
+      "id": 217751,
+      "name": "Lead"
+    },
+    {
+      "id": 217752,
+      "name": "Lemmon"
+    },
+    {
+      "id": 217753,
+      "name": "Lennox"
+    },
+    {
+      "id": 217754,
+      "name": "Leola"
+    },
+    {
+      "id": 217755,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 217756,
+      "name": "Lyman County"
+    },
+    {
+      "id": 217757,
+      "name": "Madison"
+    },
+    {
+      "id": 217758,
+      "name": "Marshall County"
+    },
+    {
+      "id": 217759,
+      "name": "Martin"
+    },
+    {
+      "id": 217760,
+      "name": "McCook County"
+    },
+    {
+      "id": 217761,
+      "name": "McIntosh"
+    },
+    {
+      "id": 217762,
+      "name": "McPherson County"
+    },
+    {
+      "id": 217763,
+      "name": "Meade County"
+    },
+    {
+      "id": 217764,
+      "name": "Mellette County"
+    },
+    {
+      "id": 217765,
+      "name": "Milbank"
+    },
+    {
+      "id": 217766,
+      "name": "Miller"
+    },
+    {
+      "id": 217767,
+      "name": "Miner County"
+    },
+    {
+      "id": 217768,
+      "name": "Minnehaha County"
+    },
+    {
+      "id": 217769,
+      "name": "Mission"
+    },
+    {
+      "id": 217770,
+      "name": "Mitchell"
+    },
+    {
+      "id": 217771,
+      "name": "Mobridge"
+    },
+    {
+      "id": 217772,
+      "name": "Moody County"
+    },
+    {
+      "id": 217773,
+      "name": "Mound City"
+    },
+    {
+      "id": 217774,
+      "name": "Murdo"
+    },
+    {
+      "id": 217775,
+      "name": "North Eagle Butte"
+    },
+    {
+      "id": 217776,
+      "name": "North Sioux City"
+    },
+    {
+      "id": 217777,
+      "name": "North Spearfish"
+    },
+    {
+      "id": 217778,
+      "name": "Oglala"
+    },
+    {
+      "id": 217779,
+      "name": "Oglala Lakota County"
+    },
+    {
+      "id": 217780,
+      "name": "Olivet"
+    },
+    {
+      "id": 217781,
+      "name": "Onida"
+    },
+    {
+      "id": 217782,
+      "name": "Parker"
+    },
+    {
+      "id": 217783,
+      "name": "Parkston"
+    },
+    {
+      "id": 217784,
+      "name": "Pennington County"
+    },
+    {
+      "id": 217785,
+      "name": "Perkins County"
+    },
+    {
+      "id": 217786,
+      "name": "Philip"
+    },
+    {
+      "id": 217787,
+      "name": "Pierre"
+    },
+    {
+      "id": 217788,
+      "name": "Pine Ridge"
+    },
+    {
+      "id": 217789,
+      "name": "Plankinton"
+    },
+    {
+      "id": 217790,
+      "name": "Platte"
+    },
+    {
+      "id": 217791,
+      "name": "Porcupine"
+    },
+    {
+      "id": 217792,
+      "name": "Potter County"
+    },
+    {
+      "id": 217793,
+      "name": "Rapid City"
+    },
+    {
+      "id": 217794,
+      "name": "Rapid Valley"
+    },
+    {
+      "id": 217795,
+      "name": "Redfield"
+    },
+    {
+      "id": 217796,
+      "name": "Roberts County"
+    },
+    {
+      "id": 217797,
+      "name": "Rosebud"
+    },
+    {
+      "id": 217798,
+      "name": "Salem"
+    },
+    {
+      "id": 217799,
+      "name": "Sanborn County"
+    },
+    {
+      "id": 217800,
+      "name": "Selby"
+    },
+    {
+      "id": 217801,
+      "name": "Sioux Falls"
+    },
+    {
+      "id": 217802,
+      "name": "Sisseton"
+    },
+    {
+      "id": 217803,
+      "name": "Spearfish"
+    },
+    {
+      "id": 217804,
+      "name": "Spink County"
+    },
+    {
+      "id": 217805,
+      "name": "Springfield"
+    },
+    {
+      "id": 217806,
+      "name": "Stanley County"
+    },
+    {
+      "id": 217807,
+      "name": "Sturgis"
+    },
+    {
+      "id": 217808,
+      "name": "Sully County"
+    },
+    {
+      "id": 217809,
+      "name": "Summerset"
+    },
+    {
+      "id": 217810,
+      "name": "Tea"
+    },
+    {
+      "id": 217811,
+      "name": "Timber Lake"
+    },
+    {
+      "id": 217812,
+      "name": "Todd County"
+    },
+    {
+      "id": 217813,
+      "name": "Tripp County"
+    },
+    {
+      "id": 217814,
+      "name": "Turner County"
+    },
+    {
+      "id": 217815,
+      "name": "Tyndall"
+    },
+    {
+      "id": 217816,
+      "name": "Union County"
+    },
+    {
+      "id": 217817,
+      "name": "Vermillion"
+    },
+    {
+      "id": 217818,
+      "name": "Volga"
+    },
+    {
+      "id": 217819,
+      "name": "Wagner"
+    },
+    {
+      "id": 217820,
+      "name": "Walworth County"
+    },
+    {
+      "id": 217821,
+      "name": "Watertown"
+    },
+    {
+      "id": 217822,
+      "name": "Webster"
+    },
+    {
+      "id": 217823,
+      "name": "Wessington Springs"
+    },
+    {
+      "id": 217824,
+      "name": "White River"
+    },
+    {
+      "id": 217825,
+      "name": "Winner"
+    },
+    {
+      "id": 217826,
+      "name": "Woonsocket"
+    },
+    {
+      "id": 217827,
+      "name": "Yankton"
+    },
+    {
+      "id": 217828,
+      "name": "Yankton County"
+    },
+    {
+      "id": 217829,
+      "name": "Ziebach County"
+    }
+  ]
+}

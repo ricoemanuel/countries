@@ -1,0 +1,483 @@
+{
+  "id": 6101,
+  "name": "Castries Quarter",
+  "state_code": "02",
+  "cities": [
+    {
+      "id": 178932,
+      "name": "Active Hill"
+    },
+    {
+      "id": 178933,
+      "name": "Agard Lands/Morne Dudon"
+    },
+    {
+      "id": 178934,
+      "name": "Almondale"
+    },
+    {
+      "id": 178935,
+      "name": "Aurendel Hill"
+    },
+    {
+      "id": 178936,
+      "name": "Babonneau Proper"
+    },
+    {
+      "id": 178937,
+      "name": "Bagatelle"
+    },
+    {
+      "id": 178938,
+      "name": "Balata"
+    },
+    {
+      "id": 178939,
+      "name": "Banannes Bay"
+    },
+    {
+      "id": 178940,
+      "name": "Barnard Hill"
+    },
+    {
+      "id": 178941,
+      "name": "Barre Denis"
+    },
+    {
+      "id": 178942,
+      "name": "Barre Duchaussee"
+    },
+    {
+      "id": 178943,
+      "name": "Barre St.Joseph"
+    },
+    {
+      "id": 178944,
+      "name": "Belair"
+    },
+    {
+      "id": 178945,
+      "name": "Bella Rosa"
+    },
+    {
+      "id": 178946,
+      "name": "Bexon"
+    },
+    {
+      "id": 178947,
+      "name": "Bisee"
+    },
+    {
+      "id": 178948,
+      "name": "Bishop'S Gap"
+    },
+    {
+      "id": 178949,
+      "name": "Bissee"
+    },
+    {
+      "id": 178950,
+      "name": "Black Mallet"
+    },
+    {
+      "id": 178951,
+      "name": "Bocage"
+    },
+    {
+      "id": 178952,
+      "name": "Bois Catchet"
+    },
+    {
+      "id": 178953,
+      "name": "Bois Patat"
+    },
+    {
+      "id": 178954,
+      "name": "Cabiche/Babonneau"
+    },
+    {
+      "id": 178955,
+      "name": "Cacoa/Babonneau"
+    },
+    {
+      "id": 178956,
+      "name": "Calvary"
+    },
+    {
+      "id": 178957,
+      "name": "Capital Hill"
+    },
+    {
+      "id": 178958,
+      "name": "Carellie"
+    },
+    {
+      "id": 178959,
+      "name": "Castries"
+    },
+    {
+      "id": 178960,
+      "name": "Cedars"
+    },
+    {
+      "id": 178961,
+      "name": "Chase Gardens"
+    },
+    {
+      "id": 178962,
+      "name": "Chassin/Babonneau"
+    },
+    {
+      "id": 178963,
+      "name": "Choppin Ridge/Sarot"
+    },
+    {
+      "id": 178964,
+      "name": "Ciceron"
+    },
+    {
+      "id": 178965,
+      "name": "City"
+    },
+    {
+      "id": 178966,
+      "name": "City Gate/La Clery"
+    },
+    {
+      "id": 178967,
+      "name": "Conway/Waterfront"
+    },
+    {
+      "id": 178968,
+      "name": "Coolie Town"
+    },
+    {
+      "id": 178969,
+      "name": "Coubaril"
+    },
+    {
+      "id": 178970,
+      "name": "Crownlands/Marc"
+    },
+    {
+      "id": 178971,
+      "name": "Cul De Sac"
+    },
+    {
+      "id": 178972,
+      "name": "Darling Road"
+    },
+    {
+      "id": 178973,
+      "name": "Deglos"
+    },
+    {
+      "id": 178974,
+      "name": "Derierre Fort/Old Victoria Road"
+    },
+    {
+      "id": 178975,
+      "name": "Dubrassay"
+    },
+    {
+      "id": 178976,
+      "name": "En Pois Doux/Babonneau"
+    },
+    {
+      "id": 178977,
+      "name": "Entrepot"
+    },
+    {
+      "id": 178978,
+      "name": "Faux A Chaud"
+    },
+    {
+      "id": 178979,
+      "name": "Ferrand"
+    },
+    {
+      "id": 178980,
+      "name": "Floissac/Marc"
+    },
+    {
+      "id": 178981,
+      "name": "Fond Assau/Babonneau"
+    },
+    {
+      "id": 178982,
+      "name": "Fond Canie"
+    },
+    {
+      "id": 178983,
+      "name": "Forestiere"
+    },
+    {
+      "id": 178984,
+      "name": "George Charles Boulevard"
+    },
+    {
+      "id": 178985,
+      "name": "Girard"
+    },
+    {
+      "id": 178986,
+      "name": "Goergeville"
+    },
+    {
+      "id": 178987,
+      "name": "Goodlands"
+    },
+    {
+      "id": 178988,
+      "name": "Grass Street"
+    },
+    {
+      "id": 178989,
+      "name": "Green Gold"
+    },
+    {
+      "id": 178990,
+      "name": "Guesneau"
+    },
+    {
+      "id": 178991,
+      "name": "Hill 20/Babonneau"
+    },
+    {
+      "id": 178992,
+      "name": "Hillcrest Gardens"
+    },
+    {
+      "id": 178993,
+      "name": "Hospital Road"
+    },
+    {
+      "id": 178994,
+      "name": "Independence City"
+    },
+    {
+      "id": 178995,
+      "name": "John Compton Highway"
+    },
+    {
+      "id": 178996,
+      "name": "L'Anse Road"
+    },
+    {
+      "id": 178997,
+      "name": "La Carierre"
+    },
+    {
+      "id": 178998,
+      "name": "La Clery"
+    },
+    {
+      "id": 178999,
+      "name": "La Croix Maingot"
+    },
+    {
+      "id": 179000,
+      "name": "La Pansee"
+    },
+    {
+      "id": 179001,
+      "name": "La Toc"
+    },
+    {
+      "id": 179002,
+      "name": "Labayee"
+    },
+    {
+      "id": 179003,
+      "name": "Lastic Hill"
+    },
+    {
+      "id": 179004,
+      "name": "Leslie Land"
+    },
+    {
+      "id": 179005,
+      "name": "Marc"
+    },
+    {
+      "id": 179006,
+      "name": "Marchand"
+    },
+    {
+      "id": 179007,
+      "name": "Marigot"
+    },
+    {
+      "id": 179008,
+      "name": "Maynard Hill"
+    },
+    {
+      "id": 179009,
+      "name": "Miami/Bexon"
+    },
+    {
+      "id": 179010,
+      "name": "Monkey Town Ciceron"
+    },
+    {
+      "id": 179011,
+      "name": "Morne Assau/Babonneau"
+    },
+    {
+      "id": 179012,
+      "name": "Morne Dudon"
+    },
+    {
+      "id": 179013,
+      "name": "Morne Road"
+    },
+    {
+      "id": 179014,
+      "name": "Morne Rouge/Marc"
+    },
+    {
+      "id": 179015,
+      "name": "Mount Pleasant"
+    },
+    {
+      "id": 179016,
+      "name": "New Village"
+    },
+    {
+      "id": 179017,
+      "name": "Odsan"
+    },
+    {
+      "id": 179018,
+      "name": "Parker'S Hill"
+    },
+    {
+      "id": 179019,
+      "name": "Patterson'S Gap"
+    },
+    {
+      "id": 179020,
+      "name": "Pavee"
+    },
+    {
+      "id": 179021,
+      "name": "Peart'S Gap"
+    },
+    {
+      "id": 179022,
+      "name": "Perou"
+    },
+    {
+      "id": 179023,
+      "name": "Pointe Seraphine"
+    },
+    {
+      "id": 179024,
+      "name": "Quarte Chemins"
+    },
+    {
+      "id": 179025,
+      "name": "Ravine Chabot"
+    },
+    {
+      "id": 179026,
+      "name": "Ravine Poisson"
+    },
+    {
+      "id": 179027,
+      "name": "Ravine Touterelle"
+    },
+    {
+      "id": 179028,
+      "name": "Resinard/Babonneau"
+    },
+    {
+      "id": 179029,
+      "name": "Rock Hall"
+    },
+    {
+      "id": 179030,
+      "name": "Rose Hill"
+    },
+    {
+      "id": 179031,
+      "name": "San Soucis"
+    },
+    {
+      "id": 179032,
+      "name": "Sand De Feu"
+    },
+    {
+      "id": 179033,
+      "name": "Sarot"
+    },
+    {
+      "id": 179034,
+      "name": "Summersdale"
+    },
+    {
+      "id": 179035,
+      "name": "Sunbilt"
+    },
+    {
+      "id": 179036,
+      "name": "Sunny Acres"
+    },
+    {
+      "id": 179037,
+      "name": "Talvern"
+    },
+    {
+      "id": 179038,
+      "name": "Tapion"
+    },
+    {
+      "id": 179039,
+      "name": "The Morne"
+    },
+    {
+      "id": 179040,
+      "name": "Ti Colon"
+    },
+    {
+      "id": 179041,
+      "name": "Ti Rocher"
+    },
+    {
+      "id": 179042,
+      "name": "Trois Piton"
+    },
+    {
+      "id": 179043,
+      "name": "Trou Cochan/Marc"
+    },
+    {
+      "id": 179044,
+      "name": "Trou Florent/Marc"
+    },
+    {
+      "id": 179045,
+      "name": "Trou Rouge"
+    },
+    {
+      "id": 179046,
+      "name": "Vide Bouteille"
+    },
+    {
+      "id": 179047,
+      "name": "Vigie"
+    },
+    {
+      "id": 179048,
+      "name": "Waterworks"
+    },
+    {
+      "id": 179049,
+      "name": "Wilton'S Yard/Grave Yard"
+    },
+    {
+      "id": 179050,
+      "name": "Yorke Hill"
+    }
+  ]
+}

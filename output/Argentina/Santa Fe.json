@@ -1,0 +1,287 @@
+{
+  "id": 2792,
+  "name": "Santa Fe",
+  "state_code": "S",
+  "cities": [
+    {
+      "id": 73648,
+      "name": "Armstrong"
+    },
+    {
+      "id": 73649,
+      "name": "Arroyo Seco"
+    },
+    {
+      "id": 73650,
+      "name": "Arrufó"
+    },
+    {
+      "id": 73651,
+      "name": "Avellaneda"
+    },
+    {
+      "id": 73652,
+      "name": "Bella Italia"
+    },
+    {
+      "id": 73653,
+      "name": "Calchaquí"
+    },
+    {
+      "id": 73654,
+      "name": "Cañada de Gómez"
+    },
+    {
+      "id": 73655,
+      "name": "Capitán Bermúdez"
+    },
+    {
+      "id": 73656,
+      "name": "Carcarañá"
+    },
+    {
+      "id": 73657,
+      "name": "Casilda"
+    },
+    {
+      "id": 73658,
+      "name": "Ceres"
+    },
+    {
+      "id": 73659,
+      "name": "Chañar Ladeado"
+    },
+    {
+      "id": 73660,
+      "name": "Coronda"
+    },
+    {
+      "id": 73661,
+      "name": "Departamento de Belgrano"
+    },
+    {
+      "id": 73662,
+      "name": "Departamento de Caseros"
+    },
+    {
+      "id": 73663,
+      "name": "Departamento de Castellanos"
+    },
+    {
+      "id": 73664,
+      "name": "Departamento de Constitución"
+    },
+    {
+      "id": 73665,
+      "name": "Departamento de La Capital"
+    },
+    {
+      "id": 73666,
+      "name": "Departamento de Nueve de Julio"
+    },
+    {
+      "id": 73667,
+      "name": "Departamento de San Cristóbal"
+    },
+    {
+      "id": 73668,
+      "name": "Departamento de San Javier"
+    },
+    {
+      "id": 73669,
+      "name": "Departamento de San Justo"
+    },
+    {
+      "id": 73670,
+      "name": "Departamento de San Lorenzo"
+    },
+    {
+      "id": 73671,
+      "name": "Departamento de San Martín"
+    },
+    {
+      "id": 73672,
+      "name": "Departamento de Vera"
+    },
+    {
+      "id": 73673,
+      "name": "El Trébol"
+    },
+    {
+      "id": 73674,
+      "name": "Esperanza"
+    },
+    {
+      "id": 73675,
+      "name": "Firmat"
+    },
+    {
+      "id": 73676,
+      "name": "Fray Luis A. Beltrán"
+    },
+    {
+      "id": 73677,
+      "name": "Funes"
+    },
+    {
+      "id": 73678,
+      "name": "Gálvez"
+    },
+    {
+      "id": 73679,
+      "name": "Gato Colorado"
+    },
+    {
+      "id": 73680,
+      "name": "Gobernador Gálvez"
+    },
+    {
+      "id": 73681,
+      "name": "Granadero Baigorria"
+    },
+    {
+      "id": 73682,
+      "name": "Helvecia"
+    },
+    {
+      "id": 73683,
+      "name": "Hersilia"
+    },
+    {
+      "id": 73684,
+      "name": "Iriondo Department"
+    },
+    {
+      "id": 73685,
+      "name": "Laguna Paiva"
+    },
+    {
+      "id": 73686,
+      "name": "Las Parejas"
+    },
+    {
+      "id": 73687,
+      "name": "Las Rosas"
+    },
+    {
+      "id": 73688,
+      "name": "Las Toscas"
+    },
+    {
+      "id": 73689,
+      "name": "Los Laureles"
+    },
+    {
+      "id": 73690,
+      "name": "Malabrigo"
+    },
+    {
+      "id": 73691,
+      "name": "Melincué"
+    },
+    {
+      "id": 73692,
+      "name": "Pérez"
+    },
+    {
+      "id": 73693,
+      "name": "Rafaela"
+    },
+    {
+      "id": 73694,
+      "name": "Reconquista"
+    },
+    {
+      "id": 73695,
+      "name": "Recreo"
+    },
+    {
+      "id": 73696,
+      "name": "Roldán"
+    },
+    {
+      "id": 73697,
+      "name": "Rosario"
+    },
+    {
+      "id": 73698,
+      "name": "Rufino"
+    },
+    {
+      "id": 73699,
+      "name": "San Carlos Centro"
+    },
+    {
+      "id": 73700,
+      "name": "San Cristóbal"
+    },
+    {
+      "id": 73701,
+      "name": "San Javier"
+    },
+    {
+      "id": 73702,
+      "name": "San Jorge"
+    },
+    {
+      "id": 73703,
+      "name": "San Justo"
+    },
+    {
+      "id": 73704,
+      "name": "Santa Fe"
+    },
+    {
+      "id": 73705,
+      "name": "Santo Tomé"
+    },
+    {
+      "id": 73706,
+      "name": "Sastre"
+    },
+    {
+      "id": 73707,
+      "name": "Sunchales"
+    },
+    {
+      "id": 73708,
+      "name": "Tacuarendí"
+    },
+    {
+      "id": 73709,
+      "name": "Tostado"
+    },
+    {
+      "id": 73710,
+      "name": "Totoras"
+    },
+    {
+      "id": 73711,
+      "name": "Venado Tuerto"
+    },
+    {
+      "id": 73712,
+      "name": "Vera"
+    },
+    {
+      "id": 73713,
+      "name": "Villa Cañás"
+    },
+    {
+      "id": 73714,
+      "name": "Villa Constitución"
+    },
+    {
+      "id": 73715,
+      "name": "Villa Mugueta"
+    },
+    {
+      "id": 73716,
+      "name": "Villa Ocampo"
+    },
+    {
+      "id": 73717,
+      "name": "Villa Trinidad"
+    }
+  ]
+}

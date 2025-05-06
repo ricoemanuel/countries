@@ -1,0 +1,507 @@
+{
+  "id": 3331,
+  "name": "Antioquia",
+  "state_code": "ANT",
+  "cities": [
+    {
+      "id": 91755,
+      "name": "Abejorral"
+    },
+    {
+      "id": 91756,
+      "name": "Abriaquí"
+    },
+    {
+      "id": 91757,
+      "name": "Alejandría"
+    },
+    {
+      "id": 91758,
+      "name": "Amagá"
+    },
+    {
+      "id": 91759,
+      "name": "Amalfi"
+    },
+    {
+      "id": 91760,
+      "name": "Andes"
+    },
+    {
+      "id": 91761,
+      "name": "Angelópolis"
+    },
+    {
+      "id": 91762,
+      "name": "Angostura"
+    },
+    {
+      "id": 91763,
+      "name": "Anorí"
+    },
+    {
+      "id": 91764,
+      "name": "Anza"
+    },
+    {
+      "id": 91765,
+      "name": "Apartadó"
+    },
+    {
+      "id": 91766,
+      "name": "Arboletes"
+    },
+    {
+      "id": 91767,
+      "name": "Argelia"
+    },
+    {
+      "id": 91768,
+      "name": "Armenia"
+    },
+    {
+      "id": 91769,
+      "name": "Barbosa"
+    },
+    {
+      "id": 91770,
+      "name": "Bello"
+    },
+    {
+      "id": 91771,
+      "name": "Belmira"
+    },
+    {
+      "id": 91772,
+      "name": "Betania"
+    },
+    {
+      "id": 91773,
+      "name": "Betulia"
+    },
+    {
+      "id": 91774,
+      "name": "Briceño"
+    },
+    {
+      "id": 91775,
+      "name": "Buriticá"
+    },
+    {
+      "id": 91776,
+      "name": "Cáceres"
+    },
+    {
+      "id": 91777,
+      "name": "Caicedo"
+    },
+    {
+      "id": 91778,
+      "name": "Caldas"
+    },
+    {
+      "id": 91779,
+      "name": "Campamento"
+    },
+    {
+      "id": 91780,
+      "name": "Cañasgordas"
+    },
+    {
+      "id": 91781,
+      "name": "Caracolí"
+    },
+    {
+      "id": 91782,
+      "name": "Caramanta"
+    },
+    {
+      "id": 91783,
+      "name": "Carepa"
+    },
+    {
+      "id": 91784,
+      "name": "Carolina"
+    },
+    {
+      "id": 91785,
+      "name": "Caucasia"
+    },
+    {
+      "id": 91786,
+      "name": "Chigorodó"
+    },
+    {
+      "id": 91787,
+      "name": "Cisneros"
+    },
+    {
+      "id": 91788,
+      "name": "Ciudad Bolívar"
+    },
+    {
+      "id": 91789,
+      "name": "Cocorná"
+    },
+    {
+      "id": 91790,
+      "name": "Concepción"
+    },
+    {
+      "id": 91791,
+      "name": "Concordia"
+    },
+    {
+      "id": 91792,
+      "name": "Copacabana"
+    },
+    {
+      "id": 91793,
+      "name": "Dabeiba"
+    },
+    {
+      "id": 91794,
+      "name": "Donmatías"
+    },
+    {
+      "id": 91795,
+      "name": "Ebéjico"
+    },
+    {
+      "id": 91796,
+      "name": "El Bagre"
+    },
+    {
+      "id": 91797,
+      "name": "El Carmen de Viboral"
+    },
+    {
+      "id": 91798,
+      "name": "El Santuario"
+    },
+    {
+      "id": 91799,
+      "name": "Entrerrios"
+    },
+    {
+      "id": 91800,
+      "name": "Envigado"
+    },
+    {
+      "id": 91801,
+      "name": "Fredonia"
+    },
+    {
+      "id": 91802,
+      "name": "Frontino"
+    },
+    {
+      "id": 91803,
+      "name": "Giraldo"
+    },
+    {
+      "id": 91804,
+      "name": "Girardota"
+    },
+    {
+      "id": 91805,
+      "name": "Gómez Plata"
+    },
+    {
+      "id": 91806,
+      "name": "Granada"
+    },
+    {
+      "id": 91807,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 91808,
+      "name": "Guarne"
+    },
+    {
+      "id": 91809,
+      "name": "Guatapé"
+    },
+    {
+      "id": 91810,
+      "name": "Heliconia"
+    },
+    {
+      "id": 91811,
+      "name": "Hispania"
+    },
+    {
+      "id": 91812,
+      "name": "Itagui"
+    },
+    {
+      "id": 91813,
+      "name": "Ituango"
+    },
+    {
+      "id": 91814,
+      "name": "Jardín"
+    },
+    {
+      "id": 91815,
+      "name": "Jericó"
+    },
+    {
+      "id": 91816,
+      "name": "La Ceja"
+    },
+    {
+      "id": 91817,
+      "name": "La Estrella"
+    },
+    {
+      "id": 91818,
+      "name": "La Pintada"
+    },
+    {
+      "id": 91819,
+      "name": "La Unión"
+    },
+    {
+      "id": 91820,
+      "name": "Liborina"
+    },
+    {
+      "id": 91821,
+      "name": "Maceo"
+    },
+    {
+      "id": 91822,
+      "name": "Marinilla"
+    },
+    {
+      "id": 91823,
+      "name": "Medellín"
+    },
+    {
+      "id": 91824,
+      "name": "Montebello"
+    },
+    {
+      "id": 91825,
+      "name": "Murindó"
+    },
+    {
+      "id": 91826,
+      "name": "Mutatá"
+    },
+    {
+      "id": 91827,
+      "name": "Nariño"
+    },
+    {
+      "id": 91828,
+      "name": "Nechí"
+    },
+    {
+      "id": 91829,
+      "name": "Necoclí"
+    },
+    {
+      "id": 91830,
+      "name": "Olaya"
+    },
+    {
+      "id": 91831,
+      "name": "Peñol"
+    },
+    {
+      "id": 91832,
+      "name": "Peque"
+    },
+    {
+      "id": 91833,
+      "name": "Pueblorrico"
+    },
+    {
+      "id": 91834,
+      "name": "Puerto Berrío"
+    },
+    {
+      "id": 91835,
+      "name": "Puerto Nare"
+    },
+    {
+      "id": 91836,
+      "name": "Puerto Triunfo"
+    },
+    {
+      "id": 91837,
+      "name": "Remedios"
+    },
+    {
+      "id": 91838,
+      "name": "Retiro"
+    },
+    {
+      "id": 91839,
+      "name": "Rionegro"
+    },
+    {
+      "id": 91840,
+      "name": "Sabanalarga"
+    },
+    {
+      "id": 91841,
+      "name": "Sabaneta"
+    },
+    {
+      "id": 91842,
+      "name": "Salgar"
+    },
+    {
+      "id": 91843,
+      "name": "San Andrés de Cuerquía"
+    },
+    {
+      "id": 91844,
+      "name": "San Carlos"
+    },
+    {
+      "id": 91845,
+      "name": "San Francisco"
+    },
+    {
+      "id": 91846,
+      "name": "San Jerónimo"
+    },
+    {
+      "id": 91847,
+      "name": "San José de la Montaña"
+    },
+    {
+      "id": 91848,
+      "name": "San Juan de Urabá"
+    },
+    {
+      "id": 91849,
+      "name": "San Luis"
+    },
+    {
+      "id": 91850,
+      "name": "San Pedro de los Milagros"
+    },
+    {
+      "id": 91851,
+      "name": "San Pedro de Uraba"
+    },
+    {
+      "id": 91852,
+      "name": "San Rafael"
+    },
+    {
+      "id": 91853,
+      "name": "San Roque"
+    },
+    {
+      "id": 91854,
+      "name": "San Vicente Ferrer"
+    },
+    {
+      "id": 91855,
+      "name": "Santa Bárbara"
+    },
+    {
+      "id": 91856,
+      "name": "Santa Fe de Antioquia"
+    },
+    {
+      "id": 91857,
+      "name": "Santa Rosa de Osos"
+    },
+    {
+      "id": 91858,
+      "name": "Santo Domingo"
+    },
+    {
+      "id": 91859,
+      "name": "Segovia"
+    },
+    {
+      "id": 91860,
+      "name": "Sonson"
+    },
+    {
+      "id": 91861,
+      "name": "Sopetrán"
+    },
+    {
+      "id": 91862,
+      "name": "Támesis"
+    },
+    {
+      "id": 91863,
+      "name": "Tarazá"
+    },
+    {
+      "id": 91864,
+      "name": "Tarso"
+    },
+    {
+      "id": 91865,
+      "name": "Titiribí"
+    },
+    {
+      "id": 91866,
+      "name": "Toledo"
+    },
+    {
+      "id": 91867,
+      "name": "Turbo"
+    },
+    {
+      "id": 91868,
+      "name": "Uramita"
+    },
+    {
+      "id": 91869,
+      "name": "Urrao"
+    },
+    {
+      "id": 91870,
+      "name": "Valdivia"
+    },
+    {
+      "id": 91871,
+      "name": "Valparaíso"
+    },
+    {
+      "id": 91872,
+      "name": "Vegachí"
+    },
+    {
+      "id": 91873,
+      "name": "Venecia"
+    },
+    {
+      "id": 91874,
+      "name": "Vigía del Fuerte"
+    },
+    {
+      "id": 91875,
+      "name": "Yalí"
+    },
+    {
+      "id": 91876,
+      "name": "Yarumal"
+    },
+    {
+      "id": 91877,
+      "name": "Yolombó"
+    },
+    {
+      "id": 91878,
+      "name": "Yondó"
+    },
+    {
+      "id": 91879,
+      "name": "Zaragoza"
+    }
+  ]
+}

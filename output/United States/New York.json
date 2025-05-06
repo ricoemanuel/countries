@@ -1,0 +1,4207 @@
+{
+  "id": 7468,
+  "name": "New York",
+  "state_code": "NY",
+  "cities": [
+    {
+      "id": 212949,
+      "name": "Adams"
+    },
+    {
+      "id": 212950,
+      "name": "Adams Center"
+    },
+    {
+      "id": 212951,
+      "name": "Addison"
+    },
+    {
+      "id": 212952,
+      "name": "Airmont"
+    },
+    {
+      "id": 212953,
+      "name": "Akron"
+    },
+    {
+      "id": 212954,
+      "name": "Alabama"
+    },
+    {
+      "id": 212955,
+      "name": "Albany"
+    },
+    {
+      "id": 212956,
+      "name": "Albany County"
+    },
+    {
+      "id": 212957,
+      "name": "Albertson"
+    },
+    {
+      "id": 212958,
+      "name": "Albion"
+    },
+    {
+      "id": 212959,
+      "name": "Alden"
+    },
+    {
+      "id": 212960,
+      "name": "Alexandria Bay"
+    },
+    {
+      "id": 212961,
+      "name": "Alfred"
+    },
+    {
+      "id": 212962,
+      "name": "Allegany"
+    },
+    {
+      "id": 212963,
+      "name": "Allegany County"
+    },
+    {
+      "id": 212964,
+      "name": "Altamont"
+    },
+    {
+      "id": 212965,
+      "name": "Amagansett"
+    },
+    {
+      "id": 212966,
+      "name": "Amherst"
+    },
+    {
+      "id": 212967,
+      "name": "Amityville"
+    },
+    {
+      "id": 212968,
+      "name": "Amsterdam"
+    },
+    {
+      "id": 212969,
+      "name": "Andover"
+    },
+    {
+      "id": 212970,
+      "name": "Angola"
+    },
+    {
+      "id": 212971,
+      "name": "Angola on the Lake"
+    },
+    {
+      "id": 212972,
+      "name": "Apalachin"
+    },
+    {
+      "id": 212973,
+      "name": "Aquebogue"
+    },
+    {
+      "id": 212974,
+      "name": "Arcade"
+    },
+    {
+      "id": 212975,
+      "name": "Ardsley"
+    },
+    {
+      "id": 212976,
+      "name": "Arlington"
+    },
+    {
+      "id": 212977,
+      "name": "Armonk"
+    },
+    {
+      "id": 212978,
+      "name": "Arrochar"
+    },
+    {
+      "id": 212979,
+      "name": "Arverne"
+    },
+    {
+      "id": 212980,
+      "name": "Astoria"
+    },
+    {
+      "id": 212981,
+      "name": "Athens"
+    },
+    {
+      "id": 212982,
+      "name": "Atlantic Beach"
+    },
+    {
+      "id": 212983,
+      "name": "Attica"
+    },
+    {
+      "id": 212984,
+      "name": "Auburn"
+    },
+    {
+      "id": 212985,
+      "name": "Augusta"
+    },
+    {
+      "id": 212986,
+      "name": "Averill Park"
+    },
+    {
+      "id": 212987,
+      "name": "Avon"
+    },
+    {
+      "id": 212988,
+      "name": "Babylon"
+    },
+    {
+      "id": 212989,
+      "name": "Bainbridge"
+    },
+    {
+      "id": 212990,
+      "name": "Baiting Hollow"
+    },
+    {
+      "id": 212991,
+      "name": "Baldwin"
+    },
+    {
+      "id": 212992,
+      "name": "Baldwin Harbor"
+    },
+    {
+      "id": 212993,
+      "name": "Baldwinsville"
+    },
+    {
+      "id": 212994,
+      "name": "Ballston Spa"
+    },
+    {
+      "id": 212995,
+      "name": "Balmville"
+    },
+    {
+      "id": 212996,
+      "name": "Bardonia"
+    },
+    {
+      "id": 212997,
+      "name": "Barnum Island"
+    },
+    {
+      "id": 212998,
+      "name": "Batavia"
+    },
+    {
+      "id": 212999,
+      "name": "Bath"
+    },
+    {
+      "id": 213000,
+      "name": "Bath Beach"
+    },
+    {
+      "id": 213001,
+      "name": "Baxter Estates"
+    },
+    {
+      "id": 213002,
+      "name": "Bay Park"
+    },
+    {
+      "id": 213003,
+      "name": "Bay Shore"
+    },
+    {
+      "id": 213004,
+      "name": "Bay Wood"
+    },
+    {
+      "id": 213005,
+      "name": "Baychester"
+    },
+    {
+      "id": 213006,
+      "name": "Bayport"
+    },
+    {
+      "id": 213007,
+      "name": "Bayside"
+    },
+    {
+      "id": 213008,
+      "name": "Bayville"
+    },
+    {
+      "id": 213009,
+      "name": "Beacon"
+    },
+    {
+      "id": 213010,
+      "name": "Beaver Dam Lake"
+    },
+    {
+      "id": 213011,
+      "name": "Beaverdam Lake-Salisbury Mills"
+    },
+    {
+      "id": 213012,
+      "name": "Bedford"
+    },
+    {
+      "id": 213013,
+      "name": "Bedford Hills"
+    },
+    {
+      "id": 213014,
+      "name": "Bellaire"
+    },
+    {
+      "id": 213015,
+      "name": "Belle Harbor"
+    },
+    {
+      "id": 213016,
+      "name": "Bellerose"
+    },
+    {
+      "id": 213017,
+      "name": "Bellerose Terrace"
+    },
+    {
+      "id": 213018,
+      "name": "Bellmore"
+    },
+    {
+      "id": 213019,
+      "name": "Bellport"
+    },
+    {
+      "id": 213020,
+      "name": "Belmont"
+    },
+    {
+      "id": 213021,
+      "name": "Bensonhurst"
+    },
+    {
+      "id": 213022,
+      "name": "Bergen"
+    },
+    {
+      "id": 213023,
+      "name": "Bergen Beach"
+    },
+    {
+      "id": 213024,
+      "name": "Bethpage"
+    },
+    {
+      "id": 213025,
+      "name": "Big Flats"
+    },
+    {
+      "id": 213026,
+      "name": "Billington Heights"
+    },
+    {
+      "id": 213027,
+      "name": "Binghamton"
+    },
+    {
+      "id": 213028,
+      "name": "Black River"
+    },
+    {
+      "id": 213029,
+      "name": "Blasdell"
+    },
+    {
+      "id": 213030,
+      "name": "Blauvelt"
+    },
+    {
+      "id": 213031,
+      "name": "Bloomfield"
+    },
+    {
+      "id": 213032,
+      "name": "Blue Point"
+    },
+    {
+      "id": 213033,
+      "name": "Bohemia"
+    },
+    {
+      "id": 213034,
+      "name": "Bolivar"
+    },
+    {
+      "id": 213035,
+      "name": "Boonville"
+    },
+    {
+      "id": 213036,
+      "name": "Borough Park"
+    },
+    {
+      "id": 213037,
+      "name": "Boston"
+    },
+    {
+      "id": 213038,
+      "name": "Brentwood"
+    },
+    {
+      "id": 213039,
+      "name": "Brewerton"
+    },
+    {
+      "id": 213040,
+      "name": "Brewster"
+    },
+    {
+      "id": 213041,
+      "name": "Brewster Hill"
+    },
+    {
+      "id": 213042,
+      "name": "Briarcliff Manor"
+    },
+    {
+      "id": 213043,
+      "name": "Briarwood"
+    },
+    {
+      "id": 213044,
+      "name": "Bridgehampton"
+    },
+    {
+      "id": 213045,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 213046,
+      "name": "Brighton"
+    },
+    {
+      "id": 213047,
+      "name": "Brighton Beach"
+    },
+    {
+      "id": 213048,
+      "name": "Brightwaters"
+    },
+    {
+      "id": 213049,
+      "name": "Brinckerhoff"
+    },
+    {
+      "id": 213050,
+      "name": "Broad Channel"
+    },
+    {
+      "id": 213051,
+      "name": "Broadalbin"
+    },
+    {
+      "id": 213052,
+      "name": "Brockport"
+    },
+    {
+      "id": 213053,
+      "name": "Brocton"
+    },
+    {
+      "id": 213054,
+      "name": "Bronx"
+    },
+    {
+      "id": 213055,
+      "name": "Bronxville"
+    },
+    {
+      "id": 213056,
+      "name": "Brookhaven"
+    },
+    {
+      "id": 213057,
+      "name": "Brooklyn"
+    },
+    {
+      "id": 213058,
+      "name": "Brooklyn Heights"
+    },
+    {
+      "id": 213059,
+      "name": "Brookville"
+    },
+    {
+      "id": 213060,
+      "name": "Broome County"
+    },
+    {
+      "id": 213061,
+      "name": "Brownsville"
+    },
+    {
+      "id": 213062,
+      "name": "Brownville"
+    },
+    {
+      "id": 213063,
+      "name": "Buchanan"
+    },
+    {
+      "id": 213064,
+      "name": "Buffalo"
+    },
+    {
+      "id": 213065,
+      "name": "Bushwick"
+    },
+    {
+      "id": 213066,
+      "name": "Cairo"
+    },
+    {
+      "id": 213067,
+      "name": "Calcium"
+    },
+    {
+      "id": 213068,
+      "name": "Caledonia"
+    },
+    {
+      "id": 213069,
+      "name": "Calverton"
+    },
+    {
+      "id": 213070,
+      "name": "Cambria Heights"
+    },
+    {
+      "id": 213071,
+      "name": "Cambridge"
+    },
+    {
+      "id": 213072,
+      "name": "Camden"
+    },
+    {
+      "id": 213073,
+      "name": "Camillus"
+    },
+    {
+      "id": 213074,
+      "name": "Canajoharie"
+    },
+    {
+      "id": 213075,
+      "name": "Canandaigua"
+    },
+    {
+      "id": 213076,
+      "name": "Canarsie"
+    },
+    {
+      "id": 213077,
+      "name": "Canastota"
+    },
+    {
+      "id": 213078,
+      "name": "Canisteo"
+    },
+    {
+      "id": 213079,
+      "name": "Canton"
+    },
+    {
+      "id": 213080,
+      "name": "Carle Place"
+    },
+    {
+      "id": 213081,
+      "name": "Carmel"
+    },
+    {
+      "id": 213082,
+      "name": "Carmel Hamlet"
+    },
+    {
+      "id": 213083,
+      "name": "Carthage"
+    },
+    {
+      "id": 213084,
+      "name": "Castleton-on-Hudson"
+    },
+    {
+      "id": 213085,
+      "name": "Catskill"
+    },
+    {
+      "id": 213086,
+      "name": "Cattaraugus County"
+    },
+    {
+      "id": 213087,
+      "name": "Cayuga County"
+    },
+    {
+      "id": 213088,
+      "name": "Cayuga Heights"
+    },
+    {
+      "id": 213089,
+      "name": "Cazenovia"
+    },
+    {
+      "id": 213090,
+      "name": "Cedarhurst"
+    },
+    {
+      "id": 213091,
+      "name": "Celoron"
+    },
+    {
+      "id": 213092,
+      "name": "Center Moriches"
+    },
+    {
+      "id": 213093,
+      "name": "Centereach"
+    },
+    {
+      "id": 213094,
+      "name": "Centerport"
+    },
+    {
+      "id": 213095,
+      "name": "Central Islip"
+    },
+    {
+      "id": 213096,
+      "name": "Central Square"
+    },
+    {
+      "id": 213097,
+      "name": "Central Valley"
+    },
+    {
+      "id": 213098,
+      "name": "Chadwicks"
+    },
+    {
+      "id": 213099,
+      "name": "Champlain"
+    },
+    {
+      "id": 213100,
+      "name": "Chappaqua"
+    },
+    {
+      "id": 213101,
+      "name": "Charleston"
+    },
+    {
+      "id": 213102,
+      "name": "Chatham"
+    },
+    {
+      "id": 213103,
+      "name": "Chautauqua County"
+    },
+    {
+      "id": 213104,
+      "name": "Cheektowaga"
+    },
+    {
+      "id": 213105,
+      "name": "Chelsea"
+    },
+    {
+      "id": 213106,
+      "name": "Chemung County"
+    },
+    {
+      "id": 213107,
+      "name": "Chenango Bridge"
+    },
+    {
+      "id": 213108,
+      "name": "Chenango County"
+    },
+    {
+      "id": 213109,
+      "name": "Chester"
+    },
+    {
+      "id": 213110,
+      "name": "Chestnut Ridge"
+    },
+    {
+      "id": 213111,
+      "name": "Chittenango"
+    },
+    {
+      "id": 213112,
+      "name": "Churchville"
+    },
+    {
+      "id": 213113,
+      "name": "City Island"
+    },
+    {
+      "id": 213114,
+      "name": "Clarence"
+    },
+    {
+      "id": 213115,
+      "name": "Clarence Center"
+    },
+    {
+      "id": 213116,
+      "name": "Clark Mills"
+    },
+    {
+      "id": 213117,
+      "name": "Clarkson"
+    },
+    {
+      "id": 213118,
+      "name": "Clayton"
+    },
+    {
+      "id": 213119,
+      "name": "Clifton"
+    },
+    {
+      "id": 213120,
+      "name": "Clifton Springs"
+    },
+    {
+      "id": 213121,
+      "name": "Clinton"
+    },
+    {
+      "id": 213122,
+      "name": "Clinton County"
+    },
+    {
+      "id": 213123,
+      "name": "Clintondale"
+    },
+    {
+      "id": 213124,
+      "name": "Clyde"
+    },
+    {
+      "id": 213125,
+      "name": "Clymer"
+    },
+    {
+      "id": 213126,
+      "name": "Cobleskill"
+    },
+    {
+      "id": 213127,
+      "name": "Cohoes"
+    },
+    {
+      "id": 213128,
+      "name": "Cold Spring"
+    },
+    {
+      "id": 213129,
+      "name": "Cold Spring Harbor"
+    },
+    {
+      "id": 213130,
+      "name": "College Point"
+    },
+    {
+      "id": 213131,
+      "name": "Colonie"
+    },
+    {
+      "id": 213132,
+      "name": "Columbia County"
+    },
+    {
+      "id": 213133,
+      "name": "Commack"
+    },
+    {
+      "id": 213134,
+      "name": "Concord"
+    },
+    {
+      "id": 213135,
+      "name": "Coney Island"
+    },
+    {
+      "id": 213136,
+      "name": "Congers"
+    },
+    {
+      "id": 213137,
+      "name": "Constantia"
+    },
+    {
+      "id": 213138,
+      "name": "Cooperstown"
+    },
+    {
+      "id": 213139,
+      "name": "Copiague"
+    },
+    {
+      "id": 213140,
+      "name": "Coram"
+    },
+    {
+      "id": 213141,
+      "name": "Corinth"
+    },
+    {
+      "id": 213142,
+      "name": "Corning"
+    },
+    {
+      "id": 213143,
+      "name": "Cornwall"
+    },
+    {
+      "id": 213144,
+      "name": "Corona"
+    },
+    {
+      "id": 213145,
+      "name": "Cortland"
+    },
+    {
+      "id": 213146,
+      "name": "Cortland County"
+    },
+    {
+      "id": 213147,
+      "name": "Cortland West"
+    },
+    {
+      "id": 213148,
+      "name": "Country Knolls"
+    },
+    {
+      "id": 213149,
+      "name": "Coxsackie"
+    },
+    {
+      "id": 213150,
+      "name": "Crompond"
+    },
+    {
+      "id": 213151,
+      "name": "Croton-on-Hudson"
+    },
+    {
+      "id": 213152,
+      "name": "Crown Heights"
+    },
+    {
+      "id": 213153,
+      "name": "Crugers"
+    },
+    {
+      "id": 213154,
+      "name": "Cuba"
+    },
+    {
+      "id": 213155,
+      "name": "Cumberland Head"
+    },
+    {
+      "id": 213156,
+      "name": "Cutchogue"
+    },
+    {
+      "id": 213157,
+      "name": "Cypress Hills"
+    },
+    {
+      "id": 213158,
+      "name": "Dannemora"
+    },
+    {
+      "id": 213159,
+      "name": "Dansville"
+    },
+    {
+      "id": 213160,
+      "name": "Deer Park"
+    },
+    {
+      "id": 213161,
+      "name": "Delaware County"
+    },
+    {
+      "id": 213162,
+      "name": "Delevan"
+    },
+    {
+      "id": 213163,
+      "name": "Delhi"
+    },
+    {
+      "id": 213164,
+      "name": "Delmar"
+    },
+    {
+      "id": 213165,
+      "name": "Depew"
+    },
+    {
+      "id": 213166,
+      "name": "Deposit"
+    },
+    {
+      "id": 213167,
+      "name": "Dexter"
+    },
+    {
+      "id": 213168,
+      "name": "Dix Hills"
+    },
+    {
+      "id": 213169,
+      "name": "Dobbs Ferry"
+    },
+    {
+      "id": 213170,
+      "name": "Dolgeville"
+    },
+    {
+      "id": 213171,
+      "name": "Dongan Hills"
+    },
+    {
+      "id": 213172,
+      "name": "Douglaston"
+    },
+    {
+      "id": 213173,
+      "name": "Dover Plains"
+    },
+    {
+      "id": 213174,
+      "name": "Dryden"
+    },
+    {
+      "id": 213175,
+      "name": "Dundee"
+    },
+    {
+      "id": 213176,
+      "name": "Dunkirk"
+    },
+    {
+      "id": 213177,
+      "name": "Durham"
+    },
+    {
+      "id": 213178,
+      "name": "Dutchess County"
+    },
+    {
+      "id": 213179,
+      "name": "Dyker Heights"
+    },
+    {
+      "id": 213180,
+      "name": "East Atlantic Beach"
+    },
+    {
+      "id": 213181,
+      "name": "East Aurora"
+    },
+    {
+      "id": 213182,
+      "name": "East Elmhurst"
+    },
+    {
+      "id": 213183,
+      "name": "East Farmingdale"
+    },
+    {
+      "id": 213184,
+      "name": "East Flatbush"
+    },
+    {
+      "id": 213185,
+      "name": "East Garden City"
+    },
+    {
+      "id": 213186,
+      "name": "East Glenville"
+    },
+    {
+      "id": 213187,
+      "name": "East Greenbush"
+    },
+    {
+      "id": 213188,
+      "name": "East Hampton"
+    },
+    {
+      "id": 213189,
+      "name": "East Hampton North"
+    },
+    {
+      "id": 213190,
+      "name": "East Harlem"
+    },
+    {
+      "id": 213191,
+      "name": "East Hills"
+    },
+    {
+      "id": 213192,
+      "name": "East Islip"
+    },
+    {
+      "id": 213193,
+      "name": "East Ithaca"
+    },
+    {
+      "id": 213194,
+      "name": "East Massapequa"
+    },
+    {
+      "id": 213195,
+      "name": "East Meadow"
+    },
+    {
+      "id": 213196,
+      "name": "East Moriches"
+    },
+    {
+      "id": 213197,
+      "name": "East New York"
+    },
+    {
+      "id": 213198,
+      "name": "East Northport"
+    },
+    {
+      "id": 213199,
+      "name": "East Norwich"
+    },
+    {
+      "id": 213200,
+      "name": "East Patchogue"
+    },
+    {
+      "id": 213201,
+      "name": "East Quogue"
+    },
+    {
+      "id": 213202,
+      "name": "East Rochester"
+    },
+    {
+      "id": 213203,
+      "name": "East Rockaway"
+    },
+    {
+      "id": 213204,
+      "name": "East Setauket"
+    },
+    {
+      "id": 213205,
+      "name": "East Shoreham"
+    },
+    {
+      "id": 213206,
+      "name": "East Syracuse"
+    },
+    {
+      "id": 213207,
+      "name": "East Tremont"
+    },
+    {
+      "id": 213208,
+      "name": "East Village"
+    },
+    {
+      "id": 213209,
+      "name": "East Williston"
+    },
+    {
+      "id": 213210,
+      "name": "Eastchester"
+    },
+    {
+      "id": 213211,
+      "name": "Eastport"
+    },
+    {
+      "id": 213212,
+      "name": "Eatons Neck"
+    },
+    {
+      "id": 213213,
+      "name": "Eden"
+    },
+    {
+      "id": 213214,
+      "name": "Edgemere"
+    },
+    {
+      "id": 213215,
+      "name": "Edinburg"
+    },
+    {
+      "id": 213216,
+      "name": "Eggertsville"
+    },
+    {
+      "id": 213217,
+      "name": "Elbridge"
+    },
+    {
+      "id": 213218,
+      "name": "Elizabethtown"
+    },
+    {
+      "id": 213219,
+      "name": "Ellenville"
+    },
+    {
+      "id": 213220,
+      "name": "Elma Center"
+    },
+    {
+      "id": 213221,
+      "name": "Elmhurst"
+    },
+    {
+      "id": 213222,
+      "name": "Elmira"
+    },
+    {
+      "id": 213223,
+      "name": "Elmira Heights"
+    },
+    {
+      "id": 213224,
+      "name": "Elmont"
+    },
+    {
+      "id": 213225,
+      "name": "Elmsford"
+    },
+    {
+      "id": 213226,
+      "name": "Eltingville"
+    },
+    {
+      "id": 213227,
+      "name": "Elwood"
+    },
+    {
+      "id": 213228,
+      "name": "Emerson Hill"
+    },
+    {
+      "id": 213229,
+      "name": "Endicott"
+    },
+    {
+      "id": 213230,
+      "name": "Endwell"
+    },
+    {
+      "id": 213231,
+      "name": "Erie County"
+    },
+    {
+      "id": 213232,
+      "name": "Essex County"
+    },
+    {
+      "id": 213233,
+      "name": "Fairmount"
+    },
+    {
+      "id": 213234,
+      "name": "Fairport"
+    },
+    {
+      "id": 213235,
+      "name": "Fairview"
+    },
+    {
+      "id": 213236,
+      "name": "Falconer"
+    },
+    {
+      "id": 213237,
+      "name": "Fallsburg"
+    },
+    {
+      "id": 213238,
+      "name": "Far Rockaway"
+    },
+    {
+      "id": 213239,
+      "name": "Farmingdale"
+    },
+    {
+      "id": 213240,
+      "name": "Farmingville"
+    },
+    {
+      "id": 213241,
+      "name": "Fayetteville"
+    },
+    {
+      "id": 213242,
+      "name": "Firthcliffe"
+    },
+    {
+      "id": 213243,
+      "name": "Fishkill"
+    },
+    {
+      "id": 213244,
+      "name": "Flanders"
+    },
+    {
+      "id": 213245,
+      "name": "Flatbush"
+    },
+    {
+      "id": 213246,
+      "name": "Flatlands"
+    },
+    {
+      "id": 213247,
+      "name": "Floral Park"
+    },
+    {
+      "id": 213248,
+      "name": "Florida"
+    },
+    {
+      "id": 213249,
+      "name": "Flower Hill"
+    },
+    {
+      "id": 213250,
+      "name": "Fonda"
+    },
+    {
+      "id": 213251,
+      "name": "Fordham"
+    },
+    {
+      "id": 213252,
+      "name": "Forest Hills"
+    },
+    {
+      "id": 213253,
+      "name": "Fort Covington Hamlet"
+    },
+    {
+      "id": 213254,
+      "name": "Fort Drum"
+    },
+    {
+      "id": 213255,
+      "name": "Fort Edward"
+    },
+    {
+      "id": 213256,
+      "name": "Fort Hamilton"
+    },
+    {
+      "id": 213257,
+      "name": "Fort Montgomery"
+    },
+    {
+      "id": 213258,
+      "name": "Fort Plain"
+    },
+    {
+      "id": 213259,
+      "name": "Fort Salonga"
+    },
+    {
+      "id": 213260,
+      "name": "Fort Wadsworth"
+    },
+    {
+      "id": 213261,
+      "name": "Frankfort"
+    },
+    {
+      "id": 213262,
+      "name": "Franklin County"
+    },
+    {
+      "id": 213263,
+      "name": "Franklin Square"
+    },
+    {
+      "id": 213264,
+      "name": "Franklinville"
+    },
+    {
+      "id": 213265,
+      "name": "Fredonia"
+    },
+    {
+      "id": 213266,
+      "name": "Freeport"
+    },
+    {
+      "id": 213267,
+      "name": "Fresh Meadows"
+    },
+    {
+      "id": 213268,
+      "name": "Frewsburg"
+    },
+    {
+      "id": 213269,
+      "name": "Friendship"
+    },
+    {
+      "id": 213270,
+      "name": "Fulton"
+    },
+    {
+      "id": 213271,
+      "name": "Fulton County"
+    },
+    {
+      "id": 213272,
+      "name": "Galeville"
+    },
+    {
+      "id": 213273,
+      "name": "Gang Mills"
+    },
+    {
+      "id": 213274,
+      "name": "Garden City"
+    },
+    {
+      "id": 213275,
+      "name": "Garden City Park"
+    },
+    {
+      "id": 213276,
+      "name": "Garden City South"
+    },
+    {
+      "id": 213277,
+      "name": "Gardnertown"
+    },
+    {
+      "id": 213278,
+      "name": "Gasport"
+    },
+    {
+      "id": 213279,
+      "name": "Gates-North Gates"
+    },
+    {
+      "id": 213280,
+      "name": "Genesee County"
+    },
+    {
+      "id": 213281,
+      "name": "Geneseo"
+    },
+    {
+      "id": 213282,
+      "name": "Geneva"
+    },
+    {
+      "id": 213283,
+      "name": "Glasco"
+    },
+    {
+      "id": 213284,
+      "name": "Glen Cove"
+    },
+    {
+      "id": 213285,
+      "name": "Glen Head"
+    },
+    {
+      "id": 213286,
+      "name": "Glen Oaks"
+    },
+    {
+      "id": 213287,
+      "name": "Glendale"
+    },
+    {
+      "id": 213288,
+      "name": "Glens Falls"
+    },
+    {
+      "id": 213289,
+      "name": "Glens Falls North"
+    },
+    {
+      "id": 213290,
+      "name": "Glenwood Landing"
+    },
+    {
+      "id": 213291,
+      "name": "Gloversville"
+    },
+    {
+      "id": 213292,
+      "name": "Goldens Bridge"
+    },
+    {
+      "id": 213293,
+      "name": "Gordon Heights"
+    },
+    {
+      "id": 213294,
+      "name": "Goshen"
+    },
+    {
+      "id": 213295,
+      "name": "Gouverneur"
+    },
+    {
+      "id": 213296,
+      "name": "Gowanda"
+    },
+    {
+      "id": 213297,
+      "name": "Grand Island"
+    },
+    {
+      "id": 213298,
+      "name": "Grandyle Village"
+    },
+    {
+      "id": 213299,
+      "name": "Graniteville"
+    },
+    {
+      "id": 213300,
+      "name": "Grant City"
+    },
+    {
+      "id": 213301,
+      "name": "Granville"
+    },
+    {
+      "id": 213302,
+      "name": "Gravesend"
+    },
+    {
+      "id": 213303,
+      "name": "Great Kills"
+    },
+    {
+      "id": 213304,
+      "name": "Great Neck"
+    },
+    {
+      "id": 213305,
+      "name": "Great Neck Estates"
+    },
+    {
+      "id": 213306,
+      "name": "Great Neck Gardens"
+    },
+    {
+      "id": 213307,
+      "name": "Great Neck Plaza"
+    },
+    {
+      "id": 213308,
+      "name": "Great River"
+    },
+    {
+      "id": 213309,
+      "name": "Greece"
+    },
+    {
+      "id": 213310,
+      "name": "Green Island"
+    },
+    {
+      "id": 213311,
+      "name": "Greenburgh"
+    },
+    {
+      "id": 213312,
+      "name": "Greene"
+    },
+    {
+      "id": 213313,
+      "name": "Greene County"
+    },
+    {
+      "id": 213314,
+      "name": "Greenlawn"
+    },
+    {
+      "id": 213315,
+      "name": "Greenpoint"
+    },
+    {
+      "id": 213316,
+      "name": "Greenport"
+    },
+    {
+      "id": 213317,
+      "name": "Greenport West"
+    },
+    {
+      "id": 213318,
+      "name": "Greenvale"
+    },
+    {
+      "id": 213319,
+      "name": "Greenville"
+    },
+    {
+      "id": 213320,
+      "name": "Greenwich"
+    },
+    {
+      "id": 213321,
+      "name": "Greenwood Lake"
+    },
+    {
+      "id": 213322,
+      "name": "Groton"
+    },
+    {
+      "id": 213323,
+      "name": "Grymes Hill"
+    },
+    {
+      "id": 213324,
+      "name": "Hadley"
+    },
+    {
+      "id": 213325,
+      "name": "Hagaman"
+    },
+    {
+      "id": 213326,
+      "name": "Halesite"
+    },
+    {
+      "id": 213327,
+      "name": "Hamburg"
+    },
+    {
+      "id": 213328,
+      "name": "Hamilton"
+    },
+    {
+      "id": 213329,
+      "name": "Hamilton County"
+    },
+    {
+      "id": 213330,
+      "name": "Hamlin"
+    },
+    {
+      "id": 213331,
+      "name": "Hampton Bays"
+    },
+    {
+      "id": 213332,
+      "name": "Hampton Manor"
+    },
+    {
+      "id": 213333,
+      "name": "Hannawa Falls"
+    },
+    {
+      "id": 213334,
+      "name": "Harbor Isle"
+    },
+    {
+      "id": 213335,
+      "name": "Harlem"
+    },
+    {
+      "id": 213336,
+      "name": "Harriman"
+    },
+    {
+      "id": 213337,
+      "name": "Harris Hill"
+    },
+    {
+      "id": 213338,
+      "name": "Harrison"
+    },
+    {
+      "id": 213339,
+      "name": "Hartford"
+    },
+    {
+      "id": 213340,
+      "name": "Hartsdale"
+    },
+    {
+      "id": 213341,
+      "name": "Hastings-on-Hudson"
+    },
+    {
+      "id": 213342,
+      "name": "Hauppauge"
+    },
+    {
+      "id": 213343,
+      "name": "Haverstraw"
+    },
+    {
+      "id": 213344,
+      "name": "Haviland"
+    },
+    {
+      "id": 213345,
+      "name": "Hawthorne"
+    },
+    {
+      "id": 213346,
+      "name": "Head of the Harbor"
+    },
+    {
+      "id": 213347,
+      "name": "Hempstead"
+    },
+    {
+      "id": 213348,
+      "name": "Heritage Hills"
+    },
+    {
+      "id": 213349,
+      "name": "Herkimer"
+    },
+    {
+      "id": 213350,
+      "name": "Herkimer County"
+    },
+    {
+      "id": 213351,
+      "name": "Herricks"
+    },
+    {
+      "id": 213352,
+      "name": "Hewlett"
+    },
+    {
+      "id": 213353,
+      "name": "Hewlett Harbor"
+    },
+    {
+      "id": 213354,
+      "name": "Hicksville"
+    },
+    {
+      "id": 213355,
+      "name": "Highland"
+    },
+    {
+      "id": 213356,
+      "name": "Highland Falls"
+    },
+    {
+      "id": 213357,
+      "name": "Highland Mills"
+    },
+    {
+      "id": 213358,
+      "name": "Hillcrest"
+    },
+    {
+      "id": 213359,
+      "name": "Hillside"
+    },
+    {
+      "id": 213360,
+      "name": "Hillside Lake"
+    },
+    {
+      "id": 213361,
+      "name": "Hilton"
+    },
+    {
+      "id": 213362,
+      "name": "Holbrook"
+    },
+    {
+      "id": 213363,
+      "name": "Holcomb"
+    },
+    {
+      "id": 213364,
+      "name": "Holland"
+    },
+    {
+      "id": 213365,
+      "name": "Holley"
+    },
+    {
+      "id": 213366,
+      "name": "Hollis"
+    },
+    {
+      "id": 213367,
+      "name": "Holtsville"
+    },
+    {
+      "id": 213368,
+      "name": "Homer"
+    },
+    {
+      "id": 213369,
+      "name": "Honeoye Falls"
+    },
+    {
+      "id": 213370,
+      "name": "Hoosick Falls"
+    },
+    {
+      "id": 213371,
+      "name": "Hornell"
+    },
+    {
+      "id": 213372,
+      "name": "Horseheads"
+    },
+    {
+      "id": 213373,
+      "name": "Horseheads North"
+    },
+    {
+      "id": 213374,
+      "name": "Houghton"
+    },
+    {
+      "id": 213375,
+      "name": "Howard Beach"
+    },
+    {
+      "id": 213376,
+      "name": "Hudson"
+    },
+    {
+      "id": 213377,
+      "name": "Hudson Falls"
+    },
+    {
+      "id": 213378,
+      "name": "Huguenot"
+    },
+    {
+      "id": 213379,
+      "name": "Huntington"
+    },
+    {
+      "id": 213380,
+      "name": "Huntington Bay"
+    },
+    {
+      "id": 213381,
+      "name": "Huntington Station"
+    },
+    {
+      "id": 213382,
+      "name": "Hunts Point"
+    },
+    {
+      "id": 213383,
+      "name": "Hurley"
+    },
+    {
+      "id": 213384,
+      "name": "Hyde Park"
+    },
+    {
+      "id": 213385,
+      "name": "Ilion"
+    },
+    {
+      "id": 213386,
+      "name": "Inwood"
+    },
+    {
+      "id": 213387,
+      "name": "Irondequoit"
+    },
+    {
+      "id": 213388,
+      "name": "Irvington"
+    },
+    {
+      "id": 213389,
+      "name": "Island Park"
+    },
+    {
+      "id": 213390,
+      "name": "Islandia"
+    },
+    {
+      "id": 213391,
+      "name": "Islip"
+    },
+    {
+      "id": 213392,
+      "name": "Islip Terrace"
+    },
+    {
+      "id": 213393,
+      "name": "Ithaca"
+    },
+    {
+      "id": 213394,
+      "name": "Jackson Heights"
+    },
+    {
+      "id": 213395,
+      "name": "Jamaica"
+    },
+    {
+      "id": 213396,
+      "name": "Jamesport"
+    },
+    {
+      "id": 213397,
+      "name": "Jamestown"
+    },
+    {
+      "id": 213398,
+      "name": "Jamestown West"
+    },
+    {
+      "id": 213399,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 213400,
+      "name": "Jefferson Heights"
+    },
+    {
+      "id": 213401,
+      "name": "Jefferson Valley-Yorktown"
+    },
+    {
+      "id": 213402,
+      "name": "Jericho"
+    },
+    {
+      "id": 213403,
+      "name": "Johnson City"
+    },
+    {
+      "id": 213404,
+      "name": "Johnstown"
+    },
+    {
+      "id": 213405,
+      "name": "Jordan"
+    },
+    {
+      "id": 213406,
+      "name": "Kaser"
+    },
+    {
+      "id": 213407,
+      "name": "Katonah"
+    },
+    {
+      "id": 213408,
+      "name": "Keeseville"
+    },
+    {
+      "id": 213409,
+      "name": "Kenmore"
+    },
+    {
+      "id": 213410,
+      "name": "Kensington"
+    },
+    {
+      "id": 213411,
+      "name": "Kerhonkson"
+    },
+    {
+      "id": 213412,
+      "name": "Keuka Park"
+    },
+    {
+      "id": 213413,
+      "name": "Kew Gardens"
+    },
+    {
+      "id": 213414,
+      "name": "Kew Gardens Hills"
+    },
+    {
+      "id": 213415,
+      "name": "Kiantone"
+    },
+    {
+      "id": 213416,
+      "name": "Kinderhook"
+    },
+    {
+      "id": 213417,
+      "name": "Kings Bridge"
+    },
+    {
+      "id": 213418,
+      "name": "Kings County"
+    },
+    {
+      "id": 213419,
+      "name": "Kings Park"
+    },
+    {
+      "id": 213420,
+      "name": "Kings Point"
+    },
+    {
+      "id": 213421,
+      "name": "Kingston"
+    },
+    {
+      "id": 213422,
+      "name": "Kiryas Joel"
+    },
+    {
+      "id": 213423,
+      "name": "Lackawanna"
+    },
+    {
+      "id": 213424,
+      "name": "Lake Carmel"
+    },
+    {
+      "id": 213425,
+      "name": "Lake Erie Beach"
+    },
+    {
+      "id": 213426,
+      "name": "Lake Grove"
+    },
+    {
+      "id": 213427,
+      "name": "Lake Katrine"
+    },
+    {
+      "id": 213428,
+      "name": "Lake Luzerne"
+    },
+    {
+      "id": 213429,
+      "name": "Lake Mohegan"
+    },
+    {
+      "id": 213430,
+      "name": "Lake Placid"
+    },
+    {
+      "id": 213431,
+      "name": "Lake Pleasant"
+    },
+    {
+      "id": 213432,
+      "name": "Lake Ronkonkoma"
+    },
+    {
+      "id": 213433,
+      "name": "Lake Success"
+    },
+    {
+      "id": 213434,
+      "name": "Lakeland"
+    },
+    {
+      "id": 213435,
+      "name": "Lakeview"
+    },
+    {
+      "id": 213436,
+      "name": "Lakewood"
+    },
+    {
+      "id": 213437,
+      "name": "Lancaster"
+    },
+    {
+      "id": 213438,
+      "name": "Lansing"
+    },
+    {
+      "id": 213439,
+      "name": "Larchmont"
+    },
+    {
+      "id": 213440,
+      "name": "Latham"
+    },
+    {
+      "id": 213441,
+      "name": "Lattingtown"
+    },
+    {
+      "id": 213442,
+      "name": "Laurel"
+    },
+    {
+      "id": 213443,
+      "name": "Laurel Hollow"
+    },
+    {
+      "id": 213444,
+      "name": "Laurelton"
+    },
+    {
+      "id": 213445,
+      "name": "Lawrence"
+    },
+    {
+      "id": 213446,
+      "name": "Le Roy"
+    },
+    {
+      "id": 213447,
+      "name": "Levittown"
+    },
+    {
+      "id": 213448,
+      "name": "Lewis County"
+    },
+    {
+      "id": 213449,
+      "name": "Lewiston"
+    },
+    {
+      "id": 213450,
+      "name": "Liberty"
+    },
+    {
+      "id": 213451,
+      "name": "Lido Beach"
+    },
+    {
+      "id": 213452,
+      "name": "Lima"
+    },
+    {
+      "id": 213453,
+      "name": "Lincoln Park"
+    },
+    {
+      "id": 213454,
+      "name": "Lincolndale"
+    },
+    {
+      "id": 213455,
+      "name": "Lindenhurst"
+    },
+    {
+      "id": 213456,
+      "name": "Lindley"
+    },
+    {
+      "id": 213457,
+      "name": "Little Falls"
+    },
+    {
+      "id": 213458,
+      "name": "Little Neck"
+    },
+    {
+      "id": 213459,
+      "name": "Little Valley"
+    },
+    {
+      "id": 213460,
+      "name": "Liverpool"
+    },
+    {
+      "id": 213461,
+      "name": "Livingston County"
+    },
+    {
+      "id": 213462,
+      "name": "Livingston Manor"
+    },
+    {
+      "id": 213463,
+      "name": "Livonia"
+    },
+    {
+      "id": 213464,
+      "name": "Lloyd Harbor"
+    },
+    {
+      "id": 213465,
+      "name": "Lockport"
+    },
+    {
+      "id": 213466,
+      "name": "Locust Valley"
+    },
+    {
+      "id": 213467,
+      "name": "Long Beach"
+    },
+    {
+      "id": 213468,
+      "name": "Long Island City"
+    },
+    {
+      "id": 213469,
+      "name": "Lorenz Park"
+    },
+    {
+      "id": 213470,
+      "name": "Lowville"
+    },
+    {
+      "id": 213471,
+      "name": "Lynbrook"
+    },
+    {
+      "id": 213472,
+      "name": "Lyncourt"
+    },
+    {
+      "id": 213473,
+      "name": "Lyons"
+    },
+    {
+      "id": 213474,
+      "name": "Macedon"
+    },
+    {
+      "id": 213475,
+      "name": "Madison County"
+    },
+    {
+      "id": 213476,
+      "name": "Mahopac"
+    },
+    {
+      "id": 213477,
+      "name": "Malone"
+    },
+    {
+      "id": 213478,
+      "name": "Malverne"
+    },
+    {
+      "id": 213479,
+      "name": "Mamaroneck"
+    },
+    {
+      "id": 213480,
+      "name": "Manchester"
+    },
+    {
+      "id": 213481,
+      "name": "Manhasset"
+    },
+    {
+      "id": 213482,
+      "name": "Manhasset Hills"
+    },
+    {
+      "id": 213483,
+      "name": "Manhattan"
+    },
+    {
+      "id": 213484,
+      "name": "Manlius"
+    },
+    {
+      "id": 213485,
+      "name": "Manorhaven"
+    },
+    {
+      "id": 213486,
+      "name": "Manorville"
+    },
+    {
+      "id": 213487,
+      "name": "Marbletown"
+    },
+    {
+      "id": 213488,
+      "name": "Marcellus"
+    },
+    {
+      "id": 213489,
+      "name": "Mariners Harbor"
+    },
+    {
+      "id": 213490,
+      "name": "Marion"
+    },
+    {
+      "id": 213491,
+      "name": "Marlboro"
+    },
+    {
+      "id": 213492,
+      "name": "Maspeth"
+    },
+    {
+      "id": 213493,
+      "name": "Massapequa"
+    },
+    {
+      "id": 213494,
+      "name": "Massapequa Park"
+    },
+    {
+      "id": 213495,
+      "name": "Massena"
+    },
+    {
+      "id": 213496,
+      "name": "Mastic"
+    },
+    {
+      "id": 213497,
+      "name": "Mastic Beach"
+    },
+    {
+      "id": 213498,
+      "name": "Mattituck"
+    },
+    {
+      "id": 213499,
+      "name": "Mattydale"
+    },
+    {
+      "id": 213500,
+      "name": "Maybrook"
+    },
+    {
+      "id": 213501,
+      "name": "Mayville"
+    },
+    {
+      "id": 213502,
+      "name": "McGraw"
+    },
+    {
+      "id": 213503,
+      "name": "McKownville"
+    },
+    {
+      "id": 213504,
+      "name": "Mechanicstown"
+    },
+    {
+      "id": 213505,
+      "name": "Mechanicville"
+    },
+    {
+      "id": 213506,
+      "name": "Medford"
+    },
+    {
+      "id": 213507,
+      "name": "Medina"
+    },
+    {
+      "id": 213508,
+      "name": "Melrose"
+    },
+    {
+      "id": 213509,
+      "name": "Melrose Park"
+    },
+    {
+      "id": 213510,
+      "name": "Melville"
+    },
+    {
+      "id": 213511,
+      "name": "Menands"
+    },
+    {
+      "id": 213512,
+      "name": "Merrick"
+    },
+    {
+      "id": 213513,
+      "name": "Merritt Park"
+    },
+    {
+      "id": 213514,
+      "name": "Mexico"
+    },
+    {
+      "id": 213515,
+      "name": "Middle Island"
+    },
+    {
+      "id": 213516,
+      "name": "Middle Village"
+    },
+    {
+      "id": 213517,
+      "name": "Middleburgh"
+    },
+    {
+      "id": 213518,
+      "name": "Middleport"
+    },
+    {
+      "id": 213519,
+      "name": "Middletown"
+    },
+    {
+      "id": 213520,
+      "name": "Midland Beach"
+    },
+    {
+      "id": 213521,
+      "name": "Mill Neck"
+    },
+    {
+      "id": 213522,
+      "name": "Millbrook"
+    },
+    {
+      "id": 213523,
+      "name": "Miller Place"
+    },
+    {
+      "id": 213524,
+      "name": "Milton"
+    },
+    {
+      "id": 213525,
+      "name": "Mineola"
+    },
+    {
+      "id": 213526,
+      "name": "Minetto"
+    },
+    {
+      "id": 213527,
+      "name": "Mineville"
+    },
+    {
+      "id": 213528,
+      "name": "Minoa"
+    },
+    {
+      "id": 213529,
+      "name": "Mohawk"
+    },
+    {
+      "id": 213530,
+      "name": "Monroe"
+    },
+    {
+      "id": 213531,
+      "name": "Monroe County"
+    },
+    {
+      "id": 213532,
+      "name": "Monsey"
+    },
+    {
+      "id": 213533,
+      "name": "Montauk"
+    },
+    {
+      "id": 213534,
+      "name": "Montebello"
+    },
+    {
+      "id": 213535,
+      "name": "Montgomery"
+    },
+    {
+      "id": 213536,
+      "name": "Montgomery County"
+    },
+    {
+      "id": 213537,
+      "name": "Monticello"
+    },
+    {
+      "id": 213538,
+      "name": "Montour Falls"
+    },
+    {
+      "id": 213539,
+      "name": "Montrose"
+    },
+    {
+      "id": 213540,
+      "name": "Moravia"
+    },
+    {
+      "id": 213541,
+      "name": "Moriches"
+    },
+    {
+      "id": 213542,
+      "name": "Morningside Heights"
+    },
+    {
+      "id": 213543,
+      "name": "Morris Heights"
+    },
+    {
+      "id": 213544,
+      "name": "Morris Park"
+    },
+    {
+      "id": 213545,
+      "name": "Morrisania"
+    },
+    {
+      "id": 213546,
+      "name": "Morrisonville"
+    },
+    {
+      "id": 213547,
+      "name": "Morrisville"
+    },
+    {
+      "id": 213548,
+      "name": "Mott Haven"
+    },
+    {
+      "id": 213549,
+      "name": "Mount Ivy"
+    },
+    {
+      "id": 213550,
+      "name": "Mount Kisco"
+    },
+    {
+      "id": 213551,
+      "name": "Mount Morris"
+    },
+    {
+      "id": 213552,
+      "name": "Mount Sinai"
+    },
+    {
+      "id": 213553,
+      "name": "Mount Vernon"
+    },
+    {
+      "id": 213554,
+      "name": "Mountain Lodge Park"
+    },
+    {
+      "id": 213555,
+      "name": "Munsey Park"
+    },
+    {
+      "id": 213556,
+      "name": "Munsons Corners"
+    },
+    {
+      "id": 213557,
+      "name": "Muttontown"
+    },
+    {
+      "id": 213558,
+      "name": "Myers Corner"
+    },
+    {
+      "id": 213559,
+      "name": "Nanuet"
+    },
+    {
+      "id": 213560,
+      "name": "Napanoch"
+    },
+    {
+      "id": 213561,
+      "name": "Naples"
+    },
+    {
+      "id": 213562,
+      "name": "Nassau"
+    },
+    {
+      "id": 213563,
+      "name": "Nassau County"
+    },
+    {
+      "id": 213564,
+      "name": "Nedrow"
+    },
+    {
+      "id": 213565,
+      "name": "Neponsit"
+    },
+    {
+      "id": 213566,
+      "name": "Nesconset"
+    },
+    {
+      "id": 213567,
+      "name": "New Brighton"
+    },
+    {
+      "id": 213568,
+      "name": "New Cassel"
+    },
+    {
+      "id": 213569,
+      "name": "New City"
+    },
+    {
+      "id": 213570,
+      "name": "New Dorp"
+    },
+    {
+      "id": 213571,
+      "name": "New Dorp Beach"
+    },
+    {
+      "id": 213572,
+      "name": "New Hartford"
+    },
+    {
+      "id": 213573,
+      "name": "New Hempstead"
+    },
+    {
+      "id": 213574,
+      "name": "New Hyde Park"
+    },
+    {
+      "id": 213575,
+      "name": "New Paltz"
+    },
+    {
+      "id": 213576,
+      "name": "New Rochelle"
+    },
+    {
+      "id": 213577,
+      "name": "New Springville"
+    },
+    {
+      "id": 213578,
+      "name": "New Square"
+    },
+    {
+      "id": 213579,
+      "name": "New Windsor"
+    },
+    {
+      "id": 213580,
+      "name": "New York City"
+    },
+    {
+      "id": 213581,
+      "name": "New York Mills"
+    },
+    {
+      "id": 213582,
+      "name": "Newark"
+    },
+    {
+      "id": 213583,
+      "name": "Newburgh"
+    },
+    {
+      "id": 213584,
+      "name": "Newfane"
+    },
+    {
+      "id": 213585,
+      "name": "Niagara County"
+    },
+    {
+      "id": 213586,
+      "name": "Niagara Falls"
+    },
+    {
+      "id": 213587,
+      "name": "Niskayuna"
+    },
+    {
+      "id": 213588,
+      "name": "Nissequogue"
+    },
+    {
+      "id": 213589,
+      "name": "Niverville"
+    },
+    {
+      "id": 213590,
+      "name": "Norfolk"
+    },
+    {
+      "id": 213591,
+      "name": "North Amityville"
+    },
+    {
+      "id": 213592,
+      "name": "North Babylon"
+    },
+    {
+      "id": 213593,
+      "name": "North Ballston Spa"
+    },
+    {
+      "id": 213594,
+      "name": "North Bay Shore"
+    },
+    {
+      "id": 213595,
+      "name": "North Bellmore"
+    },
+    {
+      "id": 213596,
+      "name": "North Bellport"
+    },
+    {
+      "id": 213597,
+      "name": "North Boston"
+    },
+    {
+      "id": 213598,
+      "name": "North Castle"
+    },
+    {
+      "id": 213599,
+      "name": "North Collins"
+    },
+    {
+      "id": 213600,
+      "name": "North Elba"
+    },
+    {
+      "id": 213601,
+      "name": "North Gates"
+    },
+    {
+      "id": 213602,
+      "name": "North Great River"
+    },
+    {
+      "id": 213603,
+      "name": "North Hills"
+    },
+    {
+      "id": 213604,
+      "name": "North Lindenhurst"
+    },
+    {
+      "id": 213605,
+      "name": "North Massapequa"
+    },
+    {
+      "id": 213606,
+      "name": "North Merrick"
+    },
+    {
+      "id": 213607,
+      "name": "North New Hyde Park"
+    },
+    {
+      "id": 213608,
+      "name": "North Patchogue"
+    },
+    {
+      "id": 213609,
+      "name": "North Sea"
+    },
+    {
+      "id": 213610,
+      "name": "North Syracuse"
+    },
+    {
+      "id": 213611,
+      "name": "North Tonawanda"
+    },
+    {
+      "id": 213612,
+      "name": "North Valley Stream"
+    },
+    {
+      "id": 213613,
+      "name": "North Wantagh"
+    },
+    {
+      "id": 213614,
+      "name": "Northeast Ithaca"
+    },
+    {
+      "id": 213615,
+      "name": "Northport"
+    },
+    {
+      "id": 213616,
+      "name": "Northumberland"
+    },
+    {
+      "id": 213617,
+      "name": "Northville"
+    },
+    {
+      "id": 213618,
+      "name": "Northwest Harbor"
+    },
+    {
+      "id": 213619,
+      "name": "Northwest Ithaca"
+    },
+    {
+      "id": 213620,
+      "name": "Norwich"
+    },
+    {
+      "id": 213621,
+      "name": "Norwood"
+    },
+    {
+      "id": 213622,
+      "name": "Noyack"
+    },
+    {
+      "id": 213623,
+      "name": "Nunda"
+    },
+    {
+      "id": 213624,
+      "name": "Nyack"
+    },
+    {
+      "id": 213625,
+      "name": "Oakdale"
+    },
+    {
+      "id": 213626,
+      "name": "Oakfield"
+    },
+    {
+      "id": 213627,
+      "name": "Oakwood"
+    },
+    {
+      "id": 213628,
+      "name": "Oceanside"
+    },
+    {
+      "id": 213629,
+      "name": "Ogdensburg"
+    },
+    {
+      "id": 213630,
+      "name": "Olcott"
+    },
+    {
+      "id": 213631,
+      "name": "Old Bethpage"
+    },
+    {
+      "id": 213632,
+      "name": "Old Brookville"
+    },
+    {
+      "id": 213633,
+      "name": "Old Westbury"
+    },
+    {
+      "id": 213634,
+      "name": "Olean"
+    },
+    {
+      "id": 213635,
+      "name": "Oneida"
+    },
+    {
+      "id": 213636,
+      "name": "Oneida County"
+    },
+    {
+      "id": 213637,
+      "name": "Oneonta"
+    },
+    {
+      "id": 213638,
+      "name": "Onondaga County"
+    },
+    {
+      "id": 213639,
+      "name": "Ontario"
+    },
+    {
+      "id": 213640,
+      "name": "Ontario County"
+    },
+    {
+      "id": 213641,
+      "name": "Orange County"
+    },
+    {
+      "id": 213642,
+      "name": "Orange Lake"
+    },
+    {
+      "id": 213643,
+      "name": "Orangeburg"
+    },
+    {
+      "id": 213644,
+      "name": "Orchard Park"
+    },
+    {
+      "id": 213645,
+      "name": "Oriskany"
+    },
+    {
+      "id": 213646,
+      "name": "Orleans County"
+    },
+    {
+      "id": 213647,
+      "name": "Ossining"
+    },
+    {
+      "id": 213648,
+      "name": "Oswego"
+    },
+    {
+      "id": 213649,
+      "name": "Oswego County"
+    },
+    {
+      "id": 213650,
+      "name": "Otisville"
+    },
+    {
+      "id": 213651,
+      "name": "Otsego County"
+    },
+    {
+      "id": 213652,
+      "name": "Owego"
+    },
+    {
+      "id": 213653,
+      "name": "Oxford"
+    },
+    {
+      "id": 213654,
+      "name": "Oyster Bay"
+    },
+    {
+      "id": 213655,
+      "name": "Oyster Bay Cove"
+    },
+    {
+      "id": 213656,
+      "name": "Ozone Park"
+    },
+    {
+      "id": 213657,
+      "name": "Painted Post"
+    },
+    {
+      "id": 213658,
+      "name": "Palenville"
+    },
+    {
+      "id": 213659,
+      "name": "Palmyra"
+    },
+    {
+      "id": 213660,
+      "name": "Park Slope"
+    },
+    {
+      "id": 213661,
+      "name": "Parkchester"
+    },
+    {
+      "id": 213662,
+      "name": "Patchogue"
+    },
+    {
+      "id": 213663,
+      "name": "Pawling"
+    },
+    {
+      "id": 213664,
+      "name": "Peach Lake"
+    },
+    {
+      "id": 213665,
+      "name": "Pearl River"
+    },
+    {
+      "id": 213666,
+      "name": "Peekskill"
+    },
+    {
+      "id": 213667,
+      "name": "Pelham"
+    },
+    {
+      "id": 213668,
+      "name": "Pelham Manor"
+    },
+    {
+      "id": 213669,
+      "name": "Penn Yan"
+    },
+    {
+      "id": 213670,
+      "name": "Perry"
+    },
+    {
+      "id": 213671,
+      "name": "Perth"
+    },
+    {
+      "id": 213672,
+      "name": "Peru"
+    },
+    {
+      "id": 213673,
+      "name": "Phelps"
+    },
+    {
+      "id": 213674,
+      "name": "Philadelphia"
+    },
+    {
+      "id": 213675,
+      "name": "Philmont"
+    },
+    {
+      "id": 213676,
+      "name": "Phoenix"
+    },
+    {
+      "id": 213677,
+      "name": "Piermont"
+    },
+    {
+      "id": 213678,
+      "name": "Pine Bush"
+    },
+    {
+      "id": 213679,
+      "name": "Pine Plains"
+    },
+    {
+      "id": 213680,
+      "name": "Pittsford"
+    },
+    {
+      "id": 213681,
+      "name": "Plainedge"
+    },
+    {
+      "id": 213682,
+      "name": "Plainview"
+    },
+    {
+      "id": 213683,
+      "name": "Plandome"
+    },
+    {
+      "id": 213684,
+      "name": "Plandome Heights"
+    },
+    {
+      "id": 213685,
+      "name": "Plattekill"
+    },
+    {
+      "id": 213686,
+      "name": "Plattsburgh"
+    },
+    {
+      "id": 213687,
+      "name": "Plattsburgh West"
+    },
+    {
+      "id": 213688,
+      "name": "Pleasant Valley"
+    },
+    {
+      "id": 213689,
+      "name": "Pleasantville"
+    },
+    {
+      "id": 213690,
+      "name": "Poestenkill"
+    },
+    {
+      "id": 213691,
+      "name": "Point Lookout"
+    },
+    {
+      "id": 213692,
+      "name": "Pomona"
+    },
+    {
+      "id": 213693,
+      "name": "Port Byron"
+    },
+    {
+      "id": 213694,
+      "name": "Port Chester"
+    },
+    {
+      "id": 213695,
+      "name": "Port Dickinson"
+    },
+    {
+      "id": 213696,
+      "name": "Port Ewen"
+    },
+    {
+      "id": 213697,
+      "name": "Port Henry"
+    },
+    {
+      "id": 213698,
+      "name": "Port Jefferson"
+    },
+    {
+      "id": 213699,
+      "name": "Port Jefferson Station"
+    },
+    {
+      "id": 213700,
+      "name": "Port Jervis"
+    },
+    {
+      "id": 213701,
+      "name": "Port Morris"
+    },
+    {
+      "id": 213702,
+      "name": "Port Richmond"
+    },
+    {
+      "id": 213703,
+      "name": "Port Washington"
+    },
+    {
+      "id": 213704,
+      "name": "Port Washington North"
+    },
+    {
+      "id": 213705,
+      "name": "Portland"
+    },
+    {
+      "id": 213706,
+      "name": "Potsdam"
+    },
+    {
+      "id": 213707,
+      "name": "Poughkeepsie"
+    },
+    {
+      "id": 213708,
+      "name": "Pound Ridge"
+    },
+    {
+      "id": 213709,
+      "name": "Pulaski"
+    },
+    {
+      "id": 213710,
+      "name": "Purchase"
+    },
+    {
+      "id": 213711,
+      "name": "Putnam County"
+    },
+    {
+      "id": 213712,
+      "name": "Putnam Lake"
+    },
+    {
+      "id": 213713,
+      "name": "Queens"
+    },
+    {
+      "id": 213714,
+      "name": "Queens County"
+    },
+    {
+      "id": 213715,
+      "name": "Queens Village"
+    },
+    {
+      "id": 213716,
+      "name": "Queensbury"
+    },
+    {
+      "id": 213717,
+      "name": "Randolph"
+    },
+    {
+      "id": 213718,
+      "name": "Ransomville"
+    },
+    {
+      "id": 213719,
+      "name": "Rapids"
+    },
+    {
+      "id": 213720,
+      "name": "Ravena"
+    },
+    {
+      "id": 213721,
+      "name": "Red Hook"
+    },
+    {
+      "id": 213722,
+      "name": "Red Oaks Mill"
+    },
+    {
+      "id": 213723,
+      "name": "Rego Park"
+    },
+    {
+      "id": 213724,
+      "name": "Remsenburg-Speonk"
+    },
+    {
+      "id": 213725,
+      "name": "Rensselaer"
+    },
+    {
+      "id": 213726,
+      "name": "Rensselaer County"
+    },
+    {
+      "id": 213727,
+      "name": "Rhinebeck"
+    },
+    {
+      "id": 213728,
+      "name": "Richfield Springs"
+    },
+    {
+      "id": 213729,
+      "name": "Richland"
+    },
+    {
+      "id": 213730,
+      "name": "Richmond County"
+    },
+    {
+      "id": 213731,
+      "name": "Richmond Hill"
+    },
+    {
+      "id": 213732,
+      "name": "Ridge"
+    },
+    {
+      "id": 213733,
+      "name": "Ridgewood"
+    },
+    {
+      "id": 213734,
+      "name": "Riverdale"
+    },
+    {
+      "id": 213735,
+      "name": "Riverhead"
+    },
+    {
+      "id": 213736,
+      "name": "Riverside"
+    },
+    {
+      "id": 213737,
+      "name": "Rochester"
+    },
+    {
+      "id": 213738,
+      "name": "Rock Hill"
+    },
+    {
+      "id": 213739,
+      "name": "Rockaway Point"
+    },
+    {
+      "id": 213740,
+      "name": "Rockland County"
+    },
+    {
+      "id": 213741,
+      "name": "Rockville Centre"
+    },
+    {
+      "id": 213742,
+      "name": "Rocky Point"
+    },
+    {
+      "id": 213743,
+      "name": "Roessleville"
+    },
+    {
+      "id": 213744,
+      "name": "Rome"
+    },
+    {
+      "id": 213745,
+      "name": "Ronkonkoma"
+    },
+    {
+      "id": 213746,
+      "name": "Roosevelt"
+    },
+    {
+      "id": 213747,
+      "name": "Rosebank"
+    },
+    {
+      "id": 213748,
+      "name": "Rosedale"
+    },
+    {
+      "id": 213749,
+      "name": "Rosendale Village"
+    },
+    {
+      "id": 213750,
+      "name": "Roslyn"
+    },
+    {
+      "id": 213751,
+      "name": "Roslyn Estates"
+    },
+    {
+      "id": 213752,
+      "name": "Roslyn Harbor"
+    },
+    {
+      "id": 213753,
+      "name": "Roslyn Heights"
+    },
+    {
+      "id": 213754,
+      "name": "Rossville"
+    },
+    {
+      "id": 213755,
+      "name": "Rotterdam"
+    },
+    {
+      "id": 213756,
+      "name": "Rouses Point"
+    },
+    {
+      "id": 213757,
+      "name": "Rye"
+    },
+    {
+      "id": 213758,
+      "name": "Rye Brook"
+    },
+    {
+      "id": 213759,
+      "name": "Sackets Harbor"
+    },
+    {
+      "id": 213760,
+      "name": "Sag Harbor"
+    },
+    {
+      "id": 213761,
+      "name": "Saint Bonaventure"
+    },
+    {
+      "id": 213762,
+      "name": "Saint James"
+    },
+    {
+      "id": 213763,
+      "name": "Saint Johnsville"
+    },
+    {
+      "id": 213764,
+      "name": "Salamanca"
+    },
+    {
+      "id": 213765,
+      "name": "Salisbury"
+    },
+    {
+      "id": 213766,
+      "name": "Sanborn"
+    },
+    {
+      "id": 213767,
+      "name": "Sands Point"
+    },
+    {
+      "id": 213768,
+      "name": "Saranac Lake"
+    },
+    {
+      "id": 213769,
+      "name": "Saratoga County"
+    },
+    {
+      "id": 213770,
+      "name": "Saratoga Springs"
+    },
+    {
+      "id": 213771,
+      "name": "Saugerties"
+    },
+    {
+      "id": 213772,
+      "name": "Saugerties South"
+    },
+    {
+      "id": 213773,
+      "name": "Sayville"
+    },
+    {
+      "id": 213774,
+      "name": "Scarsdale"
+    },
+    {
+      "id": 213775,
+      "name": "Schenectady"
+    },
+    {
+      "id": 213776,
+      "name": "Schenectady County"
+    },
+    {
+      "id": 213777,
+      "name": "Schoharie"
+    },
+    {
+      "id": 213778,
+      "name": "Schoharie County"
+    },
+    {
+      "id": 213779,
+      "name": "Schuyler County"
+    },
+    {
+      "id": 213780,
+      "name": "Schuylerville"
+    },
+    {
+      "id": 213781,
+      "name": "Scotchtown"
+    },
+    {
+      "id": 213782,
+      "name": "Scotia"
+    },
+    {
+      "id": 213783,
+      "name": "Scottsville"
+    },
+    {
+      "id": 213784,
+      "name": "Sea Cliff"
+    },
+    {
+      "id": 213785,
+      "name": "Seaford"
+    },
+    {
+      "id": 213786,
+      "name": "Searingtown"
+    },
+    {
+      "id": 213787,
+      "name": "Seaside"
+    },
+    {
+      "id": 213788,
+      "name": "Selden"
+    },
+    {
+      "id": 213789,
+      "name": "Seneca County"
+    },
+    {
+      "id": 213790,
+      "name": "Seneca Falls"
+    },
+    {
+      "id": 213791,
+      "name": "Seneca Knolls"
+    },
+    {
+      "id": 213792,
+      "name": "Setauket-East Setauket"
+    },
+    {
+      "id": 213793,
+      "name": "Sheepshead Bay"
+    },
+    {
+      "id": 213794,
+      "name": "Shelter Island"
+    },
+    {
+      "id": 213795,
+      "name": "Shelter Island Heights"
+    },
+    {
+      "id": 213796,
+      "name": "Shenorock"
+    },
+    {
+      "id": 213797,
+      "name": "Sherburne"
+    },
+    {
+      "id": 213798,
+      "name": "Sherrill"
+    },
+    {
+      "id": 213799,
+      "name": "Shinnecock Hills"
+    },
+    {
+      "id": 213800,
+      "name": "Shirley"
+    },
+    {
+      "id": 213801,
+      "name": "Shokan"
+    },
+    {
+      "id": 213802,
+      "name": "Shortsville"
+    },
+    {
+      "id": 213803,
+      "name": "Shrub Oak"
+    },
+    {
+      "id": 213804,
+      "name": "Sidney"
+    },
+    {
+      "id": 213805,
+      "name": "Silver Creek"
+    },
+    {
+      "id": 213806,
+      "name": "Skaneateles"
+    },
+    {
+      "id": 213807,
+      "name": "Sleepy Hollow"
+    },
+    {
+      "id": 213808,
+      "name": "Sloan"
+    },
+    {
+      "id": 213809,
+      "name": "Sloatsburg"
+    },
+    {
+      "id": 213810,
+      "name": "Smithtown"
+    },
+    {
+      "id": 213811,
+      "name": "Sodus"
+    },
+    {
+      "id": 213812,
+      "name": "Solvay"
+    },
+    {
+      "id": 213813,
+      "name": "Sound Beach"
+    },
+    {
+      "id": 213814,
+      "name": "South Beach"
+    },
+    {
+      "id": 213815,
+      "name": "South Blooming Grove"
+    },
+    {
+      "id": 213816,
+      "name": "South Corning"
+    },
+    {
+      "id": 213817,
+      "name": "South Fallsburg"
+    },
+    {
+      "id": 213818,
+      "name": "South Farmingdale"
+    },
+    {
+      "id": 213819,
+      "name": "South Floral Park"
+    },
+    {
+      "id": 213820,
+      "name": "South Glens Falls"
+    },
+    {
+      "id": 213821,
+      "name": "South Hempstead"
+    },
+    {
+      "id": 213822,
+      "name": "South Hill"
+    },
+    {
+      "id": 213823,
+      "name": "South Huntington"
+    },
+    {
+      "id": 213824,
+      "name": "South Lockport"
+    },
+    {
+      "id": 213825,
+      "name": "South Nyack"
+    },
+    {
+      "id": 213826,
+      "name": "South Valley Stream"
+    },
+    {
+      "id": 213827,
+      "name": "Southampton"
+    },
+    {
+      "id": 213828,
+      "name": "Southold"
+    },
+    {
+      "id": 213829,
+      "name": "Southport"
+    },
+    {
+      "id": 213830,
+      "name": "Spackenkill"
+    },
+    {
+      "id": 213831,
+      "name": "Sparkill"
+    },
+    {
+      "id": 213832,
+      "name": "Spencerport"
+    },
+    {
+      "id": 213833,
+      "name": "Spring Valley"
+    },
+    {
+      "id": 213834,
+      "name": "Springfield"
+    },
+    {
+      "id": 213835,
+      "name": "Springfield Gardens"
+    },
+    {
+      "id": 213836,
+      "name": "Springs"
+    },
+    {
+      "id": 213837,
+      "name": "Springville"
+    },
+    {
+      "id": 213838,
+      "name": "Spuyten Duyvil"
+    },
+    {
+      "id": 213839,
+      "name": "St. Lawrence County"
+    },
+    {
+      "id": 213840,
+      "name": "Stamford"
+    },
+    {
+      "id": 213841,
+      "name": "Stapleton"
+    },
+    {
+      "id": 213842,
+      "name": "Staten Island"
+    },
+    {
+      "id": 213843,
+      "name": "Steinway"
+    },
+    {
+      "id": 213844,
+      "name": "Steuben County"
+    },
+    {
+      "id": 213845,
+      "name": "Stewart Manor"
+    },
+    {
+      "id": 213846,
+      "name": "Stillwater"
+    },
+    {
+      "id": 213847,
+      "name": "Stone Ridge"
+    },
+    {
+      "id": 213848,
+      "name": "Stony Brook"
+    },
+    {
+      "id": 213849,
+      "name": "Stony Point"
+    },
+    {
+      "id": 213850,
+      "name": "Stottville"
+    },
+    {
+      "id": 213851,
+      "name": "Suffern"
+    },
+    {
+      "id": 213852,
+      "name": "Suffolk County"
+    },
+    {
+      "id": 213853,
+      "name": "Sullivan County"
+    },
+    {
+      "id": 213854,
+      "name": "Sunnyside"
+    },
+    {
+      "id": 213855,
+      "name": "Sunset Park"
+    },
+    {
+      "id": 213856,
+      "name": "Sylvan Beach"
+    },
+    {
+      "id": 213857,
+      "name": "Syosset"
+    },
+    {
+      "id": 213858,
+      "name": "Syracuse"
+    },
+    {
+      "id": 213859,
+      "name": "Tappan"
+    },
+    {
+      "id": 213860,
+      "name": "Tarrytown"
+    },
+    {
+      "id": 213861,
+      "name": "Terrace Heights"
+    },
+    {
+      "id": 213862,
+      "name": "Terryville"
+    },
+    {
+      "id": 213863,
+      "name": "The Bronx"
+    },
+    {
+      "id": 213864,
+      "name": "Thiells"
+    },
+    {
+      "id": 213865,
+      "name": "Thomaston"
+    },
+    {
+      "id": 213866,
+      "name": "Thornwood"
+    },
+    {
+      "id": 213867,
+      "name": "Throgs Neck"
+    },
+    {
+      "id": 213868,
+      "name": "Ticonderoga"
+    },
+    {
+      "id": 213869,
+      "name": "Tillson"
+    },
+    {
+      "id": 213870,
+      "name": "Tioga County"
+    },
+    {
+      "id": 213871,
+      "name": "Tivoli"
+    },
+    {
+      "id": 213872,
+      "name": "Tompkins County"
+    },
+    {
+      "id": 213873,
+      "name": "Tompkinsville"
+    },
+    {
+      "id": 213874,
+      "name": "Tonawanda"
+    },
+    {
+      "id": 213875,
+      "name": "Town Line"
+    },
+    {
+      "id": 213876,
+      "name": "Tremont"
+    },
+    {
+      "id": 213877,
+      "name": "Tribes Hill"
+    },
+    {
+      "id": 213878,
+      "name": "Troy"
+    },
+    {
+      "id": 213879,
+      "name": "Trumansburg"
+    },
+    {
+      "id": 213880,
+      "name": "Tuckahoe"
+    },
+    {
+      "id": 213881,
+      "name": "Tupper Lake"
+    },
+    {
+      "id": 213882,
+      "name": "Ulster County"
+    },
+    {
+      "id": 213883,
+      "name": "Unadilla"
+    },
+    {
+      "id": 213884,
+      "name": "Union Springs"
+    },
+    {
+      "id": 213885,
+      "name": "Uniondale"
+    },
+    {
+      "id": 213886,
+      "name": "Unionport"
+    },
+    {
+      "id": 213887,
+      "name": "University Gardens"
+    },
+    {
+      "id": 213888,
+      "name": "University Heights"
+    },
+    {
+      "id": 213889,
+      "name": "Upper Brookville"
+    },
+    {
+      "id": 213890,
+      "name": "Upper Nyack"
+    },
+    {
+      "id": 213891,
+      "name": "Utica"
+    },
+    {
+      "id": 213892,
+      "name": "Vails Gate"
+    },
+    {
+      "id": 213893,
+      "name": "Valatie"
+    },
+    {
+      "id": 213894,
+      "name": "Valhalla"
+    },
+    {
+      "id": 213895,
+      "name": "Valley Cottage"
+    },
+    {
+      "id": 213896,
+      "name": "Valley Stream"
+    },
+    {
+      "id": 213897,
+      "name": "Van Nest"
+    },
+    {
+      "id": 213898,
+      "name": "Vernon"
+    },
+    {
+      "id": 213899,
+      "name": "Verplanck"
+    },
+    {
+      "id": 213900,
+      "name": "Victor"
+    },
+    {
+      "id": 213901,
+      "name": "Village Green"
+    },
+    {
+      "id": 213902,
+      "name": "Village of the Branch"
+    },
+    {
+      "id": 213903,
+      "name": "Viola"
+    },
+    {
+      "id": 213904,
+      "name": "Volney"
+    },
+    {
+      "id": 213905,
+      "name": "Voorheesville"
+    },
+    {
+      "id": 213906,
+      "name": "Wading River"
+    },
+    {
+      "id": 213907,
+      "name": "Wakefield"
+    },
+    {
+      "id": 213908,
+      "name": "Walden"
+    },
+    {
+      "id": 213909,
+      "name": "Wallkill"
+    },
+    {
+      "id": 213910,
+      "name": "Walton"
+    },
+    {
+      "id": 213911,
+      "name": "Walton Park"
+    },
+    {
+      "id": 213912,
+      "name": "Wampsville"
+    },
+    {
+      "id": 213913,
+      "name": "Wanakah"
+    },
+    {
+      "id": 213914,
+      "name": "Wantagh"
+    },
+    {
+      "id": 213915,
+      "name": "Wappingers Falls"
+    },
+    {
+      "id": 213916,
+      "name": "Warren County"
+    },
+    {
+      "id": 213917,
+      "name": "Warrensburg"
+    },
+    {
+      "id": 213918,
+      "name": "Warsaw"
+    },
+    {
+      "id": 213919,
+      "name": "Warwick"
+    },
+    {
+      "id": 213920,
+      "name": "Washington County"
+    },
+    {
+      "id": 213921,
+      "name": "Washington Heights"
+    },
+    {
+      "id": 213922,
+      "name": "Washington Mills"
+    },
+    {
+      "id": 213923,
+      "name": "Washingtonville"
+    },
+    {
+      "id": 213924,
+      "name": "Watchtower"
+    },
+    {
+      "id": 213925,
+      "name": "Water Mill"
+    },
+    {
+      "id": 213926,
+      "name": "Waterford"
+    },
+    {
+      "id": 213927,
+      "name": "Waterloo"
+    },
+    {
+      "id": 213928,
+      "name": "Watertown"
+    },
+    {
+      "id": 213929,
+      "name": "Waterville"
+    },
+    {
+      "id": 213930,
+      "name": "Watervliet"
+    },
+    {
+      "id": 213931,
+      "name": "Watkins Glen"
+    },
+    {
+      "id": 213932,
+      "name": "Waverly"
+    },
+    {
+      "id": 213933,
+      "name": "Wawarsing"
+    },
+    {
+      "id": 213934,
+      "name": "Wayland"
+    },
+    {
+      "id": 213935,
+      "name": "Wayne County"
+    },
+    {
+      "id": 213936,
+      "name": "Webster"
+    },
+    {
+      "id": 213937,
+      "name": "Weedsport"
+    },
+    {
+      "id": 213938,
+      "name": "Wellsville"
+    },
+    {
+      "id": 213939,
+      "name": "Wesley Hills"
+    },
+    {
+      "id": 213940,
+      "name": "West Albany"
+    },
+    {
+      "id": 213941,
+      "name": "West Babylon"
+    },
+    {
+      "id": 213942,
+      "name": "West Bay Shore"
+    },
+    {
+      "id": 213943,
+      "name": "West Carthage"
+    },
+    {
+      "id": 213944,
+      "name": "West Elmira"
+    },
+    {
+      "id": 213945,
+      "name": "West End"
+    },
+    {
+      "id": 213946,
+      "name": "West Glens Falls"
+    },
+    {
+      "id": 213947,
+      "name": "West Haverstraw"
+    },
+    {
+      "id": 213948,
+      "name": "West Hempstead"
+    },
+    {
+      "id": 213949,
+      "name": "West Hills"
+    },
+    {
+      "id": 213950,
+      "name": "West Hurley"
+    },
+    {
+      "id": 213951,
+      "name": "West Islip"
+    },
+    {
+      "id": 213952,
+      "name": "West Nyack"
+    },
+    {
+      "id": 213953,
+      "name": "West Point"
+    },
+    {
+      "id": 213954,
+      "name": "West Sand Lake"
+    },
+    {
+      "id": 213955,
+      "name": "West Sayville"
+    },
+    {
+      "id": 213956,
+      "name": "West Seneca"
+    },
+    {
+      "id": 213957,
+      "name": "Westbury"
+    },
+    {
+      "id": 213958,
+      "name": "Westchester County"
+    },
+    {
+      "id": 213959,
+      "name": "Westerleigh"
+    },
+    {
+      "id": 213960,
+      "name": "Westfield"
+    },
+    {
+      "id": 213961,
+      "name": "Westhampton"
+    },
+    {
+      "id": 213962,
+      "name": "Westhampton Beach"
+    },
+    {
+      "id": 213963,
+      "name": "Westmere"
+    },
+    {
+      "id": 213964,
+      "name": "Weston Mills"
+    },
+    {
+      "id": 213965,
+      "name": "Westvale"
+    },
+    {
+      "id": 213966,
+      "name": "Wheatley Heights"
+    },
+    {
+      "id": 213967,
+      "name": "White Plains"
+    },
+    {
+      "id": 213968,
+      "name": "Whitehall"
+    },
+    {
+      "id": 213969,
+      "name": "Whitesboro"
+    },
+    {
+      "id": 213970,
+      "name": "Whitestone"
+    },
+    {
+      "id": 213971,
+      "name": "Williamsburg"
+    },
+    {
+      "id": 213972,
+      "name": "Williamson"
+    },
+    {
+      "id": 213973,
+      "name": "Williamsville"
+    },
+    {
+      "id": 213974,
+      "name": "Williston Park"
+    },
+    {
+      "id": 213975,
+      "name": "Willowbrook"
+    },
+    {
+      "id": 213976,
+      "name": "Wilson"
+    },
+    {
+      "id": 213977,
+      "name": "Wolcott"
+    },
+    {
+      "id": 213978,
+      "name": "Woodbury"
+    },
+    {
+      "id": 213979,
+      "name": "Woodhaven"
+    },
+    {
+      "id": 213980,
+      "name": "Woodlawn"
+    },
+    {
+      "id": 213981,
+      "name": "Woodmere"
+    },
+    {
+      "id": 213982,
+      "name": "Woodrow"
+    },
+    {
+      "id": 213983,
+      "name": "Woodside"
+    },
+    {
+      "id": 213984,
+      "name": "Woodstock"
+    },
+    {
+      "id": 213985,
+      "name": "Worcester"
+    },
+    {
+      "id": 213986,
+      "name": "Wurtsboro"
+    },
+    {
+      "id": 213987,
+      "name": "Wyandanch"
+    },
+    {
+      "id": 213988,
+      "name": "Wykagyl"
+    },
+    {
+      "id": 213989,
+      "name": "Wynantskill"
+    },
+    {
+      "id": 213990,
+      "name": "Wyoming County"
+    },
+    {
+      "id": 213991,
+      "name": "Yaphank"
+    },
+    {
+      "id": 213992,
+      "name": "Yates County"
+    },
+    {
+      "id": 213993,
+      "name": "Yonkers"
+    },
+    {
+      "id": 213994,
+      "name": "Yorkshire"
+    },
+    {
+      "id": 213995,
+      "name": "Yorktown Heights"
+    },
+    {
+      "id": 213996,
+      "name": "Yorkville"
+    },
+    {
+      "id": 213997,
+      "name": "Youngstown"
+    },
+    {
+      "id": 213998,
+      "name": "Zena"
+    }
+  ]
+}

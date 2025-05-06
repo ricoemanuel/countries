@@ -1,0 +1,1847 @@
+{
+  "id": 7458,
+  "name": "Minnesota",
+  "state_code": "MN",
+  "cities": [
+    {
+      "id": 210282,
+      "name": "Ada"
+    },
+    {
+      "id": 210283,
+      "name": "Adrian"
+    },
+    {
+      "id": 210284,
+      "name": "Afton"
+    },
+    {
+      "id": 210285,
+      "name": "Aitkin"
+    },
+    {
+      "id": 210286,
+      "name": "Aitkin County"
+    },
+    {
+      "id": 210287,
+      "name": "Albany"
+    },
+    {
+      "id": 210288,
+      "name": "Albert Lea"
+    },
+    {
+      "id": 210289,
+      "name": "Albertville"
+    },
+    {
+      "id": 210290,
+      "name": "Alexandria"
+    },
+    {
+      "id": 210291,
+      "name": "Andover"
+    },
+    {
+      "id": 210292,
+      "name": "Annandale"
+    },
+    {
+      "id": 210293,
+      "name": "Anoka"
+    },
+    {
+      "id": 210294,
+      "name": "Anoka County"
+    },
+    {
+      "id": 210295,
+      "name": "Apple Valley"
+    },
+    {
+      "id": 210296,
+      "name": "Appleton"
+    },
+    {
+      "id": 210297,
+      "name": "Arden Hills"
+    },
+    {
+      "id": 210298,
+      "name": "Arlington"
+    },
+    {
+      "id": 210299,
+      "name": "Arnold"
+    },
+    {
+      "id": 210300,
+      "name": "Atwater"
+    },
+    {
+      "id": 210301,
+      "name": "Aurora"
+    },
+    {
+      "id": 210302,
+      "name": "Austin"
+    },
+    {
+      "id": 210303,
+      "name": "Avon"
+    },
+    {
+      "id": 210304,
+      "name": "Babbitt"
+    },
+    {
+      "id": 210305,
+      "name": "Bagley"
+    },
+    {
+      "id": 210306,
+      "name": "Barnesville"
+    },
+    {
+      "id": 210307,
+      "name": "Baudette"
+    },
+    {
+      "id": 210308,
+      "name": "Baxter"
+    },
+    {
+      "id": 210309,
+      "name": "Bayport"
+    },
+    {
+      "id": 210310,
+      "name": "Becker"
+    },
+    {
+      "id": 210311,
+      "name": "Becker County"
+    },
+    {
+      "id": 210312,
+      "name": "Belle Plaine"
+    },
+    {
+      "id": 210313,
+      "name": "Beltrami County"
+    },
+    {
+      "id": 210314,
+      "name": "Bemidji"
+    },
+    {
+      "id": 210315,
+      "name": "Benson"
+    },
+    {
+      "id": 210316,
+      "name": "Benton County"
+    },
+    {
+      "id": 210317,
+      "name": "Big Lake"
+    },
+    {
+      "id": 210318,
+      "name": "Big Stone County"
+    },
+    {
+      "id": 210319,
+      "name": "Birchwood"
+    },
+    {
+      "id": 210320,
+      "name": "Blaine"
+    },
+    {
+      "id": 210321,
+      "name": "Blooming Prairie"
+    },
+    {
+      "id": 210322,
+      "name": "Bloomington"
+    },
+    {
+      "id": 210323,
+      "name": "Blue Earth"
+    },
+    {
+      "id": 210324,
+      "name": "Blue Earth County"
+    },
+    {
+      "id": 210325,
+      "name": "Braham"
+    },
+    {
+      "id": 210326,
+      "name": "Brainerd"
+    },
+    {
+      "id": 210327,
+      "name": "Branch"
+    },
+    {
+      "id": 210328,
+      "name": "Breckenridge"
+    },
+    {
+      "id": 210329,
+      "name": "Breezy Point"
+    },
+    {
+      "id": 210330,
+      "name": "Brooklyn Center"
+    },
+    {
+      "id": 210331,
+      "name": "Brooklyn Park"
+    },
+    {
+      "id": 210332,
+      "name": "Brown County"
+    },
+    {
+      "id": 210333,
+      "name": "Buffalo"
+    },
+    {
+      "id": 210334,
+      "name": "Burnsville"
+    },
+    {
+      "id": 210335,
+      "name": "Byron"
+    },
+    {
+      "id": 210336,
+      "name": "Caledonia"
+    },
+    {
+      "id": 210337,
+      "name": "Cambridge"
+    },
+    {
+      "id": 210338,
+      "name": "Canby"
+    },
+    {
+      "id": 210339,
+      "name": "Cannon Falls"
+    },
+    {
+      "id": 210340,
+      "name": "Carlton"
+    },
+    {
+      "id": 210341,
+      "name": "Carlton County"
+    },
+    {
+      "id": 210342,
+      "name": "Carver"
+    },
+    {
+      "id": 210343,
+      "name": "Carver County"
+    },
+    {
+      "id": 210344,
+      "name": "Cass County"
+    },
+    {
+      "id": 210345,
+      "name": "Center City"
+    },
+    {
+      "id": 210346,
+      "name": "Centerville"
+    },
+    {
+      "id": 210347,
+      "name": "Champlin"
+    },
+    {
+      "id": 210348,
+      "name": "Chanhassen"
+    },
+    {
+      "id": 210349,
+      "name": "Chaska"
+    },
+    {
+      "id": 210350,
+      "name": "Chatfield"
+    },
+    {
+      "id": 210351,
+      "name": "Chippewa County"
+    },
+    {
+      "id": 210352,
+      "name": "Chisago City"
+    },
+    {
+      "id": 210353,
+      "name": "Chisago County"
+    },
+    {
+      "id": 210354,
+      "name": "Chisholm"
+    },
+    {
+      "id": 210355,
+      "name": "Circle Pines"
+    },
+    {
+      "id": 210356,
+      "name": "Clara City"
+    },
+    {
+      "id": 210357,
+      "name": "Clay County"
+    },
+    {
+      "id": 210358,
+      "name": "Clearwater"
+    },
+    {
+      "id": 210359,
+      "name": "Clearwater County"
+    },
+    {
+      "id": 210360,
+      "name": "Cloquet"
+    },
+    {
+      "id": 210361,
+      "name": "Cohasset"
+    },
+    {
+      "id": 210362,
+      "name": "Cokato"
+    },
+    {
+      "id": 210363,
+      "name": "Cold Spring"
+    },
+    {
+      "id": 210364,
+      "name": "Coleraine"
+    },
+    {
+      "id": 210365,
+      "name": "Collegeville"
+    },
+    {
+      "id": 210366,
+      "name": "Cologne"
+    },
+    {
+      "id": 210367,
+      "name": "Columbia Heights"
+    },
+    {
+      "id": 210368,
+      "name": "Columbus"
+    },
+    {
+      "id": 210369,
+      "name": "Cook County"
+    },
+    {
+      "id": 210370,
+      "name": "Coon Rapids"
+    },
+    {
+      "id": 210371,
+      "name": "Corcoran"
+    },
+    {
+      "id": 210372,
+      "name": "Cottage Grove"
+    },
+    {
+      "id": 210373,
+      "name": "Cottonwood"
+    },
+    {
+      "id": 210374,
+      "name": "Cottonwood County"
+    },
+    {
+      "id": 210375,
+      "name": "Crookston"
+    },
+    {
+      "id": 210376,
+      "name": "Crosby"
+    },
+    {
+      "id": 210377,
+      "name": "Cross Lake"
+    },
+    {
+      "id": 210378,
+      "name": "Crow Wing County"
+    },
+    {
+      "id": 210379,
+      "name": "Crystal"
+    },
+    {
+      "id": 210380,
+      "name": "Dakota County"
+    },
+    {
+      "id": 210381,
+      "name": "Dassel"
+    },
+    {
+      "id": 210382,
+      "name": "Dawson"
+    },
+    {
+      "id": 210383,
+      "name": "Dayton"
+    },
+    {
+      "id": 210384,
+      "name": "Deephaven"
+    },
+    {
+      "id": 210385,
+      "name": "Delano"
+    },
+    {
+      "id": 210386,
+      "name": "Dellwood"
+    },
+    {
+      "id": 210387,
+      "name": "Detroit Lakes"
+    },
+    {
+      "id": 210388,
+      "name": "Dilworth"
+    },
+    {
+      "id": 210389,
+      "name": "Dodge Center"
+    },
+    {
+      "id": 210390,
+      "name": "Dodge County"
+    },
+    {
+      "id": 210391,
+      "name": "Douglas County"
+    },
+    {
+      "id": 210392,
+      "name": "Duluth"
+    },
+    {
+      "id": 210393,
+      "name": "Dundas"
+    },
+    {
+      "id": 210394,
+      "name": "Eagan"
+    },
+    {
+      "id": 210395,
+      "name": "Eagle Lake"
+    },
+    {
+      "id": 210396,
+      "name": "East Bethel"
+    },
+    {
+      "id": 210397,
+      "name": "East Grand Forks"
+    },
+    {
+      "id": 210398,
+      "name": "East Gull Lake"
+    },
+    {
+      "id": 210399,
+      "name": "Eden Prairie"
+    },
+    {
+      "id": 210400,
+      "name": "Eden Valley"
+    },
+    {
+      "id": 210401,
+      "name": "Edgerton"
+    },
+    {
+      "id": 210402,
+      "name": "Edina"
+    },
+    {
+      "id": 210403,
+      "name": "Elbow Lake"
+    },
+    {
+      "id": 210404,
+      "name": "Elgin"
+    },
+    {
+      "id": 210405,
+      "name": "Elk River"
+    },
+    {
+      "id": 210406,
+      "name": "Elko New Market"
+    },
+    {
+      "id": 210407,
+      "name": "Ely"
+    },
+    {
+      "id": 210408,
+      "name": "Esko"
+    },
+    {
+      "id": 210409,
+      "name": "Eveleth"
+    },
+    {
+      "id": 210410,
+      "name": "Excelsior"
+    },
+    {
+      "id": 210411,
+      "name": "Eyota"
+    },
+    {
+      "id": 210412,
+      "name": "Fairfax"
+    },
+    {
+      "id": 210413,
+      "name": "Fairmont"
+    },
+    {
+      "id": 210414,
+      "name": "Falcon Heights"
+    },
+    {
+      "id": 210415,
+      "name": "Faribault"
+    },
+    {
+      "id": 210416,
+      "name": "Faribault County"
+    },
+    {
+      "id": 210417,
+      "name": "Farmington"
+    },
+    {
+      "id": 210418,
+      "name": "Fergus Falls"
+    },
+    {
+      "id": 210419,
+      "name": "Fillmore County"
+    },
+    {
+      "id": 210420,
+      "name": "Foley"
+    },
+    {
+      "id": 210421,
+      "name": "Forest Lake"
+    },
+    {
+      "id": 210422,
+      "name": "Fosston"
+    },
+    {
+      "id": 210423,
+      "name": "Frazee"
+    },
+    {
+      "id": 210424,
+      "name": "Freeborn County"
+    },
+    {
+      "id": 210425,
+      "name": "Fridley"
+    },
+    {
+      "id": 210426,
+      "name": "Fulda"
+    },
+    {
+      "id": 210427,
+      "name": "Gaylord"
+    },
+    {
+      "id": 210428,
+      "name": "Gilbert"
+    },
+    {
+      "id": 210429,
+      "name": "Glencoe"
+    },
+    {
+      "id": 210430,
+      "name": "Glenwood"
+    },
+    {
+      "id": 210431,
+      "name": "Glyndon"
+    },
+    {
+      "id": 210432,
+      "name": "Golden Valley"
+    },
+    {
+      "id": 210433,
+      "name": "Goodhue"
+    },
+    {
+      "id": 210434,
+      "name": "Goodhue County"
+    },
+    {
+      "id": 210435,
+      "name": "Goodview"
+    },
+    {
+      "id": 210436,
+      "name": "Grand Marais"
+    },
+    {
+      "id": 210437,
+      "name": "Grand Meadow"
+    },
+    {
+      "id": 210438,
+      "name": "Grand Rapids"
+    },
+    {
+      "id": 210439,
+      "name": "Granite Falls"
+    },
+    {
+      "id": 210440,
+      "name": "Grant"
+    },
+    {
+      "id": 210441,
+      "name": "Grant County"
+    },
+    {
+      "id": 210442,
+      "name": "Greenfield"
+    },
+    {
+      "id": 210443,
+      "name": "Hallock"
+    },
+    {
+      "id": 210444,
+      "name": "Ham Lake"
+    },
+    {
+      "id": 210445,
+      "name": "Hanover"
+    },
+    {
+      "id": 210446,
+      "name": "Harris"
+    },
+    {
+      "id": 210447,
+      "name": "Hastings"
+    },
+    {
+      "id": 210448,
+      "name": "Hawley"
+    },
+    {
+      "id": 210449,
+      "name": "Hayfield"
+    },
+    {
+      "id": 210450,
+      "name": "Hector"
+    },
+    {
+      "id": 210451,
+      "name": "Hennepin County"
+    },
+    {
+      "id": 210452,
+      "name": "Hermantown"
+    },
+    {
+      "id": 210453,
+      "name": "Hibbing"
+    },
+    {
+      "id": 210454,
+      "name": "Hinckley"
+    },
+    {
+      "id": 210455,
+      "name": "Hopkins"
+    },
+    {
+      "id": 210456,
+      "name": "Houston County"
+    },
+    {
+      "id": 210457,
+      "name": "Howard Lake"
+    },
+    {
+      "id": 210458,
+      "name": "Hoyt Lakes"
+    },
+    {
+      "id": 210459,
+      "name": "Hubbard County"
+    },
+    {
+      "id": 210460,
+      "name": "Hugo"
+    },
+    {
+      "id": 210461,
+      "name": "Hutchinson"
+    },
+    {
+      "id": 210462,
+      "name": "Independence"
+    },
+    {
+      "id": 210463,
+      "name": "International Falls"
+    },
+    {
+      "id": 210464,
+      "name": "Inver Grove Heights"
+    },
+    {
+      "id": 210465,
+      "name": "Isanti"
+    },
+    {
+      "id": 210466,
+      "name": "Isanti County"
+    },
+    {
+      "id": 210467,
+      "name": "Itasca County"
+    },
+    {
+      "id": 210468,
+      "name": "Ivanhoe"
+    },
+    {
+      "id": 210469,
+      "name": "Jackson"
+    },
+    {
+      "id": 210470,
+      "name": "Jackson County"
+    },
+    {
+      "id": 210471,
+      "name": "Janesville"
+    },
+    {
+      "id": 210472,
+      "name": "Jordan"
+    },
+    {
+      "id": 210473,
+      "name": "Kanabec County"
+    },
+    {
+      "id": 210474,
+      "name": "Kandiyohi County"
+    },
+    {
+      "id": 210475,
+      "name": "Kasson"
+    },
+    {
+      "id": 210476,
+      "name": "Keewatin"
+    },
+    {
+      "id": 210477,
+      "name": "Kenyon"
+    },
+    {
+      "id": 210478,
+      "name": "Kittson County"
+    },
+    {
+      "id": 210479,
+      "name": "Koochiching County"
+    },
+    {
+      "id": 210480,
+      "name": "La Crescent"
+    },
+    {
+      "id": 210481,
+      "name": "Lac qui Parle County"
+    },
+    {
+      "id": 210482,
+      "name": "Lake City"
+    },
+    {
+      "id": 210483,
+      "name": "Lake County"
+    },
+    {
+      "id": 210484,
+      "name": "Lake Crystal"
+    },
+    {
+      "id": 210485,
+      "name": "Lake Elmo"
+    },
+    {
+      "id": 210486,
+      "name": "Lake of the Woods County"
+    },
+    {
+      "id": 210487,
+      "name": "Lake Saint Croix Beach"
+    },
+    {
+      "id": 210488,
+      "name": "Lake Shore"
+    },
+    {
+      "id": 210489,
+      "name": "Lakefield"
+    },
+    {
+      "id": 210490,
+      "name": "Lakeland"
+    },
+    {
+      "id": 210491,
+      "name": "Lakeville"
+    },
+    {
+      "id": 210492,
+      "name": "Lauderdale"
+    },
+    {
+      "id": 210493,
+      "name": "Le Center"
+    },
+    {
+      "id": 210494,
+      "name": "Le Sueur"
+    },
+    {
+      "id": 210495,
+      "name": "Le Sueur County"
+    },
+    {
+      "id": 210496,
+      "name": "Lester Prairie"
+    },
+    {
+      "id": 210497,
+      "name": "Lewiston"
+    },
+    {
+      "id": 210498,
+      "name": "Lexington"
+    },
+    {
+      "id": 210499,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 210500,
+      "name": "Lindstrom"
+    },
+    {
+      "id": 210501,
+      "name": "Lino Lakes"
+    },
+    {
+      "id": 210502,
+      "name": "Litchfield"
+    },
+    {
+      "id": 210503,
+      "name": "Little Canada"
+    },
+    {
+      "id": 210504,
+      "name": "Little Falls"
+    },
+    {
+      "id": 210505,
+      "name": "Little Rock"
+    },
+    {
+      "id": 210506,
+      "name": "Long Lake"
+    },
+    {
+      "id": 210507,
+      "name": "Long Prairie"
+    },
+    {
+      "id": 210508,
+      "name": "Lonsdale"
+    },
+    {
+      "id": 210509,
+      "name": "Luverne"
+    },
+    {
+      "id": 210510,
+      "name": "Lyon County"
+    },
+    {
+      "id": 210511,
+      "name": "Madelia"
+    },
+    {
+      "id": 210512,
+      "name": "Madison"
+    },
+    {
+      "id": 210513,
+      "name": "Madison Lake"
+    },
+    {
+      "id": 210514,
+      "name": "Mahnomen"
+    },
+    {
+      "id": 210515,
+      "name": "Mahnomen County"
+    },
+    {
+      "id": 210516,
+      "name": "Mahtomedi"
+    },
+    {
+      "id": 210517,
+      "name": "Mankato"
+    },
+    {
+      "id": 210518,
+      "name": "Mantorville"
+    },
+    {
+      "id": 210519,
+      "name": "Maple Grove"
+    },
+    {
+      "id": 210520,
+      "name": "Maple Lake"
+    },
+    {
+      "id": 210521,
+      "name": "Maple Plain"
+    },
+    {
+      "id": 210522,
+      "name": "Mapleton"
+    },
+    {
+      "id": 210523,
+      "name": "Maplewood"
+    },
+    {
+      "id": 210524,
+      "name": "Marshall"
+    },
+    {
+      "id": 210525,
+      "name": "Marshall County"
+    },
+    {
+      "id": 210526,
+      "name": "Martin County"
+    },
+    {
+      "id": 210527,
+      "name": "Mayer"
+    },
+    {
+      "id": 210528,
+      "name": "McLeod County"
+    },
+    {
+      "id": 210529,
+      "name": "Medford"
+    },
+    {
+      "id": 210530,
+      "name": "Medina"
+    },
+    {
+      "id": 210531,
+      "name": "Meeker County"
+    },
+    {
+      "id": 210532,
+      "name": "Melrose"
+    },
+    {
+      "id": 210533,
+      "name": "Menahga"
+    },
+    {
+      "id": 210534,
+      "name": "Mendota Heights"
+    },
+    {
+      "id": 210535,
+      "name": "Milaca"
+    },
+    {
+      "id": 210536,
+      "name": "Mille Lacs County"
+    },
+    {
+      "id": 210537,
+      "name": "Minneapolis"
+    },
+    {
+      "id": 210538,
+      "name": "Minneota"
+    },
+    {
+      "id": 210539,
+      "name": "Minnetonka"
+    },
+    {
+      "id": 210540,
+      "name": "Minnetonka Mills"
+    },
+    {
+      "id": 210541,
+      "name": "Minnetrista"
+    },
+    {
+      "id": 210542,
+      "name": "Montevideo"
+    },
+    {
+      "id": 210543,
+      "name": "Montgomery"
+    },
+    {
+      "id": 210544,
+      "name": "Monticello"
+    },
+    {
+      "id": 210545,
+      "name": "Montrose"
+    },
+    {
+      "id": 210546,
+      "name": "Moorhead"
+    },
+    {
+      "id": 210547,
+      "name": "Moose Lake"
+    },
+    {
+      "id": 210548,
+      "name": "Mora"
+    },
+    {
+      "id": 210549,
+      "name": "Morris"
+    },
+    {
+      "id": 210550,
+      "name": "Morrison County"
+    },
+    {
+      "id": 210551,
+      "name": "Mound"
+    },
+    {
+      "id": 210552,
+      "name": "Mounds View"
+    },
+    {
+      "id": 210553,
+      "name": "Mountain Iron"
+    },
+    {
+      "id": 210554,
+      "name": "Mountain Lake"
+    },
+    {
+      "id": 210555,
+      "name": "Mower County"
+    },
+    {
+      "id": 210556,
+      "name": "Murray County"
+    },
+    {
+      "id": 210557,
+      "name": "New Brighton"
+    },
+    {
+      "id": 210558,
+      "name": "New Hope"
+    },
+    {
+      "id": 210559,
+      "name": "New London"
+    },
+    {
+      "id": 210560,
+      "name": "New Prague"
+    },
+    {
+      "id": 210561,
+      "name": "New Richland"
+    },
+    {
+      "id": 210562,
+      "name": "New Ulm"
+    },
+    {
+      "id": 210563,
+      "name": "New York Mills"
+    },
+    {
+      "id": 210564,
+      "name": "Newport"
+    },
+    {
+      "id": 210565,
+      "name": "Nicollet"
+    },
+    {
+      "id": 210566,
+      "name": "Nicollet County"
+    },
+    {
+      "id": 210567,
+      "name": "Nisswa"
+    },
+    {
+      "id": 210568,
+      "name": "Nobles County"
+    },
+    {
+      "id": 210569,
+      "name": "Norman County"
+    },
+    {
+      "id": 210570,
+      "name": "North Branch"
+    },
+    {
+      "id": 210571,
+      "name": "North Mankato"
+    },
+    {
+      "id": 210572,
+      "name": "North Oaks"
+    },
+    {
+      "id": 210573,
+      "name": "North Saint Paul"
+    },
+    {
+      "id": 210574,
+      "name": "Northfield"
+    },
+    {
+      "id": 210575,
+      "name": "Norwood (historical)"
+    },
+    {
+      "id": 210576,
+      "name": "Norwood Young America"
+    },
+    {
+      "id": 210577,
+      "name": "Nowthen"
+    },
+    {
+      "id": 210578,
+      "name": "Oak Grove"
+    },
+    {
+      "id": 210579,
+      "name": "Oak Park Heights"
+    },
+    {
+      "id": 210580,
+      "name": "Oakdale"
+    },
+    {
+      "id": 210581,
+      "name": "Oakport"
+    },
+    {
+      "id": 210582,
+      "name": "Olivia"
+    },
+    {
+      "id": 210583,
+      "name": "Olmsted County"
+    },
+    {
+      "id": 210584,
+      "name": "Orono"
+    },
+    {
+      "id": 210585,
+      "name": "Oronoco"
+    },
+    {
+      "id": 210586,
+      "name": "Ortonville"
+    },
+    {
+      "id": 210587,
+      "name": "Osakis"
+    },
+    {
+      "id": 210588,
+      "name": "Osseo"
+    },
+    {
+      "id": 210589,
+      "name": "Otsego"
+    },
+    {
+      "id": 210590,
+      "name": "Otter Tail County"
+    },
+    {
+      "id": 210591,
+      "name": "Owatonna"
+    },
+    {
+      "id": 210592,
+      "name": "Park Rapids"
+    },
+    {
+      "id": 210593,
+      "name": "Parkers Prairie"
+    },
+    {
+      "id": 210594,
+      "name": "Parkville"
+    },
+    {
+      "id": 210595,
+      "name": "Paynesville"
+    },
+    {
+      "id": 210596,
+      "name": "Pelican Rapids"
+    },
+    {
+      "id": 210597,
+      "name": "Pennington County"
+    },
+    {
+      "id": 210598,
+      "name": "Pequot Lakes"
+    },
+    {
+      "id": 210599,
+      "name": "Perham"
+    },
+    {
+      "id": 210600,
+      "name": "Pierz"
+    },
+    {
+      "id": 210601,
+      "name": "Pine City"
+    },
+    {
+      "id": 210602,
+      "name": "Pine County"
+    },
+    {
+      "id": 210603,
+      "name": "Pine Island"
+    },
+    {
+      "id": 210604,
+      "name": "Pipestone"
+    },
+    {
+      "id": 210605,
+      "name": "Pipestone County"
+    },
+    {
+      "id": 210606,
+      "name": "Plainview"
+    },
+    {
+      "id": 210607,
+      "name": "Plymouth"
+    },
+    {
+      "id": 210608,
+      "name": "Polk County"
+    },
+    {
+      "id": 210609,
+      "name": "Pope County"
+    },
+    {
+      "id": 210610,
+      "name": "Preston"
+    },
+    {
+      "id": 210611,
+      "name": "Princeton"
+    },
+    {
+      "id": 210612,
+      "name": "Prior Lake"
+    },
+    {
+      "id": 210613,
+      "name": "Proctor"
+    },
+    {
+      "id": 210614,
+      "name": "Ramsey"
+    },
+    {
+      "id": 210615,
+      "name": "Ramsey County"
+    },
+    {
+      "id": 210616,
+      "name": "Red Lake"
+    },
+    {
+      "id": 210617,
+      "name": "Red Lake County"
+    },
+    {
+      "id": 210618,
+      "name": "Red Lake Falls"
+    },
+    {
+      "id": 210619,
+      "name": "Red Wing"
+    },
+    {
+      "id": 210620,
+      "name": "Redby"
+    },
+    {
+      "id": 210621,
+      "name": "Redwood County"
+    },
+    {
+      "id": 210622,
+      "name": "Redwood Falls"
+    },
+    {
+      "id": 210623,
+      "name": "Renville"
+    },
+    {
+      "id": 210624,
+      "name": "Renville County"
+    },
+    {
+      "id": 210625,
+      "name": "Rice"
+    },
+    {
+      "id": 210626,
+      "name": "Rice County"
+    },
+    {
+      "id": 210627,
+      "name": "Richfield"
+    },
+    {
+      "id": 210628,
+      "name": "Richmond"
+    },
+    {
+      "id": 210629,
+      "name": "Robbinsdale"
+    },
+    {
+      "id": 210630,
+      "name": "Rochester"
+    },
+    {
+      "id": 210631,
+      "name": "Rock County"
+    },
+    {
+      "id": 210632,
+      "name": "Rock Creek"
+    },
+    {
+      "id": 210633,
+      "name": "Rockford"
+    },
+    {
+      "id": 210634,
+      "name": "Rockville"
+    },
+    {
+      "id": 210635,
+      "name": "Rogers"
+    },
+    {
+      "id": 210636,
+      "name": "Roseau"
+    },
+    {
+      "id": 210637,
+      "name": "Roseau County"
+    },
+    {
+      "id": 210638,
+      "name": "Rosemount"
+    },
+    {
+      "id": 210639,
+      "name": "Roseville"
+    },
+    {
+      "id": 210640,
+      "name": "Royalton"
+    },
+    {
+      "id": 210641,
+      "name": "Rush City"
+    },
+    {
+      "id": 210642,
+      "name": "Rushford"
+    },
+    {
+      "id": 210643,
+      "name": "Saint Anthony"
+    },
+    {
+      "id": 210644,
+      "name": "Saint Augusta"
+    },
+    {
+      "id": 210645,
+      "name": "Saint Bonifacius"
+    },
+    {
+      "id": 210646,
+      "name": "Saint Charles"
+    },
+    {
+      "id": 210647,
+      "name": "Saint Cloud"
+    },
+    {
+      "id": 210648,
+      "name": "Saint Francis"
+    },
+    {
+      "id": 210649,
+      "name": "Saint James"
+    },
+    {
+      "id": 210650,
+      "name": "Saint Joseph"
+    },
+    {
+      "id": 210651,
+      "name": "Saint Louis County"
+    },
+    {
+      "id": 210652,
+      "name": "Saint Louis Park"
+    },
+    {
+      "id": 210653,
+      "name": "Saint Michael"
+    },
+    {
+      "id": 210654,
+      "name": "Saint Paul"
+    },
+    {
+      "id": 210655,
+      "name": "Saint Paul Park"
+    },
+    {
+      "id": 210656,
+      "name": "Saint Peter"
+    },
+    {
+      "id": 210657,
+      "name": "Sandstone"
+    },
+    {
+      "id": 210658,
+      "name": "Sartell"
+    },
+    {
+      "id": 210659,
+      "name": "Sauk Centre"
+    },
+    {
+      "id": 210660,
+      "name": "Sauk Rapids"
+    },
+    {
+      "id": 210661,
+      "name": "Savage"
+    },
+    {
+      "id": 210662,
+      "name": "Scandia"
+    },
+    {
+      "id": 210663,
+      "name": "Scott County"
+    },
+    {
+      "id": 210664,
+      "name": "Shafer"
+    },
+    {
+      "id": 210665,
+      "name": "Shakopee"
+    },
+    {
+      "id": 210666,
+      "name": "Sherburn"
+    },
+    {
+      "id": 210667,
+      "name": "Sherburne County"
+    },
+    {
+      "id": 210668,
+      "name": "Shoreview"
+    },
+    {
+      "id": 210669,
+      "name": "Shorewood"
+    },
+    {
+      "id": 210670,
+      "name": "Sibley County"
+    },
+    {
+      "id": 210671,
+      "name": "Silver Bay"
+    },
+    {
+      "id": 210672,
+      "name": "Slayton"
+    },
+    {
+      "id": 210673,
+      "name": "Sleepy Eye"
+    },
+    {
+      "id": 210674,
+      "name": "South Saint Paul"
+    },
+    {
+      "id": 210675,
+      "name": "Spicer"
+    },
+    {
+      "id": 210676,
+      "name": "Spring Grove"
+    },
+    {
+      "id": 210677,
+      "name": "Spring Lake Park"
+    },
+    {
+      "id": 210678,
+      "name": "Spring Park"
+    },
+    {
+      "id": 210679,
+      "name": "Spring Valley"
+    },
+    {
+      "id": 210680,
+      "name": "Springfield"
+    },
+    {
+      "id": 210681,
+      "name": "Stacy"
+    },
+    {
+      "id": 210682,
+      "name": "Staples"
+    },
+    {
+      "id": 210683,
+      "name": "Starbuck"
+    },
+    {
+      "id": 210684,
+      "name": "Stearns County"
+    },
+    {
+      "id": 210685,
+      "name": "Steele County"
+    },
+    {
+      "id": 210686,
+      "name": "Stevens County"
+    },
+    {
+      "id": 210687,
+      "name": "Stewartville"
+    },
+    {
+      "id": 210688,
+      "name": "Stillwater"
+    },
+    {
+      "id": 210689,
+      "name": "Swift County"
+    },
+    {
+      "id": 210690,
+      "name": "Taylors Falls"
+    },
+    {
+      "id": 210691,
+      "name": "Thief River Falls"
+    },
+    {
+      "id": 210692,
+      "name": "Todd County"
+    },
+    {
+      "id": 210693,
+      "name": "Tonka Bay"
+    },
+    {
+      "id": 210694,
+      "name": "Tracy"
+    },
+    {
+      "id": 210695,
+      "name": "Traverse County"
+    },
+    {
+      "id": 210696,
+      "name": "Truman"
+    },
+    {
+      "id": 210697,
+      "name": "Two Harbors"
+    },
+    {
+      "id": 210698,
+      "name": "Tyler"
+    },
+    {
+      "id": 210699,
+      "name": "Vadnais Heights"
+    },
+    {
+      "id": 210700,
+      "name": "Victoria"
+    },
+    {
+      "id": 210701,
+      "name": "Vineland"
+    },
+    {
+      "id": 210702,
+      "name": "Virginia"
+    },
+    {
+      "id": 210703,
+      "name": "Wabasha"
+    },
+    {
+      "id": 210704,
+      "name": "Wabasha County"
+    },
+    {
+      "id": 210705,
+      "name": "Waconia"
+    },
+    {
+      "id": 210706,
+      "name": "Wadena"
+    },
+    {
+      "id": 210707,
+      "name": "Wadena County"
+    },
+    {
+      "id": 210708,
+      "name": "Waite Park"
+    },
+    {
+      "id": 210709,
+      "name": "Walker"
+    },
+    {
+      "id": 210710,
+      "name": "Wanamingo"
+    },
+    {
+      "id": 210711,
+      "name": "Warren"
+    },
+    {
+      "id": 210712,
+      "name": "Warroad"
+    },
+    {
+      "id": 210713,
+      "name": "Waseca"
+    },
+    {
+      "id": 210714,
+      "name": "Waseca County"
+    },
+    {
+      "id": 210715,
+      "name": "Washington County"
+    },
+    {
+      "id": 210716,
+      "name": "Watertown"
+    },
+    {
+      "id": 210717,
+      "name": "Waterville"
+    },
+    {
+      "id": 210718,
+      "name": "Watonwan County"
+    },
+    {
+      "id": 210719,
+      "name": "Waverly"
+    },
+    {
+      "id": 210720,
+      "name": "Wayzata"
+    },
+    {
+      "id": 210721,
+      "name": "Wells"
+    },
+    {
+      "id": 210722,
+      "name": "West Coon Rapids"
+    },
+    {
+      "id": 210723,
+      "name": "West Saint Paul"
+    },
+    {
+      "id": 210724,
+      "name": "Wheaton"
+    },
+    {
+      "id": 210725,
+      "name": "White Bear Lake"
+    },
+    {
+      "id": 210726,
+      "name": "Wilkin County"
+    },
+    {
+      "id": 210727,
+      "name": "Willmar"
+    },
+    {
+      "id": 210728,
+      "name": "Windom"
+    },
+    {
+      "id": 210729,
+      "name": "Winnebago"
+    },
+    {
+      "id": 210730,
+      "name": "Winona"
+    },
+    {
+      "id": 210731,
+      "name": "Winona County"
+    },
+    {
+      "id": 210732,
+      "name": "Winsted"
+    },
+    {
+      "id": 210733,
+      "name": "Winthrop"
+    },
+    {
+      "id": 210734,
+      "name": "Woodbury"
+    },
+    {
+      "id": 210735,
+      "name": "Worthington"
+    },
+    {
+      "id": 210736,
+      "name": "Wright County"
+    },
+    {
+      "id": 210737,
+      "name": "Wyoming"
+    },
+    {
+      "id": 210738,
+      "name": "Yellow Medicine County"
+    },
+    {
+      "id": 210739,
+      "name": "Young America (historical)"
+    },
+    {
+      "id": 210740,
+      "name": "Zimmerman"
+    },
+    {
+      "id": 210741,
+      "name": "Zumbrota"
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "id": 3049,
+  "name": "Pernambuco",
+  "state_code": "PE",
+  "cities": [
+    {
+      "id": 85610,
+      "name": "Araçoiaba"
+    },
+    {
+      "id": 85611,
+      "name": "Araripina"
+    },
+    {
+      "id": 85612,
+      "name": "Arcoverde"
+    },
+    {
+      "id": 85613,
+      "name": "Barra de Guabiraba"
+    },
+    {
+      "id": 85614,
+      "name": "Barreiros"
+    },
+    {
+      "id": 85615,
+      "name": "Belém de Maria"
+    },
+    {
+      "id": 85616,
+      "name": "Belém de São Francisco"
+    },
+    {
+      "id": 85617,
+      "name": "Belém do São Francisco"
+    },
+    {
+      "id": 85618,
+      "name": "Belo Jardim"
+    },
+    {
+      "id": 85619,
+      "name": "Betânia"
+    },
+    {
+      "id": 85620,
+      "name": "Bezerros"
+    },
+    {
+      "id": 85621,
+      "name": "Bodocó"
+    },
+    {
+      "id": 85622,
+      "name": "Bom Conselho"
+    },
+    {
+      "id": 85623,
+      "name": "Bom Jardim"
+    },
+    {
+      "id": 85624,
+      "name": "Bonito"
+    },
+    {
+      "id": 85625,
+      "name": "Brejão"
+    },
+    {
+      "id": 85626,
+      "name": "Brejinho"
+    },
+    {
+      "id": 85627,
+      "name": "Brejo da Madre de Deus"
+    },
+    {
+      "id": 85628,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 85629,
+      "name": "Buíque"
+    },
+    {
+      "id": 85630,
+      "name": "Cabo"
+    },
+    {
+      "id": 85631,
+      "name": "Cabo de Santo Agostinho"
+    },
+    {
+      "id": 85632,
+      "name": "Cabrobó"
+    },
+    {
+      "id": 85633,
+      "name": "Cachoeirinha"
+    },
+    {
+      "id": 85634,
+      "name": "Caetés"
+    },
+    {
+      "id": 85635,
+      "name": "Calçado"
+    },
+    {
+      "id": 85636,
+      "name": "Calumbi"
+    },
+    {
+      "id": 85637,
+      "name": "Camaragibe"
+    },
+    {
+      "id": 85638,
+      "name": "Camocim de São Félix"
+    },
+    {
+      "id": 85639,
+      "name": "Camutanga"
+    },
+    {
+      "id": 85640,
+      "name": "Canhotinho"
+    },
+    {
+      "id": 85641,
+      "name": "Capoeiras"
+    },
+    {
+      "id": 85642,
+      "name": "Carnaíba"
+    },
+    {
+      "id": 85643,
+      "name": "Carnaubeira da Penha"
+    },
+    {
+      "id": 85644,
+      "name": "Carpina"
+    },
+    {
+      "id": 85645,
+      "name": "Caruaru"
+    },
+    {
+      "id": 85646,
+      "name": "Casinhas"
+    },
+    {
+      "id": 85647,
+      "name": "Catende"
+    },
+    {
+      "id": 85648,
+      "name": "Cedro"
+    },
+    {
+      "id": 85649,
+      "name": "Chã de Alegria"
+    },
+    {
+      "id": 85650,
+      "name": "Chã Grande"
+    },
+    {
+      "id": 85651,
+      "name": "Colônia Leopoldina"
+    },
+    {
+      "id": 85652,
+      "name": "Condado"
+    },
+    {
+      "id": 85653,
+      "name": "Correntes"
+    },
+    {
+      "id": 85654,
+      "name": "Cortês"
+    },
+    {
+      "id": 85655,
+      "name": "Cumaru"
+    },
+    {
+      "id": 85656,
+      "name": "Cupira"
+    },
+    {
+      "id": 85657,
+      "name": "Custódia"
+    },
+    {
+      "id": 85658,
+      "name": "Dormentes"
+    },
+    {
+      "id": 85659,
+      "name": "Escada"
+    },
+    {
+      "id": 85660,
+      "name": "Exu"
+    },
+    {
+      "id": 85661,
+      "name": "Feira Nova"
+    },
+    {
+      "id": 85662,
+      "name": "Fernando de Noronha"
+    },
+    {
+      "id": 85663,
+      "name": "Fernando de Noronha (Distrito Estadual)"
+    },
+    {
+      "id": 85664,
+      "name": "Ferreiros"
+    },
+    {
+      "id": 85665,
+      "name": "Flores"
+    },
+    {
+      "id": 85666,
+      "name": "Floresta"
+    },
+    {
+      "id": 85667,
+      "name": "Frei Miguelinho"
+    },
+    {
+      "id": 85668,
+      "name": "Gameleira"
+    },
+    {
+      "id": 85669,
+      "name": "Garanhuns"
+    },
+    {
+      "id": 85670,
+      "name": "Glória do Goitá"
+    },
+    {
+      "id": 85671,
+      "name": "Goiana"
+    },
+    {
+      "id": 85672,
+      "name": "Granito"
+    },
+    {
+      "id": 85673,
+      "name": "Gravatá"
+    },
+    {
+      "id": 85674,
+      "name": "Guabiraba"
+    },
+    {
+      "id": 85675,
+      "name": "Iati"
+    },
+    {
+      "id": 85676,
+      "name": "Ibimirim"
+    },
+    {
+      "id": 85677,
+      "name": "Ibirajuba"
+    },
+    {
+      "id": 85678,
+      "name": "Igarassu"
+    },
+    {
+      "id": 85679,
+      "name": "Iguaracy"
+    },
+    {
+      "id": 85680,
+      "name": "Ilha de Itamaracá"
+    },
+    {
+      "id": 85681,
+      "name": "Inajá"
+    },
+    {
+      "id": 85682,
+      "name": "Ingazeira"
+    },
+    {
+      "id": 85683,
+      "name": "Ipojuca"
+    },
+    {
+      "id": 85684,
+      "name": "Ipubi"
+    },
+    {
+      "id": 85685,
+      "name": "Itacuruba"
+    },
+    {
+      "id": 85686,
+      "name": "Itaíba"
+    },
+    {
+      "id": 85687,
+      "name": "Itamaracá"
+    },
+    {
+      "id": 85688,
+      "name": "Itambé"
+    },
+    {
+      "id": 85689,
+      "name": "Itapetim"
+    },
+    {
+      "id": 85690,
+      "name": "Itapissuma"
+    },
+    {
+      "id": 85691,
+      "name": "Itaquitinga"
+    },
+    {
+      "id": 85692,
+      "name": "Jaboatão"
+    },
+    {
+      "id": 85693,
+      "name": "Jaboatão dos Guararapes"
+    },
+    {
+      "id": 85694,
+      "name": "Jaqueira"
+    },
+    {
+      "id": 85695,
+      "name": "Jataúba"
+    },
+    {
+      "id": 85696,
+      "name": "Jatobá"
+    },
+    {
+      "id": 85697,
+      "name": "João Alfredo"
+    },
+    {
+      "id": 85698,
+      "name": "Joaquim Nabuco"
+    },
+    {
+      "id": 85699,
+      "name": "Jucati"
+    },
+    {
+      "id": 85700,
+      "name": "Jupi"
+    },
+    {
+      "id": 85701,
+      "name": "Jurema"
+    },
+    {
+      "id": 85702,
+      "name": "Lagoa de Itaenga"
+    },
+    {
+      "id": 85703,
+      "name": "Lagoa do Carro"
+    },
+    {
+      "id": 85704,
+      "name": "Lagoa do Itaenga"
+    },
+    {
+      "id": 85705,
+      "name": "Lagoa do Ouro"
+    },
+    {
+      "id": 85706,
+      "name": "Lagoa dos Gatos"
+    },
+    {
+      "id": 85707,
+      "name": "Lagoa Grande"
+    },
+    {
+      "id": 85708,
+      "name": "Lajedo"
+    },
+    {
+      "id": 85709,
+      "name": "Limoeiro"
+    },
+    {
+      "id": 85710,
+      "name": "Macaparana"
+    },
+    {
+      "id": 85711,
+      "name": "Machados"
+    },
+    {
+      "id": 85712,
+      "name": "Manari"
+    },
+    {
+      "id": 85713,
+      "name": "Maraial"
+    },
+    {
+      "id": 85714,
+      "name": "Mirandiba"
+    },
+    {
+      "id": 85715,
+      "name": "Moreilândia"
+    },
+    {
+      "id": 85716,
+      "name": "Moreno"
+    },
+    {
+      "id": 85717,
+      "name": "Nazaré da Mata"
+    },
+    {
+      "id": 85718,
+      "name": "Olinda"
+    },
+    {
+      "id": 85719,
+      "name": "Orobó"
+    },
+    {
+      "id": 85720,
+      "name": "Orocó"
+    },
+    {
+      "id": 85721,
+      "name": "Ouricuri"
+    },
+    {
+      "id": 85722,
+      "name": "Palmares"
+    },
+    {
+      "id": 85723,
+      "name": "Palmeirina"
+    },
+    {
+      "id": 85724,
+      "name": "Panelas"
+    },
+    {
+      "id": 85725,
+      "name": "Paranatama"
+    },
+    {
+      "id": 85726,
+      "name": "Parnamirim"
+    },
+    {
+      "id": 85727,
+      "name": "Passira"
+    },
+    {
+      "id": 85728,
+      "name": "Paudalho"
+    },
+    {
+      "id": 85729,
+      "name": "Paulista"
+    },
+    {
+      "id": 85730,
+      "name": "Pedra"
+    },
+    {
+      "id": 85731,
+      "name": "Pesqueira"
+    },
+    {
+      "id": 85732,
+      "name": "Petrolândia"
+    },
+    {
+      "id": 85733,
+      "name": "Petrolina"
+    },
+    {
+      "id": 85734,
+      "name": "Poção"
+    },
+    {
+      "id": 85735,
+      "name": "Pombos"
+    },
+    {
+      "id": 85736,
+      "name": "Primavera"
+    },
+    {
+      "id": 85737,
+      "name": "Quipapá"
+    },
+    {
+      "id": 85738,
+      "name": "Quixaba"
+    },
+    {
+      "id": 85739,
+      "name": "Recife"
+    },
+    {
+      "id": 85740,
+      "name": "Riacho das Almas"
+    },
+    {
+      "id": 85741,
+      "name": "Ribeirão"
+    },
+    {
+      "id": 85742,
+      "name": "Rio Formoso"
+    },
+    {
+      "id": 85743,
+      "name": "Sairé"
+    },
+    {
+      "id": 85744,
+      "name": "Salgadinho"
+    },
+    {
+      "id": 85745,
+      "name": "Salgueiro"
+    },
+    {
+      "id": 85746,
+      "name": "Saloá"
+    },
+    {
+      "id": 85747,
+      "name": "Sanharó"
+    },
+    {
+      "id": 85748,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 85749,
+      "name": "Santa Cruz da Baixa Verde"
+    },
+    {
+      "id": 85750,
+      "name": "Santa Cruz do Capibaribe"
+    },
+    {
+      "id": 85751,
+      "name": "Santa Filomena"
+    },
+    {
+      "id": 85752,
+      "name": "Santa Maria da Boa Vista"
+    },
+    {
+      "id": 85753,
+      "name": "Santa Maria do Cambucá"
+    },
+    {
+      "id": 85754,
+      "name": "Santa Terezinha"
+    },
+    {
+      "id": 85755,
+      "name": "São Benedito do Sul"
+    },
+    {
+      "id": 85756,
+      "name": "São Bento do Una"
+    },
+    {
+      "id": 85757,
+      "name": "São Caitano"
+    },
+    {
+      "id": 85758,
+      "name": "São João"
+    },
+    {
+      "id": 85759,
+      "name": "São Joaquim do Monte"
+    },
+    {
+      "id": 85760,
+      "name": "São José da Coroa Grande"
+    },
+    {
+      "id": 85761,
+      "name": "São José do Belmonte"
+    },
+    {
+      "id": 85762,
+      "name": "São José do Egito"
+    },
+    {
+      "id": 85763,
+      "name": "São Lourenço da Mata"
+    },
+    {
+      "id": 85764,
+      "name": "São Vicente Férrer"
+    },
+    {
+      "id": 85765,
+      "name": "Serra Talhada"
+    },
+    {
+      "id": 85766,
+      "name": "Serrita"
+    },
+    {
+      "id": 85767,
+      "name": "Sertânia"
+    },
+    {
+      "id": 85768,
+      "name": "Sirinhaém"
+    },
+    {
+      "id": 85769,
+      "name": "Solidão"
+    },
+    {
+      "id": 85770,
+      "name": "Surubim"
+    },
+    {
+      "id": 85771,
+      "name": "Tabira"
+    },
+    {
+      "id": 85772,
+      "name": "Tacaimbó"
+    },
+    {
+      "id": 85773,
+      "name": "Tacaratu"
+    },
+    {
+      "id": 85774,
+      "name": "Tamandaré"
+    },
+    {
+      "id": 85775,
+      "name": "Taquaritinga do Norte"
+    },
+    {
+      "id": 85776,
+      "name": "Terezinha"
+    },
+    {
+      "id": 85777,
+      "name": "Terra Nova"
+    },
+    {
+      "id": 85778,
+      "name": "Timbaúba"
+    },
+    {
+      "id": 85779,
+      "name": "Toritama"
+    },
+    {
+      "id": 85780,
+      "name": "Tracunhaém"
+    },
+    {
+      "id": 85781,
+      "name": "Trindade"
+    },
+    {
+      "id": 85782,
+      "name": "Triunfo"
+    },
+    {
+      "id": 85783,
+      "name": "Tupanatinga"
+    },
+    {
+      "id": 85784,
+      "name": "Tuparetama"
+    },
+    {
+      "id": 85785,
+      "name": "Venturosa"
+    },
+    {
+      "id": 85786,
+      "name": "Verdejante"
+    },
+    {
+      "id": 85787,
+      "name": "Vertente do Lério"
+    },
+    {
+      "id": 85788,
+      "name": "Vertentes"
+    },
+    {
+      "id": 85789,
+      "name": "Vicência"
+    },
+    {
+      "id": 85790,
+      "name": "Vitória de Santo Antão"
+    },
+    {
+      "id": 85791,
+      "name": "Xexéu"
+    },
+    {
+      "id": 85599,
+      "name": "Abreu e Lima"
+    },
+    {
+      "id": 85600,
+      "name": "Afogados da Ingazeira"
+    },
+    {
+      "id": 85601,
+      "name": "Afrânio"
+    },
+    {
+      "id": 85602,
+      "name": "Agrestina"
+    },
+    {
+      "id": 85603,
+      "name": "Água Preta"
+    },
+    {
+      "id": 85604,
+      "name": "Águas Belas"
+    },
+    {
+      "id": 85605,
+      "name": "Alagoinha"
+    },
+    {
+      "id": 85606,
+      "name": "Aliança"
+    },
+    {
+      "id": 85607,
+      "name": "Altinho"
+    },
+    {
+      "id": 85608,
+      "name": "Amaraji"
+    },
+    {
+      "id": 85609,
+      "name": "Angelim"
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "id": 5149,
+  "name": "Tabasco",
+  "state_code": "TAB",
+  "cities": [
+    {
+      "id": 146622,
+      "name": "Acachapan y Colmena 3ra. Sección"
+    },
+    {
+      "id": 146623,
+      "name": "Álvaro Obregón (Santa Cruz)"
+    },
+    {
+      "id": 146624,
+      "name": "Álvaro Obregón 2da. Sección (El Lechugal)"
+    },
+    {
+      "id": 146625,
+      "name": "Amado Gómez"
+    },
+    {
+      "id": 146626,
+      "name": "Anacleto Canabal 2da. Sección"
+    },
+    {
+      "id": 146627,
+      "name": "Anacleto Canabal 3ra. Sección"
+    },
+    {
+      "id": 146628,
+      "name": "Andrés Quintana Roo"
+    },
+    {
+      "id": 146629,
+      "name": "Apatzingán"
+    },
+    {
+      "id": 146630,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 146631,
+      "name": "Aquiles Serdán (San Fernando)"
+    },
+    {
+      "id": 146632,
+      "name": "Aquiles Serdán 1ra. Sección"
+    },
+    {
+      "id": 146633,
+      "name": "Arena 1ra. Sección"
+    },
+    {
+      "id": 146634,
+      "name": "Arena 6ta. Sección (La Bolsa)"
+    },
+    {
+      "id": 146635,
+      "name": "Arena de Hidalgo"
+    },
+    {
+      "id": 146636,
+      "name": "Arroyo Hondo Abejonal"
+    },
+    {
+      "id": 146637,
+      "name": "Astapa"
+    },
+    {
+      "id": 146638,
+      "name": "Ayapa"
+    },
+    {
+      "id": 146639,
+      "name": "Balancán"
+    },
+    {
+      "id": 146640,
+      "name": "Banderas (Guatacalca 2da. Sección)"
+    },
+    {
+      "id": 146641,
+      "name": "Barrancas y Amate 3ra. Sección"
+    },
+    {
+      "id": 146642,
+      "name": "Belén"
+    },
+    {
+      "id": 146643,
+      "name": "Benito González"
+    },
+    {
+      "id": 146644,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 146645,
+      "name": "Benito Juárez (La Playita)"
+    },
+    {
+      "id": 146646,
+      "name": "Betania"
+    },
+    {
+      "id": 146647,
+      "name": "Blasillo 1ra. Sección (Nicolás Bravo)"
+    },
+    {
+      "id": 146648,
+      "name": "Boquiapa"
+    },
+    {
+      "id": 146649,
+      "name": "Bosque de Saloya"
+    },
+    {
+      "id": 146650,
+      "name": "Brisas del Carrizal"
+    },
+    {
+      "id": 146651,
+      "name": "Buena Vista (Apasco)"
+    },
+    {
+      "id": 146652,
+      "name": "Buena Vista (Puxcatán)"
+    },
+    {
+      "id": 146653,
+      "name": "Buena Vista 1ra. Sección"
+    },
+    {
+      "id": 146654,
+      "name": "Buenavista"
+    },
+    {
+      "id": 146655,
+      "name": "C-32 (Licenciado Francisco Trujillo Gurría)"
+    },
+    {
+      "id": 146656,
+      "name": "C-41 (Licenciado Carlos A. Madrazo)"
+    },
+    {
+      "id": 146657,
+      "name": "Caobanal 1ra. Sección (Mezcalapa)"
+    },
+    {
+      "id": 146658,
+      "name": "Caparroso"
+    },
+    {
+      "id": 146659,
+      "name": "Capitán Felipe Castellanos Díaz (San Pedro)"
+    },
+    {
+      "id": 146660,
+      "name": "Cárdenas"
+    },
+    {
+      "id": 146661,
+      "name": "Ceiba 1ra. Sección (Jahuactal)"
+    },
+    {
+      "id": 146662,
+      "name": "Centro"
+    },
+    {
+      "id": 146663,
+      "name": "Chablé"
+    },
+    {
+      "id": 146664,
+      "name": "Chichicapa"
+    },
+    {
+      "id": 146665,
+      "name": "Chichicastle 1ra. Sección"
+    },
+    {
+      "id": 146666,
+      "name": "Chontalpa"
+    },
+    {
+      "id": 146667,
+      "name": "Ciudad Pemex"
+    },
+    {
+      "id": 146668,
+      "name": "Cocohital"
+    },
+    {
+      "id": 146669,
+      "name": "Comalcalco"
+    },
+    {
+      "id": 146670,
+      "name": "Constitución"
+    },
+    {
+      "id": 146671,
+      "name": "Corriente 1ra. Sección"
+    },
+    {
+      "id": 146672,
+      "name": "Cucuyulapa Primera Sección"
+    },
+    {
+      "id": 146673,
+      "name": "Cúlico 2da. Sección"
+    },
+    {
+      "id": 146674,
+      "name": "Cumuapa 1ra. Sección"
+    },
+    {
+      "id": 146675,
+      "name": "Cunduacán"
+    },
+    {
+      "id": 146676,
+      "name": "Cupilco"
+    },
+    {
+      "id": 146677,
+      "name": "Dos Ceibas"
+    },
+    {
+      "id": 146678,
+      "name": "Dos Montes"
+    },
+    {
+      "id": 146679,
+      "name": "El Bajío"
+    },
+    {
+      "id": 146680,
+      "name": "El Bellote (Miguel de la Madrid)"
+    },
+    {
+      "id": 146681,
+      "name": "El Cedro"
+    },
+    {
+      "id": 146682,
+      "name": "El Congo"
+    },
+    {
+      "id": 146683,
+      "name": "El Dorado"
+    },
+    {
+      "id": 146684,
+      "name": "El Escribano"
+    },
+    {
+      "id": 146685,
+      "name": "El Recreo"
+    },
+    {
+      "id": 146686,
+      "name": "El Tigre"
+    },
+    {
+      "id": 146687,
+      "name": "El Tortuguero"
+    },
+    {
+      "id": 146688,
+      "name": "El Triunfo"
+    },
+    {
+      "id": 146689,
+      "name": "El Tular"
+    },
+    {
+      "id": 146690,
+      "name": "Encrucijada 3ra. Sección (Las Calzadas)"
+    },
+    {
+      "id": 146691,
+      "name": "Estapilla"
+    },
+    {
+      "id": 146692,
+      "name": "Eureka y Belén"
+    },
+    {
+      "id": 146693,
+      "name": "Fraccionamiento Ocuiltzapotlán Dos"
+    },
+    {
+      "id": 146694,
+      "name": "Francisco I. Madero"
+    },
+    {
+      "id": 146695,
+      "name": "Francisco Rueda"
+    },
+    {
+      "id": 146696,
+      "name": "Frontera"
+    },
+    {
+      "id": 146697,
+      "name": "Gaviotas Sur (El Cedral)"
+    },
+    {
+      "id": 146698,
+      "name": "General Luis Felipe Domínguez Suárez"
+    },
+    {
+      "id": 146699,
+      "name": "Gobernador Cruz"
+    },
+    {
+      "id": 146700,
+      "name": "Gobernadores"
+    },
+    {
+      "id": 146701,
+      "name": "Gregorio Méndez"
+    },
+    {
+      "id": 146702,
+      "name": "Guatacalca"
+    },
+    {
+      "id": 146703,
+      "name": "Guaytalpa"
+    },
+    {
+      "id": 146704,
+      "name": "Habanero 1ra. Sección (Venustiano Carranza)"
+    },
+    {
+      "id": 146705,
+      "name": "Hermenegildo Galeana 2da. Sección"
+    },
+    {
+      "id": 146706,
+      "name": "Huacapa y Amestoy"
+    },
+    {
+      "id": 146707,
+      "name": "Huapacal 1ra. Sección"
+    },
+    {
+      "id": 146708,
+      "name": "Huapacal 2da. Sección (Punta Brava)"
+    },
+    {
+      "id": 146709,
+      "name": "Huapinol"
+    },
+    {
+      "id": 146710,
+      "name": "Huimanguillo"
+    },
+    {
+      "id": 146711,
+      "name": "Ignacio Allende"
+    },
+    {
+      "id": 146712,
+      "name": "Ignacio Gutiérrez Gómez"
+    },
+    {
+      "id": 146713,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 146714,
+      "name": "Ignacio Zaragoza 1ra. Sección"
+    },
+    {
+      "id": 146715,
+      "name": "Iquinuapa"
+    },
+    {
+      "id": 146716,
+      "name": "Jalapa"
+    },
+    {
+      "id": 146717,
+      "name": "Jalapita"
+    },
+    {
+      "id": 146718,
+      "name": "Jalpa de Méndez"
+    },
+    {
+      "id": 146719,
+      "name": "Jalupa"
+    },
+    {
+      "id": 146720,
+      "name": "Jiménez"
+    },
+    {
+      "id": 146721,
+      "name": "Jolochero 2da. Sección"
+    },
+    {
+      "id": 146722,
+      "name": "Jonuta"
+    },
+    {
+      "id": 146723,
+      "name": "José Colomo"
+    },
+    {
+      "id": 146724,
+      "name": "La Ceiba"
+    },
+    {
+      "id": 146725,
+      "name": "La Curva"
+    },
+    {
+      "id": 146726,
+      "name": "La Escalera"
+    },
+    {
+      "id": 146727,
+      "name": "La Estrella"
+    },
+    {
+      "id": 146728,
+      "name": "La Lima"
+    },
+    {
+      "id": 146729,
+      "name": "La Lucha"
+    },
+    {
+      "id": 146730,
+      "name": "La Manga 2da. Sección (El Jobal)"
+    },
+    {
+      "id": 146731,
+      "name": "La Palma"
+    },
+    {
+      "id": 146732,
+      "name": "La Península"
+    },
+    {
+      "id": 146733,
+      "name": "La Sábana"
+    },
+    {
+      "id": 146734,
+      "name": "La Selva"
+    },
+    {
+      "id": 146735,
+      "name": "La Unión"
+    },
+    {
+      "id": 146736,
+      "name": "La Victoria"
+    },
+    {
+      "id": 146737,
+      "name": "Lagartera 1ra. Sección"
+    },
+    {
+      "id": 146738,
+      "name": "Libertad"
+    },
+    {
+      "id": 146739,
+      "name": "Lomitas"
+    },
+    {
+      "id": 146740,
+      "name": "Los Cenotes"
+    },
+    {
+      "id": 146741,
+      "name": "Los Sauces"
+    },
+    {
+      "id": 146742,
+      "name": "Luis Gil Pérez"
+    },
+    {
+      "id": 146743,
+      "name": "Mactún"
+    },
+    {
+      "id": 146744,
+      "name": "Macultepec"
+    },
+    {
+      "id": 146745,
+      "name": "Macuspana"
+    },
+    {
+      "id": 146746,
+      "name": "Mazateupa"
+    },
+    {
+      "id": 146747,
+      "name": "Mecatepec"
+    },
+    {
+      "id": 146748,
+      "name": "Mecoacán"
+    },
+    {
+      "id": 146749,
+      "name": "Mecoacán 2da. Sección (San Lorenzo)"
+    },
+    {
+      "id": 146750,
+      "name": "Medellín y Madero Segunda Sección"
+    },
+    {
+      "id": 146751,
+      "name": "Melchor Ocampo"
+    },
+    {
+      "id": 146752,
+      "name": "Miguel Hidalgo"
+    },
+    {
+      "id": 146753,
+      "name": "Miguel Hidalgo 2da. Sección B (La Natividad)"
+    },
+    {
+      "id": 146754,
+      "name": "Monte Grande"
+    },
+    {
+      "id": 146755,
+      "name": "Monte Largo 1ra. Sección"
+    },
+    {
+      "id": 146756,
+      "name": "Morelos Piedra 3ra. Sección"
+    },
+    {
+      "id": 146757,
+      "name": "Multé"
+    },
+    {
+      "id": 146758,
+      "name": "Nacajuca"
+    },
+    {
+      "id": 146759,
+      "name": "Netzahualcóyotl"
+    },
+    {
+      "id": 146760,
+      "name": "Nicolás Bravo"
+    },
+    {
+      "id": 146761,
+      "name": "Nicolás Bravo 5ta. Sección (Punta Brava)"
+    },
+    {
+      "id": 146762,
+      "name": "Norte 1ra. Sección (San Julián)"
+    },
+    {
+      "id": 146763,
+      "name": "Nueva División del Bayo (Guatemala)"
+    },
+    {
+      "id": 146764,
+      "name": "Nuevo Torno Largo"
+    },
+    {
+      "id": 146765,
+      "name": "Occidente (San Francisco)"
+    },
+    {
+      "id": 146766,
+      "name": "Occidente 4ta. Sección"
+    },
+    {
+      "id": 146767,
+      "name": "Ocuapan"
+    },
+    {
+      "id": 146768,
+      "name": "Olcuatitán"
+    },
+    {
+      "id": 146769,
+      "name": "Oriente 1ra. Sección"
+    },
+    {
+      "id": 146770,
+      "name": "Oriente 1ra. Sección (Santo Domingo)"
+    },
+    {
+      "id": 146771,
+      "name": "Oriente 2da. Sección (Palma Huaca)"
+    },
+    {
+      "id": 146772,
+      "name": "Oriente 2da. Sección (San Cayetano)"
+    },
+    {
+      "id": 146773,
+      "name": "Oriente 6ta. Sección (Los Mulatos)"
+    },
+    {
+      "id": 146774,
+      "name": "Oxiacaque"
+    },
+    {
+      "id": 146775,
+      "name": "Oxolotán"
+    },
+    {
+      "id": 146776,
+      "name": "Pablo L. Sidar"
+    },
+    {
+      "id": 146777,
+      "name": "Palo Mulato"
+    },
+    {
+      "id": 146778,
+      "name": "Palomas"
+    },
+    {
+      "id": 146779,
+      "name": "Paraiso"
+    },
+    {
+      "id": 146780,
+      "name": "Parilla"
+    },
+    {
+      "id": 146781,
+      "name": "Parrilla II"
+    },
+    {
+      "id": 146782,
+      "name": "Paso de la Mina 2da. Sección (Barrial)"
+    },
+    {
+      "id": 146783,
+      "name": "Paso de la Mina 3ra. Sección"
+    },
+    {
+      "id": 146784,
+      "name": "Pechucalco"
+    },
+    {
+      "id": 146785,
+      "name": "Pechucalco 2da. Sección (Las Cruces)"
+    },
+    {
+      "id": 146786,
+      "name": "Pejelagartero 1ra. Sección (Plataforma)"
+    },
+    {
+      "id": 146787,
+      "name": "Pénjamo"
+    },
+    {
+      "id": 146788,
+      "name": "Playas del Rosario"
+    },
+    {
+      "id": 146789,
+      "name": "Poblado C-11 José María Morelos y Pavón"
+    },
+    {
+      "id": 146790,
+      "name": "Poblado C-21 Licenciado Benito Juárez García"
+    },
+    {
+      "id": 146791,
+      "name": "Poblado C-33 20 de Noviembre"
+    },
+    {
+      "id": 146792,
+      "name": "Pomoca"
+    },
+    {
+      "id": 146793,
+      "name": "Potrerillo"
+    },
+    {
+      "id": 146794,
+      "name": "Pueblo Nuevo de las Raíces"
+    },
+    {
+      "id": 146795,
+      "name": "Pueblo Viejo"
+    },
+    {
+      "id": 146796,
+      "name": "Puerto Ceiba"
+    },
+    {
+      "id": 146797,
+      "name": "Puxcatán"
+    },
+    {
+      "id": 146798,
+      "name": "Quintín Arauz"
+    },
+    {
+      "id": 146799,
+      "name": "Rancho Nuevo"
+    },
+    {
+      "id": 146800,
+      "name": "Raya Zaragoza"
+    },
+    {
+      "id": 146801,
+      "name": "Reforma"
+    },
+    {
+      "id": 146802,
+      "name": "Río de Teapa"
+    },
+    {
+      "id": 146803,
+      "name": "Río Seco 2da. Sección (Santiaguito)"
+    },
+    {
+      "id": 146804,
+      "name": "Río Viejo Primera Sección"
+    },
+    {
+      "id": 146805,
+      "name": "Saloya 2da. Sección"
+    },
+    {
+      "id": 146806,
+      "name": "Samarkanda"
+    },
+    {
+      "id": 146807,
+      "name": "San Carlos"
+    },
+    {
+      "id": 146808,
+      "name": "San Simón"
+    },
+    {
+      "id": 146809,
+      "name": "Santa Rosalía"
+    },
+    {
+      "id": 146810,
+      "name": "Santana 2da. Sección B (La Palma)"
+    },
+    {
+      "id": 146811,
+      "name": "Sargento López 2da. Sección (El Chuzo)"
+    },
+    {
+      "id": 146812,
+      "name": "Simón Sarlat"
+    },
+    {
+      "id": 146813,
+      "name": "Soyataco"
+    },
+    {
+      "id": 146814,
+      "name": "Tacotalpa"
+    },
+    {
+      "id": 146815,
+      "name": "Tamulte de las Sabanas"
+    },
+    {
+      "id": 146816,
+      "name": "Tapijulapa"
+    },
+    {
+      "id": 146817,
+      "name": "Tapotzingo"
+    },
+    {
+      "id": 146818,
+      "name": "Taxco"
+    },
+    {
+      "id": 146819,
+      "name": "Teapa"
+    },
+    {
+      "id": 146820,
+      "name": "Tecoluta 2da. Sección"
+    },
+    {
+      "id": 146821,
+      "name": "Tecominoacán"
+    },
+    {
+      "id": 146822,
+      "name": "Tenosique"
+    },
+    {
+      "id": 146823,
+      "name": "Tepetitán"
+    },
+    {
+      "id": 146824,
+      "name": "Tequila 1ra. Sección (La Aurora)"
+    },
+    {
+      "id": 146825,
+      "name": "Transito Tular"
+    },
+    {
+      "id": 146826,
+      "name": "Tres Bocas 1ra. Sección"
+    },
+    {
+      "id": 146827,
+      "name": "Tucta"
+    },
+    {
+      "id": 146828,
+      "name": "Veinte de Noviembre"
+    },
+    {
+      "id": 146829,
+      "name": "Vicente Guerrero"
+    },
+    {
+      "id": 146830,
+      "name": "Villa Aldama"
+    },
+    {
+      "id": 146831,
+      "name": "Villa la Venta"
+    },
+    {
+      "id": 146832,
+      "name": "Villa Tecolutilla"
+    },
+    {
+      "id": 146833,
+      "name": "Villa Vicente Guerrero"
+    },
+    {
+      "id": 146834,
+      "name": "Villahermosa"
+    },
+    {
+      "id": 146835,
+      "name": "Xicoténcatl"
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "id": 5826,
+  "name": "Lower Silesia",
+  "state_code": "02",
+  "cities": [
+    {
+      "id": 161775,
+      "name": "Bardo"
+    },
+    {
+      "id": 161776,
+      "name": "Bielany Wrocławskie"
+    },
+    {
+      "id": 161777,
+      "name": "Bielawa"
+    },
+    {
+      "id": 161778,
+      "name": "Bierutów"
+    },
+    {
+      "id": 161779,
+      "name": "Biskupin"
+    },
+    {
+      "id": 161780,
+      "name": "Bogatynia"
+    },
+    {
+      "id": 161781,
+      "name": "Boguszów-Gorce"
+    },
+    {
+      "id": 161782,
+      "name": "Bolesławiec"
+    },
+    {
+      "id": 161783,
+      "name": "Bolków"
+    },
+    {
+      "id": 161784,
+      "name": "Bozkow"
+    },
+    {
+      "id": 161785,
+      "name": "Brzeg Dolny"
+    },
+    {
+      "id": 161786,
+      "name": "Budzów"
+    },
+    {
+      "id": 161787,
+      "name": "Bystrzyca"
+    },
+    {
+      "id": 161788,
+      "name": "Bystrzyca Kłodzka"
+    },
+    {
+      "id": 161789,
+      "name": "Chocianów"
+    },
+    {
+      "id": 161790,
+      "name": "Chojnów"
+    },
+    {
+      "id": 161791,
+      "name": "Ciechów"
+    },
+    {
+      "id": 161792,
+      "name": "Cieplice Śląskie Zdrój"
+    },
+    {
+      "id": 161793,
+      "name": "Ciepłowody"
+    },
+    {
+      "id": 161794,
+      "name": "Cieszków"
+    },
+    {
+      "id": 161795,
+      "name": "Czarny Bór"
+    },
+    {
+      "id": 161796,
+      "name": "Czernica"
+    },
+    {
+      "id": 161797,
+      "name": "Dąbie"
+    },
+    {
+      "id": 161798,
+      "name": "Długołęka"
+    },
+    {
+      "id": 161799,
+      "name": "Dobroszyce"
+    },
+    {
+      "id": 161800,
+      "name": "Duszniki-Zdrój"
+    },
+    {
+      "id": 161801,
+      "name": "Dziadowa Kłoda"
+    },
+    {
+      "id": 161802,
+      "name": "Dziećmorowice"
+    },
+    {
+      "id": 161803,
+      "name": "Dzierżoniów"
+    },
+    {
+      "id": 161804,
+      "name": "Gądów Mały"
+    },
+    {
+      "id": 161805,
+      "name": "Gaworzyce"
+    },
+    {
+      "id": 161806,
+      "name": "Głogów"
+    },
+    {
+      "id": 161807,
+      "name": "Głuszyca"
+    },
+    {
+      "id": 161808,
+      "name": "Głuszyca Górna"
+    },
+    {
+      "id": 161809,
+      "name": "Gniechowice"
+    },
+    {
+      "id": 161810,
+      "name": "Góra"
+    },
+    {
+      "id": 161811,
+      "name": "Grabiszyn"
+    },
+    {
+      "id": 161812,
+      "name": "Grabiszynek"
+    },
+    {
+      "id": 161813,
+      "name": "Grębocice"
+    },
+    {
+      "id": 161814,
+      "name": "Gromadka"
+    },
+    {
+      "id": 161815,
+      "name": "Gryfów Śląski"
+    },
+    {
+      "id": 161816,
+      "name": "Henryków"
+    },
+    {
+      "id": 161817,
+      "name": "Janowice Wielkie"
+    },
+    {
+      "id": 161818,
+      "name": "Jarnołtów-Jerzmanowo"
+    },
+    {
+      "id": 161819,
+      "name": "Jawor"
+    },
+    {
+      "id": 161820,
+      "name": "Jaworzyna Śląska"
+    },
+    {
+      "id": 161821,
+      "name": "Jedlina-Zdrój"
+    },
+    {
+      "id": 161822,
+      "name": "Jelcz"
+    },
+    {
+      "id": 161823,
+      "name": "Jelcz Laskowice"
+    },
+    {
+      "id": 161824,
+      "name": "Jelenia Góra"
+    },
+    {
+      "id": 161825,
+      "name": "Jeżów Sudecki"
+    },
+    {
+      "id": 161826,
+      "name": "Jordanów Śląski"
+    },
+    {
+      "id": 161827,
+      "name": "Jugów"
+    },
+    {
+      "id": 161828,
+      "name": "Kamieniec Wrocławski"
+    },
+    {
+      "id": 161829,
+      "name": "Kamieniec Ząbkowicki"
+    },
+    {
+      "id": 161830,
+      "name": "Kamienna Góra"
+    },
+    {
+      "id": 161831,
+      "name": "Karłowice"
+    },
+    {
+      "id": 161832,
+      "name": "Karpacz"
+    },
+    {
+      "id": 161833,
+      "name": "Kąty Wrocławskie"
+    },
+    {
+      "id": 161834,
+      "name": "Kiełczów"
+    },
+    {
+      "id": 161835,
+      "name": "Kłodzko"
+    },
+    {
+      "id": 161836,
+      "name": "Kobierzyce"
+    },
+    {
+      "id": 161837,
+      "name": "Kotla"
+    },
+    {
+      "id": 161838,
+      "name": "Kowale-Popiele"
+    },
+    {
+      "id": 161839,
+      "name": "Kowary"
+    },
+    {
+      "id": 161840,
+      "name": "Kozanów"
+    },
+    {
+      "id": 161841,
+      "name": "Krośnice"
+    },
+    {
+      "id": 161842,
+      "name": "Krzeszów"
+    },
+    {
+      "id": 161843,
+      "name": "Krzyki"
+    },
+    {
+      "id": 161844,
+      "name": "Księże Małe-Księże Wielkie"
+    },
+    {
+      "id": 161845,
+      "name": "Kudowa-Zdrój"
+    },
+    {
+      "id": 161846,
+      "name": "Kunice"
+    },
+    {
+      "id": 161847,
+      "name": "Lądek-Zdrój"
+    },
+    {
+      "id": 161848,
+      "name": "Legnica"
+    },
+    {
+      "id": 161849,
+      "name": "Legnickie Pole"
+    },
+    {
+      "id": 161850,
+      "name": "Leśna"
+    },
+    {
+      "id": 161851,
+      "name": "Leśnica-Ratyń-Pustki"
+    },
+    {
+      "id": 161852,
+      "name": "Lewin Kłodzki"
+    },
+    {
+      "id": 161853,
+      "name": "Lubań"
+    },
+    {
+      "id": 161854,
+      "name": "Lubawka"
+    },
+    {
+      "id": 161855,
+      "name": "Lubin"
+    },
+    {
+      "id": 161856,
+      "name": "Lubomierz"
+    },
+    {
+      "id": 161857,
+      "name": "Ludwikowice Kłodzkie"
+    },
+    {
+      "id": 161858,
+      "name": "Lwówek Śląski"
+    },
+    {
+      "id": 161859,
+      "name": "Łagiewniki"
+    },
+    {
+      "id": 161860,
+      "name": "Łagów"
+    },
+    {
+      "id": 161861,
+      "name": "Malczyce"
+    },
+    {
+      "id": 161862,
+      "name": "Marciszów"
+    },
+    {
+      "id": 161863,
+      "name": "Marszowice"
+    },
+    {
+      "id": 161864,
+      "name": "Maślice Małe"
+    },
+    {
+      "id": 161865,
+      "name": "Maślice Wielkie"
+    },
+    {
+      "id": 161866,
+      "name": "Międzybórz"
+    },
+    {
+      "id": 161867,
+      "name": "Międzylesie"
+    },
+    {
+      "id": 161868,
+      "name": "Miękinia"
+    },
+    {
+      "id": 161869,
+      "name": "Mieroszów"
+    },
+    {
+      "id": 161870,
+      "name": "Milicz"
+    },
+    {
+      "id": 161871,
+      "name": "Miłkowice"
+    },
+    {
+      "id": 161872,
+      "name": "Mirków"
+    },
+    {
+      "id": 161873,
+      "name": "Mirsk"
+    },
+    {
+      "id": 161874,
+      "name": "Mrozów"
+    },
+    {
+      "id": 161875,
+      "name": "Mysłakowice"
+    },
+    {
+      "id": 161876,
+      "name": "Niemcza"
+    },
+    {
+      "id": 161877,
+      "name": "Nowa Ruda"
+    },
+    {
+      "id": 161878,
+      "name": "Nowogrodziec"
+    },
+    {
+      "id": 161879,
+      "name": "Oborniki Śląskie"
+    },
+    {
+      "id": 161880,
+      "name": "Oleśnica"
+    },
+    {
+      "id": 161881,
+      "name": "Olszanica"
+    },
+    {
+      "id": 161882,
+      "name": "Olszyna"
+    },
+    {
+      "id": 161883,
+      "name": "Oława"
+    },
+    {
+      "id": 161884,
+      "name": "Osiedle Henrykowskie"
+    },
+    {
+      "id": 161885,
+      "name": "Osiedle Kosmonautów"
+    },
+    {
+      "id": 161886,
+      "name": "Osiek"
+    },
+    {
+      "id": 161887,
+      "name": "Ostroszowice"
+    },
+    {
+      "id": 161888,
+      "name": "Partynice"
+    },
+    {
+      "id": 161889,
+      "name": "Paszowice"
+    },
+    {
+      "id": 161890,
+      "name": "Pawłowice-Kłokoczyce"
+    },
+    {
+      "id": 161891,
+      "name": "Piechowice"
+    },
+    {
+      "id": 161892,
+      "name": "Pieńsk"
+    },
+    {
+      "id": 161893,
+      "name": "Pieszyce"
+    },
+    {
+      "id": 161894,
+      "name": "Pilczyce"
+    },
+    {
+      "id": 161895,
+      "name": "Piława Górna"
+    },
+    {
+      "id": 161896,
+      "name": "Pisarzowice"
+    },
+    {
+      "id": 161897,
+      "name": "Podgórzyn"
+    },
+    {
+      "id": 161898,
+      "name": "Polanica-Zdrój"
+    },
+    {
+      "id": 161899,
+      "name": "Polkowice"
+    },
+    {
+      "id": 161900,
+      "name": "Poświętne"
+    },
+    {
+      "id": 161901,
+      "name": "Powiat bolesławiecki"
+    },
+    {
+      "id": 161902,
+      "name": "Powiat dzierżoniowski"
+    },
+    {
+      "id": 161903,
+      "name": "Powiat głogowski"
+    },
+    {
+      "id": 161904,
+      "name": "Powiat górowski"
+    },
+    {
+      "id": 161905,
+      "name": "Powiat jaworski"
+    },
+    {
+      "id": 161906,
+      "name": "Powiat jeleniogórski"
+    },
+    {
+      "id": 161907,
+      "name": "Powiat kamiennogórski"
+    },
+    {
+      "id": 161908,
+      "name": "Powiat kłodzki"
+    },
+    {
+      "id": 161909,
+      "name": "Powiat legnicki"
+    },
+    {
+      "id": 161910,
+      "name": "Powiat lubański"
+    },
+    {
+      "id": 161911,
+      "name": "Powiat lubiński"
+    },
+    {
+      "id": 161912,
+      "name": "Powiat lwówecki"
+    },
+    {
+      "id": 161913,
+      "name": "Powiat milicki"
+    },
+    {
+      "id": 161914,
+      "name": "Powiat oleśnicki"
+    },
+    {
+      "id": 161915,
+      "name": "Powiat oławski"
+    },
+    {
+      "id": 161916,
+      "name": "Powiat polkowicki"
+    },
+    {
+      "id": 161917,
+      "name": "Powiat średzki"
+    },
+    {
+      "id": 161918,
+      "name": "Powiat strzeliński"
+    },
+    {
+      "id": 161919,
+      "name": "Powiat świdnicki"
+    },
+    {
+      "id": 161920,
+      "name": "Powiat trzebnicki"
+    },
+    {
+      "id": 161921,
+      "name": "Powiat wałbrzyski"
+    },
+    {
+      "id": 161922,
+      "name": "Powiat wołowski"
+    },
+    {
+      "id": 161923,
+      "name": "Powiat wrocławski"
+    },
+    {
+      "id": 161924,
+      "name": "Powiat ząbkowicki"
+    },
+    {
+      "id": 161925,
+      "name": "Powiat zgorzelecki"
+    },
+    {
+      "id": 161926,
+      "name": "Powiat złotoryjski"
+    },
+    {
+      "id": 161927,
+      "name": "Powstańców Śląskich Wschód"
+    },
+    {
+      "id": 161928,
+      "name": "Powstańców Śląskich Zachód-Centrum Południow"
+    },
+    {
+      "id": 161929,
+      "name": "Pracze Odrzańskie-Janówek"
+    },
+    {
+      "id": 161930,
+      "name": "Prochowice"
+    },
+    {
+      "id": 161931,
+      "name": "Prusice"
+    },
+    {
+      "id": 161932,
+      "name": "Przemków"
+    },
+    {
+      "id": 161933,
+      "name": "Przeworno"
+    },
+    {
+      "id": 161934,
+      "name": "Psary"
+    },
+    {
+      "id": 161935,
+      "name": "Psie Pole Południe-Kiełczów"
+    },
+    {
+      "id": 161936,
+      "name": "Radków"
+    },
+    {
+      "id": 161937,
+      "name": "Radwanice"
+    },
+    {
+      "id": 161938,
+      "name": "Ratowice"
+    },
+    {
+      "id": 161939,
+      "name": "Rejon alei Kromera"
+    },
+    {
+      "id": 161940,
+      "name": "Rejon placu Grunwaldzkiego"
+    },
+    {
+      "id": 161941,
+      "name": "Rejon placu Świętego Macieja"
+    },
+    {
+      "id": 161942,
+      "name": "Rejon ulicy Borowskiej-Południe"
+    },
+    {
+      "id": 161943,
+      "name": "Rejon ulicy Klęczkowskiej"
+    },
+    {
+      "id": 161944,
+      "name": "Rejon ulicy Mieleckiej"
+    },
+    {
+      "id": 161945,
+      "name": "Rejon ulicy Saperów"
+    },
+    {
+      "id": 161946,
+      "name": "Rejon ulicy Traugutta"
+    },
+    {
+      "id": 161947,
+      "name": "Różanka-Polanka"
+    },
+    {
+      "id": 161948,
+      "name": "Rudna"
+    },
+    {
+      "id": 161949,
+      "name": "Ścinawa"
+    },
+    {
+      "id": 161950,
+      "name": "Sępolno"
+    },
+    {
+      "id": 161951,
+      "name": "Siechnice"
+    },
+    {
+      "id": 161952,
+      "name": "Siekierczyn"
+    },
+    {
+      "id": 161953,
+      "name": "Smolec"
+    },
+    {
+      "id": 161954,
+      "name": "Sobótka"
+    },
+    {
+      "id": 161955,
+      "name": "Sołtysowice"
+    },
+    {
+      "id": 161956,
+      "name": "Sosnówka"
+    },
+    {
+      "id": 161957,
+      "name": "Środa Śląska"
+    },
+    {
+      "id": 161958,
+      "name": "Stabłowice"
+    },
+    {
+      "id": 161959,
+      "name": "Stanowice"
+    },
+    {
+      "id": 161960,
+      "name": "Stara Kamienica"
+    },
+    {
+      "id": 161961,
+      "name": "Stare Bogaczowice"
+    },
+    {
+      "id": 161962,
+      "name": "Stoszowice"
+    },
+    {
+      "id": 161963,
+      "name": "Strachocin-Wojnów"
+    },
+    {
+      "id": 161964,
+      "name": "Stronie Śląskie"
+    },
+    {
+      "id": 161965,
+      "name": "Strzegom"
+    },
+    {
+      "id": 161966,
+      "name": "Strzelin"
+    },
+    {
+      "id": 161967,
+      "name": "Sulików"
+    },
+    {
+      "id": 161968,
+      "name": "Sułów"
+    },
+    {
+      "id": 161969,
+      "name": "Świdnica"
+    },
+    {
+      "id": 161970,
+      "name": "Świebodzice"
+    },
+    {
+      "id": 161971,
+      "name": "Świeradów-Zdrój"
+    },
+    {
+      "id": 161972,
+      "name": "Świerzawa"
+    },
+    {
+      "id": 161973,
+      "name": "Święta Katarzyna"
+    },
+    {
+      "id": 161974,
+      "name": "Swojczyce"
+    },
+    {
+      "id": 161975,
+      "name": "Syców"
+    },
+    {
+      "id": 161976,
+      "name": "Szczawno-Zdrój"
+    },
+    {
+      "id": 161977,
+      "name": "Szczepanów"
+    },
+    {
+      "id": 161978,
+      "name": "Szczytna"
+    },
+    {
+      "id": 161979,
+      "name": "Szklarska Poręba"
+    },
+    {
+      "id": 161980,
+      "name": "Trzebnica"
+    },
+    {
+      "id": 161981,
+      "name": "Twardogóra"
+    },
+    {
+      "id": 161982,
+      "name": "Tyniec Mały"
+    },
+    {
+      "id": 161983,
+      "name": "Uciechów"
+    },
+    {
+      "id": 161984,
+      "name": "Udanin"
+    },
+    {
+      "id": 161985,
+      "name": "Walim"
+    },
+    {
+      "id": 161986,
+      "name": "Wałbrzych"
+    },
+    {
+      "id": 161987,
+      "name": "Wąsosz"
+    },
+    {
+      "id": 161988,
+      "name": "Węgliniec"
+    },
+    {
+      "id": 161989,
+      "name": "Wiązów"
+    },
+    {
+      "id": 161990,
+      "name": "Widawa-Lipa Piotrowska-Polanowice"
+    },
+    {
+      "id": 161991,
+      "name": "Wierzbno"
+    },
+    {
+      "id": 161992,
+      "name": "Wilczyce"
+    },
+    {
+      "id": 161993,
+      "name": "Wilków"
+    },
+    {
+      "id": 161994,
+      "name": "Wińsko"
+    },
+    {
+      "id": 161995,
+      "name": "Wleń"
+    },
+    {
+      "id": 161996,
+      "name": "Wojcieszów"
+    },
+    {
+      "id": 161997,
+      "name": "Wojszyce"
+    },
+    {
+      "id": 161998,
+      "name": "Wołów"
+    },
+    {
+      "id": 161999,
+      "name": "Wrocław"
+    },
+    {
+      "id": 162000,
+      "name": "Ząbkowice Śląskie"
+    },
+    {
+      "id": 162001,
+      "name": "Zacisze"
+    },
+    {
+      "id": 162002,
+      "name": "Zagrodno"
+    },
+    {
+      "id": 162003,
+      "name": "Zakrzów"
+    },
+    {
+      "id": 162004,
+      "name": "Zalesie i Stadion"
+    },
+    {
+      "id": 162005,
+      "name": "Żarów"
+    },
+    {
+      "id": 162006,
+      "name": "Żerniki Wrocławskie"
+    },
+    {
+      "id": 162007,
+      "name": "Zgorzelec"
+    },
+    {
+      "id": 162008,
+      "name": "Zgorzelisko"
+    },
+    {
+      "id": 162009,
+      "name": "Ziębice"
+    },
+    {
+      "id": 162010,
+      "name": "Złotniki"
+    },
+    {
+      "id": 162011,
+      "name": "Złotoryja"
+    },
+    {
+      "id": 162012,
+      "name": "Złoty Stok"
+    },
+    {
+      "id": 162013,
+      "name": "Żmigród"
+    },
+    {
+      "id": 162014,
+      "name": "Żórawina"
+    }
+  ]
+}

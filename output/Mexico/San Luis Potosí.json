@@ -1,0 +1,715 @@
+{
+  "id": 5146,
+  "name": "San Luis Potosí",
+  "state_code": "SLP",
+  "cities": [
+    {
+      "id": 146064,
+      "name": "Agua Buena"
+    },
+    {
+      "id": 146065,
+      "name": "Agua Señora"
+    },
+    {
+      "id": 146066,
+      "name": "Ahualulco del Sonido Trece"
+    },
+    {
+      "id": 146067,
+      "name": "Ahuehueyo Primero Centro"
+    },
+    {
+      "id": 146068,
+      "name": "Alaquines"
+    },
+    {
+      "id": 146069,
+      "name": "Alberto Carrera Torres"
+    },
+    {
+      "id": 146070,
+      "name": "Ampliación la Hincada"
+    },
+    {
+      "id": 146071,
+      "name": "Aquismón"
+    },
+    {
+      "id": 146072,
+      "name": "Arroyos"
+    },
+    {
+      "id": 146073,
+      "name": "Aurelio Manrique"
+    },
+    {
+      "id": 146074,
+      "name": "Axtla de Terrazas"
+    },
+    {
+      "id": 146075,
+      "name": "Bledos"
+    },
+    {
+      "id": 146076,
+      "name": "Bocas"
+    },
+    {
+      "id": 146077,
+      "name": "Cárdenas"
+    },
+    {
+      "id": 146078,
+      "name": "Carranco"
+    },
+    {
+      "id": 146079,
+      "name": "Cerrito de Jaral"
+    },
+    {
+      "id": 146080,
+      "name": "Cerrito de Zavala"
+    },
+    {
+      "id": 146081,
+      "name": "Cerritos"
+    },
+    {
+      "id": 146082,
+      "name": "Cerro de San Pedro"
+    },
+    {
+      "id": 146083,
+      "name": "Cerro Gordo"
+    },
+    {
+      "id": 146084,
+      "name": "Chalchocoyo"
+    },
+    {
+      "id": 146085,
+      "name": "Charcas"
+    },
+    {
+      "id": 146086,
+      "name": "Chiconamel"
+    },
+    {
+      "id": 146087,
+      "name": "Ciudad del Maíz"
+    },
+    {
+      "id": 146088,
+      "name": "Ciudad Fernández"
+    },
+    {
+      "id": 146089,
+      "name": "Ciudad Satélite"
+    },
+    {
+      "id": 146090,
+      "name": "Ciudad Valles"
+    },
+    {
+      "id": 146091,
+      "name": "Colonia Álvaro Obregón"
+    },
+    {
+      "id": 146092,
+      "name": "Colonia Veinte de Noviembre"
+    },
+    {
+      "id": 146093,
+      "name": "Corcovado"
+    },
+    {
+      "id": 146094,
+      "name": "Damian Carmona"
+    },
+    {
+      "id": 146095,
+      "name": "Derramaderos"
+    },
+    {
+      "id": 146096,
+      "name": "Dulce Grande"
+    },
+    {
+      "id": 146097,
+      "name": "Ébano"
+    },
+    {
+      "id": 146098,
+      "name": "Ejido el Saucillo"
+    },
+    {
+      "id": 146099,
+      "name": "Ejido Gogorrón (Ex-Hacienda de Gogorrón)"
+    },
+    {
+      "id": 146100,
+      "name": "Ejido la Pitahaya (Santo Domingo)"
+    },
+    {
+      "id": 146101,
+      "name": "Ejido los Huastecos"
+    },
+    {
+      "id": 146102,
+      "name": "Ejido San José Xilatzén"
+    },
+    {
+      "id": 146103,
+      "name": "El Barril"
+    },
+    {
+      "id": 146104,
+      "name": "El Capulín"
+    },
+    {
+      "id": 146105,
+      "name": "El Carrizal"
+    },
+    {
+      "id": 146106,
+      "name": "El Fuerte"
+    },
+    {
+      "id": 146107,
+      "name": "El Huexco"
+    },
+    {
+      "id": 146108,
+      "name": "El Jabalí"
+    },
+    {
+      "id": 146109,
+      "name": "El Jaralito"
+    },
+    {
+      "id": 146110,
+      "name": "El Naranjo"
+    },
+    {
+      "id": 146111,
+      "name": "El Peñasco"
+    },
+    {
+      "id": 146112,
+      "name": "El Rosario"
+    },
+    {
+      "id": 146113,
+      "name": "El Tepetate"
+    },
+    {
+      "id": 146114,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 146115,
+      "name": "Enramadas"
+    },
+    {
+      "id": 146116,
+      "name": "Enrique Estrada"
+    },
+    {
+      "id": 146117,
+      "name": "Entronque de Matehuala (El Huizache)"
+    },
+    {
+      "id": 146118,
+      "name": "Escalerillas"
+    },
+    {
+      "id": 146119,
+      "name": "Estación Tamuín"
+    },
+    {
+      "id": 146120,
+      "name": "Estanzuela"
+    },
+    {
+      "id": 146121,
+      "name": "Fracción Milpillas"
+    },
+    {
+      "id": 146122,
+      "name": "Granjenal"
+    },
+    {
+      "id": 146123,
+      "name": "Guadalcázar"
+    },
+    {
+      "id": 146124,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 146125,
+      "name": "Hernández"
+    },
+    {
+      "id": 146126,
+      "name": "Higinio Olivo"
+    },
+    {
+      "id": 146127,
+      "name": "Huichihuayan"
+    },
+    {
+      "id": 146128,
+      "name": "Illescas"
+    },
+    {
+      "id": 146129,
+      "name": "Iztacapa"
+    },
+    {
+      "id": 146130,
+      "name": "Jalpilla"
+    },
+    {
+      "id": 146131,
+      "name": "Jesús María"
+    },
+    {
+      "id": 146132,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 146133,
+      "name": "La Herradura"
+    },
+    {
+      "id": 146134,
+      "name": "La Lima"
+    },
+    {
+      "id": 146135,
+      "name": "La Mesa de los Conejos"
+    },
+    {
+      "id": 146136,
+      "name": "La Pila"
+    },
+    {
+      "id": 146137,
+      "name": "La Reforma"
+    },
+    {
+      "id": 146138,
+      "name": "La Subida"
+    },
+    {
+      "id": 146139,
+      "name": "La Ventilla"
+    },
+    {
+      "id": 146140,
+      "name": "Laguna de San Vicente"
+    },
+    {
+      "id": 146141,
+      "name": "Laguna de Santa Rita"
+    },
+    {
+      "id": 146142,
+      "name": "Laguna del Mante"
+    },
+    {
+      "id": 146143,
+      "name": "Las Armas"
+    },
+    {
+      "id": 146144,
+      "name": "Las Palmas"
+    },
+    {
+      "id": 146145,
+      "name": "Los Zacatones"
+    },
+    {
+      "id": 146146,
+      "name": "Maitinez"
+    },
+    {
+      "id": 146147,
+      "name": "Maravillas"
+    },
+    {
+      "id": 146148,
+      "name": "Martinez"
+    },
+    {
+      "id": 146149,
+      "name": "Matehuala"
+    },
+    {
+      "id": 146150,
+      "name": "Moctezuma"
+    },
+    {
+      "id": 146151,
+      "name": "Monte Obscuro"
+    },
+    {
+      "id": 146152,
+      "name": "Negritas"
+    },
+    {
+      "id": 146153,
+      "name": "Norias del Refugio"
+    },
+    {
+      "id": 146154,
+      "name": "Nueva Primavera"
+    },
+    {
+      "id": 146155,
+      "name": "Nuevo Crucitas"
+    },
+    {
+      "id": 146156,
+      "name": "Nuevo Tampaón"
+    },
+    {
+      "id": 146157,
+      "name": "Ocuiltzapoyo"
+    },
+    {
+      "id": 146158,
+      "name": "Ojo Caliente"
+    },
+    {
+      "id": 146159,
+      "name": "Ojo de Agua"
+    },
+    {
+      "id": 146160,
+      "name": "Ojo de Agua de Solano"
+    },
+    {
+      "id": 146161,
+      "name": "Paisanos"
+    },
+    {
+      "id": 146162,
+      "name": "Palma Pegada"
+    },
+    {
+      "id": 146163,
+      "name": "Palmar Primero"
+    },
+    {
+      "id": 146164,
+      "name": "Palo Seco (El Gato)"
+    },
+    {
+      "id": 146165,
+      "name": "Palomas"
+    },
+    {
+      "id": 146166,
+      "name": "Pardo"
+    },
+    {
+      "id": 146167,
+      "name": "Paso Blanco"
+    },
+    {
+      "id": 146168,
+      "name": "Paso Bonito"
+    },
+    {
+      "id": 146169,
+      "name": "Pastora"
+    },
+    {
+      "id": 146170,
+      "name": "Pemucho"
+    },
+    {
+      "id": 146171,
+      "name": "Peotillos"
+    },
+    {
+      "id": 146172,
+      "name": "Picholco"
+    },
+    {
+      "id": 146173,
+      "name": "Ponciano Arriaga"
+    },
+    {
+      "id": 146174,
+      "name": "Portezuelo"
+    },
+    {
+      "id": 146175,
+      "name": "Pozuelos"
+    },
+    {
+      "id": 146176,
+      "name": "Progreso"
+    },
+    {
+      "id": 146177,
+      "name": "Puerto de Providencia"
+    },
+    {
+      "id": 146178,
+      "name": "Pujal-Coy"
+    },
+    {
+      "id": 146179,
+      "name": "Rancho Nuevo"
+    },
+    {
+      "id": 146180,
+      "name": "Rascón"
+    },
+    {
+      "id": 146181,
+      "name": "Rayón"
+    },
+    {
+      "id": 146182,
+      "name": "Real de Catorce"
+    },
+    {
+      "id": 146183,
+      "name": "Rincón del Porvenir"
+    },
+    {
+      "id": 146184,
+      "name": "Rinconada"
+    },
+    {
+      "id": 146185,
+      "name": "Rioverde"
+    },
+    {
+      "id": 146186,
+      "name": "Rodrigo"
+    },
+    {
+      "id": 146187,
+      "name": "Salinas de Hidalgo"
+    },
+    {
+      "id": 146188,
+      "name": "Salitral de Carrera"
+    },
+    {
+      "id": 146189,
+      "name": "San Ciro de Acosta"
+    },
+    {
+      "id": 146190,
+      "name": "San Diego"
+    },
+    {
+      "id": 146191,
+      "name": "San Francisco"
+    },
+    {
+      "id": 146192,
+      "name": "San Francisco Cuayalab"
+    },
+    {
+      "id": 146193,
+      "name": "San Isidro"
+    },
+    {
+      "id": 146194,
+      "name": "San José del Tapanco"
+    },
+    {
+      "id": 146195,
+      "name": "San Luis Potosí"
+    },
+    {
+      "id": 146196,
+      "name": "San Martín Chalchicuautla"
+    },
+    {
+      "id": 146197,
+      "name": "San Nicolás"
+    },
+    {
+      "id": 146198,
+      "name": "San Nicolás Tolentino"
+    },
+    {
+      "id": 146199,
+      "name": "San Vicente Tancuayalab"
+    },
+    {
+      "id": 146200,
+      "name": "Sánchez"
+    },
+    {
+      "id": 146201,
+      "name": "Santa Catarina"
+    },
+    {
+      "id": 146202,
+      "name": "Santa María del Río"
+    },
+    {
+      "id": 146203,
+      "name": "Santa Martha"
+    },
+    {
+      "id": 146204,
+      "name": "Santa Rita"
+    },
+    {
+      "id": 146205,
+      "name": "Santiago Centro"
+    },
+    {
+      "id": 146206,
+      "name": "Santo Domingo"
+    },
+    {
+      "id": 146207,
+      "name": "Sauz de Calera"
+    },
+    {
+      "id": 146208,
+      "name": "Socavón (El Carmen)"
+    },
+    {
+      "id": 146209,
+      "name": "Soledad de Graciano Sánchez"
+    },
+    {
+      "id": 146210,
+      "name": "Suspiro Picacho"
+    },
+    {
+      "id": 146211,
+      "name": "Tamán"
+    },
+    {
+      "id": 146212,
+      "name": "Tamápatz"
+    },
+    {
+      "id": 146213,
+      "name": "Tamasopo"
+    },
+    {
+      "id": 146214,
+      "name": "Tamazunchale"
+    },
+    {
+      "id": 146215,
+      "name": "Tambaca"
+    },
+    {
+      "id": 146216,
+      "name": "Tamcuime"
+    },
+    {
+      "id": 146217,
+      "name": "Tampacán"
+    },
+    {
+      "id": 146218,
+      "name": "Tampate"
+    },
+    {
+      "id": 146219,
+      "name": "Tampemoche"
+    },
+    {
+      "id": 146220,
+      "name": "Tamuín"
+    },
+    {
+      "id": 146221,
+      "name": "Tancanhuitz"
+    },
+    {
+      "id": 146222,
+      "name": "Tandzumadz"
+    },
+    {
+      "id": 146223,
+      "name": "Tanquián de Escobedo"
+    },
+    {
+      "id": 146224,
+      "name": "Tanute"
+    },
+    {
+      "id": 146225,
+      "name": "Tazaquil"
+    },
+    {
+      "id": 146226,
+      "name": "Temalacaco"
+    },
+    {
+      "id": 146227,
+      "name": "Tenexio"
+    },
+    {
+      "id": 146228,
+      "name": "Tierra Nueva"
+    },
+    {
+      "id": 146229,
+      "name": "Tlacuilola"
+    },
+    {
+      "id": 146230,
+      "name": "Tlalnepantla"
+    },
+    {
+      "id": 146231,
+      "name": "Tocoy"
+    },
+    {
+      "id": 146232,
+      "name": "Vanegas"
+    },
+    {
+      "id": 146233,
+      "name": "Villa de Ramos"
+    },
+    {
+      "id": 146234,
+      "name": "Villa de Reyes"
+    },
+    {
+      "id": 146235,
+      "name": "Villa Hidalgo"
+    },
+    {
+      "id": 146236,
+      "name": "Villa Zaragoza"
+    },
+    {
+      "id": 146237,
+      "name": "Xilitla"
+    },
+    {
+      "id": 146238,
+      "name": "Yerbabuena"
+    },
+    {
+      "id": 146239,
+      "name": "Zamachihue"
+    },
+    {
+      "id": 146240,
+      "name": "Zapuyo"
+    }
+  ]
+}

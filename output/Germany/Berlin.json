@@ -1,0 +1,395 @@
+{
+  "id": 3929,
+  "name": "Berlin",
+  "state_code": "BE",
+  "cities": [
+    {
+      "id": 109228,
+      "name": "Adlershof"
+    },
+    {
+      "id": 109229,
+      "name": "Alt-Hohenschönhausen"
+    },
+    {
+      "id": 109230,
+      "name": "Alt-Treptow"
+    },
+    {
+      "id": 109231,
+      "name": "Altglienicke"
+    },
+    {
+      "id": 109232,
+      "name": "Baumschulenweg"
+    },
+    {
+      "id": 109233,
+      "name": "Berlin"
+    },
+    {
+      "id": 109234,
+      "name": "Berlin Köpenick"
+    },
+    {
+      "id": 109235,
+      "name": "Berlin Treptow"
+    },
+    {
+      "id": 109236,
+      "name": "Biesdorf"
+    },
+    {
+      "id": 109237,
+      "name": "Blankenburg"
+    },
+    {
+      "id": 109238,
+      "name": "Blankenfelde"
+    },
+    {
+      "id": 109239,
+      "name": "Bohnsdorf"
+    },
+    {
+      "id": 109240,
+      "name": "Britz"
+    },
+    {
+      "id": 109241,
+      "name": "Buch"
+    },
+    {
+      "id": 109242,
+      "name": "Buckow"
+    },
+    {
+      "id": 109243,
+      "name": "Charlottenburg"
+    },
+    {
+      "id": 109244,
+      "name": "Charlottenburg-Nord"
+    },
+    {
+      "id": 109245,
+      "name": "Dahlem"
+    },
+    {
+      "id": 109246,
+      "name": "Falkenberg"
+    },
+    {
+      "id": 109247,
+      "name": "Falkenhagener Feld"
+    },
+    {
+      "id": 109248,
+      "name": "Fennpfuhl"
+    },
+    {
+      "id": 109249,
+      "name": "Französisch Buchholz"
+    },
+    {
+      "id": 109250,
+      "name": "Friedenau"
+    },
+    {
+      "id": 109251,
+      "name": "Friedrichsfelde"
+    },
+    {
+      "id": 109252,
+      "name": "Friedrichshagen"
+    },
+    {
+      "id": 109253,
+      "name": "Friedrichshain"
+    },
+    {
+      "id": 109254,
+      "name": "Frohnau"
+    },
+    {
+      "id": 109255,
+      "name": "Gatow"
+    },
+    {
+      "id": 109256,
+      "name": "Gesundbrunnen"
+    },
+    {
+      "id": 109257,
+      "name": "Gropiusstadt"
+    },
+    {
+      "id": 109258,
+      "name": "Grünau"
+    },
+    {
+      "id": 109259,
+      "name": "Grunewald"
+    },
+    {
+      "id": 109260,
+      "name": "Hakenfelde"
+    },
+    {
+      "id": 109261,
+      "name": "Halensee"
+    },
+    {
+      "id": 109262,
+      "name": "Hansaviertel"
+    },
+    {
+      "id": 109263,
+      "name": "Haselhorst"
+    },
+    {
+      "id": 109264,
+      "name": "Heiligensee"
+    },
+    {
+      "id": 109265,
+      "name": "Heinersdorf"
+    },
+    {
+      "id": 109266,
+      "name": "Hellersdorf"
+    },
+    {
+      "id": 109267,
+      "name": "Hermsdorf"
+    },
+    {
+      "id": 109268,
+      "name": "Johannisthal"
+    },
+    {
+      "id": 109269,
+      "name": "Karlshorst"
+    },
+    {
+      "id": 109270,
+      "name": "Karow"
+    },
+    {
+      "id": 109271,
+      "name": "Kaulsdorf"
+    },
+    {
+      "id": 109272,
+      "name": "Kladow"
+    },
+    {
+      "id": 109273,
+      "name": "Konradshöhe"
+    },
+    {
+      "id": 109274,
+      "name": "Köpenick"
+    },
+    {
+      "id": 109275,
+      "name": "Kreuzberg"
+    },
+    {
+      "id": 109276,
+      "name": "Lankwitz"
+    },
+    {
+      "id": 109277,
+      "name": "Lichtenberg"
+    },
+    {
+      "id": 109278,
+      "name": "Lichtenrade"
+    },
+    {
+      "id": 109279,
+      "name": "Lichterfelde"
+    },
+    {
+      "id": 109280,
+      "name": "Lübars"
+    },
+    {
+      "id": 109281,
+      "name": "Mahlsdorf"
+    },
+    {
+      "id": 109282,
+      "name": "Mariendorf"
+    },
+    {
+      "id": 109283,
+      "name": "Marienfelde"
+    },
+    {
+      "id": 109284,
+      "name": "Märkisches Viertel"
+    },
+    {
+      "id": 109285,
+      "name": "Marzahn"
+    },
+    {
+      "id": 109286,
+      "name": "Mitte"
+    },
+    {
+      "id": 109287,
+      "name": "Moabit"
+    },
+    {
+      "id": 109288,
+      "name": "Müggelheim"
+    },
+    {
+      "id": 109289,
+      "name": "Neu-Hohenschönhausen"
+    },
+    {
+      "id": 109290,
+      "name": "Neukölln"
+    },
+    {
+      "id": 109291,
+      "name": "Niederschöneweide"
+    },
+    {
+      "id": 109292,
+      "name": "Niederschönhausen"
+    },
+    {
+      "id": 109293,
+      "name": "Nikolassee"
+    },
+    {
+      "id": 109294,
+      "name": "Oberschöneweide"
+    },
+    {
+      "id": 109295,
+      "name": "Pankow"
+    },
+    {
+      "id": 109296,
+      "name": "Plänterwald"
+    },
+    {
+      "id": 109297,
+      "name": "Prenzlauer Berg"
+    },
+    {
+      "id": 109298,
+      "name": "Rahnsdorf"
+    },
+    {
+      "id": 109299,
+      "name": "Reinickendorf"
+    },
+    {
+      "id": 109300,
+      "name": "Rosenthal"
+    },
+    {
+      "id": 109301,
+      "name": "Rudow"
+    },
+    {
+      "id": 109302,
+      "name": "Rummelsburg"
+    },
+    {
+      "id": 109303,
+      "name": "Schmargendorf"
+    },
+    {
+      "id": 109304,
+      "name": "Schmöckwitz"
+    },
+    {
+      "id": 109305,
+      "name": "Schöneberg"
+    },
+    {
+      "id": 109306,
+      "name": "Siemensstadt"
+    },
+    {
+      "id": 109307,
+      "name": "Spandau"
+    },
+    {
+      "id": 109308,
+      "name": "Staaken"
+    },
+    {
+      "id": 109309,
+      "name": "Stadtrandsiedlung Malchow"
+    },
+    {
+      "id": 109310,
+      "name": "Steglitz"
+    },
+    {
+      "id": 109311,
+      "name": "Tegel"
+    },
+    {
+      "id": 109312,
+      "name": "Tempelhof"
+    },
+    {
+      "id": 109313,
+      "name": "Tiergarten"
+    },
+    {
+      "id": 109314,
+      "name": "Waidmannslust"
+    },
+    {
+      "id": 109315,
+      "name": "Wannsee"
+    },
+    {
+      "id": 109316,
+      "name": "Wartenberg"
+    },
+    {
+      "id": 109317,
+      "name": "Wedding"
+    },
+    {
+      "id": 109318,
+      "name": "Weißensee"
+    },
+    {
+      "id": 109319,
+      "name": "Westend"
+    },
+    {
+      "id": 109320,
+      "name": "Wilhelmsruh"
+    },
+    {
+      "id": 109321,
+      "name": "Wilhelmstadt"
+    },
+    {
+      "id": 109322,
+      "name": "Wilmersdorf"
+    },
+    {
+      "id": 109323,
+      "name": "Wittenau"
+    },
+    {
+      "id": 109324,
+      "name": "Zehlendorf"
+    }
+  ]
+}

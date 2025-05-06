@@ -1,0 +1,1519 @@
+{
+  "id": 7427,
+  "name": "Alabama",
+  "state_code": "AL",
+  "cities": [
+    {
+      "id": 201699,
+      "name": "Abbeville"
+    },
+    {
+      "id": 201700,
+      "name": "Adamsville"
+    },
+    {
+      "id": 201701,
+      "name": "Alabaster"
+    },
+    {
+      "id": 201702,
+      "name": "Albertville"
+    },
+    {
+      "id": 201703,
+      "name": "Alexander City"
+    },
+    {
+      "id": 201704,
+      "name": "Alexandria"
+    },
+    {
+      "id": 201705,
+      "name": "Aliceville"
+    },
+    {
+      "id": 201706,
+      "name": "Andalusia"
+    },
+    {
+      "id": 201707,
+      "name": "Anniston"
+    },
+    {
+      "id": 201708,
+      "name": "Arab"
+    },
+    {
+      "id": 201709,
+      "name": "Argo"
+    },
+    {
+      "id": 201710,
+      "name": "Ashford"
+    },
+    {
+      "id": 201711,
+      "name": "Ashland"
+    },
+    {
+      "id": 201712,
+      "name": "Ashville"
+    },
+    {
+      "id": 201713,
+      "name": "Athens"
+    },
+    {
+      "id": 201714,
+      "name": "Atmore"
+    },
+    {
+      "id": 201715,
+      "name": "Attalla"
+    },
+    {
+      "id": 201716,
+      "name": "Auburn"
+    },
+    {
+      "id": 201717,
+      "name": "Autauga County"
+    },
+    {
+      "id": 201718,
+      "name": "Baldwin County"
+    },
+    {
+      "id": 201719,
+      "name": "Ballplay"
+    },
+    {
+      "id": 201720,
+      "name": "Barbour County"
+    },
+    {
+      "id": 201721,
+      "name": "Bay Minette"
+    },
+    {
+      "id": 201722,
+      "name": "Bayou La Batre"
+    },
+    {
+      "id": 201723,
+      "name": "Bear Creek"
+    },
+    {
+      "id": 201724,
+      "name": "Berry"
+    },
+    {
+      "id": 201725,
+      "name": "Bessemer"
+    },
+    {
+      "id": 201726,
+      "name": "Bibb County"
+    },
+    {
+      "id": 201727,
+      "name": "Birmingham"
+    },
+    {
+      "id": 201728,
+      "name": "Blount County"
+    },
+    {
+      "id": 201729,
+      "name": "Blountsville"
+    },
+    {
+      "id": 201730,
+      "name": "Blue Ridge"
+    },
+    {
+      "id": 201731,
+      "name": "Boaz"
+    },
+    {
+      "id": 201732,
+      "name": "Brent"
+    },
+    {
+      "id": 201733,
+      "name": "Brewton"
+    },
+    {
+      "id": 201734,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 201735,
+      "name": "Brighton"
+    },
+    {
+      "id": 201736,
+      "name": "Brook Highland"
+    },
+    {
+      "id": 201737,
+      "name": "Brookside"
+    },
+    {
+      "id": 201738,
+      "name": "Brookwood"
+    },
+    {
+      "id": 201739,
+      "name": "Brundidge"
+    },
+    {
+      "id": 201740,
+      "name": "Bullock County"
+    },
+    {
+      "id": 201741,
+      "name": "Butler"
+    },
+    {
+      "id": 201742,
+      "name": "Butler County"
+    },
+    {
+      "id": 201743,
+      "name": "Bynum"
+    },
+    {
+      "id": 201744,
+      "name": "Cahaba Heights"
+    },
+    {
+      "id": 201745,
+      "name": "Calera"
+    },
+    {
+      "id": 201746,
+      "name": "Calhoun County"
+    },
+    {
+      "id": 201747,
+      "name": "Camden"
+    },
+    {
+      "id": 201748,
+      "name": "Carbon Hill"
+    },
+    {
+      "id": 201749,
+      "name": "Carlisle-Rockledge"
+    },
+    {
+      "id": 201750,
+      "name": "Carrollton"
+    },
+    {
+      "id": 201751,
+      "name": "Cedar Bluff"
+    },
+    {
+      "id": 201752,
+      "name": "Center Point"
+    },
+    {
+      "id": 201753,
+      "name": "Centre"
+    },
+    {
+      "id": 201754,
+      "name": "Centreville"
+    },
+    {
+      "id": 201755,
+      "name": "Chalkville"
+    },
+    {
+      "id": 201756,
+      "name": "Chambers County"
+    },
+    {
+      "id": 201757,
+      "name": "Chatom"
+    },
+    {
+      "id": 201758,
+      "name": "Chelsea"
+    },
+    {
+      "id": 201759,
+      "name": "Cherokee"
+    },
+    {
+      "id": 201760,
+      "name": "Cherokee County"
+    },
+    {
+      "id": 201761,
+      "name": "Chickasaw"
+    },
+    {
+      "id": 201762,
+      "name": "Childersburg"
+    },
+    {
+      "id": 201763,
+      "name": "Chilton County"
+    },
+    {
+      "id": 201764,
+      "name": "Choccolocco"
+    },
+    {
+      "id": 201765,
+      "name": "Choctaw County"
+    },
+    {
+      "id": 201766,
+      "name": "Citronelle"
+    },
+    {
+      "id": 201767,
+      "name": "Clanton"
+    },
+    {
+      "id": 201768,
+      "name": "Clarke County"
+    },
+    {
+      "id": 201769,
+      "name": "Clay"
+    },
+    {
+      "id": 201770,
+      "name": "Clay County"
+    },
+    {
+      "id": 201771,
+      "name": "Clayton"
+    },
+    {
+      "id": 201772,
+      "name": "Cleburne County"
+    },
+    {
+      "id": 201773,
+      "name": "Cleveland"
+    },
+    {
+      "id": 201774,
+      "name": "Clio"
+    },
+    {
+      "id": 201775,
+      "name": "Coaling"
+    },
+    {
+      "id": 201776,
+      "name": "Coffee County"
+    },
+    {
+      "id": 201777,
+      "name": "Colbert County"
+    },
+    {
+      "id": 201778,
+      "name": "Collinsville"
+    },
+    {
+      "id": 201779,
+      "name": "Columbiana"
+    },
+    {
+      "id": 201780,
+      "name": "Concord"
+    },
+    {
+      "id": 201781,
+      "name": "Conecuh County"
+    },
+    {
+      "id": 201782,
+      "name": "Coosa County"
+    },
+    {
+      "id": 201783,
+      "name": "Coosada"
+    },
+    {
+      "id": 201784,
+      "name": "Cordova"
+    },
+    {
+      "id": 201785,
+      "name": "Cottonwood"
+    },
+    {
+      "id": 201786,
+      "name": "Covington County"
+    },
+    {
+      "id": 201787,
+      "name": "Cowarts"
+    },
+    {
+      "id": 201788,
+      "name": "Crenshaw County"
+    },
+    {
+      "id": 201789,
+      "name": "Creola"
+    },
+    {
+      "id": 201790,
+      "name": "Crossville"
+    },
+    {
+      "id": 201791,
+      "name": "Cullman"
+    },
+    {
+      "id": 201792,
+      "name": "Cullman County"
+    },
+    {
+      "id": 201793,
+      "name": "Dadeville"
+    },
+    {
+      "id": 201794,
+      "name": "Dale County"
+    },
+    {
+      "id": 201795,
+      "name": "Daleville"
+    },
+    {
+      "id": 201796,
+      "name": "Dallas County"
+    },
+    {
+      "id": 201797,
+      "name": "Danville"
+    },
+    {
+      "id": 201798,
+      "name": "Daphne"
+    },
+    {
+      "id": 201799,
+      "name": "Dauphin Island"
+    },
+    {
+      "id": 201800,
+      "name": "Deatsville"
+    },
+    {
+      "id": 201801,
+      "name": "Decatur"
+    },
+    {
+      "id": 201802,
+      "name": "DeKalb County"
+    },
+    {
+      "id": 201803,
+      "name": "Demopolis"
+    },
+    {
+      "id": 201804,
+      "name": "Dixiana"
+    },
+    {
+      "id": 201805,
+      "name": "Dora"
+    },
+    {
+      "id": 201806,
+      "name": "Dothan"
+    },
+    {
+      "id": 201807,
+      "name": "Double Springs"
+    },
+    {
+      "id": 201808,
+      "name": "East Brewton"
+    },
+    {
+      "id": 201809,
+      "name": "East Florence"
+    },
+    {
+      "id": 201810,
+      "name": "Eclectic"
+    },
+    {
+      "id": 201811,
+      "name": "Elba"
+    },
+    {
+      "id": 201812,
+      "name": "Elberta"
+    },
+    {
+      "id": 201813,
+      "name": "Elmore"
+    },
+    {
+      "id": 201814,
+      "name": "Elmore County"
+    },
+    {
+      "id": 201815,
+      "name": "Emerald Mountain"
+    },
+    {
+      "id": 201816,
+      "name": "Enterprise"
+    },
+    {
+      "id": 201817,
+      "name": "Escambia County"
+    },
+    {
+      "id": 201818,
+      "name": "Etowah County"
+    },
+    {
+      "id": 201819,
+      "name": "Eufaula"
+    },
+    {
+      "id": 201820,
+      "name": "Eutaw"
+    },
+    {
+      "id": 201821,
+      "name": "Evergreen"
+    },
+    {
+      "id": 201822,
+      "name": "Fairfield"
+    },
+    {
+      "id": 201823,
+      "name": "Fairhope"
+    },
+    {
+      "id": 201824,
+      "name": "Falkville"
+    },
+    {
+      "id": 201825,
+      "name": "Fayette"
+    },
+    {
+      "id": 201826,
+      "name": "Fayette County"
+    },
+    {
+      "id": 201827,
+      "name": "Fayetteville"
+    },
+    {
+      "id": 201828,
+      "name": "Flint City"
+    },
+    {
+      "id": 201829,
+      "name": "Flomaton"
+    },
+    {
+      "id": 201830,
+      "name": "Florala"
+    },
+    {
+      "id": 201831,
+      "name": "Florence"
+    },
+    {
+      "id": 201832,
+      "name": "Foley"
+    },
+    {
+      "id": 201833,
+      "name": "Forestdale"
+    },
+    {
+      "id": 201834,
+      "name": "Fort Deposit"
+    },
+    {
+      "id": 201835,
+      "name": "Fort Payne"
+    },
+    {
+      "id": 201836,
+      "name": "Fort Rucker"
+    },
+    {
+      "id": 201837,
+      "name": "Franklin County"
+    },
+    {
+      "id": 201838,
+      "name": "Frisco City"
+    },
+    {
+      "id": 201839,
+      "name": "Fultondale"
+    },
+    {
+      "id": 201840,
+      "name": "Fyffe"
+    },
+    {
+      "id": 201841,
+      "name": "Gadsden"
+    },
+    {
+      "id": 201842,
+      "name": "Gardendale"
+    },
+    {
+      "id": 201843,
+      "name": "Geneva"
+    },
+    {
+      "id": 201844,
+      "name": "Geneva County"
+    },
+    {
+      "id": 201845,
+      "name": "Georgiana"
+    },
+    {
+      "id": 201846,
+      "name": "Glencoe"
+    },
+    {
+      "id": 201847,
+      "name": "Good Hope"
+    },
+    {
+      "id": 201848,
+      "name": "Goodwater"
+    },
+    {
+      "id": 201849,
+      "name": "Gordo"
+    },
+    {
+      "id": 201850,
+      "name": "Grand Bay"
+    },
+    {
+      "id": 201851,
+      "name": "Grayson Valley"
+    },
+    {
+      "id": 201852,
+      "name": "Graysville"
+    },
+    {
+      "id": 201853,
+      "name": "Greene County"
+    },
+    {
+      "id": 201854,
+      "name": "Greensboro"
+    },
+    {
+      "id": 201855,
+      "name": "Greenville"
+    },
+    {
+      "id": 201856,
+      "name": "Grove Hill"
+    },
+    {
+      "id": 201857,
+      "name": "Guin"
+    },
+    {
+      "id": 201858,
+      "name": "Gulf Shores"
+    },
+    {
+      "id": 201859,
+      "name": "Guntersville"
+    },
+    {
+      "id": 201860,
+      "name": "Hackleburg"
+    },
+    {
+      "id": 201861,
+      "name": "Hale County"
+    },
+    {
+      "id": 201862,
+      "name": "Haleyville"
+    },
+    {
+      "id": 201863,
+      "name": "Hamilton"
+    },
+    {
+      "id": 201864,
+      "name": "Hanceville"
+    },
+    {
+      "id": 201865,
+      "name": "Harpersville"
+    },
+    {
+      "id": 201866,
+      "name": "Hartford"
+    },
+    {
+      "id": 201867,
+      "name": "Hartselle"
+    },
+    {
+      "id": 201868,
+      "name": "Harvest"
+    },
+    {
+      "id": 201869,
+      "name": "Hayden"
+    },
+    {
+      "id": 201870,
+      "name": "Hayneville"
+    },
+    {
+      "id": 201871,
+      "name": "Hazel Green"
+    },
+    {
+      "id": 201872,
+      "name": "Headland"
+    },
+    {
+      "id": 201873,
+      "name": "Heflin"
+    },
+    {
+      "id": 201874,
+      "name": "Helena"
+    },
+    {
+      "id": 201875,
+      "name": "Henagar"
+    },
+    {
+      "id": 201876,
+      "name": "Henry County"
+    },
+    {
+      "id": 201877,
+      "name": "Highland Lakes"
+    },
+    {
+      "id": 201878,
+      "name": "Hokes Bluff"
+    },
+    {
+      "id": 201879,
+      "name": "Holt"
+    },
+    {
+      "id": 201880,
+      "name": "Holtville"
+    },
+    {
+      "id": 201881,
+      "name": "Homewood"
+    },
+    {
+      "id": 201882,
+      "name": "Hoover"
+    },
+    {
+      "id": 201883,
+      "name": "Houston County"
+    },
+    {
+      "id": 201884,
+      "name": "Hueytown"
+    },
+    {
+      "id": 201885,
+      "name": "Huguley"
+    },
+    {
+      "id": 201886,
+      "name": "Huntsville"
+    },
+    {
+      "id": 201887,
+      "name": "Indian Springs Village"
+    },
+    {
+      "id": 201888,
+      "name": "Inverness"
+    },
+    {
+      "id": 201889,
+      "name": "Irondale"
+    },
+    {
+      "id": 201890,
+      "name": "Jackson"
+    },
+    {
+      "id": 201891,
+      "name": "Jackson County"
+    },
+    {
+      "id": 201892,
+      "name": "Jacksonville"
+    },
+    {
+      "id": 201893,
+      "name": "Jasper"
+    },
+    {
+      "id": 201894,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 201895,
+      "name": "Jemison"
+    },
+    {
+      "id": 201896,
+      "name": "Kimberly"
+    },
+    {
+      "id": 201897,
+      "name": "Kinsey"
+    },
+    {
+      "id": 201898,
+      "name": "Ladonia"
+    },
+    {
+      "id": 201899,
+      "name": "Lafayette"
+    },
+    {
+      "id": 201900,
+      "name": "Lake Purdy"
+    },
+    {
+      "id": 201901,
+      "name": "Lake View"
+    },
+    {
+      "id": 201902,
+      "name": "Lamar County"
+    },
+    {
+      "id": 201903,
+      "name": "Lanett"
+    },
+    {
+      "id": 201904,
+      "name": "Lauderdale County"
+    },
+    {
+      "id": 201905,
+      "name": "Lawrence County"
+    },
+    {
+      "id": 201906,
+      "name": "Lee County"
+    },
+    {
+      "id": 201907,
+      "name": "Leeds"
+    },
+    {
+      "id": 201908,
+      "name": "Leesburg"
+    },
+    {
+      "id": 201909,
+      "name": "Level Plains"
+    },
+    {
+      "id": 201910,
+      "name": "Limestone County"
+    },
+    {
+      "id": 201911,
+      "name": "Lincoln"
+    },
+    {
+      "id": 201912,
+      "name": "Linden"
+    },
+    {
+      "id": 201913,
+      "name": "Lineville"
+    },
+    {
+      "id": 201914,
+      "name": "Lipscomb"
+    },
+    {
+      "id": 201915,
+      "name": "Livingston"
+    },
+    {
+      "id": 201916,
+      "name": "Locust Fork"
+    },
+    {
+      "id": 201917,
+      "name": "Lowndes County"
+    },
+    {
+      "id": 201918,
+      "name": "Loxley"
+    },
+    {
+      "id": 201919,
+      "name": "Luverne"
+    },
+    {
+      "id": 201920,
+      "name": "Macon County"
+    },
+    {
+      "id": 201921,
+      "name": "Madison"
+    },
+    {
+      "id": 201922,
+      "name": "Madison County"
+    },
+    {
+      "id": 201923,
+      "name": "Malvern"
+    },
+    {
+      "id": 201924,
+      "name": "Marbury"
+    },
+    {
+      "id": 201925,
+      "name": "Marengo County"
+    },
+    {
+      "id": 201926,
+      "name": "Margaret"
+    },
+    {
+      "id": 201927,
+      "name": "Marion"
+    },
+    {
+      "id": 201928,
+      "name": "Marion County"
+    },
+    {
+      "id": 201929,
+      "name": "Marshall County"
+    },
+    {
+      "id": 201930,
+      "name": "Meadowbrook"
+    },
+    {
+      "id": 201931,
+      "name": "Meridianville"
+    },
+    {
+      "id": 201932,
+      "name": "Midfield"
+    },
+    {
+      "id": 201933,
+      "name": "Midland City"
+    },
+    {
+      "id": 201934,
+      "name": "Mignon"
+    },
+    {
+      "id": 201935,
+      "name": "Millbrook"
+    },
+    {
+      "id": 201936,
+      "name": "Minor"
+    },
+    {
+      "id": 201937,
+      "name": "Mobile"
+    },
+    {
+      "id": 201938,
+      "name": "Mobile County"
+    },
+    {
+      "id": 201939,
+      "name": "Monroe County"
+    },
+    {
+      "id": 201940,
+      "name": "Monroeville"
+    },
+    {
+      "id": 201941,
+      "name": "Montevallo"
+    },
+    {
+      "id": 201942,
+      "name": "Montgomery"
+    },
+    {
+      "id": 201943,
+      "name": "Montgomery County"
+    },
+    {
+      "id": 201944,
+      "name": "Moody"
+    },
+    {
+      "id": 201945,
+      "name": "Moores Mill"
+    },
+    {
+      "id": 201946,
+      "name": "Morgan County"
+    },
+    {
+      "id": 201947,
+      "name": "Morris"
+    },
+    {
+      "id": 201948,
+      "name": "Moulton"
+    },
+    {
+      "id": 201949,
+      "name": "Moundville"
+    },
+    {
+      "id": 201950,
+      "name": "Mount Olive"
+    },
+    {
+      "id": 201951,
+      "name": "Mount Vernon"
+    },
+    {
+      "id": 201952,
+      "name": "Mountain Brook"
+    },
+    {
+      "id": 201953,
+      "name": "Munford"
+    },
+    {
+      "id": 201954,
+      "name": "Muscle Shoals"
+    },
+    {
+      "id": 201955,
+      "name": "New Brockton"
+    },
+    {
+      "id": 201956,
+      "name": "New Hope"
+    },
+    {
+      "id": 201957,
+      "name": "New Market"
+    },
+    {
+      "id": 201958,
+      "name": "Newton"
+    },
+    {
+      "id": 201959,
+      "name": "North Bibb"
+    },
+    {
+      "id": 201960,
+      "name": "Northport"
+    },
+    {
+      "id": 201961,
+      "name": "Odenville"
+    },
+    {
+      "id": 201962,
+      "name": "Ohatchee"
+    },
+    {
+      "id": 201963,
+      "name": "Oneonta"
+    },
+    {
+      "id": 201964,
+      "name": "Opelika"
+    },
+    {
+      "id": 201965,
+      "name": "Opp"
+    },
+    {
+      "id": 201966,
+      "name": "Orange Beach"
+    },
+    {
+      "id": 201967,
+      "name": "Owens Cross Roads"
+    },
+    {
+      "id": 201968,
+      "name": "Oxford"
+    },
+    {
+      "id": 201969,
+      "name": "Ozark"
+    },
+    {
+      "id": 201970,
+      "name": "Pelham"
+    },
+    {
+      "id": 201971,
+      "name": "Pell City"
+    },
+    {
+      "id": 201972,
+      "name": "Perry County"
+    },
+    {
+      "id": 201973,
+      "name": "Phenix City"
+    },
+    {
+      "id": 201974,
+      "name": "Phil Campbell"
+    },
+    {
+      "id": 201975,
+      "name": "Pickens County"
+    },
+    {
+      "id": 201976,
+      "name": "Piedmont"
+    },
+    {
+      "id": 201977,
+      "name": "Pike County"
+    },
+    {
+      "id": 201978,
+      "name": "Pike Road"
+    },
+    {
+      "id": 201979,
+      "name": "Pine Level"
+    },
+    {
+      "id": 201980,
+      "name": "Pinson"
+    },
+    {
+      "id": 201981,
+      "name": "Pleasant Grove"
+    },
+    {
+      "id": 201982,
+      "name": "Point Clear"
+    },
+    {
+      "id": 201983,
+      "name": "Prattville"
+    },
+    {
+      "id": 201984,
+      "name": "Priceville"
+    },
+    {
+      "id": 201985,
+      "name": "Prichard"
+    },
+    {
+      "id": 201986,
+      "name": "Ragland"
+    },
+    {
+      "id": 201987,
+      "name": "Rainbow City"
+    },
+    {
+      "id": 201988,
+      "name": "Rainsville"
+    },
+    {
+      "id": 201989,
+      "name": "Randolph County"
+    },
+    {
+      "id": 201990,
+      "name": "Red Bay"
+    },
+    {
+      "id": 201991,
+      "name": "Redstone Arsenal"
+    },
+    {
+      "id": 201992,
+      "name": "Reform"
+    },
+    {
+      "id": 201993,
+      "name": "Rehobeth"
+    },
+    {
+      "id": 201994,
+      "name": "Riverside"
+    },
+    {
+      "id": 201995,
+      "name": "Roanoke"
+    },
+    {
+      "id": 201996,
+      "name": "Robertsdale"
+    },
+    {
+      "id": 201997,
+      "name": "Rock Creek"
+    },
+    {
+      "id": 201998,
+      "name": "Rockford"
+    },
+    {
+      "id": 201999,
+      "name": "Rogersville"
+    },
+    {
+      "id": 202000,
+      "name": "Russell County"
+    },
+    {
+      "id": 202001,
+      "name": "Russellville"
+    },
+    {
+      "id": 202002,
+      "name": "Saint Clair County"
+    },
+    {
+      "id": 202003,
+      "name": "Saks"
+    },
+    {
+      "id": 202004,
+      "name": "Samson"
+    },
+    {
+      "id": 202005,
+      "name": "Saraland"
+    },
+    {
+      "id": 202006,
+      "name": "Sardis City"
+    },
+    {
+      "id": 202007,
+      "name": "Satsuma"
+    },
+    {
+      "id": 202008,
+      "name": "Scottsboro"
+    },
+    {
+      "id": 202009,
+      "name": "Selma"
+    },
+    {
+      "id": 202010,
+      "name": "Selmont-West Selmont"
+    },
+    {
+      "id": 202011,
+      "name": "Semmes"
+    },
+    {
+      "id": 202012,
+      "name": "Sheffield"
+    },
+    {
+      "id": 202013,
+      "name": "Shelby"
+    },
+    {
+      "id": 202014,
+      "name": "Shelby County"
+    },
+    {
+      "id": 202015,
+      "name": "Shoal Creek"
+    },
+    {
+      "id": 202016,
+      "name": "Slocomb"
+    },
+    {
+      "id": 202017,
+      "name": "Smiths Station"
+    },
+    {
+      "id": 202018,
+      "name": "Smoke Rise"
+    },
+    {
+      "id": 202019,
+      "name": "Southside"
+    },
+    {
+      "id": 202020,
+      "name": "Spanish Fort"
+    },
+    {
+      "id": 202021,
+      "name": "Springville"
+    },
+    {
+      "id": 202022,
+      "name": "Steele"
+    },
+    {
+      "id": 202023,
+      "name": "Stevenson"
+    },
+    {
+      "id": 202024,
+      "name": "Stewartville"
+    },
+    {
+      "id": 202025,
+      "name": "Sulligent"
+    },
+    {
+      "id": 202026,
+      "name": "Sumiton"
+    },
+    {
+      "id": 202027,
+      "name": "Summerdale"
+    },
+    {
+      "id": 202028,
+      "name": "Sumter County"
+    },
+    {
+      "id": 202029,
+      "name": "Sylacauga"
+    },
+    {
+      "id": 202030,
+      "name": "Sylvan Springs"
+    },
+    {
+      "id": 202031,
+      "name": "Sylvania"
+    },
+    {
+      "id": 202032,
+      "name": "Talladega"
+    },
+    {
+      "id": 202033,
+      "name": "Talladega County"
+    },
+    {
+      "id": 202034,
+      "name": "Tallapoosa County"
+    },
+    {
+      "id": 202035,
+      "name": "Tallassee"
+    },
+    {
+      "id": 202036,
+      "name": "Tarrant"
+    },
+    {
+      "id": 202037,
+      "name": "Taylor"
+    },
+    {
+      "id": 202038,
+      "name": "Theodore"
+    },
+    {
+      "id": 202039,
+      "name": "Thomasville"
+    },
+    {
+      "id": 202040,
+      "name": "Thorsby"
+    },
+    {
+      "id": 202041,
+      "name": "Tillmans Corner"
+    },
+    {
+      "id": 202042,
+      "name": "Town Creek"
+    },
+    {
+      "id": 202043,
+      "name": "Trinity"
+    },
+    {
+      "id": 202044,
+      "name": "Troy"
+    },
+    {
+      "id": 202045,
+      "name": "Trussville"
+    },
+    {
+      "id": 202046,
+      "name": "Tuscaloosa"
+    },
+    {
+      "id": 202047,
+      "name": "Tuscaloosa County"
+    },
+    {
+      "id": 202048,
+      "name": "Tuscumbia"
+    },
+    {
+      "id": 202049,
+      "name": "Tuskegee"
+    },
+    {
+      "id": 202050,
+      "name": "Underwood-Petersville"
+    },
+    {
+      "id": 202051,
+      "name": "Union Springs"
+    },
+    {
+      "id": 202052,
+      "name": "Uniontown"
+    },
+    {
+      "id": 202053,
+      "name": "Valley"
+    },
+    {
+      "id": 202054,
+      "name": "Valley Grande"
+    },
+    {
+      "id": 202055,
+      "name": "Vance"
+    },
+    {
+      "id": 202056,
+      "name": "Vandiver"
+    },
+    {
+      "id": 202057,
+      "name": "Vernon"
+    },
+    {
+      "id": 202058,
+      "name": "Vestavia Hills"
+    },
+    {
+      "id": 202059,
+      "name": "Vincent"
+    },
+    {
+      "id": 202060,
+      "name": "Walker County"
+    },
+    {
+      "id": 202061,
+      "name": "Warrior"
+    },
+    {
+      "id": 202062,
+      "name": "Washington County"
+    },
+    {
+      "id": 202063,
+      "name": "Weaver"
+    },
+    {
+      "id": 202064,
+      "name": "Webb"
+    },
+    {
+      "id": 202065,
+      "name": "Wedowee"
+    },
+    {
+      "id": 202066,
+      "name": "West Blocton"
+    },
+    {
+      "id": 202067,
+      "name": "West End-Cobb Town"
+    },
+    {
+      "id": 202068,
+      "name": "Westover"
+    },
+    {
+      "id": 202069,
+      "name": "Wetumpka"
+    },
+    {
+      "id": 202070,
+      "name": "Whitesboro"
+    },
+    {
+      "id": 202071,
+      "name": "Wilcox County"
+    },
+    {
+      "id": 202072,
+      "name": "Wilsonville"
+    },
+    {
+      "id": 202073,
+      "name": "Winfield"
+    },
+    {
+      "id": 202074,
+      "name": "Winston County"
+    },
+    {
+      "id": 202075,
+      "name": "Woodstock"
+    },
+    {
+      "id": 202076,
+      "name": "York"
+    }
+  ]
+}

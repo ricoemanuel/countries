@@ -1,0 +1,391 @@
+{
+  "id": 6041,
+  "name": "Primorsky Krai",
+  "state_code": "PRI",
+  "cities": [
+    {
+      "id": 176463,
+      "name": "Anuchino"
+    },
+    {
+      "id": 176464,
+      "name": "Anuchinskiy Rayon"
+    },
+    {
+      "id": 176465,
+      "name": "Arsen’yev"
+    },
+    {
+      "id": 176466,
+      "name": "Artëm"
+    },
+    {
+      "id": 176467,
+      "name": "Barabash"
+    },
+    {
+      "id": 176468,
+      "name": "Blagodatnoye"
+    },
+    {
+      "id": 176469,
+      "name": "Bol’shoy Kamen’"
+    },
+    {
+      "id": 176470,
+      "name": "Chernigovka"
+    },
+    {
+      "id": 176471,
+      "name": "Chernigovskiy Rayon"
+    },
+    {
+      "id": 176472,
+      "name": "Chernyshëvka"
+    },
+    {
+      "id": 176473,
+      "name": "Chkalovskoye"
+    },
+    {
+      "id": 176474,
+      "name": "Chuguyevka"
+    },
+    {
+      "id": 176475,
+      "name": "Dalnegorsk"
+    },
+    {
+      "id": 176476,
+      "name": "Dalnerechensk"
+    },
+    {
+      "id": 176477,
+      "name": "Dostoyevka"
+    },
+    {
+      "id": 176478,
+      "name": "Dunay"
+    },
+    {
+      "id": 176479,
+      "name": "Emar"
+    },
+    {
+      "id": 176480,
+      "name": "Fokino"
+    },
+    {
+      "id": 176481,
+      "name": "Gornorechenskiy"
+    },
+    {
+      "id": 176482,
+      "name": "Gornyye Klyuchi"
+    },
+    {
+      "id": 176483,
+      "name": "Grazhdanka"
+    },
+    {
+      "id": 176484,
+      "name": "Ivanovka"
+    },
+    {
+      "id": 176485,
+      "name": "Kamen’-Rybolov"
+    },
+    {
+      "id": 176486,
+      "name": "Kamenka"
+    },
+    {
+      "id": 176487,
+      "name": "Kavalerovo"
+    },
+    {
+      "id": 176488,
+      "name": "Khasanskiy Rayon"
+    },
+    {
+      "id": 176489,
+      "name": "Khorol’"
+    },
+    {
+      "id": 176490,
+      "name": "Kirovskiy"
+    },
+    {
+      "id": 176491,
+      "name": "Knevichi"
+    },
+    {
+      "id": 176492,
+      "name": "Kraskino"
+    },
+    {
+      "id": 176493,
+      "name": "Krasnorechenskiy"
+    },
+    {
+      "id": 176494,
+      "name": "Lazo"
+    },
+    {
+      "id": 176495,
+      "name": "Lazovskiy Rayon"
+    },
+    {
+      "id": 176496,
+      "name": "Lesozavodsk"
+    },
+    {
+      "id": 176497,
+      "name": "Lipovtsy"
+    },
+    {
+      "id": 176498,
+      "name": "Livadiya"
+    },
+    {
+      "id": 176499,
+      "name": "Luchegorsk"
+    },
+    {
+      "id": 176500,
+      "name": "Luchki"
+    },
+    {
+      "id": 176501,
+      "name": "Lyalichi"
+    },
+    {
+      "id": 176502,
+      "name": "Mikhaylovka"
+    },
+    {
+      "id": 176503,
+      "name": "Mikhaylovskiy Rayon"
+    },
+    {
+      "id": 176504,
+      "name": "Mnogoudobnoye"
+    },
+    {
+      "id": 176505,
+      "name": "Monastyrishche"
+    },
+    {
+      "id": 176506,
+      "name": "Nadezhdinskiy Rayon"
+    },
+    {
+      "id": 176507,
+      "name": "Nakhodka"
+    },
+    {
+      "id": 176508,
+      "name": "Novonikol’sk"
+    },
+    {
+      "id": 176509,
+      "name": "Novopokrovka"
+    },
+    {
+      "id": 176510,
+      "name": "Novoshakhtinskiy"
+    },
+    {
+      "id": 176511,
+      "name": "Novosysoyevka"
+    },
+    {
+      "id": 176512,
+      "name": "Novyy"
+    },
+    {
+      "id": 176513,
+      "name": "Ol’ga"
+    },
+    {
+      "id": 176514,
+      "name": "Partizansk"
+    },
+    {
+      "id": 176515,
+      "name": "Plastun"
+    },
+    {
+      "id": 176516,
+      "name": "Pogranichnyy"
+    },
+    {
+      "id": 176517,
+      "name": "Pokrovka"
+    },
+    {
+      "id": 176518,
+      "name": "Popova"
+    },
+    {
+      "id": 176519,
+      "name": "Preobrazheniye"
+    },
+    {
+      "id": 176520,
+      "name": "Primorskiy"
+    },
+    {
+      "id": 176521,
+      "name": "Putyatin"
+    },
+    {
+      "id": 176522,
+      "name": "Razdol’noye"
+    },
+    {
+      "id": 176523,
+      "name": "Rettikhovka"
+    },
+    {
+      "id": 176524,
+      "name": "Romanovka"
+    },
+    {
+      "id": 176525,
+      "name": "Rudnaya Pristan’"
+    },
+    {
+      "id": 176526,
+      "name": "Rudnyy"
+    },
+    {
+      "id": 176527,
+      "name": "Russkiy"
+    },
+    {
+      "id": 176528,
+      "name": "Sergeyevka"
+    },
+    {
+      "id": 176529,
+      "name": "Shkotovo"
+    },
+    {
+      "id": 176530,
+      "name": "Shkotovskiy Rayon"
+    },
+    {
+      "id": 176531,
+      "name": "Shtykovo"
+    },
+    {
+      "id": 176532,
+      "name": "Sivakovka"
+    },
+    {
+      "id": 176533,
+      "name": "Slavyanka"
+    },
+    {
+      "id": 176534,
+      "name": "Smolyaninovo"
+    },
+    {
+      "id": 176535,
+      "name": "Spassk-Dal’niy"
+    },
+    {
+      "id": 176536,
+      "name": "Spasskiy Rayon"
+    },
+    {
+      "id": 176537,
+      "name": "Spasskoye"
+    },
+    {
+      "id": 176538,
+      "name": "Svetlaya"
+    },
+    {
+      "id": 176539,
+      "name": "Tavrichanka"
+    },
+    {
+      "id": 176540,
+      "name": "Terney"
+    },
+    {
+      "id": 176541,
+      "name": "Trudovoye"
+    },
+    {
+      "id": 176542,
+      "name": "Uglekamensk"
+    },
+    {
+      "id": 176543,
+      "name": "Uglovoye"
+    },
+    {
+      "id": 176544,
+      "name": "Ussuriysk"
+    },
+    {
+      "id": 176545,
+      "name": "Vladimiro-Aleksandrovskoye"
+    },
+    {
+      "id": 176546,
+      "name": "Vladivostok"
+    },
+    {
+      "id": 176547,
+      "name": "Vol’no-Nadezhdinskoye"
+    },
+    {
+      "id": 176548,
+      "name": "Volchanets"
+    },
+    {
+      "id": 176549,
+      "name": "Vostok"
+    },
+    {
+      "id": 176550,
+      "name": "Vozdvizhenka"
+    },
+    {
+      "id": 176551,
+      "name": "Vrangel’"
+    },
+    {
+      "id": 176552,
+      "name": "Yakovlevka"
+    },
+    {
+      "id": 176553,
+      "name": "Yakovlevskiy Rayon"
+    },
+    {
+      "id": 176554,
+      "name": "Yaroslavskiy"
+    },
+    {
+      "id": 176555,
+      "name": "Yekaterinovka"
+    },
+    {
+      "id": 176556,
+      "name": "Zarubino"
+    },
+    {
+      "id": 176557,
+      "name": "Zavodskoy"
+    },
+    {
+      "id": 176558,
+      "name": "Zharikovo"
+    }
+  ]
+}

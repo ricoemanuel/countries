@@ -1,0 +1,571 @@
+{
+  "id": 4420,
+  "name": "Molise",
+  "state_code": "67",
+  "cities": [
+    {
+      "id": 130387,
+      "name": "Acquaviva Collecroce"
+    },
+    {
+      "id": 130388,
+      "name": "Acquaviva d'Isernia"
+    },
+    {
+      "id": 130389,
+      "name": "Agnone"
+    },
+    {
+      "id": 130390,
+      "name": "Bagnoli del Trigno"
+    },
+    {
+      "id": 130391,
+      "name": "Baranello"
+    },
+    {
+      "id": 130392,
+      "name": "Belmonte del Sannio"
+    },
+    {
+      "id": 130393,
+      "name": "Bojano"
+    },
+    {
+      "id": 130394,
+      "name": "Bonefro"
+    },
+    {
+      "id": 130395,
+      "name": "Busso"
+    },
+    {
+      "id": 130396,
+      "name": "Campobasso"
+    },
+    {
+      "id": 130397,
+      "name": "Campochiaro"
+    },
+    {
+      "id": 130398,
+      "name": "Campodipietra"
+    },
+    {
+      "id": 130399,
+      "name": "Campolieto"
+    },
+    {
+      "id": 130400,
+      "name": "Campomarino"
+    },
+    {
+      "id": 130401,
+      "name": "Cantalupo nel Sannio"
+    },
+    {
+      "id": 130402,
+      "name": "Capracotta"
+    },
+    {
+      "id": 130403,
+      "name": "Carovilli"
+    },
+    {
+      "id": 130404,
+      "name": "Carpinone"
+    },
+    {
+      "id": 130405,
+      "name": "Casacalenda"
+    },
+    {
+      "id": 130406,
+      "name": "Casalciprano"
+    },
+    {
+      "id": 130407,
+      "name": "Castel del Giudice"
+    },
+    {
+      "id": 130408,
+      "name": "Castel San Vincenzo"
+    },
+    {
+      "id": 130409,
+      "name": "Castelbottaccio"
+    },
+    {
+      "id": 130410,
+      "name": "Castellino del Biferno"
+    },
+    {
+      "id": 130411,
+      "name": "Castelmauro"
+    },
+    {
+      "id": 130412,
+      "name": "Castelpetroso"
+    },
+    {
+      "id": 130413,
+      "name": "Castelpizzuto"
+    },
+    {
+      "id": 130414,
+      "name": "Castelverrino"
+    },
+    {
+      "id": 130415,
+      "name": "Castropignano"
+    },
+    {
+      "id": 130416,
+      "name": "Cercemaggiore"
+    },
+    {
+      "id": 130417,
+      "name": "Cercepiccola"
+    },
+    {
+      "id": 130418,
+      "name": "Cerro al Volturno"
+    },
+    {
+      "id": 130419,
+      "name": "Chiauci"
+    },
+    {
+      "id": 130420,
+      "name": "Civitacampomarano"
+    },
+    {
+      "id": 130421,
+      "name": "Civitanova del Sannio"
+    },
+    {
+      "id": 130422,
+      "name": "Colle d'Anchise"
+    },
+    {
+      "id": 130423,
+      "name": "Colletorto"
+    },
+    {
+      "id": 130424,
+      "name": "Colli a Volturno"
+    },
+    {
+      "id": 130425,
+      "name": "Conca Casale"
+    },
+    {
+      "id": 130426,
+      "name": "Duronia"
+    },
+    {
+      "id": 130427,
+      "name": "Ferrazzano"
+    },
+    {
+      "id": 130428,
+      "name": "Filignano"
+    },
+    {
+      "id": 130429,
+      "name": "Forlì del Sannio"
+    },
+    {
+      "id": 130430,
+      "name": "Fornelli"
+    },
+    {
+      "id": 130431,
+      "name": "Fossalto"
+    },
+    {
+      "id": 130432,
+      "name": "Frosolone"
+    },
+    {
+      "id": 130433,
+      "name": "Gambatesa"
+    },
+    {
+      "id": 130434,
+      "name": "Gildone"
+    },
+    {
+      "id": 130435,
+      "name": "Guardialfiera"
+    },
+    {
+      "id": 130436,
+      "name": "Guardiaregia"
+    },
+    {
+      "id": 130437,
+      "name": "Guglionesi"
+    },
+    {
+      "id": 130438,
+      "name": "Isernia"
+    },
+    {
+      "id": 130439,
+      "name": "Jelsi"
+    },
+    {
+      "id": 130440,
+      "name": "Larino"
+    },
+    {
+      "id": 130441,
+      "name": "Limosano"
+    },
+    {
+      "id": 130442,
+      "name": "Longano"
+    },
+    {
+      "id": 130443,
+      "name": "Lucito"
+    },
+    {
+      "id": 130444,
+      "name": "Lupara"
+    },
+    {
+      "id": 130445,
+      "name": "Macchia d'Isernia"
+    },
+    {
+      "id": 130446,
+      "name": "Macchia Valfortore"
+    },
+    {
+      "id": 130447,
+      "name": "Macchiagodena"
+    },
+    {
+      "id": 130448,
+      "name": "Mafalda"
+    },
+    {
+      "id": 130449,
+      "name": "Matrice"
+    },
+    {
+      "id": 130450,
+      "name": "Mimosa-Poggio Verde-Nuova Comunità"
+    },
+    {
+      "id": 130451,
+      "name": "Mirabello Sannitico"
+    },
+    {
+      "id": 130452,
+      "name": "Miranda"
+    },
+    {
+      "id": 130453,
+      "name": "Molise"
+    },
+    {
+      "id": 130454,
+      "name": "Monacilioni"
+    },
+    {
+      "id": 130455,
+      "name": "Montagano"
+    },
+    {
+      "id": 130456,
+      "name": "Montaquila"
+    },
+    {
+      "id": 130457,
+      "name": "Montecilfone"
+    },
+    {
+      "id": 130458,
+      "name": "Montefalcone nel Sannio"
+    },
+    {
+      "id": 130459,
+      "name": "Montelongo"
+    },
+    {
+      "id": 130460,
+      "name": "Montemitro"
+    },
+    {
+      "id": 130461,
+      "name": "Montenero di Bisaccia"
+    },
+    {
+      "id": 130462,
+      "name": "Montenero Val Cocchiara"
+    },
+    {
+      "id": 130463,
+      "name": "Monteroduni"
+    },
+    {
+      "id": 130464,
+      "name": "Montorio Nei Frentani"
+    },
+    {
+      "id": 130465,
+      "name": "Morrone del Sannio"
+    },
+    {
+      "id": 130466,
+      "name": "Oratino"
+    },
+    {
+      "id": 130467,
+      "name": "Palata"
+    },
+    {
+      "id": 130468,
+      "name": "Pesche"
+    },
+    {
+      "id": 130469,
+      "name": "Pescolanciano"
+    },
+    {
+      "id": 130470,
+      "name": "Pescopennataro"
+    },
+    {
+      "id": 130471,
+      "name": "Petacciato"
+    },
+    {
+      "id": 130472,
+      "name": "Petrella Tifernina"
+    },
+    {
+      "id": 130473,
+      "name": "Pettoranello del Molise"
+    },
+    {
+      "id": 130474,
+      "name": "Pietrabbondante"
+    },
+    {
+      "id": 130475,
+      "name": "Pietracatella"
+    },
+    {
+      "id": 130476,
+      "name": "Pietracupa"
+    },
+    {
+      "id": 130477,
+      "name": "Pizzone"
+    },
+    {
+      "id": 130478,
+      "name": "Poggio Sannita"
+    },
+    {
+      "id": 130479,
+      "name": "Portocannone"
+    },
+    {
+      "id": 130480,
+      "name": "Pozzilli"
+    },
+    {
+      "id": 130481,
+      "name": "Provincia di Campobasso"
+    },
+    {
+      "id": 130482,
+      "name": "Provincia di Isernia"
+    },
+    {
+      "id": 130483,
+      "name": "Provvidenti"
+    },
+    {
+      "id": 130484,
+      "name": "Riccia"
+    },
+    {
+      "id": 130485,
+      "name": "Rionero Sannitico"
+    },
+    {
+      "id": 130486,
+      "name": "Ripabottoni"
+    },
+    {
+      "id": 130487,
+      "name": "Ripalimosani"
+    },
+    {
+      "id": 130488,
+      "name": "Roccamandolfi"
+    },
+    {
+      "id": 130489,
+      "name": "Roccasicura"
+    },
+    {
+      "id": 130490,
+      "name": "Roccavivara"
+    },
+    {
+      "id": 130491,
+      "name": "Rocchetta a Volturno"
+    },
+    {
+      "id": 130492,
+      "name": "Rocchetta Nuova"
+    },
+    {
+      "id": 130493,
+      "name": "Rotello"
+    },
+    {
+      "id": 130494,
+      "name": "Salcito"
+    },
+    {
+      "id": 130495,
+      "name": "San Biase"
+    },
+    {
+      "id": 130496,
+      "name": "San Felice del Molise"
+    },
+    {
+      "id": 130497,
+      "name": "San Giacomo degli Schiavoni"
+    },
+    {
+      "id": 130498,
+      "name": "San Giovanni in Galdo"
+    },
+    {
+      "id": 130499,
+      "name": "San Giuliano del Sannio"
+    },
+    {
+      "id": 130500,
+      "name": "San Giuliano di Puglia"
+    },
+    {
+      "id": 130501,
+      "name": "San Martino in Pensilis"
+    },
+    {
+      "id": 130502,
+      "name": "San Massimo"
+    },
+    {
+      "id": 130503,
+      "name": "San Pietro Avellana"
+    },
+    {
+      "id": 130504,
+      "name": "San Polomatese"
+    },
+    {
+      "id": 130505,
+      "name": "Sant'Agapito"
+    },
+    {
+      "id": 130506,
+      "name": "Sant'Angelo del Pesco"
+    },
+    {
+      "id": 130507,
+      "name": "Sant'Angelo Limosano"
+    },
+    {
+      "id": 130508,
+      "name": "Sant'Elena Sannita"
+    },
+    {
+      "id": 130509,
+      "name": "Sant'Elia a Pianisi"
+    },
+    {
+      "id": 130510,
+      "name": "Santa Croce di Magliano"
+    },
+    {
+      "id": 130511,
+      "name": "Santa Maria del Molise"
+    },
+    {
+      "id": 130512,
+      "name": "Scapoli"
+    },
+    {
+      "id": 130513,
+      "name": "Sepino"
+    },
+    {
+      "id": 130514,
+      "name": "Sessano del Molise"
+    },
+    {
+      "id": 130515,
+      "name": "Sesto Campano"
+    },
+    {
+      "id": 130516,
+      "name": "Spinete"
+    },
+    {
+      "id": 130517,
+      "name": "Tavenna"
+    },
+    {
+      "id": 130518,
+      "name": "Taverna Ravindola"
+    },
+    {
+      "id": 130519,
+      "name": "Termoli"
+    },
+    {
+      "id": 130520,
+      "name": "Torella del Sannio"
+    },
+    {
+      "id": 130521,
+      "name": "Toro"
+    },
+    {
+      "id": 130522,
+      "name": "Trivento"
+    },
+    {
+      "id": 130523,
+      "name": "Tufara"
+    },
+    {
+      "id": 130524,
+      "name": "Ururi"
+    },
+    {
+      "id": 130525,
+      "name": "Vastogirardi"
+    },
+    {
+      "id": 130526,
+      "name": "Venafro"
+    },
+    {
+      "id": 130527,
+      "name": "Vinchiaturo"
+    }
+  ]
+}

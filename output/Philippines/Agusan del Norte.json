@@ -1,0 +1,907 @@
+{
+  "id": 5725,
+  "name": "Agusan del Norte",
+  "state_code": "AGN",
+  "cities": [
+    {
+      "id": 154676,
+      "name": "Abut"
+    },
+    {
+      "id": 154677,
+      "name": "Accusilian"
+    },
+    {
+      "id": 154678,
+      "name": "Afusing Centro"
+    },
+    {
+      "id": 154679,
+      "name": "Aglipay"
+    },
+    {
+      "id": 154680,
+      "name": "Alabug"
+    },
+    {
+      "id": 154681,
+      "name": "Alannay"
+    },
+    {
+      "id": 154682,
+      "name": "Alcala"
+    },
+    {
+      "id": 154683,
+      "name": "Alfonso Castañeda"
+    },
+    {
+      "id": 154684,
+      "name": "Alicia"
+    },
+    {
+      "id": 154685,
+      "name": "Allacapan"
+    },
+    {
+      "id": 154686,
+      "name": "Almaguer North"
+    },
+    {
+      "id": 154687,
+      "name": "Ambaguio"
+    },
+    {
+      "id": 154688,
+      "name": "Amulung"
+    },
+    {
+      "id": 154689,
+      "name": "Angadanan"
+    },
+    {
+      "id": 154690,
+      "name": "Antagan Segunda"
+    },
+    {
+      "id": 154691,
+      "name": "Aparri"
+    },
+    {
+      "id": 154692,
+      "name": "Aritao"
+    },
+    {
+      "id": 154693,
+      "name": "Atulayan"
+    },
+    {
+      "id": 154694,
+      "name": "Aurora"
+    },
+    {
+      "id": 154695,
+      "name": "Awallan"
+    },
+    {
+      "id": 154696,
+      "name": "Bacnor East"
+    },
+    {
+      "id": 154697,
+      "name": "Bagabag"
+    },
+    {
+      "id": 154698,
+      "name": "Baggabag B"
+    },
+    {
+      "id": 154699,
+      "name": "Baggao"
+    },
+    {
+      "id": 154700,
+      "name": "Bagong Tanza"
+    },
+    {
+      "id": 154701,
+      "name": "Bagu"
+    },
+    {
+      "id": 154702,
+      "name": "Bagumbayan"
+    },
+    {
+      "id": 154703,
+      "name": "Ballesteros"
+    },
+    {
+      "id": 154704,
+      "name": "Bambang"
+    },
+    {
+      "id": 154705,
+      "name": "Bangad"
+    },
+    {
+      "id": 154706,
+      "name": "Banganan"
+    },
+    {
+      "id": 154707,
+      "name": "Banquero"
+    },
+    {
+      "id": 154708,
+      "name": "Barucboc Norte"
+    },
+    {
+      "id": 154709,
+      "name": "Basco"
+    },
+    {
+      "id": 154710,
+      "name": "Batal"
+    },
+    {
+      "id": 154711,
+      "name": "Battung"
+    },
+    {
+      "id": 154712,
+      "name": "Bauan"
+    },
+    {
+      "id": 154713,
+      "name": "Bayombong"
+    },
+    {
+      "id": 154714,
+      "name": "Belance"
+    },
+    {
+      "id": 154715,
+      "name": "Benito Soliven"
+    },
+    {
+      "id": 154716,
+      "name": "Binalan"
+    },
+    {
+      "id": 154717,
+      "name": "Binguang"
+    },
+    {
+      "id": 154718,
+      "name": "Bintawan"
+    },
+    {
+      "id": 154719,
+      "name": "Bitag Grande"
+    },
+    {
+      "id": 154720,
+      "name": "Bone South"
+    },
+    {
+      "id": 154721,
+      "name": "Buguey"
+    },
+    {
+      "id": 154722,
+      "name": "Buliwao"
+    },
+    {
+      "id": 154723,
+      "name": "Bulu"
+    },
+    {
+      "id": 154724,
+      "name": "Burgos"
+    },
+    {
+      "id": 154725,
+      "name": "Busilak"
+    },
+    {
+      "id": 154726,
+      "name": "Cabagan"
+    },
+    {
+      "id": 154727,
+      "name": "Cabannungan Second"
+    },
+    {
+      "id": 154728,
+      "name": "Cabaritan East"
+    },
+    {
+      "id": 154729,
+      "name": "Cabarroguis"
+    },
+    {
+      "id": 154730,
+      "name": "Cabatuan"
+    },
+    {
+      "id": 154731,
+      "name": "Cabiraoan"
+    },
+    {
+      "id": 154732,
+      "name": "Calamagui East"
+    },
+    {
+      "id": 154733,
+      "name": "Calantac"
+    },
+    {
+      "id": 154734,
+      "name": "Calaoagan"
+    },
+    {
+      "id": 154735,
+      "name": "Calayan"
+    },
+    {
+      "id": 154736,
+      "name": "Calinaoan Malasin"
+    },
+    {
+      "id": 154737,
+      "name": "Calog Norte"
+    },
+    {
+      "id": 154738,
+      "name": "Camalaniugan"
+    },
+    {
+      "id": 154739,
+      "name": "Capissayan Sur"
+    },
+    {
+      "id": 154740,
+      "name": "Carig"
+    },
+    {
+      "id": 154741,
+      "name": "Casambalangan"
+    },
+    {
+      "id": 154742,
+      "name": "Catayauan"
+    },
+    {
+      "id": 154743,
+      "name": "Cauayan"
+    },
+    {
+      "id": 154744,
+      "name": "Claveria"
+    },
+    {
+      "id": 154745,
+      "name": "Cordon"
+    },
+    {
+      "id": 154746,
+      "name": "Cullalabo del Sur"
+    },
+    {
+      "id": 154747,
+      "name": "Dagupan"
+    },
+    {
+      "id": 154748,
+      "name": "Dalaoig"
+    },
+    {
+      "id": 154749,
+      "name": "Daragutan"
+    },
+    {
+      "id": 154750,
+      "name": "Dassun"
+    },
+    {
+      "id": 154751,
+      "name": "Delfin Albano"
+    },
+    {
+      "id": 154752,
+      "name": "Diadi"
+    },
+    {
+      "id": 154753,
+      "name": "Diamantina"
+    },
+    {
+      "id": 154754,
+      "name": "Dibuluan"
+    },
+    {
+      "id": 154755,
+      "name": "Dicabisagan"
+    },
+    {
+      "id": 154756,
+      "name": "Dicamay"
+    },
+    {
+      "id": 154757,
+      "name": "Diffun"
+    },
+    {
+      "id": 154758,
+      "name": "Dinapigui"
+    },
+    {
+      "id": 154759,
+      "name": "Divilican"
+    },
+    {
+      "id": 154760,
+      "name": "Divisoria"
+    },
+    {
+      "id": 154761,
+      "name": "Dodan"
+    },
+    {
+      "id": 154762,
+      "name": "Dumabato"
+    },
+    {
+      "id": 154763,
+      "name": "Dupax del Norte"
+    },
+    {
+      "id": 154764,
+      "name": "Dupax del Sur"
+    },
+    {
+      "id": 154765,
+      "name": "Echague (town)"
+    },
+    {
+      "id": 154766,
+      "name": "Eden"
+    },
+    {
+      "id": 154767,
+      "name": "Enrile"
+    },
+    {
+      "id": 154768,
+      "name": "Esperanza East"
+    },
+    {
+      "id": 154769,
+      "name": "Estefania"
+    },
+    {
+      "id": 154770,
+      "name": "Furao"
+    },
+    {
+      "id": 154771,
+      "name": "Gadu"
+    },
+    {
+      "id": 154772,
+      "name": "Gammad"
+    },
+    {
+      "id": 154773,
+      "name": "Gamu"
+    },
+    {
+      "id": 154774,
+      "name": "Ganapi"
+    },
+    {
+      "id": 154775,
+      "name": "Gappal"
+    },
+    {
+      "id": 154776,
+      "name": "Gattaran"
+    },
+    {
+      "id": 154777,
+      "name": "Gonzaga"
+    },
+    {
+      "id": 154778,
+      "name": "Guiddam"
+    },
+    {
+      "id": 154779,
+      "name": "Ibung"
+    },
+    {
+      "id": 154780,
+      "name": "Iguig"
+    },
+    {
+      "id": 154781,
+      "name": "Ilagan"
+    },
+    {
+      "id": 154782,
+      "name": "Ineangan"
+    },
+    {
+      "id": 154783,
+      "name": "Itbayat"
+    },
+    {
+      "id": 154784,
+      "name": "Ivana"
+    },
+    {
+      "id": 154785,
+      "name": "Jones"
+    },
+    {
+      "id": 154786,
+      "name": "Kasibu"
+    },
+    {
+      "id": 154787,
+      "name": "Kayapa"
+    },
+    {
+      "id": 154788,
+      "name": "La Paz"
+    },
+    {
+      "id": 154789,
+      "name": "Lal-lo"
+    },
+    {
+      "id": 154790,
+      "name": "Lallayug"
+    },
+    {
+      "id": 154791,
+      "name": "Lanna"
+    },
+    {
+      "id": 154792,
+      "name": "Lapi"
+    },
+    {
+      "id": 154793,
+      "name": "Larion Alto"
+    },
+    {
+      "id": 154794,
+      "name": "Lasam"
+    },
+    {
+      "id": 154795,
+      "name": "Lucban"
+    },
+    {
+      "id": 154796,
+      "name": "Luna"
+    },
+    {
+      "id": 154797,
+      "name": "Mabasa"
+    },
+    {
+      "id": 154798,
+      "name": "Mabini"
+    },
+    {
+      "id": 154799,
+      "name": "Mabuttal East"
+    },
+    {
+      "id": 154800,
+      "name": "Maconacon"
+    },
+    {
+      "id": 154801,
+      "name": "Maddarulug Norte"
+    },
+    {
+      "id": 154802,
+      "name": "Maddela"
+    },
+    {
+      "id": 154803,
+      "name": "Magalalag"
+    },
+    {
+      "id": 154804,
+      "name": "Magdalena"
+    },
+    {
+      "id": 154805,
+      "name": "Maguilling"
+    },
+    {
+      "id": 154806,
+      "name": "Mahatao"
+    },
+    {
+      "id": 154807,
+      "name": "Malasin"
+    },
+    {
+      "id": 154808,
+      "name": "Mallig"
+    },
+    {
+      "id": 154809,
+      "name": "Maluno Sur"
+    },
+    {
+      "id": 154810,
+      "name": "Manaring"
+    },
+    {
+      "id": 154811,
+      "name": "Manga"
+    },
+    {
+      "id": 154812,
+      "name": "Masaya Sur"
+    },
+    {
+      "id": 154813,
+      "name": "Masipi West"
+    },
+    {
+      "id": 154814,
+      "name": "Maxingal"
+    },
+    {
+      "id": 154815,
+      "name": "Minallo"
+    },
+    {
+      "id": 154816,
+      "name": "Minanga Norte"
+    },
+    {
+      "id": 154817,
+      "name": "Minante Segundo"
+    },
+    {
+      "id": 154818,
+      "name": "Minuri"
+    },
+    {
+      "id": 154819,
+      "name": "Mozzozzin Sur"
+    },
+    {
+      "id": 154820,
+      "name": "Mungo"
+    },
+    {
+      "id": 154821,
+      "name": "Municipality of Delfin Albano"
+    },
+    {
+      "id": 154822,
+      "name": "Muñoz East"
+    },
+    {
+      "id": 154823,
+      "name": "Nabannagan West"
+    },
+    {
+      "id": 154824,
+      "name": "Nagrumbuan"
+    },
+    {
+      "id": 154825,
+      "name": "Nagtipunan"
+    },
+    {
+      "id": 154826,
+      "name": "Naguilian"
+    },
+    {
+      "id": 154827,
+      "name": "Namuac"
+    },
+    {
+      "id": 154828,
+      "name": "Nattapian"
+    },
+    {
+      "id": 154829,
+      "name": "Paddaya"
+    },
+    {
+      "id": 154830,
+      "name": "Palagao Norte"
+    },
+    {
+      "id": 154831,
+      "name": "Palanan"
+    },
+    {
+      "id": 154832,
+      "name": "Pamplona"
+    },
+    {
+      "id": 154833,
+      "name": "Pangal Sur"
+    },
+    {
+      "id": 154834,
+      "name": "Pata"
+    },
+    {
+      "id": 154835,
+      "name": "Pattao"
+    },
+    {
+      "id": 154836,
+      "name": "Peñablanca"
+    },
+    {
+      "id": 154837,
+      "name": "Piat"
+    },
+    {
+      "id": 154838,
+      "name": "Pinoma"
+    },
+    {
+      "id": 154839,
+      "name": "Quezon"
+    },
+    {
+      "id": 154840,
+      "name": "Quibal"
+    },
+    {
+      "id": 154841,
+      "name": "Quirino"
+    },
+    {
+      "id": 154842,
+      "name": "Ragan Norte"
+    },
+    {
+      "id": 154843,
+      "name": "Ramon (municipal capital)"
+    },
+    {
+      "id": 154844,
+      "name": "Ramos West"
+    },
+    {
+      "id": 154845,
+      "name": "Reina Mercedes"
+    },
+    {
+      "id": 154846,
+      "name": "Rizal"
+    },
+    {
+      "id": 154847,
+      "name": "Roxas"
+    },
+    {
+      "id": 154848,
+      "name": "Sabtang"
+    },
+    {
+      "id": 154849,
+      "name": "Saguday"
+    },
+    {
+      "id": 154850,
+      "name": "Salinas"
+    },
+    {
+      "id": 154851,
+      "name": "Salinungan Proper"
+    },
+    {
+      "id": 154852,
+      "name": "San Agustin"
+    },
+    {
+      "id": 154853,
+      "name": "San Antonio"
+    },
+    {
+      "id": 154854,
+      "name": "San Bernardo"
+    },
+    {
+      "id": 154855,
+      "name": "San Fernando"
+    },
+    {
+      "id": 154856,
+      "name": "San Guillermo"
+    },
+    {
+      "id": 154857,
+      "name": "San Isidro"
+    },
+    {
+      "id": 154858,
+      "name": "San Jose"
+    },
+    {
+      "id": 154859,
+      "name": "San Luis"
+    },
+    {
+      "id": 154860,
+      "name": "San Manuel"
+    },
+    {
+      "id": 154861,
+      "name": "San Mariano"
+    },
+    {
+      "id": 154862,
+      "name": "San Mateo"
+    },
+    {
+      "id": 154863,
+      "name": "San Pablo"
+    },
+    {
+      "id": 154864,
+      "name": "San Pedro"
+    },
+    {
+      "id": 154865,
+      "name": "San Vicente"
+    },
+    {
+      "id": 154866,
+      "name": "Sanchez Mira"
+    },
+    {
+      "id": 154867,
+      "name": "Sandiat Centro"
+    },
+    {
+      "id": 154868,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 154869,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 154870,
+      "name": "Santa Fe"
+    },
+    {
+      "id": 154871,
+      "name": "Santa Maria"
+    },
+    {
+      "id": 154872,
+      "name": "Santa Praxedes"
+    },
+    {
+      "id": 154873,
+      "name": "Santa Teresita"
+    },
+    {
+      "id": 154874,
+      "name": "Santiago"
+    },
+    {
+      "id": 154875,
+      "name": "Santo Domingo"
+    },
+    {
+      "id": 154876,
+      "name": "Santo Niño"
+    },
+    {
+      "id": 154877,
+      "name": "Santo Tomas"
+    },
+    {
+      "id": 154878,
+      "name": "Siempre Viva"
+    },
+    {
+      "id": 154879,
+      "name": "Sillawit"
+    },
+    {
+      "id": 154880,
+      "name": "Simanu Sur"
+    },
+    {
+      "id": 154881,
+      "name": "Simimbaan"
+    },
+    {
+      "id": 154882,
+      "name": "Sinamar"
+    },
+    {
+      "id": 154883,
+      "name": "Sindon"
+    },
+    {
+      "id": 154884,
+      "name": "Solana"
+    },
+    {
+      "id": 154885,
+      "name": "Solano"
+    },
+    {
+      "id": 154886,
+      "name": "Soyung"
+    },
+    {
+      "id": 154887,
+      "name": "Taguing"
+    },
+    {
+      "id": 154888,
+      "name": "Tapel"
+    },
+    {
+      "id": 154889,
+      "name": "Tuao"
+    },
+    {
+      "id": 154890,
+      "name": "Tuguegarao"
+    },
+    {
+      "id": 154891,
+      "name": "Tuguegarao City"
+    },
+    {
+      "id": 154892,
+      "name": "Tumauini"
+    },
+    {
+      "id": 154893,
+      "name": "Tupang"
+    },
+    {
+      "id": 154894,
+      "name": "Uddiawan"
+    },
+    {
+      "id": 154895,
+      "name": "Ugac Sur"
+    },
+    {
+      "id": 154896,
+      "name": "Ugad"
+    },
+    {
+      "id": 154897,
+      "name": "Upi"
+    },
+    {
+      "id": 154898,
+      "name": "Uyugan"
+    },
+    {
+      "id": 154899,
+      "name": "Villaverde"
+    },
+    {
+      "id": 154900,
+      "name": "Yeban Norte"
+    }
+  ]
+}

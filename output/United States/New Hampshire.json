@@ -1,0 +1,751 @@
+{
+  "id": 7465,
+  "name": "New Hampshire",
+  "state_code": "NH",
+  "cities": [
+    {
+      "id": 212028,
+      "name": "Alexandria"
+    },
+    {
+      "id": 212029,
+      "name": "Alstead"
+    },
+    {
+      "id": 212030,
+      "name": "Andover"
+    },
+    {
+      "id": 212031,
+      "name": "Antrim"
+    },
+    {
+      "id": 212032,
+      "name": "Ashland"
+    },
+    {
+      "id": 212033,
+      "name": "Atkinson"
+    },
+    {
+      "id": 212034,
+      "name": "Auburn"
+    },
+    {
+      "id": 212035,
+      "name": "Barnstead"
+    },
+    {
+      "id": 212036,
+      "name": "Barrington"
+    },
+    {
+      "id": 212037,
+      "name": "Bedford"
+    },
+    {
+      "id": 212038,
+      "name": "Belknap County"
+    },
+    {
+      "id": 212039,
+      "name": "Belmont"
+    },
+    {
+      "id": 212040,
+      "name": "Berlin"
+    },
+    {
+      "id": 212041,
+      "name": "Boscawen"
+    },
+    {
+      "id": 212042,
+      "name": "Bow Bog"
+    },
+    {
+      "id": 212043,
+      "name": "Brentwood"
+    },
+    {
+      "id": 212044,
+      "name": "Bridgewater"
+    },
+    {
+      "id": 212045,
+      "name": "Bristol"
+    },
+    {
+      "id": 212046,
+      "name": "Brookline"
+    },
+    {
+      "id": 212047,
+      "name": "Candia"
+    },
+    {
+      "id": 212048,
+      "name": "Canterbury"
+    },
+    {
+      "id": 212049,
+      "name": "Carroll County"
+    },
+    {
+      "id": 212050,
+      "name": "Center Harbor"
+    },
+    {
+      "id": 212051,
+      "name": "Charlestown"
+    },
+    {
+      "id": 212052,
+      "name": "Cheshire County"
+    },
+    {
+      "id": 212053,
+      "name": "Chester"
+    },
+    {
+      "id": 212054,
+      "name": "Chesterfield"
+    },
+    {
+      "id": 212055,
+      "name": "Chichester"
+    },
+    {
+      "id": 212056,
+      "name": "Claremont"
+    },
+    {
+      "id": 212057,
+      "name": "Colebrook"
+    },
+    {
+      "id": 212058,
+      "name": "Concord"
+    },
+    {
+      "id": 212059,
+      "name": "Contoocook"
+    },
+    {
+      "id": 212060,
+      "name": "Conway"
+    },
+    {
+      "id": 212061,
+      "name": "Coos County"
+    },
+    {
+      "id": 212062,
+      "name": "Danbury"
+    },
+    {
+      "id": 212063,
+      "name": "Danville"
+    },
+    {
+      "id": 212064,
+      "name": "Deerfield"
+    },
+    {
+      "id": 212065,
+      "name": "Deering"
+    },
+    {
+      "id": 212066,
+      "name": "Derry"
+    },
+    {
+      "id": 212067,
+      "name": "Derry Village"
+    },
+    {
+      "id": 212068,
+      "name": "Dover"
+    },
+    {
+      "id": 212069,
+      "name": "Dublin"
+    },
+    {
+      "id": 212070,
+      "name": "Durham"
+    },
+    {
+      "id": 212071,
+      "name": "East Concord"
+    },
+    {
+      "id": 212072,
+      "name": "East Kingston"
+    },
+    {
+      "id": 212073,
+      "name": "East Merrimack"
+    },
+    {
+      "id": 212074,
+      "name": "Effingham"
+    },
+    {
+      "id": 212075,
+      "name": "Enfield"
+    },
+    {
+      "id": 212076,
+      "name": "Epping"
+    },
+    {
+      "id": 212077,
+      "name": "Epsom"
+    },
+    {
+      "id": 212078,
+      "name": "Exeter"
+    },
+    {
+      "id": 212079,
+      "name": "Farmington"
+    },
+    {
+      "id": 212080,
+      "name": "Fitzwilliam"
+    },
+    {
+      "id": 212081,
+      "name": "Francestown"
+    },
+    {
+      "id": 212082,
+      "name": "Franklin"
+    },
+    {
+      "id": 212083,
+      "name": "Freedom"
+    },
+    {
+      "id": 212084,
+      "name": "Fremont"
+    },
+    {
+      "id": 212085,
+      "name": "Gilford"
+    },
+    {
+      "id": 212086,
+      "name": "Gilmanton"
+    },
+    {
+      "id": 212087,
+      "name": "Goffstown"
+    },
+    {
+      "id": 212088,
+      "name": "Gorham"
+    },
+    {
+      "id": 212089,
+      "name": "Grafton"
+    },
+    {
+      "id": 212090,
+      "name": "Grafton County"
+    },
+    {
+      "id": 212091,
+      "name": "Grantham"
+    },
+    {
+      "id": 212092,
+      "name": "Greenfield"
+    },
+    {
+      "id": 212093,
+      "name": "Greenland"
+    },
+    {
+      "id": 212094,
+      "name": "Greenville"
+    },
+    {
+      "id": 212095,
+      "name": "Groveton"
+    },
+    {
+      "id": 212096,
+      "name": "Hampstead"
+    },
+    {
+      "id": 212097,
+      "name": "Hampton"
+    },
+    {
+      "id": 212098,
+      "name": "Hampton Beach"
+    },
+    {
+      "id": 212099,
+      "name": "Hampton Falls"
+    },
+    {
+      "id": 212100,
+      "name": "Hanover"
+    },
+    {
+      "id": 212101,
+      "name": "Harrisville"
+    },
+    {
+      "id": 212102,
+      "name": "Haverhill"
+    },
+    {
+      "id": 212103,
+      "name": "Henniker"
+    },
+    {
+      "id": 212104,
+      "name": "Hill"
+    },
+    {
+      "id": 212105,
+      "name": "Hillsborough"
+    },
+    {
+      "id": 212106,
+      "name": "Hillsborough County"
+    },
+    {
+      "id": 212107,
+      "name": "Hinsdale"
+    },
+    {
+      "id": 212108,
+      "name": "Holderness"
+    },
+    {
+      "id": 212109,
+      "name": "Hollis"
+    },
+    {
+      "id": 212110,
+      "name": "Hooksett"
+    },
+    {
+      "id": 212111,
+      "name": "Hopkinton"
+    },
+    {
+      "id": 212112,
+      "name": "Hudson"
+    },
+    {
+      "id": 212113,
+      "name": "Jaffrey"
+    },
+    {
+      "id": 212114,
+      "name": "Jefferson"
+    },
+    {
+      "id": 212115,
+      "name": "Keene"
+    },
+    {
+      "id": 212116,
+      "name": "Kensington"
+    },
+    {
+      "id": 212117,
+      "name": "Kingston"
+    },
+    {
+      "id": 212118,
+      "name": "Laconia"
+    },
+    {
+      "id": 212119,
+      "name": "Lancaster"
+    },
+    {
+      "id": 212120,
+      "name": "Lebanon"
+    },
+    {
+      "id": 212121,
+      "name": "Lee"
+    },
+    {
+      "id": 212122,
+      "name": "Lempster"
+    },
+    {
+      "id": 212123,
+      "name": "Litchfield"
+    },
+    {
+      "id": 212124,
+      "name": "Littleton"
+    },
+    {
+      "id": 212125,
+      "name": "Londonderry"
+    },
+    {
+      "id": 212126,
+      "name": "Lyme"
+    },
+    {
+      "id": 212127,
+      "name": "Lyndeborough"
+    },
+    {
+      "id": 212128,
+      "name": "Madbury"
+    },
+    {
+      "id": 212129,
+      "name": "Madison"
+    },
+    {
+      "id": 212130,
+      "name": "Manchester"
+    },
+    {
+      "id": 212131,
+      "name": "Marlborough"
+    },
+    {
+      "id": 212132,
+      "name": "Mason"
+    },
+    {
+      "id": 212133,
+      "name": "Meredith"
+    },
+    {
+      "id": 212134,
+      "name": "Merrimack"
+    },
+    {
+      "id": 212135,
+      "name": "Merrimack County"
+    },
+    {
+      "id": 212136,
+      "name": "Milan"
+    },
+    {
+      "id": 212137,
+      "name": "Milford"
+    },
+    {
+      "id": 212138,
+      "name": "Mont Vernon"
+    },
+    {
+      "id": 212139,
+      "name": "Moultonborough"
+    },
+    {
+      "id": 212140,
+      "name": "Nashua"
+    },
+    {
+      "id": 212141,
+      "name": "New Boston"
+    },
+    {
+      "id": 212142,
+      "name": "New Castle"
+    },
+    {
+      "id": 212143,
+      "name": "New Durham"
+    },
+    {
+      "id": 212144,
+      "name": "New Ipswich"
+    },
+    {
+      "id": 212145,
+      "name": "New London"
+    },
+    {
+      "id": 212146,
+      "name": "Newbury"
+    },
+    {
+      "id": 212147,
+      "name": "Newmarket"
+    },
+    {
+      "id": 212148,
+      "name": "Newport"
+    },
+    {
+      "id": 212149,
+      "name": "Newton"
+    },
+    {
+      "id": 212150,
+      "name": "North Conway"
+    },
+    {
+      "id": 212151,
+      "name": "North Hampton"
+    },
+    {
+      "id": 212152,
+      "name": "Northfield"
+    },
+    {
+      "id": 212153,
+      "name": "Northumberland"
+    },
+    {
+      "id": 212154,
+      "name": "Northwood"
+    },
+    {
+      "id": 212155,
+      "name": "Nottingham"
+    },
+    {
+      "id": 212156,
+      "name": "Orford"
+    },
+    {
+      "id": 212157,
+      "name": "Ossipee"
+    },
+    {
+      "id": 212158,
+      "name": "Pelham"
+    },
+    {
+      "id": 212159,
+      "name": "Pembroke"
+    },
+    {
+      "id": 212160,
+      "name": "Peterborough"
+    },
+    {
+      "id": 212161,
+      "name": "Pinardville"
+    },
+    {
+      "id": 212162,
+      "name": "Pittsfield"
+    },
+    {
+      "id": 212163,
+      "name": "Plaistow"
+    },
+    {
+      "id": 212164,
+      "name": "Plymouth"
+    },
+    {
+      "id": 212165,
+      "name": "Portsmouth"
+    },
+    {
+      "id": 212166,
+      "name": "Raymond"
+    },
+    {
+      "id": 212167,
+      "name": "Richmond"
+    },
+    {
+      "id": 212168,
+      "name": "Rindge"
+    },
+    {
+      "id": 212169,
+      "name": "Rochester"
+    },
+    {
+      "id": 212170,
+      "name": "Rockingham County"
+    },
+    {
+      "id": 212171,
+      "name": "Rollinsford"
+    },
+    {
+      "id": 212172,
+      "name": "Rumney"
+    },
+    {
+      "id": 212173,
+      "name": "Rye"
+    },
+    {
+      "id": 212174,
+      "name": "Salem"
+    },
+    {
+      "id": 212175,
+      "name": "Salisbury"
+    },
+    {
+      "id": 212176,
+      "name": "Sanbornton"
+    },
+    {
+      "id": 212177,
+      "name": "Sanbornville"
+    },
+    {
+      "id": 212178,
+      "name": "Sandown"
+    },
+    {
+      "id": 212179,
+      "name": "Sandwich"
+    },
+    {
+      "id": 212180,
+      "name": "Seabrook"
+    },
+    {
+      "id": 212181,
+      "name": "Somersworth"
+    },
+    {
+      "id": 212182,
+      "name": "South Hooksett"
+    },
+    {
+      "id": 212183,
+      "name": "Springfield"
+    },
+    {
+      "id": 212184,
+      "name": "Strafford"
+    },
+    {
+      "id": 212185,
+      "name": "Strafford County"
+    },
+    {
+      "id": 212186,
+      "name": "Stratford"
+    },
+    {
+      "id": 212187,
+      "name": "Stratham Station"
+    },
+    {
+      "id": 212188,
+      "name": "Sullivan County"
+    },
+    {
+      "id": 212189,
+      "name": "Sunapee"
+    },
+    {
+      "id": 212190,
+      "name": "Suncook"
+    },
+    {
+      "id": 212191,
+      "name": "Sutton"
+    },
+    {
+      "id": 212192,
+      "name": "Swanzey"
+    },
+    {
+      "id": 212193,
+      "name": "Tamworth"
+    },
+    {
+      "id": 212194,
+      "name": "Temple"
+    },
+    {
+      "id": 212195,
+      "name": "Thornton"
+    },
+    {
+      "id": 212196,
+      "name": "Tilton"
+    },
+    {
+      "id": 212197,
+      "name": "Tilton-Northfield"
+    },
+    {
+      "id": 212198,
+      "name": "Troy"
+    },
+    {
+      "id": 212199,
+      "name": "Tuftonboro"
+    },
+    {
+      "id": 212200,
+      "name": "Unity"
+    },
+    {
+      "id": 212201,
+      "name": "Wakefield"
+    },
+    {
+      "id": 212202,
+      "name": "Weare"
+    },
+    {
+      "id": 212203,
+      "name": "Webster"
+    },
+    {
+      "id": 212204,
+      "name": "West Swanzey"
+    },
+    {
+      "id": 212205,
+      "name": "Westmoreland"
+    },
+    {
+      "id": 212206,
+      "name": "Whitefield"
+    },
+    {
+      "id": 212207,
+      "name": "Wilmot"
+    },
+    {
+      "id": 212208,
+      "name": "Wilton"
+    },
+    {
+      "id": 212209,
+      "name": "Winchester"
+    },
+    {
+      "id": 212210,
+      "name": "Windham"
+    },
+    {
+      "id": 212211,
+      "name": "Wolfeboro"
+    },
+    {
+      "id": 212212,
+      "name": "Woodstock"
+    },
+    {
+      "id": 212213,
+      "name": "Woodsville"
+    }
+  ]
+}

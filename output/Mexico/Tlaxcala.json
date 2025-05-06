@@ -1,0 +1,623 @@
+{
+  "id": 5151,
+  "name": "Tlaxcala",
+  "state_code": "TLA",
+  "cities": [
+    {
+      "id": 146946,
+      "name": "Acopinalco del Peñón"
+    },
+    {
+      "id": 146947,
+      "name": "Acuamanala"
+    },
+    {
+      "id": 146948,
+      "name": "Acuitlapilco"
+    },
+    {
+      "id": 146949,
+      "name": "Acxotla del Monte"
+    },
+    {
+      "id": 146950,
+      "name": "Acxotla del Río"
+    },
+    {
+      "id": 146951,
+      "name": "Altzayanca"
+    },
+    {
+      "id": 146952,
+      "name": "Amaxac de Guerrero"
+    },
+    {
+      "id": 146953,
+      "name": "Apetatitlán Antonio Carbajal"
+    },
+    {
+      "id": 146954,
+      "name": "Apizaco"
+    },
+    {
+      "id": 146955,
+      "name": "Atexcatzingo"
+    },
+    {
+      "id": 146956,
+      "name": "Atlangatepec"
+    },
+    {
+      "id": 146957,
+      "name": "Atlzayanca"
+    },
+    {
+      "id": 146958,
+      "name": "Ayometitla"
+    },
+    {
+      "id": 146959,
+      "name": "Belén Atzitzimititlán"
+    },
+    {
+      "id": 146960,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 146961,
+      "name": "Calpulalpan"
+    },
+    {
+      "id": 146962,
+      "name": "Capula"
+    },
+    {
+      "id": 146963,
+      "name": "Ciudad de Nanacamilpa"
+    },
+    {
+      "id": 146964,
+      "name": "Colonia Cuauhtémoc"
+    },
+    {
+      "id": 146965,
+      "name": "Colonia Ignacio Allende"
+    },
+    {
+      "id": 146966,
+      "name": "Colonia San Isidro"
+    },
+    {
+      "id": 146967,
+      "name": "Colonia Venustiano Carranza"
+    },
+    {
+      "id": 146968,
+      "name": "Concepción Chimalpa"
+    },
+    {
+      "id": 146969,
+      "name": "Concepción Hidalgo"
+    },
+    {
+      "id": 146970,
+      "name": "Contla"
+    },
+    {
+      "id": 146971,
+      "name": "Cuapiaxtla"
+    },
+    {
+      "id": 146972,
+      "name": "Cuaxomulco"
+    },
+    {
+      "id": 146973,
+      "name": "El Carmen Aztama"
+    },
+    {
+      "id": 146974,
+      "name": "El Carmen Xalpatlahuaya"
+    },
+    {
+      "id": 146975,
+      "name": "El Rosario"
+    },
+    {
+      "id": 146976,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 146977,
+      "name": "Felipe Carrillo Puerto"
+    },
+    {
+      "id": 146978,
+      "name": "Fraccionamiento la Virgen"
+    },
+    {
+      "id": 146979,
+      "name": "Francisco I. Madero"
+    },
+    {
+      "id": 146980,
+      "name": "Francisco Villa"
+    },
+    {
+      "id": 146981,
+      "name": "Guadalupe Hidalgo"
+    },
+    {
+      "id": 146982,
+      "name": "Guadalupe Texcalac"
+    },
+    {
+      "id": 146983,
+      "name": "Guadalupe Tlachco"
+    },
+    {
+      "id": 146984,
+      "name": "Hualcaltzinco"
+    },
+    {
+      "id": 146985,
+      "name": "Huamantla"
+    },
+    {
+      "id": 146986,
+      "name": "Hueyotlipan"
+    },
+    {
+      "id": 146987,
+      "name": "Huiloapan"
+    },
+    {
+      "id": 146988,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 146989,
+      "name": "Jesús Huitznahuac"
+    },
+    {
+      "id": 146990,
+      "name": "Jesús Tepactepec"
+    },
+    {
+      "id": 146991,
+      "name": "José María Morelos"
+    },
+    {
+      "id": 146992,
+      "name": "La Aurora"
+    },
+    {
+      "id": 146993,
+      "name": "La Candelaria Teotlalpan"
+    },
+    {
+      "id": 146994,
+      "name": "La Magdalena Tlaltelulco"
+    },
+    {
+      "id": 146995,
+      "name": "La Soledad"
+    },
+    {
+      "id": 146996,
+      "name": "La Trinidad Chimalpa"
+    },
+    {
+      "id": 146997,
+      "name": "La Trinidad Tenexyecac"
+    },
+    {
+      "id": 146998,
+      "name": "Lagunilla"
+    },
+    {
+      "id": 146999,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 147000,
+      "name": "Los Pilares"
+    },
+    {
+      "id": 147001,
+      "name": "Los Reyes Quiahuixtlan"
+    },
+    {
+      "id": 147002,
+      "name": "Mazapa"
+    },
+    {
+      "id": 147003,
+      "name": "Mazatecochco"
+    },
+    {
+      "id": 147004,
+      "name": "Muñoz"
+    },
+    {
+      "id": 147005,
+      "name": "Natívitas"
+    },
+    {
+      "id": 147006,
+      "name": "Nicolás Bravo"
+    },
+    {
+      "id": 147007,
+      "name": "Panotla"
+    },
+    {
+      "id": 147008,
+      "name": "Papalotla"
+    },
+    {
+      "id": 147009,
+      "name": "Ranchería de Pocitos"
+    },
+    {
+      "id": 147010,
+      "name": "San Andrés Ahuashuatepec"
+    },
+    {
+      "id": 147011,
+      "name": "San Bartolomé Cuahuixmatlac"
+    },
+    {
+      "id": 147012,
+      "name": "San Bartolomé Tenango"
+    },
+    {
+      "id": 147013,
+      "name": "San Benito Xaltocan"
+    },
+    {
+      "id": 147014,
+      "name": "San Buenaventura Atempan"
+    },
+    {
+      "id": 147015,
+      "name": "San Cosme Atlamaxac"
+    },
+    {
+      "id": 147016,
+      "name": "San Damián Texoloc"
+    },
+    {
+      "id": 147017,
+      "name": "San Esteban Tizatlán"
+    },
+    {
+      "id": 147018,
+      "name": "San Felipe Sultepec"
+    },
+    {
+      "id": 147019,
+      "name": "San Francisco Cuexcontzi"
+    },
+    {
+      "id": 147020,
+      "name": "San Francisco Temetzontla"
+    },
+    {
+      "id": 147021,
+      "name": "San Francisco Tlacuilohcan"
+    },
+    {
+      "id": 147022,
+      "name": "San Hipólito Chimalpa"
+    },
+    {
+      "id": 147023,
+      "name": "San Isidro Buen Suceso"
+    },
+    {
+      "id": 147024,
+      "name": "San Jerónimo Zacualpan"
+    },
+    {
+      "id": 147025,
+      "name": "San Jorge Tezoquipan"
+    },
+    {
+      "id": 147026,
+      "name": "San José Atoyatenco"
+    },
+    {
+      "id": 147027,
+      "name": "San José Aztatla"
+    },
+    {
+      "id": 147028,
+      "name": "San José Cuamantzingo"
+    },
+    {
+      "id": 147029,
+      "name": "San José Teacalco"
+    },
+    {
+      "id": 147030,
+      "name": "San José Tepeyahualco"
+    },
+    {
+      "id": 147031,
+      "name": "San José Tetel"
+    },
+    {
+      "id": 147032,
+      "name": "San José Villarreal"
+    },
+    {
+      "id": 147033,
+      "name": "San José Xicohténcatl"
+    },
+    {
+      "id": 147034,
+      "name": "San Juan Quetzalcoapan"
+    },
+    {
+      "id": 147035,
+      "name": "San Lorenzo Axocomanitla"
+    },
+    {
+      "id": 147036,
+      "name": "San Lorenzo Sóltepec"
+    },
+    {
+      "id": 147037,
+      "name": "San Lorenzo Xaltelulco"
+    },
+    {
+      "id": 147038,
+      "name": "San Lucas Tecopilco"
+    },
+    {
+      "id": 147039,
+      "name": "San Lucas Tlacochcalco"
+    },
+    {
+      "id": 147040,
+      "name": "San Luis Apizaquito"
+    },
+    {
+      "id": 147041,
+      "name": "San Marcos Contla"
+    },
+    {
+      "id": 147042,
+      "name": "San Matías Tepetomatitlán"
+    },
+    {
+      "id": 147043,
+      "name": "San Miguel Contla"
+    },
+    {
+      "id": 147044,
+      "name": "San Miguel Tlamahuco"
+    },
+    {
+      "id": 147045,
+      "name": "San Miguel Xochitecatitla"
+    },
+    {
+      "id": 147046,
+      "name": "San Pedro Ecatepec"
+    },
+    {
+      "id": 147047,
+      "name": "San Pedro Muñoztla"
+    },
+    {
+      "id": 147048,
+      "name": "San Pedro Tlacotepec"
+    },
+    {
+      "id": 147049,
+      "name": "San Pedro Xalcaltzinco"
+    },
+    {
+      "id": 147050,
+      "name": "San Pedro Xochiteotla"
+    },
+    {
+      "id": 147051,
+      "name": "San Rafael Tenanyecac"
+    },
+    {
+      "id": 147052,
+      "name": "San Rafael Tepatlaxco"
+    },
+    {
+      "id": 147053,
+      "name": "San Simeón Xipetzingo"
+    },
+    {
+      "id": 147054,
+      "name": "San Simón Tlatlahuquitepec"
+    },
+    {
+      "id": 147055,
+      "name": "Sanctórum"
+    },
+    {
+      "id": 147056,
+      "name": "Santa Ana Chiautempan"
+    },
+    {
+      "id": 147057,
+      "name": "Santa Anita Huiloac"
+    },
+    {
+      "id": 147058,
+      "name": "Santa Apolonia Teacalco"
+    },
+    {
+      "id": 147059,
+      "name": "Santa Catarina Ayometla"
+    },
+    {
+      "id": 147060,
+      "name": "Santa Cruz Aquiahuac"
+    },
+    {
+      "id": 147061,
+      "name": "Santa Cruz Pocitos"
+    },
+    {
+      "id": 147062,
+      "name": "Santa Cruz Tetela"
+    },
+    {
+      "id": 147063,
+      "name": "Santa Isabel Xiloxoxtla"
+    },
+    {
+      "id": 147064,
+      "name": "Santa Justina Ecatepec"
+    },
+    {
+      "id": 147065,
+      "name": "Santa María Atlihuetzian"
+    },
+    {
+      "id": 147066,
+      "name": "Santa María Ixtulco"
+    },
+    {
+      "id": 147067,
+      "name": "Santa María Texcalac"
+    },
+    {
+      "id": 147068,
+      "name": "Santiago Michac"
+    },
+    {
+      "id": 147069,
+      "name": "Santiago Tepeticpac"
+    },
+    {
+      "id": 147070,
+      "name": "Santiago Tlacochcalco"
+    },
+    {
+      "id": 147071,
+      "name": "Santo Tomás la Concordia"
+    },
+    {
+      "id": 147072,
+      "name": "Tenancingo"
+    },
+    {
+      "id": 147073,
+      "name": "Teolocholco"
+    },
+    {
+      "id": 147074,
+      "name": "Tepetitla"
+    },
+    {
+      "id": 147075,
+      "name": "Tepeyanco"
+    },
+    {
+      "id": 147076,
+      "name": "Terrenate"
+    },
+    {
+      "id": 147077,
+      "name": "Tetla"
+    },
+    {
+      "id": 147078,
+      "name": "Tetlanohcán"
+    },
+    {
+      "id": 147079,
+      "name": "Tlatempan"
+    },
+    {
+      "id": 147080,
+      "name": "Tlaxcala"
+    },
+    {
+      "id": 147081,
+      "name": "Tlaxco"
+    },
+    {
+      "id": 147082,
+      "name": "Tocatlán"
+    },
+    {
+      "id": 147083,
+      "name": "Toluca de Guadalupe"
+    },
+    {
+      "id": 147084,
+      "name": "Topilco de Juárez"
+    },
+    {
+      "id": 147085,
+      "name": "Totolac"
+    },
+    {
+      "id": 147086,
+      "name": "Tzompantepec"
+    },
+    {
+      "id": 147087,
+      "name": "Unión Ejidal Tierra y Libertad"
+    },
+    {
+      "id": 147088,
+      "name": "Villa Alta"
+    },
+    {
+      "id": 147089,
+      "name": "Villa de El Carmen Tequexquitla"
+    },
+    {
+      "id": 147090,
+      "name": "Villa Vicente Guerrero"
+    },
+    {
+      "id": 147091,
+      "name": "Xaltocan"
+    },
+    {
+      "id": 147092,
+      "name": "Xicohtzinco"
+    },
+    {
+      "id": 147093,
+      "name": "Xocoyucan"
+    },
+    {
+      "id": 147094,
+      "name": "Yauhquemehcan"
+    },
+    {
+      "id": 147095,
+      "name": "Zacatelco"
+    },
+    {
+      "id": 147096,
+      "name": "Zaragoza"
+    },
+    {
+      "id": 147097,
+      "name": "Zimatepec"
+    },
+    {
+      "id": 147098,
+      "name": "Zitlaltépec"
+    },
+    {
+      "id": 147099,
+      "name": "Zumpango"
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "id": 3483,
+  "name": "Jihomoravský kraj",
+  "state_code": "64",
+  "cities": [
+    {
+      "id": 94263,
+      "name": "Adamov"
+    },
+    {
+      "id": 94264,
+      "name": "Bílovice nad Svitavou"
+    },
+    {
+      "id": 94265,
+      "name": "Blansko"
+    },
+    {
+      "id": 94266,
+      "name": "Blažovice"
+    },
+    {
+      "id": 94267,
+      "name": "Blížkovice"
+    },
+    {
+      "id": 94268,
+      "name": "Blučina"
+    },
+    {
+      "id": 94269,
+      "name": "Bořetice"
+    },
+    {
+      "id": 94270,
+      "name": "Bořitov"
+    },
+    {
+      "id": 94271,
+      "name": "Boskovice"
+    },
+    {
+      "id": 94272,
+      "name": "Bošovice"
+    },
+    {
+      "id": 94273,
+      "name": "Božice"
+    },
+    {
+      "id": 94274,
+      "name": "Břeclav"
+    },
+    {
+      "id": 94275,
+      "name": "Březí"
+    },
+    {
+      "id": 94276,
+      "name": "Brno"
+    },
+    {
+      "id": 94277,
+      "name": "Bučovice"
+    },
+    {
+      "id": 94278,
+      "name": "Bzenec"
+    },
+    {
+      "id": 94279,
+      "name": "Čebín"
+    },
+    {
+      "id": 94280,
+      "name": "Čejč"
+    },
+    {
+      "id": 94281,
+      "name": "Čejkovice"
+    },
+    {
+      "id": 94282,
+      "name": "Černá Hora"
+    },
+    {
+      "id": 94283,
+      "name": "Dambořice"
+    },
+    {
+      "id": 94284,
+      "name": "Dobšice"
+    },
+    {
+      "id": 94285,
+      "name": "Dolní Bojanovice"
+    },
+    {
+      "id": 94286,
+      "name": "Dolní Dunajovice"
+    },
+    {
+      "id": 94287,
+      "name": "Dolní Kounice"
+    },
+    {
+      "id": 94288,
+      "name": "Dolní Loućky"
+    },
+    {
+      "id": 94289,
+      "name": "Domanín"
+    },
+    {
+      "id": 94290,
+      "name": "Doubravice nad Svitavou"
+    },
+    {
+      "id": 94291,
+      "name": "Drásov"
+    },
+    {
+      "id": 94292,
+      "name": "Drnholec"
+    },
+    {
+      "id": 94293,
+      "name": "Drnovice"
+    },
+    {
+      "id": 94294,
+      "name": "Dubňany"
+    },
+    {
+      "id": 94295,
+      "name": "Hevlín"
+    },
+    {
+      "id": 94296,
+      "name": "Hlohovec"
+    },
+    {
+      "id": 94297,
+      "name": "Hodonice"
+    },
+    {
+      "id": 94298,
+      "name": "Hodonín"
+    },
+    {
+      "id": 94299,
+      "name": "Hostěradice"
+    },
+    {
+      "id": 94300,
+      "name": "Hovorany"
+    },
+    {
+      "id": 94301,
+      "name": "Hroznová Lhota"
+    },
+    {
+      "id": 94302,
+      "name": "Hrušky"
+    },
+    {
+      "id": 94303,
+      "name": "Hrušovany nad Jevišovkou"
+    },
+    {
+      "id": 94304,
+      "name": "Hrušovany u Brna"
+    },
+    {
+      "id": 94305,
+      "name": "Hustopeče"
+    },
+    {
+      "id": 94306,
+      "name": "Ivančice"
+    },
+    {
+      "id": 94307,
+      "name": "Ivanovice na Hané"
+    },
+    {
+      "id": 94308,
+      "name": "Jaroslavice"
+    },
+    {
+      "id": 94309,
+      "name": "Jedovnice"
+    },
+    {
+      "id": 94310,
+      "name": "Jevišovice"
+    },
+    {
+      "id": 94311,
+      "name": "Klobouky"
+    },
+    {
+      "id": 94312,
+      "name": "Kněždub"
+    },
+    {
+      "id": 94313,
+      "name": "Kobylí"
+    },
+    {
+      "id": 94314,
+      "name": "Kostice"
+    },
+    {
+      "id": 94315,
+      "name": "Křenovice"
+    },
+    {
+      "id": 94316,
+      "name": "Křepice"
+    },
+    {
+      "id": 94317,
+      "name": "Krumvíř"
+    },
+    {
+      "id": 94318,
+      "name": "Kunštát"
+    },
+    {
+      "id": 94319,
+      "name": "Kuřim"
+    },
+    {
+      "id": 94320,
+      "name": "Kyjov"
+    },
+    {
+      "id": 94321,
+      "name": "Lanžhot"
+    },
+    {
+      "id": 94322,
+      "name": "Lednice"
+    },
+    {
+      "id": 94323,
+      "name": "Lelekovice"
+    },
+    {
+      "id": 94324,
+      "name": "Letonice"
+    },
+    {
+      "id": 94325,
+      "name": "Letovice"
+    },
+    {
+      "id": 94326,
+      "name": "Lipov"
+    },
+    {
+      "id": 94327,
+      "name": "Lipovec"
+    },
+    {
+      "id": 94328,
+      "name": "Lipůvka"
+    },
+    {
+      "id": 94329,
+      "name": "Lomnice"
+    },
+    {
+      "id": 94330,
+      "name": "Louka"
+    },
+    {
+      "id": 94331,
+      "name": "Lužice"
+    },
+    {
+      "id": 94332,
+      "name": "Lysice"
+    },
+    {
+      "id": 94333,
+      "name": "Měnín"
+    },
+    {
+      "id": 94334,
+      "name": "Město Brno"
+    },
+    {
+      "id": 94335,
+      "name": "Mikulčice"
+    },
+    {
+      "id": 94336,
+      "name": "Mikulov"
+    },
+    {
+      "id": 94337,
+      "name": "Milotice"
+    },
+    {
+      "id": 94338,
+      "name": "Miroslav"
+    },
+    {
+      "id": 94339,
+      "name": "Modřice"
+    },
+    {
+      "id": 94340,
+      "name": "Mokrá Hora"
+    },
+    {
+      "id": 94341,
+      "name": "Moravany"
+    },
+    {
+      "id": 94342,
+      "name": "Moravská Nová Ves"
+    },
+    {
+      "id": 94343,
+      "name": "Moravský Krumlov"
+    },
+    {
+      "id": 94344,
+      "name": "Moravský Písek"
+    },
+    {
+      "id": 94345,
+      "name": "Moravský Žižkov"
+    },
+    {
+      "id": 94346,
+      "name": "Moutnice"
+    },
+    {
+      "id": 94347,
+      "name": "Mutěnice"
+    },
+    {
+      "id": 94348,
+      "name": "Nedvědice"
+    },
+    {
+      "id": 94349,
+      "name": "Nesovice"
+    },
+    {
+      "id": 94350,
+      "name": "Nosislav"
+    },
+    {
+      "id": 94351,
+      "name": "Novosedly"
+    },
+    {
+      "id": 94352,
+      "name": "Okres Blansko"
+    },
+    {
+      "id": 94353,
+      "name": "Okres Břeclav"
+    },
+    {
+      "id": 94354,
+      "name": "Okres Brno-venkov"
+    },
+    {
+      "id": 94355,
+      "name": "Okres Hodonín"
+    },
+    {
+      "id": 94356,
+      "name": "Okres Vyškov"
+    },
+    {
+      "id": 94357,
+      "name": "Okres Znojmo"
+    },
+    {
+      "id": 94358,
+      "name": "Olbramovice"
+    },
+    {
+      "id": 94359,
+      "name": "Olešnice"
+    },
+    {
+      "id": 94360,
+      "name": "Ořechov"
+    },
+    {
+      "id": 94361,
+      "name": "Oslavany"
+    },
+    {
+      "id": 94362,
+      "name": "Ostopovice"
+    },
+    {
+      "id": 94363,
+      "name": "Ostrov u Macochy"
+    },
+    {
+      "id": 94364,
+      "name": "Otnice"
+    },
+    {
+      "id": 94365,
+      "name": "Petrov"
+    },
+    {
+      "id": 94366,
+      "name": "Podivín"
+    },
+    {
+      "id": 94367,
+      "name": "Podolí"
+    },
+    {
+      "id": 94368,
+      "name": "Pohořelice"
+    },
+    {
+      "id": 94369,
+      "name": "Pozořice"
+    },
+    {
+      "id": 94370,
+      "name": "Předklášteří"
+    },
+    {
+      "id": 94371,
+      "name": "Prušánky"
+    },
+    {
+      "id": 94372,
+      "name": "Pustiměř"
+    },
+    {
+      "id": 94373,
+      "name": "Rájec-Jestřebí"
+    },
+    {
+      "id": 94374,
+      "name": "Ráječko"
+    },
+    {
+      "id": 94375,
+      "name": "Rajhrad"
+    },
+    {
+      "id": 94376,
+      "name": "Rajhradice"
+    },
+    {
+      "id": 94377,
+      "name": "Rakvice"
+    },
+    {
+      "id": 94378,
+      "name": "Ratíškovice"
+    },
+    {
+      "id": 94379,
+      "name": "Říčany"
+    },
+    {
+      "id": 94380,
+      "name": "Rohatec"
+    },
+    {
+      "id": 94381,
+      "name": "Rosice"
+    },
+    {
+      "id": 94382,
+      "name": "Rousínov"
+    },
+    {
+      "id": 94383,
+      "name": "Šakvice"
+    },
+    {
+      "id": 94384,
+      "name": "Šanov"
+    },
+    {
+      "id": 94385,
+      "name": "Šardice"
+    },
+    {
+      "id": 94386,
+      "name": "Šatov"
+    },
+    {
+      "id": 94387,
+      "name": "Šitbořice"
+    },
+    {
+      "id": 94388,
+      "name": "Šlapanice"
+    },
+    {
+      "id": 94389,
+      "name": "Slavkov u Brna"
+    },
+    {
+      "id": 94390,
+      "name": "Sokolnice"
+    },
+    {
+      "id": 94391,
+      "name": "Strážnice"
+    },
+    {
+      "id": 94392,
+      "name": "Střelice"
+    },
+    {
+      "id": 94393,
+      "name": "Suchohrdly"
+    },
+    {
+      "id": 94394,
+      "name": "Sudoměřice"
+    },
+    {
+      "id": 94395,
+      "name": "Svitávka"
+    },
+    {
+      "id": 94396,
+      "name": "Tasovice"
+    },
+    {
+      "id": 94397,
+      "name": "Telnice"
+    },
+    {
+      "id": 94398,
+      "name": "Těšany"
+    },
+    {
+      "id": 94399,
+      "name": "Tišnov"
+    },
+    {
+      "id": 94400,
+      "name": "Troubsko"
+    },
+    {
+      "id": 94401,
+      "name": "Tvarožná"
+    },
+    {
+      "id": 94402,
+      "name": "Tvrdonice"
+    },
+    {
+      "id": 94403,
+      "name": "Týnec"
+    },
+    {
+      "id": 94404,
+      "name": "Únanov"
+    },
+    {
+      "id": 94405,
+      "name": "Vacenovice"
+    },
+    {
+      "id": 94406,
+      "name": "Valtice"
+    },
+    {
+      "id": 94407,
+      "name": "Velká nad Veličkou"
+    },
+    {
+      "id": 94408,
+      "name": "Velké Bílovice"
+    },
+    {
+      "id": 94409,
+      "name": "Velké Němčice"
+    },
+    {
+      "id": 94410,
+      "name": "Velké Opatovice"
+    },
+    {
+      "id": 94411,
+      "name": "Velké Pavlovice"
+    },
+    {
+      "id": 94412,
+      "name": "Veselí nad Moravou"
+    },
+    {
+      "id": 94413,
+      "name": "Veverská Bítýška"
+    },
+    {
+      "id": 94414,
+      "name": "Viničné Šumice"
+    },
+    {
+      "id": 94415,
+      "name": "Višňové"
+    },
+    {
+      "id": 94416,
+      "name": "Vlkoš"
+    },
+    {
+      "id": 94417,
+      "name": "Vnorovy"
+    },
+    {
+      "id": 94418,
+      "name": "Vojkovice"
+    },
+    {
+      "id": 94419,
+      "name": "Vracov"
+    },
+    {
+      "id": 94420,
+      "name": "Vranovice"
+    },
+    {
+      "id": 94421,
+      "name": "Vrbice"
+    },
+    {
+      "id": 94422,
+      "name": "Vrbovec"
+    },
+    {
+      "id": 94423,
+      "name": "Vyškov"
+    },
+    {
+      "id": 94424,
+      "name": "Žabčice"
+    },
+    {
+      "id": 94425,
+      "name": "Zaječí"
+    },
+    {
+      "id": 94426,
+      "name": "Zastávka"
+    },
+    {
+      "id": 94427,
+      "name": "Zbraslav"
+    },
+    {
+      "id": 94428,
+      "name": "Zbýšov"
+    },
+    {
+      "id": 94429,
+      "name": "Ždánice"
+    },
+    {
+      "id": 94430,
+      "name": "Želešice"
+    },
+    {
+      "id": 94431,
+      "name": "Žeravice"
+    },
+    {
+      "id": 94432,
+      "name": "Židlochovice"
+    },
+    {
+      "id": 94433,
+      "name": "Znojmo"
+    }
+  ]
+}

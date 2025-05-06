@@ -1,0 +1,711 @@
+{
+  "id": 5829,
+  "name": "Łódź",
+  "state_code": "10",
+  "cities": [
+    {
+      "id": 162316,
+      "name": "Aleksandrów"
+    },
+    {
+      "id": 162317,
+      "name": "Aleksandrów Łódzki"
+    },
+    {
+      "id": 162318,
+      "name": "Andrespol"
+    },
+    {
+      "id": 162319,
+      "name": "Będków"
+    },
+    {
+      "id": 162320,
+      "name": "Bedlno"
+    },
+    {
+      "id": 162321,
+      "name": "Bełchatów"
+    },
+    {
+      "id": 162322,
+      "name": "Biała Rawska"
+    },
+    {
+      "id": 162323,
+      "name": "Białaczów"
+    },
+    {
+      "id": 162324,
+      "name": "Bielawy"
+    },
+    {
+      "id": 162325,
+      "name": "Błaszki"
+    },
+    {
+      "id": 162326,
+      "name": "Bobrowniki"
+    },
+    {
+      "id": 162327,
+      "name": "Bolesławiec"
+    },
+    {
+      "id": 162328,
+      "name": "Bolimów"
+    },
+    {
+      "id": 162329,
+      "name": "Brąszewice"
+    },
+    {
+      "id": 162330,
+      "name": "Brójce"
+    },
+    {
+      "id": 162331,
+      "name": "Brzeziny"
+    },
+    {
+      "id": 162332,
+      "name": "Brzeźnio"
+    },
+    {
+      "id": 162333,
+      "name": "Buczek"
+    },
+    {
+      "id": 162334,
+      "name": "Budziszewice"
+    },
+    {
+      "id": 162335,
+      "name": "Burzenin"
+    },
+    {
+      "id": 162336,
+      "name": "Chąśno"
+    },
+    {
+      "id": 162337,
+      "name": "Cielądz"
+    },
+    {
+      "id": 162338,
+      "name": "Czarnocin"
+    },
+    {
+      "id": 162339,
+      "name": "Czarnożyły"
+    },
+    {
+      "id": 162340,
+      "name": "Czastary"
+    },
+    {
+      "id": 162341,
+      "name": "Czerniewice"
+    },
+    {
+      "id": 162342,
+      "name": "Dąbrowice"
+    },
+    {
+      "id": 162343,
+      "name": "Dalików"
+    },
+    {
+      "id": 162344,
+      "name": "Daszyna"
+    },
+    {
+      "id": 162345,
+      "name": "Dłutów"
+    },
+    {
+      "id": 162346,
+      "name": "Dmosin"
+    },
+    {
+      "id": 162347,
+      "name": "Dobroń"
+    },
+    {
+      "id": 162348,
+      "name": "Domaniewice"
+    },
+    {
+      "id": 162349,
+      "name": "Drużbice"
+    },
+    {
+      "id": 162350,
+      "name": "Drzewica"
+    },
+    {
+      "id": 162351,
+      "name": "Działoszyn"
+    },
+    {
+      "id": 162352,
+      "name": "Galewice"
+    },
+    {
+      "id": 162353,
+      "name": "Gałków Mały"
+    },
+    {
+      "id": 162354,
+      "name": "Gidle"
+    },
+    {
+      "id": 162355,
+      "name": "Głowno"
+    },
+    {
+      "id": 162356,
+      "name": "Głuchów"
+    },
+    {
+      "id": 162357,
+      "name": "Godzianów"
+    },
+    {
+      "id": 162358,
+      "name": "Gomunice"
+    },
+    {
+      "id": 162359,
+      "name": "Góra Świętej Małgorzaty"
+    },
+    {
+      "id": 162360,
+      "name": "Gorzkowice"
+    },
+    {
+      "id": 162361,
+      "name": "Goszczanów"
+    },
+    {
+      "id": 162362,
+      "name": "Grabica"
+    },
+    {
+      "id": 162363,
+      "name": "Grabów"
+    },
+    {
+      "id": 162364,
+      "name": "Inowłódz"
+    },
+    {
+      "id": 162365,
+      "name": "Jeżów"
+    },
+    {
+      "id": 162366,
+      "name": "Kamieńsk"
+    },
+    {
+      "id": 162367,
+      "name": "Kawęczyn Nowy"
+    },
+    {
+      "id": 162368,
+      "name": "Kiernozia"
+    },
+    {
+      "id": 162369,
+      "name": "Kleszczów"
+    },
+    {
+      "id": 162370,
+      "name": "Klonowa"
+    },
+    {
+      "id": 162371,
+      "name": "Kluki"
+    },
+    {
+      "id": 162372,
+      "name": "Kocierzew Południowy"
+    },
+    {
+      "id": 162373,
+      "name": "Koluszki"
+    },
+    {
+      "id": 162374,
+      "name": "Konstantynów Łódzki"
+    },
+    {
+      "id": 162375,
+      "name": "Kowiesy"
+    },
+    {
+      "id": 162376,
+      "name": "Krośniewice"
+    },
+    {
+      "id": 162377,
+      "name": "Krzyżanów"
+    },
+    {
+      "id": 162378,
+      "name": "Ksawerów"
+    },
+    {
+      "id": 162379,
+      "name": "Kutno"
+    },
+    {
+      "id": 162380,
+      "name": "Lgota Wielka"
+    },
+    {
+      "id": 162381,
+      "name": "Lipce Reymontowskie"
+    },
+    {
+      "id": 162382,
+      "name": "Lubochnia"
+    },
+    {
+      "id": 162383,
+      "name": "Lutomiersk"
+    },
+    {
+      "id": 162384,
+      "name": "Lututów"
+    },
+    {
+      "id": 162385,
+      "name": "Łanięta"
+    },
+    {
+      "id": 162386,
+      "name": "Łask"
+    },
+    {
+      "id": 162387,
+      "name": "Łęczyca"
+    },
+    {
+      "id": 162388,
+      "name": "Łęki Szlacheckie"
+    },
+    {
+      "id": 162389,
+      "name": "Łódź"
+    },
+    {
+      "id": 162390,
+      "name": "Łowicz"
+    },
+    {
+      "id": 162391,
+      "name": "Łubnice"
+    },
+    {
+      "id": 162392,
+      "name": "Łyszkowice"
+    },
+    {
+      "id": 162393,
+      "name": "Maków"
+    },
+    {
+      "id": 162394,
+      "name": "Mniszków"
+    },
+    {
+      "id": 162395,
+      "name": "Mokrsko"
+    },
+    {
+      "id": 162396,
+      "name": "Moszczenica"
+    },
+    {
+      "id": 162397,
+      "name": "Nieborów"
+    },
+    {
+      "id": 162398,
+      "name": "Nowe Ostrowy"
+    },
+    {
+      "id": 162399,
+      "name": "Opoczno"
+    },
+    {
+      "id": 162400,
+      "name": "Oporów"
+    },
+    {
+      "id": 162401,
+      "name": "Osjaków"
+    },
+    {
+      "id": 162402,
+      "name": "Ostrowy"
+    },
+    {
+      "id": 162403,
+      "name": "Ożarów"
+    },
+    {
+      "id": 162404,
+      "name": "Ozorków"
+    },
+    {
+      "id": 162405,
+      "name": "Pabianice"
+    },
+    {
+      "id": 162406,
+      "name": "Pajęczno"
+    },
+    {
+      "id": 162407,
+      "name": "Paradyż"
+    },
+    {
+      "id": 162408,
+      "name": "Parzęczew"
+    },
+    {
+      "id": 162409,
+      "name": "Pątnów"
+    },
+    {
+      "id": 162410,
+      "name": "Pęczniew"
+    },
+    {
+      "id": 162411,
+      "name": "Piątek"
+    },
+    {
+      "id": 162412,
+      "name": "Piotrków Trybunalski"
+    },
+    {
+      "id": 162413,
+      "name": "Pławno"
+    },
+    {
+      "id": 162414,
+      "name": "Poddębice"
+    },
+    {
+      "id": 162415,
+      "name": "Poświętne"
+    },
+    {
+      "id": 162416,
+      "name": "Powiat bełchatowski"
+    },
+    {
+      "id": 162417,
+      "name": "Powiat brzeziński"
+    },
+    {
+      "id": 162418,
+      "name": "Powiat kutnowski"
+    },
+    {
+      "id": 162419,
+      "name": "Powiat łaski"
+    },
+    {
+      "id": 162420,
+      "name": "Powiat łęczycki"
+    },
+    {
+      "id": 162421,
+      "name": "Powiat łódzki wschodni"
+    },
+    {
+      "id": 162422,
+      "name": "powiat Łowicki"
+    },
+    {
+      "id": 162423,
+      "name": "Powiat opoczyński"
+    },
+    {
+      "id": 162424,
+      "name": "Powiat pabianicki"
+    },
+    {
+      "id": 162425,
+      "name": "Powiat pajęczański"
+    },
+    {
+      "id": 162426,
+      "name": "Powiat piotrkowski"
+    },
+    {
+      "id": 162427,
+      "name": "Powiat poddębicki"
+    },
+    {
+      "id": 162428,
+      "name": "Powiat radomszczański"
+    },
+    {
+      "id": 162429,
+      "name": "Powiat rawski"
+    },
+    {
+      "id": 162430,
+      "name": "Powiat sieradzki"
+    },
+    {
+      "id": 162431,
+      "name": "Powiat skierniewicki"
+    },
+    {
+      "id": 162432,
+      "name": "Powiat tomaszowski"
+    },
+    {
+      "id": 162433,
+      "name": "Powiat wieluński"
+    },
+    {
+      "id": 162434,
+      "name": "Powiat wieruszowski"
+    },
+    {
+      "id": 162435,
+      "name": "Powiat zduńskowolski"
+    },
+    {
+      "id": 162436,
+      "name": "Powiat zgierski"
+    },
+    {
+      "id": 162437,
+      "name": "Przedbórz"
+    },
+    {
+      "id": 162438,
+      "name": "Radomsko"
+    },
+    {
+      "id": 162439,
+      "name": "Rawa Mazowiecka"
+    },
+    {
+      "id": 162440,
+      "name": "Ręczno"
+    },
+    {
+      "id": 162441,
+      "name": "Regnów"
+    },
+    {
+      "id": 162442,
+      "name": "Rogów"
+    },
+    {
+      "id": 162443,
+      "name": "Rokiciny"
+    },
+    {
+      "id": 162444,
+      "name": "Rokiciny-Kolonia"
+    },
+    {
+      "id": 162445,
+      "name": "Rozprza"
+    },
+    {
+      "id": 162446,
+      "name": "Rusiec"
+    },
+    {
+      "id": 162447,
+      "name": "Rzeczyca"
+    },
+    {
+      "id": 162448,
+      "name": "Rzgów"
+    },
+    {
+      "id": 162449,
+      "name": "Sadkowice"
+    },
+    {
+      "id": 162450,
+      "name": "Sędziejowice"
+    },
+    {
+      "id": 162451,
+      "name": "Siemkowice"
+    },
+    {
+      "id": 162452,
+      "name": "Sieradz"
+    },
+    {
+      "id": 162453,
+      "name": "Skierniewice"
+    },
+    {
+      "id": 162454,
+      "name": "Skomlin"
+    },
+    {
+      "id": 162455,
+      "name": "Sławno"
+    },
+    {
+      "id": 162456,
+      "name": "Słupia"
+    },
+    {
+      "id": 162457,
+      "name": "Sokolniki"
+    },
+    {
+      "id": 162458,
+      "name": "Starowa Góra"
+    },
+    {
+      "id": 162459,
+      "name": "Stryków"
+    },
+    {
+      "id": 162460,
+      "name": "Strzelce"
+    },
+    {
+      "id": 162461,
+      "name": "Strzelce Wielkie"
+    },
+    {
+      "id": 162462,
+      "name": "Sulejów"
+    },
+    {
+      "id": 162463,
+      "name": "Sulmierzyce"
+    },
+    {
+      "id": 162464,
+      "name": "Świnice Warckie"
+    },
+    {
+      "id": 162465,
+      "name": "Szadek"
+    },
+    {
+      "id": 162466,
+      "name": "Szczerców"
+    },
+    {
+      "id": 162467,
+      "name": "Tomaszów Mazowiecki"
+    },
+    {
+      "id": 162468,
+      "name": "Tuszyn"
+    },
+    {
+      "id": 162469,
+      "name": "Ujazd"
+    },
+    {
+      "id": 162470,
+      "name": "Uniejów"
+    },
+    {
+      "id": 162471,
+      "name": "Walichnowy"
+    },
+    {
+      "id": 162472,
+      "name": "Warta"
+    },
+    {
+      "id": 162473,
+      "name": "Wartkowice"
+    },
+    {
+      "id": 162474,
+      "name": "Widawa"
+    },
+    {
+      "id": 162475,
+      "name": "Wieluń"
+    },
+    {
+      "id": 162476,
+      "name": "Wieruszów"
+    },
+    {
+      "id": 162477,
+      "name": "Wierzchlas"
+    },
+    {
+      "id": 162478,
+      "name": "Witonia"
+    },
+    {
+      "id": 162479,
+      "name": "Wodzierady"
+    },
+    {
+      "id": 162480,
+      "name": "Wola Krzysztoporska"
+    },
+    {
+      "id": 162481,
+      "name": "Wolbórz"
+    },
+    {
+      "id": 162482,
+      "name": "Wróblew"
+    },
+    {
+      "id": 162483,
+      "name": "Zadzim"
+    },
+    {
+      "id": 162484,
+      "name": "Zapolice"
+    },
+    {
+      "id": 162485,
+      "name": "Żarnów"
+    },
+    {
+      "id": 162486,
+      "name": "Zduńska Wola"
+    },
+    {
+      "id": 162487,
+      "name": "Żelechlinek"
+    },
+    {
+      "id": 162488,
+      "name": "Zelów"
+    },
+    {
+      "id": 162489,
+      "name": "Zgierz"
+    },
+    {
+      "id": 162490,
+      "name": "Złoczew"
+    },
+    {
+      "id": 162491,
+      "name": "Żychlin"
+    }
+  ]
+}

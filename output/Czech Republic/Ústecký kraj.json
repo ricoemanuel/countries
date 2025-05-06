@@ -1,0 +1,379 @@
+{
+  "id": 3540,
+  "name": "Ústecký kraj",
+  "state_code": "42",
+  "cities": [
+    {
+      "id": 95324,
+      "name": "Bechlín"
+    },
+    {
+      "id": 95325,
+      "name": "Bečov"
+    },
+    {
+      "id": 95326,
+      "name": "Benešov nad Ploučnicí"
+    },
+    {
+      "id": 95327,
+      "name": "Bílina"
+    },
+    {
+      "id": 95328,
+      "name": "Bílina Kyselka"
+    },
+    {
+      "id": 95329,
+      "name": "Bohušovice nad Ohří"
+    },
+    {
+      "id": 95330,
+      "name": "Braňany"
+    },
+    {
+      "id": 95331,
+      "name": "Březno"
+    },
+    {
+      "id": 95332,
+      "name": "Budyně nad Ohří"
+    },
+    {
+      "id": 95333,
+      "name": "Bystřany"
+    },
+    {
+      "id": 95334,
+      "name": "Černčice"
+    },
+    {
+      "id": 95335,
+      "name": "Česká Kamenice"
+    },
+    {
+      "id": 95336,
+      "name": "Chabařovice"
+    },
+    {
+      "id": 95337,
+      "name": "Chlumec"
+    },
+    {
+      "id": 95338,
+      "name": "Chomutov"
+    },
+    {
+      "id": 95339,
+      "name": "Chřibská"
+    },
+    {
+      "id": 95340,
+      "name": "Čížkovice"
+    },
+    {
+      "id": 95341,
+      "name": "Děčín"
+    },
+    {
+      "id": 95342,
+      "name": "Dobroměřice"
+    },
+    {
+      "id": 95343,
+      "name": "Dolní Podluží"
+    },
+    {
+      "id": 95344,
+      "name": "Dolní Poustevna"
+    },
+    {
+      "id": 95345,
+      "name": "Dubí"
+    },
+    {
+      "id": 95346,
+      "name": "Duchcov"
+    },
+    {
+      "id": 95347,
+      "name": "Horní Jiřetín"
+    },
+    {
+      "id": 95348,
+      "name": "Hošťka"
+    },
+    {
+      "id": 95349,
+      "name": "Hostomice"
+    },
+    {
+      "id": 95350,
+      "name": "Hrob"
+    },
+    {
+      "id": 95351,
+      "name": "Jílové"
+    },
+    {
+      "id": 95352,
+      "name": "Jiříkov"
+    },
+    {
+      "id": 95353,
+      "name": "Jirkov"
+    },
+    {
+      "id": 95354,
+      "name": "Kadaň"
+    },
+    {
+      "id": 95355,
+      "name": "Klášterec nad Ohří"
+    },
+    {
+      "id": 95356,
+      "name": "Košťany"
+    },
+    {
+      "id": 95357,
+      "name": "Kovářská"
+    },
+    {
+      "id": 95358,
+      "name": "Krásná Lípa"
+    },
+    {
+      "id": 95359,
+      "name": "Křešice"
+    },
+    {
+      "id": 95360,
+      "name": "Krupka"
+    },
+    {
+      "id": 95361,
+      "name": "Kryry"
+    },
+    {
+      "id": 95362,
+      "name": "Lenešice"
+    },
+    {
+      "id": 95363,
+      "name": "Liběšice"
+    },
+    {
+      "id": 95364,
+      "name": "Libochovice"
+    },
+    {
+      "id": 95365,
+      "name": "Libouchec"
+    },
+    {
+      "id": 95366,
+      "name": "Litoměřice"
+    },
+    {
+      "id": 95367,
+      "name": "Litvínov"
+    },
+    {
+      "id": 95368,
+      "name": "Lom u Mostu"
+    },
+    {
+      "id": 95369,
+      "name": "Louny"
+    },
+    {
+      "id": 95370,
+      "name": "Lovosice"
+    },
+    {
+      "id": 95371,
+      "name": "Lubenec"
+    },
+    {
+      "id": 95372,
+      "name": "Měcholupy"
+    },
+    {
+      "id": 95373,
+      "name": "Meziboři"
+    },
+    {
+      "id": 95374,
+      "name": "Mikulášovice"
+    },
+    {
+      "id": 95375,
+      "name": "Most"
+    },
+    {
+      "id": 95376,
+      "name": "Novosedlice"
+    },
+    {
+      "id": 95377,
+      "name": "Obrnice"
+    },
+    {
+      "id": 95378,
+      "name": "Okres Chomutov"
+    },
+    {
+      "id": 95379,
+      "name": "Okres Děčín"
+    },
+    {
+      "id": 95380,
+      "name": "Okres Litoměřice"
+    },
+    {
+      "id": 95381,
+      "name": "Okres Louny"
+    },
+    {
+      "id": 95382,
+      "name": "Okres Most"
+    },
+    {
+      "id": 95383,
+      "name": "Okres Teplice"
+    },
+    {
+      "id": 95384,
+      "name": "Okres Ústí nad Labem"
+    },
+    {
+      "id": 95385,
+      "name": "Osek"
+    },
+    {
+      "id": 95386,
+      "name": "Perštejn"
+    },
+    {
+      "id": 95387,
+      "name": "Peruc"
+    },
+    {
+      "id": 95388,
+      "name": "Podbořany"
+    },
+    {
+      "id": 95389,
+      "name": "Polepy"
+    },
+    {
+      "id": 95390,
+      "name": "Postoloprty"
+    },
+    {
+      "id": 95391,
+      "name": "Povrly"
+    },
+    {
+      "id": 95392,
+      "name": "Proboštov"
+    },
+    {
+      "id": 95393,
+      "name": "Radonice"
+    },
+    {
+      "id": 95394,
+      "name": "Řehlovice"
+    },
+    {
+      "id": 95395,
+      "name": "Roudnice nad Labem"
+    },
+    {
+      "id": 95396,
+      "name": "Rumburk"
+    },
+    {
+      "id": 95397,
+      "name": "Šluknov"
+    },
+    {
+      "id": 95398,
+      "name": "Staré Křečany"
+    },
+    {
+      "id": 95399,
+      "name": "Štětí"
+    },
+    {
+      "id": 95400,
+      "name": "Teplice"
+    },
+    {
+      "id": 95401,
+      "name": "Terezín"
+    },
+    {
+      "id": 95402,
+      "name": "Třebenice"
+    },
+    {
+      "id": 95403,
+      "name": "Trmice"
+    },
+    {
+      "id": 95404,
+      "name": "Údlice"
+    },
+    {
+      "id": 95405,
+      "name": "Úštěk"
+    },
+    {
+      "id": 95406,
+      "name": "Varnsdorf"
+    },
+    {
+      "id": 95407,
+      "name": "Vejprty"
+    },
+    {
+      "id": 95408,
+      "name": "Velemín"
+    },
+    {
+      "id": 95409,
+      "name": "Velké Březno"
+    },
+    {
+      "id": 95410,
+      "name": "Velký Šenov"
+    },
+    {
+      "id": 95411,
+      "name": "Verneřice"
+    },
+    {
+      "id": 95412,
+      "name": "Vilémov"
+    },
+    {
+      "id": 95413,
+      "name": "Vroutek"
+    },
+    {
+      "id": 95414,
+      "name": "Zabrušany"
+    },
+    {
+      "id": 95415,
+      "name": "Žatec"
+    },
+    {
+      "id": 95416,
+      "name": "Žitenice"
+    }
+  ]
+}

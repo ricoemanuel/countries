@@ -1,0 +1,955 @@
+{
+  "id": 6525,
+  "name": "Cuenca",
+  "state_code": "CU",
+  "cities": [
+    {
+      "id": 184004,
+      "name": "Abia de la Obispalía"
+    },
+    {
+      "id": 184005,
+      "name": "Acebrón El"
+    },
+    {
+      "id": 184006,
+      "name": "Alarcón"
+    },
+    {
+      "id": 184007,
+      "name": "Albaladejo del Cuende"
+    },
+    {
+      "id": 184008,
+      "name": "Albalate de las Nogueras"
+    },
+    {
+      "id": 184009,
+      "name": "Albendea"
+    },
+    {
+      "id": 184010,
+      "name": "Alberca de Záncara La"
+    },
+    {
+      "id": 184011,
+      "name": "Alcalá de la Vega"
+    },
+    {
+      "id": 184012,
+      "name": "Alcantud"
+    },
+    {
+      "id": 184013,
+      "name": "Alcázar del Rey"
+    },
+    {
+      "id": 184014,
+      "name": "Alcohujate"
+    },
+    {
+      "id": 184015,
+      "name": "Alconchel de la Estrella"
+    },
+    {
+      "id": 184016,
+      "name": "Algarra"
+    },
+    {
+      "id": 184017,
+      "name": "Aliaguilla"
+    },
+    {
+      "id": 184018,
+      "name": "Almarcha La"
+    },
+    {
+      "id": 184019,
+      "name": "Almendros"
+    },
+    {
+      "id": 184020,
+      "name": "Almodóvar del Pinar"
+    },
+    {
+      "id": 184021,
+      "name": "Almonacid del Marquesado"
+    },
+    {
+      "id": 184022,
+      "name": "Altarejos"
+    },
+    {
+      "id": 184023,
+      "name": "Arandilla del Arroyo"
+    },
+    {
+      "id": 184024,
+      "name": "Arcas del Villar"
+    },
+    {
+      "id": 184025,
+      "name": "Arcos de la Sierra"
+    },
+    {
+      "id": 184026,
+      "name": "Arguisuelas"
+    },
+    {
+      "id": 184027,
+      "name": "Arrancacepas"
+    },
+    {
+      "id": 184028,
+      "name": "Atalaya del Cañavate"
+    },
+    {
+      "id": 184029,
+      "name": "Barajas de Melo"
+    },
+    {
+      "id": 184030,
+      "name": "Barchín del Hoyo"
+    },
+    {
+      "id": 184031,
+      "name": "Bascuñana de San Pedro"
+    },
+    {
+      "id": 184032,
+      "name": "Beamud"
+    },
+    {
+      "id": 184033,
+      "name": "Belinchón"
+    },
+    {
+      "id": 184034,
+      "name": "Belmonte"
+    },
+    {
+      "id": 184035,
+      "name": "Belmontejo"
+    },
+    {
+      "id": 184036,
+      "name": "Beteta"
+    },
+    {
+      "id": 184037,
+      "name": "Boniches"
+    },
+    {
+      "id": 184038,
+      "name": "Buciegas"
+    },
+    {
+      "id": 184039,
+      "name": "Buenache de Alarcón"
+    },
+    {
+      "id": 184040,
+      "name": "Buenache de la Sierra"
+    },
+    {
+      "id": 184041,
+      "name": "Buendía"
+    },
+    {
+      "id": 184042,
+      "name": "Campillo de Altobuey"
+    },
+    {
+      "id": 184043,
+      "name": "Campillos-Paravientos"
+    },
+    {
+      "id": 184044,
+      "name": "Campillos-Sierra"
+    },
+    {
+      "id": 184045,
+      "name": "Campos del Paraíso"
+    },
+    {
+      "id": 184046,
+      "name": "Cañada del Hoyo"
+    },
+    {
+      "id": 184047,
+      "name": "Cañada Juncosa"
+    },
+    {
+      "id": 184048,
+      "name": "Canalejas del Arroyo"
+    },
+    {
+      "id": 184049,
+      "name": "Cañamares"
+    },
+    {
+      "id": 184050,
+      "name": "Cañavate El"
+    },
+    {
+      "id": 184051,
+      "name": "Cañaveras"
+    },
+    {
+      "id": 184052,
+      "name": "Cañaveruelas"
+    },
+    {
+      "id": 184053,
+      "name": "Cañete"
+    },
+    {
+      "id": 184054,
+      "name": "Cañizares"
+    },
+    {
+      "id": 184055,
+      "name": "Carboneras de Guadazaón"
+    },
+    {
+      "id": 184056,
+      "name": "Cardenete"
+    },
+    {
+      "id": 184057,
+      "name": "Carrascosa"
+    },
+    {
+      "id": 184058,
+      "name": "Carrascosa de Haro"
+    },
+    {
+      "id": 184059,
+      "name": "Casas de Benítez"
+    },
+    {
+      "id": 184060,
+      "name": "Casas de Fernando Alonso"
+    },
+    {
+      "id": 184061,
+      "name": "Casas de Garcimolina"
+    },
+    {
+      "id": 184062,
+      "name": "Casas de Guijarro"
+    },
+    {
+      "id": 184063,
+      "name": "Casas de Haro"
+    },
+    {
+      "id": 184064,
+      "name": "Casas de los Pinos"
+    },
+    {
+      "id": 184065,
+      "name": "Casasimarro"
+    },
+    {
+      "id": 184066,
+      "name": "Castillejo de Iniesta"
+    },
+    {
+      "id": 184067,
+      "name": "Castillejo-Sierra"
+    },
+    {
+      "id": 184068,
+      "name": "Castillo de Garcimuñoz"
+    },
+    {
+      "id": 184069,
+      "name": "Castillo-Albaráñez"
+    },
+    {
+      "id": 184070,
+      "name": "Cervera del Llano"
+    },
+    {
+      "id": 184071,
+      "name": "Chillarón de Cuenca"
+    },
+    {
+      "id": 184072,
+      "name": "Chumillas"
+    },
+    {
+      "id": 184073,
+      "name": "Cierva La"
+    },
+    {
+      "id": 184074,
+      "name": "Cuenca"
+    },
+    {
+      "id": 184075,
+      "name": "Cueva del Hierro"
+    },
+    {
+      "id": 184076,
+      "name": "Enguídanos"
+    },
+    {
+      "id": 184077,
+      "name": "Fresneda de Altarejos"
+    },
+    {
+      "id": 184078,
+      "name": "Fresneda de la Sierra"
+    },
+    {
+      "id": 184079,
+      "name": "Frontera La"
+    },
+    {
+      "id": 184080,
+      "name": "Fuente de Pedro Naharro"
+    },
+    {
+      "id": 184081,
+      "name": "Fuentelespino de Haro"
+    },
+    {
+      "id": 184082,
+      "name": "Fuentelespino de Moya"
+    },
+    {
+      "id": 184083,
+      "name": "Fuentenava de Jábaga"
+    },
+    {
+      "id": 184084,
+      "name": "Fuentes"
+    },
+    {
+      "id": 184085,
+      "name": "Fuertescusa"
+    },
+    {
+      "id": 184086,
+      "name": "Gabaldón"
+    },
+    {
+      "id": 184087,
+      "name": "Garaballa"
+    },
+    {
+      "id": 184088,
+      "name": "Gascueña"
+    },
+    {
+      "id": 184089,
+      "name": "Graja de Campalbo"
+    },
+    {
+      "id": 184090,
+      "name": "Graja de Iniesta"
+    },
+    {
+      "id": 184091,
+      "name": "Henarejos"
+    },
+    {
+      "id": 184092,
+      "name": "Herrumblar El"
+    },
+    {
+      "id": 184093,
+      "name": "Hinojosa La"
+    },
+    {
+      "id": 184094,
+      "name": "Hinojosos Los"
+    },
+    {
+      "id": 184095,
+      "name": "Hito El"
+    },
+    {
+      "id": 184096,
+      "name": "Honrubia"
+    },
+    {
+      "id": 184097,
+      "name": "Hontanaya"
+    },
+    {
+      "id": 184098,
+      "name": "Hontecillas"
+    },
+    {
+      "id": 184099,
+      "name": "Horcajo de Santiago"
+    },
+    {
+      "id": 184100,
+      "name": "Huélamo"
+    },
+    {
+      "id": 184101,
+      "name": "Huelves"
+    },
+    {
+      "id": 184102,
+      "name": "Huérguina"
+    },
+    {
+      "id": 184103,
+      "name": "Huerta de la Obispalía"
+    },
+    {
+      "id": 184104,
+      "name": "Huerta del Marquesado"
+    },
+    {
+      "id": 184105,
+      "name": "Huete"
+    },
+    {
+      "id": 184106,
+      "name": "Iniesta"
+    },
+    {
+      "id": 184107,
+      "name": "Laguna del Marquesado"
+    },
+    {
+      "id": 184108,
+      "name": "Lagunaseca"
+    },
+    {
+      "id": 184109,
+      "name": "Landete"
+    },
+    {
+      "id": 184110,
+      "name": "Ledaña"
+    },
+    {
+      "id": 184111,
+      "name": "Leganiel"
+    },
+    {
+      "id": 184112,
+      "name": "Majadas Las"
+    },
+    {
+      "id": 184113,
+      "name": "Mariana"
+    },
+    {
+      "id": 184114,
+      "name": "Masegosa"
+    },
+    {
+      "id": 184115,
+      "name": "Mesas Las"
+    },
+    {
+      "id": 184116,
+      "name": "Minglanilla"
+    },
+    {
+      "id": 184117,
+      "name": "Mira"
+    },
+    {
+      "id": 184118,
+      "name": "Monreal del Llano"
+    },
+    {
+      "id": 184119,
+      "name": "Montalbanejo"
+    },
+    {
+      "id": 184120,
+      "name": "Montalbo"
+    },
+    {
+      "id": 184121,
+      "name": "Monteagudo de las Salinas"
+    },
+    {
+      "id": 184122,
+      "name": "Mota de Altarejos"
+    },
+    {
+      "id": 184123,
+      "name": "Mota del Cuervo"
+    },
+    {
+      "id": 184124,
+      "name": "Motilla del Palancar"
+    },
+    {
+      "id": 184125,
+      "name": "Moya"
+    },
+    {
+      "id": 184126,
+      "name": "Narboneta"
+    },
+    {
+      "id": 184127,
+      "name": "Olivares de Júcar"
+    },
+    {
+      "id": 184128,
+      "name": "Olmeda de la Cuesta"
+    },
+    {
+      "id": 184129,
+      "name": "Olmeda del Rey"
+    },
+    {
+      "id": 184130,
+      "name": "Olmedilla de Alarcón"
+    },
+    {
+      "id": 184131,
+      "name": "Olmedilla de Eliz"
+    },
+    {
+      "id": 184132,
+      "name": "Osa de la Vega"
+    },
+    {
+      "id": 184133,
+      "name": "Pajarón"
+    },
+    {
+      "id": 184134,
+      "name": "Pajaroncillo"
+    },
+    {
+      "id": 184135,
+      "name": "Palomares del Campo"
+    },
+    {
+      "id": 184136,
+      "name": "Palomera"
+    },
+    {
+      "id": 184137,
+      "name": "Paracuellos"
+    },
+    {
+      "id": 184138,
+      "name": "Paredes"
+    },
+    {
+      "id": 184139,
+      "name": "Parra de las Vegas La"
+    },
+    {
+      "id": 184140,
+      "name": "Pedernoso El"
+    },
+    {
+      "id": 184141,
+      "name": "Pedroñeras Las"
+    },
+    {
+      "id": 184142,
+      "name": "Peral El"
+    },
+    {
+      "id": 184143,
+      "name": "Peraleja La"
+    },
+    {
+      "id": 184144,
+      "name": "Pesquera La"
+    },
+    {
+      "id": 184145,
+      "name": "Picazo El"
+    },
+    {
+      "id": 184146,
+      "name": "Pinarejo"
+    },
+    {
+      "id": 184147,
+      "name": "Pineda de Gigüela"
+    },
+    {
+      "id": 184148,
+      "name": "Piqueras del Castillo"
+    },
+    {
+      "id": 184149,
+      "name": "Portalrubio de Guadamejud"
+    },
+    {
+      "id": 184150,
+      "name": "Portilla"
+    },
+    {
+      "id": 184151,
+      "name": "Poyatos"
+    },
+    {
+      "id": 184152,
+      "name": "Pozoamargo"
+    },
+    {
+      "id": 184153,
+      "name": "Pozorrubielos de la Mancha"
+    },
+    {
+      "id": 184154,
+      "name": "Pozorrubio"
+    },
+    {
+      "id": 184155,
+      "name": "Pozuelo El"
+    },
+    {
+      "id": 184156,
+      "name": "Priego"
+    },
+    {
+      "id": 184157,
+      "name": "Provencio El"
+    },
+    {
+      "id": 184158,
+      "name": "Puebla de Almenara"
+    },
+    {
+      "id": 184159,
+      "name": "Puebla del Salvador"
+    },
+    {
+      "id": 184160,
+      "name": "Quintanar del Rey"
+    },
+    {
+      "id": 184161,
+      "name": "Rada de Haro"
+    },
+    {
+      "id": 184162,
+      "name": "Reíllo"
+    },
+    {
+      "id": 184163,
+      "name": "Rozalén del Monte"
+    },
+    {
+      "id": 184164,
+      "name": "Saceda-Trasierra"
+    },
+    {
+      "id": 184165,
+      "name": "Saelices"
+    },
+    {
+      "id": 184166,
+      "name": "Salinas del Manzano"
+    },
+    {
+      "id": 184167,
+      "name": "Salmeroncillos"
+    },
+    {
+      "id": 184168,
+      "name": "Salvacañete"
+    },
+    {
+      "id": 184169,
+      "name": "San Clemente"
+    },
+    {
+      "id": 184170,
+      "name": "San Lorenzo de la Parrilla"
+    },
+    {
+      "id": 184171,
+      "name": "San Martín de Boniches"
+    },
+    {
+      "id": 184172,
+      "name": "San Pedro Palmiches"
+    },
+    {
+      "id": 184173,
+      "name": "Santa Cruz de Moya"
+    },
+    {
+      "id": 184174,
+      "name": "Santa María de los Llanos"
+    },
+    {
+      "id": 184175,
+      "name": "Santa María del Campo Rus"
+    },
+    {
+      "id": 184176,
+      "name": "Santa María del Val"
+    },
+    {
+      "id": 184177,
+      "name": "Sisante"
+    },
+    {
+      "id": 184178,
+      "name": "Solera de Gabaldón"
+    },
+    {
+      "id": 184179,
+      "name": "Sotorribas"
+    },
+    {
+      "id": 184180,
+      "name": "Talayuelas"
+    },
+    {
+      "id": 184181,
+      "name": "Tarancón"
+    },
+    {
+      "id": 184182,
+      "name": "Tébar"
+    },
+    {
+      "id": 184183,
+      "name": "Tejadillos"
+    },
+    {
+      "id": 184184,
+      "name": "Tinajas"
+    },
+    {
+      "id": 184185,
+      "name": "Torralba"
+    },
+    {
+      "id": 184186,
+      "name": "Torrejoncillo del Rey"
+    },
+    {
+      "id": 184187,
+      "name": "Torrubia del Campo"
+    },
+    {
+      "id": 184188,
+      "name": "Torrubia del Castillo"
+    },
+    {
+      "id": 184189,
+      "name": "Tragacete"
+    },
+    {
+      "id": 184190,
+      "name": "Tresjuncos"
+    },
+    {
+      "id": 184191,
+      "name": "Tribaldos"
+    },
+    {
+      "id": 184192,
+      "name": "Uclés"
+    },
+    {
+      "id": 184193,
+      "name": "Uña"
+    },
+    {
+      "id": 184194,
+      "name": "Valdecolmenas Los"
+    },
+    {
+      "id": 184195,
+      "name": "Valdemeca"
+    },
+    {
+      "id": 184196,
+      "name": "Valdemorillo de la Sierra"
+    },
+    {
+      "id": 184197,
+      "name": "Valdemoro-Sierra"
+    },
+    {
+      "id": 184198,
+      "name": "Valdeolivas"
+    },
+    {
+      "id": 184199,
+      "name": "Valdetórtola"
+    },
+    {
+      "id": 184200,
+      "name": "Valeras Las"
+    },
+    {
+      "id": 184201,
+      "name": "Valhermoso de la Fuente"
+    },
+    {
+      "id": 184202,
+      "name": "Valle de Altomira El"
+    },
+    {
+      "id": 184203,
+      "name": "Valsalobre"
+    },
+    {
+      "id": 184204,
+      "name": "Valverde de Júcar"
+    },
+    {
+      "id": 184205,
+      "name": "Valverdejo"
+    },
+    {
+      "id": 184206,
+      "name": "Vara de Rey"
+    },
+    {
+      "id": 184207,
+      "name": "Vega del Codorno"
+    },
+    {
+      "id": 184208,
+      "name": "Vellisca"
+    },
+    {
+      "id": 184209,
+      "name": "Villaconejos de Trabaque"
+    },
+    {
+      "id": 184210,
+      "name": "Villaescusa de Haro"
+    },
+    {
+      "id": 184211,
+      "name": "Villagarcía del Llano"
+    },
+    {
+      "id": 184212,
+      "name": "Villalba de la Sierra"
+    },
+    {
+      "id": 184213,
+      "name": "Villalba del Rey"
+    },
+    {
+      "id": 184214,
+      "name": "Villalgordo del Marquesado"
+    },
+    {
+      "id": 184215,
+      "name": "Villalpardo"
+    },
+    {
+      "id": 184216,
+      "name": "Villamayor de Santiago"
+    },
+    {
+      "id": 184217,
+      "name": "Villanueva de Guadamejud"
+    },
+    {
+      "id": 184218,
+      "name": "Villanueva de la Jara"
+    },
+    {
+      "id": 184219,
+      "name": "Villar de Cañas"
+    },
+    {
+      "id": 184220,
+      "name": "Villar de Domingo García"
+    },
+    {
+      "id": 184221,
+      "name": "Villar de la Encina"
+    },
+    {
+      "id": 184222,
+      "name": "Villar de Olalla"
+    },
+    {
+      "id": 184223,
+      "name": "Villar del Humo"
+    },
+    {
+      "id": 184224,
+      "name": "Villar del Infantado"
+    },
+    {
+      "id": 184225,
+      "name": "Villar y Velasco"
+    },
+    {
+      "id": 184226,
+      "name": "Villarejo de Fuentes"
+    },
+    {
+      "id": 184227,
+      "name": "Villarejo de la Peñuela"
+    },
+    {
+      "id": 184228,
+      "name": "Villarejo-Periesteban"
+    },
+    {
+      "id": 184229,
+      "name": "Villares del Saz"
+    },
+    {
+      "id": 184230,
+      "name": "Villarrubio"
+    },
+    {
+      "id": 184231,
+      "name": "Villarta"
+    },
+    {
+      "id": 184232,
+      "name": "Villas de la Ventosa"
+    },
+    {
+      "id": 184233,
+      "name": "Villaverde y Pasaconsol"
+    },
+    {
+      "id": 184234,
+      "name": "Víllora"
+    },
+    {
+      "id": 184235,
+      "name": "Vindel"
+    },
+    {
+      "id": 184236,
+      "name": "Yémeda"
+    },
+    {
+      "id": 184237,
+      "name": "Zafra de Záncara"
+    },
+    {
+      "id": 184238,
+      "name": "Zafrilla"
+    },
+    {
+      "id": 184239,
+      "name": "Zarza de Tajo"
+    },
+    {
+      "id": 184240,
+      "name": "Zarzuela"
+    }
+  ]
+}

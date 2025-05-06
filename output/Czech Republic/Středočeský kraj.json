@@ -1,0 +1,771 @@
+{
+  "id": 3531,
+  "name": "Středočeský kraj",
+  "state_code": "20",
+  "cities": [
+    {
+      "id": 95133,
+      "name": "Bakov nad Jizerou"
+    },
+    {
+      "id": 95134,
+      "name": "Bělá pod Bezdězem"
+    },
+    {
+      "id": 95135,
+      "name": "Benátky nad Jizerou"
+    },
+    {
+      "id": 95136,
+      "name": "Benešov"
+    },
+    {
+      "id": 95137,
+      "name": "Beroun"
+    },
+    {
+      "id": 95138,
+      "name": "Bohutín"
+    },
+    {
+      "id": 95139,
+      "name": "Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "id": 95140,
+      "name": "Brandýsek"
+    },
+    {
+      "id": 95141,
+      "name": "Březnice"
+    },
+    {
+      "id": 95142,
+      "name": "Buštěhrad"
+    },
+    {
+      "id": 95143,
+      "name": "Byšice"
+    },
+    {
+      "id": 95144,
+      "name": "Bystřice"
+    },
+    {
+      "id": 95145,
+      "name": "Čáslav"
+    },
+    {
+      "id": 95146,
+      "name": "Čechtice"
+    },
+    {
+      "id": 95147,
+      "name": "Čelákovice"
+    },
+    {
+      "id": 95148,
+      "name": "Čerčany"
+    },
+    {
+      "id": 95149,
+      "name": "Cerhenice"
+    },
+    {
+      "id": 95150,
+      "name": "Černošice"
+    },
+    {
+      "id": 95151,
+      "name": "Červené Pečky"
+    },
+    {
+      "id": 95152,
+      "name": "Český Brod"
+    },
+    {
+      "id": 95153,
+      "name": "Chyňava"
+    },
+    {
+      "id": 95154,
+      "name": "Církvice"
+    },
+    {
+      "id": 95155,
+      "name": "Cítov"
+    },
+    {
+      "id": 95156,
+      "name": "Davle"
+    },
+    {
+      "id": 95157,
+      "name": "Divišov"
+    },
+    {
+      "id": 95158,
+      "name": "Dobřichovice"
+    },
+    {
+      "id": 95159,
+      "name": "Dobříš"
+    },
+    {
+      "id": 95160,
+      "name": "Dobrovice"
+    },
+    {
+      "id": 95161,
+      "name": "Doksy"
+    },
+    {
+      "id": 95162,
+      "name": "Dolní Beřkovice"
+    },
+    {
+      "id": 95163,
+      "name": "Dolní Bousov"
+    },
+    {
+      "id": 95164,
+      "name": "Dolní Břežany"
+    },
+    {
+      "id": 95165,
+      "name": "Horní Počaply"
+    },
+    {
+      "id": 95166,
+      "name": "Horoměřice"
+    },
+    {
+      "id": 95167,
+      "name": "Hořovice"
+    },
+    {
+      "id": 95168,
+      "name": "Hostivice"
+    },
+    {
+      "id": 95169,
+      "name": "Hostomice"
+    },
+    {
+      "id": 95170,
+      "name": "Hovorčovice"
+    },
+    {
+      "id": 95171,
+      "name": "Hradištko"
+    },
+    {
+      "id": 95172,
+      "name": "Hřebeč"
+    },
+    {
+      "id": 95173,
+      "name": "Hudlice"
+    },
+    {
+      "id": 95174,
+      "name": "Hýskov"
+    },
+    {
+      "id": 95175,
+      "name": "Jeneč"
+    },
+    {
+      "id": 95176,
+      "name": "Jesenice"
+    },
+    {
+      "id": 95177,
+      "name": "Jílové u Prahy"
+    },
+    {
+      "id": 95178,
+      "name": "Jince"
+    },
+    {
+      "id": 95179,
+      "name": "Jirny"
+    },
+    {
+      "id": 95180,
+      "name": "Kačice"
+    },
+    {
+      "id": 95181,
+      "name": "Kamenice"
+    },
+    {
+      "id": 95182,
+      "name": "Kamenné Žehrovice"
+    },
+    {
+      "id": 95183,
+      "name": "Kamenný Přívoz"
+    },
+    {
+      "id": 95184,
+      "name": "Kladno"
+    },
+    {
+      "id": 95185,
+      "name": "Klecany"
+    },
+    {
+      "id": 95186,
+      "name": "Klobuky"
+    },
+    {
+      "id": 95187,
+      "name": "Kněžmost"
+    },
+    {
+      "id": 95188,
+      "name": "Kolín"
+    },
+    {
+      "id": 95189,
+      "name": "Komárov"
+    },
+    {
+      "id": 95190,
+      "name": "Kosmonosy"
+    },
+    {
+      "id": 95191,
+      "name": "Kosova Hora"
+    },
+    {
+      "id": 95192,
+      "name": "Kostelec nad Černými Lesy"
+    },
+    {
+      "id": 95193,
+      "name": "Kostelec nad Labem"
+    },
+    {
+      "id": 95194,
+      "name": "Kouřim"
+    },
+    {
+      "id": 95195,
+      "name": "Kralupy nad Vltavou"
+    },
+    {
+      "id": 95196,
+      "name": "Králův Dvůr"
+    },
+    {
+      "id": 95197,
+      "name": "Krásná Hora nad Vltavou"
+    },
+    {
+      "id": 95198,
+      "name": "Křinec"
+    },
+    {
+      "id": 95199,
+      "name": "Kutná Hora"
+    },
+    {
+      "id": 95200,
+      "name": "Lány"
+    },
+    {
+      "id": 95201,
+      "name": "Libčice nad Vltavou"
+    },
+    {
+      "id": 95202,
+      "name": "Líbeznice"
+    },
+    {
+      "id": 95203,
+      "name": "Libice nad Cidlinou"
+    },
+    {
+      "id": 95204,
+      "name": "Libiš"
+    },
+    {
+      "id": 95205,
+      "name": "Libušín"
+    },
+    {
+      "id": 95206,
+      "name": "Lochovice"
+    },
+    {
+      "id": 95207,
+      "name": "Loděnice"
+    },
+    {
+      "id": 95208,
+      "name": "Loučeň"
+    },
+    {
+      "id": 95209,
+      "name": "Luštěnice"
+    },
+    {
+      "id": 95210,
+      "name": "Lužec nad Vltavou"
+    },
+    {
+      "id": 95211,
+      "name": "Lužná"
+    },
+    {
+      "id": 95212,
+      "name": "Lysá nad Labem"
+    },
+    {
+      "id": 95213,
+      "name": "Mělník"
+    },
+    {
+      "id": 95214,
+      "name": "Měšice"
+    },
+    {
+      "id": 95215,
+      "name": "Městec Králové"
+    },
+    {
+      "id": 95216,
+      "name": "Milín"
+    },
+    {
+      "id": 95217,
+      "name": "Milovice"
+    },
+    {
+      "id": 95218,
+      "name": "Mladá Boleslav"
+    },
+    {
+      "id": 95219,
+      "name": "Mnichovice"
+    },
+    {
+      "id": 95220,
+      "name": "Mnichovo Hradiště"
+    },
+    {
+      "id": 95221,
+      "name": "Mníšek pod Brdy"
+    },
+    {
+      "id": 95222,
+      "name": "Mšeno"
+    },
+    {
+      "id": 95223,
+      "name": "Mukařov"
+    },
+    {
+      "id": 95224,
+      "name": "Načeradec"
+    },
+    {
+      "id": 95225,
+      "name": "Nehvizdy"
+    },
+    {
+      "id": 95226,
+      "name": "Nelahozeves"
+    },
+    {
+      "id": 95227,
+      "name": "Neratovice"
+    },
+    {
+      "id": 95228,
+      "name": "Netvořice"
+    },
+    {
+      "id": 95229,
+      "name": "Neveklov"
+    },
+    {
+      "id": 95230,
+      "name": "Nižbor"
+    },
+    {
+      "id": 95231,
+      "name": "Nové Strašecí"
+    },
+    {
+      "id": 95232,
+      "name": "Nový Knín"
+    },
+    {
+      "id": 95233,
+      "name": "Nymburk"
+    },
+    {
+      "id": 95234,
+      "name": "Obecnice"
+    },
+    {
+      "id": 95235,
+      "name": "Odolena Voda"
+    },
+    {
+      "id": 95236,
+      "name": "Okres Benešov"
+    },
+    {
+      "id": 95237,
+      "name": "Okres Beroun"
+    },
+    {
+      "id": 95238,
+      "name": "Okres Kladno"
+    },
+    {
+      "id": 95239,
+      "name": "Okres Kolín"
+    },
+    {
+      "id": 95240,
+      "name": "Okres Kutná Hora"
+    },
+    {
+      "id": 95241,
+      "name": "Okres Mělník"
+    },
+    {
+      "id": 95242,
+      "name": "Okres Mladá Boleslav"
+    },
+    {
+      "id": 95243,
+      "name": "Okres Nymburk"
+    },
+    {
+      "id": 95244,
+      "name": "Okres Praha-východ"
+    },
+    {
+      "id": 95245,
+      "name": "Okres Praha-západ"
+    },
+    {
+      "id": 95246,
+      "name": "Okres Příbram"
+    },
+    {
+      "id": 95247,
+      "name": "Okres Rakovník"
+    },
+    {
+      "id": 95248,
+      "name": "Ondřejov"
+    },
+    {
+      "id": 95249,
+      "name": "Pavlíkov"
+    },
+    {
+      "id": 95250,
+      "name": "Pchery"
+    },
+    {
+      "id": 95251,
+      "name": "Pečky"
+    },
+    {
+      "id": 95252,
+      "name": "Petrovice"
+    },
+    {
+      "id": 95253,
+      "name": "Plaňany"
+    },
+    {
+      "id": 95254,
+      "name": "Poděbrady"
+    },
+    {
+      "id": 95255,
+      "name": "Poříčany"
+    },
+    {
+      "id": 95256,
+      "name": "Poříčí nad Sázavou"
+    },
+    {
+      "id": 95257,
+      "name": "Postupice"
+    },
+    {
+      "id": 95258,
+      "name": "Přerov nad Labem"
+    },
+    {
+      "id": 95259,
+      "name": "Příbram"
+    },
+    {
+      "id": 95260,
+      "name": "Průhonice"
+    },
+    {
+      "id": 95261,
+      "name": "Psáry"
+    },
+    {
+      "id": 95262,
+      "name": "Pyšely"
+    },
+    {
+      "id": 95263,
+      "name": "Rakovník"
+    },
+    {
+      "id": 95264,
+      "name": "Řevnice"
+    },
+    {
+      "id": 95265,
+      "name": "Řevničov"
+    },
+    {
+      "id": 95266,
+      "name": "Řež"
+    },
+    {
+      "id": 95267,
+      "name": "Říčany"
+    },
+    {
+      "id": 95268,
+      "name": "Rožďalovice"
+    },
+    {
+      "id": 95269,
+      "name": "Rožmitál pod Třemšínem"
+    },
+    {
+      "id": 95270,
+      "name": "Roztoky"
+    },
+    {
+      "id": 95271,
+      "name": "Rudná"
+    },
+    {
+      "id": 95272,
+      "name": "Sadská"
+    },
+    {
+      "id": 95273,
+      "name": "Sázava"
+    },
+    {
+      "id": 95274,
+      "name": "Sedlčany"
+    },
+    {
+      "id": 95275,
+      "name": "Sedlec"
+    },
+    {
+      "id": 95276,
+      "name": "Šestajovice"
+    },
+    {
+      "id": 95277,
+      "name": "Slaný"
+    },
+    {
+      "id": 95278,
+      "name": "Smečno"
+    },
+    {
+      "id": 95279,
+      "name": "Stará Huť"
+    },
+    {
+      "id": 95280,
+      "name": "Starý Kolín"
+    },
+    {
+      "id": 95281,
+      "name": "Štěchovice"
+    },
+    {
+      "id": 95282,
+      "name": "Stochov"
+    },
+    {
+      "id": 95283,
+      "name": "Strančice"
+    },
+    {
+      "id": 95284,
+      "name": "Suchdol"
+    },
+    {
+      "id": 95285,
+      "name": "Tišice"
+    },
+    {
+      "id": 95286,
+      "name": "Třebotov"
+    },
+    {
+      "id": 95287,
+      "name": "Trhový Štěpánov"
+    },
+    {
+      "id": 95288,
+      "name": "Tuchlovice"
+    },
+    {
+      "id": 95289,
+      "name": "Tuchoměřice"
+    },
+    {
+      "id": 95290,
+      "name": "Týnec nad Labem"
+    },
+    {
+      "id": 95291,
+      "name": "Týnec nad Sázavou"
+    },
+    {
+      "id": 95292,
+      "name": "Uhlířské Janovice"
+    },
+    {
+      "id": 95293,
+      "name": "Unhošť"
+    },
+    {
+      "id": 95294,
+      "name": "Úvaly"
+    },
+    {
+      "id": 95295,
+      "name": "Velim"
+    },
+    {
+      "id": 95296,
+      "name": "Velká Dobrá"
+    },
+    {
+      "id": 95297,
+      "name": "Velké Popovice"
+    },
+    {
+      "id": 95298,
+      "name": "Velké Přílepy"
+    },
+    {
+      "id": 95299,
+      "name": "Velký Osek"
+    },
+    {
+      "id": 95300,
+      "name": "Veltruby"
+    },
+    {
+      "id": 95301,
+      "name": "Veltrusy"
+    },
+    {
+      "id": 95302,
+      "name": "Velvary"
+    },
+    {
+      "id": 95303,
+      "name": "Vestec"
+    },
+    {
+      "id": 95304,
+      "name": "Vinařice"
+    },
+    {
+      "id": 95305,
+      "name": "Vlašim"
+    },
+    {
+      "id": 95306,
+      "name": "Votice"
+    },
+    {
+      "id": 95307,
+      "name": "Vrané nad Vltavou"
+    },
+    {
+      "id": 95308,
+      "name": "Vrdy"
+    },
+    {
+      "id": 95309,
+      "name": "Všenory"
+    },
+    {
+      "id": 95310,
+      "name": "Všetaty"
+    },
+    {
+      "id": 95311,
+      "name": "Zaječov"
+    },
+    {
+      "id": 95312,
+      "name": "Zásmuky"
+    },
+    {
+      "id": 95313,
+      "name": "Zbraslavice"
+    },
+    {
+      "id": 95314,
+      "name": "Žďár"
+    },
+    {
+      "id": 95315,
+      "name": "Zdiby"
+    },
+    {
+      "id": 95316,
+      "name": "Zdice"
+    },
+    {
+      "id": 95317,
+      "name": "Žebrák"
+    },
+    {
+      "id": 95318,
+      "name": "Zeleneč"
+    },
+    {
+      "id": 95319,
+      "name": "Žiželice"
+    },
+    {
+      "id": 95320,
+      "name": "Žleby"
+    },
+    {
+      "id": 95321,
+      "name": "Zlonice"
+    },
+    {
+      "id": 95322,
+      "name": "Zruč nad Sázavou"
+    },
+    {
+      "id": 95323,
+      "name": "Zvole"
+    }
+  ]
+}

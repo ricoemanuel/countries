@@ -1,0 +1,999 @@
+{
+  "id": 2948,
+  "name": "Wallonia",
+  "state_code": "WAL",
+  "cities": [
+    {
+      "id": 81486,
+      "name": "Aiseau"
+    },
+    {
+      "id": 81487,
+      "name": "Amay"
+    },
+    {
+      "id": 81488,
+      "name": "Amblève"
+    },
+    {
+      "id": 81489,
+      "name": "Andenne"
+    },
+    {
+      "id": 81490,
+      "name": "Anderlues"
+    },
+    {
+      "id": 81491,
+      "name": "Anhée"
+    },
+    {
+      "id": 81492,
+      "name": "Ans"
+    },
+    {
+      "id": 81493,
+      "name": "Anthisnes"
+    },
+    {
+      "id": 81494,
+      "name": "Antoing"
+    },
+    {
+      "id": 81495,
+      "name": "Arlon"
+    },
+    {
+      "id": 81496,
+      "name": "Assesse"
+    },
+    {
+      "id": 81497,
+      "name": "Ath"
+    },
+    {
+      "id": 81498,
+      "name": "Attert"
+    },
+    {
+      "id": 81499,
+      "name": "Aubange"
+    },
+    {
+      "id": 81500,
+      "name": "Aubel"
+    },
+    {
+      "id": 81501,
+      "name": "Awans"
+    },
+    {
+      "id": 81502,
+      "name": "Aywaille"
+    },
+    {
+      "id": 81503,
+      "name": "Baelen"
+    },
+    {
+      "id": 81504,
+      "name": "Basse Lasne"
+    },
+    {
+      "id": 81505,
+      "name": "Bassenge"
+    },
+    {
+      "id": 81506,
+      "name": "Bastogne"
+    },
+    {
+      "id": 81507,
+      "name": "Beaumont"
+    },
+    {
+      "id": 81508,
+      "name": "Beauraing"
+    },
+    {
+      "id": 81509,
+      "name": "Beauvechain"
+    },
+    {
+      "id": 81510,
+      "name": "Beloeil"
+    },
+    {
+      "id": 81511,
+      "name": "Berloz"
+    },
+    {
+      "id": 81512,
+      "name": "Bernissart"
+    },
+    {
+      "id": 81513,
+      "name": "Bertogne"
+    },
+    {
+      "id": 81514,
+      "name": "Bertrix"
+    },
+    {
+      "id": 81515,
+      "name": "Beyne-Heusay"
+    },
+    {
+      "id": 81516,
+      "name": "Bièvre"
+    },
+    {
+      "id": 81517,
+      "name": "Binche"
+    },
+    {
+      "id": 81518,
+      "name": "Blégny"
+    },
+    {
+      "id": 81519,
+      "name": "Bouillon"
+    },
+    {
+      "id": 81520,
+      "name": "Boussu"
+    },
+    {
+      "id": 81521,
+      "name": "Braine-l'Alleud"
+    },
+    {
+      "id": 81522,
+      "name": "Braine-le-Château"
+    },
+    {
+      "id": 81523,
+      "name": "Braine-le-Comte"
+    },
+    {
+      "id": 81524,
+      "name": "Braives"
+    },
+    {
+      "id": 81525,
+      "name": "Brugelette"
+    },
+    {
+      "id": 81526,
+      "name": "Brunehault"
+    },
+    {
+      "id": 81527,
+      "name": "Bullange"
+    },
+    {
+      "id": 81528,
+      "name": "Burdinne"
+    },
+    {
+      "id": 81529,
+      "name": "Butgenbach"
+    },
+    {
+      "id": 81530,
+      "name": "Celles"
+    },
+    {
+      "id": 81531,
+      "name": "Cerfontaine"
+    },
+    {
+      "id": 81532,
+      "name": "Chapelle-lez-Herlaimont"
+    },
+    {
+      "id": 81533,
+      "name": "Charleroi"
+    },
+    {
+      "id": 81534,
+      "name": "Chastre-Villeroux-Blanmont"
+    },
+    {
+      "id": 81535,
+      "name": "Châtelet"
+    },
+    {
+      "id": 81536,
+      "name": "Chaudfontaine"
+    },
+    {
+      "id": 81537,
+      "name": "Chaumont-Gistoux"
+    },
+    {
+      "id": 81538,
+      "name": "Chièvres"
+    },
+    {
+      "id": 81539,
+      "name": "Chimay"
+    },
+    {
+      "id": 81540,
+      "name": "Chiny"
+    },
+    {
+      "id": 81541,
+      "name": "Ciney"
+    },
+    {
+      "id": 81542,
+      "name": "Clavier"
+    },
+    {
+      "id": 81543,
+      "name": "Colfontaine"
+    },
+    {
+      "id": 81544,
+      "name": "Comblain-au-Pont"
+    },
+    {
+      "id": 81545,
+      "name": "Courcelles"
+    },
+    {
+      "id": 81546,
+      "name": "Court-Saint-Étienne"
+    },
+    {
+      "id": 81547,
+      "name": "Couvin"
+    },
+    {
+      "id": 81548,
+      "name": "Crisnée"
+    },
+    {
+      "id": 81549,
+      "name": "Dalhem"
+    },
+    {
+      "id": 81550,
+      "name": "Daverdisse"
+    },
+    {
+      "id": 81551,
+      "name": "Dinant"
+    },
+    {
+      "id": 81552,
+      "name": "Dison"
+    },
+    {
+      "id": 81553,
+      "name": "Doische"
+    },
+    {
+      "id": 81554,
+      "name": "Donceel"
+    },
+    {
+      "id": 81555,
+      "name": "Dour"
+    },
+    {
+      "id": 81556,
+      "name": "Durbuy"
+    },
+    {
+      "id": 81557,
+      "name": "Écaussinnes-d’Enghien"
+    },
+    {
+      "id": 81558,
+      "name": "Éghezée"
+    },
+    {
+      "id": 81559,
+      "name": "Ellezelles"
+    },
+    {
+      "id": 81560,
+      "name": "Enghien"
+    },
+    {
+      "id": 81561,
+      "name": "Engis"
+    },
+    {
+      "id": 81562,
+      "name": "Érezée"
+    },
+    {
+      "id": 81563,
+      "name": "Erquelinnes"
+    },
+    {
+      "id": 81564,
+      "name": "Esneux"
+    },
+    {
+      "id": 81565,
+      "name": "Estaimpuis"
+    },
+    {
+      "id": 81566,
+      "name": "Estinnes-au-Val"
+    },
+    {
+      "id": 81567,
+      "name": "Étalle"
+    },
+    {
+      "id": 81568,
+      "name": "Eupen"
+    },
+    {
+      "id": 81569,
+      "name": "Faimes"
+    },
+    {
+      "id": 81570,
+      "name": "Farciennes"
+    },
+    {
+      "id": 81571,
+      "name": "Fauvillers"
+    },
+    {
+      "id": 81572,
+      "name": "Ferrières"
+    },
+    {
+      "id": 81573,
+      "name": "Fexhe-le-Haut-Clocher"
+    },
+    {
+      "id": 81574,
+      "name": "Flémalle-Haute"
+    },
+    {
+      "id": 81575,
+      "name": "Fléron"
+    },
+    {
+      "id": 81576,
+      "name": "Fleurus"
+    },
+    {
+      "id": 81577,
+      "name": "Flobecq"
+    },
+    {
+      "id": 81578,
+      "name": "Floreffe"
+    },
+    {
+      "id": 81579,
+      "name": "Florennes"
+    },
+    {
+      "id": 81580,
+      "name": "Florenville"
+    },
+    {
+      "id": 81581,
+      "name": "Forville"
+    },
+    {
+      "id": 81582,
+      "name": "Fosses-la-Ville"
+    },
+    {
+      "id": 81583,
+      "name": "Frameries"
+    },
+    {
+      "id": 81584,
+      "name": "Frasnes-lez-Buissenal"
+    },
+    {
+      "id": 81585,
+      "name": "Froidchapelle"
+    },
+    {
+      "id": 81586,
+      "name": "Gedinne"
+    },
+    {
+      "id": 81587,
+      "name": "Geer"
+    },
+    {
+      "id": 81588,
+      "name": "Gembloux"
+    },
+    {
+      "id": 81589,
+      "name": "Genappe"
+    },
+    {
+      "id": 81590,
+      "name": "Gerpinnes"
+    },
+    {
+      "id": 81591,
+      "name": "Gesves"
+    },
+    {
+      "id": 81592,
+      "name": "Gouvy"
+    },
+    {
+      "id": 81593,
+      "name": "Grez-Doiceau"
+    },
+    {
+      "id": 81594,
+      "name": "Habay-la-Vieille"
+    },
+    {
+      "id": 81595,
+      "name": "Hamoir"
+    },
+    {
+      "id": 81596,
+      "name": "Hamois"
+    },
+    {
+      "id": 81597,
+      "name": "Hannut"
+    },
+    {
+      "id": 81598,
+      "name": "Hastière-Lavaux"
+    },
+    {
+      "id": 81599,
+      "name": "Havelange"
+    },
+    {
+      "id": 81600,
+      "name": "Hensies"
+    },
+    {
+      "id": 81601,
+      "name": "Herbeumont"
+    },
+    {
+      "id": 81602,
+      "name": "Héron"
+    },
+    {
+      "id": 81603,
+      "name": "Herstal"
+    },
+    {
+      "id": 81604,
+      "name": "Herve"
+    },
+    {
+      "id": 81605,
+      "name": "Hotton"
+    },
+    {
+      "id": 81606,
+      "name": "Houffalize"
+    },
+    {
+      "id": 81607,
+      "name": "Houyet"
+    },
+    {
+      "id": 81608,
+      "name": "Huy"
+    },
+    {
+      "id": 81609,
+      "name": "Incourt"
+    },
+    {
+      "id": 81610,
+      "name": "Ittre"
+    },
+    {
+      "id": 81611,
+      "name": "Jalhay"
+    },
+    {
+      "id": 81612,
+      "name": "Jodoigne"
+    },
+    {
+      "id": 81613,
+      "name": "Juprelle"
+    },
+    {
+      "id": 81614,
+      "name": "Jurbise"
+    },
+    {
+      "id": 81615,
+      "name": "La Bruyère"
+    },
+    {
+      "id": 81616,
+      "name": "La Calamine"
+    },
+    {
+      "id": 81617,
+      "name": "La Hulpe"
+    },
+    {
+      "id": 81618,
+      "name": "La Louvière"
+    },
+    {
+      "id": 81619,
+      "name": "La Roche-en-Ardenne"
+    },
+    {
+      "id": 81620,
+      "name": "Léglise"
+    },
+    {
+      "id": 81621,
+      "name": "Lens"
+    },
+    {
+      "id": 81622,
+      "name": "Lessines"
+    },
+    {
+      "id": 81623,
+      "name": "Libin"
+    },
+    {
+      "id": 81624,
+      "name": "Liège"
+    },
+    {
+      "id": 81625,
+      "name": "Lierneux"
+    },
+    {
+      "id": 81626,
+      "name": "Limbourg"
+    },
+    {
+      "id": 81627,
+      "name": "Lincent"
+    },
+    {
+      "id": 81628,
+      "name": "Lobbes"
+    },
+    {
+      "id": 81629,
+      "name": "Lontzen"
+    },
+    {
+      "id": 81630,
+      "name": "Louvain-la-Neuve"
+    },
+    {
+      "id": 81631,
+      "name": "Malmédy"
+    },
+    {
+      "id": 81632,
+      "name": "Manage"
+    },
+    {
+      "id": 81633,
+      "name": "Manhay"
+    },
+    {
+      "id": 81634,
+      "name": "Marche-en-Famenne"
+    },
+    {
+      "id": 81635,
+      "name": "Marchin"
+    },
+    {
+      "id": 81636,
+      "name": "Martelange"
+    },
+    {
+      "id": 81637,
+      "name": "Meix-devant-Virton"
+    },
+    {
+      "id": 81638,
+      "name": "Merbes-le-Château"
+    },
+    {
+      "id": 81639,
+      "name": "Messancy"
+    },
+    {
+      "id": 81640,
+      "name": "Mettet"
+    },
+    {
+      "id": 81641,
+      "name": "Modave"
+    },
+    {
+      "id": 81642,
+      "name": "Momignies"
+    },
+    {
+      "id": 81643,
+      "name": "Mons"
+    },
+    {
+      "id": 81644,
+      "name": "Mons-lez-Liège"
+    },
+    {
+      "id": 81645,
+      "name": "Mont-Saint-Guibert"
+    },
+    {
+      "id": 81646,
+      "name": "Morlanwelz-Mariemont"
+    },
+    {
+      "id": 81647,
+      "name": "Mouscron"
+    },
+    {
+      "id": 81648,
+      "name": "Musson"
+    },
+    {
+      "id": 81649,
+      "name": "Namur"
+    },
+    {
+      "id": 81650,
+      "name": "Nandrin"
+    },
+    {
+      "id": 81651,
+      "name": "Nassogne"
+    },
+    {
+      "id": 81652,
+      "name": "Neufchâteau"
+    },
+    {
+      "id": 81653,
+      "name": "Nivelles"
+    },
+    {
+      "id": 81654,
+      "name": "Noville-les-Bois"
+    },
+    {
+      "id": 81655,
+      "name": "Ohey"
+    },
+    {
+      "id": 81656,
+      "name": "Olne"
+    },
+    {
+      "id": 81657,
+      "name": "Onhaye"
+    },
+    {
+      "id": 81658,
+      "name": "Oreye"
+    },
+    {
+      "id": 81659,
+      "name": "Ottignies"
+    },
+    {
+      "id": 81660,
+      "name": "Ouffet"
+    },
+    {
+      "id": 81661,
+      "name": "Oupeye"
+    },
+    {
+      "id": 81662,
+      "name": "Paliseul"
+    },
+    {
+      "id": 81663,
+      "name": "Pecq"
+    },
+    {
+      "id": 81664,
+      "name": "Pepinster"
+    },
+    {
+      "id": 81665,
+      "name": "Péruwelz"
+    },
+    {
+      "id": 81666,
+      "name": "Perwez"
+    },
+    {
+      "id": 81667,
+      "name": "Philippeville"
+    },
+    {
+      "id": 81668,
+      "name": "Plombières"
+    },
+    {
+      "id": 81669,
+      "name": "Pont-à-Celles"
+    },
+    {
+      "id": 81670,
+      "name": "Profondeville"
+    },
+    {
+      "id": 81671,
+      "name": "Province de Liège"
+    },
+    {
+      "id": 81672,
+      "name": "Province de Namur"
+    },
+    {
+      "id": 81673,
+      "name": "Province du Brabant Wallon"
+    },
+    {
+      "id": 81674,
+      "name": "Province du Hainaut"
+    },
+    {
+      "id": 81675,
+      "name": "Quaregnon"
+    },
+    {
+      "id": 81676,
+      "name": "Quévy-le-Petit"
+    },
+    {
+      "id": 81677,
+      "name": "Quiévrain"
+    },
+    {
+      "id": 81678,
+      "name": "Raeren"
+    },
+    {
+      "id": 81679,
+      "name": "Ramillies"
+    },
+    {
+      "id": 81680,
+      "name": "Rebecq-Rognon"
+    },
+    {
+      "id": 81681,
+      "name": "Remicourt"
+    },
+    {
+      "id": 81682,
+      "name": "Rendeux"
+    },
+    {
+      "id": 81683,
+      "name": "Rixensart"
+    },
+    {
+      "id": 81684,
+      "name": "Rochefort"
+    },
+    {
+      "id": 81685,
+      "name": "Roeulx"
+    },
+    {
+      "id": 81686,
+      "name": "Rouvroy"
+    },
+    {
+      "id": 81687,
+      "name": "Rumes"
+    },
+    {
+      "id": 81688,
+      "name": "Saint-Ghislain"
+    },
+    {
+      "id": 81689,
+      "name": "Saint-Hubert"
+    },
+    {
+      "id": 81690,
+      "name": "Saint-Léger"
+    },
+    {
+      "id": 81691,
+      "name": "Saint-Nicolas"
+    },
+    {
+      "id": 81692,
+      "name": "Saint-Vith"
+    },
+    {
+      "id": 81693,
+      "name": "Sainte-Ode"
+    },
+    {
+      "id": 81694,
+      "name": "Seneffe"
+    },
+    {
+      "id": 81695,
+      "name": "Seraing"
+    },
+    {
+      "id": 81696,
+      "name": "Silly"
+    },
+    {
+      "id": 81697,
+      "name": "Soignies"
+    },
+    {
+      "id": 81698,
+      "name": "Sombreffe"
+    },
+    {
+      "id": 81699,
+      "name": "Somme-Leuze"
+    },
+    {
+      "id": 81700,
+      "name": "Soumagne"
+    },
+    {
+      "id": 81701,
+      "name": "Spa"
+    },
+    {
+      "id": 81702,
+      "name": "Sprimont"
+    },
+    {
+      "id": 81703,
+      "name": "Stavelot"
+    },
+    {
+      "id": 81704,
+      "name": "Stoumont"
+    },
+    {
+      "id": 81705,
+      "name": "Tellin"
+    },
+    {
+      "id": 81706,
+      "name": "Tenneville"
+    },
+    {
+      "id": 81707,
+      "name": "Theux"
+    },
+    {
+      "id": 81708,
+      "name": "Thuin"
+    },
+    {
+      "id": 81709,
+      "name": "Tinlot"
+    },
+    {
+      "id": 81710,
+      "name": "Tintigny"
+    },
+    {
+      "id": 81711,
+      "name": "Tournai"
+    },
+    {
+      "id": 81712,
+      "name": "Trois-Ponts"
+    },
+    {
+      "id": 81713,
+      "name": "Trooz"
+    },
+    {
+      "id": 81714,
+      "name": "Tubize"
+    },
+    {
+      "id": 81715,
+      "name": "Vaux-sur-Sûre"
+    },
+    {
+      "id": 81716,
+      "name": "Verlaine"
+    },
+    {
+      "id": 81717,
+      "name": "Verviers"
+    },
+    {
+      "id": 81718,
+      "name": "Vielsalm"
+    },
+    {
+      "id": 81719,
+      "name": "Villers-la-Ville"
+    },
+    {
+      "id": 81720,
+      "name": "Villers-le-Bouillet"
+    },
+    {
+      "id": 81721,
+      "name": "Virton"
+    },
+    {
+      "id": 81722,
+      "name": "Visé"
+    },
+    {
+      "id": 81723,
+      "name": "Waimes"
+    },
+    {
+      "id": 81724,
+      "name": "Walcourt"
+    },
+    {
+      "id": 81725,
+      "name": "Walhain-Saint-Paul"
+    },
+    {
+      "id": 81726,
+      "name": "Wanze"
+    },
+    {
+      "id": 81727,
+      "name": "Waremme"
+    },
+    {
+      "id": 81728,
+      "name": "Wasseiges"
+    },
+    {
+      "id": 81729,
+      "name": "Waterloo"
+    },
+    {
+      "id": 81730,
+      "name": "Wavre"
+    },
+    {
+      "id": 81731,
+      "name": "Welkenraedt"
+    },
+    {
+      "id": 81732,
+      "name": "Wellin"
+    },
+    {
+      "id": 81733,
+      "name": "Yvoir"
+    }
+  ]
+}

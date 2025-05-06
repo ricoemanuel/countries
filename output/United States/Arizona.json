@@ -1,0 +1,915 @@
+{
+  "id": 7430,
+  "name": "Arizona",
+  "state_code": "AZ",
+  "cities": [
+    {
+      "id": 202173,
+      "name": "Ahwatukee Foothills"
+    },
+    {
+      "id": 202174,
+      "name": "Ajo"
+    },
+    {
+      "id": 202175,
+      "name": "Alhambra"
+    },
+    {
+      "id": 202176,
+      "name": "Anthem"
+    },
+    {
+      "id": 202177,
+      "name": "Apache County"
+    },
+    {
+      "id": 202178,
+      "name": "Apache Junction"
+    },
+    {
+      "id": 202179,
+      "name": "Arivaca Junction"
+    },
+    {
+      "id": 202180,
+      "name": "Arizona City"
+    },
+    {
+      "id": 202181,
+      "name": "Avenue B and C"
+    },
+    {
+      "id": 202182,
+      "name": "Avondale"
+    },
+    {
+      "id": 202183,
+      "name": "Avra Valley"
+    },
+    {
+      "id": 202184,
+      "name": "Bagdad"
+    },
+    {
+      "id": 202185,
+      "name": "Beaver Dam"
+    },
+    {
+      "id": 202186,
+      "name": "Benson"
+    },
+    {
+      "id": 202187,
+      "name": "Big Park"
+    },
+    {
+      "id": 202188,
+      "name": "Bisbee"
+    },
+    {
+      "id": 202189,
+      "name": "Black Canyon City"
+    },
+    {
+      "id": 202190,
+      "name": "Blackwater"
+    },
+    {
+      "id": 202191,
+      "name": "Buckeye"
+    },
+    {
+      "id": 202192,
+      "name": "Bullhead City"
+    },
+    {
+      "id": 202193,
+      "name": "Bylas"
+    },
+    {
+      "id": 202194,
+      "name": "Cactus Flat"
+    },
+    {
+      "id": 202195,
+      "name": "Camp Verde"
+    },
+    {
+      "id": 202196,
+      "name": "Canyon Day"
+    },
+    {
+      "id": 202197,
+      "name": "Carefree"
+    },
+    {
+      "id": 202198,
+      "name": "Casa Blanca"
+    },
+    {
+      "id": 202199,
+      "name": "Casa Grande"
+    },
+    {
+      "id": 202200,
+      "name": "Casas Adobes"
+    },
+    {
+      "id": 202201,
+      "name": "Catalina"
+    },
+    {
+      "id": 202202,
+      "name": "Catalina Foothills"
+    },
+    {
+      "id": 202203,
+      "name": "Cave Creek"
+    },
+    {
+      "id": 202204,
+      "name": "Centennial Park"
+    },
+    {
+      "id": 202205,
+      "name": "Central City"
+    },
+    {
+      "id": 202206,
+      "name": "Central Heights-Midland City"
+    },
+    {
+      "id": 202207,
+      "name": "Chandler"
+    },
+    {
+      "id": 202208,
+      "name": "Chinle"
+    },
+    {
+      "id": 202209,
+      "name": "Chino Valley"
+    },
+    {
+      "id": 202210,
+      "name": "Cibecue"
+    },
+    {
+      "id": 202211,
+      "name": "Cienega Springs"
+    },
+    {
+      "id": 202212,
+      "name": "Citrus Park"
+    },
+    {
+      "id": 202213,
+      "name": "Clarkdale"
+    },
+    {
+      "id": 202214,
+      "name": "Claypool"
+    },
+    {
+      "id": 202215,
+      "name": "Clifton"
+    },
+    {
+      "id": 202216,
+      "name": "Cochise County"
+    },
+    {
+      "id": 202217,
+      "name": "Coconino County"
+    },
+    {
+      "id": 202218,
+      "name": "Colorado City"
+    },
+    {
+      "id": 202219,
+      "name": "Congress"
+    },
+    {
+      "id": 202220,
+      "name": "Coolidge"
+    },
+    {
+      "id": 202221,
+      "name": "Cordes Lakes"
+    },
+    {
+      "id": 202222,
+      "name": "Cornville"
+    },
+    {
+      "id": 202223,
+      "name": "Corona de Tucson"
+    },
+    {
+      "id": 202224,
+      "name": "Cottonwood"
+    },
+    {
+      "id": 202225,
+      "name": "Deer Valley"
+    },
+    {
+      "id": 202226,
+      "name": "Desert Hills"
+    },
+    {
+      "id": 202227,
+      "name": "Dewey-Humboldt"
+    },
+    {
+      "id": 202228,
+      "name": "Dilkon"
+    },
+    {
+      "id": 202229,
+      "name": "Dolan Springs"
+    },
+    {
+      "id": 202230,
+      "name": "Donovan Estates"
+    },
+    {
+      "id": 202231,
+      "name": "Douglas"
+    },
+    {
+      "id": 202232,
+      "name": "Drexel Heights"
+    },
+    {
+      "id": 202233,
+      "name": "Eagar"
+    },
+    {
+      "id": 202234,
+      "name": "East Sahuarita"
+    },
+    {
+      "id": 202235,
+      "name": "Ehrenberg"
+    },
+    {
+      "id": 202236,
+      "name": "El Mirage"
+    },
+    {
+      "id": 202237,
+      "name": "Eloy"
+    },
+    {
+      "id": 202238,
+      "name": "Encanto"
+    },
+    {
+      "id": 202239,
+      "name": "First Mesa"
+    },
+    {
+      "id": 202240,
+      "name": "Flagstaff"
+    },
+    {
+      "id": 202241,
+      "name": "Florence"
+    },
+    {
+      "id": 202242,
+      "name": "Flowing Wells"
+    },
+    {
+      "id": 202243,
+      "name": "Fort Defiance"
+    },
+    {
+      "id": 202244,
+      "name": "Fortuna Foothills"
+    },
+    {
+      "id": 202245,
+      "name": "Fountain Hills"
+    },
+    {
+      "id": 202246,
+      "name": "Fredonia"
+    },
+    {
+      "id": 202247,
+      "name": "Ganado"
+    },
+    {
+      "id": 202248,
+      "name": "Gila Bend"
+    },
+    {
+      "id": 202249,
+      "name": "Gila County"
+    },
+    {
+      "id": 202250,
+      "name": "Gilbert"
+    },
+    {
+      "id": 202251,
+      "name": "Glendale"
+    },
+    {
+      "id": 202252,
+      "name": "Globe"
+    },
+    {
+      "id": 202253,
+      "name": "Gold Camp"
+    },
+    {
+      "id": 202254,
+      "name": "Gold Canyon"
+    },
+    {
+      "id": 202255,
+      "name": "Golden Shores"
+    },
+    {
+      "id": 202256,
+      "name": "Golden Valley"
+    },
+    {
+      "id": 202257,
+      "name": "Goodyear"
+    },
+    {
+      "id": 202258,
+      "name": "Graham County"
+    },
+    {
+      "id": 202259,
+      "name": "Grand Canyon"
+    },
+    {
+      "id": 202260,
+      "name": "Grand Canyon Village"
+    },
+    {
+      "id": 202261,
+      "name": "Green Valley"
+    },
+    {
+      "id": 202262,
+      "name": "Greenlee County"
+    },
+    {
+      "id": 202263,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 202264,
+      "name": "Heber-Overgaard"
+    },
+    {
+      "id": 202265,
+      "name": "Holbrook"
+    },
+    {
+      "id": 202266,
+      "name": "Houck"
+    },
+    {
+      "id": 202267,
+      "name": "Huachuca City"
+    },
+    {
+      "id": 202268,
+      "name": "Joseph City"
+    },
+    {
+      "id": 202269,
+      "name": "Kachina Village"
+    },
+    {
+      "id": 202270,
+      "name": "Kaibito"
+    },
+    {
+      "id": 202271,
+      "name": "Kayenta"
+    },
+    {
+      "id": 202272,
+      "name": "Kearny"
+    },
+    {
+      "id": 202273,
+      "name": "Kingman"
+    },
+    {
+      "id": 202274,
+      "name": "La Paz County"
+    },
+    {
+      "id": 202275,
+      "name": "Lake Havasu City"
+    },
+    {
+      "id": 202276,
+      "name": "Lake Montezuma"
+    },
+    {
+      "id": 202277,
+      "name": "Lake of the Woods"
+    },
+    {
+      "id": 202278,
+      "name": "Laveen"
+    },
+    {
+      "id": 202279,
+      "name": "LeChee"
+    },
+    {
+      "id": 202280,
+      "name": "Linden"
+    },
+    {
+      "id": 202281,
+      "name": "Litchfield Park"
+    },
+    {
+      "id": 202282,
+      "name": "Lukachukai"
+    },
+    {
+      "id": 202283,
+      "name": "Mammoth"
+    },
+    {
+      "id": 202284,
+      "name": "Many Farms"
+    },
+    {
+      "id": 202285,
+      "name": "Marana"
+    },
+    {
+      "id": 202286,
+      "name": "Maricopa"
+    },
+    {
+      "id": 202287,
+      "name": "Maricopa County"
+    },
+    {
+      "id": 202288,
+      "name": "Maryvale"
+    },
+    {
+      "id": 202289,
+      "name": "Mayer"
+    },
+    {
+      "id": 202290,
+      "name": "Meadview"
+    },
+    {
+      "id": 202291,
+      "name": "Mesa"
+    },
+    {
+      "id": 202292,
+      "name": "Mescal"
+    },
+    {
+      "id": 202293,
+      "name": "Miami"
+    },
+    {
+      "id": 202294,
+      "name": "Mohave County"
+    },
+    {
+      "id": 202295,
+      "name": "Mohave Valley"
+    },
+    {
+      "id": 202296,
+      "name": "Morenci"
+    },
+    {
+      "id": 202297,
+      "name": "Mountainaire"
+    },
+    {
+      "id": 202298,
+      "name": "Naco"
+    },
+    {
+      "id": 202299,
+      "name": "Navajo County"
+    },
+    {
+      "id": 202300,
+      "name": "New Kingman-Butler"
+    },
+    {
+      "id": 202301,
+      "name": "New River"
+    },
+    {
+      "id": 202302,
+      "name": "Nogales"
+    },
+    {
+      "id": 202303,
+      "name": "North Fork"
+    },
+    {
+      "id": 202304,
+      "name": "Oracle"
+    },
+    {
+      "id": 202305,
+      "name": "Oro Valley"
+    },
+    {
+      "id": 202306,
+      "name": "Page"
+    },
+    {
+      "id": 202307,
+      "name": "Paradise Valley"
+    },
+    {
+      "id": 202308,
+      "name": "Parker"
+    },
+    {
+      "id": 202309,
+      "name": "Parks"
+    },
+    {
+      "id": 202310,
+      "name": "Paulden"
+    },
+    {
+      "id": 202311,
+      "name": "Payson"
+    },
+    {
+      "id": 202312,
+      "name": "Peach Springs"
+    },
+    {
+      "id": 202313,
+      "name": "Peoria"
+    },
+    {
+      "id": 202314,
+      "name": "Peridot"
+    },
+    {
+      "id": 202315,
+      "name": "Phoenix"
+    },
+    {
+      "id": 202316,
+      "name": "Picture Rocks"
+    },
+    {
+      "id": 202317,
+      "name": "Pima"
+    },
+    {
+      "id": 202318,
+      "name": "Pima County"
+    },
+    {
+      "id": 202319,
+      "name": "Pinal County"
+    },
+    {
+      "id": 202320,
+      "name": "Pine"
+    },
+    {
+      "id": 202321,
+      "name": "Pinetop-Lakeside"
+    },
+    {
+      "id": 202322,
+      "name": "Pirtleville"
+    },
+    {
+      "id": 202323,
+      "name": "Prescott"
+    },
+    {
+      "id": 202324,
+      "name": "Prescott Valley"
+    },
+    {
+      "id": 202325,
+      "name": "Quartzsite"
+    },
+    {
+      "id": 202326,
+      "name": "Queen Creek"
+    },
+    {
+      "id": 202327,
+      "name": "Rio Rico"
+    },
+    {
+      "id": 202328,
+      "name": "Rio Verde"
+    },
+    {
+      "id": 202329,
+      "name": "Sacaton"
+    },
+    {
+      "id": 202330,
+      "name": "Saddle Brooke"
+    },
+    {
+      "id": 202331,
+      "name": "Safford"
+    },
+    {
+      "id": 202332,
+      "name": "Sahuarita"
+    },
+    {
+      "id": 202333,
+      "name": "Saint David"
+    },
+    {
+      "id": 202334,
+      "name": "Saint Johns"
+    },
+    {
+      "id": 202335,
+      "name": "Saint Michaels"
+    },
+    {
+      "id": 202336,
+      "name": "Salome"
+    },
+    {
+      "id": 202337,
+      "name": "San Carlos"
+    },
+    {
+      "id": 202338,
+      "name": "San Luis"
+    },
+    {
+      "id": 202339,
+      "name": "San Manuel"
+    },
+    {
+      "id": 202340,
+      "name": "San Tan Valley"
+    },
+    {
+      "id": 202341,
+      "name": "Santa Cruz County"
+    },
+    {
+      "id": 202342,
+      "name": "Scenic"
+    },
+    {
+      "id": 202343,
+      "name": "Scottsdale"
+    },
+    {
+      "id": 202344,
+      "name": "Sedona"
+    },
+    {
+      "id": 202345,
+      "name": "Sells"
+    },
+    {
+      "id": 202346,
+      "name": "Show Low"
+    },
+    {
+      "id": 202347,
+      "name": "Sierra Vista"
+    },
+    {
+      "id": 202348,
+      "name": "Sierra Vista Southeast"
+    },
+    {
+      "id": 202349,
+      "name": "Six Shooter Canyon"
+    },
+    {
+      "id": 202350,
+      "name": "Snowflake"
+    },
+    {
+      "id": 202351,
+      "name": "Somerton"
+    },
+    {
+      "id": 202352,
+      "name": "South Tucson"
+    },
+    {
+      "id": 202353,
+      "name": "Spring Valley"
+    },
+    {
+      "id": 202354,
+      "name": "Springerville"
+    },
+    {
+      "id": 202355,
+      "name": "Star Valley"
+    },
+    {
+      "id": 202356,
+      "name": "Summit"
+    },
+    {
+      "id": 202357,
+      "name": "Sun City"
+    },
+    {
+      "id": 202358,
+      "name": "Sun City West"
+    },
+    {
+      "id": 202359,
+      "name": "Sun Lakes"
+    },
+    {
+      "id": 202360,
+      "name": "Sun Valley"
+    },
+    {
+      "id": 202361,
+      "name": "Superior"
+    },
+    {
+      "id": 202362,
+      "name": "Surprise"
+    },
+    {
+      "id": 202363,
+      "name": "Swift Trail Junction"
+    },
+    {
+      "id": 202364,
+      "name": "Tanque Verde"
+    },
+    {
+      "id": 202365,
+      "name": "Taylor"
+    },
+    {
+      "id": 202366,
+      "name": "Tempe"
+    },
+    {
+      "id": 202367,
+      "name": "Tempe Junction"
+    },
+    {
+      "id": 202368,
+      "name": "Thatcher"
+    },
+    {
+      "id": 202369,
+      "name": "Three Points"
+    },
+    {
+      "id": 202370,
+      "name": "Tolleson"
+    },
+    {
+      "id": 202371,
+      "name": "Tombstone"
+    },
+    {
+      "id": 202372,
+      "name": "Tonto Basin"
+    },
+    {
+      "id": 202373,
+      "name": "Tortolita"
+    },
+    {
+      "id": 202374,
+      "name": "Tsaile"
+    },
+    {
+      "id": 202375,
+      "name": "Tuba City"
+    },
+    {
+      "id": 202376,
+      "name": "Tubac"
+    },
+    {
+      "id": 202377,
+      "name": "Tucson"
+    },
+    {
+      "id": 202378,
+      "name": "Tucson Estates"
+    },
+    {
+      "id": 202379,
+      "name": "Vail"
+    },
+    {
+      "id": 202380,
+      "name": "Valencia West"
+    },
+    {
+      "id": 202381,
+      "name": "Valle Vista"
+    },
+    {
+      "id": 202382,
+      "name": "Verde Village"
+    },
+    {
+      "id": 202383,
+      "name": "Village of Oak Creek (Big Park)"
+    },
+    {
+      "id": 202384,
+      "name": "Wellton"
+    },
+    {
+      "id": 202385,
+      "name": "West Sedona"
+    },
+    {
+      "id": 202386,
+      "name": "Whetstone"
+    },
+    {
+      "id": 202387,
+      "name": "White Mountain Lake"
+    },
+    {
+      "id": 202388,
+      "name": "Whiteriver"
+    },
+    {
+      "id": 202389,
+      "name": "Wickenburg"
+    },
+    {
+      "id": 202390,
+      "name": "Willcox"
+    },
+    {
+      "id": 202391,
+      "name": "Williams"
+    },
+    {
+      "id": 202392,
+      "name": "Williamson"
+    },
+    {
+      "id": 202393,
+      "name": "Willow Valley"
+    },
+    {
+      "id": 202394,
+      "name": "Window Rock"
+    },
+    {
+      "id": 202395,
+      "name": "Winslow"
+    },
+    {
+      "id": 202396,
+      "name": "Yavapai County"
+    },
+    {
+      "id": 202397,
+      "name": "Youngtown"
+    },
+    {
+      "id": 202398,
+      "name": "Yuma"
+    },
+    {
+      "id": 202399,
+      "name": "Yuma County"
+    }
+  ]
+}

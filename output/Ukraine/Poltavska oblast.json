@@ -1,0 +1,939 @@
+{
+  "id": 7163,
+  "name": "Poltavska oblast",
+  "state_code": "53",
+  "cities": [
+    {
+      "id": 197033,
+      "name": "Abramok"
+    },
+    {
+      "id": 197034,
+      "name": "Adamivka"
+    },
+    {
+      "id": 197035,
+      "name": "Adamove"
+    },
+    {
+      "id": 197036,
+      "name": "Agativka"
+    },
+    {
+      "id": 197037,
+      "name": "Andriyivka"
+    },
+    {
+      "id": 197038,
+      "name": "Andrushivka"
+    },
+    {
+      "id": 197039,
+      "name": "Autozavodskoy Raion"
+    },
+    {
+      "id": 197040,
+      "name": "Avratin"
+    },
+    {
+      "id": 197041,
+      "name": "Bairak"
+    },
+    {
+      "id": 197042,
+      "name": "Baliasne"
+    },
+    {
+      "id": 197043,
+      "name": "Barashi"
+    },
+    {
+      "id": 197044,
+      "name": "Bazar"
+    },
+    {
+      "id": 197045,
+      "name": "Bekhi"
+    },
+    {
+      "id": 197046,
+      "name": "Berdychiv"
+    },
+    {
+      "id": 197047,
+      "name": "Berestivka"
+    },
+    {
+      "id": 197048,
+      "name": "Berestovets"
+    },
+    {
+      "id": 197049,
+      "name": "Berezianka"
+    },
+    {
+      "id": 197050,
+      "name": "Berezovii Grud"
+    },
+    {
+      "id": 197051,
+      "name": "Bereztsi"
+    },
+    {
+      "id": 197052,
+      "name": "Bicheva"
+    },
+    {
+      "id": 197053,
+      "name": "Bigun"
+    },
+    {
+      "id": 197054,
+      "name": "Bikiv"
+    },
+    {
+      "id": 197055,
+      "name": "Bila Krynytsia"
+    },
+    {
+      "id": 197056,
+      "name": "Bilii Bereg"
+    },
+    {
+      "id": 197057,
+      "name": "Bilka"
+    },
+    {
+      "id": 197058,
+      "name": "Bilylivka"
+    },
+    {
+      "id": 197059,
+      "name": "Bistrik"
+    },
+    {
+      "id": 197060,
+      "name": "Bistriyivka"
+    },
+    {
+      "id": 197061,
+      "name": "Borisivka"
+    },
+    {
+      "id": 197062,
+      "name": "Broniki"
+    },
+    {
+      "id": 197063,
+      "name": "Bronitsia"
+    },
+    {
+      "id": 197064,
+      "name": "Bronitska Guta"
+    },
+    {
+      "id": 197065,
+      "name": "Brovki Pershi"
+    },
+    {
+      "id": 197066,
+      "name": "Brusyliv"
+    },
+    {
+      "id": 197067,
+      "name": "Buchmany"
+    },
+    {
+      "id": 197068,
+      "name": "Buki"
+    },
+    {
+      "id": 197069,
+      "name": "Buldichiv"
+    },
+    {
+      "id": 197070,
+      "name": "Buriaki"
+    },
+    {
+      "id": 197071,
+      "name": "Burkivtsi"
+    },
+    {
+      "id": 197072,
+      "name": "Bykivka"
+    },
+    {
+      "id": 197073,
+      "name": "Chernechii Iar"
+    },
+    {
+      "id": 197074,
+      "name": "Cherniakhiv"
+    },
+    {
+      "id": 197075,
+      "name": "Chervone"
+    },
+    {
+      "id": 197076,
+      "name": "Chopovychi"
+    },
+    {
+      "id": 197077,
+      "name": "Chornukhy"
+    },
+    {
+      "id": 197078,
+      "name": "Chudniv"
+    },
+    {
+      "id": 197079,
+      "name": "Chutove"
+    },
+    {
+      "id": 197080,
+      "name": "Dashynka"
+    },
+    {
+      "id": 197081,
+      "name": "Davidivka"
+    },
+    {
+      "id": 197082,
+      "name": "Davydky"
+    },
+    {
+      "id": 197083,
+      "name": "Denyshi"
+    },
+    {
+      "id": 197084,
+      "name": "Derhanivka"
+    },
+    {
+      "id": 197085,
+      "name": "Dibrova"
+    },
+    {
+      "id": 197086,
+      "name": "Didkovichi"
+    },
+    {
+      "id": 197087,
+      "name": "Didovichi"
+    },
+    {
+      "id": 197088,
+      "name": "Divochki"
+    },
+    {
+      "id": 197089,
+      "name": "Dovbysh"
+    },
+    {
+      "id": 197090,
+      "name": "Druzhba"
+    },
+    {
+      "id": 197091,
+      "name": "Dubivka"
+    },
+    {
+      "id": 197092,
+      "name": "Dubnyki"
+    },
+    {
+      "id": 197093,
+      "name": "Dubrivka"
+    },
+    {
+      "id": 197094,
+      "name": "Dvorishche"
+    },
+    {
+      "id": 197095,
+      "name": "Dykanka"
+    },
+    {
+      "id": 197096,
+      "name": "Elivka"
+    },
+    {
+      "id": 197097,
+      "name": "Fedorivka"
+    },
+    {
+      "id": 197098,
+      "name": "Filenkove"
+    },
+    {
+      "id": 197099,
+      "name": "Glinivtsi"
+    },
+    {
+      "id": 197100,
+      "name": "Godikha"
+    },
+    {
+      "id": 197101,
+      "name": "Golovenka"
+    },
+    {
+      "id": 197102,
+      "name": "Golovki"
+    },
+    {
+      "id": 197103,
+      "name": "Golubyatin"
+    },
+    {
+      "id": 197104,
+      "name": "Gorbuliv"
+    },
+    {
+      "id": 197105,
+      "name": "Gordiyivka"
+    },
+    {
+      "id": 197106,
+      "name": "Gorianshchina"
+    },
+    {
+      "id": 197107,
+      "name": "Gorodkivka"
+    },
+    {
+      "id": 197108,
+      "name": "Gorodok"
+    },
+    {
+      "id": 197109,
+      "name": "Gorodske"
+    },
+    {
+      "id": 197110,
+      "name": "Goropayi"
+    },
+    {
+      "id": 197111,
+      "name": "Goshiv"
+    },
+    {
+      "id": 197112,
+      "name": "Gromada"
+    },
+    {
+      "id": 197113,
+      "name": "Grozyne"
+    },
+    {
+      "id": 197114,
+      "name": "Grushki"
+    },
+    {
+      "id": 197115,
+      "name": "Gubske"
+    },
+    {
+      "id": 197116,
+      "name": "Gulsk"
+    },
+    {
+      "id": 197117,
+      "name": "Gumenniki"
+    },
+    {
+      "id": 197118,
+      "name": "Guta-Potiyivka"
+    },
+    {
+      "id": 197119,
+      "name": "Guto-Mariatin"
+    },
+    {
+      "id": 197120,
+      "name": "Hadiach"
+    },
+    {
+      "id": 197121,
+      "name": "Hlobyne"
+    },
+    {
+      "id": 197122,
+      "name": "Holovyne"
+    },
+    {
+      "id": 197123,
+      "name": "Holubivka"
+    },
+    {
+      "id": 197124,
+      "name": "Horishni Plavni"
+    },
+    {
+      "id": 197125,
+      "name": "Horodets"
+    },
+    {
+      "id": 197126,
+      "name": "Horodnytsia"
+    },
+    {
+      "id": 197127,
+      "name": "Hradyzk"
+    },
+    {
+      "id": 197128,
+      "name": "Hranitne"
+    },
+    {
+      "id": 197129,
+      "name": "Hrebinka"
+    },
+    {
+      "id": 197130,
+      "name": "Hryshkivtsi"
+    },
+    {
+      "id": 197131,
+      "name": "Iemilivka"
+    },
+    {
+      "id": 197132,
+      "name": "Ievgenivka"
+    },
+    {
+      "id": 197133,
+      "name": "Irshansk"
+    },
+    {
+      "id": 197134,
+      "name": "Ivanivka"
+    },
+    {
+      "id": 197135,
+      "name": "Ivankiv"
+    },
+    {
+      "id": 197136,
+      "name": "Ivanopil"
+    },
+    {
+      "id": 197137,
+      "name": "Kamiani Potoky"
+    },
+    {
+      "id": 197138,
+      "name": "Kardashivka"
+    },
+    {
+      "id": 197139,
+      "name": "Karlivka"
+    },
+    {
+      "id": 197140,
+      "name": "Khodaky"
+    },
+    {
+      "id": 197141,
+      "name": "Khorol"
+    },
+    {
+      "id": 197142,
+      "name": "Khoroshiv"
+    },
+    {
+      "id": 197143,
+      "name": "Kobeliaky"
+    },
+    {
+      "id": 197144,
+      "name": "Kononenki"
+    },
+    {
+      "id": 197145,
+      "name": "Korchak"
+    },
+    {
+      "id": 197146,
+      "name": "Kornyn"
+    },
+    {
+      "id": 197147,
+      "name": "Korosten"
+    },
+    {
+      "id": 197148,
+      "name": "Korostyshiv"
+    },
+    {
+      "id": 197149,
+      "name": "Kotelva"
+    },
+    {
+      "id": 197150,
+      "name": "Kozelshchyna"
+    },
+    {
+      "id": 197151,
+      "name": "Kratova Govtva"
+    },
+    {
+      "id": 197152,
+      "name": "Kremenchuk"
+    },
+    {
+      "id": 197153,
+      "name": "Krukovskiy Raion"
+    },
+    {
+      "id": 197154,
+      "name": "Kucherivka"
+    },
+    {
+      "id": 197155,
+      "name": "Kupech"
+    },
+    {
+      "id": 197156,
+      "name": "Kvitneve"
+    },
+    {
+      "id": 197157,
+      "name": "Landari"
+    },
+    {
+      "id": 197158,
+      "name": "Lani"
+    },
+    {
+      "id": 197159,
+      "name": "Lasky"
+    },
+    {
+      "id": 197160,
+      "name": "Lazarivka"
+    },
+    {
+      "id": 197161,
+      "name": "Lisogirka"
+    },
+    {
+      "id": 197162,
+      "name": "Liubar"
+    },
+    {
+      "id": 197163,
+      "name": "Lokhvytsia"
+    },
+    {
+      "id": 197164,
+      "name": "Lubny"
+    },
+    {
+      "id": 197165,
+      "name": "Luhyny"
+    },
+    {
+      "id": 197166,
+      "name": "Lutovynivka"
+    },
+    {
+      "id": 197167,
+      "name": "Mala Rudka"
+    },
+    {
+      "id": 197168,
+      "name": "Malyn"
+    },
+    {
+      "id": 197169,
+      "name": "Marchenki"
+    },
+    {
+      "id": 197170,
+      "name": "Markivka"
+    },
+    {
+      "id": 197171,
+      "name": "Maschiwka"
+    },
+    {
+      "id": 197172,
+      "name": "Morozivka"
+    },
+    {
+      "id": 197173,
+      "name": "Myrhorod"
+    },
+    {
+      "id": 197174,
+      "name": "Myropil"
+    },
+    {
+      "id": 197175,
+      "name": "Narodychi"
+    },
+    {
+      "id": 197176,
+      "name": "Nedoharky"
+    },
+    {
+      "id": 197177,
+      "name": "Nemyryntsi"
+    },
+    {
+      "id": 197178,
+      "name": "Nova Borova"
+    },
+    {
+      "id": 197179,
+      "name": "Nova Chortoriia"
+    },
+    {
+      "id": 197180,
+      "name": "Novi Bilokorovychi"
+    },
+    {
+      "id": 197181,
+      "name": "Novi Sanzhary"
+    },
+    {
+      "id": 197182,
+      "name": "Novi Vorobyi"
+    },
+    {
+      "id": 197183,
+      "name": "Novohrad-Volynskyi"
+    },
+    {
+      "id": 197184,
+      "name": "Novoozerianka"
+    },
+    {
+      "id": 197185,
+      "name": "Nyvky"
+    },
+    {
+      "id": 197186,
+      "name": "Odariukivka"
+    },
+    {
+      "id": 197187,
+      "name": "Olefirshchina"
+    },
+    {
+      "id": 197188,
+      "name": "Olevsk"
+    },
+    {
+      "id": 197189,
+      "name": "Onatski"
+    },
+    {
+      "id": 197190,
+      "name": "Opishnia"
+    },
+    {
+      "id": 197191,
+      "name": "Orzhytsia"
+    },
+    {
+      "id": 197192,
+      "name": "Ovruch"
+    },
+    {
+      "id": 197193,
+      "name": "Ozerne"
+    },
+    {
+      "id": 197194,
+      "name": "Pavoloch"
+    },
+    {
+      "id": 197195,
+      "name": "Pershotravensk"
+    },
+    {
+      "id": 197196,
+      "name": "Pershotravneve"
+    },
+    {
+      "id": 197197,
+      "name": "Petrenki"
+    },
+    {
+      "id": 197198,
+      "name": "Pisarivshchina"
+    },
+    {
+      "id": 197199,
+      "name": "Pishchiv"
+    },
+    {
+      "id": 197200,
+      "name": "Polianka"
+    },
+    {
+      "id": 197201,
+      "name": "Poltava"
+    },
+    {
+      "id": 197202,
+      "name": "Popilnia"
+    },
+    {
+      "id": 197203,
+      "name": "Popivka"
+    },
+    {
+      "id": 197204,
+      "name": "Potiivka"
+    },
+    {
+      "id": 197205,
+      "name": "Proni"
+    },
+    {
+      "id": 197206,
+      "name": "Pyriatyn"
+    },
+    {
+      "id": 197207,
+      "name": "Radomyshl"
+    },
+    {
+      "id": 197208,
+      "name": "Reshetylivka"
+    },
+    {
+      "id": 197209,
+      "name": "Rohachi"
+    },
+    {
+      "id": 197210,
+      "name": "Romaniv"
+    },
+    {
+      "id": 197211,
+      "name": "Romodan"
+    },
+    {
+      "id": 197212,
+      "name": "Ruzhyn (settlement)"
+    },
+    {
+      "id": 197213,
+      "name": "Schyschaky"
+    },
+    {
+      "id": 197214,
+      "name": "Semenivka"
+    },
+    {
+      "id": 197215,
+      "name": "Sencha"
+    },
+    {
+      "id": 197216,
+      "name": "Shumsk"
+    },
+    {
+      "id": 197217,
+      "name": "Slovechne"
+    },
+    {
+      "id": 197218,
+      "name": "Smolovivshchina"
+    },
+    {
+      "id": 197219,
+      "name": "Sokhatska Balka"
+    },
+    {
+      "id": 197220,
+      "name": "Stepanivka"
+    },
+    {
+      "id": 197221,
+      "name": "Sudivka"
+    },
+    {
+      "id": 197222,
+      "name": "Tabory"
+    },
+    {
+      "id": 197223,
+      "name": "Taraschanka"
+    },
+    {
+      "id": 197224,
+      "name": "Topory"
+    },
+    {
+      "id": 197225,
+      "name": "Travneve"
+    },
+    {
+      "id": 197226,
+      "name": "Troiany"
+    },
+    {
+      "id": 197227,
+      "name": "Vasilivka"
+    },
+    {
+      "id": 197228,
+      "name": "Velika Rudka"
+    },
+    {
+      "id": 197229,
+      "name": "Veliki Budishcha"
+    },
+    {
+      "id": 197230,
+      "name": "Velyka Bahachka"
+    },
+    {
+      "id": 197231,
+      "name": "Velyki Korovyntsi"
+    },
+    {
+      "id": 197232,
+      "name": "Velyki Sorochyntsi"
+    },
+    {
+      "id": 197233,
+      "name": "Veresna"
+    },
+    {
+      "id": 197234,
+      "name": "Veselivka"
+    },
+    {
+      "id": 197235,
+      "name": "Virlya"
+    },
+    {
+      "id": 197236,
+      "name": "Vodiana Balka"
+    },
+    {
+      "id": 197237,
+      "name": "Yablunets"
+    },
+    {
+      "id": 197238,
+      "name": "Yarun"
+    },
+    {
+      "id": 197239,
+      "name": "Yemilchyne"
+    },
+    {
+      "id": 197240,
+      "name": "Zabaro-Davidivka"
+    },
+    {
+      "id": 197241,
+      "name": "Zadovga"
+    },
+    {
+      "id": 197242,
+      "name": "Zakrinichchia"
+    },
+    {
+      "id": 197243,
+      "name": "Zalissia"
+    },
+    {
+      "id": 197244,
+      "name": "Zaliznia"
+    },
+    {
+      "id": 197245,
+      "name": "Zaluzhne"
+    },
+    {
+      "id": 197246,
+      "name": "Zapadnia"
+    },
+    {
+      "id": 197247,
+      "name": "Zarichchia"
+    },
+    {
+      "id": 197248,
+      "name": "Zarudintsi"
+    },
+    {
+      "id": 197249,
+      "name": "Zavodske"
+    },
+    {
+      "id": 197250,
+      "name": "Zbranki"
+    },
+    {
+      "id": 197251,
+      "name": "Zdorovets"
+    },
+    {
+      "id": 197252,
+      "name": "Zherdeli"
+    },
+    {
+      "id": 197253,
+      "name": "Zhitintsi"
+    },
+    {
+      "id": 197254,
+      "name": "Zhovte"
+    },
+    {
+      "id": 197255,
+      "name": "Zhovtii Brid"
+    },
+    {
+      "id": 197256,
+      "name": "Zhupanivka"
+    },
+    {
+      "id": 197257,
+      "name": "Zhurbintsi"
+    },
+    {
+      "id": 197258,
+      "name": "Zhytomyr"
+    },
+    {
+      "id": 197259,
+      "name": "Zinkiv"
+    },
+    {
+      "id": 197260,
+      "name": "Zlobichi"
+    },
+    {
+      "id": 197261,
+      "name": "Zoriane"
+    },
+    {
+      "id": 197262,
+      "name": "Zorokiv"
+    },
+    {
+      "id": 197263,
+      "name": "Zosimivka"
+    },
+    {
+      "id": 197264,
+      "name": "Zubivshchina"
+    },
+    {
+      "id": 197265,
+      "name": "Zvizdal"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "id": 3357,
+  "name": "Santander",
+  "state_code": "SAN",
+  "cities": [
+    {
+      "id": 92654,
+      "name": "Aguada"
+    },
+    {
+      "id": 92655,
+      "name": "Albania"
+    },
+    {
+      "id": 92656,
+      "name": "Aratoca"
+    },
+    {
+      "id": 92657,
+      "name": "Barbosa"
+    },
+    {
+      "id": 92658,
+      "name": "Barichara"
+    },
+    {
+      "id": 92659,
+      "name": "Barrancabermeja"
+    },
+    {
+      "id": 92660,
+      "name": "Betulia"
+    },
+    {
+      "id": 92661,
+      "name": "Bolívar"
+    },
+    {
+      "id": 92662,
+      "name": "Bucaramanga"
+    },
+    {
+      "id": 92663,
+      "name": "Cabrera"
+    },
+    {
+      "id": 92664,
+      "name": "California"
+    },
+    {
+      "id": 92665,
+      "name": "Capitanejo"
+    },
+    {
+      "id": 92666,
+      "name": "Carcasí"
+    },
+    {
+      "id": 92667,
+      "name": "Cepitá"
+    },
+    {
+      "id": 92668,
+      "name": "Cerrito"
+    },
+    {
+      "id": 92669,
+      "name": "Charalá"
+    },
+    {
+      "id": 92670,
+      "name": "Charta"
+    },
+    {
+      "id": 92671,
+      "name": "Chima"
+    },
+    {
+      "id": 92672,
+      "name": "Chipatá"
+    },
+    {
+      "id": 92673,
+      "name": "Cimitarra"
+    },
+    {
+      "id": 92674,
+      "name": "Concepción"
+    },
+    {
+      "id": 92675,
+      "name": "Confines"
+    },
+    {
+      "id": 92676,
+      "name": "Contratación"
+    },
+    {
+      "id": 92677,
+      "name": "Coromoro"
+    },
+    {
+      "id": 92678,
+      "name": "Curití"
+    },
+    {
+      "id": 92679,
+      "name": "El Carmen de Chucurí"
+    },
+    {
+      "id": 92680,
+      "name": "El Guacamayo"
+    },
+    {
+      "id": 92681,
+      "name": "El Peñón"
+    },
+    {
+      "id": 92682,
+      "name": "El Playón"
+    },
+    {
+      "id": 92683,
+      "name": "Encino"
+    },
+    {
+      "id": 92684,
+      "name": "Enciso"
+    },
+    {
+      "id": 92685,
+      "name": "Florián"
+    },
+    {
+      "id": 92686,
+      "name": "Floridablanca"
+    },
+    {
+      "id": 92687,
+      "name": "Galán"
+    },
+    {
+      "id": 92688,
+      "name": "Gambita"
+    },
+    {
+      "id": 92689,
+      "name": "Girón"
+    },
+    {
+      "id": 92690,
+      "name": "Guaca"
+    },
+    {
+      "id": 92691,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 92692,
+      "name": "Guapotá"
+    },
+    {
+      "id": 92693,
+      "name": "Guavatá"
+    },
+    {
+      "id": 92694,
+      "name": "Güepsa"
+    },
+    {
+      "id": 92695,
+      "name": "Hato"
+    },
+    {
+      "id": 92696,
+      "name": "Jesús María"
+    },
+    {
+      "id": 92697,
+      "name": "Jordán"
+    },
+    {
+      "id": 92698,
+      "name": "La Belleza"
+    },
+    {
+      "id": 92699,
+      "name": "La Paz"
+    },
+    {
+      "id": 92700,
+      "name": "Landázuri"
+    },
+    {
+      "id": 92701,
+      "name": "Lebrija"
+    },
+    {
+      "id": 92702,
+      "name": "Los Santos"
+    },
+    {
+      "id": 92703,
+      "name": "Macaravita"
+    },
+    {
+      "id": 92704,
+      "name": "Málaga"
+    },
+    {
+      "id": 92705,
+      "name": "Matanza"
+    },
+    {
+      "id": 92706,
+      "name": "Mogotes"
+    },
+    {
+      "id": 92707,
+      "name": "Molagavita"
+    },
+    {
+      "id": 92708,
+      "name": "Ocamonte"
+    },
+    {
+      "id": 92709,
+      "name": "Oiba"
+    },
+    {
+      "id": 92710,
+      "name": "Onzaga"
+    },
+    {
+      "id": 92711,
+      "name": "Palmar"
+    },
+    {
+      "id": 92712,
+      "name": "Palmas del Socorro"
+    },
+    {
+      "id": 92713,
+      "name": "Páramo"
+    },
+    {
+      "id": 92714,
+      "name": "Piedecuesta"
+    },
+    {
+      "id": 92715,
+      "name": "Pinchote"
+    },
+    {
+      "id": 92716,
+      "name": "Puente Nacional"
+    },
+    {
+      "id": 92717,
+      "name": "Puerto Parra"
+    },
+    {
+      "id": 92718,
+      "name": "Puerto Wilches"
+    },
+    {
+      "id": 92719,
+      "name": "Rionegro"
+    },
+    {
+      "id": 92720,
+      "name": "Sabana de Torres"
+    },
+    {
+      "id": 92721,
+      "name": "San Andrés"
+    },
+    {
+      "id": 92722,
+      "name": "San Benito"
+    },
+    {
+      "id": 92723,
+      "name": "San Gil"
+    },
+    {
+      "id": 92724,
+      "name": "San Joaquín"
+    },
+    {
+      "id": 92725,
+      "name": "San José de Miranda"
+    },
+    {
+      "id": 92726,
+      "name": "San Miguel"
+    },
+    {
+      "id": 92727,
+      "name": "San Vicente de Chucurí"
+    },
+    {
+      "id": 92728,
+      "name": "Santa Bárbara"
+    },
+    {
+      "id": 92729,
+      "name": "Santa Helena Del Opón"
+    },
+    {
+      "id": 92730,
+      "name": "Simacota"
+    },
+    {
+      "id": 92731,
+      "name": "Socorro"
+    },
+    {
+      "id": 92732,
+      "name": "Suaita"
+    },
+    {
+      "id": 92733,
+      "name": "Sucre"
+    },
+    {
+      "id": 92734,
+      "name": "Suratá"
+    },
+    {
+      "id": 92735,
+      "name": "Tona"
+    },
+    {
+      "id": 92736,
+      "name": "Valle de San José"
+    },
+    {
+      "id": 92737,
+      "name": "Vélez"
+    },
+    {
+      "id": 92738,
+      "name": "Vetas"
+    },
+    {
+      "id": 92739,
+      "name": "Villanueva"
+    },
+    {
+      "id": 92740,
+      "name": "Zapatoca"
+    }
+  ]
+}

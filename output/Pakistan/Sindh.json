@@ -1,0 +1,483 @@
+{
+  "id": 5613,
+  "name": "Sindh",
+  "state_code": "SD",
+  "cities": [
+    {
+      "id": 152754,
+      "name": "Adilpur"
+    },
+    {
+      "id": 152755,
+      "name": "Badin"
+    },
+    {
+      "id": 152756,
+      "name": "Bagarji"
+    },
+    {
+      "id": 152757,
+      "name": "Bandhi"
+    },
+    {
+      "id": 152758,
+      "name": "Berani"
+    },
+    {
+      "id": 152759,
+      "name": "Bhan"
+    },
+    {
+      "id": 152760,
+      "name": "Bhiria"
+    },
+    {
+      "id": 152761,
+      "name": "Bhit Shah"
+    },
+    {
+      "id": 152762,
+      "name": "Bozdar Wada"
+    },
+    {
+      "id": 152763,
+      "name": "Bulri"
+    },
+    {
+      "id": 152764,
+      "name": "Chak"
+    },
+    {
+      "id": 152765,
+      "name": "Chamber"
+    },
+    {
+      "id": 152766,
+      "name": "Chhor"
+    },
+    {
+      "id": 152767,
+      "name": "Chuhar Jamali"
+    },
+    {
+      "id": 152768,
+      "name": "Dadu"
+    },
+    {
+      "id": 152769,
+      "name": "Daromehar"
+    },
+    {
+      "id": 152770,
+      "name": "Darya Khan Marri"
+    },
+    {
+      "id": 152771,
+      "name": "Daulatpur"
+    },
+    {
+      "id": 152772,
+      "name": "Daur"
+    },
+    {
+      "id": 152773,
+      "name": "Dhoro Naro"
+    },
+    {
+      "id": 152774,
+      "name": "Digri"
+    },
+    {
+      "id": 152775,
+      "name": "Diplo"
+    },
+    {
+      "id": 152776,
+      "name": "Dokri"
+    },
+    {
+      "id": 152777,
+      "name": "Gambat"
+    },
+    {
+      "id": 152778,
+      "name": "Garhiyasin"
+    },
+    {
+      "id": 152779,
+      "name": "Gharo"
+    },
+    {
+      "id": 152780,
+      "name": "Ghauspur"
+    },
+    {
+      "id": 152781,
+      "name": "Ghotki"
+    },
+    {
+      "id": 152782,
+      "name": "Goth Garelo"
+    },
+    {
+      "id": 152783,
+      "name": "Goth Phulji"
+    },
+    {
+      "id": 152784,
+      "name": "Goth Radhan"
+    },
+    {
+      "id": 152785,
+      "name": "Hala"
+    },
+    {
+      "id": 152786,
+      "name": "Hingorja"
+    },
+    {
+      "id": 152787,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 152788,
+      "name": "Islamkot"
+    },
+    {
+      "id": 152789,
+      "name": "Jacobabad"
+    },
+    {
+      "id": 152790,
+      "name": "Jām Sāhib"
+    },
+    {
+      "id": 152791,
+      "name": "Jamshoro"
+    },
+    {
+      "id": 152792,
+      "name": "Jati"
+    },
+    {
+      "id": 152793,
+      "name": "Jhol"
+    },
+    {
+      "id": 152794,
+      "name": "Johi"
+    },
+    {
+      "id": 152795,
+      "name": "Kadhan"
+    },
+    {
+      "id": 152796,
+      "name": "Kambar"
+    },
+    {
+      "id": 152797,
+      "name": "Kandhkot"
+    },
+    {
+      "id": 152798,
+      "name": "Kandiari"
+    },
+    {
+      "id": 152799,
+      "name": "Kandiaro"
+    },
+    {
+      "id": 152800,
+      "name": "Karachi"
+    },
+    {
+      "id": 152801,
+      "name": "Karaundi"
+    },
+    {
+      "id": 152802,
+      "name": "Kario Ghanwar"
+    },
+    {
+      "id": 152803,
+      "name": "Kashmor"
+    },
+    {
+      "id": 152804,
+      "name": "Keti Bandar"
+    },
+    {
+      "id": 152805,
+      "name": "Khadro"
+    },
+    {
+      "id": 152806,
+      "name": "Khairpur"
+    },
+    {
+      "id": 152807,
+      "name": "Khairpur Mir’s"
+    },
+    {
+      "id": 152808,
+      "name": "Khairpur Nathan Shah"
+    },
+    {
+      "id": 152809,
+      "name": "Khanpur Mahar"
+    },
+    {
+      "id": 152810,
+      "name": "Kot Diji"
+    },
+    {
+      "id": 152811,
+      "name": "Kotri"
+    },
+    {
+      "id": 152812,
+      "name": "Kunri"
+    },
+    {
+      "id": 152813,
+      "name": "Lakhi"
+    },
+    {
+      "id": 152814,
+      "name": "Larkana"
+    },
+    {
+      "id": 152815,
+      "name": "Madeji"
+    },
+    {
+      "id": 152816,
+      "name": "Malir Cantonment"
+    },
+    {
+      "id": 152817,
+      "name": "Matiari"
+    },
+    {
+      "id": 152818,
+      "name": "Matli"
+    },
+    {
+      "id": 152819,
+      "name": "Mehar"
+    },
+    {
+      "id": 152820,
+      "name": "Miro Khan"
+    },
+    {
+      "id": 152821,
+      "name": "Mirpur Bhtoro"
+    },
+    {
+      "id": 152822,
+      "name": "Mirpur Khas"
+    },
+    {
+      "id": 152823,
+      "name": "Mirpur Mathelo"
+    },
+    {
+      "id": 152824,
+      "name": "Mirpur Sakro"
+    },
+    {
+      "id": 152825,
+      "name": "Mirwah Gorchani"
+    },
+    {
+      "id": 152826,
+      "name": "Mithi"
+    },
+    {
+      "id": 152827,
+      "name": "Moro"
+    },
+    {
+      "id": 152828,
+      "name": "Nabisar"
+    },
+    {
+      "id": 152829,
+      "name": "Nasirabad"
+    },
+    {
+      "id": 152830,
+      "name": "Naudero"
+    },
+    {
+      "id": 152831,
+      "name": "Naukot"
+    },
+    {
+      "id": 152832,
+      "name": "Naushahro Firoz"
+    },
+    {
+      "id": 152833,
+      "name": "Nawabshah"
+    },
+    {
+      "id": 152834,
+      "name": "New Bādāh"
+    },
+    {
+      "id": 152835,
+      "name": "Pad Idan"
+    },
+    {
+      "id": 152836,
+      "name": "Pano Aqil"
+    },
+    {
+      "id": 152837,
+      "name": "Pir Jo Goth"
+    },
+    {
+      "id": 152838,
+      "name": "Pithoro"
+    },
+    {
+      "id": 152839,
+      "name": "Rajo Khanani"
+    },
+    {
+      "id": 152840,
+      "name": "Ranipur"
+    },
+    {
+      "id": 152841,
+      "name": "Ratodero"
+    },
+    {
+      "id": 152842,
+      "name": "Rohri"
+    },
+    {
+      "id": 152843,
+      "name": "Rustam"
+    },
+    {
+      "id": 152844,
+      "name": "Sakrand"
+    },
+    {
+      "id": 152845,
+      "name": "Samaro"
+    },
+    {
+      "id": 152846,
+      "name": "Sanghar"
+    },
+    {
+      "id": 152847,
+      "name": "Sann"
+    },
+    {
+      "id": 152848,
+      "name": "Sehwan"
+    },
+    {
+      "id": 152849,
+      "name": "Setharja Old"
+    },
+    {
+      "id": 152850,
+      "name": "Shahdad Kot"
+    },
+    {
+      "id": 152851,
+      "name": "Shahdadpur"
+    },
+    {
+      "id": 152852,
+      "name": "Shahpur Chakar"
+    },
+    {
+      "id": 152853,
+      "name": "Shikarpur"
+    },
+    {
+      "id": 152854,
+      "name": "Sinjhoro"
+    },
+    {
+      "id": 152855,
+      "name": "Sīta Road"
+    },
+    {
+      "id": 152856,
+      "name": "Sobhodero"
+    },
+    {
+      "id": 152857,
+      "name": "Sukkur"
+    },
+    {
+      "id": 152858,
+      "name": "Talhar"
+    },
+    {
+      "id": 152859,
+      "name": "Tando Adam"
+    },
+    {
+      "id": 152860,
+      "name": "Tando Allahyar"
+    },
+    {
+      "id": 152861,
+      "name": "Tando Bago"
+    },
+    {
+      "id": 152862,
+      "name": "Tando Jam"
+    },
+    {
+      "id": 152863,
+      "name": "Tando Mitha Khan"
+    },
+    {
+      "id": 152864,
+      "name": "Tando Muhammad Khan"
+    },
+    {
+      "id": 152865,
+      "name": "Tangwani"
+    },
+    {
+      "id": 152866,
+      "name": "Tharu Shah"
+    },
+    {
+      "id": 152867,
+      "name": "Thatta"
+    },
+    {
+      "id": 152868,
+      "name": "Thul"
+    },
+    {
+      "id": 152869,
+      "name": "Ubauro"
+    },
+    {
+      "id": 152870,
+      "name": "Umarkot"
+    },
+    {
+      "id": 152871,
+      "name": "Umerkot District"
+    },
+    {
+      "id": 152872,
+      "name": "Warah"
+    }
+  ]
+}

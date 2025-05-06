@@ -1,0 +1,327 @@
+{
+  "id": 6634,
+  "name": "Stockholm County",
+  "state_code": "AB",
+  "cities": [
+    {
+      "id": 190667,
+      "name": "Akalla"
+    },
+    {
+      "id": 190668,
+      "name": "Åkersberga"
+    },
+    {
+      "id": 190669,
+      "name": "Alby"
+    },
+    {
+      "id": 190670,
+      "name": "Älmsta"
+    },
+    {
+      "id": 190671,
+      "name": "Älta"
+    },
+    {
+      "id": 190672,
+      "name": "Arnö"
+    },
+    {
+      "id": 190673,
+      "name": "Årsta"
+    },
+    {
+      "id": 190674,
+      "name": "Bergshamra"
+    },
+    {
+      "id": 190675,
+      "name": "Bollmora"
+    },
+    {
+      "id": 190676,
+      "name": "Boo"
+    },
+    {
+      "id": 190677,
+      "name": "Brevik"
+    },
+    {
+      "id": 190678,
+      "name": "Bro"
+    },
+    {
+      "id": 190679,
+      "name": "Bromma"
+    },
+    {
+      "id": 190680,
+      "name": "Brunn"
+    },
+    {
+      "id": 190681,
+      "name": "Brunna"
+    },
+    {
+      "id": 190682,
+      "name": "Dalarö"
+    },
+    {
+      "id": 190683,
+      "name": "Djurö"
+    },
+    {
+      "id": 190684,
+      "name": "Djursholm"
+    },
+    {
+      "id": 190685,
+      "name": "Ekerö"
+    },
+    {
+      "id": 190686,
+      "name": "Enebyberg"
+    },
+    {
+      "id": 190687,
+      "name": "Eriksberg"
+    },
+    {
+      "id": 190688,
+      "name": "Fisksätra"
+    },
+    {
+      "id": 190689,
+      "name": "Fittja"
+    },
+    {
+      "id": 190690,
+      "name": "Gamla Stan"
+    },
+    {
+      "id": 190691,
+      "name": "Gustavsberg"
+    },
+    {
+      "id": 190692,
+      "name": "Hallstavik"
+    },
+    {
+      "id": 190693,
+      "name": "Handen"
+    },
+    {
+      "id": 190694,
+      "name": "Haninge"
+    },
+    {
+      "id": 190695,
+      "name": "Hemmesta"
+    },
+    {
+      "id": 190696,
+      "name": "Hölö"
+    },
+    {
+      "id": 190697,
+      "name": "Huddinge"
+    },
+    {
+      "id": 190698,
+      "name": "Jakobsberg"
+    },
+    {
+      "id": 190699,
+      "name": "Järna"
+    },
+    {
+      "id": 190700,
+      "name": "Jordbro"
+    },
+    {
+      "id": 190701,
+      "name": "Kista"
+    },
+    {
+      "id": 190702,
+      "name": "Kopparmora"
+    },
+    {
+      "id": 190703,
+      "name": "Kummelnäs"
+    },
+    {
+      "id": 190704,
+      "name": "Kungsängen"
+    },
+    {
+      "id": 190705,
+      "name": "Kungsholmen"
+    },
+    {
+      "id": 190706,
+      "name": "Långvik"
+    },
+    {
+      "id": 190707,
+      "name": "Lidingö"
+    },
+    {
+      "id": 190708,
+      "name": "Lindholmen"
+    },
+    {
+      "id": 190709,
+      "name": "Märsta"
+    },
+    {
+      "id": 190710,
+      "name": "Mölnbo"
+    },
+    {
+      "id": 190711,
+      "name": "Mörtnäs"
+    },
+    {
+      "id": 190712,
+      "name": "Nacka"
+    },
+    {
+      "id": 190713,
+      "name": "Norrtälje"
+    },
+    {
+      "id": 190714,
+      "name": "Nykvarn"
+    },
+    {
+      "id": 190715,
+      "name": "Nynäshamn"
+    },
+    {
+      "id": 190716,
+      "name": "Ösmo"
+    },
+    {
+      "id": 190717,
+      "name": "Östermalm"
+    },
+    {
+      "id": 190718,
+      "name": "Pershagen"
+    },
+    {
+      "id": 190719,
+      "name": "Råsunda"
+    },
+    {
+      "id": 190720,
+      "name": "Resarö"
+    },
+    {
+      "id": 190721,
+      "name": "Rimbo"
+    },
+    {
+      "id": 190722,
+      "name": "Rindö"
+    },
+    {
+      "id": 190723,
+      "name": "Rönninge"
+    },
+    {
+      "id": 190724,
+      "name": "Rosersberg"
+    },
+    {
+      "id": 190725,
+      "name": "Saltsjöbaden"
+    },
+    {
+      "id": 190726,
+      "name": "Segeltorp"
+    },
+    {
+      "id": 190727,
+      "name": "Sigtuna"
+    },
+    {
+      "id": 190728,
+      "name": "Skänninge"
+    },
+    {
+      "id": 190729,
+      "name": "Södermalm"
+    },
+    {
+      "id": 190730,
+      "name": "Södertälje"
+    },
+    {
+      "id": 190731,
+      "name": "Sollentuna"
+    },
+    {
+      "id": 190732,
+      "name": "Solna"
+    },
+    {
+      "id": 190733,
+      "name": "Stavsnäs"
+    },
+    {
+      "id": 190734,
+      "name": "Stenhamra"
+    },
+    {
+      "id": 190735,
+      "name": "Stockholm"
+    },
+    {
+      "id": 190736,
+      "name": "Strömma"
+    },
+    {
+      "id": 190737,
+      "name": "Sundbyberg"
+    },
+    {
+      "id": 190738,
+      "name": "Tensta"
+    },
+    {
+      "id": 190739,
+      "name": "Tullinge"
+    },
+    {
+      "id": 190740,
+      "name": "Tumba"
+    },
+    {
+      "id": 190741,
+      "name": "Upplands Väsby"
+    },
+    {
+      "id": 190742,
+      "name": "Vallentuna"
+    },
+    {
+      "id": 190743,
+      "name": "Vårby"
+    },
+    {
+      "id": 190744,
+      "name": "Vårsta"
+    },
+    {
+      "id": 190745,
+      "name": "Vasastan"
+    },
+    {
+      "id": 190746,
+      "name": "Vaxholm"
+    }
+  ]
+}

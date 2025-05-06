@@ -1,0 +1,563 @@
+{
+  "id": 3202,
+  "name": "British Columbia",
+  "state_code": "BC",
+  "cities": [
+    {
+      "id": 89013,
+      "name": "Abbotsford"
+    },
+    {
+      "id": 89014,
+      "name": "Agassiz"
+    },
+    {
+      "id": 89015,
+      "name": "Aldergrove"
+    },
+    {
+      "id": 89016,
+      "name": "Aldergrove East"
+    },
+    {
+      "id": 89017,
+      "name": "Anmore"
+    },
+    {
+      "id": 89018,
+      "name": "Arbutus Ridge"
+    },
+    {
+      "id": 89019,
+      "name": "Armstrong"
+    },
+    {
+      "id": 89020,
+      "name": "Ashcroft"
+    },
+    {
+      "id": 89021,
+      "name": "Barrière"
+    },
+    {
+      "id": 89022,
+      "name": "Bowen Island"
+    },
+    {
+      "id": 89023,
+      "name": "Burnaby"
+    },
+    {
+      "id": 89024,
+      "name": "Burns Lake"
+    },
+    {
+      "id": 89025,
+      "name": "Cache Creek"
+    },
+    {
+      "id": 89026,
+      "name": "Campbell River"
+    },
+    {
+      "id": 89027,
+      "name": "Castlegar"
+    },
+    {
+      "id": 89028,
+      "name": "Cedar"
+    },
+    {
+      "id": 89029,
+      "name": "Central Coast Regional District"
+    },
+    {
+      "id": 89030,
+      "name": "Chase"
+    },
+    {
+      "id": 89031,
+      "name": "Chemainus"
+    },
+    {
+      "id": 89032,
+      "name": "Chetwynd"
+    },
+    {
+      "id": 89033,
+      "name": "Chilliwack"
+    },
+    {
+      "id": 89034,
+      "name": "Colwood"
+    },
+    {
+      "id": 89035,
+      "name": "Coombs"
+    },
+    {
+      "id": 89036,
+      "name": "Coquitlam"
+    },
+    {
+      "id": 89037,
+      "name": "Courtenay"
+    },
+    {
+      "id": 89038,
+      "name": "Cowichan Bay"
+    },
+    {
+      "id": 89039,
+      "name": "Cranbrook"
+    },
+    {
+      "id": 89040,
+      "name": "Creston"
+    },
+    {
+      "id": 89041,
+      "name": "Cumberland"
+    },
+    {
+      "id": 89042,
+      "name": "Dawson Creek"
+    },
+    {
+      "id": 89043,
+      "name": "Delta"
+    },
+    {
+      "id": 89044,
+      "name": "Denman Island"
+    },
+    {
+      "id": 89045,
+      "name": "Denman Island Trust Area"
+    },
+    {
+      "id": 89046,
+      "name": "Duck Lake"
+    },
+    {
+      "id": 89047,
+      "name": "Duncan"
+    },
+    {
+      "id": 89048,
+      "name": "East Wellington"
+    },
+    {
+      "id": 89049,
+      "name": "Elkford"
+    },
+    {
+      "id": 89050,
+      "name": "Ellison"
+    },
+    {
+      "id": 89051,
+      "name": "Enderby"
+    },
+    {
+      "id": 89052,
+      "name": "Fairwinds"
+    },
+    {
+      "id": 89053,
+      "name": "Fernie"
+    },
+    {
+      "id": 89054,
+      "name": "Fort Nelson"
+    },
+    {
+      "id": 89055,
+      "name": "Fort St. John"
+    },
+    {
+      "id": 89056,
+      "name": "Fraser Valley Regional District"
+    },
+    {
+      "id": 89057,
+      "name": "French Creek"
+    },
+    {
+      "id": 89058,
+      "name": "Fruitvale"
+    },
+    {
+      "id": 89059,
+      "name": "Gibsons"
+    },
+    {
+      "id": 89060,
+      "name": "Golden"
+    },
+    {
+      "id": 89061,
+      "name": "Grand Forks"
+    },
+    {
+      "id": 89062,
+      "name": "Hanceville"
+    },
+    {
+      "id": 89063,
+      "name": "Hope"
+    },
+    {
+      "id": 89064,
+      "name": "Hornby Island"
+    },
+    {
+      "id": 89065,
+      "name": "Houston"
+    },
+    {
+      "id": 89066,
+      "name": "Invermere"
+    },
+    {
+      "id": 89067,
+      "name": "Kamloops"
+    },
+    {
+      "id": 89068,
+      "name": "Kelowna"
+    },
+    {
+      "id": 89069,
+      "name": "Kimberley"
+    },
+    {
+      "id": 89070,
+      "name": "Kitimat"
+    },
+    {
+      "id": 89071,
+      "name": "Ladner"
+    },
+    {
+      "id": 89072,
+      "name": "Ladysmith"
+    },
+    {
+      "id": 89073,
+      "name": "Lake Cowichan"
+    },
+    {
+      "id": 89074,
+      "name": "Langford"
+    },
+    {
+      "id": 89075,
+      "name": "Langley"
+    },
+    {
+      "id": 89076,
+      "name": "Lillooet"
+    },
+    {
+      "id": 89077,
+      "name": "Lions Bay"
+    },
+    {
+      "id": 89078,
+      "name": "Logan Lake"
+    },
+    {
+      "id": 89079,
+      "name": "Lumby"
+    },
+    {
+      "id": 89080,
+      "name": "Mackenzie"
+    },
+    {
+      "id": 89081,
+      "name": "Maple Ridge"
+    },
+    {
+      "id": 89082,
+      "name": "Merritt"
+    },
+    {
+      "id": 89083,
+      "name": "Metchosin"
+    },
+    {
+      "id": 89084,
+      "name": "Metro Vancouver Regional District"
+    },
+    {
+      "id": 89085,
+      "name": "Mission"
+    },
+    {
+      "id": 89086,
+      "name": "Nakusp"
+    },
+    {
+      "id": 89087,
+      "name": "Nanaimo"
+    },
+    {
+      "id": 89088,
+      "name": "Nelson"
+    },
+    {
+      "id": 89089,
+      "name": "New Westminster"
+    },
+    {
+      "id": 89090,
+      "name": "North Cowichan"
+    },
+    {
+      "id": 89091,
+      "name": "North Oyster/Yellow Point"
+    },
+    {
+      "id": 89092,
+      "name": "North Saanich"
+    },
+    {
+      "id": 89093,
+      "name": "North Vancouver"
+    },
+    {
+      "id": 89094,
+      "name": "Oak Bay"
+    },
+    {
+      "id": 89095,
+      "name": "Okanagan"
+    },
+    {
+      "id": 89096,
+      "name": "Okanagan Falls"
+    },
+    {
+      "id": 89097,
+      "name": "Oliver"
+    },
+    {
+      "id": 89098,
+      "name": "Osoyoos"
+    },
+    {
+      "id": 89099,
+      "name": "Parksville"
+    },
+    {
+      "id": 89100,
+      "name": "Peace River Regional District"
+    },
+    {
+      "id": 89101,
+      "name": "Peachland"
+    },
+    {
+      "id": 89102,
+      "name": "Pemberton"
+    },
+    {
+      "id": 89103,
+      "name": "Penticton"
+    },
+    {
+      "id": 89104,
+      "name": "Pitt Meadows"
+    },
+    {
+      "id": 89105,
+      "name": "Port Alberni"
+    },
+    {
+      "id": 89106,
+      "name": "Port Coquitlam"
+    },
+    {
+      "id": 89107,
+      "name": "Port McNeill"
+    },
+    {
+      "id": 89108,
+      "name": "Port Moody"
+    },
+    {
+      "id": 89109,
+      "name": "Powell River"
+    },
+    {
+      "id": 89110,
+      "name": "Prince George"
+    },
+    {
+      "id": 89111,
+      "name": "Prince Rupert"
+    },
+    {
+      "id": 89112,
+      "name": "Princeton"
+    },
+    {
+      "id": 89113,
+      "name": "Puntledge"
+    },
+    {
+      "id": 89114,
+      "name": "Quesnel"
+    },
+    {
+      "id": 89115,
+      "name": "Regional District of Alberni-Clayoquot"
+    },
+    {
+      "id": 89116,
+      "name": "Regional District of Central Okanagan"
+    },
+    {
+      "id": 89117,
+      "name": "Revelstoke"
+    },
+    {
+      "id": 89118,
+      "name": "Richmond"
+    },
+    {
+      "id": 89119,
+      "name": "Rossland"
+    },
+    {
+      "id": 89120,
+      "name": "Royston"
+    },
+    {
+      "id": 89121,
+      "name": "Salmo"
+    },
+    {
+      "id": 89122,
+      "name": "Salmon Arm"
+    },
+    {
+      "id": 89123,
+      "name": "Salt Spring Island"
+    },
+    {
+      "id": 89124,
+      "name": "Saltair"
+    },
+    {
+      "id": 89125,
+      "name": "Sechelt"
+    },
+    {
+      "id": 89126,
+      "name": "Sicamous"
+    },
+    {
+      "id": 89127,
+      "name": "Six Mile"
+    },
+    {
+      "id": 89128,
+      "name": "Smithers"
+    },
+    {
+      "id": 89129,
+      "name": "Sooke"
+    },
+    {
+      "id": 89130,
+      "name": "South Pender Harbour"
+    },
+    {
+      "id": 89131,
+      "name": "Sparwood"
+    },
+    {
+      "id": 89132,
+      "name": "Summerland"
+    },
+    {
+      "id": 89133,
+      "name": "Surrey"
+    },
+    {
+      "id": 89134,
+      "name": "Terrace"
+    },
+    {
+      "id": 89135,
+      "name": "Tofino"
+    },
+    {
+      "id": 89136,
+      "name": "Trail"
+    },
+    {
+      "id": 89137,
+      "name": "Tsawwassen"
+    },
+    {
+      "id": 89138,
+      "name": "Tumbler Ridge"
+    },
+    {
+      "id": 89139,
+      "name": "Ucluelet"
+    },
+    {
+      "id": 89140,
+      "name": "Vancouver"
+    },
+    {
+      "id": 89141,
+      "name": "Vanderhoof"
+    },
+    {
+      "id": 89142,
+      "name": "Vernon"
+    },
+    {
+      "id": 89143,
+      "name": "Victoria"
+    },
+    {
+      "id": 89144,
+      "name": "Walnut Grove"
+    },
+    {
+      "id": 89145,
+      "name": "Welcome Beach"
+    },
+    {
+      "id": 89146,
+      "name": "West End"
+    },
+    {
+      "id": 89147,
+      "name": "West Kelowna"
+    },
+    {
+      "id": 89148,
+      "name": "West Vancouver"
+    },
+    {
+      "id": 89149,
+      "name": "Whistler"
+    },
+    {
+      "id": 89150,
+      "name": "White Rock"
+    },
+    {
+      "id": 89151,
+      "name": "Williams Lake"
+    }
+  ]
+}

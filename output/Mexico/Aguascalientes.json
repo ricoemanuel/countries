@@ -1,0 +1,371 @@
+{
+  "id": 5123,
+  "name": "Aguascalientes",
+  "state_code": "AGU",
+  "cities": [
+    {
+      "id": 138908,
+      "name": "Aguascalientes"
+    },
+    {
+      "id": 138909,
+      "name": "Arboledas Paso Blanco [Fraccionamiento]"
+    },
+    {
+      "id": 138910,
+      "name": "Arellano"
+    },
+    {
+      "id": 138911,
+      "name": "Asientos"
+    },
+    {
+      "id": 138912,
+      "name": "Bimbaletes Aguascalientes (El Álamo)"
+    },
+    {
+      "id": 138913,
+      "name": "Calvillo"
+    },
+    {
+      "id": 138914,
+      "name": "Carboneras"
+    },
+    {
+      "id": 138915,
+      "name": "Cartagena [Fraccionamiento]"
+    },
+    {
+      "id": 138916,
+      "name": "Centro de Arriba"
+    },
+    {
+      "id": 138917,
+      "name": "Ciénega Grande"
+    },
+    {
+      "id": 138918,
+      "name": "Corral de Barrancos"
+    },
+    {
+      "id": 138919,
+      "name": "Cosío"
+    },
+    {
+      "id": 138920,
+      "name": "Cotorina"
+    },
+    {
+      "id": 138921,
+      "name": "Crucero Las Pilas"
+    },
+    {
+      "id": 138922,
+      "name": "Cumbres III"
+    },
+    {
+      "id": 138923,
+      "name": "Ejido la Guayana (Rancho Seco)"
+    },
+    {
+      "id": 138924,
+      "name": "El Bajío"
+    },
+    {
+      "id": 138925,
+      "name": "El Chayote"
+    },
+    {
+      "id": 138926,
+      "name": "El Cuervero (Cuerveros)"
+    },
+    {
+      "id": 138927,
+      "name": "El Llano"
+    },
+    {
+      "id": 138928,
+      "name": "El Refugio de Peñuelas"
+    },
+    {
+      "id": 138929,
+      "name": "El Refugio de Providencia (Providencia)"
+    },
+    {
+      "id": 138930,
+      "name": "El Salero"
+    },
+    {
+      "id": 138931,
+      "name": "El Tule"
+    },
+    {
+      "id": 138932,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 138933,
+      "name": "Escaleras"
+    },
+    {
+      "id": 138934,
+      "name": "Ex-Viñedos Guadalupe"
+    },
+    {
+      "id": 138935,
+      "name": "General Ignacio Zaragoza"
+    },
+    {
+      "id": 138936,
+      "name": "Guadalupe de Atlas"
+    },
+    {
+      "id": 138937,
+      "name": "Jaltiche de Arriba"
+    },
+    {
+      "id": 138938,
+      "name": "Jaltomate"
+    },
+    {
+      "id": 138939,
+      "name": "Jarillas"
+    },
+    {
+      "id": 138940,
+      "name": "Jesús Gómez Portugal"
+    },
+    {
+      "id": 138941,
+      "name": "Jesús Gómez Portugal (Margaritas)"
+    },
+    {
+      "id": 138942,
+      "name": "Jesús María"
+    },
+    {
+      "id": 138943,
+      "name": "La Concepción"
+    },
+    {
+      "id": 138944,
+      "name": "La Escondida"
+    },
+    {
+      "id": 138945,
+      "name": "La Labor"
+    },
+    {
+      "id": 138946,
+      "name": "La Loma de los Negritos"
+    },
+    {
+      "id": 138947,
+      "name": "La Panadera"
+    },
+    {
+      "id": 138948,
+      "name": "La Punta"
+    },
+    {
+      "id": 138949,
+      "name": "Las Ánimas"
+    },
+    {
+      "id": 138950,
+      "name": "Las Norias de Ojocaliente"
+    },
+    {
+      "id": 138951,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 138952,
+      "name": "Los Arquitos"
+    },
+    {
+      "id": 138953,
+      "name": "Los Caños"
+    },
+    {
+      "id": 138954,
+      "name": "Los Conos"
+    },
+    {
+      "id": 138955,
+      "name": "Macario J. Gómez [Colonia]"
+    },
+    {
+      "id": 138956,
+      "name": "Malpaso"
+    },
+    {
+      "id": 138957,
+      "name": "Maravillas"
+    },
+    {
+      "id": 138958,
+      "name": "Mesa Grande"
+    },
+    {
+      "id": 138959,
+      "name": "Miravalle"
+    },
+    {
+      "id": 138960,
+      "name": "Molinos"
+    },
+    {
+      "id": 138961,
+      "name": "Montoro"
+    },
+    {
+      "id": 138962,
+      "name": "Noria del Borrego (Norias)"
+    },
+    {
+      "id": 138963,
+      "name": "Norias del Paso Hondo"
+    },
+    {
+      "id": 138964,
+      "name": "Ojo de Agua de Crucitas"
+    },
+    {
+      "id": 138965,
+      "name": "Ojocaliente"
+    },
+    {
+      "id": 138966,
+      "name": "Pabellón de Arteaga"
+    },
+    {
+      "id": 138967,
+      "name": "Pabellón de Hidalgo"
+    },
+    {
+      "id": 138968,
+      "name": "Palo Alto"
+    },
+    {
+      "id": 138969,
+      "name": "Paredes"
+    },
+    {
+      "id": 138970,
+      "name": "Paseos de la Providencia [Fraccionamiento]"
+    },
+    {
+      "id": 138971,
+      "name": "Paseos de las Haciendas [Fraccionamiento]"
+    },
+    {
+      "id": 138972,
+      "name": "Paso Blanco"
+    },
+    {
+      "id": 138973,
+      "name": "Peñuelas (El Cienegal)"
+    },
+    {
+      "id": 138974,
+      "name": "Pilotos"
+    },
+    {
+      "id": 138975,
+      "name": "Pocitos"
+    },
+    {
+      "id": 138976,
+      "name": "Puertecito de la Virgen"
+    },
+    {
+      "id": 138977,
+      "name": "Rincón de Romos"
+    },
+    {
+      "id": 138978,
+      "name": "San Antonio"
+    },
+    {
+      "id": 138979,
+      "name": "San Antonio de los Horcones"
+    },
+    {
+      "id": 138980,
+      "name": "San Antonio de los Ríos"
+    },
+    {
+      "id": 138981,
+      "name": "San Antonio de Peñuelas"
+    },
+    {
+      "id": 138982,
+      "name": "San Francisco de los Romo"
+    },
+    {
+      "id": 138983,
+      "name": "San Ignacio"
+    },
+    {
+      "id": 138984,
+      "name": "San Jacinto"
+    },
+    {
+      "id": 138985,
+      "name": "San José de Gracia"
+    },
+    {
+      "id": 138986,
+      "name": "San Luis de Letras"
+    },
+    {
+      "id": 138987,
+      "name": "San Sebastián [Fraccionamiento]"
+    },
+    {
+      "id": 138988,
+      "name": "San Tadeo"
+    },
+    {
+      "id": 138989,
+      "name": "Santa Isabel [Fraccionamiento]"
+    },
+    {
+      "id": 138990,
+      "name": "Santa María de la Paz"
+    },
+    {
+      "id": 138991,
+      "name": "Santa Rosa (El Huizache)"
+    },
+    {
+      "id": 138992,
+      "name": "Santiago"
+    },
+    {
+      "id": 138993,
+      "name": "Tepetates"
+    },
+    {
+      "id": 138994,
+      "name": "Tepezalá"
+    },
+    {
+      "id": 138995,
+      "name": "Valladolid"
+    },
+    {
+      "id": 138996,
+      "name": "Valle Huejúcar (Fraccionamiento Popular) [Fraccionamiento]"
+    },
+    {
+      "id": 138997,
+      "name": "Villa Juárez"
+    },
+    {
+      "id": 138998,
+      "name": "Villa Licenciado Jesús Terán (Calvillito)"
+    }
+  ]
+}

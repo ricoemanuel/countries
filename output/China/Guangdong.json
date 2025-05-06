@@ -1,0 +1,295 @@
+{
+  "id": 3301,
+  "name": "Guangdong",
+  "state_code": "GD",
+  "cities": [
+    {
+      "id": 90643,
+      "name": "Anbu"
+    },
+    {
+      "id": 90644,
+      "name": "Chaozhou"
+    },
+    {
+      "id": 90645,
+      "name": "Chenghua"
+    },
+    {
+      "id": 90646,
+      "name": "Daliang"
+    },
+    {
+      "id": 90647,
+      "name": "Danshui"
+    },
+    {
+      "id": 90648,
+      "name": "Dasha"
+    },
+    {
+      "id": 90649,
+      "name": "Dongguan"
+    },
+    {
+      "id": 90650,
+      "name": "Donghai"
+    },
+    {
+      "id": 90651,
+      "name": "Ducheng"
+    },
+    {
+      "id": 90652,
+      "name": "Encheng"
+    },
+    {
+      "id": 90653,
+      "name": "Foshan"
+    },
+    {
+      "id": 90654,
+      "name": "Foshan Shi"
+    },
+    {
+      "id": 90655,
+      "name": "Gaoyao"
+    },
+    {
+      "id": 90656,
+      "name": "Gaozhou"
+    },
+    {
+      "id": 90657,
+      "name": "Guangzhou"
+    },
+    {
+      "id": 90658,
+      "name": "Guangzhou Shi"
+    },
+    {
+      "id": 90659,
+      "name": "Haikuotiankong"
+    },
+    {
+      "id": 90660,
+      "name": "Haimen"
+    },
+    {
+      "id": 90661,
+      "name": "Hepo"
+    },
+    {
+      "id": 90662,
+      "name": "Heyuan"
+    },
+    {
+      "id": 90663,
+      "name": "Huaicheng"
+    },
+    {
+      "id": 90664,
+      "name": "Huanggang"
+    },
+    {
+      "id": 90665,
+      "name": "Huazhou"
+    },
+    {
+      "id": 90666,
+      "name": "Huicheng"
+    },
+    {
+      "id": 90667,
+      "name": "Huizhou"
+    },
+    {
+      "id": 90668,
+      "name": "Humen"
+    },
+    {
+      "id": 90669,
+      "name": "Jiangmen"
+    },
+    {
+      "id": 90670,
+      "name": "Jiazi"
+    },
+    {
+      "id": 90671,
+      "name": "Jieshi"
+    },
+    {
+      "id": 90672,
+      "name": "Jieyang"
+    },
+    {
+      "id": 90673,
+      "name": "Lecheng"
+    },
+    {
+      "id": 90674,
+      "name": "Lianjiang"
+    },
+    {
+      "id": 90675,
+      "name": "Lianzhou"
+    },
+    {
+      "id": 90676,
+      "name": "Licheng"
+    },
+    {
+      "id": 90677,
+      "name": "Lubu"
+    },
+    {
+      "id": 90678,
+      "name": "Luocheng"
+    },
+    {
+      "id": 90679,
+      "name": "Luoyang"
+    },
+    {
+      "id": 90680,
+      "name": "Maba"
+    },
+    {
+      "id": 90681,
+      "name": "Maoming"
+    },
+    {
+      "id": 90682,
+      "name": "Meizhou"
+    },
+    {
+      "id": 90683,
+      "name": "Nanfeng"
+    },
+    {
+      "id": 90684,
+      "name": "Pingshan"
+    },
+    {
+      "id": 90685,
+      "name": "Puning"
+    },
+    {
+      "id": 90686,
+      "name": "Qingyuan"
+    },
+    {
+      "id": 90687,
+      "name": "Sanshui"
+    },
+    {
+      "id": 90688,
+      "name": "Shantou"
+    },
+    {
+      "id": 90689,
+      "name": "Shanwei"
+    },
+    {
+      "id": 90690,
+      "name": "Shaoguan"
+    },
+    {
+      "id": 90691,
+      "name": "Shaping"
+    },
+    {
+      "id": 90692,
+      "name": "Shenzhen"
+    },
+    {
+      "id": 90693,
+      "name": "Shilong"
+    },
+    {
+      "id": 90694,
+      "name": "Shiqi"
+    },
+    {
+      "id": 90695,
+      "name": "Shiqiao"
+    },
+    {
+      "id": 90696,
+      "name": "Shiwan"
+    },
+    {
+      "id": 90697,
+      "name": "Shixing"
+    },
+    {
+      "id": 90698,
+      "name": "Taishan"
+    },
+    {
+      "id": 90699,
+      "name": "Tangping"
+    },
+    {
+      "id": 90700,
+      "name": "Wuchuan"
+    },
+    {
+      "id": 90701,
+      "name": "Xingning"
+    },
+    {
+      "id": 90702,
+      "name": "Xinhui"
+    },
+    {
+      "id": 90703,
+      "name": "Xinyi"
+    },
+    {
+      "id": 90704,
+      "name": "Xiongzhou"
+    },
+    {
+      "id": 90705,
+      "name": "Xucheng"
+    },
+    {
+      "id": 90706,
+      "name": "Yangchun"
+    },
+    {
+      "id": 90707,
+      "name": "Yangjiang"
+    },
+    {
+      "id": 90708,
+      "name": "Yingcheng"
+    },
+    {
+      "id": 90709,
+      "name": "Yunfu"
+    },
+    {
+      "id": 90710,
+      "name": "Zhanjiang"
+    },
+    {
+      "id": 90711,
+      "name": "Zhaoqing"
+    },
+    {
+      "id": 90712,
+      "name": "Zhongshan"
+    },
+    {
+      "id": 90713,
+      "name": "Zhongshan Prefecture"
+    },
+    {
+      "id": 90714,
+      "name": "Zhuhai"
+    }
+  ]
+}

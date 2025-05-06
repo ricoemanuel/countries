@@ -1,0 +1,431 @@
+{
+  "id": 5979,
+  "name": "Ilfov County",
+  "state_code": "IF",
+  "cities": [
+    {
+      "id": 169764,
+      "name": "1 Decembrie"
+    },
+    {
+      "id": 169765,
+      "name": "Afumaţi"
+    },
+    {
+      "id": 169766,
+      "name": "Alunișu"
+    },
+    {
+      "id": 169767,
+      "name": "Bălăceanca"
+    },
+    {
+      "id": 169768,
+      "name": "Baloteşti"
+    },
+    {
+      "id": 169769,
+      "name": "Berceni"
+    },
+    {
+      "id": 169770,
+      "name": "Bragadiru"
+    },
+    {
+      "id": 169771,
+      "name": "Brăneşti"
+    },
+    {
+      "id": 169772,
+      "name": "Buciumeni"
+    },
+    {
+      "id": 169773,
+      "name": "Buftea"
+    },
+    {
+      "id": 169774,
+      "name": "Buriaș"
+    },
+    {
+      "id": 169775,
+      "name": "Căciulați"
+    },
+    {
+      "id": 169776,
+      "name": "Căldăraru"
+    },
+    {
+      "id": 169777,
+      "name": "Cățelu"
+    },
+    {
+      "id": 169778,
+      "name": "Cernica"
+    },
+    {
+      "id": 169779,
+      "name": "Chiajna"
+    },
+    {
+      "id": 169780,
+      "name": "Chitila"
+    },
+    {
+      "id": 169781,
+      "name": "Ciofliceni"
+    },
+    {
+      "id": 169782,
+      "name": "Ciolpani"
+    },
+    {
+      "id": 169783,
+      "name": "Ciorogârla"
+    },
+    {
+      "id": 169784,
+      "name": "Clinceni"
+    },
+    {
+      "id": 169785,
+      "name": "Comuna 1 Decembrie"
+    },
+    {
+      "id": 169786,
+      "name": "Comuna Afumaţi"
+    },
+    {
+      "id": 169787,
+      "name": "Comuna Baloteşti"
+    },
+    {
+      "id": 169788,
+      "name": "Comuna Berceni"
+    },
+    {
+      "id": 169789,
+      "name": "Comuna Brăneşti"
+    },
+    {
+      "id": 169790,
+      "name": "Comuna Cernica"
+    },
+    {
+      "id": 169791,
+      "name": "Comuna Chiajna"
+    },
+    {
+      "id": 169792,
+      "name": "Comuna Ciolpani"
+    },
+    {
+      "id": 169793,
+      "name": "Comuna Ciorogârla"
+    },
+    {
+      "id": 169794,
+      "name": "Comuna Clinceni"
+    },
+    {
+      "id": 169795,
+      "name": "Comuna Copăceni"
+    },
+    {
+      "id": 169796,
+      "name": "Comuna Corbeanca"
+    },
+    {
+      "id": 169797,
+      "name": "Comuna Cornetu"
+    },
+    {
+      "id": 169798,
+      "name": "Comuna Dărăşti-Ilfov"
+    },
+    {
+      "id": 169799,
+      "name": "Comuna Dascălu Creaţa"
+    },
+    {
+      "id": 169800,
+      "name": "Comuna Domneşti"
+    },
+    {
+      "id": 169801,
+      "name": "Comuna Dragomireşti-Vale"
+    },
+    {
+      "id": 169802,
+      "name": "Comuna Fundeni-Dobroeşti"
+    },
+    {
+      "id": 169803,
+      "name": "Comuna Găneasa"
+    },
+    {
+      "id": 169804,
+      "name": "Comuna Glina"
+    },
+    {
+      "id": 169805,
+      "name": "Comuna Grădiştea"
+    },
+    {
+      "id": 169806,
+      "name": "Comuna Gruiu"
+    },
+    {
+      "id": 169807,
+      "name": "Comuna Jilava"
+    },
+    {
+      "id": 169808,
+      "name": "Comuna Moara Vlãsiei"
+    },
+    {
+      "id": 169809,
+      "name": "Comuna Mogoşoaia"
+    },
+    {
+      "id": 169810,
+      "name": "Comuna Nuci"
+    },
+    {
+      "id": 169811,
+      "name": "Comuna Periş"
+    },
+    {
+      "id": 169812,
+      "name": "Comuna Petrăchioaia"
+    },
+    {
+      "id": 169813,
+      "name": "Comuna Snagov"
+    },
+    {
+      "id": 169814,
+      "name": "Comuna Ştefãneştii De Jos"
+    },
+    {
+      "id": 169815,
+      "name": "Comuna Tunari"
+    },
+    {
+      "id": 169816,
+      "name": "Comuna Vidra"
+    },
+    {
+      "id": 169817,
+      "name": "Copăceni"
+    },
+    {
+      "id": 169818,
+      "name": "Corbeanca"
+    },
+    {
+      "id": 169819,
+      "name": "Cornetu"
+    },
+    {
+      "id": 169820,
+      "name": "Crețești"
+    },
+    {
+      "id": 169821,
+      "name": "Dărăşti-Ilfov"
+    },
+    {
+      "id": 169822,
+      "name": "Dârvari"
+    },
+    {
+      "id": 169823,
+      "name": "Dascălu"
+    },
+    {
+      "id": 169824,
+      "name": "Dobroeşti"
+    },
+    {
+      "id": 169825,
+      "name": "Domnești"
+    },
+    {
+      "id": 169826,
+      "name": "Domneşti-Sârbi"
+    },
+    {
+      "id": 169827,
+      "name": "Dragomirești-Deal"
+    },
+    {
+      "id": 169828,
+      "name": "Dragomireşti-Vale"
+    },
+    {
+      "id": 169829,
+      "name": "Fundeni"
+    },
+    {
+      "id": 169830,
+      "name": "Găneasa"
+    },
+    {
+      "id": 169831,
+      "name": "Ghermănești"
+    },
+    {
+      "id": 169832,
+      "name": "Glina"
+    },
+    {
+      "id": 169833,
+      "name": "Grădiştea"
+    },
+    {
+      "id": 169834,
+      "name": "Gruiu"
+    },
+    {
+      "id": 169835,
+      "name": "Islaz"
+    },
+    {
+      "id": 169836,
+      "name": "Jilava"
+    },
+    {
+      "id": 169837,
+      "name": "Lipia"
+    },
+    {
+      "id": 169838,
+      "name": "Măgurele"
+    },
+    {
+      "id": 169839,
+      "name": "Merii Petchii"
+    },
+    {
+      "id": 169840,
+      "name": "Moara Vlăsiei"
+    },
+    {
+      "id": 169841,
+      "name": "Mogoşoaia"
+    },
+    {
+      "id": 169842,
+      "name": "Nuci"
+    },
+    {
+      "id": 169843,
+      "name": "Olteni"
+    },
+    {
+      "id": 169844,
+      "name": "Oraş Bragadiru"
+    },
+    {
+      "id": 169845,
+      "name": "Oraş Buftea"
+    },
+    {
+      "id": 169846,
+      "name": "Oraş Chitila"
+    },
+    {
+      "id": 169847,
+      "name": "Oraş Mãgurele"
+    },
+    {
+      "id": 169848,
+      "name": "Oraş Otopeni"
+    },
+    {
+      "id": 169849,
+      "name": "Oraş Pantelimon"
+    },
+    {
+      "id": 169850,
+      "name": "Oraş Popeşti Leordeni"
+    },
+    {
+      "id": 169851,
+      "name": "Otopeni"
+    },
+    {
+      "id": 169852,
+      "name": "Pantelimon"
+    },
+    {
+      "id": 169853,
+      "name": "Periş"
+    },
+    {
+      "id": 169854,
+      "name": "Petrăchioaia"
+    },
+    {
+      "id": 169855,
+      "name": "Piteasca"
+    },
+    {
+      "id": 169856,
+      "name": "Popeşti-Leordeni"
+    },
+    {
+      "id": 169857,
+      "name": "Roșu"
+    },
+    {
+      "id": 169858,
+      "name": "Rudeni"
+    },
+    {
+      "id": 169859,
+      "name": "Siliștea Snagovului"
+    },
+    {
+      "id": 169860,
+      "name": "Sintești"
+    },
+    {
+      "id": 169861,
+      "name": "Snagov"
+    },
+    {
+      "id": 169862,
+      "name": "Ştefăneştii de Jos"
+    },
+    {
+      "id": 169863,
+      "name": "Tamași"
+    },
+    {
+      "id": 169864,
+      "name": "Tânganu"
+    },
+    {
+      "id": 169865,
+      "name": "Tunari"
+    },
+    {
+      "id": 169866,
+      "name": "Vârteju"
+    },
+    {
+      "id": 169867,
+      "name": "Vidra"
+    },
+    {
+      "id": 169868,
+      "name": "Voluntari"
+    },
+    {
+      "id": 169869,
+      "name": "Voluntari City"
+    }
+  ]
+}

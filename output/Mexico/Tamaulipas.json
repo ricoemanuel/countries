@@ -1,0 +1,447 @@
+{
+  "id": 5150,
+  "name": "Tamaulipas",
+  "state_code": "TAM",
+  "cities": [
+    {
+      "id": 146836,
+      "name": "Abasolo"
+    },
+    {
+      "id": 146837,
+      "name": "Aldama"
+    },
+    {
+      "id": 146838,
+      "name": "Alfredo V. Bonfil"
+    },
+    {
+      "id": 146839,
+      "name": "Altamira"
+    },
+    {
+      "id": 146840,
+      "name": "Anáhuac"
+    },
+    {
+      "id": 146841,
+      "name": "Antiguo Morelos"
+    },
+    {
+      "id": 146842,
+      "name": "Barretal"
+    },
+    {
+      "id": 146843,
+      "name": "Burgos"
+    },
+    {
+      "id": 146844,
+      "name": "Bustamante"
+    },
+    {
+      "id": 146845,
+      "name": "Camargo"
+    },
+    {
+      "id": 146846,
+      "name": "Carboneras"
+    },
+    {
+      "id": 146847,
+      "name": "Carrillo Puerto"
+    },
+    {
+      "id": 146848,
+      "name": "Casas"
+    },
+    {
+      "id": 146849,
+      "name": "CEFERESO Número 3"
+    },
+    {
+      "id": 146850,
+      "name": "Ciudad Camargo"
+    },
+    {
+      "id": 146851,
+      "name": "Ciudad Gustavo Díaz Ordaz"
+    },
+    {
+      "id": 146852,
+      "name": "Ciudad Madero"
+    },
+    {
+      "id": 146853,
+      "name": "Ciudad Mante"
+    },
+    {
+      "id": 146854,
+      "name": "Ciudad Miguel Alemán"
+    },
+    {
+      "id": 146855,
+      "name": "Ciudad Río Bravo"
+    },
+    {
+      "id": 146856,
+      "name": "Ciudad Tula"
+    },
+    {
+      "id": 146857,
+      "name": "Ciudad Victoria"
+    },
+    {
+      "id": 146858,
+      "name": "Comales"
+    },
+    {
+      "id": 146859,
+      "name": "Cruillas"
+    },
+    {
+      "id": 146860,
+      "name": "Cuauhtémoc"
+    },
+    {
+      "id": 146861,
+      "name": "El Abra"
+    },
+    {
+      "id": 146862,
+      "name": "El Barrancón del Tío Blas (El Barrancón)"
+    },
+    {
+      "id": 146863,
+      "name": "El Campanario y Oradel"
+    },
+    {
+      "id": 146864,
+      "name": "El Control"
+    },
+    {
+      "id": 146865,
+      "name": "El Galaneño"
+    },
+    {
+      "id": 146866,
+      "name": "El Limón"
+    },
+    {
+      "id": 146867,
+      "name": "El Mante"
+    },
+    {
+      "id": 146868,
+      "name": "El Realito"
+    },
+    {
+      "id": 146869,
+      "name": "Estación Santa Engracia"
+    },
+    {
+      "id": 146870,
+      "name": "Esteros"
+    },
+    {
+      "id": 146871,
+      "name": "González"
+    },
+    {
+      "id": 146872,
+      "name": "Graciano Sánchez"
+    },
+    {
+      "id": 146873,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 146874,
+      "name": "Guemes"
+    },
+    {
+      "id": 146875,
+      "name": "Güémez"
+    },
+    {
+      "id": 146876,
+      "name": "Guerrero"
+    },
+    {
+      "id": 146877,
+      "name": "Guillermo Zúñiga"
+    },
+    {
+      "id": 146878,
+      "name": "Gustavo Díaz Ordaz"
+    },
+    {
+      "id": 146879,
+      "name": "Heroica Matamoros"
+    },
+    {
+      "id": 146880,
+      "name": "Hidalgo"
+    },
+    {
+      "id": 146881,
+      "name": "Jaumave"
+    },
+    {
+      "id": 146882,
+      "name": "Jiménez"
+    },
+    {
+      "id": 146883,
+      "name": "La Colonia"
+    },
+    {
+      "id": 146884,
+      "name": "La Libertad"
+    },
+    {
+      "id": 146885,
+      "name": "La Misión"
+    },
+    {
+      "id": 146886,
+      "name": "La Pedrera"
+    },
+    {
+      "id": 146887,
+      "name": "La Pesca"
+    },
+    {
+      "id": 146888,
+      "name": "Las Higuerillas"
+    },
+    {
+      "id": 146889,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 146890,
+      "name": "Llera"
+    },
+    {
+      "id": 146891,
+      "name": "Llera de Canales"
+    },
+    {
+      "id": 146892,
+      "name": "Lomas del Real"
+    },
+    {
+      "id": 146893,
+      "name": "López Rayón"
+    },
+    {
+      "id": 146894,
+      "name": "Los Aztecas"
+    },
+    {
+      "id": 146895,
+      "name": "Los Cavazos"
+    },
+    {
+      "id": 146896,
+      "name": "Los Guerra"
+    },
+    {
+      "id": 146897,
+      "name": "Maclovio Herrera"
+    },
+    {
+      "id": 146898,
+      "name": "Magdaleno Cedillo"
+    },
+    {
+      "id": 146899,
+      "name": "Mainero"
+    },
+    {
+      "id": 146900,
+      "name": "Matamoros"
+    },
+    {
+      "id": 146901,
+      "name": "Méndez"
+    },
+    {
+      "id": 146902,
+      "name": "Mier"
+    },
+    {
+      "id": 146903,
+      "name": "Miguel Alemán"
+    },
+    {
+      "id": 146904,
+      "name": "Miquihuana"
+    },
+    {
+      "id": 146905,
+      "name": "Miramar"
+    },
+    {
+      "id": 146906,
+      "name": "Nicolás Bravo"
+    },
+    {
+      "id": 146907,
+      "name": "Nueva Apolonia"
+    },
+    {
+      "id": 146908,
+      "name": "Nueva Ciudad Guerrero"
+    },
+    {
+      "id": 146909,
+      "name": "Nueva Villa de Padilla"
+    },
+    {
+      "id": 146910,
+      "name": "Nuevo Cereso Regional de Altamira"
+    },
+    {
+      "id": 146911,
+      "name": "Nuevo Laredo"
+    },
+    {
+      "id": 146912,
+      "name": "Nuevo Morelos"
+    },
+    {
+      "id": 146913,
+      "name": "Nuevo Progreso"
+    },
+    {
+      "id": 146914,
+      "name": "Nuevo Tantoán"
+    },
+    {
+      "id": 146915,
+      "name": "Ocampo"
+    },
+    {
+      "id": 146916,
+      "name": "Padilla"
+    },
+    {
+      "id": 146917,
+      "name": "Palmillas"
+    },
+    {
+      "id": 146918,
+      "name": "Plan de Ayala"
+    },
+    {
+      "id": 146919,
+      "name": "Primero de Mayo"
+    },
+    {
+      "id": 146920,
+      "name": "Quintero"
+    },
+    {
+      "id": 146921,
+      "name": "Ramírez"
+    },
+    {
+      "id": 146922,
+      "name": "Reynosa"
+    },
+    {
+      "id": 146923,
+      "name": "Ricardo Flores Magón"
+    },
+    {
+      "id": 146924,
+      "name": "Río Bravo"
+    },
+    {
+      "id": 146925,
+      "name": "San Antonio Rayón"
+    },
+    {
+      "id": 146926,
+      "name": "San Carlos"
+    },
+    {
+      "id": 146927,
+      "name": "San Fernando"
+    },
+    {
+      "id": 146928,
+      "name": "San Germán"
+    },
+    {
+      "id": 146929,
+      "name": "San Nicolás"
+    },
+    {
+      "id": 146930,
+      "name": "Santa Adelaida"
+    },
+    {
+      "id": 146931,
+      "name": "Santa Apolonia"
+    },
+    {
+      "id": 146932,
+      "name": "Santander Jiménez"
+    },
+    {
+      "id": 146933,
+      "name": "Soto la Marina"
+    },
+    {
+      "id": 146934,
+      "name": "Tampico"
+    },
+    {
+      "id": 146935,
+      "name": "Tampiquito"
+    },
+    {
+      "id": 146936,
+      "name": "Tula"
+    },
+    {
+      "id": 146937,
+      "name": "Unidos Avanzamos"
+    },
+    {
+      "id": 146938,
+      "name": "Ursulo Galván"
+    },
+    {
+      "id": 146939,
+      "name": "Valadeces"
+    },
+    {
+      "id": 146940,
+      "name": "Valle Hermoso"
+    },
+    {
+      "id": 146941,
+      "name": "Vamos Tamaulipas"
+    },
+    {
+      "id": 146942,
+      "name": "Victoria"
+    },
+    {
+      "id": 146943,
+      "name": "Villa Mainero"
+    },
+    {
+      "id": 146944,
+      "name": "Villagrán"
+    },
+    {
+      "id": 146945,
+      "name": "Xicoténcatl"
+    }
+  ]
+}

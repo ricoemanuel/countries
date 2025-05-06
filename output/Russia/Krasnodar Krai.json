@@ -1,0 +1,923 @@
+{
+  "id": 6021,
+  "name": "Krasnodar Krai",
+  "state_code": "KDA",
+  "cities": [
+    {
+      "id": 174850,
+      "name": "Abinsk"
+    },
+    {
+      "id": 174851,
+      "name": "Abinskiy Rayon"
+    },
+    {
+      "id": 174852,
+      "name": "Abrau-Dyurso"
+    },
+    {
+      "id": 174853,
+      "name": "Adler"
+    },
+    {
+      "id": 174854,
+      "name": "Afipskiy"
+    },
+    {
+      "id": 174855,
+      "name": "Agoy"
+    },
+    {
+      "id": 174856,
+      "name": "Agronom"
+    },
+    {
+      "id": 174857,
+      "name": "Akhtanizovskaya"
+    },
+    {
+      "id": 174858,
+      "name": "Akhtyrskiy"
+    },
+    {
+      "id": 174859,
+      "name": "Alekseyevskaya"
+    },
+    {
+      "id": 174860,
+      "name": "Anapa"
+    },
+    {
+      "id": 174861,
+      "name": "Anapskaya"
+    },
+    {
+      "id": 174862,
+      "name": "Anastasiyevskaya"
+    },
+    {
+      "id": 174863,
+      "name": "Apsheronsk"
+    },
+    {
+      "id": 174864,
+      "name": "Arkhipo-Osipovka"
+    },
+    {
+      "id": 174865,
+      "name": "Armavir"
+    },
+    {
+      "id": 174866,
+      "name": "Atamanskaya"
+    },
+    {
+      "id": 174867,
+      "name": "Azovskaya"
+    },
+    {
+      "id": 174868,
+      "name": "Baturinskaya"
+    },
+    {
+      "id": 174869,
+      "name": "Belaya Glina"
+    },
+    {
+      "id": 174870,
+      "name": "Belorechensk"
+    },
+    {
+      "id": 174871,
+      "name": "Belorechenskiy Rayon"
+    },
+    {
+      "id": 174872,
+      "name": "Belozërnyy"
+    },
+    {
+      "id": 174873,
+      "name": "Berezanskaya"
+    },
+    {
+      "id": 174874,
+      "name": "Besleneyevskaya"
+    },
+    {
+      "id": 174875,
+      "name": "Besskorbnaya"
+    },
+    {
+      "id": 174876,
+      "name": "Blagovetschenskaya"
+    },
+    {
+      "id": 174877,
+      "name": "Bryukhovetskaya"
+    },
+    {
+      "id": 174878,
+      "name": "Chamlykskaya"
+    },
+    {
+      "id": 174879,
+      "name": "Chelbasskaya"
+    },
+    {
+      "id": 174880,
+      "name": "Chernomorskiy"
+    },
+    {
+      "id": 174881,
+      "name": "Chernoyerkovskaya"
+    },
+    {
+      "id": 174882,
+      "name": "Dagomys"
+    },
+    {
+      "id": 174883,
+      "name": "Dinskaya"
+    },
+    {
+      "id": 174884,
+      "name": "Divnomorskoye"
+    },
+    {
+      "id": 174885,
+      "name": "Dmitriyevskaya"
+    },
+    {
+      "id": 174886,
+      "name": "Dneprovskaya"
+    },
+    {
+      "id": 174887,
+      "name": "Dolzhanskaya"
+    },
+    {
+      "id": 174888,
+      "name": "Dvubratskiy"
+    },
+    {
+      "id": 174889,
+      "name": "Dzhiginka"
+    },
+    {
+      "id": 174890,
+      "name": "Dzhubga"
+    },
+    {
+      "id": 174891,
+      "name": "Fastovetskaya"
+    },
+    {
+      "id": 174892,
+      "name": "Gayduk"
+    },
+    {
+      "id": 174893,
+      "name": "Gelendzhik"
+    },
+    {
+      "id": 174894,
+      "name": "Girey"
+    },
+    {
+      "id": 174895,
+      "name": "Glafirovka"
+    },
+    {
+      "id": 174896,
+      "name": "Glubokiy"
+    },
+    {
+      "id": 174897,
+      "name": "Golubitskaya"
+    },
+    {
+      "id": 174898,
+      "name": "Gornoye Loo"
+    },
+    {
+      "id": 174899,
+      "name": "Goryachiy Klyuch"
+    },
+    {
+      "id": 174900,
+      "name": "Gostagayevskaya"
+    },
+    {
+      "id": 174901,
+      "name": "Grivenskaya"
+    },
+    {
+      "id": 174902,
+      "name": "Gubskaya"
+    },
+    {
+      "id": 174903,
+      "name": "Gul’kevichi"
+    },
+    {
+      "id": 174904,
+      "name": "Il’ich"
+    },
+    {
+      "id": 174905,
+      "name": "Il’skiy"
+    },
+    {
+      "id": 174906,
+      "name": "Irkliyevskaya"
+    },
+    {
+      "id": 174907,
+      "name": "Kabardinka"
+    },
+    {
+      "id": 174908,
+      "name": "Kalininskaya"
+    },
+    {
+      "id": 174909,
+      "name": "Kalnibolotskaya"
+    },
+    {
+      "id": 174910,
+      "name": "Kamyshevatskaya"
+    },
+    {
+      "id": 174911,
+      "name": "Kanelovskaya"
+    },
+    {
+      "id": 174912,
+      "name": "Kanevskaya"
+    },
+    {
+      "id": 174913,
+      "name": "Kavkazskaya"
+    },
+    {
+      "id": 174914,
+      "name": "Kazanskaya"
+    },
+    {
+      "id": 174915,
+      "name": "Khadyzhensk"
+    },
+    {
+      "id": 174916,
+      "name": "Kholmskiy"
+    },
+    {
+      "id": 174917,
+      "name": "Khosta"
+    },
+    {
+      "id": 174918,
+      "name": "Kislyakovskaya"
+    },
+    {
+      "id": 174919,
+      "name": "Kiyevskoye"
+    },
+    {
+      "id": 174920,
+      "name": "Konokovo"
+    },
+    {
+      "id": 174921,
+      "name": "Konstantinovskaya"
+    },
+    {
+      "id": 174922,
+      "name": "Kontenko"
+    },
+    {
+      "id": 174923,
+      "name": "Kopanskaya"
+    },
+    {
+      "id": 174924,
+      "name": "Korenovsk"
+    },
+    {
+      "id": 174925,
+      "name": "Korzhevskiy"
+    },
+    {
+      "id": 174926,
+      "name": "Kovalevskoye"
+    },
+    {
+      "id": 174927,
+      "name": "Krasnaya Polyana"
+    },
+    {
+      "id": 174928,
+      "name": "Krasnoarmeyskaya"
+    },
+    {
+      "id": 174929,
+      "name": "Krasnodar"
+    },
+    {
+      "id": 174930,
+      "name": "Krasnoye"
+    },
+    {
+      "id": 174931,
+      "name": "Kropotkin"
+    },
+    {
+      "id": 174932,
+      "name": "Krylovskaya"
+    },
+    {
+      "id": 174933,
+      "name": "Krylovskiy Rayon"
+    },
+    {
+      "id": 174934,
+      "name": "Krymsk"
+    },
+    {
+      "id": 174935,
+      "name": "Krymskiy Rayon"
+    },
+    {
+      "id": 174936,
+      "name": "Kubanskiy"
+    },
+    {
+      "id": 174937,
+      "name": "Kuchugury"
+    },
+    {
+      "id": 174938,
+      "name": "Kudepsta"
+    },
+    {
+      "id": 174939,
+      "name": "Kurganinsk"
+    },
+    {
+      "id": 174940,
+      "name": "Kushchëvskaya"
+    },
+    {
+      "id": 174941,
+      "name": "Labinsk"
+    },
+    {
+      "id": 174942,
+      "name": "Ladozhskaya"
+    },
+    {
+      "id": 174943,
+      "name": "Lazarevskoye"
+    },
+    {
+      "id": 174944,
+      "name": "Lenina"
+    },
+    {
+      "id": 174945,
+      "name": "Leningradskaya"
+    },
+    {
+      "id": 174946,
+      "name": "Lermontovo"
+    },
+    {
+      "id": 174947,
+      "name": "Lovlinskaya"
+    },
+    {
+      "id": 174948,
+      "name": "Maykopskoye"
+    },
+    {
+      "id": 174949,
+      "name": "Medvedovskaya"
+    },
+    {
+      "id": 174950,
+      "name": "Mikhaylovskaya"
+    },
+    {
+      "id": 174951,
+      "name": "Mirskoy"
+    },
+    {
+      "id": 174952,
+      "name": "Mostovskiy Rayon"
+    },
+    {
+      "id": 174953,
+      "name": "Mostovskoy"
+    },
+    {
+      "id": 174954,
+      "name": "Myskhako"
+    },
+    {
+      "id": 174955,
+      "name": "Nebug"
+    },
+    {
+      "id": 174956,
+      "name": "Neftegorsk"
+    },
+    {
+      "id": 174957,
+      "name": "Nekrasovskaya"
+    },
+    {
+      "id": 174958,
+      "name": "Novoalekseyevskaya"
+    },
+    {
+      "id": 174959,
+      "name": "Novobeysugskaya"
+    },
+    {
+      "id": 174960,
+      "name": "Novoderevyankovskaya"
+    },
+    {
+      "id": 174961,
+      "name": "Novodmitriyevskaya"
+    },
+    {
+      "id": 174962,
+      "name": "Novodzhereliyevskaya"
+    },
+    {
+      "id": 174963,
+      "name": "Novokorsunskaya"
+    },
+    {
+      "id": 174964,
+      "name": "Novokubansk"
+    },
+    {
+      "id": 174965,
+      "name": "Novokubanskiy Rayon"
+    },
+    {
+      "id": 174966,
+      "name": "Novolabinskaya"
+    },
+    {
+      "id": 174967,
+      "name": "Novoleushkovskaya"
+    },
+    {
+      "id": 174968,
+      "name": "Novomalorossiyskaya"
+    },
+    {
+      "id": 174969,
+      "name": "Novomikhaylovskiy"
+    },
+    {
+      "id": 174970,
+      "name": "Novominskaya"
+    },
+    {
+      "id": 174971,
+      "name": "Novomyshastovskaya"
+    },
+    {
+      "id": 174972,
+      "name": "Novoplatnirovskaya"
+    },
+    {
+      "id": 174973,
+      "name": "Novopokrovskaya"
+    },
+    {
+      "id": 174974,
+      "name": "Novorossiysk"
+    },
+    {
+      "id": 174975,
+      "name": "Novorozhdestvenskaya"
+    },
+    {
+      "id": 174976,
+      "name": "Novoshcherbinovskaya"
+    },
+    {
+      "id": 174977,
+      "name": "Novotitarovskaya"
+    },
+    {
+      "id": 174978,
+      "name": "Novoukrainskiy"
+    },
+    {
+      "id": 174979,
+      "name": "Novoukrainskoye"
+    },
+    {
+      "id": 174980,
+      "name": "Novovelichkovskaya"
+    },
+    {
+      "id": 174981,
+      "name": "Ol’ginka"
+    },
+    {
+      "id": 174982,
+      "name": "Ol’ginskaya"
+    },
+    {
+      "id": 174983,
+      "name": "Orël-Izumrud"
+    },
+    {
+      "id": 174984,
+      "name": "Otradnaya"
+    },
+    {
+      "id": 174985,
+      "name": "Otrado-Kubanskoye"
+    },
+    {
+      "id": 174986,
+      "name": "Parkovyy"
+    },
+    {
+      "id": 174987,
+      "name": "Pashkovskiy"
+    },
+    {
+      "id": 174988,
+      "name": "Pavlovskaya"
+    },
+    {
+      "id": 174989,
+      "name": "Pavlovskiy Rayon"
+    },
+    {
+      "id": 174990,
+      "name": "Peredovaya"
+    },
+    {
+      "id": 174991,
+      "name": "Perepravnaya"
+    },
+    {
+      "id": 174992,
+      "name": "Pereyaslovskaya"
+    },
+    {
+      "id": 174993,
+      "name": "Petropavlovskaya"
+    },
+    {
+      "id": 174994,
+      "name": "Petrovskaya"
+    },
+    {
+      "id": 174995,
+      "name": "Plastunovskaya"
+    },
+    {
+      "id": 174996,
+      "name": "Platnirovskaya"
+    },
+    {
+      "id": 174997,
+      "name": "Poputnaya"
+    },
+    {
+      "id": 174998,
+      "name": "Prikubanskiy"
+    },
+    {
+      "id": 174999,
+      "name": "Primorsko-Akhtarsk"
+    },
+    {
+      "id": 175000,
+      "name": "Prochnookopskaya"
+    },
+    {
+      "id": 175001,
+      "name": "Psebay"
+    },
+    {
+      "id": 175002,
+      "name": "Pshada"
+    },
+    {
+      "id": 175003,
+      "name": "Pshekhskaya"
+    },
+    {
+      "id": 175004,
+      "name": "Rayevskaya"
+    },
+    {
+      "id": 175005,
+      "name": "Rodnikovskaya"
+    },
+    {
+      "id": 175006,
+      "name": "Rogovskaya"
+    },
+    {
+      "id": 175007,
+      "name": "Ryazanskaya"
+    },
+    {
+      "id": 175008,
+      "name": "Saratovskaya"
+    },
+    {
+      "id": 175009,
+      "name": "Severskaya"
+    },
+    {
+      "id": 175010,
+      "name": "Shabel’skoye"
+    },
+    {
+      "id": 175011,
+      "name": "Shedok"
+    },
+    {
+      "id": 175012,
+      "name": "Shepsi"
+    },
+    {
+      "id": 175013,
+      "name": "Shirochanka"
+    },
+    {
+      "id": 175014,
+      "name": "Shkurinskaya"
+    },
+    {
+      "id": 175015,
+      "name": "Slavyansk-na-Kubani"
+    },
+    {
+      "id": 175016,
+      "name": "Slavyansky rayon"
+    },
+    {
+      "id": 175017,
+      "name": "Smolenskaya"
+    },
+    {
+      "id": 175018,
+      "name": "Sochi"
+    },
+    {
+      "id": 175019,
+      "name": "Sokolovskoye"
+    },
+    {
+      "id": 175020,
+      "name": "Sovetskaya"
+    },
+    {
+      "id": 175021,
+      "name": "Sovkhoznyy"
+    },
+    {
+      "id": 175022,
+      "name": "Spokoynaya"
+    },
+    {
+      "id": 175023,
+      "name": "Staraya Stanitsa"
+    },
+    {
+      "id": 175024,
+      "name": "Staroderevyankovskaya"
+    },
+    {
+      "id": 175025,
+      "name": "Starodzhereliyevskaya"
+    },
+    {
+      "id": 175026,
+      "name": "Starokorsunskaya"
+    },
+    {
+      "id": 175027,
+      "name": "Staroleushkovskaya"
+    },
+    {
+      "id": 175028,
+      "name": "Starominskaya"
+    },
+    {
+      "id": 175029,
+      "name": "Staromyshastovskaya"
+    },
+    {
+      "id": 175030,
+      "name": "Staronizhestebliyevskaya"
+    },
+    {
+      "id": 175031,
+      "name": "Staroshcherbinovskaya"
+    },
+    {
+      "id": 175032,
+      "name": "Starotitarovskaya"
+    },
+    {
+      "id": 175033,
+      "name": "Starovelichkovskaya"
+    },
+    {
+      "id": 175034,
+      "name": "Strelka"
+    },
+    {
+      "id": 175035,
+      "name": "Sukko"
+    },
+    {
+      "id": 175036,
+      "name": "Taman’"
+    },
+    {
+      "id": 175037,
+      "name": "Tbilisskaya"
+    },
+    {
+      "id": 175038,
+      "name": "Temirgoyevskaya"
+    },
+    {
+      "id": 175039,
+      "name": "Temizhbekskaya"
+    },
+    {
+      "id": 175040,
+      "name": "Temruksky rayon"
+    },
+    {
+      "id": 175041,
+      "name": "Temryuk"
+    },
+    {
+      "id": 175042,
+      "name": "Ternevskaya"
+    },
+    {
+      "id": 175043,
+      "name": "Tikhoretsk"
+    },
+    {
+      "id": 175044,
+      "name": "Tikhoretskiy Rayon"
+    },
+    {
+      "id": 175045,
+      "name": "Timashëvsk"
+    },
+    {
+      "id": 175046,
+      "name": "Troitskaya"
+    },
+    {
+      "id": 175047,
+      "name": "Trudobelikovskiy"
+    },
+    {
+      "id": 175048,
+      "name": "Tsibanobalka"
+    },
+    {
+      "id": 175049,
+      "name": "Tuapse"
+    },
+    {
+      "id": 175050,
+      "name": "Tuapsinskiy Rayon"
+    },
+    {
+      "id": 175051,
+      "name": "Udobnaya"
+    },
+    {
+      "id": 175052,
+      "name": "Upornaya"
+    },
+    {
+      "id": 175053,
+      "name": "Uspenskaya"
+    },
+    {
+      "id": 175054,
+      "name": "Uspenskoye"
+    },
+    {
+      "id": 175055,
+      "name": "Ust’-Labinsk"
+    },
+    {
+      "id": 175056,
+      "name": "Vardane"
+    },
+    {
+      "id": 175057,
+      "name": "Varenikovskaya"
+    },
+    {
+      "id": 175058,
+      "name": "Vasyurinskaya"
+    },
+    {
+      "id": 175059,
+      "name": "Velikovechnoye"
+    },
+    {
+      "id": 175060,
+      "name": "Ventsy"
+    },
+    {
+      "id": 175061,
+      "name": "Verkhnebakanskiy"
+    },
+    {
+      "id": 175062,
+      "name": "Vinogradnyy"
+    },
+    {
+      "id": 175063,
+      "name": "Vityazevo"
+    },
+    {
+      "id": 175064,
+      "name": "Vladimirskaya"
+    },
+    {
+      "id": 175065,
+      "name": "Vorontsovka"
+    },
+    {
+      "id": 175066,
+      "name": "Voznesenskaya"
+    },
+    {
+      "id": 175067,
+      "name": "Vyselki"
+    },
+    {
+      "id": 175068,
+      "name": "Vyselkovskiy Rayon"
+    },
+    {
+      "id": 175069,
+      "name": "Vyshestebliyevskaya"
+    },
+    {
+      "id": 175070,
+      "name": "Vysokoye"
+    },
+    {
+      "id": 175071,
+      "name": "Yaroslavskaya"
+    },
+    {
+      "id": 175072,
+      "name": "Yasenskaya"
+    },
+    {
+      "id": 175073,
+      "name": "Yelizavetinskaya"
+    },
+    {
+      "id": 175074,
+      "name": "Yeysk"
+    },
+    {
+      "id": 175075,
+      "name": "Yeyskoye Ukrepleniye"
+    },
+    {
+      "id": 175076,
+      "name": "Yurovka"
+    },
+    {
+      "id": 175077,
+      "name": "Yuzhnyy"
+    },
+    {
+      "id": 175078,
+      "name": "Zavetnyy"
+    }
+  ]
+}

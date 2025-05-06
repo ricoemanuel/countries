@@ -1,0 +1,455 @@
+{
+  "id": 6515,
+  "name": "Bizkaia",
+  "state_code": "BI",
+  "cities": [
+    {
+      "id": 182833,
+      "name": "Abadiño"
+    },
+    {
+      "id": 182834,
+      "name": "Abanto y Ciérvana-Abanto Zierbena"
+    },
+    {
+      "id": 182835,
+      "name": "Ajangiz"
+    },
+    {
+      "id": 182836,
+      "name": "Alonsotegi"
+    },
+    {
+      "id": 182837,
+      "name": "Amorebieta-Etxano"
+    },
+    {
+      "id": 182838,
+      "name": "Amoroto"
+    },
+    {
+      "id": 182839,
+      "name": "Arakaldo"
+    },
+    {
+      "id": 182840,
+      "name": "Arantzazu"
+    },
+    {
+      "id": 182841,
+      "name": "Areatza"
+    },
+    {
+      "id": 182842,
+      "name": "Arrankudiaga"
+    },
+    {
+      "id": 182843,
+      "name": "Arratzu"
+    },
+    {
+      "id": 182844,
+      "name": "Arrieta"
+    },
+    {
+      "id": 182845,
+      "name": "Arrigorriaga"
+    },
+    {
+      "id": 182846,
+      "name": "Artea"
+    },
+    {
+      "id": 182847,
+      "name": "Artzentales"
+    },
+    {
+      "id": 182848,
+      "name": "Atxondo"
+    },
+    {
+      "id": 182849,
+      "name": "Aulesti"
+    },
+    {
+      "id": 182850,
+      "name": "Bakio"
+    },
+    {
+      "id": 182851,
+      "name": "Balmaseda"
+    },
+    {
+      "id": 182852,
+      "name": "Barakaldo"
+    },
+    {
+      "id": 182853,
+      "name": "Barrika"
+    },
+    {
+      "id": 182854,
+      "name": "Basauri"
+    },
+    {
+      "id": 182855,
+      "name": "Bedia"
+    },
+    {
+      "id": 182856,
+      "name": "Berango"
+    },
+    {
+      "id": 182857,
+      "name": "Bermeo"
+    },
+    {
+      "id": 182858,
+      "name": "Berriatua"
+    },
+    {
+      "id": 182859,
+      "name": "Berriz"
+    },
+    {
+      "id": 182860,
+      "name": "Bilbao"
+    },
+    {
+      "id": 182861,
+      "name": "Busturia"
+    },
+    {
+      "id": 182862,
+      "name": "Derio"
+    },
+    {
+      "id": 182863,
+      "name": "Dima"
+    },
+    {
+      "id": 182864,
+      "name": "Durango"
+    },
+    {
+      "id": 182865,
+      "name": "Ea"
+    },
+    {
+      "id": 182866,
+      "name": "Elantxobe"
+    },
+    {
+      "id": 182867,
+      "name": "Elorrio"
+    },
+    {
+      "id": 182868,
+      "name": "Erandio"
+    },
+    {
+      "id": 182869,
+      "name": "Ereño"
+    },
+    {
+      "id": 182870,
+      "name": "Ermua"
+    },
+    {
+      "id": 182871,
+      "name": "Errigoiti"
+    },
+    {
+      "id": 182872,
+      "name": "Etxebarri"
+    },
+    {
+      "id": 182873,
+      "name": "Etxebarria"
+    },
+    {
+      "id": 182874,
+      "name": "Forua"
+    },
+    {
+      "id": 182875,
+      "name": "Fruiz"
+    },
+    {
+      "id": 182876,
+      "name": "Galdakao"
+    },
+    {
+      "id": 182877,
+      "name": "Galdames"
+    },
+    {
+      "id": 182878,
+      "name": "Gamiz-Fika"
+    },
+    {
+      "id": 182879,
+      "name": "Garai"
+    },
+    {
+      "id": 182880,
+      "name": "Gatika"
+    },
+    {
+      "id": 182881,
+      "name": "Gautegiz Arteaga"
+    },
+    {
+      "id": 182882,
+      "name": "Gernika-Lumo"
+    },
+    {
+      "id": 182883,
+      "name": "Getxo"
+    },
+    {
+      "id": 182884,
+      "name": "Gizaburuaga"
+    },
+    {
+      "id": 182885,
+      "name": "Gordexola"
+    },
+    {
+      "id": 182886,
+      "name": "Gorliz"
+    },
+    {
+      "id": 182887,
+      "name": "Güeñes"
+    },
+    {
+      "id": 182888,
+      "name": "Ibarrangelu"
+    },
+    {
+      "id": 182889,
+      "name": "Igorre"
+    },
+    {
+      "id": 182890,
+      "name": "Ispaster"
+    },
+    {
+      "id": 182891,
+      "name": "Iurreta"
+    },
+    {
+      "id": 182892,
+      "name": "Izurtza"
+    },
+    {
+      "id": 182893,
+      "name": "Karrantza Harana/Valle de Carranza"
+    },
+    {
+      "id": 182894,
+      "name": "Kortezubi"
+    },
+    {
+      "id": 182895,
+      "name": "Lanestosa"
+    },
+    {
+      "id": 182896,
+      "name": "Larrabetzu"
+    },
+    {
+      "id": 182897,
+      "name": "Laukiz"
+    },
+    {
+      "id": 182898,
+      "name": "Leioa"
+    },
+    {
+      "id": 182899,
+      "name": "Lekeitio"
+    },
+    {
+      "id": 182900,
+      "name": "Lemoa"
+    },
+    {
+      "id": 182901,
+      "name": "Lemoiz"
+    },
+    {
+      "id": 182902,
+      "name": "Lezama"
+    },
+    {
+      "id": 182903,
+      "name": "Loiu"
+    },
+    {
+      "id": 182904,
+      "name": "Mallabia"
+    },
+    {
+      "id": 182905,
+      "name": "Mañaria"
+    },
+    {
+      "id": 182906,
+      "name": "Markina-Xemein"
+    },
+    {
+      "id": 182907,
+      "name": "Maruri-Jatabe"
+    },
+    {
+      "id": 182908,
+      "name": "Meñaka"
+    },
+    {
+      "id": 182909,
+      "name": "Mendata"
+    },
+    {
+      "id": 182910,
+      "name": "Mendexa"
+    },
+    {
+      "id": 182911,
+      "name": "Morga"
+    },
+    {
+      "id": 182912,
+      "name": "Mundaka"
+    },
+    {
+      "id": 182913,
+      "name": "Mungia"
+    },
+    {
+      "id": 182914,
+      "name": "Munitibar-Arbatzegi Gerrikaitz"
+    },
+    {
+      "id": 182915,
+      "name": "Murueta"
+    },
+    {
+      "id": 182916,
+      "name": "Muskiz"
+    },
+    {
+      "id": 182917,
+      "name": "Muxika"
+    },
+    {
+      "id": 182918,
+      "name": "Nabarniz"
+    },
+    {
+      "id": 182919,
+      "name": "Ondarroa"
+    },
+    {
+      "id": 182920,
+      "name": "Orozko"
+    },
+    {
+      "id": 182921,
+      "name": "Ortuella"
+    },
+    {
+      "id": 182922,
+      "name": "Otxandio"
+    },
+    {
+      "id": 182923,
+      "name": "Plentzia"
+    },
+    {
+      "id": 182924,
+      "name": "Portugalete"
+    },
+    {
+      "id": 182925,
+      "name": "Santurtzi"
+    },
+    {
+      "id": 182926,
+      "name": "Sestao"
+    },
+    {
+      "id": 182927,
+      "name": "Sondika"
+    },
+    {
+      "id": 182928,
+      "name": "Sopelana"
+    },
+    {
+      "id": 182929,
+      "name": "Sopuerta"
+    },
+    {
+      "id": 182930,
+      "name": "Sukarrieta"
+    },
+    {
+      "id": 182931,
+      "name": "Trucios-Turtzioz"
+    },
+    {
+      "id": 182932,
+      "name": "Ubide"
+    },
+    {
+      "id": 182933,
+      "name": "Ugao-Miraballes"
+    },
+    {
+      "id": 182934,
+      "name": "Urduliz"
+    },
+    {
+      "id": 182935,
+      "name": "Urduña/Orduña"
+    },
+    {
+      "id": 182936,
+      "name": "Valle de Trápaga-Trapagaran"
+    },
+    {
+      "id": 182937,
+      "name": "Zaldibar"
+    },
+    {
+      "id": 182938,
+      "name": "Zalla"
+    },
+    {
+      "id": 182939,
+      "name": "Zamudio"
+    },
+    {
+      "id": 182940,
+      "name": "Zaratamo"
+    },
+    {
+      "id": 182941,
+      "name": "Zeanuri"
+    },
+    {
+      "id": 182942,
+      "name": "Zeberio"
+    },
+    {
+      "id": 182943,
+      "name": "Zierbena"
+    },
+    {
+      "id": 182944,
+      "name": "Ziortza-Bolibar"
+    }
+  ]
+}

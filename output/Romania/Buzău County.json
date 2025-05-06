@@ -1,0 +1,899 @@
+{
+  "id": 5964,
+  "name": "Buzău County",
+  "state_code": "BZ",
+  "cities": [
+    {
+      "id": 167110,
+      "name": "Amara"
+    },
+    {
+      "id": 167111,
+      "name": "Amaru"
+    },
+    {
+      "id": 167112,
+      "name": "Băbeni"
+    },
+    {
+      "id": 167113,
+      "name": "Babeţi"
+    },
+    {
+      "id": 167114,
+      "name": "Bălăceanu"
+    },
+    {
+      "id": 167115,
+      "name": "Balta Albă"
+    },
+    {
+      "id": 167116,
+      "name": "Bâsca Chiojdului"
+    },
+    {
+      "id": 167117,
+      "name": "Bâsca Rozilei"
+    },
+    {
+      "id": 167118,
+      "name": "Bâscenii de Jos"
+    },
+    {
+      "id": 167119,
+      "name": "Bâscenii de Sus"
+    },
+    {
+      "id": 167120,
+      "name": "Beceni"
+    },
+    {
+      "id": 167121,
+      "name": "Berca"
+    },
+    {
+      "id": 167122,
+      "name": "Bisoca"
+    },
+    {
+      "id": 167123,
+      "name": "Blăjani"
+    },
+    {
+      "id": 167124,
+      "name": "Boboc"
+    },
+    {
+      "id": 167125,
+      "name": "Boldu"
+    },
+    {
+      "id": 167126,
+      "name": "Bozioru"
+    },
+    {
+      "id": 167127,
+      "name": "Brădeanu"
+    },
+    {
+      "id": 167128,
+      "name": "Brăeşti"
+    },
+    {
+      "id": 167129,
+      "name": "Breaza"
+    },
+    {
+      "id": 167130,
+      "name": "Buda"
+    },
+    {
+      "id": 167131,
+      "name": "Burueneşti"
+    },
+    {
+      "id": 167132,
+      "name": "Buzău"
+    },
+    {
+      "id": 167133,
+      "name": "C.a. Rosetti"
+    },
+    {
+      "id": 167134,
+      "name": "Căldărăști"
+    },
+    {
+      "id": 167135,
+      "name": "Calvini"
+    },
+    {
+      "id": 167136,
+      "name": "Căneşti"
+    },
+    {
+      "id": 167137,
+      "name": "Căpățânești"
+    },
+    {
+      "id": 167138,
+      "name": "Cașoca"
+    },
+    {
+      "id": 167139,
+      "name": "Cătina"
+    },
+    {
+      "id": 167140,
+      "name": "Cernăteşti"
+    },
+    {
+      "id": 167141,
+      "name": "Chiliile"
+    },
+    {
+      "id": 167142,
+      "name": "Chiojdu"
+    },
+    {
+      "id": 167143,
+      "name": "Cilibia"
+    },
+    {
+      "id": 167144,
+      "name": "Cislău"
+    },
+    {
+      "id": 167145,
+      "name": "Cochirleanca"
+    },
+    {
+      "id": 167146,
+      "name": "Colţi"
+    },
+    {
+      "id": 167147,
+      "name": "Comuna Amaru"
+    },
+    {
+      "id": 167148,
+      "name": "Comuna Bălăceanu"
+    },
+    {
+      "id": 167149,
+      "name": "Comuna Balta Albă"
+    },
+    {
+      "id": 167150,
+      "name": "Comuna Beceni"
+    },
+    {
+      "id": 167151,
+      "name": "Comuna Berca"
+    },
+    {
+      "id": 167152,
+      "name": "Comuna Bisoca"
+    },
+    {
+      "id": 167153,
+      "name": "Comuna Blăjani"
+    },
+    {
+      "id": 167154,
+      "name": "Comuna Boldu"
+    },
+    {
+      "id": 167155,
+      "name": "Comuna Bozioru"
+    },
+    {
+      "id": 167156,
+      "name": "Comuna Brădeanu"
+    },
+    {
+      "id": 167157,
+      "name": "Comuna Brăeşti"
+    },
+    {
+      "id": 167158,
+      "name": "Comuna Breaza"
+    },
+    {
+      "id": 167159,
+      "name": "Comuna Buda"
+    },
+    {
+      "id": 167160,
+      "name": "Comuna C.A. Rosetti"
+    },
+    {
+      "id": 167161,
+      "name": "Comuna Calvini"
+    },
+    {
+      "id": 167162,
+      "name": "Comuna Căneşti"
+    },
+    {
+      "id": 167163,
+      "name": "Comuna Cătina"
+    },
+    {
+      "id": 167164,
+      "name": "Comuna Cernăteşti"
+    },
+    {
+      "id": 167165,
+      "name": "Comuna Chiliile"
+    },
+    {
+      "id": 167166,
+      "name": "Comuna Chiojdu"
+    },
+    {
+      "id": 167167,
+      "name": "Comuna Cilibia"
+    },
+    {
+      "id": 167168,
+      "name": "Comuna Cislău"
+    },
+    {
+      "id": 167169,
+      "name": "Comuna Cochirleanca"
+    },
+    {
+      "id": 167170,
+      "name": "Comuna Colţi"
+    },
+    {
+      "id": 167171,
+      "name": "Comuna Costeşti"
+    },
+    {
+      "id": 167172,
+      "name": "Comuna Cozieni"
+    },
+    {
+      "id": 167173,
+      "name": "Comuna Florica"
+    },
+    {
+      "id": 167174,
+      "name": "Comuna Gălbinaşi"
+    },
+    {
+      "id": 167175,
+      "name": "Comuna Gherăseni"
+    },
+    {
+      "id": 167176,
+      "name": "Comuna Ghergheasa"
+    },
+    {
+      "id": 167177,
+      "name": "Comuna Glodeanu-Sărat"
+    },
+    {
+      "id": 167178,
+      "name": "Comuna Glodeanu-Siliştea"
+    },
+    {
+      "id": 167179,
+      "name": "Comuna Greabănu"
+    },
+    {
+      "id": 167180,
+      "name": "Comuna Gura Teghii"
+    },
+    {
+      "id": 167181,
+      "name": "Comuna Largu"
+    },
+    {
+      "id": 167182,
+      "name": "Comuna Lopătari"
+    },
+    {
+      "id": 167183,
+      "name": "Comuna Luciu"
+    },
+    {
+      "id": 167184,
+      "name": "Comuna Măgura"
+    },
+    {
+      "id": 167185,
+      "name": "Comuna Mânzăleşti"
+    },
+    {
+      "id": 167186,
+      "name": "Comuna Mărăcineni"
+    },
+    {
+      "id": 167187,
+      "name": "Comuna Mărgăriteşti"
+    },
+    {
+      "id": 167188,
+      "name": "Comuna Merei"
+    },
+    {
+      "id": 167189,
+      "name": "Comuna Mihăileşti"
+    },
+    {
+      "id": 167190,
+      "name": "Comuna Movila Banului"
+    },
+    {
+      "id": 167191,
+      "name": "Comuna Murgeşti"
+    },
+    {
+      "id": 167192,
+      "name": "Comuna Năeni"
+    },
+    {
+      "id": 167193,
+      "name": "Comuna Odăile"
+    },
+    {
+      "id": 167194,
+      "name": "Comuna Padina"
+    },
+    {
+      "id": 167195,
+      "name": "Comuna Pănătău"
+    },
+    {
+      "id": 167196,
+      "name": "Comuna Pardoşi"
+    },
+    {
+      "id": 167197,
+      "name": "Comuna Pârscov"
+    },
+    {
+      "id": 167198,
+      "name": "Comuna Pietroasele"
+    },
+    {
+      "id": 167199,
+      "name": "Comuna Podgoria"
+    },
+    {
+      "id": 167200,
+      "name": "Comuna Poşta Câlnãu"
+    },
+    {
+      "id": 167201,
+      "name": "Comuna Puieşti"
+    },
+    {
+      "id": 167202,
+      "name": "Comuna Racoviţeni"
+    },
+    {
+      "id": 167203,
+      "name": "Comuna Râmnicelu"
+    },
+    {
+      "id": 167204,
+      "name": "Comuna Robeasca"
+    },
+    {
+      "id": 167205,
+      "name": "Comuna Ruşeţu"
+    },
+    {
+      "id": 167206,
+      "name": "Comuna Săgeata"
+    },
+    {
+      "id": 167207,
+      "name": "Comuna Săhăteni"
+    },
+    {
+      "id": 167208,
+      "name": "Comuna Săpoca"
+    },
+    {
+      "id": 167209,
+      "name": "Comuna Săruleşti"
+    },
+    {
+      "id": 167210,
+      "name": "Comuna Scorţoasa"
+    },
+    {
+      "id": 167211,
+      "name": "Comuna Scutelnici"
+    },
+    {
+      "id": 167212,
+      "name": "Comuna Siriu"
+    },
+    {
+      "id": 167213,
+      "name": "Comuna Smeeni"
+    },
+    {
+      "id": 167214,
+      "name": "Comuna Stâlpu"
+    },
+    {
+      "id": 167215,
+      "name": "Comuna Ţinteşti"
+    },
+    {
+      "id": 167216,
+      "name": "Comuna Tisãu"
+    },
+    {
+      "id": 167217,
+      "name": "Comuna Topliceni"
+    },
+    {
+      "id": 167218,
+      "name": "Comuna Ulmeni"
+    },
+    {
+      "id": 167219,
+      "name": "Comuna Unguriu"
+    },
+    {
+      "id": 167220,
+      "name": "Comuna Vadu Paşii"
+    },
+    {
+      "id": 167221,
+      "name": "Comuna Vâlcelele"
+    },
+    {
+      "id": 167222,
+      "name": "Comuna Valea Râmnicului"
+    },
+    {
+      "id": 167223,
+      "name": "Comuna Valea Sălciei"
+    },
+    {
+      "id": 167224,
+      "name": "Comuna Verneşti"
+    },
+    {
+      "id": 167225,
+      "name": "Comuna Vintilă Vodă"
+    },
+    {
+      "id": 167226,
+      "name": "Comuna Vipereşti"
+    },
+    {
+      "id": 167227,
+      "name": "Comuna Zărneşti"
+    },
+    {
+      "id": 167228,
+      "name": "Comuna Ziduri"
+    },
+    {
+      "id": 167229,
+      "name": "Corbu"
+    },
+    {
+      "id": 167230,
+      "name": "Costeşti"
+    },
+    {
+      "id": 167231,
+      "name": "Coțatcu"
+    },
+    {
+      "id": 167232,
+      "name": "Cozieni"
+    },
+    {
+      "id": 167233,
+      "name": "Dâmbroca"
+    },
+    {
+      "id": 167234,
+      "name": "Dăscălești"
+    },
+    {
+      "id": 167235,
+      "name": "Dedulești"
+    },
+    {
+      "id": 167236,
+      "name": "Florica"
+    },
+    {
+      "id": 167237,
+      "name": "Fundeni"
+    },
+    {
+      "id": 167238,
+      "name": "Furtunești"
+    },
+    {
+      "id": 167239,
+      "name": "Gălbinaşi"
+    },
+    {
+      "id": 167240,
+      "name": "Găvănești"
+    },
+    {
+      "id": 167241,
+      "name": "Gherăseni"
+    },
+    {
+      "id": 167242,
+      "name": "Ghergheasa"
+    },
+    {
+      "id": 167243,
+      "name": "Glodeanu-Sărat"
+    },
+    {
+      "id": 167244,
+      "name": "Glodeanu-Siliştea"
+    },
+    {
+      "id": 167245,
+      "name": "Grăjdana"
+    },
+    {
+      "id": 167246,
+      "name": "Grebănu"
+    },
+    {
+      "id": 167247,
+      "name": "Greceanca"
+    },
+    {
+      "id": 167248,
+      "name": "Grunji"
+    },
+    {
+      "id": 167249,
+      "name": "Gura Teghii"
+    },
+    {
+      "id": 167250,
+      "name": "Izvoru"
+    },
+    {
+      "id": 167251,
+      "name": "Izvoru Dulce"
+    },
+    {
+      "id": 167252,
+      "name": "Largu"
+    },
+    {
+      "id": 167253,
+      "name": "Limpeziș"
+    },
+    {
+      "id": 167254,
+      "name": "Lipia"
+    },
+    {
+      "id": 167255,
+      "name": "Lopătari"
+    },
+    {
+      "id": 167256,
+      "name": "Luciu"
+    },
+    {
+      "id": 167257,
+      "name": "Lunca"
+    },
+    {
+      "id": 167258,
+      "name": "Lunca Jariștei"
+    },
+    {
+      "id": 167259,
+      "name": "Lunca Priporului"
+    },
+    {
+      "id": 167260,
+      "name": "Măgura"
+    },
+    {
+      "id": 167261,
+      "name": "Mânzăleşti"
+    },
+    {
+      "id": 167262,
+      "name": "Mărăcineni"
+    },
+    {
+      "id": 167263,
+      "name": "Mărgăriteşti"
+    },
+    {
+      "id": 167264,
+      "name": "Mărunțișu"
+    },
+    {
+      "id": 167265,
+      "name": "Mătești"
+    },
+    {
+      "id": 167266,
+      "name": "Maxenu"
+    },
+    {
+      "id": 167267,
+      "name": "Merei"
+    },
+    {
+      "id": 167268,
+      "name": "Mihăileşti"
+    },
+    {
+      "id": 167269,
+      "name": "Movila Banului"
+    },
+    {
+      "id": 167270,
+      "name": "Municipiul Buzău"
+    },
+    {
+      "id": 167271,
+      "name": "Municipiul Râmnicu Sãrat"
+    },
+    {
+      "id": 167272,
+      "name": "Murgeşti"
+    },
+    {
+      "id": 167273,
+      "name": "Năeni"
+    },
+    {
+      "id": 167274,
+      "name": "Nehoiu"
+    },
+    {
+      "id": 167275,
+      "name": "Odăile"
+    },
+    {
+      "id": 167276,
+      "name": "Oraş Nehoiu"
+    },
+    {
+      "id": 167277,
+      "name": "Oraş Pãtârlagele"
+    },
+    {
+      "id": 167278,
+      "name": "Oraş Pogoanele"
+    },
+    {
+      "id": 167279,
+      "name": "Oreavu"
+    },
+    {
+      "id": 167280,
+      "name": "Padina"
+    },
+    {
+      "id": 167281,
+      "name": "Păltineni"
+    },
+    {
+      "id": 167282,
+      "name": "Pănătău"
+    },
+    {
+      "id": 167283,
+      "name": "Pardoşi"
+    },
+    {
+      "id": 167284,
+      "name": "Pârscov"
+    },
+    {
+      "id": 167285,
+      "name": "Pătârlagele"
+    },
+    {
+      "id": 167286,
+      "name": "Pietroasele"
+    },
+    {
+      "id": 167287,
+      "name": "Pietrosu"
+    },
+    {
+      "id": 167288,
+      "name": "Plevna"
+    },
+    {
+      "id": 167289,
+      "name": "Podgoria"
+    },
+    {
+      "id": 167290,
+      "name": "Pogoanele"
+    },
+    {
+      "id": 167291,
+      "name": "Pogonele"
+    },
+    {
+      "id": 167292,
+      "name": "Poşta Câlnău"
+    },
+    {
+      "id": 167293,
+      "name": "Potoceni"
+    },
+    {
+      "id": 167294,
+      "name": "Puieștii de Jos"
+    },
+    {
+      "id": 167295,
+      "name": "Racoviţeni"
+    },
+    {
+      "id": 167296,
+      "name": "Râmnicelu"
+    },
+    {
+      "id": 167297,
+      "name": "Râmnicu Sărat"
+    },
+    {
+      "id": 167298,
+      "name": "Robeasca"
+    },
+    {
+      "id": 167299,
+      "name": "Rubla"
+    },
+    {
+      "id": 167300,
+      "name": "Ruşeţu"
+    },
+    {
+      "id": 167301,
+      "name": "Săgeata"
+    },
+    {
+      "id": 167302,
+      "name": "Săhăteni"
+    },
+    {
+      "id": 167303,
+      "name": "Sălcioara"
+    },
+    {
+      "id": 167304,
+      "name": "Săpoca"
+    },
+    {
+      "id": 167305,
+      "name": "Săruleşti"
+    },
+    {
+      "id": 167306,
+      "name": "Scorţoasa"
+    },
+    {
+      "id": 167307,
+      "name": "Scurtești"
+    },
+    {
+      "id": 167308,
+      "name": "Scutelnici"
+    },
+    {
+      "id": 167309,
+      "name": "Smeeni"
+    },
+    {
+      "id": 167310,
+      "name": "Stâlpu"
+    },
+    {
+      "id": 167311,
+      "name": "Stăncești"
+    },
+    {
+      "id": 167312,
+      "name": "Sudiți"
+    },
+    {
+      "id": 167313,
+      "name": "Tăbărăști"
+    },
+    {
+      "id": 167314,
+      "name": "Ţinteşti"
+    },
+    {
+      "id": 167315,
+      "name": "Topliceni"
+    },
+    {
+      "id": 167316,
+      "name": "Ulmeni"
+    },
+    {
+      "id": 167317,
+      "name": "Unguriu"
+    },
+    {
+      "id": 167318,
+      "name": "Vadu Paşii"
+    },
+    {
+      "id": 167319,
+      "name": "Vadu Sorești"
+    },
+    {
+      "id": 167320,
+      "name": "Vâlcele"
+    },
+    {
+      "id": 167321,
+      "name": "Vâlcelele"
+    },
+    {
+      "id": 167322,
+      "name": "Valea Părului"
+    },
+    {
+      "id": 167323,
+      "name": "Valea Râmnicului"
+    },
+    {
+      "id": 167324,
+      "name": "Valea Salciei"
+    },
+    {
+      "id": 167325,
+      "name": "Verneşti"
+    },
+    {
+      "id": 167326,
+      "name": "Vintilă Vodă"
+    },
+    {
+      "id": 167327,
+      "name": "Vintileanca"
+    },
+    {
+      "id": 167328,
+      "name": "Vipereşti"
+    },
+    {
+      "id": 167329,
+      "name": "Zărneşti"
+    },
+    {
+      "id": 167330,
+      "name": "Zărneștii de Slănic"
+    },
+    {
+      "id": 167331,
+      "name": "Ziduri"
+    },
+    {
+      "id": 167332,
+      "name": "Zorești"
+    }
+  ]
+}

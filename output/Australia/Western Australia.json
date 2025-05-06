@@ -1,0 +1,2163 @@
+{
+  "id": 2822,
+  "name": "Western Australia",
+  "state_code": "WA",
+  "cities": [
+    {
+      "id": 77698,
+      "name": "Abbey"
+    },
+    {
+      "id": 77699,
+      "name": "Albany"
+    },
+    {
+      "id": 77700,
+      "name": "Albany city centre"
+    },
+    {
+      "id": 77701,
+      "name": "Alexander Heights"
+    },
+    {
+      "id": 77702,
+      "name": "Alfred Cove"
+    },
+    {
+      "id": 77703,
+      "name": "Alkimos"
+    },
+    {
+      "id": 77704,
+      "name": "Applecross"
+    },
+    {
+      "id": 77705,
+      "name": "Ardross"
+    },
+    {
+      "id": 77706,
+      "name": "Armadale"
+    },
+    {
+      "id": 77707,
+      "name": "Ascot"
+    },
+    {
+      "id": 77708,
+      "name": "Ashburton"
+    },
+    {
+      "id": 77709,
+      "name": "Ashby"
+    },
+    {
+      "id": 77710,
+      "name": "Ashfield"
+    },
+    {
+      "id": 77711,
+      "name": "Attadale"
+    },
+    {
+      "id": 77712,
+      "name": "Atwell"
+    },
+    {
+      "id": 77713,
+      "name": "Aubin Grove"
+    },
+    {
+      "id": 77714,
+      "name": "Augusta"
+    },
+    {
+      "id": 77715,
+      "name": "Augusta-Margaret River Shire"
+    },
+    {
+      "id": 77716,
+      "name": "Australind"
+    },
+    {
+      "id": 77717,
+      "name": "Aveley"
+    },
+    {
+      "id": 77718,
+      "name": "Badgingarra"
+    },
+    {
+      "id": 77719,
+      "name": "Bakers Hill"
+    },
+    {
+      "id": 77720,
+      "name": "Balcatta"
+    },
+    {
+      "id": 77721,
+      "name": "Baldivis"
+    },
+    {
+      "id": 77722,
+      "name": "Balga"
+    },
+    {
+      "id": 77723,
+      "name": "Ballajura"
+    },
+    {
+      "id": 77724,
+      "name": "Banjup"
+    },
+    {
+      "id": 77725,
+      "name": "Banksia Grove"
+    },
+    {
+      "id": 77726,
+      "name": "Bassendean"
+    },
+    {
+      "id": 77727,
+      "name": "Bateman"
+    },
+    {
+      "id": 77728,
+      "name": "Baynton"
+    },
+    {
+      "id": 77729,
+      "name": "Bayonet Head"
+    },
+    {
+      "id": 77730,
+      "name": "Bayswater"
+    },
+    {
+      "id": 77731,
+      "name": "Beachlands"
+    },
+    {
+      "id": 77732,
+      "name": "Beaconsfield"
+    },
+    {
+      "id": 77733,
+      "name": "Beckenham"
+    },
+    {
+      "id": 77734,
+      "name": "Bedford"
+    },
+    {
+      "id": 77735,
+      "name": "Bedfordale"
+    },
+    {
+      "id": 77736,
+      "name": "Beechboro"
+    },
+    {
+      "id": 77737,
+      "name": "Beeliar"
+    },
+    {
+      "id": 77738,
+      "name": "Beldon"
+    },
+    {
+      "id": 77739,
+      "name": "Bellevue"
+    },
+    {
+      "id": 77740,
+      "name": "Belmont"
+    },
+    {
+      "id": 77741,
+      "name": "Bennett Springs"
+    },
+    {
+      "id": 77742,
+      "name": "Bentley"
+    },
+    {
+      "id": 77743,
+      "name": "Beresford"
+    },
+    {
+      "id": 77744,
+      "name": "Bertram"
+    },
+    {
+      "id": 77745,
+      "name": "Beverley"
+    },
+    {
+      "id": 77746,
+      "name": "Bibra Lake"
+    },
+    {
+      "id": 77747,
+      "name": "Bicton"
+    },
+    {
+      "id": 77748,
+      "name": "Bilingurr"
+    },
+    {
+      "id": 77749,
+      "name": "Bindoon"
+    },
+    {
+      "id": 77750,
+      "name": "Binningup"
+    },
+    {
+      "id": 77751,
+      "name": "Bluff Point"
+    },
+    {
+      "id": 77752,
+      "name": "Boddington"
+    },
+    {
+      "id": 77753,
+      "name": "Booragoon"
+    },
+    {
+      "id": 77754,
+      "name": "Boulder"
+    },
+    {
+      "id": 77755,
+      "name": "Boyanup"
+    },
+    {
+      "id": 77756,
+      "name": "Boyup Brook"
+    },
+    {
+      "id": 77757,
+      "name": "Brabham"
+    },
+    {
+      "id": 77758,
+      "name": "Brentwood"
+    },
+    {
+      "id": 77759,
+      "name": "Bridgetown"
+    },
+    {
+      "id": 77760,
+      "name": "Bridgetown-Greenbushes"
+    },
+    {
+      "id": 77761,
+      "name": "Broadwater"
+    },
+    {
+      "id": 77762,
+      "name": "Brockman"
+    },
+    {
+      "id": 77763,
+      "name": "Brookdale"
+    },
+    {
+      "id": 77764,
+      "name": "Brookton"
+    },
+    {
+      "id": 77765,
+      "name": "Broome"
+    },
+    {
+      "id": 77766,
+      "name": "Broomehill-Tambellup"
+    },
+    {
+      "id": 77767,
+      "name": "Bruce Rock"
+    },
+    {
+      "id": 77768,
+      "name": "Brunswick"
+    },
+    {
+      "id": 77769,
+      "name": "Bulgarra"
+    },
+    {
+      "id": 77770,
+      "name": "Bull Creek"
+    },
+    {
+      "id": 77771,
+      "name": "Bullsbrook"
+    },
+    {
+      "id": 77772,
+      "name": "Bunbury"
+    },
+    {
+      "id": 77773,
+      "name": "Burns Beach"
+    },
+    {
+      "id": 77774,
+      "name": "Burswood"
+    },
+    {
+      "id": 77775,
+      "name": "Busselton"
+    },
+    {
+      "id": 77776,
+      "name": "Busselton city cenre"
+    },
+    {
+      "id": 77777,
+      "name": "Butler"
+    },
+    {
+      "id": 77778,
+      "name": "Byford"
+    },
+    {
+      "id": 77779,
+      "name": "Cable Beach"
+    },
+    {
+      "id": 77780,
+      "name": "Calista"
+    },
+    {
+      "id": 77781,
+      "name": "Cambridge"
+    },
+    {
+      "id": 77782,
+      "name": "Camillo"
+    },
+    {
+      "id": 77783,
+      "name": "Canning"
+    },
+    {
+      "id": 77784,
+      "name": "Canning Vale"
+    },
+    {
+      "id": 77785,
+      "name": "Cannington"
+    },
+    {
+      "id": 77786,
+      "name": "Capel"
+    },
+    {
+      "id": 77787,
+      "name": "Cardup"
+    },
+    {
+      "id": 77788,
+      "name": "Carey Park"
+    },
+    {
+      "id": 77789,
+      "name": "Carine"
+    },
+    {
+      "id": 77790,
+      "name": "Carlisle"
+    },
+    {
+      "id": 77791,
+      "name": "Carnamah"
+    },
+    {
+      "id": 77792,
+      "name": "Carnarvon"
+    },
+    {
+      "id": 77793,
+      "name": "Carramar"
+    },
+    {
+      "id": 77794,
+      "name": "Castletown"
+    },
+    {
+      "id": 77795,
+      "name": "Casuarina"
+    },
+    {
+      "id": 77796,
+      "name": "Cataby"
+    },
+    {
+      "id": 77797,
+      "name": "Caversham"
+    },
+    {
+      "id": 77798,
+      "name": "Cervantes"
+    },
+    {
+      "id": 77799,
+      "name": "Champion Lakes"
+    },
+    {
+      "id": 77800,
+      "name": "Chapman Valley"
+    },
+    {
+      "id": 77801,
+      "name": "Chidlow"
+    },
+    {
+      "id": 77802,
+      "name": "Chittering"
+    },
+    {
+      "id": 77803,
+      "name": "Churchlands"
+    },
+    {
+      "id": 77804,
+      "name": "City Beach"
+    },
+    {
+      "id": 77805,
+      "name": "City of Cockburn"
+    },
+    {
+      "id": 77806,
+      "name": "City of Perth"
+    },
+    {
+      "id": 77807,
+      "name": "Claremont"
+    },
+    {
+      "id": 77808,
+      "name": "Clarkson"
+    },
+    {
+      "id": 77809,
+      "name": "Cloverdale"
+    },
+    {
+      "id": 77810,
+      "name": "Cockburn Central"
+    },
+    {
+      "id": 77811,
+      "name": "College Grove"
+    },
+    {
+      "id": 77812,
+      "name": "Collie"
+    },
+    {
+      "id": 77813,
+      "name": "Como"
+    },
+    {
+      "id": 77814,
+      "name": "Connolly"
+    },
+    {
+      "id": 77815,
+      "name": "Coodanup"
+    },
+    {
+      "id": 77816,
+      "name": "Coogee"
+    },
+    {
+      "id": 77817,
+      "name": "Coolbellup"
+    },
+    {
+      "id": 77818,
+      "name": "Coolbinia"
+    },
+    {
+      "id": 77819,
+      "name": "Coolgardie"
+    },
+    {
+      "id": 77820,
+      "name": "Cooloongup"
+    },
+    {
+      "id": 77821,
+      "name": "Coorow"
+    },
+    {
+      "id": 77822,
+      "name": "Corrigin"
+    },
+    {
+      "id": 77823,
+      "name": "Cottesloe"
+    },
+    {
+      "id": 77824,
+      "name": "Cowaramup"
+    },
+    {
+      "id": 77825,
+      "name": "Craigie"
+    },
+    {
+      "id": 77826,
+      "name": "Cranbrook"
+    },
+    {
+      "id": 77827,
+      "name": "Crawley"
+    },
+    {
+      "id": 77828,
+      "name": "Cuballing"
+    },
+    {
+      "id": 77829,
+      "name": "Cue"
+    },
+    {
+      "id": 77830,
+      "name": "Cunderdin"
+    },
+    {
+      "id": 77831,
+      "name": "Currambine"
+    },
+    {
+      "id": 77832,
+      "name": "Daglish"
+    },
+    {
+      "id": 77833,
+      "name": "Dalkeith"
+    },
+    {
+      "id": 77834,
+      "name": "Dalwallinu"
+    },
+    {
+      "id": 77835,
+      "name": "Dalyellup"
+    },
+    {
+      "id": 77836,
+      "name": "Dampier"
+    },
+    {
+      "id": 77837,
+      "name": "Dampier Peninsula"
+    },
+    {
+      "id": 77838,
+      "name": "Dandaragan"
+    },
+    {
+      "id": 77839,
+      "name": "Darch"
+    },
+    {
+      "id": 77840,
+      "name": "Dardanup"
+    },
+    {
+      "id": 77841,
+      "name": "Darling Downs"
+    },
+    {
+      "id": 77842,
+      "name": "Darlington"
+    },
+    {
+      "id": 77843,
+      "name": "Dawesville"
+    },
+    {
+      "id": 77844,
+      "name": "Dayton"
+    },
+    {
+      "id": 77845,
+      "name": "Denham"
+    },
+    {
+      "id": 77846,
+      "name": "Denmark"
+    },
+    {
+      "id": 77847,
+      "name": "Derby"
+    },
+    {
+      "id": 77848,
+      "name": "Derby-West Kimberley"
+    },
+    {
+      "id": 77849,
+      "name": "Dianella"
+    },
+    {
+      "id": 77850,
+      "name": "Djugun"
+    },
+    {
+      "id": 77851,
+      "name": "Dongara"
+    },
+    {
+      "id": 77852,
+      "name": "Donnybrook"
+    },
+    {
+      "id": 77853,
+      "name": "Donnybrook-Balingup"
+    },
+    {
+      "id": 77854,
+      "name": "Doubleview"
+    },
+    {
+      "id": 77855,
+      "name": "Dowerin"
+    },
+    {
+      "id": 77856,
+      "name": "Drummond Cove"
+    },
+    {
+      "id": 77857,
+      "name": "Dudley Park"
+    },
+    {
+      "id": 77858,
+      "name": "Dumbleyung Shire"
+    },
+    {
+      "id": 77859,
+      "name": "Duncraig"
+    },
+    {
+      "id": 77860,
+      "name": "Dundas"
+    },
+    {
+      "id": 77861,
+      "name": "Dunsborough"
+    },
+    {
+      "id": 77862,
+      "name": "East Bunbury"
+    },
+    {
+      "id": 77863,
+      "name": "East Cannington"
+    },
+    {
+      "id": 77864,
+      "name": "East Carnarvon"
+    },
+    {
+      "id": 77865,
+      "name": "East Fremantle"
+    },
+    {
+      "id": 77866,
+      "name": "East Perth"
+    },
+    {
+      "id": 77867,
+      "name": "East Pilbara"
+    },
+    {
+      "id": 77868,
+      "name": "East Victoria Park"
+    },
+    {
+      "id": 77869,
+      "name": "Eaton"
+    },
+    {
+      "id": 77870,
+      "name": "Eden Hill"
+    },
+    {
+      "id": 77871,
+      "name": "Edgewater"
+    },
+    {
+      "id": 77872,
+      "name": "Eglinton"
+    },
+    {
+      "id": 77873,
+      "name": "Ellenbrook"
+    },
+    {
+      "id": 77874,
+      "name": "Embleton"
+    },
+    {
+      "id": 77875,
+      "name": "Erskine"
+    },
+    {
+      "id": 77876,
+      "name": "Esperance"
+    },
+    {
+      "id": 77877,
+      "name": "Esperance Shire"
+    },
+    {
+      "id": 77878,
+      "name": "Exmouth"
+    },
+    {
+      "id": 77879,
+      "name": "Falcon"
+    },
+    {
+      "id": 77880,
+      "name": "Ferndale"
+    },
+    {
+      "id": 77881,
+      "name": "Fitzroy Crossing"
+    },
+    {
+      "id": 77882,
+      "name": "Floreat"
+    },
+    {
+      "id": 77883,
+      "name": "Forrestdale"
+    },
+    {
+      "id": 77884,
+      "name": "Forrestfield"
+    },
+    {
+      "id": 77885,
+      "name": "Fremantle"
+    },
+    {
+      "id": 77886,
+      "name": "Garden Island"
+    },
+    {
+      "id": 77887,
+      "name": "Gelorup"
+    },
+    {
+      "id": 77888,
+      "name": "Geographe"
+    },
+    {
+      "id": 77889,
+      "name": "Geraldton"
+    },
+    {
+      "id": 77890,
+      "name": "Geraldton city centre"
+    },
+    {
+      "id": 77891,
+      "name": "Gidgegannup"
+    },
+    {
+      "id": 77892,
+      "name": "Gingin"
+    },
+    {
+      "id": 77893,
+      "name": "Girrawheen"
+    },
+    {
+      "id": 77894,
+      "name": "Glen Forrest"
+    },
+    {
+      "id": 77895,
+      "name": "Glen Iris"
+    },
+    {
+      "id": 77896,
+      "name": "Glendalough"
+    },
+    {
+      "id": 77897,
+      "name": "Gnangara"
+    },
+    {
+      "id": 77898,
+      "name": "Gnowangerup"
+    },
+    {
+      "id": 77899,
+      "name": "Golden Bay"
+    },
+    {
+      "id": 77900,
+      "name": "Goomalling"
+    },
+    {
+      "id": 77901,
+      "name": "Gooseberry Hill"
+    },
+    {
+      "id": 77902,
+      "name": "Gosnells"
+    },
+    {
+      "id": 77903,
+      "name": "Grasmere"
+    },
+    {
+      "id": 77904,
+      "name": "Green Head"
+    },
+    {
+      "id": 77905,
+      "name": "Greenfields"
+    },
+    {
+      "id": 77906,
+      "name": "Greenmount"
+    },
+    {
+      "id": 77907,
+      "name": "Greenwood"
+    },
+    {
+      "id": 77908,
+      "name": "Guildford"
+    },
+    {
+      "id": 77909,
+      "name": "Gwelup"
+    },
+    {
+      "id": 77910,
+      "name": "Halls Creek"
+    },
+    {
+      "id": 77911,
+      "name": "Halls Head"
+    },
+    {
+      "id": 77912,
+      "name": "Hamersley"
+    },
+    {
+      "id": 77913,
+      "name": "Hamilton Hill"
+    },
+    {
+      "id": 77914,
+      "name": "Hammond Park"
+    },
+    {
+      "id": 77915,
+      "name": "Hannans"
+    },
+    {
+      "id": 77916,
+      "name": "Harrisdale"
+    },
+    {
+      "id": 77917,
+      "name": "Harvey"
+    },
+    {
+      "id": 77918,
+      "name": "Heathridge"
+    },
+    {
+      "id": 77919,
+      "name": "Helena Valley"
+    },
+    {
+      "id": 77920,
+      "name": "Henley Brook"
+    },
+    {
+      "id": 77921,
+      "name": "Herne Hill"
+    },
+    {
+      "id": 77922,
+      "name": "High Wycombe"
+    },
+    {
+      "id": 77923,
+      "name": "Highgate"
+    },
+    {
+      "id": 77924,
+      "name": "Hilbert"
+    },
+    {
+      "id": 77925,
+      "name": "Hill River"
+    },
+    {
+      "id": 77926,
+      "name": "Hillarys"
+    },
+    {
+      "id": 77927,
+      "name": "Hillman"
+    },
+    {
+      "id": 77928,
+      "name": "Hilton"
+    },
+    {
+      "id": 77929,
+      "name": "Hocking"
+    },
+    {
+      "id": 77930,
+      "name": "Huntingdale"
+    },
+    {
+      "id": 77931,
+      "name": "Iluka"
+    },
+    {
+      "id": 77932,
+      "name": "Inglewood"
+    },
+    {
+      "id": 77933,
+      "name": "Innaloo"
+    },
+    {
+      "id": 77934,
+      "name": "Irwin"
+    },
+    {
+      "id": 77935,
+      "name": "Jandakot"
+    },
+    {
+      "id": 77936,
+      "name": "Jane Brook"
+    },
+    {
+      "id": 77937,
+      "name": "Jarrahdale"
+    },
+    {
+      "id": 77938,
+      "name": "Jerramungup"
+    },
+    {
+      "id": 77939,
+      "name": "Jindalee"
+    },
+    {
+      "id": 77940,
+      "name": "Jolimont"
+    },
+    {
+      "id": 77941,
+      "name": "Joondalup"
+    },
+    {
+      "id": 77942,
+      "name": "Joondanna"
+    },
+    {
+      "id": 77943,
+      "name": "Jurien Bay"
+    },
+    {
+      "id": 77944,
+      "name": "Kalamunda"
+    },
+    {
+      "id": 77945,
+      "name": "Kalbarri"
+    },
+    {
+      "id": 77946,
+      "name": "Kalgoorlie"
+    },
+    {
+      "id": 77947,
+      "name": "Kalgoorlie/Boulder"
+    },
+    {
+      "id": 77948,
+      "name": "Kallaroo"
+    },
+    {
+      "id": 77949,
+      "name": "Kambalda East"
+    },
+    {
+      "id": 77950,
+      "name": "Kambalda West"
+    },
+    {
+      "id": 77951,
+      "name": "Karawara"
+    },
+    {
+      "id": 77952,
+      "name": "Kardinya"
+    },
+    {
+      "id": 77953,
+      "name": "Karnup"
+    },
+    {
+      "id": 77954,
+      "name": "Karratha"
+    },
+    {
+      "id": 77955,
+      "name": "Karrinyup"
+    },
+    {
+      "id": 77956,
+      "name": "Katanning"
+    },
+    {
+      "id": 77957,
+      "name": "Kellerberrin"
+    },
+    {
+      "id": 77958,
+      "name": "Kelmscott"
+    },
+    {
+      "id": 77959,
+      "name": "Kent Shire"
+    },
+    {
+      "id": 77960,
+      "name": "Kenwick"
+    },
+    {
+      "id": 77961,
+      "name": "Kewdale"
+    },
+    {
+      "id": 77962,
+      "name": "Kiara"
+    },
+    {
+      "id": 77963,
+      "name": "Kingsley"
+    },
+    {
+      "id": 77964,
+      "name": "Kinross"
+    },
+    {
+      "id": 77965,
+      "name": "Kojonup"
+    },
+    {
+      "id": 77966,
+      "name": "Kondinin"
+    },
+    {
+      "id": 77967,
+      "name": "Koondoola"
+    },
+    {
+      "id": 77968,
+      "name": "Koorda"
+    },
+    {
+      "id": 77969,
+      "name": "Kulin"
+    },
+    {
+      "id": 77970,
+      "name": "Kununurra"
+    },
+    {
+      "id": 77971,
+      "name": "Kwinana"
+    },
+    {
+      "id": 77972,
+      "name": "Lake Grace"
+    },
+    {
+      "id": 77973,
+      "name": "Lakelands"
+    },
+    {
+      "id": 77974,
+      "name": "Lamington"
+    },
+    {
+      "id": 77975,
+      "name": "Lancelin"
+    },
+    {
+      "id": 77976,
+      "name": "Landsdale"
+    },
+    {
+      "id": 77977,
+      "name": "Langford"
+    },
+    {
+      "id": 77978,
+      "name": "Lathlain"
+    },
+    {
+      "id": 77979,
+      "name": "Laverton"
+    },
+    {
+      "id": 77980,
+      "name": "Leda"
+    },
+    {
+      "id": 77981,
+      "name": "Leederville"
+    },
+    {
+      "id": 77982,
+      "name": "Leeman"
+    },
+    {
+      "id": 77983,
+      "name": "Leeming"
+    },
+    {
+      "id": 77984,
+      "name": "Leinster"
+    },
+    {
+      "id": 77985,
+      "name": "Leonora"
+    },
+    {
+      "id": 77986,
+      "name": "Leschenault"
+    },
+    {
+      "id": 77987,
+      "name": "Lesmurdie"
+    },
+    {
+      "id": 77988,
+      "name": "Little Grove"
+    },
+    {
+      "id": 77989,
+      "name": "Lockridge"
+    },
+    {
+      "id": 77990,
+      "name": "Lockyer"
+    },
+    {
+      "id": 77991,
+      "name": "Lower Chittering"
+    },
+    {
+      "id": 77992,
+      "name": "Lower King"
+    },
+    {
+      "id": 77993,
+      "name": "Lynwood"
+    },
+    {
+      "id": 77994,
+      "name": "Maddington"
+    },
+    {
+      "id": 77995,
+      "name": "Madeley"
+    },
+    {
+      "id": 77996,
+      "name": "Madora Bay"
+    },
+    {
+      "id": 77997,
+      "name": "Maida Vale"
+    },
+    {
+      "id": 77998,
+      "name": "Malaga"
+    },
+    {
+      "id": 77999,
+      "name": "Mandurah"
+    },
+    {
+      "id": 78000,
+      "name": "Mandurah city centre"
+    },
+    {
+      "id": 78001,
+      "name": "Manjimup"
+    },
+    {
+      "id": 78002,
+      "name": "Manning"
+    },
+    {
+      "id": 78003,
+      "name": "Marangaroo"
+    },
+    {
+      "id": 78004,
+      "name": "Marble Bar"
+    },
+    {
+      "id": 78005,
+      "name": "Margaret River"
+    },
+    {
+      "id": 78006,
+      "name": "Marmion"
+    },
+    {
+      "id": 78007,
+      "name": "Martin"
+    },
+    {
+      "id": 78008,
+      "name": "Maylands"
+    },
+    {
+      "id": 78009,
+      "name": "McKail"
+    },
+    {
+      "id": 78010,
+      "name": "Meadow Springs"
+    },
+    {
+      "id": 78011,
+      "name": "Medina"
+    },
+    {
+      "id": 78012,
+      "name": "Meekatharra"
+    },
+    {
+      "id": 78013,
+      "name": "Melville"
+    },
+    {
+      "id": 78014,
+      "name": "Menora"
+    },
+    {
+      "id": 78015,
+      "name": "Menzies"
+    },
+    {
+      "id": 78016,
+      "name": "Merredin"
+    },
+    {
+      "id": 78017,
+      "name": "Merriwa"
+    },
+    {
+      "id": 78018,
+      "name": "Middle Swan"
+    },
+    {
+      "id": 78019,
+      "name": "Midland"
+    },
+    {
+      "id": 78020,
+      "name": "Midvale"
+    },
+    {
+      "id": 78021,
+      "name": "Millars Well"
+    },
+    {
+      "id": 78022,
+      "name": "Millbridge"
+    },
+    {
+      "id": 78023,
+      "name": "Mindarie"
+    },
+    {
+      "id": 78024,
+      "name": "Mingenew"
+    },
+    {
+      "id": 78025,
+      "name": "Mira Mar"
+    },
+    {
+      "id": 78026,
+      "name": "Mirrabooka"
+    },
+    {
+      "id": 78027,
+      "name": "Moora"
+    },
+    {
+      "id": 78028,
+      "name": "Morawa"
+    },
+    {
+      "id": 78029,
+      "name": "Morley"
+    },
+    {
+      "id": 78030,
+      "name": "Mosman Park"
+    },
+    {
+      "id": 78031,
+      "name": "Mount Barker"
+    },
+    {
+      "id": 78032,
+      "name": "Mount Claremont"
+    },
+    {
+      "id": 78033,
+      "name": "Mount Hawthorn"
+    },
+    {
+      "id": 78034,
+      "name": "Mount Helena"
+    },
+    {
+      "id": 78035,
+      "name": "Mount Lawley"
+    },
+    {
+      "id": 78036,
+      "name": "Mount Magnet"
+    },
+    {
+      "id": 78037,
+      "name": "Mount Marshall"
+    },
+    {
+      "id": 78038,
+      "name": "Mount Melville"
+    },
+    {
+      "id": 78039,
+      "name": "Mount Nasura"
+    },
+    {
+      "id": 78040,
+      "name": "Mount Pleasant"
+    },
+    {
+      "id": 78041,
+      "name": "Mount Richon"
+    },
+    {
+      "id": 78042,
+      "name": "Mount Tarcoola"
+    },
+    {
+      "id": 78043,
+      "name": "Muchea"
+    },
+    {
+      "id": 78044,
+      "name": "Mukinbudin"
+    },
+    {
+      "id": 78045,
+      "name": "Mullaloo"
+    },
+    {
+      "id": 78046,
+      "name": "Mundaring"
+    },
+    {
+      "id": 78047,
+      "name": "Mundijong"
+    },
+    {
+      "id": 78048,
+      "name": "Munster"
+    },
+    {
+      "id": 78049,
+      "name": "Murchison"
+    },
+    {
+      "id": 78050,
+      "name": "Murdoch"
+    },
+    {
+      "id": 78051,
+      "name": "Murray"
+    },
+    {
+      "id": 78052,
+      "name": "Myaree"
+    },
+    {
+      "id": 78053,
+      "name": "Nannup"
+    },
+    {
+      "id": 78054,
+      "name": "Narembeen"
+    },
+    {
+      "id": 78055,
+      "name": "Narrogin"
+    },
+    {
+      "id": 78056,
+      "name": "Nedlands"
+    },
+    {
+      "id": 78057,
+      "name": "Newman"
+    },
+    {
+      "id": 78058,
+      "name": "Ngaanyatjarraku"
+    },
+    {
+      "id": 78059,
+      "name": "Nickol"
+    },
+    {
+      "id": 78060,
+      "name": "Nollamara"
+    },
+    {
+      "id": 78061,
+      "name": "Noranda"
+    },
+    {
+      "id": 78062,
+      "name": "North Beach"
+    },
+    {
+      "id": 78063,
+      "name": "North Coogee"
+    },
+    {
+      "id": 78064,
+      "name": "North Fremantle"
+    },
+    {
+      "id": 78065,
+      "name": "North Lake"
+    },
+    {
+      "id": 78066,
+      "name": "North Perth"
+    },
+    {
+      "id": 78067,
+      "name": "Northam"
+    },
+    {
+      "id": 78068,
+      "name": "Northampton Shire"
+    },
+    {
+      "id": 78069,
+      "name": "Northbridge"
+    },
+    {
+      "id": 78070,
+      "name": "Nullagine"
+    },
+    {
+      "id": 78071,
+      "name": "Nulsen"
+    },
+    {
+      "id": 78072,
+      "name": "Nungarin"
+    },
+    {
+      "id": 78073,
+      "name": "Oakford"
+    },
+    {
+      "id": 78074,
+      "name": "Ocean Reef"
+    },
+    {
+      "id": 78075,
+      "name": "Onslow"
+    },
+    {
+      "id": 78076,
+      "name": "Orana"
+    },
+    {
+      "id": 78077,
+      "name": "Orelia"
+    },
+    {
+      "id": 78078,
+      "name": "Osborne Park"
+    },
+    {
+      "id": 78079,
+      "name": "Padbury"
+    },
+    {
+      "id": 78080,
+      "name": "Palmyra"
+    },
+    {
+      "id": 78081,
+      "name": "Paraburdoo"
+    },
+    {
+      "id": 78082,
+      "name": "Parkerville"
+    },
+    {
+      "id": 78083,
+      "name": "Parkwood"
+    },
+    {
+      "id": 78084,
+      "name": "Parmelia"
+    },
+    {
+      "id": 78085,
+      "name": "Pearce"
+    },
+    {
+      "id": 78086,
+      "name": "Pearsall"
+    },
+    {
+      "id": 78087,
+      "name": "Pegs Creek"
+    },
+    {
+      "id": 78088,
+      "name": "Pemberton"
+    },
+    {
+      "id": 78089,
+      "name": "Peppermint Grove"
+    },
+    {
+      "id": 78090,
+      "name": "Perenjori"
+    },
+    {
+      "id": 78091,
+      "name": "Perth"
+    },
+    {
+      "id": 78092,
+      "name": "Perth city centre"
+    },
+    {
+      "id": 78093,
+      "name": "Piara Waters"
+    },
+    {
+      "id": 78094,
+      "name": "Piccadilly"
+    },
+    {
+      "id": 78095,
+      "name": "Pingelly"
+    },
+    {
+      "id": 78096,
+      "name": "Pinjarra"
+    },
+    {
+      "id": 78097,
+      "name": "Plantagenet Shire"
+    },
+    {
+      "id": 78098,
+      "name": "Port Denison"
+    },
+    {
+      "id": 78099,
+      "name": "Port Hedland"
+    },
+    {
+      "id": 78100,
+      "name": "Port Kennedy"
+    },
+    {
+      "id": 78101,
+      "name": "Quairading"
+    },
+    {
+      "id": 78102,
+      "name": "Queens Park"
+    },
+    {
+      "id": 78103,
+      "name": "Quindalup"
+    },
+    {
+      "id": 78104,
+      "name": "Quinns Rocks"
+    },
+    {
+      "id": 78105,
+      "name": "Rangeway"
+    },
+    {
+      "id": 78106,
+      "name": "Ravensthorpe"
+    },
+    {
+      "id": 78107,
+      "name": "Ravenswood"
+    },
+    {
+      "id": 78108,
+      "name": "Redcliffe"
+    },
+    {
+      "id": 78109,
+      "name": "Regans Ford"
+    },
+    {
+      "id": 78110,
+      "name": "Ridgewood"
+    },
+    {
+      "id": 78111,
+      "name": "Riverton"
+    },
+    {
+      "id": 78112,
+      "name": "Rivervale"
+    },
+    {
+      "id": 78113,
+      "name": "Rockingham"
+    },
+    {
+      "id": 78114,
+      "name": "Rockingham city centre"
+    },
+    {
+      "id": 78115,
+      "name": "Roebuck"
+    },
+    {
+      "id": 78116,
+      "name": "Roleystone"
+    },
+    {
+      "id": 78117,
+      "name": "Rossmoyne"
+    },
+    {
+      "id": 78118,
+      "name": "Safety Bay"
+    },
+    {
+      "id": 78119,
+      "name": "Salter Point"
+    },
+    {
+      "id": 78120,
+      "name": "Samson"
+    },
+    {
+      "id": 78121,
+      "name": "Sandstone"
+    },
+    {
+      "id": 78122,
+      "name": "Scarborough"
+    },
+    {
+      "id": 78123,
+      "name": "Secret Harbour"
+    },
+    {
+      "id": 78124,
+      "name": "Serpentine"
+    },
+    {
+      "id": 78125,
+      "name": "Serpentine-Jarrahdale"
+    },
+    {
+      "id": 78126,
+      "name": "Seville Grove"
+    },
+    {
+      "id": 78127,
+      "name": "Shark Bay"
+    },
+    {
+      "id": 78128,
+      "name": "Shelley"
+    },
+    {
+      "id": 78129,
+      "name": "Shenton Park"
+    },
+    {
+      "id": 78130,
+      "name": "Shoalwater"
+    },
+    {
+      "id": 78131,
+      "name": "Silver Sands"
+    },
+    {
+      "id": 78132,
+      "name": "Sinagra"
+    },
+    {
+      "id": 78133,
+      "name": "Singleton"
+    },
+    {
+      "id": 78134,
+      "name": "Somerville"
+    },
+    {
+      "id": 78135,
+      "name": "Sorrento"
+    },
+    {
+      "id": 78136,
+      "name": "South Bunbury"
+    },
+    {
+      "id": 78137,
+      "name": "South Carnarvon"
+    },
+    {
+      "id": 78138,
+      "name": "South Fremantle"
+    },
+    {
+      "id": 78139,
+      "name": "South Guildford"
+    },
+    {
+      "id": 78140,
+      "name": "South Hedland"
+    },
+    {
+      "id": 78141,
+      "name": "South Kalgoorlie"
+    },
+    {
+      "id": 78142,
+      "name": "South Lake"
+    },
+    {
+      "id": 78143,
+      "name": "South Perth"
+    },
+    {
+      "id": 78144,
+      "name": "South Yunderup"
+    },
+    {
+      "id": 78145,
+      "name": "Southern River"
+    },
+    {
+      "id": 78146,
+      "name": "Spalding"
+    },
+    {
+      "id": 78147,
+      "name": "Spearwood"
+    },
+    {
+      "id": 78148,
+      "name": "Spencer Park"
+    },
+    {
+      "id": 78149,
+      "name": "St George Ranges"
+    },
+    {
+      "id": 78150,
+      "name": "St James"
+    },
+    {
+      "id": 78151,
+      "name": "Stirling"
+    },
+    {
+      "id": 78152,
+      "name": "Stoneville"
+    },
+    {
+      "id": 78153,
+      "name": "Strathalbyn"
+    },
+    {
+      "id": 78154,
+      "name": "Stratton"
+    },
+    {
+      "id": 78155,
+      "name": "Subiaco"
+    },
+    {
+      "id": 78156,
+      "name": "Success"
+    },
+    {
+      "id": 78157,
+      "name": "Sunset Beach"
+    },
+    {
+      "id": 78158,
+      "name": "Swan"
+    },
+    {
+      "id": 78159,
+      "name": "Swan View"
+    },
+    {
+      "id": 78160,
+      "name": "Swanbourne"
+    },
+    {
+      "id": 78161,
+      "name": "Tammin"
+    },
+    {
+      "id": 78162,
+      "name": "Tapping"
+    },
+    {
+      "id": 78163,
+      "name": "Tarcoola Beach"
+    },
+    {
+      "id": 78164,
+      "name": "Telfer"
+    },
+    {
+      "id": 78165,
+      "name": "The Vines"
+    },
+    {
+      "id": 78166,
+      "name": "Thornlie"
+    },
+    {
+      "id": 78167,
+      "name": "Three Springs"
+    },
+    {
+      "id": 78168,
+      "name": "Tom Price"
+    },
+    {
+      "id": 78169,
+      "name": "Toodyay"
+    },
+    {
+      "id": 78170,
+      "name": "Trayning"
+    },
+    {
+      "id": 78171,
+      "name": "Trigg"
+    },
+    {
+      "id": 78172,
+      "name": "Tuart Hill"
+    },
+    {
+      "id": 78173,
+      "name": "Two Rocks"
+    },
+    {
+      "id": 78174,
+      "name": "Upper Gascoyne"
+    },
+    {
+      "id": 78175,
+      "name": "Usher"
+    },
+    {
+      "id": 78176,
+      "name": "Utakarra"
+    },
+    {
+      "id": 78177,
+      "name": "Vasse"
+    },
+    {
+      "id": 78178,
+      "name": "Victoria Park"
+    },
+    {
+      "id": 78179,
+      "name": "Victoria Plains"
+    },
+    {
+      "id": 78180,
+      "name": "Vincent"
+    },
+    {
+      "id": 78181,
+      "name": "Viveash"
+    },
+    {
+      "id": 78182,
+      "name": "Waggrakine"
+    },
+    {
+      "id": 78183,
+      "name": "Wagin"
+    },
+    {
+      "id": 78184,
+      "name": "Waikiki"
+    },
+    {
+      "id": 78185,
+      "name": "Wandering"
+    },
+    {
+      "id": 78186,
+      "name": "Wandi"
+    },
+    {
+      "id": 78187,
+      "name": "Wandina"
+    },
+    {
+      "id": 78188,
+      "name": "Wannanup"
+    },
+    {
+      "id": 78189,
+      "name": "Wanneroo"
+    },
+    {
+      "id": 78190,
+      "name": "Warnbro"
+    },
+    {
+      "id": 78191,
+      "name": "Waroona"
+    },
+    {
+      "id": 78192,
+      "name": "Warwick"
+    },
+    {
+      "id": 78193,
+      "name": "Waterford"
+    },
+    {
+      "id": 78194,
+      "name": "Watermans Bay"
+    },
+    {
+      "id": 78195,
+      "name": "Wattle Grove"
+    },
+    {
+      "id": 78196,
+      "name": "Wellard"
+    },
+    {
+      "id": 78197,
+      "name": "Wembley"
+    },
+    {
+      "id": 78198,
+      "name": "Wembley Downs"
+    },
+    {
+      "id": 78199,
+      "name": "West Arthur"
+    },
+    {
+      "id": 78200,
+      "name": "West Beach"
+    },
+    {
+      "id": 78201,
+      "name": "West Busselton"
+    },
+    {
+      "id": 78202,
+      "name": "West Lamington"
+    },
+    {
+      "id": 78203,
+      "name": "West Leederville"
+    },
+    {
+      "id": 78204,
+      "name": "West Perth"
+    },
+    {
+      "id": 78205,
+      "name": "Westminster"
+    },
+    {
+      "id": 78206,
+      "name": "Westonia"
+    },
+    {
+      "id": 78207,
+      "name": "White Gum Valley"
+    },
+    {
+      "id": 78208,
+      "name": "Wickepin"
+    },
+    {
+      "id": 78209,
+      "name": "Wickham"
+    },
+    {
+      "id": 78210,
+      "name": "Willagee"
+    },
+    {
+      "id": 78211,
+      "name": "Willetton"
+    },
+    {
+      "id": 78212,
+      "name": "Williams"
+    },
+    {
+      "id": 78213,
+      "name": "Wilson"
+    },
+    {
+      "id": 78214,
+      "name": "Wiluna"
+    },
+    {
+      "id": 78215,
+      "name": "Winthrop"
+    },
+    {
+      "id": 78216,
+      "name": "Withers"
+    },
+    {
+      "id": 78217,
+      "name": "Wongan-Ballidu"
+    },
+    {
+      "id": 78218,
+      "name": "Wonthella"
+    },
+    {
+      "id": 78219,
+      "name": "Woodanilling"
+    },
+    {
+      "id": 78220,
+      "name": "Woodbridge"
+    },
+    {
+      "id": 78221,
+      "name": "Woodridge"
+    },
+    {
+      "id": 78222,
+      "name": "Woodvale"
+    },
+    {
+      "id": 78223,
+      "name": "Wooroloo"
+    },
+    {
+      "id": 78224,
+      "name": "Woorree"
+    },
+    {
+      "id": 78225,
+      "name": "Wundowie"
+    },
+    {
+      "id": 78226,
+      "name": "Wyalkatchem"
+    },
+    {
+      "id": 78227,
+      "name": "Wyndham-East Kimberley"
+    },
+    {
+      "id": 78228,
+      "name": "Yakamia"
+    },
+    {
+      "id": 78229,
+      "name": "Yalgoo"
+    },
+    {
+      "id": 78230,
+      "name": "Yallingup"
+    },
+    {
+      "id": 78231,
+      "name": "Yalyalup"
+    },
+    {
+      "id": 78232,
+      "name": "Yanchep"
+    },
+    {
+      "id": 78233,
+      "name": "Yangebup"
+    },
+    {
+      "id": 78234,
+      "name": "Yilgarn"
+    },
+    {
+      "id": 78235,
+      "name": "Yokine"
+    },
+    {
+      "id": 78236,
+      "name": "York"
+    }
+  ]
+}

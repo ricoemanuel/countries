@@ -1,0 +1,679 @@
+{
+  "id": 6528,
+  "name": "Granada",
+  "state_code": "GR",
+  "cities": [
+    {
+      "id": 184549,
+      "name": "Agrón"
+    },
+    {
+      "id": 184550,
+      "name": "Alamedilla"
+    },
+    {
+      "id": 184551,
+      "name": "Albolote"
+    },
+    {
+      "id": 184552,
+      "name": "Albondón"
+    },
+    {
+      "id": 184553,
+      "name": "Albuñán"
+    },
+    {
+      "id": 184554,
+      "name": "Albuñol"
+    },
+    {
+      "id": 184555,
+      "name": "Albuñuelas"
+    },
+    {
+      "id": 184556,
+      "name": "Aldeire"
+    },
+    {
+      "id": 184557,
+      "name": "Alfacar"
+    },
+    {
+      "id": 184558,
+      "name": "Algarinejo"
+    },
+    {
+      "id": 184559,
+      "name": "Alhama de Granada"
+    },
+    {
+      "id": 184560,
+      "name": "Alhendín"
+    },
+    {
+      "id": 184561,
+      "name": "Alicún de Ortega"
+    },
+    {
+      "id": 184562,
+      "name": "Almegíjar"
+    },
+    {
+      "id": 184563,
+      "name": "Almuñécar"
+    },
+    {
+      "id": 184564,
+      "name": "Alpujarra de la Sierra"
+    },
+    {
+      "id": 184565,
+      "name": "Alquife"
+    },
+    {
+      "id": 184566,
+      "name": "Arenas del Rey"
+    },
+    {
+      "id": 184567,
+      "name": "Armilla"
+    },
+    {
+      "id": 184568,
+      "name": "Atarfe"
+    },
+    {
+      "id": 184569,
+      "name": "Baza"
+    },
+    {
+      "id": 184570,
+      "name": "Beas de Granada"
+    },
+    {
+      "id": 184571,
+      "name": "Beas de Guadix"
+    },
+    {
+      "id": 184572,
+      "name": "Benalúa"
+    },
+    {
+      "id": 184573,
+      "name": "Benalúa de las Villas"
+    },
+    {
+      "id": 184574,
+      "name": "Benamaurel"
+    },
+    {
+      "id": 184575,
+      "name": "Bérchules"
+    },
+    {
+      "id": 184576,
+      "name": "Bubión"
+    },
+    {
+      "id": 184577,
+      "name": "Busquístar"
+    },
+    {
+      "id": 184578,
+      "name": "Cacín"
+    },
+    {
+      "id": 184579,
+      "name": "Cádiar"
+    },
+    {
+      "id": 184580,
+      "name": "Cájar"
+    },
+    {
+      "id": 184581,
+      "name": "Calahorra La"
+    },
+    {
+      "id": 184582,
+      "name": "Calicasas"
+    },
+    {
+      "id": 184583,
+      "name": "Campotéjar"
+    },
+    {
+      "id": 184584,
+      "name": "Cáñar"
+    },
+    {
+      "id": 184585,
+      "name": "Caniles"
+    },
+    {
+      "id": 184586,
+      "name": "Capileira"
+    },
+    {
+      "id": 184587,
+      "name": "Carataunas"
+    },
+    {
+      "id": 184588,
+      "name": "Cástaras"
+    },
+    {
+      "id": 184589,
+      "name": "Castilléjar"
+    },
+    {
+      "id": 184590,
+      "name": "Castril"
+    },
+    {
+      "id": 184591,
+      "name": "Cenes de la Vega"
+    },
+    {
+      "id": 184592,
+      "name": "Chauchina"
+    },
+    {
+      "id": 184593,
+      "name": "Chimeneas"
+    },
+    {
+      "id": 184594,
+      "name": "Churriana de la Vega"
+    },
+    {
+      "id": 184595,
+      "name": "Cijuela"
+    },
+    {
+      "id": 184596,
+      "name": "Cogollos de Guadix"
+    },
+    {
+      "id": 184597,
+      "name": "Cogollos de la Vega"
+    },
+    {
+      "id": 184598,
+      "name": "Colomera"
+    },
+    {
+      "id": 184599,
+      "name": "Cortes de Baza"
+    },
+    {
+      "id": 184600,
+      "name": "Cortes y Graena"
+    },
+    {
+      "id": 184601,
+      "name": "Cuevas del Campo"
+    },
+    {
+      "id": 184602,
+      "name": "Cúllar"
+    },
+    {
+      "id": 184603,
+      "name": "Cúllar Vega"
+    },
+    {
+      "id": 184604,
+      "name": "Darro"
+    },
+    {
+      "id": 184605,
+      "name": "Dehesas de Guadix"
+    },
+    {
+      "id": 184606,
+      "name": "Deifontes"
+    },
+    {
+      "id": 184607,
+      "name": "Diezma"
+    },
+    {
+      "id": 184608,
+      "name": "Dílar"
+    },
+    {
+      "id": 184609,
+      "name": "Dólar"
+    },
+    {
+      "id": 184610,
+      "name": "Dúdar"
+    },
+    {
+      "id": 184611,
+      "name": "Dúrcal"
+    },
+    {
+      "id": 184612,
+      "name": "Escúzar"
+    },
+    {
+      "id": 184613,
+      "name": "Ferreira"
+    },
+    {
+      "id": 184614,
+      "name": "Fonelas"
+    },
+    {
+      "id": 184615,
+      "name": "Freila"
+    },
+    {
+      "id": 184616,
+      "name": "Fuente Vaqueros"
+    },
+    {
+      "id": 184617,
+      "name": "Gabias Las"
+    },
+    {
+      "id": 184618,
+      "name": "Galera"
+    },
+    {
+      "id": 184619,
+      "name": "Gobernador"
+    },
+    {
+      "id": 184620,
+      "name": "Gójar"
+    },
+    {
+      "id": 184621,
+      "name": "Gor"
+    },
+    {
+      "id": 184622,
+      "name": "Gorafe"
+    },
+    {
+      "id": 184623,
+      "name": "Granada"
+    },
+    {
+      "id": 184624,
+      "name": "Guadahortuna"
+    },
+    {
+      "id": 184625,
+      "name": "Guadix"
+    },
+    {
+      "id": 184626,
+      "name": "Guajares Los"
+    },
+    {
+      "id": 184627,
+      "name": "Gualchos"
+    },
+    {
+      "id": 184628,
+      "name": "Güejar Sierra"
+    },
+    {
+      "id": 184629,
+      "name": "Güevéjar"
+    },
+    {
+      "id": 184630,
+      "name": "Huélago"
+    },
+    {
+      "id": 184631,
+      "name": "Huéneja"
+    },
+    {
+      "id": 184632,
+      "name": "Huéscar"
+    },
+    {
+      "id": 184633,
+      "name": "Huétor de Santillán"
+    },
+    {
+      "id": 184634,
+      "name": "Huétor Tájar"
+    },
+    {
+      "id": 184635,
+      "name": "Huétor Vega"
+    },
+    {
+      "id": 184636,
+      "name": "Illora"
+    },
+    {
+      "id": 184637,
+      "name": "Ítrabo"
+    },
+    {
+      "id": 184638,
+      "name": "Iznalloz"
+    },
+    {
+      "id": 184639,
+      "name": "Jayena"
+    },
+    {
+      "id": 184640,
+      "name": "Jérez del Marquesado"
+    },
+    {
+      "id": 184641,
+      "name": "Jete"
+    },
+    {
+      "id": 184642,
+      "name": "Jun"
+    },
+    {
+      "id": 184643,
+      "name": "Juviles"
+    },
+    {
+      "id": 184644,
+      "name": "Láchar"
+    },
+    {
+      "id": 184645,
+      "name": "Lanjarón"
+    },
+    {
+      "id": 184646,
+      "name": "Lanteira"
+    },
+    {
+      "id": 184647,
+      "name": "Lecrín"
+    },
+    {
+      "id": 184648,
+      "name": "Lentegí"
+    },
+    {
+      "id": 184649,
+      "name": "Lobras"
+    },
+    {
+      "id": 184650,
+      "name": "Loja"
+    },
+    {
+      "id": 184651,
+      "name": "Lugros"
+    },
+    {
+      "id": 184652,
+      "name": "Lújar"
+    },
+    {
+      "id": 184653,
+      "name": "Malahá La"
+    },
+    {
+      "id": 184654,
+      "name": "Maracena"
+    },
+    {
+      "id": 184655,
+      "name": "Marchal"
+    },
+    {
+      "id": 184656,
+      "name": "Moclín"
+    },
+    {
+      "id": 184657,
+      "name": "Molvízar"
+    },
+    {
+      "id": 184658,
+      "name": "Monachil"
+    },
+    {
+      "id": 184659,
+      "name": "Montefrío"
+    },
+    {
+      "id": 184660,
+      "name": "Montejicar"
+    },
+    {
+      "id": 184661,
+      "name": "Montillana"
+    },
+    {
+      "id": 184662,
+      "name": "Moraleda de Zafayona"
+    },
+    {
+      "id": 184663,
+      "name": "Morelábor"
+    },
+    {
+      "id": 184664,
+      "name": "Motril"
+    },
+    {
+      "id": 184665,
+      "name": "Murtas"
+    },
+    {
+      "id": 184666,
+      "name": "Nevada"
+    },
+    {
+      "id": 184667,
+      "name": "Nigüelas"
+    },
+    {
+      "id": 184668,
+      "name": "Nívar"
+    },
+    {
+      "id": 184669,
+      "name": "Ogíjares"
+    },
+    {
+      "id": 184670,
+      "name": "Orce"
+    },
+    {
+      "id": 184671,
+      "name": "Órgiva"
+    },
+    {
+      "id": 184672,
+      "name": "Otívar"
+    },
+    {
+      "id": 184673,
+      "name": "Otura"
+    },
+    {
+      "id": 184674,
+      "name": "Padul"
+    },
+    {
+      "id": 184675,
+      "name": "Pampaneira"
+    },
+    {
+      "id": 184676,
+      "name": "Pedro Martínez"
+    },
+    {
+      "id": 184677,
+      "name": "Peligros"
+    },
+    {
+      "id": 184678,
+      "name": "Peza La"
+    },
+    {
+      "id": 184679,
+      "name": "Piñar"
+    },
+    {
+      "id": 184680,
+      "name": "Pinar El"
+    },
+    {
+      "id": 184681,
+      "name": "Pinos Genil"
+    },
+    {
+      "id": 184682,
+      "name": "Pinos Puente"
+    },
+    {
+      "id": 184683,
+      "name": "Polícar"
+    },
+    {
+      "id": 184684,
+      "name": "Polopos"
+    },
+    {
+      "id": 184685,
+      "name": "Pórtugos"
+    },
+    {
+      "id": 184686,
+      "name": "Puebla de Don Fadrique"
+    },
+    {
+      "id": 184687,
+      "name": "Pulianas"
+    },
+    {
+      "id": 184688,
+      "name": "Purullena"
+    },
+    {
+      "id": 184689,
+      "name": "Quéntar"
+    },
+    {
+      "id": 184690,
+      "name": "Rubite"
+    },
+    {
+      "id": 184691,
+      "name": "Salar"
+    },
+    {
+      "id": 184692,
+      "name": "Salobreña"
+    },
+    {
+      "id": 184693,
+      "name": "Santa Cruz del Comercio"
+    },
+    {
+      "id": 184694,
+      "name": "Santa Fe"
+    },
+    {
+      "id": 184695,
+      "name": "Soportújar"
+    },
+    {
+      "id": 184696,
+      "name": "Sorvilán"
+    },
+    {
+      "id": 184697,
+      "name": "Taha La"
+    },
+    {
+      "id": 184698,
+      "name": "Torre-Cardela"
+    },
+    {
+      "id": 184699,
+      "name": "Torvizcón"
+    },
+    {
+      "id": 184700,
+      "name": "Trevélez"
+    },
+    {
+      "id": 184701,
+      "name": "Turón"
+    },
+    {
+      "id": 184702,
+      "name": "Ugíjar"
+    },
+    {
+      "id": 184703,
+      "name": "Valle del Zalabí"
+    },
+    {
+      "id": 184704,
+      "name": "Valle El"
+    },
+    {
+      "id": 184705,
+      "name": "Válor"
+    },
+    {
+      "id": 184706,
+      "name": "Vegas del Genil"
+    },
+    {
+      "id": 184707,
+      "name": "Vélez de Benaudalla"
+    },
+    {
+      "id": 184708,
+      "name": "Ventas de Huelma"
+    },
+    {
+      "id": 184709,
+      "name": "Villamena"
+    },
+    {
+      "id": 184710,
+      "name": "Villanueva de las Torres"
+    },
+    {
+      "id": 184711,
+      "name": "Villanueva Mesía"
+    },
+    {
+      "id": 184712,
+      "name": "Víznar"
+    },
+    {
+      "id": 184713,
+      "name": "Zafarraya"
+    },
+    {
+      "id": 184714,
+      "name": "Zagra"
+    },
+    {
+      "id": 184715,
+      "name": "Zubia La"
+    },
+    {
+      "id": 184716,
+      "name": "Zújar"
+    }
+  ]
+}

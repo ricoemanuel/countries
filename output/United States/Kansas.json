@@ -1,0 +1,1283 @@
+{
+  "id": 7449,
+  "name": "Kansas",
+  "state_code": "KS",
+  "cities": [
+    {
+      "id": 207665,
+      "name": "Abilene"
+    },
+    {
+      "id": 207666,
+      "name": "Allen County"
+    },
+    {
+      "id": 207667,
+      "name": "Alma"
+    },
+    {
+      "id": 207668,
+      "name": "Altamont"
+    },
+    {
+      "id": 207669,
+      "name": "Anderson County"
+    },
+    {
+      "id": 207670,
+      "name": "Andover"
+    },
+    {
+      "id": 207671,
+      "name": "Anthony"
+    },
+    {
+      "id": 207672,
+      "name": "Arkansas City"
+    },
+    {
+      "id": 207673,
+      "name": "Arma"
+    },
+    {
+      "id": 207674,
+      "name": "Ashland"
+    },
+    {
+      "id": 207675,
+      "name": "Atchison"
+    },
+    {
+      "id": 207676,
+      "name": "Atchison County"
+    },
+    {
+      "id": 207677,
+      "name": "Atwood"
+    },
+    {
+      "id": 207678,
+      "name": "Auburn"
+    },
+    {
+      "id": 207679,
+      "name": "Augusta"
+    },
+    {
+      "id": 207680,
+      "name": "Baldwin City"
+    },
+    {
+      "id": 207681,
+      "name": "Barber County"
+    },
+    {
+      "id": 207682,
+      "name": "Barton County"
+    },
+    {
+      "id": 207683,
+      "name": "Basehor"
+    },
+    {
+      "id": 207684,
+      "name": "Baxter Springs"
+    },
+    {
+      "id": 207685,
+      "name": "Bellaire"
+    },
+    {
+      "id": 207686,
+      "name": "Belle Plaine"
+    },
+    {
+      "id": 207687,
+      "name": "Belleville"
+    },
+    {
+      "id": 207688,
+      "name": "Beloit"
+    },
+    {
+      "id": 207689,
+      "name": "Bonner Springs"
+    },
+    {
+      "id": 207690,
+      "name": "Bourbon County"
+    },
+    {
+      "id": 207691,
+      "name": "Brown County"
+    },
+    {
+      "id": 207692,
+      "name": "Buhler"
+    },
+    {
+      "id": 207693,
+      "name": "Burlington"
+    },
+    {
+      "id": 207694,
+      "name": "Butler County"
+    },
+    {
+      "id": 207695,
+      "name": "Caldwell"
+    },
+    {
+      "id": 207696,
+      "name": "Caney"
+    },
+    {
+      "id": 207697,
+      "name": "Carbondale"
+    },
+    {
+      "id": 207698,
+      "name": "Chanute"
+    },
+    {
+      "id": 207699,
+      "name": "Chapman"
+    },
+    {
+      "id": 207700,
+      "name": "Chase County"
+    },
+    {
+      "id": 207701,
+      "name": "Chautauqua County"
+    },
+    {
+      "id": 207702,
+      "name": "Cheney"
+    },
+    {
+      "id": 207703,
+      "name": "Cherokee County"
+    },
+    {
+      "id": 207704,
+      "name": "Cherryvale"
+    },
+    {
+      "id": 207705,
+      "name": "Chetopa"
+    },
+    {
+      "id": 207706,
+      "name": "Cheyenne County"
+    },
+    {
+      "id": 207707,
+      "name": "Cimarron"
+    },
+    {
+      "id": 207708,
+      "name": "Clark County"
+    },
+    {
+      "id": 207709,
+      "name": "Clay Center"
+    },
+    {
+      "id": 207710,
+      "name": "Clay County"
+    },
+    {
+      "id": 207711,
+      "name": "Clearwater"
+    },
+    {
+      "id": 207712,
+      "name": "Cloud County"
+    },
+    {
+      "id": 207713,
+      "name": "Coffey County"
+    },
+    {
+      "id": 207714,
+      "name": "Coffeyville"
+    },
+    {
+      "id": 207715,
+      "name": "Colby"
+    },
+    {
+      "id": 207716,
+      "name": "Coldwater"
+    },
+    {
+      "id": 207717,
+      "name": "Columbus"
+    },
+    {
+      "id": 207718,
+      "name": "Colwich"
+    },
+    {
+      "id": 207719,
+      "name": "Comanche County"
+    },
+    {
+      "id": 207720,
+      "name": "Concordia"
+    },
+    {
+      "id": 207721,
+      "name": "Conway Springs"
+    },
+    {
+      "id": 207722,
+      "name": "Cottonwood Falls"
+    },
+    {
+      "id": 207723,
+      "name": "Council Grove"
+    },
+    {
+      "id": 207724,
+      "name": "Cowley County"
+    },
+    {
+      "id": 207725,
+      "name": "Crawford County"
+    },
+    {
+      "id": 207726,
+      "name": "De Soto"
+    },
+    {
+      "id": 207727,
+      "name": "Decatur County"
+    },
+    {
+      "id": 207728,
+      "name": "Derby"
+    },
+    {
+      "id": 207729,
+      "name": "Dickinson County"
+    },
+    {
+      "id": 207730,
+      "name": "Dighton"
+    },
+    {
+      "id": 207731,
+      "name": "Dodge City"
+    },
+    {
+      "id": 207732,
+      "name": "Doniphan County"
+    },
+    {
+      "id": 207733,
+      "name": "Douglas County"
+    },
+    {
+      "id": 207734,
+      "name": "Douglass"
+    },
+    {
+      "id": 207735,
+      "name": "Edgerton"
+    },
+    {
+      "id": 207736,
+      "name": "Edwards County"
+    },
+    {
+      "id": 207737,
+      "name": "Edwardsville"
+    },
+    {
+      "id": 207738,
+      "name": "El Dorado"
+    },
+    {
+      "id": 207739,
+      "name": "Elk County"
+    },
+    {
+      "id": 207740,
+      "name": "Elkhart"
+    },
+    {
+      "id": 207741,
+      "name": "Ellinwood"
+    },
+    {
+      "id": 207742,
+      "name": "Ellis"
+    },
+    {
+      "id": 207743,
+      "name": "Ellis County"
+    },
+    {
+      "id": 207744,
+      "name": "Ellsworth"
+    },
+    {
+      "id": 207745,
+      "name": "Ellsworth County"
+    },
+    {
+      "id": 207746,
+      "name": "Elwood"
+    },
+    {
+      "id": 207747,
+      "name": "Emporia"
+    },
+    {
+      "id": 207748,
+      "name": "Erie"
+    },
+    {
+      "id": 207749,
+      "name": "Eudora"
+    },
+    {
+      "id": 207750,
+      "name": "Eureka"
+    },
+    {
+      "id": 207751,
+      "name": "Fairway"
+    },
+    {
+      "id": 207752,
+      "name": "Finney County"
+    },
+    {
+      "id": 207753,
+      "name": "Ford County"
+    },
+    {
+      "id": 207754,
+      "name": "Fort Riley North"
+    },
+    {
+      "id": 207755,
+      "name": "Fort Scott"
+    },
+    {
+      "id": 207756,
+      "name": "Franklin County"
+    },
+    {
+      "id": 207757,
+      "name": "Fredonia"
+    },
+    {
+      "id": 207758,
+      "name": "Frontenac"
+    },
+    {
+      "id": 207759,
+      "name": "Galena"
+    },
+    {
+      "id": 207760,
+      "name": "Garden City"
+    },
+    {
+      "id": 207761,
+      "name": "Gardner"
+    },
+    {
+      "id": 207762,
+      "name": "Garnett"
+    },
+    {
+      "id": 207763,
+      "name": "Geary County"
+    },
+    {
+      "id": 207764,
+      "name": "Girard"
+    },
+    {
+      "id": 207765,
+      "name": "Goddard"
+    },
+    {
+      "id": 207766,
+      "name": "Goodland"
+    },
+    {
+      "id": 207767,
+      "name": "Gove"
+    },
+    {
+      "id": 207768,
+      "name": "Gove County"
+    },
+    {
+      "id": 207769,
+      "name": "Graham County"
+    },
+    {
+      "id": 207770,
+      "name": "Grandview Plaza"
+    },
+    {
+      "id": 207771,
+      "name": "Grant County"
+    },
+    {
+      "id": 207772,
+      "name": "Gray County"
+    },
+    {
+      "id": 207773,
+      "name": "Great Bend"
+    },
+    {
+      "id": 207774,
+      "name": "Greeley County"
+    },
+    {
+      "id": 207775,
+      "name": "Greensburg"
+    },
+    {
+      "id": 207776,
+      "name": "Greenwood County"
+    },
+    {
+      "id": 207777,
+      "name": "Halstead"
+    },
+    {
+      "id": 207778,
+      "name": "Hamilton County"
+    },
+    {
+      "id": 207779,
+      "name": "Harper"
+    },
+    {
+      "id": 207780,
+      "name": "Harper County"
+    },
+    {
+      "id": 207781,
+      "name": "Harvey County"
+    },
+    {
+      "id": 207782,
+      "name": "Haskell County"
+    },
+    {
+      "id": 207783,
+      "name": "Haven"
+    },
+    {
+      "id": 207784,
+      "name": "Hays"
+    },
+    {
+      "id": 207785,
+      "name": "Haysville"
+    },
+    {
+      "id": 207786,
+      "name": "Herington"
+    },
+    {
+      "id": 207787,
+      "name": "Hesston"
+    },
+    {
+      "id": 207788,
+      "name": "Hiawatha"
+    },
+    {
+      "id": 207789,
+      "name": "Highland"
+    },
+    {
+      "id": 207790,
+      "name": "Hill City"
+    },
+    {
+      "id": 207791,
+      "name": "Hillsboro"
+    },
+    {
+      "id": 207792,
+      "name": "Hodgeman County"
+    },
+    {
+      "id": 207793,
+      "name": "Hoisington"
+    },
+    {
+      "id": 207794,
+      "name": "Holcomb"
+    },
+    {
+      "id": 207795,
+      "name": "Holton"
+    },
+    {
+      "id": 207796,
+      "name": "Horton"
+    },
+    {
+      "id": 207797,
+      "name": "Howard"
+    },
+    {
+      "id": 207798,
+      "name": "Hoxie"
+    },
+    {
+      "id": 207799,
+      "name": "Hugoton"
+    },
+    {
+      "id": 207800,
+      "name": "Humboldt"
+    },
+    {
+      "id": 207801,
+      "name": "Hutchinson"
+    },
+    {
+      "id": 207802,
+      "name": "Independence"
+    },
+    {
+      "id": 207803,
+      "name": "Inman"
+    },
+    {
+      "id": 207804,
+      "name": "Iola"
+    },
+    {
+      "id": 207805,
+      "name": "Jackson County"
+    },
+    {
+      "id": 207806,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 207807,
+      "name": "Jetmore"
+    },
+    {
+      "id": 207808,
+      "name": "Jewell County"
+    },
+    {
+      "id": 207809,
+      "name": "Johnson"
+    },
+    {
+      "id": 207810,
+      "name": "Johnson County"
+    },
+    {
+      "id": 207811,
+      "name": "Junction City"
+    },
+    {
+      "id": 207812,
+      "name": "Kansas City"
+    },
+    {
+      "id": 207813,
+      "name": "Kearny County"
+    },
+    {
+      "id": 207814,
+      "name": "Kechi"
+    },
+    {
+      "id": 207815,
+      "name": "Kingman"
+    },
+    {
+      "id": 207816,
+      "name": "Kingman County"
+    },
+    {
+      "id": 207817,
+      "name": "Kinsley"
+    },
+    {
+      "id": 207818,
+      "name": "Kiowa"
+    },
+    {
+      "id": 207819,
+      "name": "Kiowa County"
+    },
+    {
+      "id": 207820,
+      "name": "La Crosse"
+    },
+    {
+      "id": 207821,
+      "name": "La Cygne"
+    },
+    {
+      "id": 207822,
+      "name": "Labette County"
+    },
+    {
+      "id": 207823,
+      "name": "Lakin"
+    },
+    {
+      "id": 207824,
+      "name": "Lane County"
+    },
+    {
+      "id": 207825,
+      "name": "Lansing"
+    },
+    {
+      "id": 207826,
+      "name": "Larned"
+    },
+    {
+      "id": 207827,
+      "name": "Lawrence"
+    },
+    {
+      "id": 207828,
+      "name": "Leavenworth"
+    },
+    {
+      "id": 207829,
+      "name": "Leavenworth County"
+    },
+    {
+      "id": 207830,
+      "name": "Leawood"
+    },
+    {
+      "id": 207831,
+      "name": "Lenexa"
+    },
+    {
+      "id": 207832,
+      "name": "Leoti"
+    },
+    {
+      "id": 207833,
+      "name": "Liberal"
+    },
+    {
+      "id": 207834,
+      "name": "Lincoln"
+    },
+    {
+      "id": 207835,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 207836,
+      "name": "Lindsborg"
+    },
+    {
+      "id": 207837,
+      "name": "Linn County"
+    },
+    {
+      "id": 207838,
+      "name": "Logan County"
+    },
+    {
+      "id": 207839,
+      "name": "Louisburg"
+    },
+    {
+      "id": 207840,
+      "name": "Lyndon"
+    },
+    {
+      "id": 207841,
+      "name": "Lyon County"
+    },
+    {
+      "id": 207842,
+      "name": "Lyons"
+    },
+    {
+      "id": 207843,
+      "name": "Maize"
+    },
+    {
+      "id": 207844,
+      "name": "Manhattan"
+    },
+    {
+      "id": 207845,
+      "name": "Mankato"
+    },
+    {
+      "id": 207846,
+      "name": "Marion"
+    },
+    {
+      "id": 207847,
+      "name": "Marion County"
+    },
+    {
+      "id": 207848,
+      "name": "Marshall County"
+    },
+    {
+      "id": 207849,
+      "name": "Marysville"
+    },
+    {
+      "id": 207850,
+      "name": "McConnell AFB"
+    },
+    {
+      "id": 207851,
+      "name": "McPherson"
+    },
+    {
+      "id": 207852,
+      "name": "McPherson County"
+    },
+    {
+      "id": 207853,
+      "name": "Meade"
+    },
+    {
+      "id": 207854,
+      "name": "Meade County"
+    },
+    {
+      "id": 207855,
+      "name": "Medicine Lodge"
+    },
+    {
+      "id": 207856,
+      "name": "Merriam"
+    },
+    {
+      "id": 207857,
+      "name": "Miami County"
+    },
+    {
+      "id": 207858,
+      "name": "Minneapolis"
+    },
+    {
+      "id": 207859,
+      "name": "Mission"
+    },
+    {
+      "id": 207860,
+      "name": "Mission Hills"
+    },
+    {
+      "id": 207861,
+      "name": "Mitchell County"
+    },
+    {
+      "id": 207862,
+      "name": "Montgomery County"
+    },
+    {
+      "id": 207863,
+      "name": "Morris County"
+    },
+    {
+      "id": 207864,
+      "name": "Morton County"
+    },
+    {
+      "id": 207865,
+      "name": "Mound City"
+    },
+    {
+      "id": 207866,
+      "name": "Moundridge"
+    },
+    {
+      "id": 207867,
+      "name": "Mulvane"
+    },
+    {
+      "id": 207868,
+      "name": "Nemaha County"
+    },
+    {
+      "id": 207869,
+      "name": "Neodesha"
+    },
+    {
+      "id": 207870,
+      "name": "Neosho County"
+    },
+    {
+      "id": 207871,
+      "name": "Ness City"
+    },
+    {
+      "id": 207872,
+      "name": "Ness County"
+    },
+    {
+      "id": 207873,
+      "name": "New Century KS"
+    },
+    {
+      "id": 207874,
+      "name": "Newton"
+    },
+    {
+      "id": 207875,
+      "name": "Nickerson"
+    },
+    {
+      "id": 207876,
+      "name": "North Newton"
+    },
+    {
+      "id": 207877,
+      "name": "Norton"
+    },
+    {
+      "id": 207878,
+      "name": "Norton County"
+    },
+    {
+      "id": 207879,
+      "name": "Oakley"
+    },
+    {
+      "id": 207880,
+      "name": "Oberlin"
+    },
+    {
+      "id": 207881,
+      "name": "Ogden"
+    },
+    {
+      "id": 207882,
+      "name": "Olathe"
+    },
+    {
+      "id": 207883,
+      "name": "Osage City"
+    },
+    {
+      "id": 207884,
+      "name": "Osage County"
+    },
+    {
+      "id": 207885,
+      "name": "Osawatomie"
+    },
+    {
+      "id": 207886,
+      "name": "Osborne"
+    },
+    {
+      "id": 207887,
+      "name": "Osborne County"
+    },
+    {
+      "id": 207888,
+      "name": "Oskaloosa"
+    },
+    {
+      "id": 207889,
+      "name": "Oswego"
+    },
+    {
+      "id": 207890,
+      "name": "Ottawa"
+    },
+    {
+      "id": 207891,
+      "name": "Ottawa County"
+    },
+    {
+      "id": 207892,
+      "name": "Overbrook"
+    },
+    {
+      "id": 207893,
+      "name": "Overland Park"
+    },
+    {
+      "id": 207894,
+      "name": "Oxford"
+    },
+    {
+      "id": 207895,
+      "name": "Paola"
+    },
+    {
+      "id": 207896,
+      "name": "Park City"
+    },
+    {
+      "id": 207897,
+      "name": "Parsons"
+    },
+    {
+      "id": 207898,
+      "name": "Pawnee County"
+    },
+    {
+      "id": 207899,
+      "name": "Peabody"
+    },
+    {
+      "id": 207900,
+      "name": "Phillips County"
+    },
+    {
+      "id": 207901,
+      "name": "Phillipsburg"
+    },
+    {
+      "id": 207902,
+      "name": "Pittsburg"
+    },
+    {
+      "id": 207903,
+      "name": "Plains"
+    },
+    {
+      "id": 207904,
+      "name": "Plainville"
+    },
+    {
+      "id": 207905,
+      "name": "Pleasanton"
+    },
+    {
+      "id": 207906,
+      "name": "Pottawatomie County"
+    },
+    {
+      "id": 207907,
+      "name": "Prairie Village"
+    },
+    {
+      "id": 207908,
+      "name": "Pratt"
+    },
+    {
+      "id": 207909,
+      "name": "Pratt County"
+    },
+    {
+      "id": 207910,
+      "name": "Rawlins County"
+    },
+    {
+      "id": 207911,
+      "name": "Reno County"
+    },
+    {
+      "id": 207912,
+      "name": "Republic County"
+    },
+    {
+      "id": 207913,
+      "name": "Rice County"
+    },
+    {
+      "id": 207914,
+      "name": "Riley County"
+    },
+    {
+      "id": 207915,
+      "name": "Roeland Park"
+    },
+    {
+      "id": 207916,
+      "name": "Rooks County"
+    },
+    {
+      "id": 207917,
+      "name": "Rose Hill"
+    },
+    {
+      "id": 207918,
+      "name": "Rossville"
+    },
+    {
+      "id": 207919,
+      "name": "Rush County"
+    },
+    {
+      "id": 207920,
+      "name": "Russell"
+    },
+    {
+      "id": 207921,
+      "name": "Russell County"
+    },
+    {
+      "id": 207922,
+      "name": "Sabetha"
+    },
+    {
+      "id": 207923,
+      "name": "Saint Francis"
+    },
+    {
+      "id": 207924,
+      "name": "Saint John"
+    },
+    {
+      "id": 207925,
+      "name": "Saint Marys"
+    },
+    {
+      "id": 207926,
+      "name": "Salina"
+    },
+    {
+      "id": 207927,
+      "name": "Saline County"
+    },
+    {
+      "id": 207928,
+      "name": "Satanta"
+    },
+    {
+      "id": 207929,
+      "name": "Scott City"
+    },
+    {
+      "id": 207930,
+      "name": "Scott County"
+    },
+    {
+      "id": 207931,
+      "name": "Sedan"
+    },
+    {
+      "id": 207932,
+      "name": "Sedgwick"
+    },
+    {
+      "id": 207933,
+      "name": "Sedgwick County"
+    },
+    {
+      "id": 207934,
+      "name": "Seneca"
+    },
+    {
+      "id": 207935,
+      "name": "Seward County"
+    },
+    {
+      "id": 207936,
+      "name": "Sharon Springs"
+    },
+    {
+      "id": 207937,
+      "name": "Shawnee"
+    },
+    {
+      "id": 207938,
+      "name": "Shawnee County"
+    },
+    {
+      "id": 207939,
+      "name": "Sheridan County"
+    },
+    {
+      "id": 207940,
+      "name": "Sherman County"
+    },
+    {
+      "id": 207941,
+      "name": "Silver Lake"
+    },
+    {
+      "id": 207942,
+      "name": "Smith Center"
+    },
+    {
+      "id": 207943,
+      "name": "Smith County"
+    },
+    {
+      "id": 207944,
+      "name": "Solomon"
+    },
+    {
+      "id": 207945,
+      "name": "South Hutchinson"
+    },
+    {
+      "id": 207946,
+      "name": "Spring Hill"
+    },
+    {
+      "id": 207947,
+      "name": "Stafford County"
+    },
+    {
+      "id": 207948,
+      "name": "Stanton County"
+    },
+    {
+      "id": 207949,
+      "name": "Sterling"
+    },
+    {
+      "id": 207950,
+      "name": "Stevens County"
+    },
+    {
+      "id": 207951,
+      "name": "Stockton"
+    },
+    {
+      "id": 207952,
+      "name": "Sublette"
+    },
+    {
+      "id": 207953,
+      "name": "Sumner County"
+    },
+    {
+      "id": 207954,
+      "name": "Syracuse"
+    },
+    {
+      "id": 207955,
+      "name": "Thomas County"
+    },
+    {
+      "id": 207956,
+      "name": "Tonganoxie"
+    },
+    {
+      "id": 207957,
+      "name": "Topeka"
+    },
+    {
+      "id": 207958,
+      "name": "Towanda"
+    },
+    {
+      "id": 207959,
+      "name": "Trego County"
+    },
+    {
+      "id": 207960,
+      "name": "Tribune"
+    },
+    {
+      "id": 207961,
+      "name": "Troy"
+    },
+    {
+      "id": 207962,
+      "name": "Ulysses"
+    },
+    {
+      "id": 207963,
+      "name": "Valley Center"
+    },
+    {
+      "id": 207964,
+      "name": "Valley Falls"
+    },
+    {
+      "id": 207965,
+      "name": "Victoria"
+    },
+    {
+      "id": 207966,
+      "name": "Wabaunsee County"
+    },
+    {
+      "id": 207967,
+      "name": "WaKeeney"
+    },
+    {
+      "id": 207968,
+      "name": "Wallace County"
+    },
+    {
+      "id": 207969,
+      "name": "Wamego"
+    },
+    {
+      "id": 207970,
+      "name": "Washington"
+    },
+    {
+      "id": 207971,
+      "name": "Washington County"
+    },
+    {
+      "id": 207972,
+      "name": "Wathena"
+    },
+    {
+      "id": 207973,
+      "name": "Wellington"
+    },
+    {
+      "id": 207974,
+      "name": "Wellsville"
+    },
+    {
+      "id": 207975,
+      "name": "Westmoreland"
+    },
+    {
+      "id": 207976,
+      "name": "Westwood"
+    },
+    {
+      "id": 207977,
+      "name": "Wichita"
+    },
+    {
+      "id": 207978,
+      "name": "Wichita County"
+    },
+    {
+      "id": 207979,
+      "name": "Wilson County"
+    },
+    {
+      "id": 207980,
+      "name": "Winfield"
+    },
+    {
+      "id": 207981,
+      "name": "Woodson County"
+    },
+    {
+      "id": 207982,
+      "name": "Wyandotte County"
+    },
+    {
+      "id": 207983,
+      "name": "Yates Center"
+    }
+  ]
+}

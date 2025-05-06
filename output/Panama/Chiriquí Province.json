@@ -1,0 +1,447 @@
+{
+  "id": 5647,
+  "name": "Chiriquí Province",
+  "state_code": "4",
+  "cities": [
+    {
+      "id": 153042,
+      "name": "Alanje"
+    },
+    {
+      "id": 153043,
+      "name": "Algarrobos Arriba"
+    },
+    {
+      "id": 153044,
+      "name": "Alto Boquete"
+    },
+    {
+      "id": 153045,
+      "name": "Aserrío de Gariché"
+    },
+    {
+      "id": 153046,
+      "name": "Bágala"
+    },
+    {
+      "id": 153047,
+      "name": "Bajo Boquete"
+    },
+    {
+      "id": 153048,
+      "name": "Barrio Guadalupe"
+    },
+    {
+      "id": 153049,
+      "name": "Bijagual"
+    },
+    {
+      "id": 153050,
+      "name": "Boca Chica"
+    },
+    {
+      "id": 153051,
+      "name": "Boca del Monte"
+    },
+    {
+      "id": 153052,
+      "name": "Boquerón"
+    },
+    {
+      "id": 153053,
+      "name": "Boquete"
+    },
+    {
+      "id": 153054,
+      "name": "Breñón"
+    },
+    {
+      "id": 153055,
+      "name": "Bugaba"
+    },
+    {
+      "id": 153056,
+      "name": "Bugabita Arriba"
+    },
+    {
+      "id": 153057,
+      "name": "Caimito"
+    },
+    {
+      "id": 153058,
+      "name": "Caldera"
+    },
+    {
+      "id": 153059,
+      "name": "Cañas Gordas"
+    },
+    {
+      "id": 153060,
+      "name": "Celmira"
+    },
+    {
+      "id": 153061,
+      "name": "Cerro Punta"
+    },
+    {
+      "id": 153062,
+      "name": "Cerro Viejo"
+    },
+    {
+      "id": 153063,
+      "name": "Chiriquí"
+    },
+    {
+      "id": 153064,
+      "name": "Cochea Abajo"
+    },
+    {
+      "id": 153065,
+      "name": "Cordillera"
+    },
+    {
+      "id": 153066,
+      "name": "David"
+    },
+    {
+      "id": 153067,
+      "name": "Distrito de Alanje"
+    },
+    {
+      "id": 153068,
+      "name": "Distrito de Barú"
+    },
+    {
+      "id": 153069,
+      "name": "Distrito de Boquerón"
+    },
+    {
+      "id": 153070,
+      "name": "Distrito de Boquete"
+    },
+    {
+      "id": 153071,
+      "name": "Distrito de Bugaba"
+    },
+    {
+      "id": 153072,
+      "name": "Distrito de David"
+    },
+    {
+      "id": 153073,
+      "name": "Distrito de Dolega"
+    },
+    {
+      "id": 153074,
+      "name": "Distrito de Gualaca"
+    },
+    {
+      "id": 153075,
+      "name": "Distrito de Remedios"
+    },
+    {
+      "id": 153076,
+      "name": "Distrito de Renacimiento"
+    },
+    {
+      "id": 153077,
+      "name": "Distrito de San Félix"
+    },
+    {
+      "id": 153078,
+      "name": "Distrito de San Lorenzo"
+    },
+    {
+      "id": 153079,
+      "name": "Distrito de Tolé"
+    },
+    {
+      "id": 153080,
+      "name": "Divalá"
+    },
+    {
+      "id": 153081,
+      "name": "Dolega District"
+    },
+    {
+      "id": 153082,
+      "name": "El Nancito"
+    },
+    {
+      "id": 153083,
+      "name": "El Palmar"
+    },
+    {
+      "id": 153084,
+      "name": "El Porvenir"
+    },
+    {
+      "id": 153085,
+      "name": "El Tejar"
+    },
+    {
+      "id": 153086,
+      "name": "Finca Blanco"
+    },
+    {
+      "id": 153087,
+      "name": "Gómez"
+    },
+    {
+      "id": 153088,
+      "name": "Guabal"
+    },
+    {
+      "id": 153089,
+      "name": "Guaca Arriba"
+    },
+    {
+      "id": 153090,
+      "name": "Gualaca"
+    },
+    {
+      "id": 153091,
+      "name": "Guarumal"
+    },
+    {
+      "id": 153092,
+      "name": "Guayabal"
+    },
+    {
+      "id": 153093,
+      "name": "Horconcitos"
+    },
+    {
+      "id": 153094,
+      "name": "La Concepción"
+    },
+    {
+      "id": 153095,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 153096,
+      "name": "La Estrella"
+    },
+    {
+      "id": 153097,
+      "name": "Lajas Adentro"
+    },
+    {
+      "id": 153098,
+      "name": "Lajas de Tolé"
+    },
+    {
+      "id": 153099,
+      "name": "Las Lajas"
+    },
+    {
+      "id": 153100,
+      "name": "Las Lomas"
+    },
+    {
+      "id": 153101,
+      "name": "Limones"
+    },
+    {
+      "id": 153102,
+      "name": "Los Algarrobos"
+    },
+    {
+      "id": 153103,
+      "name": "Los Anastacios"
+    },
+    {
+      "id": 153104,
+      "name": "Los Ángeles"
+    },
+    {
+      "id": 153105,
+      "name": "Los Naranjos"
+    },
+    {
+      "id": 153106,
+      "name": "Manaca Civil"
+    },
+    {
+      "id": 153107,
+      "name": "Manaca Norte"
+    },
+    {
+      "id": 153108,
+      "name": "Mata del Nance"
+    },
+    {
+      "id": 153109,
+      "name": "Monte Lirio"
+    },
+    {
+      "id": 153110,
+      "name": "Nuevo San Carlitos"
+    },
+    {
+      "id": 153111,
+      "name": "Paja de Sombrero"
+    },
+    {
+      "id": 153112,
+      "name": "Palmira"
+    },
+    {
+      "id": 153113,
+      "name": "Palmira Centro"
+    },
+    {
+      "id": 153114,
+      "name": "Paraíso"
+    },
+    {
+      "id": 153115,
+      "name": "Paso Canoas Arriba"
+    },
+    {
+      "id": 153116,
+      "name": "Pedregal"
+    },
+    {
+      "id": 153117,
+      "name": "Plaza de Caisán"
+    },
+    {
+      "id": 153118,
+      "name": "Potrerillos Abajo"
+    },
+    {
+      "id": 153119,
+      "name": "Potrerillos Arriba"
+    },
+    {
+      "id": 153120,
+      "name": "Progreso"
+    },
+    {
+      "id": 153121,
+      "name": "Pueblo Viejo"
+    },
+    {
+      "id": 153122,
+      "name": "Puerto Armuelles"
+    },
+    {
+      "id": 153123,
+      "name": "Punta de Burica"
+    },
+    {
+      "id": 153124,
+      "name": "Quebrada de Piedra"
+    },
+    {
+      "id": 153125,
+      "name": "Querévalo"
+    },
+    {
+      "id": 153126,
+      "name": "Quinteño"
+    },
+    {
+      "id": 153127,
+      "name": "Remedios"
+    },
+    {
+      "id": 153128,
+      "name": "Rincón"
+    },
+    {
+      "id": 153129,
+      "name": "Río Sereno"
+    },
+    {
+      "id": 153130,
+      "name": "Rovira Arriba"
+    },
+    {
+      "id": 153131,
+      "name": "San Andrés"
+    },
+    {
+      "id": 153132,
+      "name": "San Carlos"
+    },
+    {
+      "id": 153133,
+      "name": "San Félix"
+    },
+    {
+      "id": 153134,
+      "name": "San Isidro"
+    },
+    {
+      "id": 153135,
+      "name": "San Lorenzo"
+    },
+    {
+      "id": 153136,
+      "name": "San Pablo Nuevo Abajo"
+    },
+    {
+      "id": 153137,
+      "name": "San Pablo Viejo Abajo"
+    },
+    {
+      "id": 153138,
+      "name": "Santa Clara"
+    },
+    {
+      "id": 153139,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 153140,
+      "name": "Santa Marta"
+    },
+    {
+      "id": 153141,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 153142,
+      "name": "Santo Domingo"
+    },
+    {
+      "id": 153143,
+      "name": "Santo Tomás"
+    },
+    {
+      "id": 153144,
+      "name": "Sioguí Abajo"
+    },
+    {
+      "id": 153145,
+      "name": "Sioguí Arriba"
+    },
+    {
+      "id": 153146,
+      "name": "Sortova"
+    },
+    {
+      "id": 153147,
+      "name": "Tijeras"
+    },
+    {
+      "id": 153148,
+      "name": "Tinajas"
+    },
+    {
+      "id": 153149,
+      "name": "Tolé"
+    },
+    {
+      "id": 153150,
+      "name": "Veladero"
+    },
+    {
+      "id": 153151,
+      "name": "Volcán"
+    }
+  ]
+}

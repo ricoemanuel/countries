@@ -1,0 +1,263 @@
+{
+  "id": 5145,
+  "name": "Quintana Roo",
+  "state_code": "ROO",
+  "cities": [
+    {
+      "id": 146000,
+      "name": "Akumal"
+    },
+    {
+      "id": 146001,
+      "name": "Alfredo V. Bonfil"
+    },
+    {
+      "id": 146002,
+      "name": "Álvaro Obregón"
+    },
+    {
+      "id": 146003,
+      "name": "Bacalar"
+    },
+    {
+      "id": 146004,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 146005,
+      "name": "Cacao"
+    },
+    {
+      "id": 146006,
+      "name": "Calderitas"
+    },
+    {
+      "id": 146007,
+      "name": "Cancún"
+    },
+    {
+      "id": 146008,
+      "name": "Caobas"
+    },
+    {
+      "id": 146009,
+      "name": "Carlos A. Madrazo"
+    },
+    {
+      "id": 146010,
+      "name": "Chetumal"
+    },
+    {
+      "id": 146011,
+      "name": "Chiquilá"
+    },
+    {
+      "id": 146012,
+      "name": "Chunhuhub"
+    },
+    {
+      "id": 146013,
+      "name": "Ciudad Chemuyil"
+    },
+    {
+      "id": 146014,
+      "name": "Coba"
+    },
+    {
+      "id": 146015,
+      "name": "Cocoyol"
+    },
+    {
+      "id": 146016,
+      "name": "Cozumel"
+    },
+    {
+      "id": 146017,
+      "name": "Dziuche"
+    },
+    {
+      "id": 146018,
+      "name": "Dzula"
+    },
+    {
+      "id": 146019,
+      "name": "El Tintal"
+    },
+    {
+      "id": 146020,
+      "name": "Felipe Carrillo Puerto"
+    },
+    {
+      "id": 146021,
+      "name": "Huay Max"
+    },
+    {
+      "id": 146022,
+      "name": "Huay-Pix"
+    },
+    {
+      "id": 146023,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 146024,
+      "name": "Isla Holbox"
+    },
+    {
+      "id": 146025,
+      "name": "Isla Mujeres"
+    },
+    {
+      "id": 146026,
+      "name": "Javier Rojo Gómez"
+    },
+    {
+      "id": 146027,
+      "name": "José María Morelos"
+    },
+    {
+      "id": 146028,
+      "name": "Jose Narciso Rovirosa"
+    },
+    {
+      "id": 146029,
+      "name": "Juan Sarabia"
+    },
+    {
+      "id": 146030,
+      "name": "Kancabchén"
+    },
+    {
+      "id": 146031,
+      "name": "Kantunilkín"
+    },
+    {
+      "id": 146032,
+      "name": "La Presumida"
+    },
+    {
+      "id": 146033,
+      "name": "La Unión"
+    },
+    {
+      "id": 146034,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 146035,
+      "name": "Leona Vicario"
+    },
+    {
+      "id": 146036,
+      "name": "Los Divorciados"
+    },
+    {
+      "id": 146037,
+      "name": "Maya Balam"
+    },
+    {
+      "id": 146038,
+      "name": "Morocoy"
+    },
+    {
+      "id": 146039,
+      "name": "Nicolás Bravo"
+    },
+    {
+      "id": 146040,
+      "name": "Nuevo Xcán"
+    },
+    {
+      "id": 146041,
+      "name": "Othón P. Blanco"
+    },
+    {
+      "id": 146042,
+      "name": "Playa del Carmen"
+    },
+    {
+      "id": 146043,
+      "name": "Polyuc"
+    },
+    {
+      "id": 146044,
+      "name": "Presidente Juárez"
+    },
+    {
+      "id": 146045,
+      "name": "Pucté"
+    },
+    {
+      "id": 146046,
+      "name": "Puerto Aventuras"
+    },
+    {
+      "id": 146047,
+      "name": "Saban"
+    },
+    {
+      "id": 146048,
+      "name": "Sabidos"
+    },
+    {
+      "id": 146049,
+      "name": "San Angel"
+    },
+    {
+      "id": 146050,
+      "name": "Santa Rosa Segundo"
+    },
+    {
+      "id": 146051,
+      "name": "Señor"
+    },
+    {
+      "id": 146052,
+      "name": "Sergio Butrón Casas"
+    },
+    {
+      "id": 146053,
+      "name": "Subteniente López"
+    },
+    {
+      "id": 146054,
+      "name": "Tepich"
+    },
+    {
+      "id": 146055,
+      "name": "Tihosuco"
+    },
+    {
+      "id": 146056,
+      "name": "Tulum"
+    },
+    {
+      "id": 146057,
+      "name": "Ucum"
+    },
+    {
+      "id": 146058,
+      "name": "X Cabil"
+    },
+    {
+      "id": 146059,
+      "name": "X-Hazil Sur"
+    },
+    {
+      "id": 146060,
+      "name": "X-pichil"
+    },
+    {
+      "id": 146061,
+      "name": "Xul-Ha"
+    },
+    {
+      "id": 146062,
+      "name": "Zacalaca"
+    },
+    {
+      "id": 146063,
+      "name": "Zona Urbana Ejido Isla Mujeres"
+    }
+  ]
+}

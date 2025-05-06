@@ -1,0 +1,1263 @@
+{
+  "id": 5833,
+  "name": "Silesia",
+  "state_code": "24",
+  "cities": [
+    {
+      "id": 163082,
+      "name": "Bąków"
+    },
+    {
+      "id": 163083,
+      "name": "Bażanowice"
+    },
+    {
+      "id": 163084,
+      "name": "Będzin"
+    },
+    {
+      "id": 163085,
+      "name": "Bełk"
+    },
+    {
+      "id": 163086,
+      "name": "Bełsznica"
+    },
+    {
+      "id": 163087,
+      "name": "Bestwina"
+    },
+    {
+      "id": 163088,
+      "name": "Bestwinka"
+    },
+    {
+      "id": 163089,
+      "name": "Bielsko-Biala"
+    },
+    {
+      "id": 163090,
+      "name": "Bielsko-Biała"
+    },
+    {
+      "id": 163091,
+      "name": "Bieruń"
+    },
+    {
+      "id": 163092,
+      "name": "Blachownia"
+    },
+    {
+      "id": 163093,
+      "name": "Bobrowniki"
+    },
+    {
+      "id": 163094,
+      "name": "Bojszowy"
+    },
+    {
+      "id": 163095,
+      "name": "Bojszowy Nowe"
+    },
+    {
+      "id": 163096,
+      "name": "Boronów"
+    },
+    {
+      "id": 163097,
+      "name": "Borowno"
+    },
+    {
+      "id": 163098,
+      "name": "Borucin"
+    },
+    {
+      "id": 163099,
+      "name": "Brenna"
+    },
+    {
+      "id": 163100,
+      "name": "Bronów"
+    },
+    {
+      "id": 163101,
+      "name": "Brzeziny Śląskie"
+    },
+    {
+      "id": 163102,
+      "name": "Buczkowice"
+    },
+    {
+      "id": 163103,
+      "name": "Bujaków"
+    },
+    {
+      "id": 163104,
+      "name": "Bystra"
+    },
+    {
+      "id": 163105,
+      "name": "Bytom"
+    },
+    {
+      "id": 163106,
+      "name": "Chałupki"
+    },
+    {
+      "id": 163107,
+      "name": "Chełm Śląski"
+    },
+    {
+      "id": 163108,
+      "name": "Choroń"
+    },
+    {
+      "id": 163109,
+      "name": "Chorzów"
+    },
+    {
+      "id": 163110,
+      "name": "Chruszczobród"
+    },
+    {
+      "id": 163111,
+      "name": "Chybie"
+    },
+    {
+      "id": 163112,
+      "name": "Ciasna"
+    },
+    {
+      "id": 163113,
+      "name": "Cięcina"
+    },
+    {
+      "id": 163114,
+      "name": "Cielmice"
+    },
+    {
+      "id": 163115,
+      "name": "Cieszyn"
+    },
+    {
+      "id": 163116,
+      "name": "Cisiec"
+    },
+    {
+      "id": 163117,
+      "name": "Cisownica"
+    },
+    {
+      "id": 163118,
+      "name": "Cynków"
+    },
+    {
+      "id": 163119,
+      "name": "Czaniec"
+    },
+    {
+      "id": 163120,
+      "name": "Czarków"
+    },
+    {
+      "id": 163121,
+      "name": "Czechowice-Dziedzice"
+    },
+    {
+      "id": 163122,
+      "name": "Czeladź"
+    },
+    {
+      "id": 163123,
+      "name": "Czernica"
+    },
+    {
+      "id": 163124,
+      "name": "Czernichów"
+    },
+    {
+      "id": 163125,
+      "name": "Czerwionka-Leszczyny"
+    },
+    {
+      "id": 163126,
+      "name": "Częstochowa"
+    },
+    {
+      "id": 163127,
+      "name": "Czyżowice"
+    },
+    {
+      "id": 163128,
+      "name": "Dąbrowa Górnicza"
+    },
+    {
+      "id": 163129,
+      "name": "Dąbrowa Zielona"
+    },
+    {
+      "id": 163130,
+      "name": "Dębowiec"
+    },
+    {
+      "id": 163131,
+      "name": "Dobieszowice"
+    },
+    {
+      "id": 163132,
+      "name": "Drogomyśl"
+    },
+    {
+      "id": 163133,
+      "name": "Dzięgielów"
+    },
+    {
+      "id": 163134,
+      "name": "Frydek"
+    },
+    {
+      "id": 163135,
+      "name": "Gardawice"
+    },
+    {
+      "id": 163136,
+      "name": "Gaszowice"
+    },
+    {
+      "id": 163137,
+      "name": "Gierałtowice"
+    },
+    {
+      "id": 163138,
+      "name": "Gilowice"
+    },
+    {
+      "id": 163139,
+      "name": "Gliwice"
+    },
+    {
+      "id": 163140,
+      "name": "Gniazdów"
+    },
+    {
+      "id": 163141,
+      "name": "Goczałkowice Zdrój"
+    },
+    {
+      "id": 163142,
+      "name": "Godów"
+    },
+    {
+      "id": 163143,
+      "name": "Godziszka"
+    },
+    {
+      "id": 163144,
+      "name": "Goleszów"
+    },
+    {
+      "id": 163145,
+      "name": "Gołkowice"
+    },
+    {
+      "id": 163146,
+      "name": "Góra"
+    },
+    {
+      "id": 163147,
+      "name": "Górki Wielkie"
+    },
+    {
+      "id": 163148,
+      "name": "Gorzyce"
+    },
+    {
+      "id": 163149,
+      "name": "Gorzyczki"
+    },
+    {
+      "id": 163150,
+      "name": "Gostyń"
+    },
+    {
+      "id": 163151,
+      "name": "Hażlach"
+    },
+    {
+      "id": 163152,
+      "name": "Herby"
+    },
+    {
+      "id": 163153,
+      "name": "Huta Stara B"
+    },
+    {
+      "id": 163154,
+      "name": "Imielin"
+    },
+    {
+      "id": 163155,
+      "name": "Istebna"
+    },
+    {
+      "id": 163156,
+      "name": "Jankowice"
+    },
+    {
+      "id": 163157,
+      "name": "Jankowice Rybnickie"
+    },
+    {
+      "id": 163158,
+      "name": "Janowice"
+    },
+    {
+      "id": 163159,
+      "name": "Jasienica"
+    },
+    {
+      "id": 163160,
+      "name": "Jastrząb"
+    },
+    {
+      "id": 163161,
+      "name": "Jastrzębie Zdrój"
+    },
+    {
+      "id": 163162,
+      "name": "Jastrzębie-Zdrój"
+    },
+    {
+      "id": 163163,
+      "name": "Jaworze"
+    },
+    {
+      "id": 163164,
+      "name": "Jaworzno"
+    },
+    {
+      "id": 163165,
+      "name": "Jaworzynka"
+    },
+    {
+      "id": 163166,
+      "name": "Jejkowice"
+    },
+    {
+      "id": 163167,
+      "name": "Jeleśnia"
+    },
+    {
+      "id": 163168,
+      "name": "Juszczyna"
+    },
+    {
+      "id": 163169,
+      "name": "Kaczyce"
+    },
+    {
+      "id": 163170,
+      "name": "Kalej"
+    },
+    {
+      "id": 163171,
+      "name": "Kalety"
+    },
+    {
+      "id": 163172,
+      "name": "Kamesznica"
+    },
+    {
+      "id": 163173,
+      "name": "Kamienica Polska"
+    },
+    {
+      "id": 163174,
+      "name": "Kamyk"
+    },
+    {
+      "id": 163175,
+      "name": "Kaniów"
+    },
+    {
+      "id": 163176,
+      "name": "Katowice"
+    },
+    {
+      "id": 163177,
+      "name": "Kłobuck"
+    },
+    {
+      "id": 163178,
+      "name": "Kłomnice"
+    },
+    {
+      "id": 163179,
+      "name": "Knurów"
+    },
+    {
+      "id": 163180,
+      "name": "Kobiernice"
+    },
+    {
+      "id": 163181,
+      "name": "Kobiór"
+    },
+    {
+      "id": 163182,
+      "name": "Kochanowice"
+    },
+    {
+      "id": 163183,
+      "name": "Kończyce Małe"
+    },
+    {
+      "id": 163184,
+      "name": "Kończyce Wielkie"
+    },
+    {
+      "id": 163185,
+      "name": "Koniaków"
+    },
+    {
+      "id": 163186,
+      "name": "Koniecpol"
+    },
+    {
+      "id": 163187,
+      "name": "Konopiska"
+    },
+    {
+      "id": 163188,
+      "name": "Korbielów"
+    },
+    {
+      "id": 163189,
+      "name": "Kornowac"
+    },
+    {
+      "id": 163190,
+      "name": "Kościelec"
+    },
+    {
+      "id": 163191,
+      "name": "Koszarawa"
+    },
+    {
+      "id": 163192,
+      "name": "Koszęcin"
+    },
+    {
+      "id": 163193,
+      "name": "Koziegłowy"
+    },
+    {
+      "id": 163194,
+      "name": "Kozy"
+    },
+    {
+      "id": 163195,
+      "name": "Kroczyce"
+    },
+    {
+      "id": 163196,
+      "name": "Krupski Młyn"
+    },
+    {
+      "id": 163197,
+      "name": "Kryry"
+    },
+    {
+      "id": 163198,
+      "name": "Krzanowice"
+    },
+    {
+      "id": 163199,
+      "name": "Krzepice"
+    },
+    {
+      "id": 163200,
+      "name": "Krzyżanowice"
+    },
+    {
+      "id": 163201,
+      "name": "Krzyżowa"
+    },
+    {
+      "id": 163202,
+      "name": "Krzyżowice"
+    },
+    {
+      "id": 163203,
+      "name": "Książenice"
+    },
+    {
+      "id": 163204,
+      "name": "Kuźnia Raciborska"
+    },
+    {
+      "id": 163205,
+      "name": "Laliki"
+    },
+    {
+      "id": 163206,
+      "name": "Lędziny"
+    },
+    {
+      "id": 163207,
+      "name": "Lelów"
+    },
+    {
+      "id": 163208,
+      "name": "Leśna"
+    },
+    {
+      "id": 163209,
+      "name": "Ligota"
+    },
+    {
+      "id": 163210,
+      "name": "Lipie"
+    },
+    {
+      "id": 163211,
+      "name": "Lipowa"
+    },
+    {
+      "id": 163212,
+      "name": "Lubliniec"
+    },
+    {
+      "id": 163213,
+      "name": "Lubomia"
+    },
+    {
+      "id": 163214,
+      "name": "Lyski"
+    },
+    {
+      "id": 163215,
+      "name": "Łaziska"
+    },
+    {
+      "id": 163216,
+      "name": "Łaziska Górne"
+    },
+    {
+      "id": 163217,
+      "name": "Łazy"
+    },
+    {
+      "id": 163218,
+      "name": "Łękawica"
+    },
+    {
+      "id": 163219,
+      "name": "Łobodno"
+    },
+    {
+      "id": 163220,
+      "name": "Łodygowice"
+    },
+    {
+      "id": 163221,
+      "name": "Markłowice"
+    },
+    {
+      "id": 163222,
+      "name": "Mazańcowice"
+    },
+    {
+      "id": 163223,
+      "name": "Miasteczko Śląskie"
+    },
+    {
+      "id": 163224,
+      "name": "Miedźna"
+    },
+    {
+      "id": 163225,
+      "name": "Miedzno"
+    },
+    {
+      "id": 163226,
+      "name": "Międzybrodzie Bialskie"
+    },
+    {
+      "id": 163227,
+      "name": "Mierzęcice"
+    },
+    {
+      "id": 163228,
+      "name": "Mikołów"
+    },
+    {
+      "id": 163229,
+      "name": "Milówka"
+    },
+    {
+      "id": 163230,
+      "name": "Mnich"
+    },
+    {
+      "id": 163231,
+      "name": "Mstów"
+    },
+    {
+      "id": 163232,
+      "name": "Mszana"
+    },
+    {
+      "id": 163233,
+      "name": "Murcki"
+    },
+    {
+      "id": 163234,
+      "name": "Mykanów"
+    },
+    {
+      "id": 163235,
+      "name": "Mysłowice"
+    },
+    {
+      "id": 163236,
+      "name": "Myszków"
+    },
+    {
+      "id": 163237,
+      "name": "Nakło"
+    },
+    {
+      "id": 163238,
+      "name": "Nędza"
+    },
+    {
+      "id": 163239,
+      "name": "Niedobczyce"
+    },
+    {
+      "id": 163240,
+      "name": "Niegowonice"
+    },
+    {
+      "id": 163241,
+      "name": "Ochaby"
+    },
+    {
+      "id": 163242,
+      "name": "Ogrodzieniec"
+    },
+    {
+      "id": 163243,
+      "name": "Olsztyn"
+    },
+    {
+      "id": 163244,
+      "name": "Olza"
+    },
+    {
+      "id": 163245,
+      "name": "Opatów"
+    },
+    {
+      "id": 163246,
+      "name": "Ornontowice"
+    },
+    {
+      "id": 163247,
+      "name": "Orzech"
+    },
+    {
+      "id": 163248,
+      "name": "Orzesze"
+    },
+    {
+      "id": 163249,
+      "name": "Ostrowy nad Okszą"
+    },
+    {
+      "id": 163250,
+      "name": "Ożarowice"
+    },
+    {
+      "id": 163251,
+      "name": "Paniówki"
+    },
+    {
+      "id": 163252,
+      "name": "Panki"
+    },
+    {
+      "id": 163253,
+      "name": "Pawłowice"
+    },
+    {
+      "id": 163254,
+      "name": "Pawonków"
+    },
+    {
+      "id": 163255,
+      "name": "Pewel Ślemieńska"
+    },
+    {
+      "id": 163256,
+      "name": "Pewel Wielka"
+    },
+    {
+      "id": 163257,
+      "name": "Piasek"
+    },
+    {
+      "id": 163258,
+      "name": "Piekary Śląskie"
+    },
+    {
+      "id": 163259,
+      "name": "Pielgrzymowice"
+    },
+    {
+      "id": 163260,
+      "name": "Pierściec"
+    },
+    {
+      "id": 163261,
+      "name": "Pietrowice Wielkie"
+    },
+    {
+      "id": 163262,
+      "name": "Pietrzykowice"
+    },
+    {
+      "id": 163263,
+      "name": "Pilchowice"
+    },
+    {
+      "id": 163264,
+      "name": "Pilica"
+    },
+    {
+      "id": 163265,
+      "name": "Pisarzowice"
+    },
+    {
+      "id": 163266,
+      "name": "Pogórze"
+    },
+    {
+      "id": 163267,
+      "name": "Pogrzebień"
+    },
+    {
+      "id": 163268,
+      "name": "Pogwizdów"
+    },
+    {
+      "id": 163269,
+      "name": "Połomia"
+    },
+    {
+      "id": 163270,
+      "name": "Porąbka"
+    },
+    {
+      "id": 163271,
+      "name": "Poraj"
+    },
+    {
+      "id": 163272,
+      "name": "Poręba"
+    },
+    {
+      "id": 163273,
+      "name": "Potok Złoty"
+    },
+    {
+      "id": 163274,
+      "name": "Powiat będziński"
+    },
+    {
+      "id": 163275,
+      "name": "Powiat bielski"
+    },
+    {
+      "id": 163276,
+      "name": "Powiat bieruńsko-lędziński"
+    },
+    {
+      "id": 163277,
+      "name": "Powiat cieszyński"
+    },
+    {
+      "id": 163278,
+      "name": "Powiat częstochowski"
+    },
+    {
+      "id": 163279,
+      "name": "Powiat gliwicki"
+    },
+    {
+      "id": 163280,
+      "name": "Powiat kłobucki"
+    },
+    {
+      "id": 163281,
+      "name": "Powiat lubliniecki"
+    },
+    {
+      "id": 163282,
+      "name": "Powiat mikołowski"
+    },
+    {
+      "id": 163283,
+      "name": "Powiat myszkowski"
+    },
+    {
+      "id": 163284,
+      "name": "Powiat pszczyński"
+    },
+    {
+      "id": 163285,
+      "name": "Powiat raciborski"
+    },
+    {
+      "id": 163286,
+      "name": "Powiat rybnicki"
+    },
+    {
+      "id": 163287,
+      "name": "Powiat tarnogórski"
+    },
+    {
+      "id": 163288,
+      "name": "Powiat wodzisławski"
+    },
+    {
+      "id": 163289,
+      "name": "Powiat zawierciański"
+    },
+    {
+      "id": 163290,
+      "name": "Powiat żywiecki"
+    },
+    {
+      "id": 163291,
+      "name": "Pruchna"
+    },
+    {
+      "id": 163292,
+      "name": "Przyborów"
+    },
+    {
+      "id": 163293,
+      "name": "Przyrów"
+    },
+    {
+      "id": 163294,
+      "name": "Przystajń"
+    },
+    {
+      "id": 163295,
+      "name": "Przyszowice"
+    },
+    {
+      "id": 163296,
+      "name": "Psary"
+    },
+    {
+      "id": 163297,
+      "name": "Pszczyna"
+    },
+    {
+      "id": 163298,
+      "name": "Pszów"
+    },
+    {
+      "id": 163299,
+      "name": "Puńców"
+    },
+    {
+      "id": 163300,
+      "name": "Pyskowice"
+    },
+    {
+      "id": 163301,
+      "name": "Racibórz"
+    },
+    {
+      "id": 163302,
+      "name": "Radlin"
+    },
+    {
+      "id": 163303,
+      "name": "Radostowice"
+    },
+    {
+      "id": 163304,
+      "name": "Radziechowy"
+    },
+    {
+      "id": 163305,
+      "name": "Radzionków"
+    },
+    {
+      "id": 163306,
+      "name": "Rajcza"
+    },
+    {
+      "id": 163307,
+      "name": "Raszczyce"
+    },
+    {
+      "id": 163308,
+      "name": "Rędziny"
+    },
+    {
+      "id": 163309,
+      "name": "Rogów"
+    },
+    {
+      "id": 163310,
+      "name": "Rogoźnik"
+    },
+    {
+      "id": 163311,
+      "name": "Rokitno Szlacheckie"
+    },
+    {
+      "id": 163312,
+      "name": "Ruda Śląska"
+    },
+    {
+      "id": 163313,
+      "name": "Rudnik"
+    },
+    {
+      "id": 163314,
+      "name": "Rudniki"
+    },
+    {
+      "id": 163315,
+      "name": "Rudy"
+    },
+    {
+      "id": 163316,
+      "name": "Rudziczka"
+    },
+    {
+      "id": 163317,
+      "name": "Rudziniec"
+    },
+    {
+      "id": 163318,
+      "name": "Rybarzowice"
+    },
+    {
+      "id": 163319,
+      "name": "Rybnik"
+    },
+    {
+      "id": 163320,
+      "name": "Rycerka Dolna"
+    },
+    {
+      "id": 163321,
+      "name": "Rycerka Górna"
+    },
+    {
+      "id": 163322,
+      "name": "Rydułtowy"
+    },
+    {
+      "id": 163323,
+      "name": "Sączów"
+    },
+    {
+      "id": 163324,
+      "name": "Sarnów"
+    },
+    {
+      "id": 163325,
+      "name": "Siemianowice Śląskie"
+    },
+    {
+      "id": 163326,
+      "name": "Sieraków Śląski"
+    },
+    {
+      "id": 163327,
+      "name": "Siewierz"
+    },
+    {
+      "id": 163328,
+      "name": "Skoczów"
+    },
+    {
+      "id": 163329,
+      "name": "Skrzyszów"
+    },
+    {
+      "id": 163330,
+      "name": "Ślemień"
+    },
+    {
+      "id": 163331,
+      "name": "Sławków"
+    },
+    {
+      "id": 163332,
+      "name": "Sól"
+    },
+    {
+      "id": 163333,
+      "name": "Sopotnia Wielka"
+    },
+    {
+      "id": 163334,
+      "name": "Sośnicowice"
+    },
+    {
+      "id": 163335,
+      "name": "Sosnowiec"
+    },
+    {
+      "id": 163336,
+      "name": "Stanowice"
+    },
+    {
+      "id": 163337,
+      "name": "Starcza"
+    },
+    {
+      "id": 163338,
+      "name": "Starokrzepice"
+    },
+    {
+      "id": 163339,
+      "name": "Strumień"
+    },
+    {
+      "id": 163340,
+      "name": "Strzebiń"
+    },
+    {
+      "id": 163341,
+      "name": "Strzyżowice"
+    },
+    {
+      "id": 163342,
+      "name": "Studzionka"
+    },
+    {
+      "id": 163343,
+      "name": "Suszec"
+    },
+    {
+      "id": 163344,
+      "name": "Świerklaniec"
+    },
+    {
+      "id": 163345,
+      "name": "Świerklany Dolne"
+    },
+    {
+      "id": 163346,
+      "name": "Świerklany Górne"
+    },
+    {
+      "id": 163347,
+      "name": "Świętochłowice"
+    },
+    {
+      "id": 163348,
+      "name": "Świnna"
+    },
+    {
+      "id": 163349,
+      "name": "Syrynia"
+    },
+    {
+      "id": 163350,
+      "name": "Szczekociny"
+    },
+    {
+      "id": 163351,
+      "name": "Szczerbice"
+    },
+    {
+      "id": 163352,
+      "name": "Szczyrk"
+    },
+    {
+      "id": 163353,
+      "name": "Tarnowskie Góry"
+    },
+    {
+      "id": 163354,
+      "name": "Toszek"
+    },
+    {
+      "id": 163355,
+      "name": "Truskolasy"
+    },
+    {
+      "id": 163356,
+      "name": "Trzebinia"
+    },
+    {
+      "id": 163357,
+      "name": "Turza Śląska"
+    },
+    {
+      "id": 163358,
+      "name": "Tworków"
+    },
+    {
+      "id": 163359,
+      "name": "Tworóg"
+    },
+    {
+      "id": 163360,
+      "name": "Tychy"
+    },
+    {
+      "id": 163361,
+      "name": "Ujsoły"
+    },
+    {
+      "id": 163362,
+      "name": "Ustroń"
+    },
+    {
+      "id": 163363,
+      "name": "Węgierska Górka"
+    },
+    {
+      "id": 163364,
+      "name": "Wielowieś"
+    },
+    {
+      "id": 163365,
+      "name": "Wieprz"
+    },
+    {
+      "id": 163366,
+      "name": "Wieszowa"
+    },
+    {
+      "id": 163367,
+      "name": "Wilamowice"
+    },
+    {
+      "id": 163368,
+      "name": "Wilcza"
+    },
+    {
+      "id": 163369,
+      "name": "Wilkowice"
+    },
+    {
+      "id": 163370,
+      "name": "Wisła"
+    },
+    {
+      "id": 163371,
+      "name": "Włodowice"
+    },
+    {
+      "id": 163372,
+      "name": "Wodzisław Śląski"
+    },
+    {
+      "id": 163373,
+      "name": "Wojkowice"
+    },
+    {
+      "id": 163374,
+      "name": "Wola"
+    },
+    {
+      "id": 163375,
+      "name": "Wożniki"
+    },
+    {
+      "id": 163376,
+      "name": "Wręczyca Wielka"
+    },
+    {
+      "id": 163377,
+      "name": "Wyry"
+    },
+    {
+      "id": 163378,
+      "name": "Wysoka"
+    },
+    {
+      "id": 163379,
+      "name": "Zabłocie"
+    },
+    {
+      "id": 163380,
+      "name": "Żabnica"
+    },
+    {
+      "id": 163381,
+      "name": "Zaborze"
+    },
+    {
+      "id": 163382,
+      "name": "Zabrze"
+    },
+    {
+      "id": 163383,
+      "name": "Zabrzeg"
+    },
+    {
+      "id": 163384,
+      "name": "Zamarski"
+    },
+    {
+      "id": 163385,
+      "name": "Żarki"
+    },
+    {
+      "id": 163386,
+      "name": "Żarki-Letnisko"
+    },
+    {
+      "id": 163387,
+      "name": "Zarzecze"
+    },
+    {
+      "id": 163388,
+      "name": "Zawidów"
+    },
+    {
+      "id": 163389,
+      "name": "Zawiercie"
+    },
+    {
+      "id": 163390,
+      "name": "Zbrosławice"
+    },
+    {
+      "id": 163391,
+      "name": "Zbytków"
+    },
+    {
+      "id": 163392,
+      "name": "Zebrzydowice"
+    },
+    {
+      "id": 163393,
+      "name": "Żernica"
+    },
+    {
+      "id": 163394,
+      "name": "Żory"
+    },
+    {
+      "id": 163395,
+      "name": "Żywiec"
+    }
+  ]
+}

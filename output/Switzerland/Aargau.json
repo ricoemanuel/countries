@@ -1,0 +1,479 @@
+{
+  "id": 6641,
+  "name": "Aargau",
+  "state_code": "AG",
+  "cities": [
+    {
+      "id": 191024,
+      "name": "Aarau"
+    },
+    {
+      "id": 191025,
+      "name": "Aarburg"
+    },
+    {
+      "id": 191026,
+      "name": "Aristau"
+    },
+    {
+      "id": 191027,
+      "name": "Auw"
+    },
+    {
+      "id": 191028,
+      "name": "Bad Zurzach"
+    },
+    {
+      "id": 191029,
+      "name": "Baden"
+    },
+    {
+      "id": 191030,
+      "name": "Berikon"
+    },
+    {
+      "id": 191031,
+      "name": "Besenbüren"
+    },
+    {
+      "id": 191032,
+      "name": "Bezirk Aarau"
+    },
+    {
+      "id": 191033,
+      "name": "Bezirk Baden"
+    },
+    {
+      "id": 191034,
+      "name": "Bezirk Bremgarten"
+    },
+    {
+      "id": 191035,
+      "name": "Bezirk Brugg"
+    },
+    {
+      "id": 191036,
+      "name": "Bezirk Kulm"
+    },
+    {
+      "id": 191037,
+      "name": "Bezirk Laufenburg"
+    },
+    {
+      "id": 191038,
+      "name": "Bezirk Lenzburg"
+    },
+    {
+      "id": 191039,
+      "name": "Bezirk Muri"
+    },
+    {
+      "id": 191040,
+      "name": "Bezirk Rheinfelden"
+    },
+    {
+      "id": 191041,
+      "name": "Bezirk Zofingen"
+    },
+    {
+      "id": 191042,
+      "name": "Bezirk Zurzach"
+    },
+    {
+      "id": 191043,
+      "name": "Birmenstorf"
+    },
+    {
+      "id": 191044,
+      "name": "Birr"
+    },
+    {
+      "id": 191045,
+      "name": "Boniswil"
+    },
+    {
+      "id": 191046,
+      "name": "Bremgarten"
+    },
+    {
+      "id": 191047,
+      "name": "Brittnau"
+    },
+    {
+      "id": 191048,
+      "name": "Brugg"
+    },
+    {
+      "id": 191049,
+      "name": "Buchs"
+    },
+    {
+      "id": 191050,
+      "name": "Buttwil"
+    },
+    {
+      "id": 191051,
+      "name": "Densbüren"
+    },
+    {
+      "id": 191052,
+      "name": "Dottikon"
+    },
+    {
+      "id": 191053,
+      "name": "Dürrenäsch"
+    },
+    {
+      "id": 191054,
+      "name": "Egliswil"
+    },
+    {
+      "id": 191055,
+      "name": "Ehrendingen"
+    },
+    {
+      "id": 191056,
+      "name": "Eiken"
+    },
+    {
+      "id": 191057,
+      "name": "Endingen"
+    },
+    {
+      "id": 191058,
+      "name": "Frick"
+    },
+    {
+      "id": 191059,
+      "name": "Gebenstorf"
+    },
+    {
+      "id": 191060,
+      "name": "Gipf-Oberfrick"
+    },
+    {
+      "id": 191061,
+      "name": "Gontenschwil"
+    },
+    {
+      "id": 191062,
+      "name": "Gränichen"
+    },
+    {
+      "id": 191063,
+      "name": "Hägglingen"
+    },
+    {
+      "id": 191064,
+      "name": "Hausen"
+    },
+    {
+      "id": 191065,
+      "name": "Jonen"
+    },
+    {
+      "id": 191066,
+      "name": "Kaiseraugst"
+    },
+    {
+      "id": 191067,
+      "name": "Kaisten"
+    },
+    {
+      "id": 191068,
+      "name": "Killwangen"
+    },
+    {
+      "id": 191069,
+      "name": "Klingnau"
+    },
+    {
+      "id": 191070,
+      "name": "Koblenz"
+    },
+    {
+      "id": 191071,
+      "name": "Kölliken"
+    },
+    {
+      "id": 191072,
+      "name": "Künten"
+    },
+    {
+      "id": 191073,
+      "name": "Küttigen"
+    },
+    {
+      "id": 191074,
+      "name": "Laufenburg"
+    },
+    {
+      "id": 191075,
+      "name": "Lauffohr (Brugg)"
+    },
+    {
+      "id": 191076,
+      "name": "Leibstadt"
+    },
+    {
+      "id": 191077,
+      "name": "Lenzburg"
+    },
+    {
+      "id": 191078,
+      "name": "Magden"
+    },
+    {
+      "id": 191079,
+      "name": "Meisterschwanden"
+    },
+    {
+      "id": 191080,
+      "name": "Mellingen"
+    },
+    {
+      "id": 191081,
+      "name": "Menziken"
+    },
+    {
+      "id": 191082,
+      "name": "Merenschwand"
+    },
+    {
+      "id": 191083,
+      "name": "Möhlin"
+    },
+    {
+      "id": 191084,
+      "name": "Muhen"
+    },
+    {
+      "id": 191085,
+      "name": "Mumpf"
+    },
+    {
+      "id": 191086,
+      "name": "Murgenthal"
+    },
+    {
+      "id": 191087,
+      "name": "Muri"
+    },
+    {
+      "id": 191088,
+      "name": "Neuenhof"
+    },
+    {
+      "id": 191089,
+      "name": "Niederlenz"
+    },
+    {
+      "id": 191090,
+      "name": "Niederrohrdorf"
+    },
+    {
+      "id": 191091,
+      "name": "Oberentfelden"
+    },
+    {
+      "id": 191092,
+      "name": "Oberlunkhofen"
+    },
+    {
+      "id": 191093,
+      "name": "Oberrohrdorf"
+    },
+    {
+      "id": 191094,
+      "name": "Oberrüti"
+    },
+    {
+      "id": 191095,
+      "name": "Obersiggenthal"
+    },
+    {
+      "id": 191096,
+      "name": "Oftringen"
+    },
+    {
+      "id": 191097,
+      "name": "Othmarsingen"
+    },
+    {
+      "id": 191098,
+      "name": "Reinach"
+    },
+    {
+      "id": 191099,
+      "name": "Rheinfelden"
+    },
+    {
+      "id": 191100,
+      "name": "Rothrist"
+    },
+    {
+      "id": 191101,
+      "name": "Rudolfstetten"
+    },
+    {
+      "id": 191102,
+      "name": "Rupperswil"
+    },
+    {
+      "id": 191103,
+      "name": "Safenwil"
+    },
+    {
+      "id": 191104,
+      "name": "Sarmenstorf"
+    },
+    {
+      "id": 191105,
+      "name": "Schafisheim"
+    },
+    {
+      "id": 191106,
+      "name": "Schinznach Bad"
+    },
+    {
+      "id": 191107,
+      "name": "Schinznach Dorf"
+    },
+    {
+      "id": 191108,
+      "name": "Schöftland"
+    },
+    {
+      "id": 191109,
+      "name": "Schwaderloch"
+    },
+    {
+      "id": 191110,
+      "name": "Seengen"
+    },
+    {
+      "id": 191111,
+      "name": "Seon"
+    },
+    {
+      "id": 191112,
+      "name": "Sins"
+    },
+    {
+      "id": 191113,
+      "name": "Spreitenbach"
+    },
+    {
+      "id": 191114,
+      "name": "Staffelbach"
+    },
+    {
+      "id": 191115,
+      "name": "Staufen"
+    },
+    {
+      "id": 191116,
+      "name": "Stein"
+    },
+    {
+      "id": 191117,
+      "name": "Strengelbach"
+    },
+    {
+      "id": 191118,
+      "name": "Suhr"
+    },
+    {
+      "id": 191119,
+      "name": "Sulz"
+    },
+    {
+      "id": 191120,
+      "name": "Tegerfelden"
+    },
+    {
+      "id": 191121,
+      "name": "Teufenthal"
+    },
+    {
+      "id": 191122,
+      "name": "Turgi"
+    },
+    {
+      "id": 191123,
+      "name": "Uerkheim"
+    },
+    {
+      "id": 191124,
+      "name": "Unterkulm"
+    },
+    {
+      "id": 191125,
+      "name": "Unterlunkhofen"
+    },
+    {
+      "id": 191126,
+      "name": "Untersiggenthal"
+    },
+    {
+      "id": 191127,
+      "name": "Veltheim"
+    },
+    {
+      "id": 191128,
+      "name": "Villigen"
+    },
+    {
+      "id": 191129,
+      "name": "Villmergen"
+    },
+    {
+      "id": 191130,
+      "name": "Villnachern"
+    },
+    {
+      "id": 191131,
+      "name": "Vordemwald"
+    },
+    {
+      "id": 191132,
+      "name": "Waltenschwil"
+    },
+    {
+      "id": 191133,
+      "name": "Wegenstetten"
+    },
+    {
+      "id": 191134,
+      "name": "Wettingen"
+    },
+    {
+      "id": 191135,
+      "name": "Windisch"
+    },
+    {
+      "id": 191136,
+      "name": "Wittnau"
+    },
+    {
+      "id": 191137,
+      "name": "Wohlen"
+    },
+    {
+      "id": 191138,
+      "name": "Wölflinswil"
+    },
+    {
+      "id": 191139,
+      "name": "Würenlingen"
+    },
+    {
+      "id": 191140,
+      "name": "Würenlos"
+    },
+    {
+      "id": 191141,
+      "name": "Zofingen"
+    }
+  ]
+}

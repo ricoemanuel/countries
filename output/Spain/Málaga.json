@@ -1,0 +1,411 @@
+{
+  "id": 6540,
+  "name": "Málaga",
+  "state_code": "MA",
+  "cities": [
+    {
+      "id": 186519,
+      "name": "Alameda"
+    },
+    {
+      "id": 186520,
+      "name": "Alcaucín"
+    },
+    {
+      "id": 186521,
+      "name": "Alfarnate"
+    },
+    {
+      "id": 186522,
+      "name": "Alfarnatejo"
+    },
+    {
+      "id": 186523,
+      "name": "Algarrobo"
+    },
+    {
+      "id": 186524,
+      "name": "Algatocín"
+    },
+    {
+      "id": 186525,
+      "name": "Alhaurín de la Torre"
+    },
+    {
+      "id": 186526,
+      "name": "Alhaurín el Grande"
+    },
+    {
+      "id": 186527,
+      "name": "Almáchar"
+    },
+    {
+      "id": 186528,
+      "name": "Almargen"
+    },
+    {
+      "id": 186529,
+      "name": "Almogía"
+    },
+    {
+      "id": 186530,
+      "name": "Alora"
+    },
+    {
+      "id": 186531,
+      "name": "Alozaina"
+    },
+    {
+      "id": 186532,
+      "name": "Alpandeire"
+    },
+    {
+      "id": 186533,
+      "name": "Antequera"
+    },
+    {
+      "id": 186534,
+      "name": "Árchez"
+    },
+    {
+      "id": 186535,
+      "name": "Archidona"
+    },
+    {
+      "id": 186536,
+      "name": "Ardales"
+    },
+    {
+      "id": 186537,
+      "name": "Arenas"
+    },
+    {
+      "id": 186538,
+      "name": "Arriate"
+    },
+    {
+      "id": 186539,
+      "name": "Atajate"
+    },
+    {
+      "id": 186540,
+      "name": "Benadalid"
+    },
+    {
+      "id": 186541,
+      "name": "Benahavís"
+    },
+    {
+      "id": 186542,
+      "name": "Benalauría"
+    },
+    {
+      "id": 186543,
+      "name": "Benalmádena"
+    },
+    {
+      "id": 186544,
+      "name": "Benamargosa"
+    },
+    {
+      "id": 186545,
+      "name": "Benamocarra"
+    },
+    {
+      "id": 186546,
+      "name": "Benaoján"
+    },
+    {
+      "id": 186547,
+      "name": "Benarrabá"
+    },
+    {
+      "id": 186548,
+      "name": "Borge El"
+    },
+    {
+      "id": 186549,
+      "name": "Burgo El"
+    },
+    {
+      "id": 186550,
+      "name": "Campillos"
+    },
+    {
+      "id": 186551,
+      "name": "Cañete la Real"
+    },
+    {
+      "id": 186552,
+      "name": "Canillas de Aceituno"
+    },
+    {
+      "id": 186553,
+      "name": "Canillas de Albaida"
+    },
+    {
+      "id": 186554,
+      "name": "Carratraca"
+    },
+    {
+      "id": 186555,
+      "name": "Cartajima"
+    },
+    {
+      "id": 186556,
+      "name": "Cártama"
+    },
+    {
+      "id": 186557,
+      "name": "Casabermeja"
+    },
+    {
+      "id": 186558,
+      "name": "Casarabonela"
+    },
+    {
+      "id": 186559,
+      "name": "Casares"
+    },
+    {
+      "id": 186560,
+      "name": "Coín"
+    },
+    {
+      "id": 186561,
+      "name": "Colmenar"
+    },
+    {
+      "id": 186562,
+      "name": "Comares"
+    },
+    {
+      "id": 186563,
+      "name": "Cómpeta"
+    },
+    {
+      "id": 186564,
+      "name": "Cortes de la Frontera"
+    },
+    {
+      "id": 186565,
+      "name": "Cuevas Bajas"
+    },
+    {
+      "id": 186566,
+      "name": "Cuevas de San Marcos"
+    },
+    {
+      "id": 186567,
+      "name": "Cuevas del Becerro"
+    },
+    {
+      "id": 186568,
+      "name": "Cútar"
+    },
+    {
+      "id": 186569,
+      "name": "Estepona"
+    },
+    {
+      "id": 186570,
+      "name": "Faraján"
+    },
+    {
+      "id": 186571,
+      "name": "Frigiliana"
+    },
+    {
+      "id": 186572,
+      "name": "Fuengirola"
+    },
+    {
+      "id": 186573,
+      "name": "Fuente de Piedra"
+    },
+    {
+      "id": 186574,
+      "name": "Gaucín"
+    },
+    {
+      "id": 186575,
+      "name": "Genalguacil"
+    },
+    {
+      "id": 186576,
+      "name": "Guaro"
+    },
+    {
+      "id": 186577,
+      "name": "Humilladero"
+    },
+    {
+      "id": 186578,
+      "name": "Igualeja"
+    },
+    {
+      "id": 186579,
+      "name": "Istán"
+    },
+    {
+      "id": 186580,
+      "name": "Iznate"
+    },
+    {
+      "id": 186581,
+      "name": "Jimera de Líbar"
+    },
+    {
+      "id": 186582,
+      "name": "Jubrique"
+    },
+    {
+      "id": 186583,
+      "name": "Júzcar"
+    },
+    {
+      "id": 186584,
+      "name": "Macharaviaya"
+    },
+    {
+      "id": 186585,
+      "name": "Málaga"
+    },
+    {
+      "id": 186586,
+      "name": "Manilva"
+    },
+    {
+      "id": 186587,
+      "name": "Marbella"
+    },
+    {
+      "id": 186588,
+      "name": "Mijas"
+    },
+    {
+      "id": 186589,
+      "name": "Moclinejo"
+    },
+    {
+      "id": 186590,
+      "name": "Mollina"
+    },
+    {
+      "id": 186591,
+      "name": "Monda"
+    },
+    {
+      "id": 186592,
+      "name": "Montejaque"
+    },
+    {
+      "id": 186593,
+      "name": "Nerja"
+    },
+    {
+      "id": 186594,
+      "name": "Ojén"
+    },
+    {
+      "id": 186595,
+      "name": "Parauta"
+    },
+    {
+      "id": 186596,
+      "name": "Periana"
+    },
+    {
+      "id": 186597,
+      "name": "Pizarra"
+    },
+    {
+      "id": 186598,
+      "name": "Pujerra"
+    },
+    {
+      "id": 186599,
+      "name": "Rincón de la Victoria"
+    },
+    {
+      "id": 186600,
+      "name": "Ríogordo"
+    },
+    {
+      "id": 186601,
+      "name": "Ronda"
+    },
+    {
+      "id": 186602,
+      "name": "Salares"
+    },
+    {
+      "id": 186603,
+      "name": "Sayalonga"
+    },
+    {
+      "id": 186604,
+      "name": "Sedella"
+    },
+    {
+      "id": 186605,
+      "name": "Sierra de Yeguas"
+    },
+    {
+      "id": 186606,
+      "name": "Teba"
+    },
+    {
+      "id": 186607,
+      "name": "Tolox"
+    },
+    {
+      "id": 186608,
+      "name": "Torremolinos"
+    },
+    {
+      "id": 186609,
+      "name": "Torrox"
+    },
+    {
+      "id": 186610,
+      "name": "Totalán"
+    },
+    {
+      "id": 186611,
+      "name": "Valle de Abdalajís"
+    },
+    {
+      "id": 186612,
+      "name": "Vélez-Málaga"
+    },
+    {
+      "id": 186613,
+      "name": "Villanueva de Algaidas"
+    },
+    {
+      "id": 186614,
+      "name": "Villanueva de la Concepción"
+    },
+    {
+      "id": 186615,
+      "name": "Villanueva de Tapia"
+    },
+    {
+      "id": 186616,
+      "name": "Villanueva del Rosario"
+    },
+    {
+      "id": 186617,
+      "name": "Villanueva del Trabuco"
+    },
+    {
+      "id": 186618,
+      "name": "Viñuela"
+    },
+    {
+      "id": 186619,
+      "name": "Yunquera"
+    }
+  ]
+}

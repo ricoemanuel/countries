@@ -1,0 +1,435 @@
+{
+  "id": 5852,
+  "name": "Porto",
+  "state_code": "13",
+  "cities": [
+    {
+      "id": 165044,
+      "name": "Água Longa"
+    },
+    {
+      "id": 165045,
+      "name": "Águas Santas"
+    },
+    {
+      "id": 165046,
+      "name": "Aguçadoura"
+    },
+    {
+      "id": 165047,
+      "name": "Alfena"
+    },
+    {
+      "id": 165048,
+      "name": "Alpendurada"
+    },
+    {
+      "id": 165049,
+      "name": "Amarante"
+    },
+    {
+      "id": 165050,
+      "name": "Amorim"
+    },
+    {
+      "id": 165051,
+      "name": "Anta"
+    },
+    {
+      "id": 165052,
+      "name": "Arcozelo"
+    },
+    {
+      "id": 165053,
+      "name": "Argivai"
+    },
+    {
+      "id": 165054,
+      "name": "Árvore"
+    },
+    {
+      "id": 165055,
+      "name": "Aver-o-Mar"
+    },
+    {
+      "id": 165056,
+      "name": "Aves"
+    },
+    {
+      "id": 165057,
+      "name": "Avintes"
+    },
+    {
+      "id": 165058,
+      "name": "Azenha"
+    },
+    {
+      "id": 165059,
+      "name": "Baguim do Monte"
+    },
+    {
+      "id": 165060,
+      "name": "Baião"
+    },
+    {
+      "id": 165061,
+      "name": "Balazar"
+    },
+    {
+      "id": 165062,
+      "name": "Baltar"
+    },
+    {
+      "id": 165063,
+      "name": "Barrosas"
+    },
+    {
+      "id": 165064,
+      "name": "Beiriz de Baixo"
+    },
+    {
+      "id": 165065,
+      "name": "Bougado"
+    },
+    {
+      "id": 165066,
+      "name": "Campo"
+    },
+    {
+      "id": 165067,
+      "name": "Canelas"
+    },
+    {
+      "id": 165068,
+      "name": "Canidelo"
+    },
+    {
+      "id": 165069,
+      "name": "Carvalhosa"
+    },
+    {
+      "id": 165070,
+      "name": "Castelões de Cepeda"
+    },
+    {
+      "id": 165071,
+      "name": "Ermesinde"
+    },
+    {
+      "id": 165072,
+      "name": "Estela"
+    },
+    {
+      "id": 165073,
+      "name": "Fânzeres"
+    },
+    {
+      "id": 165074,
+      "name": "Felgueiras"
+    },
+    {
+      "id": 165075,
+      "name": "Ferreira"
+    },
+    {
+      "id": 165076,
+      "name": "Figueiró"
+    },
+    {
+      "id": 165077,
+      "name": "Foz do Douro"
+    },
+    {
+      "id": 165078,
+      "name": "Foz do Sousa"
+    },
+    {
+      "id": 165079,
+      "name": "Frazão"
+    },
+    {
+      "id": 165080,
+      "name": "Freamunde"
+    },
+    {
+      "id": 165081,
+      "name": "Gandra"
+    },
+    {
+      "id": 165082,
+      "name": "Gemunde"
+    },
+    {
+      "id": 165083,
+      "name": "Gondomar"
+    },
+    {
+      "id": 165084,
+      "name": "Grijó"
+    },
+    {
+      "id": 165085,
+      "name": "Guifões"
+    },
+    {
+      "id": 165086,
+      "name": "Gulpilhares"
+    },
+    {
+      "id": 165087,
+      "name": "Jovim"
+    },
+    {
+      "id": 165088,
+      "name": "Lavra"
+    },
+    {
+      "id": 165089,
+      "name": "Leça da Palmeira"
+    },
+    {
+      "id": 165090,
+      "name": "Leça do Bailio"
+    },
+    {
+      "id": 165091,
+      "name": "Lordelo"
+    },
+    {
+      "id": 165092,
+      "name": "Lousada"
+    },
+    {
+      "id": 165093,
+      "name": "Lustosa"
+    },
+    {
+      "id": 165094,
+      "name": "Madalena"
+    },
+    {
+      "id": 165095,
+      "name": "Maia"
+    },
+    {
+      "id": 165096,
+      "name": "Marco de Canaveses"
+    },
+    {
+      "id": 165097,
+      "name": "Marco de Canavezes"
+    },
+    {
+      "id": 165098,
+      "name": "Margaride"
+    },
+    {
+      "id": 165099,
+      "name": "Matosinhos"
+    },
+    {
+      "id": 165100,
+      "name": "Meinedo"
+    },
+    {
+      "id": 165101,
+      "name": "Melres"
+    },
+    {
+      "id": 165102,
+      "name": "Milheirós"
+    },
+    {
+      "id": 165103,
+      "name": "Mindelo"
+    },
+    {
+      "id": 165104,
+      "name": "Moreira"
+    },
+    {
+      "id": 165105,
+      "name": "Negrelos"
+    },
+    {
+      "id": 165106,
+      "name": "Nogueira"
+    },
+    {
+      "id": 165107,
+      "name": "Olival"
+    },
+    {
+      "id": 165108,
+      "name": "Oliveira do Douro"
+    },
+    {
+      "id": 165109,
+      "name": "Paços de Ferreira"
+    },
+    {
+      "id": 165110,
+      "name": "Paredes"
+    },
+    {
+      "id": 165111,
+      "name": "Pedroso"
+    },
+    {
+      "id": 165112,
+      "name": "Pedrouços"
+    },
+    {
+      "id": 165113,
+      "name": "Penafiel"
+    },
+    {
+      "id": 165114,
+      "name": "Perafita"
+    },
+    {
+      "id": 165115,
+      "name": "Perozinho"
+    },
+    {
+      "id": 165116,
+      "name": "Porto"
+    },
+    {
+      "id": 165117,
+      "name": "Póvoa de Varzim"
+    },
+    {
+      "id": 165118,
+      "name": "Rebordões"
+    },
+    {
+      "id": 165119,
+      "name": "Rebordosa"
+    },
+    {
+      "id": 165120,
+      "name": "Recarei"
+    },
+    {
+      "id": 165121,
+      "name": "Rio Mau"
+    },
+    {
+      "id": 165122,
+      "name": "Rio Tinto"
+    },
+    {
+      "id": 165123,
+      "name": "Sandim"
+    },
+    {
+      "id": 165124,
+      "name": "Santa Cruz do Bispo"
+    },
+    {
+      "id": 165125,
+      "name": "Santo Izidoro"
+    },
+    {
+      "id": 165126,
+      "name": "Santo Tirso"
+    },
+    {
+      "id": 165127,
+      "name": "São Félix da Marinha"
+    },
+    {
+      "id": 165128,
+      "name": "São Mamede de Infesta"
+    },
+    {
+      "id": 165129,
+      "name": "São Miguel do Couto"
+    },
+    {
+      "id": 165130,
+      "name": "São Pedro da Cova"
+    },
+    {
+      "id": 165131,
+      "name": "São Romão do Coronado"
+    },
+    {
+      "id": 165132,
+      "name": "Senhora da Hora"
+    },
+    {
+      "id": 165133,
+      "name": "Sermonde"
+    },
+    {
+      "id": 165134,
+      "name": "Seroa"
+    },
+    {
+      "id": 165135,
+      "name": "Serzedo"
+    },
+    {
+      "id": 165136,
+      "name": "Sobrado"
+    },
+    {
+      "id": 165137,
+      "name": "Telões"
+    },
+    {
+      "id": 165138,
+      "name": "Trofa"
+    },
+    {
+      "id": 165139,
+      "name": "Vairão"
+    },
+    {
+      "id": 165140,
+      "name": "Valadares"
+    },
+    {
+      "id": 165141,
+      "name": "Valbom"
+    },
+    {
+      "id": 165142,
+      "name": "Valongo"
+    },
+    {
+      "id": 165143,
+      "name": "Vila do Conde"
+    },
+    {
+      "id": 165144,
+      "name": "Vila Meã"
+    },
+    {
+      "id": 165145,
+      "name": "Vila Nova da Telha"
+    },
+    {
+      "id": 165146,
+      "name": "Vila Nova de Gaia"
+    },
+    {
+      "id": 165147,
+      "name": "Vilar de Andorinho"
+    },
+    {
+      "id": 165148,
+      "name": "Vilar do Paraíso"
+    },
+    {
+      "id": 165149,
+      "name": "Vilarinho"
+    },
+    {
+      "id": 165150,
+      "name": "Vizela"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "id": 5976,
+  "name": "Hunedoara County",
+  "state_code": "HD",
+  "cities": [
+    {
+      "id": 169200,
+      "name": "Aninoasa"
+    },
+    {
+      "id": 169201,
+      "name": "Băcia"
+    },
+    {
+      "id": 169202,
+      "name": "Baia de Criş"
+    },
+    {
+      "id": 169203,
+      "name": "Băiţa"
+    },
+    {
+      "id": 169204,
+      "name": "Balşa"
+    },
+    {
+      "id": 169205,
+      "name": "Băniţa"
+    },
+    {
+      "id": 169206,
+      "name": "Baru"
+    },
+    {
+      "id": 169207,
+      "name": "Baru Mic"
+    },
+    {
+      "id": 169208,
+      "name": "Barza"
+    },
+    {
+      "id": 169209,
+      "name": "Bătrâna"
+    },
+    {
+      "id": 169210,
+      "name": "Beriu"
+    },
+    {
+      "id": 169211,
+      "name": "Blăjeni"
+    },
+    {
+      "id": 169212,
+      "name": "Boşorod"
+    },
+    {
+      "id": 169213,
+      "name": "Brad"
+    },
+    {
+      "id": 169214,
+      "name": "Brănişca"
+    },
+    {
+      "id": 169215,
+      "name": "Brazi"
+    },
+    {
+      "id": 169216,
+      "name": "Bretea Română"
+    },
+    {
+      "id": 169217,
+      "name": "Buceş"
+    },
+    {
+      "id": 169218,
+      "name": "Bucium-Orlea"
+    },
+    {
+      "id": 169219,
+      "name": "Bucureşci"
+    },
+    {
+      "id": 169220,
+      "name": "Bulzeștii de Sus"
+    },
+    {
+      "id": 169221,
+      "name": "Bunila"
+    },
+    {
+      "id": 169222,
+      "name": "Burjuc"
+    },
+    {
+      "id": 169223,
+      "name": "Călan"
+    },
+    {
+      "id": 169224,
+      "name": "Cârjiţi"
+    },
+    {
+      "id": 169225,
+      "name": "Căstău"
+    },
+    {
+      "id": 169226,
+      "name": "Cerbăl"
+    },
+    {
+      "id": 169227,
+      "name": "Certeju de Sus"
+    },
+    {
+      "id": 169228,
+      "name": "Comuna Băcia"
+    },
+    {
+      "id": 169229,
+      "name": "Comuna Baia de Criş"
+    },
+    {
+      "id": 169230,
+      "name": "Comuna Băiţa"
+    },
+    {
+      "id": 169231,
+      "name": "Comuna Balşa"
+    },
+    {
+      "id": 169232,
+      "name": "Comuna Băniţa"
+    },
+    {
+      "id": 169233,
+      "name": "Comuna Baru"
+    },
+    {
+      "id": 169234,
+      "name": "Comuna Bătrâna"
+    },
+    {
+      "id": 169235,
+      "name": "Comuna Beriu"
+    },
+    {
+      "id": 169236,
+      "name": "Comuna Blăjeni"
+    },
+    {
+      "id": 169237,
+      "name": "Comuna Boşorod"
+    },
+    {
+      "id": 169238,
+      "name": "Comuna Brănişca"
+    },
+    {
+      "id": 169239,
+      "name": "Comuna Bretea Română"
+    },
+    {
+      "id": 169240,
+      "name": "Comuna Buceş"
+    },
+    {
+      "id": 169241,
+      "name": "Comuna Bucureşci"
+    },
+    {
+      "id": 169242,
+      "name": "Comuna Bulzeştii De Sus"
+    },
+    {
+      "id": 169243,
+      "name": "Comuna Bunila"
+    },
+    {
+      "id": 169244,
+      "name": "Comuna Burjuc"
+    },
+    {
+      "id": 169245,
+      "name": "Comuna Cârjiţi"
+    },
+    {
+      "id": 169246,
+      "name": "Comuna Cerbăl"
+    },
+    {
+      "id": 169247,
+      "name": "Comuna Certeju de Sus"
+    },
+    {
+      "id": 169248,
+      "name": "Comuna Crişcior"
+    },
+    {
+      "id": 169249,
+      "name": "Comuna Densuş"
+    },
+    {
+      "id": 169250,
+      "name": "Comuna Dobra"
+    },
+    {
+      "id": 169251,
+      "name": "Comuna General Berthelot"
+    },
+    {
+      "id": 169252,
+      "name": "Comuna Ghelari"
+    },
+    {
+      "id": 169253,
+      "name": "Comuna Gurasada"
+    },
+    {
+      "id": 169254,
+      "name": "Comuna Hărău"
+    },
+    {
+      "id": 169255,
+      "name": "Comuna Ilia"
+    },
+    {
+      "id": 169256,
+      "name": "Comuna Lãpugiu De Jos"
+    },
+    {
+      "id": 169257,
+      "name": "Comuna Lelese"
+    },
+    {
+      "id": 169258,
+      "name": "Comuna Lunca Cernii De Jos"
+    },
+    {
+      "id": 169259,
+      "name": "Comuna Luncoiu De Jos"
+    },
+    {
+      "id": 169260,
+      "name": "Comuna Mărtineşti"
+    },
+    {
+      "id": 169261,
+      "name": "Comuna Orăştioara de Sus"
+    },
+    {
+      "id": 169262,
+      "name": "Comuna Pestişu Mic"
+    },
+    {
+      "id": 169263,
+      "name": "Comuna Pui"
+    },
+    {
+      "id": 169264,
+      "name": "Comuna Răchitova"
+    },
+    {
+      "id": 169265,
+      "name": "Comuna Rapoltu Mare"
+    },
+    {
+      "id": 169266,
+      "name": "Comuna Râu de Mori"
+    },
+    {
+      "id": 169267,
+      "name": "Comuna Ribiţa"
+    },
+    {
+      "id": 169268,
+      "name": "Comuna Romos"
+    },
+    {
+      "id": 169269,
+      "name": "Comuna Sãlaşu De Sus"
+    },
+    {
+      "id": 169270,
+      "name": "Comuna Sântămăria-Orlea"
+    },
+    {
+      "id": 169271,
+      "name": "Comuna Sarmizegetusa"
+    },
+    {
+      "id": 169272,
+      "name": "Comuna Şoimuş"
+    },
+    {
+      "id": 169273,
+      "name": "Comuna Teliucu Inferior"
+    },
+    {
+      "id": 169274,
+      "name": "Comuna Tomeşti"
+    },
+    {
+      "id": 169275,
+      "name": "Comuna Topliţa"
+    },
+    {
+      "id": 169276,
+      "name": "Comuna Toteşti"
+    },
+    {
+      "id": 169277,
+      "name": "Comuna Turdaş"
+    },
+    {
+      "id": 169278,
+      "name": "Comuna Vălişoara"
+    },
+    {
+      "id": 169279,
+      "name": "Comuna Vaţa De Jos"
+    },
+    {
+      "id": 169280,
+      "name": "Comuna Veţel"
+    },
+    {
+      "id": 169281,
+      "name": "Comuna Vorţa"
+    },
+    {
+      "id": 169282,
+      "name": "Comuna Zam"
+    },
+    {
+      "id": 169283,
+      "name": "Crişcior"
+    },
+    {
+      "id": 169284,
+      "name": "Cristur"
+    },
+    {
+      "id": 169285,
+      "name": "Densuş"
+    },
+    {
+      "id": 169286,
+      "name": "Deva"
+    },
+    {
+      "id": 169287,
+      "name": "Dobra"
+    },
+    {
+      "id": 169288,
+      "name": "General Berthelot"
+    },
+    {
+      "id": 169289,
+      "name": "Geoagiu"
+    },
+    {
+      "id": 169290,
+      "name": "Ghelari"
+    },
+    {
+      "id": 169291,
+      "name": "Gurasada"
+    },
+    {
+      "id": 169292,
+      "name": "Hărău"
+    },
+    {
+      "id": 169293,
+      "name": "Hărțăgani"
+    },
+    {
+      "id": 169294,
+      "name": "Haţeg"
+    },
+    {
+      "id": 169295,
+      "name": "Hunedoara"
+    },
+    {
+      "id": 169296,
+      "name": "Ilia"
+    },
+    {
+      "id": 169297,
+      "name": "Iscroni"
+    },
+    {
+      "id": 169298,
+      "name": "Jiu-Paroșeni"
+    },
+    {
+      "id": 169299,
+      "name": "Lăpugiu de Jos"
+    },
+    {
+      "id": 169300,
+      "name": "Lelese"
+    },
+    {
+      "id": 169301,
+      "name": "Lunca Cernii de Jos"
+    },
+    {
+      "id": 169302,
+      "name": "Luncoiu de Jos"
+    },
+    {
+      "id": 169303,
+      "name": "Lupeni"
+    },
+    {
+      "id": 169304,
+      "name": "Mărtineşti"
+    },
+    {
+      "id": 169305,
+      "name": "Municipiul  Lupeni"
+    },
+    {
+      "id": 169306,
+      "name": "Municipiul  Vulcan"
+    },
+    {
+      "id": 169307,
+      "name": "Municipiul Brad"
+    },
+    {
+      "id": 169308,
+      "name": "Municipiul Deva"
+    },
+    {
+      "id": 169309,
+      "name": "Municipiul Hunedoara"
+    },
+    {
+      "id": 169310,
+      "name": "Municipiul Orãştie"
+    },
+    {
+      "id": 169311,
+      "name": "Municipiul Petroşani"
+    },
+    {
+      "id": 169312,
+      "name": "Oraş Aninoasa"
+    },
+    {
+      "id": 169313,
+      "name": "Oraş Cãlan"
+    },
+    {
+      "id": 169314,
+      "name": "Oraş Geoagiu"
+    },
+    {
+      "id": 169315,
+      "name": "Oraş Haţeg"
+    },
+    {
+      "id": 169316,
+      "name": "Oraş Petrila"
+    },
+    {
+      "id": 169317,
+      "name": "Oraş Simeria"
+    },
+    {
+      "id": 169318,
+      "name": "Oraş Uricani"
+    },
+    {
+      "id": 169319,
+      "name": "Orăştie"
+    },
+    {
+      "id": 169320,
+      "name": "Orăştioara de Sus"
+    },
+    {
+      "id": 169321,
+      "name": "Peștișu Mare"
+    },
+    {
+      "id": 169322,
+      "name": "Peştişu Mic"
+    },
+    {
+      "id": 169323,
+      "name": "Petrila"
+    },
+    {
+      "id": 169324,
+      "name": "Petroşani"
+    },
+    {
+      "id": 169325,
+      "name": "Pricaz"
+    },
+    {
+      "id": 169326,
+      "name": "Pui"
+    },
+    {
+      "id": 169327,
+      "name": "Răchitova"
+    },
+    {
+      "id": 169328,
+      "name": "Rapoltu Mare"
+    },
+    {
+      "id": 169329,
+      "name": "Râu de Mori"
+    },
+    {
+      "id": 169330,
+      "name": "Ribiţa"
+    },
+    {
+      "id": 169331,
+      "name": "Romos"
+    },
+    {
+      "id": 169332,
+      "name": "Sălaşu de Sus"
+    },
+    {
+      "id": 169333,
+      "name": "Sântămăria-Orlea"
+    },
+    {
+      "id": 169334,
+      "name": "Sarmizegetusa"
+    },
+    {
+      "id": 169335,
+      "name": "Simeria"
+    },
+    {
+      "id": 169336,
+      "name": "Şoimuş"
+    },
+    {
+      "id": 169337,
+      "name": "Teliucu Inferior"
+    },
+    {
+      "id": 169338,
+      "name": "Tomeşti"
+    },
+    {
+      "id": 169339,
+      "name": "Topliţa"
+    },
+    {
+      "id": 169340,
+      "name": "Toteşti"
+    },
+    {
+      "id": 169341,
+      "name": "Turdaş"
+    },
+    {
+      "id": 169342,
+      "name": "Uricani"
+    },
+    {
+      "id": 169343,
+      "name": "Vălişoara"
+    },
+    {
+      "id": 169344,
+      "name": "Vaţa de Jos"
+    },
+    {
+      "id": 169345,
+      "name": "Veţel"
+    },
+    {
+      "id": 169346,
+      "name": "Vorţa"
+    },
+    {
+      "id": 169347,
+      "name": "Vulcan"
+    },
+    {
+      "id": 169348,
+      "name": "Zam"
+    },
+    {
+      "id": 169349,
+      "name": "Zdrapți"
+    }
+  ]
+}

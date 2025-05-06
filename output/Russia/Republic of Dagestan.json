@@ -1,0 +1,707 @@
+{
+  "id": 6046,
+  "name": "Republic of Dagestan",
+  "state_code": "DA",
+  "cities": [
+    {
+      "id": 176810,
+      "name": "Achisu"
+    },
+    {
+      "id": 176811,
+      "name": "Adil’-Yangiyurt"
+    },
+    {
+      "id": 176812,
+      "name": "Agul’skiy Rayon"
+    },
+    {
+      "id": 176813,
+      "name": "Agvali"
+    },
+    {
+      "id": 176814,
+      "name": "Akhty"
+    },
+    {
+      "id": 176815,
+      "name": "Akhtynskiy Rayon"
+    },
+    {
+      "id": 176816,
+      "name": "Akhvakhskiy Rayon"
+    },
+    {
+      "id": 176817,
+      "name": "Aknada"
+    },
+    {
+      "id": 176818,
+      "name": "Aksay"
+    },
+    {
+      "id": 176819,
+      "name": "Akusha"
+    },
+    {
+      "id": 176820,
+      "name": "Akushinskiy Rayon"
+    },
+    {
+      "id": 176821,
+      "name": "Andi"
+    },
+    {
+      "id": 176822,
+      "name": "Ansalta"
+    },
+    {
+      "id": 176823,
+      "name": "Ashil’ta"
+    },
+    {
+      "id": 176824,
+      "name": "Babayurt"
+    },
+    {
+      "id": 176825,
+      "name": "Babayurtovskiy Rayon"
+    },
+    {
+      "id": 176826,
+      "name": "Bammatyurt"
+    },
+    {
+      "id": 176827,
+      "name": "Bavtugay"
+    },
+    {
+      "id": 176828,
+      "name": "Belidzhi"
+    },
+    {
+      "id": 176829,
+      "name": "Bezhta"
+    },
+    {
+      "id": 176830,
+      "name": "Botashyurt"
+    },
+    {
+      "id": 176831,
+      "name": "Botayurt"
+    },
+    {
+      "id": 176832,
+      "name": "Botlikhskiy Rayon"
+    },
+    {
+      "id": 176833,
+      "name": "Burtunay"
+    },
+    {
+      "id": 176834,
+      "name": "Buynaksk"
+    },
+    {
+      "id": 176835,
+      "name": "Buynakskiy Rayon"
+    },
+    {
+      "id": 176836,
+      "name": "Charodinskiy Rayon"
+    },
+    {
+      "id": 176837,
+      "name": "Chinar"
+    },
+    {
+      "id": 176838,
+      "name": "Chirkey"
+    },
+    {
+      "id": 176839,
+      "name": "Chontaul"
+    },
+    {
+      "id": 176840,
+      "name": "Dagestanskiye Ogni"
+    },
+    {
+      "id": 176841,
+      "name": "Dakhadayevskiy Rayon"
+    },
+    {
+      "id": 176842,
+      "name": "Derbent"
+    },
+    {
+      "id": 176843,
+      "name": "Derbentskiy Rayon"
+    },
+    {
+      "id": 176844,
+      "name": "Dokuzparinskiy Rayon"
+    },
+    {
+      "id": 176845,
+      "name": "Dorgeli"
+    },
+    {
+      "id": 176846,
+      "name": "Druzhba"
+    },
+    {
+      "id": 176847,
+      "name": "Dubki"
+    },
+    {
+      "id": 176848,
+      "name": "Dylym"
+    },
+    {
+      "id": 176849,
+      "name": "Endirey"
+    },
+    {
+      "id": 176850,
+      "name": "Erpeli"
+    },
+    {
+      "id": 176851,
+      "name": "Gagatli"
+    },
+    {
+      "id": 176852,
+      "name": "Gaptsakh"
+    },
+    {
+      "id": 176853,
+      "name": "Gedzhukh"
+    },
+    {
+      "id": 176854,
+      "name": "Gereykhanovskoye"
+    },
+    {
+      "id": 176855,
+      "name": "Gerga"
+    },
+    {
+      "id": 176856,
+      "name": "Gergebil’"
+    },
+    {
+      "id": 176857,
+      "name": "Gergebil’skiy Rayon"
+    },
+    {
+      "id": 176858,
+      "name": "Gimry"
+    },
+    {
+      "id": 176859,
+      "name": "Gubden"
+    },
+    {
+      "id": 176860,
+      "name": "Gumbetovskiy Rayon"
+    },
+    {
+      "id": 176861,
+      "name": "Gunib"
+    },
+    {
+      "id": 176862,
+      "name": "Gunibskiy Rayon"
+    },
+    {
+      "id": 176863,
+      "name": "Gurbuki"
+    },
+    {
+      "id": 176864,
+      "name": "Irganay"
+    },
+    {
+      "id": 176865,
+      "name": "Izberbash"
+    },
+    {
+      "id": 176866,
+      "name": "Kafyr-Kumukh"
+    },
+    {
+      "id": 176867,
+      "name": "Kalininaul"
+    },
+    {
+      "id": 176868,
+      "name": "Karabudakhkent"
+    },
+    {
+      "id": 176869,
+      "name": "Karabudakhkentskiy Rayon"
+    },
+    {
+      "id": 176870,
+      "name": "Karamakhi"
+    },
+    {
+      "id": 176871,
+      "name": "Karata"
+    },
+    {
+      "id": 176872,
+      "name": "Kaspiysk"
+    },
+    {
+      "id": 176873,
+      "name": "Kasumkent"
+    },
+    {
+      "id": 176874,
+      "name": "Kayakent"
+    },
+    {
+      "id": 176875,
+      "name": "Kayakentskiy Rayon"
+    },
+    {
+      "id": 176876,
+      "name": "Kaytagskiy Rayon"
+    },
+    {
+      "id": 176877,
+      "name": "Kazbekovskiy Rayon"
+    },
+    {
+      "id": 176878,
+      "name": "Khadzhalmakhi"
+    },
+    {
+      "id": 176879,
+      "name": "Khamamatyurt"
+    },
+    {
+      "id": 176880,
+      "name": "Khasavyurt"
+    },
+    {
+      "id": 176881,
+      "name": "Khasavyurtovskiy Rayon"
+    },
+    {
+      "id": 176882,
+      "name": "Khazar"
+    },
+    {
+      "id": 176883,
+      "name": "Khebda"
+    },
+    {
+      "id": 176884,
+      "name": "Khiv"
+    },
+    {
+      "id": 176885,
+      "name": "Khivskiy Rayon"
+    },
+    {
+      "id": 176886,
+      "name": "Khuchni"
+    },
+    {
+      "id": 176887,
+      "name": "Khunzakh"
+    },
+    {
+      "id": 176888,
+      "name": "Khunzakhskiy Rayon"
+    },
+    {
+      "id": 176889,
+      "name": "Kishcha"
+    },
+    {
+      "id": 176890,
+      "name": "Kizilyurt"
+    },
+    {
+      "id": 176891,
+      "name": "Kizilyurtovskiy Rayon"
+    },
+    {
+      "id": 176892,
+      "name": "Kizlyar"
+    },
+    {
+      "id": 176893,
+      "name": "Kizlyarskiy Rayon"
+    },
+    {
+      "id": 176894,
+      "name": "Kochubey"
+    },
+    {
+      "id": 176895,
+      "name": "Kokrek"
+    },
+    {
+      "id": 176896,
+      "name": "Komsomol’skiy"
+    },
+    {
+      "id": 176897,
+      "name": "Korkmaskala"
+    },
+    {
+      "id": 176898,
+      "name": "Kostek"
+    },
+    {
+      "id": 176899,
+      "name": "Kubachi"
+    },
+    {
+      "id": 176900,
+      "name": "Kuli"
+    },
+    {
+      "id": 176901,
+      "name": "Kulinskiy Rayon"
+    },
+    {
+      "id": 176902,
+      "name": "Kumukh"
+    },
+    {
+      "id": 176903,
+      "name": "Kurakh"
+    },
+    {
+      "id": 176904,
+      "name": "Kurakhskiy Rayon"
+    },
+    {
+      "id": 176905,
+      "name": "Kurkent"
+    },
+    {
+      "id": 176906,
+      "name": "Kurush"
+    },
+    {
+      "id": 176907,
+      "name": "Kyakhulay"
+    },
+    {
+      "id": 176908,
+      "name": "Lakskiy Rayon"
+    },
+    {
+      "id": 176909,
+      "name": "Leninaul"
+    },
+    {
+      "id": 176910,
+      "name": "Leninkent"
+    },
+    {
+      "id": 176911,
+      "name": "Levashi"
+    },
+    {
+      "id": 176912,
+      "name": "Levashinskiy Rayon"
+    },
+    {
+      "id": 176913,
+      "name": "Lutkun"
+    },
+    {
+      "id": 176914,
+      "name": "Madzhalis"
+    },
+    {
+      "id": 176915,
+      "name": "Magaramkent"
+    },
+    {
+      "id": 176916,
+      "name": "Magaramkentskiy Rayon"
+    },
+    {
+      "id": 176917,
+      "name": "Makhachkala"
+    },
+    {
+      "id": 176918,
+      "name": "Mamedkala"
+    },
+    {
+      "id": 176919,
+      "name": "Manas"
+    },
+    {
+      "id": 176920,
+      "name": "Manaskent"
+    },
+    {
+      "id": 176921,
+      "name": "Miatli"
+    },
+    {
+      "id": 176922,
+      "name": "Miskindzha"
+    },
+    {
+      "id": 176923,
+      "name": "Mugi"
+    },
+    {
+      "id": 176924,
+      "name": "Mutsalaul"
+    },
+    {
+      "id": 176925,
+      "name": "Myurego"
+    },
+    {
+      "id": 176926,
+      "name": "Nizhneye Kazanishche"
+    },
+    {
+      "id": 176927,
+      "name": "Nizhniy Dzhengutay"
+    },
+    {
+      "id": 176928,
+      "name": "Nogayskiy Rayon"
+    },
+    {
+      "id": 176929,
+      "name": "Novaya Maka"
+    },
+    {
+      "id": 176930,
+      "name": "Novogagatli"
+    },
+    {
+      "id": 176931,
+      "name": "Novokayakent"
+    },
+    {
+      "id": 176932,
+      "name": "Novolakskiy Rayon"
+    },
+    {
+      "id": 176933,
+      "name": "Novolakskoye"
+    },
+    {
+      "id": 176934,
+      "name": "Novyy Chirkey"
+    },
+    {
+      "id": 176935,
+      "name": "Novyy Khushet"
+    },
+    {
+      "id": 176936,
+      "name": "Novyy Kostek"
+    },
+    {
+      "id": 176937,
+      "name": "Novyy Sulak"
+    },
+    {
+      "id": 176938,
+      "name": "Nuradilovo"
+    },
+    {
+      "id": 176939,
+      "name": "Paraul"
+    },
+    {
+      "id": 176940,
+      "name": "Pervomayskoye"
+    },
+    {
+      "id": 176941,
+      "name": "Pokrovskoye"
+    },
+    {
+      "id": 176942,
+      "name": "Rutul"
+    },
+    {
+      "id": 176943,
+      "name": "Rutul’skiy Rayon"
+    },
+    {
+      "id": 176944,
+      "name": "Sabnova"
+    },
+    {
+      "id": 176945,
+      "name": "Samur"
+    },
+    {
+      "id": 176946,
+      "name": "Sergokala"
+    },
+    {
+      "id": 176947,
+      "name": "Sergokalinskiy Rayon"
+    },
+    {
+      "id": 176948,
+      "name": "Shamil’kala"
+    },
+    {
+      "id": 176949,
+      "name": "Shamil’skiy Rayon"
+    },
+    {
+      "id": 176950,
+      "name": "Shamkhal"
+    },
+    {
+      "id": 176951,
+      "name": "Shamkhal-Termen"
+    },
+    {
+      "id": 176952,
+      "name": "Siukh"
+    },
+    {
+      "id": 176953,
+      "name": "Solnechnoye"
+    },
+    {
+      "id": 176954,
+      "name": "Sulak"
+    },
+    {
+      "id": 176955,
+      "name": "Suleyman-Stal’skiy Rayon"
+    },
+    {
+      "id": 176956,
+      "name": "Syrtych"
+    },
+    {
+      "id": 176957,
+      "name": "Tabasaranskiy Rayon"
+    },
+    {
+      "id": 176958,
+      "name": "Tarki"
+    },
+    {
+      "id": 176959,
+      "name": "Tarumovka"
+    },
+    {
+      "id": 176960,
+      "name": "Tarumovskiy Rayon"
+    },
+    {
+      "id": 176961,
+      "name": "Temiraul"
+    },
+    {
+      "id": 176962,
+      "name": "Terekli-Mekteb"
+    },
+    {
+      "id": 176963,
+      "name": "Tlyarata"
+    },
+    {
+      "id": 176964,
+      "name": "Tlyaratinskiy Rayon"
+    },
+    {
+      "id": 176965,
+      "name": "Tpig"
+    },
+    {
+      "id": 176966,
+      "name": "Tsumadinskiy Rayon"
+    },
+    {
+      "id": 176967,
+      "name": "Tsuntinskiy Rayon"
+    },
+    {
+      "id": 176968,
+      "name": "Tsurib"
+    },
+    {
+      "id": 176969,
+      "name": "Tyube"
+    },
+    {
+      "id": 176970,
+      "name": "Uchkent"
+    },
+    {
+      "id": 176971,
+      "name": "Ulluaya"
+    },
+    {
+      "id": 176972,
+      "name": "Ullubiyaul"
+    },
+    {
+      "id": 176973,
+      "name": "Untsukul’"
+    },
+    {
+      "id": 176974,
+      "name": "Untsukul’skiy Rayon"
+    },
+    {
+      "id": 176975,
+      "name": "Urkarakh"
+    },
+    {
+      "id": 176976,
+      "name": "Urma"
+    },
+    {
+      "id": 176977,
+      "name": "Usisha"
+    },
+    {
+      "id": 176978,
+      "name": "Usukhchay"
+    },
+    {
+      "id": 176979,
+      "name": "Utamysh"
+    },
+    {
+      "id": 176980,
+      "name": "Utsmiyurt"
+    },
+    {
+      "id": 176981,
+      "name": "Velikent"
+    },
+    {
+      "id": 176982,
+      "name": "Verkhneye Kazanishche"
+    },
+    {
+      "id": 176983,
+      "name": "Yuzhno-Sukhokumsk"
+    },
+    {
+      "id": 176984,
+      "name": "Zubutli-Miatli"
+    }
+  ]
+}

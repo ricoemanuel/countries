@@ -1,0 +1,403 @@
+{
+  "id": 5591,
+  "name": "Vestland",
+  "state_code": "46",
+  "cities": [
+    {
+      "id": 152179,
+      "name": "Ågotnes"
+    },
+    {
+      "id": 152180,
+      "name": "Årdal"
+    },
+    {
+      "id": 152181,
+      "name": "Årdalstangen"
+    },
+    {
+      "id": 152182,
+      "name": "Askøy"
+    },
+    {
+      "id": 152183,
+      "name": "Askvoll"
+    },
+    {
+      "id": 152184,
+      "name": "Aurland"
+    },
+    {
+      "id": 152185,
+      "name": "Austevoll"
+    },
+    {
+      "id": 152186,
+      "name": "Austrheim"
+    },
+    {
+      "id": 152187,
+      "name": "Balestrand"
+    },
+    {
+      "id": 152188,
+      "name": "Bergen"
+    },
+    {
+      "id": 152189,
+      "name": "Bømlo"
+    },
+    {
+      "id": 152190,
+      "name": "Bremanger"
+    },
+    {
+      "id": 152191,
+      "name": "Dale"
+    },
+    {
+      "id": 152192,
+      "name": "Eid"
+    },
+    {
+      "id": 152193,
+      "name": "Eidfjord"
+    },
+    {
+      "id": 152194,
+      "name": "Eikelandsosen"
+    },
+    {
+      "id": 152195,
+      "name": "Eivindvik"
+    },
+    {
+      "id": 152196,
+      "name": "Espeland"
+    },
+    {
+      "id": 152197,
+      "name": "Etne"
+    },
+    {
+      "id": 152198,
+      "name": "Farnes"
+    },
+    {
+      "id": 152199,
+      "name": "Fedje"
+    },
+    {
+      "id": 152200,
+      "name": "Fitjar"
+    },
+    {
+      "id": 152201,
+      "name": "Fjaler"
+    },
+    {
+      "id": 152202,
+      "name": "Fjell"
+    },
+    {
+      "id": 152203,
+      "name": "Flora"
+    },
+    {
+      "id": 152204,
+      "name": "Florø"
+    },
+    {
+      "id": 152205,
+      "name": "Førde"
+    },
+    {
+      "id": 152206,
+      "name": "Frekhaug"
+    },
+    {
+      "id": 152207,
+      "name": "Fusa"
+    },
+    {
+      "id": 152208,
+      "name": "Gaular"
+    },
+    {
+      "id": 152209,
+      "name": "Gaupne"
+    },
+    {
+      "id": 152210,
+      "name": "Gloppen"
+    },
+    {
+      "id": 152211,
+      "name": "Granvin"
+    },
+    {
+      "id": 152212,
+      "name": "Gulen"
+    },
+    {
+      "id": 152213,
+      "name": "Hagavik"
+    },
+    {
+      "id": 152214,
+      "name": "Hardbakke"
+    },
+    {
+      "id": 152215,
+      "name": "Hermansverk"
+    },
+    {
+      "id": 152216,
+      "name": "Hornindal"
+    },
+    {
+      "id": 152217,
+      "name": "Høyanger"
+    },
+    {
+      "id": 152218,
+      "name": "Hylkje"
+    },
+    {
+      "id": 152219,
+      "name": "Hyllestad"
+    },
+    {
+      "id": 152220,
+      "name": "Indre Arna"
+    },
+    {
+      "id": 152221,
+      "name": "Jondal"
+    },
+    {
+      "id": 152222,
+      "name": "Jølster"
+    },
+    {
+      "id": 152223,
+      "name": "Kinsarvik"
+    },
+    {
+      "id": 152224,
+      "name": "Knappskog"
+    },
+    {
+      "id": 152225,
+      "name": "Knarvik"
+    },
+    {
+      "id": 152226,
+      "name": "Kvam"
+    },
+    {
+      "id": 152227,
+      "name": "Kvinnherad"
+    },
+    {
+      "id": 152228,
+      "name": "Lærdal"
+    },
+    {
+      "id": 152229,
+      "name": "Lærdalsøyri"
+    },
+    {
+      "id": 152230,
+      "name": "Leikanger"
+    },
+    {
+      "id": 152231,
+      "name": "Leirvik"
+    },
+    {
+      "id": 152232,
+      "name": "Lindås"
+    },
+    {
+      "id": 152233,
+      "name": "Lonevåg"
+    },
+    {
+      "id": 152234,
+      "name": "Luster"
+    },
+    {
+      "id": 152235,
+      "name": "Måløy"
+    },
+    {
+      "id": 152236,
+      "name": "Manger"
+    },
+    {
+      "id": 152237,
+      "name": "Masfjorden"
+    },
+    {
+      "id": 152238,
+      "name": "Meland"
+    },
+    {
+      "id": 152239,
+      "name": "Modalen"
+    },
+    {
+      "id": 152240,
+      "name": "Mosterhamn"
+    },
+    {
+      "id": 152241,
+      "name": "Naustdal"
+    },
+    {
+      "id": 152242,
+      "name": "Nordfjordeid"
+    },
+    {
+      "id": 152243,
+      "name": "Norheimsund"
+    },
+    {
+      "id": 152244,
+      "name": "Odda"
+    },
+    {
+      "id": 152245,
+      "name": "Os"
+    },
+    {
+      "id": 152246,
+      "name": "Osterøy"
+    },
+    {
+      "id": 152247,
+      "name": "Øygarden"
+    },
+    {
+      "id": 152248,
+      "name": "Øystese"
+    },
+    {
+      "id": 152249,
+      "name": "Radøy"
+    },
+    {
+      "id": 152250,
+      "name": "Rosendal"
+    },
+    {
+      "id": 152251,
+      "name": "Rubbestadneset"
+    },
+    {
+      "id": 152252,
+      "name": "Sagvåg"
+    },
+    {
+      "id": 152253,
+      "name": "Samnanger"
+    },
+    {
+      "id": 152254,
+      "name": "Sandane"
+    },
+    {
+      "id": 152255,
+      "name": "Sande"
+    },
+    {
+      "id": 152256,
+      "name": "Sandsli"
+    },
+    {
+      "id": 152257,
+      "name": "Selje"
+    },
+    {
+      "id": 152258,
+      "name": "Skogsvågen"
+    },
+    {
+      "id": 152259,
+      "name": "Sogndal"
+    },
+    {
+      "id": 152260,
+      "name": "Solund"
+    },
+    {
+      "id": 152261,
+      "name": "Stord"
+    },
+    {
+      "id": 152262,
+      "name": "Storebø"
+    },
+    {
+      "id": 152263,
+      "name": "Straume"
+    },
+    {
+      "id": 152264,
+      "name": "Stryn"
+    },
+    {
+      "id": 152265,
+      "name": "Sund"
+    },
+    {
+      "id": 152266,
+      "name": "Sveio"
+    },
+    {
+      "id": 152267,
+      "name": "Svelgen"
+    },
+    {
+      "id": 152268,
+      "name": "Syfteland"
+    },
+    {
+      "id": 152269,
+      "name": "Tysnes"
+    },
+    {
+      "id": 152270,
+      "name": "Ullensvang"
+    },
+    {
+      "id": 152271,
+      "name": "Ulvik"
+    },
+    {
+      "id": 152272,
+      "name": "Vågsøy"
+    },
+    {
+      "id": 152273,
+      "name": "Vaksdal"
+    },
+    {
+      "id": 152274,
+      "name": "Vik"
+    },
+    {
+      "id": 152275,
+      "name": "Voss"
+    },
+    {
+      "id": 152276,
+      "name": "Ytre Arna"
+    },
+    {
+      "id": 152277,
+      "name": "Ytrebygda"
+    }
+  ]
+}

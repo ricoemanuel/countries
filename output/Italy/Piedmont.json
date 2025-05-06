@@ -1,0 +1,5163 @@
+{
+  "id": 4433,
+  "name": "Piedmont",
+  "state_code": "21",
+  "cities": [
+    {
+      "id": 130528,
+      "name": "Acceglio"
+    },
+    {
+      "id": 130529,
+      "name": "Acqui Terme"
+    },
+    {
+      "id": 130530,
+      "name": "Agliano"
+    },
+    {
+      "id": 130531,
+      "name": "Agliano Terme"
+    },
+    {
+      "id": 130532,
+      "name": "Agliè"
+    },
+    {
+      "id": 130533,
+      "name": "Agrate"
+    },
+    {
+      "id": 130534,
+      "name": "Agrate Conturbia"
+    },
+    {
+      "id": 130535,
+      "name": "Ailoche"
+    },
+    {
+      "id": 130536,
+      "name": "Airali"
+    },
+    {
+      "id": 130537,
+      "name": "Airasca"
+    },
+    {
+      "id": 130538,
+      "name": "Aisone"
+    },
+    {
+      "id": 130539,
+      "name": "Ala di Stura"
+    },
+    {
+      "id": 130540,
+      "name": "Alagna Valsesia"
+    },
+    {
+      "id": 130541,
+      "name": "Alba"
+    },
+    {
+      "id": 130542,
+      "name": "Albano Vercellese"
+    },
+    {
+      "id": 130543,
+      "name": "Albaretto della Torre"
+    },
+    {
+      "id": 130544,
+      "name": "Albera Ligure"
+    },
+    {
+      "id": 130545,
+      "name": "Albiano d'Ivrea"
+    },
+    {
+      "id": 130546,
+      "name": "Albugnano"
+    },
+    {
+      "id": 130547,
+      "name": "Alessandria"
+    },
+    {
+      "id": 130548,
+      "name": "Alfiano Natta"
+    },
+    {
+      "id": 130549,
+      "name": "Alice Bel Colle"
+    },
+    {
+      "id": 130550,
+      "name": "Alice Castello"
+    },
+    {
+      "id": 130551,
+      "name": "Alice Superiore"
+    },
+    {
+      "id": 130552,
+      "name": "Almese-Rivera"
+    },
+    {
+      "id": 130553,
+      "name": "Alpette"
+    },
+    {
+      "id": 130554,
+      "name": "Alpignano"
+    },
+    {
+      "id": 130555,
+      "name": "Altavilla Monferrato"
+    },
+    {
+      "id": 130556,
+      "name": "Alto"
+    },
+    {
+      "id": 130557,
+      "name": "Alzano Scrivia"
+    },
+    {
+      "id": 130558,
+      "name": "Ameno"
+    },
+    {
+      "id": 130559,
+      "name": "Andezeno"
+    },
+    {
+      "id": 130560,
+      "name": "Andorno Cacciorna"
+    },
+    {
+      "id": 130561,
+      "name": "Andrate"
+    },
+    {
+      "id": 130562,
+      "name": "Angrogna"
+    },
+    {
+      "id": 130563,
+      "name": "Antignano"
+    },
+    {
+      "id": 130564,
+      "name": "Antronapiana"
+    },
+    {
+      "id": 130565,
+      "name": "Anzola d'Ossola"
+    },
+    {
+      "id": 130566,
+      "name": "Aramengo"
+    },
+    {
+      "id": 130567,
+      "name": "Arborio"
+    },
+    {
+      "id": 130568,
+      "name": "Arguello"
+    },
+    {
+      "id": 130569,
+      "name": "Arignano"
+    },
+    {
+      "id": 130570,
+      "name": "Arizzano"
+    },
+    {
+      "id": 130571,
+      "name": "Armeno"
+    },
+    {
+      "id": 130572,
+      "name": "Arola"
+    },
+    {
+      "id": 130573,
+      "name": "Arona"
+    },
+    {
+      "id": 130574,
+      "name": "Arquata Scrivia"
+    },
+    {
+      "id": 130575,
+      "name": "Asigliano Vercellese"
+    },
+    {
+      "id": 130576,
+      "name": "Asti"
+    },
+    {
+      "id": 130577,
+      "name": "Aurano"
+    },
+    {
+      "id": 130578,
+      "name": "Avigliana"
+    },
+    {
+      "id": 130579,
+      "name": "Avolasca"
+    },
+    {
+      "id": 130580,
+      "name": "Azeglio"
+    },
+    {
+      "id": 130581,
+      "name": "Azzano d'Asti"
+    },
+    {
+      "id": 130582,
+      "name": "Baceno"
+    },
+    {
+      "id": 130583,
+      "name": "Bagnasco"
+    },
+    {
+      "id": 130584,
+      "name": "Bagnolo Piemonte"
+    },
+    {
+      "id": 130585,
+      "name": "Bairo"
+    },
+    {
+      "id": 130586,
+      "name": "Balangero"
+    },
+    {
+      "id": 130587,
+      "name": "Baldichieri d'Asti"
+    },
+    {
+      "id": 130588,
+      "name": "Baldissero Canavese"
+    },
+    {
+      "id": 130589,
+      "name": "Baldissero d'Alba"
+    },
+    {
+      "id": 130590,
+      "name": "Baldissero Torinese"
+    },
+    {
+      "id": 130591,
+      "name": "Balme"
+    },
+    {
+      "id": 130592,
+      "name": "Balmuccia"
+    },
+    {
+      "id": 130593,
+      "name": "Balocco"
+    },
+    {
+      "id": 130594,
+      "name": "Balzola"
+    },
+    {
+      "id": 130595,
+      "name": "Banchette"
+    },
+    {
+      "id": 130596,
+      "name": "Bandito"
+    },
+    {
+      "id": 130597,
+      "name": "Bannio"
+    },
+    {
+      "id": 130598,
+      "name": "Baratte"
+    },
+    {
+      "id": 130599,
+      "name": "Barbania"
+    },
+    {
+      "id": 130600,
+      "name": "Barbaresco"
+    },
+    {
+      "id": 130601,
+      "name": "Bardonecchia"
+    },
+    {
+      "id": 130602,
+      "name": "Barengo"
+    },
+    {
+      "id": 130603,
+      "name": "Barge"
+    },
+    {
+      "id": 130604,
+      "name": "Barolo"
+    },
+    {
+      "id": 130605,
+      "name": "Barone Canavese"
+    },
+    {
+      "id": 130606,
+      "name": "Barquedo"
+    },
+    {
+      "id": 130607,
+      "name": "Basaluzzo"
+    },
+    {
+      "id": 130608,
+      "name": "Bassignana"
+    },
+    {
+      "id": 130609,
+      "name": "Bastia Mondovì"
+    },
+    {
+      "id": 130610,
+      "name": "Battifollo"
+    },
+    {
+      "id": 130611,
+      "name": "Baveno"
+    },
+    {
+      "id": 130612,
+      "name": "Bee"
+    },
+    {
+      "id": 130613,
+      "name": "Beinasco"
+    },
+    {
+      "id": 130614,
+      "name": "Beinette"
+    },
+    {
+      "id": 130615,
+      "name": "Belforte Monferrato"
+    },
+    {
+      "id": 130616,
+      "name": "Belgirate"
+    },
+    {
+      "id": 130617,
+      "name": "Bellinzago Novarese"
+    },
+    {
+      "id": 130618,
+      "name": "Belvedere Langhe"
+    },
+    {
+      "id": 130619,
+      "name": "Belveglio"
+    },
+    {
+      "id": 130620,
+      "name": "Bene Vagienna"
+    },
+    {
+      "id": 130621,
+      "name": "Benevello"
+    },
+    {
+      "id": 130622,
+      "name": "Benna"
+    },
+    {
+      "id": 130623,
+      "name": "Bergamasco"
+    },
+    {
+      "id": 130624,
+      "name": "Bergolo"
+    },
+    {
+      "id": 130625,
+      "name": "Bernezzo"
+    },
+    {
+      "id": 130626,
+      "name": "Bersezio"
+    },
+    {
+      "id": 130627,
+      "name": "Berzano di San Pietro"
+    },
+    {
+      "id": 130628,
+      "name": "Berzano di Tortona"
+    },
+    {
+      "id": 130629,
+      "name": "Beura"
+    },
+    {
+      "id": 130630,
+      "name": "Biandrate"
+    },
+    {
+      "id": 130631,
+      "name": "Bianzè"
+    },
+    {
+      "id": 130632,
+      "name": "Bibiana"
+    },
+    {
+      "id": 130633,
+      "name": "Biella"
+    },
+    {
+      "id": 130634,
+      "name": "Bioglio-Portula-Andrè"
+    },
+    {
+      "id": 130635,
+      "name": "Bistagno"
+    },
+    {
+      "id": 130636,
+      "name": "Bobbio Pellice"
+    },
+    {
+      "id": 130637,
+      "name": "Boca"
+    },
+    {
+      "id": 130638,
+      "name": "Boccioleto"
+    },
+    {
+      "id": 130639,
+      "name": "Bogogno"
+    },
+    {
+      "id": 130640,
+      "name": "Bollengo"
+    },
+    {
+      "id": 130641,
+      "name": "Bolzano Novarese"
+    },
+    {
+      "id": 130642,
+      "name": "Bonvicino"
+    },
+    {
+      "id": 130643,
+      "name": "Borgaro Torinese"
+    },
+    {
+      "id": 130644,
+      "name": "Borghetto di Borbera"
+    },
+    {
+      "id": 130645,
+      "name": "Borgiallo"
+    },
+    {
+      "id": 130646,
+      "name": "Borgo"
+    },
+    {
+      "id": 130647,
+      "name": "Borgo d'Ale"
+    },
+    {
+      "id": 130648,
+      "name": "Borgo Melano"
+    },
+    {
+      "id": 130649,
+      "name": "Borgo San Dalmazzo"
+    },
+    {
+      "id": 130650,
+      "name": "Borgo San Martino"
+    },
+    {
+      "id": 130651,
+      "name": "Borgo Ticino"
+    },
+    {
+      "id": 130652,
+      "name": "Borgo Vercelli"
+    },
+    {
+      "id": 130653,
+      "name": "Borgofranco d'Ivrea"
+    },
+    {
+      "id": 130654,
+      "name": "Borgolavezzaro"
+    },
+    {
+      "id": 130655,
+      "name": "Borgomale"
+    },
+    {
+      "id": 130656,
+      "name": "Borgomanero"
+    },
+    {
+      "id": 130657,
+      "name": "Borgomasino"
+    },
+    {
+      "id": 130658,
+      "name": "Borgone Susa"
+    },
+    {
+      "id": 130659,
+      "name": "Borgoratto Alessandrino"
+    },
+    {
+      "id": 130660,
+      "name": "Borgosesia"
+    },
+    {
+      "id": 130661,
+      "name": "Borriana"
+    },
+    {
+      "id": 130662,
+      "name": "Bosco Marengo"
+    },
+    {
+      "id": 130663,
+      "name": "Bosconero"
+    },
+    {
+      "id": 130664,
+      "name": "Bosia"
+    },
+    {
+      "id": 130665,
+      "name": "Bosio"
+    },
+    {
+      "id": 130666,
+      "name": "Bossolasco"
+    },
+    {
+      "id": 130667,
+      "name": "Boves"
+    },
+    {
+      "id": 130668,
+      "name": "Bozzole"
+    },
+    {
+      "id": 130669,
+      "name": "Bra"
+    },
+    {
+      "id": 130670,
+      "name": "Brandizzo"
+    },
+    {
+      "id": 130671,
+      "name": "Breia"
+    },
+    {
+      "id": 130672,
+      "name": "Breo"
+    },
+    {
+      "id": 130673,
+      "name": "Briaglia"
+    },
+    {
+      "id": 130674,
+      "name": "Bricco di Neive"
+    },
+    {
+      "id": 130675,
+      "name": "Bricherasio"
+    },
+    {
+      "id": 130676,
+      "name": "Briga Alta"
+    },
+    {
+      "id": 130677,
+      "name": "Briga Novarese"
+    },
+    {
+      "id": 130678,
+      "name": "Brignano"
+    },
+    {
+      "id": 130679,
+      "name": "Briona"
+    },
+    {
+      "id": 130680,
+      "name": "Brondello"
+    },
+    {
+      "id": 130681,
+      "name": "Brossasco"
+    },
+    {
+      "id": 130682,
+      "name": "Brosso"
+    },
+    {
+      "id": 130683,
+      "name": "Brovello"
+    },
+    {
+      "id": 130684,
+      "name": "Brovello-Carpugnino"
+    },
+    {
+      "id": 130685,
+      "name": "Brozolo"
+    },
+    {
+      "id": 130686,
+      "name": "Bruino"
+    },
+    {
+      "id": 130687,
+      "name": "Bruno"
+    },
+    {
+      "id": 130688,
+      "name": "Brusasco"
+    },
+    {
+      "id": 130689,
+      "name": "Brusnengo"
+    },
+    {
+      "id": 130690,
+      "name": "Bruzolo"
+    },
+    {
+      "id": 130691,
+      "name": "Bubbio"
+    },
+    {
+      "id": 130692,
+      "name": "Buriasco"
+    },
+    {
+      "id": 130693,
+      "name": "Burolo"
+    },
+    {
+      "id": 130694,
+      "name": "Buronzo"
+    },
+    {
+      "id": 130695,
+      "name": "Busano"
+    },
+    {
+      "id": 130696,
+      "name": "Busca"
+    },
+    {
+      "id": 130697,
+      "name": "Bussoleno"
+    },
+    {
+      "id": 130698,
+      "name": "Buttigliera Alta"
+    },
+    {
+      "id": 130699,
+      "name": "Buttigliera d'Asti"
+    },
+    {
+      "id": 130700,
+      "name": "Cabella Ligure"
+    },
+    {
+      "id": 130701,
+      "name": "Cafasse"
+    },
+    {
+      "id": 130702,
+      "name": "Calamandrana"
+    },
+    {
+      "id": 130703,
+      "name": "Calasca-Castiglione"
+    },
+    {
+      "id": 130704,
+      "name": "Callabiana - Chiesa"
+    },
+    {
+      "id": 130705,
+      "name": "Calliano"
+    },
+    {
+      "id": 130706,
+      "name": "Calosso"
+    },
+    {
+      "id": 130707,
+      "name": "Caltignaga"
+    },
+    {
+      "id": 130708,
+      "name": "Caluso"
+    },
+    {
+      "id": 130709,
+      "name": "Camagna Monferrato"
+    },
+    {
+      "id": 130710,
+      "name": "Camandona"
+    },
+    {
+      "id": 130711,
+      "name": "Cambiano"
+    },
+    {
+      "id": 130712,
+      "name": "Cambiasca"
+    },
+    {
+      "id": 130713,
+      "name": "Camburzano"
+    },
+    {
+      "id": 130714,
+      "name": "Camerana"
+    },
+    {
+      "id": 130715,
+      "name": "Camerano"
+    },
+    {
+      "id": 130716,
+      "name": "Camerano Casasco"
+    },
+    {
+      "id": 130717,
+      "name": "Cameri"
+    },
+    {
+      "id": 130718,
+      "name": "Camino"
+    },
+    {
+      "id": 130719,
+      "name": "Camo"
+    },
+    {
+      "id": 130720,
+      "name": "Campertogno"
+    },
+    {
+      "id": 130721,
+      "name": "Campiglia Cervo"
+    },
+    {
+      "id": 130722,
+      "name": "Campiglione"
+    },
+    {
+      "id": 130723,
+      "name": "Campomolino"
+    },
+    {
+      "id": 130724,
+      "name": "Canale"
+    },
+    {
+      "id": 130725,
+      "name": "Candelo"
+    },
+    {
+      "id": 130726,
+      "name": "Candia Canavese"
+    },
+    {
+      "id": 130727,
+      "name": "Candiolo"
+    },
+    {
+      "id": 130728,
+      "name": "Canelli"
+    },
+    {
+      "id": 130729,
+      "name": "Canischio"
+    },
+    {
+      "id": 130730,
+      "name": "Cannero Riviera"
+    },
+    {
+      "id": 130731,
+      "name": "Cannobio"
+    },
+    {
+      "id": 130732,
+      "name": "Canosio"
+    },
+    {
+      "id": 130733,
+      "name": "Cantalupa"
+    },
+    {
+      "id": 130734,
+      "name": "Cantalupo Ligure"
+    },
+    {
+      "id": 130735,
+      "name": "Cantarana"
+    },
+    {
+      "id": 130736,
+      "name": "Cantoira"
+    },
+    {
+      "id": 130737,
+      "name": "Caprauna"
+    },
+    {
+      "id": 130738,
+      "name": "Caprezzo"
+    },
+    {
+      "id": 130739,
+      "name": "Capriata d'Orba"
+    },
+    {
+      "id": 130740,
+      "name": "Caprie"
+    },
+    {
+      "id": 130741,
+      "name": "Capriglio"
+    },
+    {
+      "id": 130742,
+      "name": "Caraglio"
+    },
+    {
+      "id": 130743,
+      "name": "Caramagna Piemonte"
+    },
+    {
+      "id": 130744,
+      "name": "Caravino"
+    },
+    {
+      "id": 130745,
+      "name": "Carbonara Scrivia"
+    },
+    {
+      "id": 130746,
+      "name": "Carcoforo"
+    },
+    {
+      "id": 130747,
+      "name": "Cardè"
+    },
+    {
+      "id": 130748,
+      "name": "Carema"
+    },
+    {
+      "id": 130749,
+      "name": "Carentino"
+    },
+    {
+      "id": 130750,
+      "name": "Caresana"
+    },
+    {
+      "id": 130751,
+      "name": "Caresanablot"
+    },
+    {
+      "id": 130752,
+      "name": "Carezzano Maggiore"
+    },
+    {
+      "id": 130753,
+      "name": "Carignano"
+    },
+    {
+      "id": 130754,
+      "name": "Carisio"
+    },
+    {
+      "id": 130755,
+      "name": "Carmagnola"
+    },
+    {
+      "id": 130756,
+      "name": "Carpeneto"
+    },
+    {
+      "id": 130757,
+      "name": "Carpignano Sesia"
+    },
+    {
+      "id": 130758,
+      "name": "Carrega Ligure"
+    },
+    {
+      "id": 130759,
+      "name": "Carrosio"
+    },
+    {
+      "id": 130760,
+      "name": "Carrù"
+    },
+    {
+      "id": 130761,
+      "name": "Cartignano"
+    },
+    {
+      "id": 130762,
+      "name": "Cartosio"
+    },
+    {
+      "id": 130763,
+      "name": "Casal Cermelli"
+    },
+    {
+      "id": 130764,
+      "name": "Casalbeltrame"
+    },
+    {
+      "id": 130765,
+      "name": "Casalborgone"
+    },
+    {
+      "id": 130766,
+      "name": "Casale Corte Cerro"
+    },
+    {
+      "id": 130767,
+      "name": "Casale Monferrato"
+    },
+    {
+      "id": 130768,
+      "name": "Casaleggio Boiro"
+    },
+    {
+      "id": 130769,
+      "name": "Casaleggio Novara"
+    },
+    {
+      "id": 130770,
+      "name": "Casalgrasso"
+    },
+    {
+      "id": 130771,
+      "name": "Casalino"
+    },
+    {
+      "id": 130772,
+      "name": "Casalnoceto"
+    },
+    {
+      "id": 130773,
+      "name": "Casalvolone"
+    },
+    {
+      "id": 130774,
+      "name": "Casanova Elvo"
+    },
+    {
+      "id": 130775,
+      "name": "Casapinta"
+    },
+    {
+      "id": 130776,
+      "name": "Casasco"
+    },
+    {
+      "id": 130777,
+      "name": "Cascinette d'Ivrea"
+    },
+    {
+      "id": 130778,
+      "name": "Caselette"
+    },
+    {
+      "id": 130779,
+      "name": "Caselle Torinese"
+    },
+    {
+      "id": 130780,
+      "name": "Casorzo"
+    },
+    {
+      "id": 130781,
+      "name": "Cassano Spinola"
+    },
+    {
+      "id": 130782,
+      "name": "Cassinasco"
+    },
+    {
+      "id": 130783,
+      "name": "Cassine"
+    },
+    {
+      "id": 130784,
+      "name": "Cassinelle-Concentrico"
+    },
+    {
+      "id": 130785,
+      "name": "Castagneto Po"
+    },
+    {
+      "id": 130786,
+      "name": "Castagnito"
+    },
+    {
+      "id": 130787,
+      "name": "Castagnole delle Lanze"
+    },
+    {
+      "id": 130788,
+      "name": "Castagnole Monferrato"
+    },
+    {
+      "id": 130789,
+      "name": "Castagnole Piemonte"
+    },
+    {
+      "id": 130790,
+      "name": "Castel Boglione"
+    },
+    {
+      "id": 130791,
+      "name": "Castel Rocchero"
+    },
+    {
+      "id": 130792,
+      "name": "Castelceriolo"
+    },
+    {
+      "id": 130793,
+      "name": "Casteldelfino"
+    },
+    {
+      "id": 130794,
+      "name": "Castell'Alfero"
+    },
+    {
+      "id": 130795,
+      "name": "Castellamonte"
+    },
+    {
+      "id": 130796,
+      "name": "Castellania"
+    },
+    {
+      "id": 130797,
+      "name": "Castellar"
+    },
+    {
+      "id": 130798,
+      "name": "Castellar Guidobono"
+    },
+    {
+      "id": 130799,
+      "name": "Castellazzo Bormida"
+    },
+    {
+      "id": 130800,
+      "name": "Castellazzo Novarese"
+    },
+    {
+      "id": 130801,
+      "name": "Castellero"
+    },
+    {
+      "id": 130802,
+      "name": "Castelletto Cervo"
+    },
+    {
+      "id": 130803,
+      "name": "Castelletto d'Erro"
+    },
+    {
+      "id": 130804,
+      "name": "Castelletto d'Orba"
+    },
+    {
+      "id": 130805,
+      "name": "Castelletto Merli"
+    },
+    {
+      "id": 130806,
+      "name": "Castelletto Molina"
+    },
+    {
+      "id": 130807,
+      "name": "Castelletto Monferrato"
+    },
+    {
+      "id": 130808,
+      "name": "Castelletto Sopra Ticino"
+    },
+    {
+      "id": 130809,
+      "name": "Castelletto Stura"
+    },
+    {
+      "id": 130810,
+      "name": "Castelletto Uzzone"
+    },
+    {
+      "id": 130811,
+      "name": "Castellinaldo"
+    },
+    {
+      "id": 130812,
+      "name": "Castellino Tanaro"
+    },
+    {
+      "id": 130813,
+      "name": "Castello di Annone"
+    },
+    {
+      "id": 130814,
+      "name": "Castelnuovo Belbo"
+    },
+    {
+      "id": 130815,
+      "name": "Castelnuovo Bormida"
+    },
+    {
+      "id": 130816,
+      "name": "Castelnuovo Calcea"
+    },
+    {
+      "id": 130817,
+      "name": "Castelnuovo di Ceva"
+    },
+    {
+      "id": 130818,
+      "name": "Castelnuovo Don Bosco"
+    },
+    {
+      "id": 130819,
+      "name": "Castelnuovo Nigra"
+    },
+    {
+      "id": 130820,
+      "name": "Castelnuovo Scrivia"
+    },
+    {
+      "id": 130821,
+      "name": "Castelspina"
+    },
+    {
+      "id": 130822,
+      "name": "Castiglione Falletto"
+    },
+    {
+      "id": 130823,
+      "name": "Castiglione Tinella"
+    },
+    {
+      "id": 130824,
+      "name": "Castiglione Torinese"
+    },
+    {
+      "id": 130825,
+      "name": "Castino"
+    },
+    {
+      "id": 130826,
+      "name": "Cavaglià"
+    },
+    {
+      "id": 130827,
+      "name": "Cavaglietto"
+    },
+    {
+      "id": 130828,
+      "name": "Cavaglio D'Agogna"
+    },
+    {
+      "id": 130829,
+      "name": "Cavaglio-Spoccia"
+    },
+    {
+      "id": 130830,
+      "name": "Cavagnolo"
+    },
+    {
+      "id": 130831,
+      "name": "Cavallerleone"
+    },
+    {
+      "id": 130832,
+      "name": "Cavallermaggiore"
+    },
+    {
+      "id": 130833,
+      "name": "Cavallirio"
+    },
+    {
+      "id": 130834,
+      "name": "Cavatore"
+    },
+    {
+      "id": 130835,
+      "name": "Cavour"
+    },
+    {
+      "id": 130836,
+      "name": "Cella Monte"
+    },
+    {
+      "id": 130837,
+      "name": "Cellarengo"
+    },
+    {
+      "id": 130838,
+      "name": "Celle Enomondo"
+    },
+    {
+      "id": 130839,
+      "name": "Cellio"
+    },
+    {
+      "id": 130840,
+      "name": "Centallo"
+    },
+    {
+      "id": 130841,
+      "name": "Ceppo Morelli"
+    },
+    {
+      "id": 130842,
+      "name": "Cerano"
+    },
+    {
+      "id": 130843,
+      "name": "Cercenasco"
+    },
+    {
+      "id": 130844,
+      "name": "Ceres"
+    },
+    {
+      "id": 130845,
+      "name": "Ceresane-Curanuova"
+    },
+    {
+      "id": 130846,
+      "name": "Cereseto"
+    },
+    {
+      "id": 130847,
+      "name": "Ceresole Alba"
+    },
+    {
+      "id": 130848,
+      "name": "Ceresole Reale"
+    },
+    {
+      "id": 130849,
+      "name": "Cerreto Castello"
+    },
+    {
+      "id": 130850,
+      "name": "Cerreto d'Asti"
+    },
+    {
+      "id": 130851,
+      "name": "Cerreto Grue"
+    },
+    {
+      "id": 130852,
+      "name": "Cerreto Langhe"
+    },
+    {
+      "id": 130853,
+      "name": "Cerrina"
+    },
+    {
+      "id": 130854,
+      "name": "Cerrione"
+    },
+    {
+      "id": 130855,
+      "name": "Cerro Tanaro"
+    },
+    {
+      "id": 130856,
+      "name": "Cervasca"
+    },
+    {
+      "id": 130857,
+      "name": "Cervatto"
+    },
+    {
+      "id": 130858,
+      "name": "Cervere"
+    },
+    {
+      "id": 130859,
+      "name": "Cesana Torinese"
+    },
+    {
+      "id": 130860,
+      "name": "Cesara"
+    },
+    {
+      "id": 130861,
+      "name": "Cessole"
+    },
+    {
+      "id": 130862,
+      "name": "Ceva"
+    },
+    {
+      "id": 130863,
+      "name": "Cherasco"
+    },
+    {
+      "id": 130864,
+      "name": "Chialamberto"
+    },
+    {
+      "id": 130865,
+      "name": "Chianocco"
+    },
+    {
+      "id": 130866,
+      "name": "Chiaverano"
+    },
+    {
+      "id": 130867,
+      "name": "Chieri"
+    },
+    {
+      "id": 130868,
+      "name": "Chiesa di Macra"
+    },
+    {
+      "id": 130869,
+      "name": "Chiesanuova"
+    },
+    {
+      "id": 130870,
+      "name": "Chiomonte"
+    },
+    {
+      "id": 130871,
+      "name": "Chiusa di Pesio"
+    },
+    {
+      "id": 130872,
+      "name": "Chiusa di San Michele"
+    },
+    {
+      "id": 130873,
+      "name": "Chiusano d'Asti"
+    },
+    {
+      "id": 130874,
+      "name": "Chivasso"
+    },
+    {
+      "id": 130875,
+      "name": "Ciconio"
+    },
+    {
+      "id": 130876,
+      "name": "Cigliano"
+    },
+    {
+      "id": 130877,
+      "name": "Cigliè"
+    },
+    {
+      "id": 130878,
+      "name": "Cinaglio"
+    },
+    {
+      "id": 130879,
+      "name": "Cintano"
+    },
+    {
+      "id": 130880,
+      "name": "Cinzano"
+    },
+    {
+      "id": 130881,
+      "name": "Ciriè"
+    },
+    {
+      "id": 130882,
+      "name": "Cissone"
+    },
+    {
+      "id": 130883,
+      "name": "Cisterna d'Asti"
+    },
+    {
+      "id": 130884,
+      "name": "Civiasco"
+    },
+    {
+      "id": 130885,
+      "name": "Clavesana"
+    },
+    {
+      "id": 130886,
+      "name": "Claviere"
+    },
+    {
+      "id": 130887,
+      "name": "Coassolo"
+    },
+    {
+      "id": 130888,
+      "name": "Coassolo Torinese"
+    },
+    {
+      "id": 130889,
+      "name": "Coazze"
+    },
+    {
+      "id": 130890,
+      "name": "Coazzolo"
+    },
+    {
+      "id": 130891,
+      "name": "Cocconato"
+    },
+    {
+      "id": 130892,
+      "name": "Coggiola"
+    },
+    {
+      "id": 130893,
+      "name": "Colazza"
+    },
+    {
+      "id": 130894,
+      "name": "Collegno"
+    },
+    {
+      "id": 130895,
+      "name": "Colleretto Castelnuovo"
+    },
+    {
+      "id": 130896,
+      "name": "Colleretto Giacosa"
+    },
+    {
+      "id": 130897,
+      "name": "Collobiano"
+    },
+    {
+      "id": 130898,
+      "name": "Comignago"
+    },
+    {
+      "id": 130899,
+      "name": "Condove"
+    },
+    {
+      "id": 130900,
+      "name": "Coniolo Bricco"
+    },
+    {
+      "id": 130901,
+      "name": "Conzano"
+    },
+    {
+      "id": 130902,
+      "name": "Corio"
+    },
+    {
+      "id": 130903,
+      "name": "Corneliano d'Alba"
+    },
+    {
+      "id": 130904,
+      "name": "Corsione"
+    },
+    {
+      "id": 130905,
+      "name": "Cortandone"
+    },
+    {
+      "id": 130906,
+      "name": "Cortanze"
+    },
+    {
+      "id": 130907,
+      "name": "Cortazzone"
+    },
+    {
+      "id": 130908,
+      "name": "Cortemilia"
+    },
+    {
+      "id": 130909,
+      "name": "Cortiglione"
+    },
+    {
+      "id": 130910,
+      "name": "Cossano Belbo"
+    },
+    {
+      "id": 130911,
+      "name": "Cossano Canavese"
+    },
+    {
+      "id": 130912,
+      "name": "Cossato"
+    },
+    {
+      "id": 130913,
+      "name": "Cossogno"
+    },
+    {
+      "id": 130914,
+      "name": "Cossombrato"
+    },
+    {
+      "id": 130915,
+      "name": "Costa Vescovato"
+    },
+    {
+      "id": 130916,
+      "name": "Costanzana"
+    },
+    {
+      "id": 130917,
+      "name": "Costigliole d'Asti"
+    },
+    {
+      "id": 130918,
+      "name": "Costiglione Saluzzo"
+    },
+    {
+      "id": 130919,
+      "name": "Crava"
+    },
+    {
+      "id": 130920,
+      "name": "Cravagliana"
+    },
+    {
+      "id": 130921,
+      "name": "Cravanzana"
+    },
+    {
+      "id": 130922,
+      "name": "Craveggia"
+    },
+    {
+      "id": 130923,
+      "name": "Cremolino"
+    },
+    {
+      "id": 130924,
+      "name": "Crescentino"
+    },
+    {
+      "id": 130925,
+      "name": "Cressa"
+    },
+    {
+      "id": 130926,
+      "name": "Crevacuore"
+    },
+    {
+      "id": 130927,
+      "name": "Crevoladossola"
+    },
+    {
+      "id": 130928,
+      "name": "Crissolo"
+    },
+    {
+      "id": 130929,
+      "name": "Crodo"
+    },
+    {
+      "id": 130930,
+      "name": "Crova"
+    },
+    {
+      "id": 130931,
+      "name": "Cuccaro Monferrato"
+    },
+    {
+      "id": 130932,
+      "name": "Cuceglio"
+    },
+    {
+      "id": 130933,
+      "name": "Cumiana"
+    },
+    {
+      "id": 130934,
+      "name": "Cuneo"
+    },
+    {
+      "id": 130935,
+      "name": "Cunico"
+    },
+    {
+      "id": 130936,
+      "name": "Cuorgnè"
+    },
+    {
+      "id": 130937,
+      "name": "Cureggio"
+    },
+    {
+      "id": 130938,
+      "name": "Curino"
+    },
+    {
+      "id": 130939,
+      "name": "Cursolo"
+    },
+    {
+      "id": 130940,
+      "name": "Demonte"
+    },
+    {
+      "id": 130941,
+      "name": "Denice"
+    },
+    {
+      "id": 130942,
+      "name": "Dernice"
+    },
+    {
+      "id": 130943,
+      "name": "Desana"
+    },
+    {
+      "id": 130944,
+      "name": "Diano d'Alba"
+    },
+    {
+      "id": 130945,
+      "name": "Divignano"
+    },
+    {
+      "id": 130946,
+      "name": "Dogliani"
+    },
+    {
+      "id": 130947,
+      "name": "Domodossola"
+    },
+    {
+      "id": 130948,
+      "name": "Donato"
+    },
+    {
+      "id": 130949,
+      "name": "Dormelletto"
+    },
+    {
+      "id": 130950,
+      "name": "Dorzano"
+    },
+    {
+      "id": 130951,
+      "name": "Dronero"
+    },
+    {
+      "id": 130952,
+      "name": "Drubiaglio-Grangia"
+    },
+    {
+      "id": 130953,
+      "name": "Druento"
+    },
+    {
+      "id": 130954,
+      "name": "Druogno"
+    },
+    {
+      "id": 130955,
+      "name": "Dusino"
+    },
+    {
+      "id": 130956,
+      "name": "Entracque"
+    },
+    {
+      "id": 130957,
+      "name": "Envie"
+    },
+    {
+      "id": 130958,
+      "name": "Exilles"
+    },
+    {
+      "id": 130959,
+      "name": "Falmenta"
+    },
+    {
+      "id": 130960,
+      "name": "Fara Novarese"
+    },
+    {
+      "id": 130961,
+      "name": "Farigliano"
+    },
+    {
+      "id": 130962,
+      "name": "Faule"
+    },
+    {
+      "id": 130963,
+      "name": "Favari-Avatanei"
+    },
+    {
+      "id": 130964,
+      "name": "Favria"
+    },
+    {
+      "id": 130965,
+      "name": "Feisoglio"
+    },
+    {
+      "id": 130966,
+      "name": "Feletto"
+    },
+    {
+      "id": 130967,
+      "name": "Felizzano"
+    },
+    {
+      "id": 130968,
+      "name": "Fenestrelle"
+    },
+    {
+      "id": 130969,
+      "name": "Ferrere"
+    },
+    {
+      "id": 130970,
+      "name": "Ferriera"
+    },
+    {
+      "id": 130971,
+      "name": "Fiano"
+    },
+    {
+      "id": 130972,
+      "name": "Fiorano Canavese"
+    },
+    {
+      "id": 130973,
+      "name": "Fleccia-Chianavasso"
+    },
+    {
+      "id": 130974,
+      "name": "Fobello"
+    },
+    {
+      "id": 130975,
+      "name": "Foglizzo"
+    },
+    {
+      "id": 130976,
+      "name": "Fontanella-Ozino"
+    },
+    {
+      "id": 130977,
+      "name": "Fontaneto D'Agogna"
+    },
+    {
+      "id": 130978,
+      "name": "Fontanetto Po"
+    },
+    {
+      "id": 130979,
+      "name": "Fontanile"
+    },
+    {
+      "id": 130980,
+      "name": "Formazza"
+    },
+    {
+      "id": 130981,
+      "name": "Formigliana"
+    },
+    {
+      "id": 130982,
+      "name": "Fornaci"
+    },
+    {
+      "id": 130983,
+      "name": "Forno Canavese"
+    },
+    {
+      "id": 130984,
+      "name": "Fossano"
+    },
+    {
+      "id": 130985,
+      "name": "Frabosa Soprana"
+    },
+    {
+      "id": 130986,
+      "name": "Frabosa Sottana"
+    },
+    {
+      "id": 130987,
+      "name": "Fraconalto"
+    },
+    {
+      "id": 130988,
+      "name": "Francavilla Bisio"
+    },
+    {
+      "id": 130989,
+      "name": "Frascaro"
+    },
+    {
+      "id": 130990,
+      "name": "Frassinello Monferrato"
+    },
+    {
+      "id": 130991,
+      "name": "Frassineto Po"
+    },
+    {
+      "id": 130992,
+      "name": "Frassinetto"
+    },
+    {
+      "id": 130993,
+      "name": "Frassino"
+    },
+    {
+      "id": 130994,
+      "name": "Frazione Chiesa"
+    },
+    {
+      "id": 130995,
+      "name": "Fresonara"
+    },
+    {
+      "id": 130996,
+      "name": "Frinco"
+    },
+    {
+      "id": 130997,
+      "name": "Front"
+    },
+    {
+      "id": 130998,
+      "name": "Frossasco"
+    },
+    {
+      "id": 130999,
+      "name": "Frugarolo"
+    },
+    {
+      "id": 131000,
+      "name": "Fubine"
+    },
+    {
+      "id": 131001,
+      "name": "Gabbio-Cereda-Ramate"
+    },
+    {
+      "id": 131002,
+      "name": "Gabiano"
+    },
+    {
+      "id": 131003,
+      "name": "Gaglianico"
+    },
+    {
+      "id": 131004,
+      "name": "Gaiola"
+    },
+    {
+      "id": 131005,
+      "name": "Galliate"
+    },
+    {
+      "id": 131006,
+      "name": "Gamalero"
+    },
+    {
+      "id": 131007,
+      "name": "Gambasca"
+    },
+    {
+      "id": 131008,
+      "name": "Garadassi"
+    },
+    {
+      "id": 131009,
+      "name": "Garbagna"
+    },
+    {
+      "id": 131010,
+      "name": "Garbagna Novarese"
+    },
+    {
+      "id": 131011,
+      "name": "Garessio"
+    },
+    {
+      "id": 131012,
+      "name": "Gargallo"
+    },
+    {
+      "id": 131013,
+      "name": "Garino"
+    },
+    {
+      "id": 131014,
+      "name": "Garzigliana"
+    },
+    {
+      "id": 131015,
+      "name": "Gassino Torinese"
+    },
+    {
+      "id": 131016,
+      "name": "Gattico"
+    },
+    {
+      "id": 131017,
+      "name": "Gattinara"
+    },
+    {
+      "id": 131018,
+      "name": "Gavazzana"
+    },
+    {
+      "id": 131019,
+      "name": "Gavi"
+    },
+    {
+      "id": 131020,
+      "name": "Genola"
+    },
+    {
+      "id": 131021,
+      "name": "Gerbido"
+    },
+    {
+      "id": 131022,
+      "name": "Gerbole"
+    },
+    {
+      "id": 131023,
+      "name": "Gerbole-Zucche"
+    },
+    {
+      "id": 131024,
+      "name": "Germagnano"
+    },
+    {
+      "id": 131025,
+      "name": "Germagno"
+    },
+    {
+      "id": 131026,
+      "name": "Ghemme"
+    },
+    {
+      "id": 131027,
+      "name": "Ghiare-Madonna"
+    },
+    {
+      "id": 131028,
+      "name": "Ghiffa"
+    },
+    {
+      "id": 131029,
+      "name": "Ghislarengo"
+    },
+    {
+      "id": 131030,
+      "name": "Giaglione"
+    },
+    {
+      "id": 131031,
+      "name": "Giarole"
+    },
+    {
+      "id": 131032,
+      "name": "Giaveno"
+    },
+    {
+      "id": 131033,
+      "name": "Gifflenga"
+    },
+    {
+      "id": 131034,
+      "name": "Gignese"
+    },
+    {
+      "id": 131035,
+      "name": "Givoletto"
+    },
+    {
+      "id": 131036,
+      "name": "Gonte"
+    },
+    {
+      "id": 131037,
+      "name": "Gorzegno"
+    },
+    {
+      "id": 131038,
+      "name": "Gottasecca"
+    },
+    {
+      "id": 131039,
+      "name": "Govone"
+    },
+    {
+      "id": 131040,
+      "name": "Gozzano"
+    },
+    {
+      "id": 131041,
+      "name": "Graglia"
+    },
+    {
+      "id": 131042,
+      "name": "Grana"
+    },
+    {
+      "id": 131043,
+      "name": "Granozzo con Monticello"
+    },
+    {
+      "id": 131044,
+      "name": "Gravellona Toce"
+    },
+    {
+      "id": 131045,
+      "name": "Gravere"
+    },
+    {
+      "id": 131046,
+      "name": "Grazzano Badoglio"
+    },
+    {
+      "id": 131047,
+      "name": "Greggio"
+    },
+    {
+      "id": 131048,
+      "name": "Gremiasco"
+    },
+    {
+      "id": 131049,
+      "name": "Grignasco"
+    },
+    {
+      "id": 131050,
+      "name": "Grinzane Cavour"
+    },
+    {
+      "id": 131051,
+      "name": "Grognardo"
+    },
+    {
+      "id": 131052,
+      "name": "Grondona"
+    },
+    {
+      "id": 131053,
+      "name": "Groscavallo"
+    },
+    {
+      "id": 131054,
+      "name": "Grosso"
+    },
+    {
+      "id": 131055,
+      "name": "Grugliasco"
+    },
+    {
+      "id": 131056,
+      "name": "Guardabosone"
+    },
+    {
+      "id": 131057,
+      "name": "Guarene"
+    },
+    {
+      "id": 131058,
+      "name": "Guazzora"
+    },
+    {
+      "id": 131059,
+      "name": "Gurro"
+    },
+    {
+      "id": 131060,
+      "name": "Igliano"
+    },
+    {
+      "id": 131061,
+      "name": "Incisa Scapaccino"
+    },
+    {
+      "id": 131062,
+      "name": "Ingria"
+    },
+    {
+      "id": 131063,
+      "name": "Intragna"
+    },
+    {
+      "id": 131064,
+      "name": "Inverso Pinasca"
+    },
+    {
+      "id": 131065,
+      "name": "Invorio"
+    },
+    {
+      "id": 131066,
+      "name": "Isasca"
+    },
+    {
+      "id": 131067,
+      "name": "Isola d'Asti"
+    },
+    {
+      "id": 131068,
+      "name": "Isola Sant'Antonio"
+    },
+    {
+      "id": 131069,
+      "name": "Isolabella"
+    },
+    {
+      "id": 131070,
+      "name": "Issiglio"
+    },
+    {
+      "id": 131071,
+      "name": "Ivrea"
+    },
+    {
+      "id": 131072,
+      "name": "La Cassa"
+    },
+    {
+      "id": 131073,
+      "name": "La Loggia"
+    },
+    {
+      "id": 131074,
+      "name": "La Morra"
+    },
+    {
+      "id": 131075,
+      "name": "La Villa"
+    },
+    {
+      "id": 131076,
+      "name": "Lagnasco"
+    },
+    {
+      "id": 131077,
+      "name": "Lamporo"
+    },
+    {
+      "id": 131078,
+      "name": "Landiona"
+    },
+    {
+      "id": 131079,
+      "name": "Lanvario"
+    },
+    {
+      "id": 131080,
+      "name": "Lanzo Torinese"
+    },
+    {
+      "id": 131081,
+      "name": "Lauriano"
+    },
+    {
+      "id": 131082,
+      "name": "Leini"
+    },
+    {
+      "id": 131083,
+      "name": "Lemie"
+    },
+    {
+      "id": 131084,
+      "name": "Lenta"
+    },
+    {
+      "id": 131085,
+      "name": "Lequio Berria"
+    },
+    {
+      "id": 131086,
+      "name": "Lequio Tanaro"
+    },
+    {
+      "id": 131087,
+      "name": "Lerma"
+    },
+    {
+      "id": 131088,
+      "name": "Lesa"
+    },
+    {
+      "id": 131089,
+      "name": "Lesegno"
+    },
+    {
+      "id": 131090,
+      "name": "Lesna"
+    },
+    {
+      "id": 131091,
+      "name": "Lessolo"
+    },
+    {
+      "id": 131092,
+      "name": "Lessona"
+    },
+    {
+      "id": 131093,
+      "name": "Levice"
+    },
+    {
+      "id": 131094,
+      "name": "Levone"
+    },
+    {
+      "id": 131095,
+      "name": "Lignana"
+    },
+    {
+      "id": 131096,
+      "name": "Limone Piemonte"
+    },
+    {
+      "id": 131097,
+      "name": "Lisio"
+    },
+    {
+      "id": 131098,
+      "name": "Litta Parodi-Cascinagrossa"
+    },
+    {
+      "id": 131099,
+      "name": "Livera"
+    },
+    {
+      "id": 131100,
+      "name": "Livorno Ferraris"
+    },
+    {
+      "id": 131101,
+      "name": "Loazzolo"
+    },
+    {
+      "id": 131102,
+      "name": "Locana"
+    },
+    {
+      "id": 131103,
+      "name": "Lombardore"
+    },
+    {
+      "id": 131104,
+      "name": "Lombriasco"
+    },
+    {
+      "id": 131105,
+      "name": "Loranzè"
+    },
+    {
+      "id": 131106,
+      "name": "Loreglia"
+    },
+    {
+      "id": 131107,
+      "name": "Lozzolo"
+    },
+    {
+      "id": 131108,
+      "name": "Lu"
+    },
+    {
+      "id": 131109,
+      "name": "Lugnacco"
+    },
+    {
+      "id": 131110,
+      "name": "Lumellogno"
+    },
+    {
+      "id": 131111,
+      "name": "Luserna"
+    },
+    {
+      "id": 131112,
+      "name": "Lusernetta"
+    },
+    {
+      "id": 131113,
+      "name": "Lusigliè"
+    },
+    {
+      "id": 131114,
+      "name": "Macello"
+    },
+    {
+      "id": 131115,
+      "name": "Macra"
+    },
+    {
+      "id": 131116,
+      "name": "Macugnaga"
+    },
+    {
+      "id": 131117,
+      "name": "Madonna del Sasso"
+    },
+    {
+      "id": 131118,
+      "name": "Maggiora"
+    },
+    {
+      "id": 131119,
+      "name": "Magliano Alfieri"
+    },
+    {
+      "id": 131120,
+      "name": "Magliano Alpi"
+    },
+    {
+      "id": 131121,
+      "name": "Maglione"
+    },
+    {
+      "id": 131122,
+      "name": "Maglione-Crosa"
+    },
+    {
+      "id": 131123,
+      "name": "Magnano"
+    },
+    {
+      "id": 131124,
+      "name": "Malesco"
+    },
+    {
+      "id": 131125,
+      "name": "Malvicino"
+    },
+    {
+      "id": 131126,
+      "name": "Mandello Vitta"
+    },
+    {
+      "id": 131127,
+      "name": "Mandrogne"
+    },
+    {
+      "id": 131128,
+      "name": "Mango"
+    },
+    {
+      "id": 131129,
+      "name": "Manta"
+    },
+    {
+      "id": 131130,
+      "name": "Mappano"
+    },
+    {
+      "id": 131131,
+      "name": "Marano Ticino"
+    },
+    {
+      "id": 131132,
+      "name": "Maranzana"
+    },
+    {
+      "id": 131133,
+      "name": "Marene"
+    },
+    {
+      "id": 131134,
+      "name": "Marentino"
+    },
+    {
+      "id": 131135,
+      "name": "Maretto"
+    },
+    {
+      "id": 131136,
+      "name": "Margarita"
+    },
+    {
+      "id": 131137,
+      "name": "Marmora"
+    },
+    {
+      "id": 131138,
+      "name": "Marocchi"
+    },
+    {
+      "id": 131139,
+      "name": "Marsaglia"
+    },
+    {
+      "id": 131140,
+      "name": "Martiniana Po"
+    },
+    {
+      "id": 131141,
+      "name": "Masera"
+    },
+    {
+      "id": 131142,
+      "name": "Masio"
+    },
+    {
+      "id": 131143,
+      "name": "Massazza"
+    },
+    {
+      "id": 131144,
+      "name": "Massello"
+    },
+    {
+      "id": 131145,
+      "name": "Masserano"
+    },
+    {
+      "id": 131146,
+      "name": "Massino Visconti"
+    },
+    {
+      "id": 131147,
+      "name": "Massiola"
+    },
+    {
+      "id": 131148,
+      "name": "Mathi"
+    },
+    {
+      "id": 131149,
+      "name": "Mattie"
+    },
+    {
+      "id": 131150,
+      "name": "Mazze"
+    },
+    {
+      "id": 131151,
+      "name": "Meana di Susa"
+    },
+    {
+      "id": 131152,
+      "name": "Meina"
+    },
+    {
+      "id": 131153,
+      "name": "Melazzo"
+    },
+    {
+      "id": 131154,
+      "name": "Melle"
+    },
+    {
+      "id": 131155,
+      "name": "Merana"
+    },
+    {
+      "id": 131156,
+      "name": "Mercenasco"
+    },
+    {
+      "id": 131157,
+      "name": "Mergozzo"
+    },
+    {
+      "id": 131158,
+      "name": "Meugliano"
+    },
+    {
+      "id": 131159,
+      "name": "Mezzana Mortigliengo"
+    },
+    {
+      "id": 131160,
+      "name": "Mezzenile"
+    },
+    {
+      "id": 131161,
+      "name": "Mezzomerico"
+    },
+    {
+      "id": 131162,
+      "name": "Miagliano"
+    },
+    {
+      "id": 131163,
+      "name": "Miasino"
+    },
+    {
+      "id": 131164,
+      "name": "Miazzina"
+    },
+    {
+      "id": 131165,
+      "name": "Milanere"
+    },
+    {
+      "id": 131166,
+      "name": "Mirabello Monferrato"
+    },
+    {
+      "id": 131167,
+      "name": "Moasca"
+    },
+    {
+      "id": 131168,
+      "name": "Moiola"
+    },
+    {
+      "id": 131169,
+      "name": "Molare"
+    },
+    {
+      "id": 131170,
+      "name": "Molino dei Torti"
+    },
+    {
+      "id": 131171,
+      "name": "Mollia"
+    },
+    {
+      "id": 131172,
+      "name": "Mombaldone"
+    },
+    {
+      "id": 131173,
+      "name": "Mombarcaro"
+    },
+    {
+      "id": 131174,
+      "name": "Mombaruzzo"
+    },
+    {
+      "id": 131175,
+      "name": "Mombasiglio"
+    },
+    {
+      "id": 131176,
+      "name": "Mombello di Torino"
+    },
+    {
+      "id": 131177,
+      "name": "Mombello Monferrato"
+    },
+    {
+      "id": 131178,
+      "name": "Mombercelli"
+    },
+    {
+      "id": 131179,
+      "name": "Momo"
+    },
+    {
+      "id": 131180,
+      "name": "Mompantero"
+    },
+    {
+      "id": 131181,
+      "name": "Momperone"
+    },
+    {
+      "id": 131182,
+      "name": "Monale"
+    },
+    {
+      "id": 131183,
+      "name": "Monastero Bormida"
+    },
+    {
+      "id": 131184,
+      "name": "Monastero di Lanzo"
+    },
+    {
+      "id": 131185,
+      "name": "Monastero di Vasco"
+    },
+    {
+      "id": 131186,
+      "name": "Monasterolo"
+    },
+    {
+      "id": 131187,
+      "name": "Monasterolo Casotto"
+    },
+    {
+      "id": 131188,
+      "name": "Monasterolo di Savigliano"
+    },
+    {
+      "id": 131189,
+      "name": "Moncalieri"
+    },
+    {
+      "id": 131190,
+      "name": "Moncalvo"
+    },
+    {
+      "id": 131191,
+      "name": "Moncenisio"
+    },
+    {
+      "id": 131192,
+      "name": "Moncestino"
+    },
+    {
+      "id": 131193,
+      "name": "Monchiero Borgonuovo"
+    },
+    {
+      "id": 131194,
+      "name": "Moncrivello"
+    },
+    {
+      "id": 131195,
+      "name": "Moncucco Torinese"
+    },
+    {
+      "id": 131196,
+      "name": "Mondovì"
+    },
+    {
+      "id": 131197,
+      "name": "Monesiglio"
+    },
+    {
+      "id": 131198,
+      "name": "Monforte d'Alba"
+    },
+    {
+      "id": 131199,
+      "name": "Mongardino"
+    },
+    {
+      "id": 131200,
+      "name": "Mongiardino Ligure"
+    },
+    {
+      "id": 131201,
+      "name": "Mongrando"
+    },
+    {
+      "id": 131202,
+      "name": "Monleale"
+    },
+    {
+      "id": 131203,
+      "name": "Montà"
+    },
+    {
+      "id": 131204,
+      "name": "Montabone"
+    },
+    {
+      "id": 131205,
+      "name": "Montacuto"
+    },
+    {
+      "id": 131206,
+      "name": "Montafia"
+    },
+    {
+      "id": 131207,
+      "name": "Montaldeo"
+    },
+    {
+      "id": 131208,
+      "name": "Montaldo Bormida"
+    },
+    {
+      "id": 131209,
+      "name": "Montaldo di Mondovì"
+    },
+    {
+      "id": 131210,
+      "name": "Montaldo Roero"
+    },
+    {
+      "id": 131211,
+      "name": "Montaldo Scarampi"
+    },
+    {
+      "id": 131212,
+      "name": "Montaldo Torinese"
+    },
+    {
+      "id": 131213,
+      "name": "Montalenghe"
+    },
+    {
+      "id": 131214,
+      "name": "Montalto Dora"
+    },
+    {
+      "id": 131215,
+      "name": "Montanaro"
+    },
+    {
+      "id": 131216,
+      "name": "Montanera"
+    },
+    {
+      "id": 131217,
+      "name": "Montariolo"
+    },
+    {
+      "id": 131218,
+      "name": "Montecastello"
+    },
+    {
+      "id": 131219,
+      "name": "Montechiaro d'Acqui"
+    },
+    {
+      "id": 131220,
+      "name": "Montechiaro d'Asti"
+    },
+    {
+      "id": 131221,
+      "name": "Montecrestese"
+    },
+    {
+      "id": 131222,
+      "name": "Montegioco"
+    },
+    {
+      "id": 131223,
+      "name": "Montegrosso"
+    },
+    {
+      "id": 131224,
+      "name": "Montelera"
+    },
+    {
+      "id": 131225,
+      "name": "Montelupo Albese"
+    },
+    {
+      "id": 131226,
+      "name": "Montemagno"
+    },
+    {
+      "id": 131227,
+      "name": "Montemale di Cuneo"
+    },
+    {
+      "id": 131228,
+      "name": "Montemarzino"
+    },
+    {
+      "id": 131229,
+      "name": "Monterosso Grana"
+    },
+    {
+      "id": 131230,
+      "name": "Montescheno"
+    },
+    {
+      "id": 131231,
+      "name": "Monteu da Po"
+    },
+    {
+      "id": 131232,
+      "name": "Monteu Roero"
+    },
+    {
+      "id": 131233,
+      "name": "Montezemolo"
+    },
+    {
+      "id": 131234,
+      "name": "Monticello d'Alba"
+    },
+    {
+      "id": 131235,
+      "name": "Montiglio"
+    },
+    {
+      "id": 131236,
+      "name": "Morano sul Po"
+    },
+    {
+      "id": 131237,
+      "name": "Moransengo"
+    },
+    {
+      "id": 131238,
+      "name": "Morbello"
+    },
+    {
+      "id": 131239,
+      "name": "Moretta"
+    },
+    {
+      "id": 131240,
+      "name": "Moriondo Torinese"
+    },
+    {
+      "id": 131241,
+      "name": "Mornese"
+    },
+    {
+      "id": 131242,
+      "name": "Morozzo"
+    },
+    {
+      "id": 131243,
+      "name": "Morsasco"
+    },
+    {
+      "id": 131244,
+      "name": "Mosso"
+    },
+    {
+      "id": 131245,
+      "name": "Mosso Santa Maria"
+    },
+    {
+      "id": 131246,
+      "name": "Motta Dè Conti"
+    },
+    {
+      "id": 131247,
+      "name": "Mottalciata"
+    },
+    {
+      "id": 131248,
+      "name": "Murazzano"
+    },
+    {
+      "id": 131249,
+      "name": "Murello"
+    },
+    {
+      "id": 131250,
+      "name": "Murisengo"
+    },
+    {
+      "id": 131251,
+      "name": "Mussotto"
+    },
+    {
+      "id": 131252,
+      "name": "Muzzano"
+    },
+    {
+      "id": 131253,
+      "name": "Narzole"
+    },
+    {
+      "id": 131254,
+      "name": "Nebbiuno"
+    },
+    {
+      "id": 131255,
+      "name": "Neive-Borgonovo"
+    },
+    {
+      "id": 131256,
+      "name": "Netro"
+    },
+    {
+      "id": 131257,
+      "name": "Neviglie"
+    },
+    {
+      "id": 131258,
+      "name": "Nibbiola"
+    },
+    {
+      "id": 131259,
+      "name": "Nichelino"
+    },
+    {
+      "id": 131260,
+      "name": "Niella Belbo"
+    },
+    {
+      "id": 131261,
+      "name": "Niella Tanaro"
+    },
+    {
+      "id": 131262,
+      "name": "Nizza Monferrato"
+    },
+    {
+      "id": 131263,
+      "name": "Noasca"
+    },
+    {
+      "id": 131264,
+      "name": "Nole"
+    },
+    {
+      "id": 131265,
+      "name": "Nomaglio"
+    },
+    {
+      "id": 131266,
+      "name": "None"
+    },
+    {
+      "id": 131267,
+      "name": "Nonio"
+    },
+    {
+      "id": 131268,
+      "name": "Novalesa"
+    },
+    {
+      "id": 131269,
+      "name": "Novara"
+    },
+    {
+      "id": 131270,
+      "name": "Novello"
+    },
+    {
+      "id": 131271,
+      "name": "Novi Ligure"
+    },
+    {
+      "id": 131272,
+      "name": "Nucetto"
+    },
+    {
+      "id": 131273,
+      "name": "Occhieppo Inferiore"
+    },
+    {
+      "id": 131274,
+      "name": "Occhieppo Superiore"
+    },
+    {
+      "id": 131275,
+      "name": "Occimiano"
+    },
+    {
+      "id": 131276,
+      "name": "Odalengo Grande"
+    },
+    {
+      "id": 131277,
+      "name": "Odalengo Piccolo"
+    },
+    {
+      "id": 131278,
+      "name": "Oggebbio"
+    },
+    {
+      "id": 131279,
+      "name": "Oglianico"
+    },
+    {
+      "id": 131280,
+      "name": "Olcenengo"
+    },
+    {
+      "id": 131281,
+      "name": "Oldenico"
+    },
+    {
+      "id": 131282,
+      "name": "Oleggio"
+    },
+    {
+      "id": 131283,
+      "name": "Oleggio Castello"
+    },
+    {
+      "id": 131284,
+      "name": "Olivola"
+    },
+    {
+      "id": 131285,
+      "name": "Olmo Gentile"
+    },
+    {
+      "id": 131286,
+      "name": "Omegna"
+    },
+    {
+      "id": 131287,
+      "name": "Oncino"
+    },
+    {
+      "id": 131288,
+      "name": "Orbassano"
+    },
+    {
+      "id": 131289,
+      "name": "Orio Canavese"
+    },
+    {
+      "id": 131290,
+      "name": "Ormea"
+    },
+    {
+      "id": 131291,
+      "name": "Ornavasso"
+    },
+    {
+      "id": 131292,
+      "name": "Orsara Bormida"
+    },
+    {
+      "id": 131293,
+      "name": "Orta San Giulio"
+    },
+    {
+      "id": 131294,
+      "name": "Osasco"
+    },
+    {
+      "id": 131295,
+      "name": "Osasio"
+    },
+    {
+      "id": 131296,
+      "name": "Ostana"
+    },
+    {
+      "id": 131297,
+      "name": "Ottiglio"
+    },
+    {
+      "id": 131298,
+      "name": "Oulx"
+    },
+    {
+      "id": 131299,
+      "name": "Ovada"
+    },
+    {
+      "id": 131300,
+      "name": "Oviglio"
+    },
+    {
+      "id": 131301,
+      "name": "Ozegna"
+    },
+    {
+      "id": 131302,
+      "name": "Ozzano Monferrato"
+    },
+    {
+      "id": 131303,
+      "name": "Paderna"
+    },
+    {
+      "id": 131304,
+      "name": "Paesana"
+    },
+    {
+      "id": 131305,
+      "name": "Pagno"
+    },
+    {
+      "id": 131306,
+      "name": "Palazzo Canavese"
+    },
+    {
+      "id": 131307,
+      "name": "Palazzolo Vercellese"
+    },
+    {
+      "id": 131308,
+      "name": "Pallanza-Intra-Suna"
+    },
+    {
+      "id": 131309,
+      "name": "Pallanzeno"
+    },
+    {
+      "id": 131310,
+      "name": "Pamparato"
+    },
+    {
+      "id": 131311,
+      "name": "Pancalieri"
+    },
+    {
+      "id": 131312,
+      "name": "Parella"
+    },
+    {
+      "id": 131313,
+      "name": "Pareto"
+    },
+    {
+      "id": 131314,
+      "name": "Parodi Ligure"
+    },
+    {
+      "id": 131315,
+      "name": "Paroldo"
+    },
+    {
+      "id": 131316,
+      "name": "Paruzzaro"
+    },
+    {
+      "id": 131317,
+      "name": "Passerano Marmorito"
+    },
+    {
+      "id": 131318,
+      "name": "Pasta"
+    },
+    {
+      "id": 131319,
+      "name": "Pasturana"
+    },
+    {
+      "id": 131320,
+      "name": "Pavarolo"
+    },
+    {
+      "id": 131321,
+      "name": "Pavone Canavese"
+    },
+    {
+      "id": 131322,
+      "name": "Pecco"
+    },
+    {
+      "id": 131323,
+      "name": "Pecetto"
+    },
+    {
+      "id": 131324,
+      "name": "Pecetto di Valenza"
+    },
+    {
+      "id": 131325,
+      "name": "Pella"
+    },
+    {
+      "id": 131326,
+      "name": "Penango"
+    },
+    {
+      "id": 131327,
+      "name": "Perletto"
+    },
+    {
+      "id": 131328,
+      "name": "Perlo"
+    },
+    {
+      "id": 131329,
+      "name": "Pernate"
+    },
+    {
+      "id": 131330,
+      "name": "Perosa Argentina"
+    },
+    {
+      "id": 131331,
+      "name": "Perosa Canavese"
+    },
+    {
+      "id": 131332,
+      "name": "Perrero"
+    },
+    {
+      "id": 131333,
+      "name": "Pertengo"
+    },
+    {
+      "id": 131334,
+      "name": "Pertusio"
+    },
+    {
+      "id": 131335,
+      "name": "Pessinetto"
+    },
+    {
+      "id": 131336,
+      "name": "Pessione"
+    },
+    {
+      "id": 131337,
+      "name": "Pettenasco"
+    },
+    {
+      "id": 131338,
+      "name": "Pettinengo"
+    },
+    {
+      "id": 131339,
+      "name": "Peveragno"
+    },
+    {
+      "id": 131340,
+      "name": "Pezzana"
+    },
+    {
+      "id": 131341,
+      "name": "Pezzolo Valle Uzzone"
+    },
+    {
+      "id": 131342,
+      "name": "Piana San Raffaele"
+    },
+    {
+      "id": 131343,
+      "name": "Pianezza"
+    },
+    {
+      "id": 131344,
+      "name": "Pianfei"
+    },
+    {
+      "id": 131345,
+      "name": "Piano-Molini d'Isola"
+    },
+    {
+      "id": 131346,
+      "name": "Piasco"
+    },
+    {
+      "id": 131347,
+      "name": "Piatto"
+    },
+    {
+      "id": 131348,
+      "name": "Piazza"
+    },
+    {
+      "id": 131349,
+      "name": "Piea"
+    },
+    {
+      "id": 131350,
+      "name": "Piedicavallo"
+    },
+    {
+      "id": 131351,
+      "name": "Piedimulera"
+    },
+    {
+      "id": 131352,
+      "name": "Pietra Marazzi"
+    },
+    {
+      "id": 131353,
+      "name": "Pietraporzio"
+    },
+    {
+      "id": 131354,
+      "name": "Pieve Vergonte"
+    },
+    {
+      "id": 131355,
+      "name": "Pila"
+    },
+    {
+      "id": 131356,
+      "name": "Pinasca-Dubbione"
+    },
+    {
+      "id": 131357,
+      "name": "Pinerolo"
+    },
+    {
+      "id": 131358,
+      "name": "Pino d'Asti"
+    },
+    {
+      "id": 131359,
+      "name": "Pino Torinese"
+    },
+    {
+      "id": 131360,
+      "name": "Piobesi d'Alba"
+    },
+    {
+      "id": 131361,
+      "name": "Piobesi Torinese"
+    },
+    {
+      "id": 131362,
+      "name": "Piode"
+    },
+    {
+      "id": 131363,
+      "name": "Piossasco"
+    },
+    {
+      "id": 131364,
+      "name": "Piovà Massaia"
+    },
+    {
+      "id": 131365,
+      "name": "Piovera"
+    },
+    {
+      "id": 131366,
+      "name": "Piozzo"
+    },
+    {
+      "id": 131367,
+      "name": "Pisano"
+    },
+    {
+      "id": 131368,
+      "name": "Piscina"
+    },
+    {
+      "id": 131369,
+      "name": "Piverone"
+    },
+    {
+      "id": 131370,
+      "name": "Pleyne"
+    },
+    {
+      "id": 131371,
+      "name": "Pocapaglia"
+    },
+    {
+      "id": 131372,
+      "name": "Pogno"
+    },
+    {
+      "id": 131373,
+      "name": "Poirino"
+    },
+    {
+      "id": 131374,
+      "name": "Pollone"
+    },
+    {
+      "id": 131375,
+      "name": "Polonghera"
+    },
+    {
+      "id": 131376,
+      "name": "Pomaretto"
+    },
+    {
+      "id": 131377,
+      "name": "Pomaro Monferrato"
+    },
+    {
+      "id": 131378,
+      "name": "Pombia"
+    },
+    {
+      "id": 131379,
+      "name": "Ponderano"
+    },
+    {
+      "id": 131380,
+      "name": "Pont-Canavese"
+    },
+    {
+      "id": 131381,
+      "name": "Pontechianale"
+    },
+    {
+      "id": 131382,
+      "name": "Pontecurone"
+    },
+    {
+      "id": 131383,
+      "name": "Pontestura"
+    },
+    {
+      "id": 131384,
+      "name": "Ponti"
+    },
+    {
+      "id": 131385,
+      "name": "Ponzano Monferrato"
+    },
+    {
+      "id": 131386,
+      "name": "Ponzone"
+    },
+    {
+      "id": 131387,
+      "name": "Portacomaro"
+    },
+    {
+      "id": 131388,
+      "name": "Porte"
+    },
+    {
+      "id": 131389,
+      "name": "Portula"
+    },
+    {
+      "id": 131390,
+      "name": "Postua"
+    },
+    {
+      "id": 131391,
+      "name": "Pozzol Groppo"
+    },
+    {
+      "id": 131392,
+      "name": "Pozzolo Formigaro"
+    },
+    {
+      "id": 131393,
+      "name": "Pradleves"
+    },
+    {
+      "id": 131394,
+      "name": "Pragelato-Ruà"
+    },
+    {
+      "id": 131395,
+      "name": "Prali"
+    },
+    {
+      "id": 131396,
+      "name": "Pralormo"
+    },
+    {
+      "id": 131397,
+      "name": "Pralungo"
+    },
+    {
+      "id": 131398,
+      "name": "Pramollo"
+    },
+    {
+      "id": 131399,
+      "name": "Prarolo"
+    },
+    {
+      "id": 131400,
+      "name": "Prarostino"
+    },
+    {
+      "id": 131401,
+      "name": "Prasco"
+    },
+    {
+      "id": 131402,
+      "name": "Prascorsano"
+    },
+    {
+      "id": 131403,
+      "name": "Pratiglione"
+    },
+    {
+      "id": 131404,
+      "name": "Prato Sesia"
+    },
+    {
+      "id": 131405,
+      "name": "Pray"
+    },
+    {
+      "id": 131406,
+      "name": "Prazzo Superiore"
+    },
+    {
+      "id": 131407,
+      "name": "Predosa"
+    },
+    {
+      "id": 131408,
+      "name": "Premeno"
+    },
+    {
+      "id": 131409,
+      "name": "Premia"
+    },
+    {
+      "id": 131410,
+      "name": "Premosello-Chiovenda"
+    },
+    {
+      "id": 131411,
+      "name": "Priero"
+    },
+    {
+      "id": 131412,
+      "name": "Priocca"
+    },
+    {
+      "id": 131413,
+      "name": "Priola"
+    },
+    {
+      "id": 131414,
+      "name": "Provincia di Alessandria"
+    },
+    {
+      "id": 131415,
+      "name": "Provincia di Asti"
+    },
+    {
+      "id": 131416,
+      "name": "Provincia di Biella"
+    },
+    {
+      "id": 131417,
+      "name": "Provincia di Cuneo"
+    },
+    {
+      "id": 131418,
+      "name": "Provincia di Novara"
+    },
+    {
+      "id": 131419,
+      "name": "Provincia di Vercelli"
+    },
+    {
+      "id": 131420,
+      "name": "Provincia Verbano-Cusio-Ossola"
+    },
+    {
+      "id": 131421,
+      "name": "Prunetto"
+    },
+    {
+      "id": 131422,
+      "name": "Quagliuzzo"
+    },
+    {
+      "id": 131423,
+      "name": "Quaranti"
+    },
+    {
+      "id": 131424,
+      "name": "Quaregna"
+    },
+    {
+      "id": 131425,
+      "name": "Quargnento"
+    },
+    {
+      "id": 131426,
+      "name": "Quarna Sopra"
+    },
+    {
+      "id": 131427,
+      "name": "Quarna Sotto"
+    },
+    {
+      "id": 131428,
+      "name": "Quarona"
+    },
+    {
+      "id": 131429,
+      "name": "Quassolo"
+    },
+    {
+      "id": 131430,
+      "name": "Quattordio"
+    },
+    {
+      "id": 131431,
+      "name": "Quincinetto"
+    },
+    {
+      "id": 131432,
+      "name": "Quinto Vercellese"
+    },
+    {
+      "id": 131433,
+      "name": "Racconigi"
+    },
+    {
+      "id": 131434,
+      "name": "Rassa"
+    },
+    {
+      "id": 131435,
+      "name": "Re"
+    },
+    {
+      "id": 131436,
+      "name": "Reano"
+    },
+    {
+      "id": 131437,
+      "name": "Recetto"
+    },
+    {
+      "id": 131438,
+      "name": "Refrancore"
+    },
+    {
+      "id": 131439,
+      "name": "Revello"
+    },
+    {
+      "id": 131440,
+      "name": "Revigliasco"
+    },
+    {
+      "id": 131441,
+      "name": "Revigliasco d'Asti"
+    },
+    {
+      "id": 131442,
+      "name": "Ribordone"
+    },
+    {
+      "id": 131443,
+      "name": "Ricaldone"
+    },
+    {
+      "id": 131444,
+      "name": "Ricca"
+    },
+    {
+      "id": 131445,
+      "name": "Rifreddo"
+    },
+    {
+      "id": 131446,
+      "name": "Rima"
+    },
+    {
+      "id": 131447,
+      "name": "Rimasco"
+    },
+    {
+      "id": 131448,
+      "name": "Rimella"
+    },
+    {
+      "id": 131449,
+      "name": "Rittana"
+    },
+    {
+      "id": 131450,
+      "name": "Riva"
+    },
+    {
+      "id": 131451,
+      "name": "Riva Presso Chieri"
+    },
+    {
+      "id": 131452,
+      "name": "Riva Valdobbia"
+    },
+    {
+      "id": 131453,
+      "name": "Rivalba"
+    },
+    {
+      "id": 131454,
+      "name": "Rivalta Bormida"
+    },
+    {
+      "id": 131455,
+      "name": "Rivalta di Torino"
+    },
+    {
+      "id": 131456,
+      "name": "Rivara"
+    },
+    {
+      "id": 131457,
+      "name": "Rivarolo Canavese"
+    },
+    {
+      "id": 131458,
+      "name": "Rivarone"
+    },
+    {
+      "id": 131459,
+      "name": "Rivarossa"
+    },
+    {
+      "id": 131460,
+      "name": "Rive"
+    },
+    {
+      "id": 131461,
+      "name": "Rivoli"
+    },
+    {
+      "id": 131462,
+      "name": "Roapiana"
+    },
+    {
+      "id": 131463,
+      "name": "Roaschia"
+    },
+    {
+      "id": 131464,
+      "name": "Roascio"
+    },
+    {
+      "id": 131465,
+      "name": "Roasio"
+    },
+    {
+      "id": 131466,
+      "name": "Roata Rossi"
+    },
+    {
+      "id": 131467,
+      "name": "Roatto"
+    },
+    {
+      "id": 131468,
+      "name": "Robassomero"
+    },
+    {
+      "id": 131469,
+      "name": "Robella"
+    },
+    {
+      "id": 131470,
+      "name": "Robilante"
+    },
+    {
+      "id": 131471,
+      "name": "Roburent"
+    },
+    {
+      "id": 131472,
+      "name": "Rocca Canavese"
+    },
+    {
+      "id": 131473,
+      "name": "Rocca Cigliè"
+    },
+    {
+      "id": 131474,
+      "name": "Rocca d'Arazzo"
+    },
+    {
+      "id": 131475,
+      "name": "Rocca De' Baldi"
+    },
+    {
+      "id": 131476,
+      "name": "Rocca Grimalda"
+    },
+    {
+      "id": 131477,
+      "name": "Roccabruna"
+    },
+    {
+      "id": 131478,
+      "name": "Roccaforte Ligure"
+    },
+    {
+      "id": 131479,
+      "name": "Roccaforte Mondovì"
+    },
+    {
+      "id": 131480,
+      "name": "Roccasparvera"
+    },
+    {
+      "id": 131481,
+      "name": "Roccaverano"
+    },
+    {
+      "id": 131482,
+      "name": "Roccavione"
+    },
+    {
+      "id": 131483,
+      "name": "Rocchetta Belbo"
+    },
+    {
+      "id": 131484,
+      "name": "Rocchetta Ligure"
+    },
+    {
+      "id": 131485,
+      "name": "Rocchetta Palafea"
+    },
+    {
+      "id": 131486,
+      "name": "Rocchetta Tanaro"
+    },
+    {
+      "id": 131487,
+      "name": "Roddi"
+    },
+    {
+      "id": 131488,
+      "name": "Roddino"
+    },
+    {
+      "id": 131489,
+      "name": "Rodello"
+    },
+    {
+      "id": 131490,
+      "name": "Roletto"
+    },
+    {
+      "id": 131491,
+      "name": "Romagnano Sesia"
+    },
+    {
+      "id": 131492,
+      "name": "Romano Canavese"
+    },
+    {
+      "id": 131493,
+      "name": "Romentino"
+    },
+    {
+      "id": 131494,
+      "name": "Ronco Biellese"
+    },
+    {
+      "id": 131495,
+      "name": "Ronco Canavese"
+    },
+    {
+      "id": 131496,
+      "name": "Rondissone"
+    },
+    {
+      "id": 131497,
+      "name": "Ronsecco"
+    },
+    {
+      "id": 131498,
+      "name": "Roppolo"
+    },
+    {
+      "id": 131499,
+      "name": "Rorà"
+    },
+    {
+      "id": 131500,
+      "name": "Roreto"
+    },
+    {
+      "id": 131501,
+      "name": "Rosazza"
+    },
+    {
+      "id": 131502,
+      "name": "Rosignano Monferrato"
+    },
+    {
+      "id": 131503,
+      "name": "Rossa"
+    },
+    {
+      "id": 131504,
+      "name": "Rossana"
+    },
+    {
+      "id": 131505,
+      "name": "Rosta"
+    },
+    {
+      "id": 131506,
+      "name": "Roure"
+    },
+    {
+      "id": 131507,
+      "name": "Rovasenda"
+    },
+    {
+      "id": 131508,
+      "name": "Rubiana"
+    },
+    {
+      "id": 131509,
+      "name": "Rueglio"
+    },
+    {
+      "id": 131510,
+      "name": "Ruffia"
+    },
+    {
+      "id": 131511,
+      "name": "Sabbia"
+    },
+    {
+      "id": 131512,
+      "name": "Sagliano Micca"
+    },
+    {
+      "id": 131513,
+      "name": "Sala Biellese"
+    },
+    {
+      "id": 131514,
+      "name": "Sala Monferrato"
+    },
+    {
+      "id": 131515,
+      "name": "Salasco"
+    },
+    {
+      "id": 131516,
+      "name": "Salassa"
+    },
+    {
+      "id": 131517,
+      "name": "Salbertrand"
+    },
+    {
+      "id": 131518,
+      "name": "Sale"
+    },
+    {
+      "id": 131519,
+      "name": "Sale delle Langhe"
+    },
+    {
+      "id": 131520,
+      "name": "Sale San Giovanni"
+    },
+    {
+      "id": 131521,
+      "name": "Salerano Canavese"
+    },
+    {
+      "id": 131522,
+      "name": "Sali Vercellese"
+    },
+    {
+      "id": 131523,
+      "name": "Saliceto"
+    },
+    {
+      "id": 131524,
+      "name": "Salmour"
+    },
+    {
+      "id": 131525,
+      "name": "Saluggia"
+    },
+    {
+      "id": 131526,
+      "name": "Salussola"
+    },
+    {
+      "id": 131527,
+      "name": "Saluzzo"
+    },
+    {
+      "id": 131528,
+      "name": "Salza di Pinerolo"
+    },
+    {
+      "id": 131529,
+      "name": "Sambuco"
+    },
+    {
+      "id": 131530,
+      "name": "Samone"
+    },
+    {
+      "id": 131531,
+      "name": "Sampeyre"
+    },
+    {
+      "id": 131532,
+      "name": "San Benedetto Belbo"
+    },
+    {
+      "id": 131533,
+      "name": "San Benigno Canavese"
+    },
+    {
+      "id": 131534,
+      "name": "San Bernardino Verbano"
+    },
+    {
+      "id": 131535,
+      "name": "San Carlo Canavese"
+    },
+    {
+      "id": 131536,
+      "name": "San Colombano Belmonte"
+    },
+    {
+      "id": 131537,
+      "name": "San Cristoforo"
+    },
+    {
+      "id": 131538,
+      "name": "San Damiano d'Asti"
+    },
+    {
+      "id": 131539,
+      "name": "San Damiano Macra"
+    },
+    {
+      "id": 131540,
+      "name": "San Defendente"
+    },
+    {
+      "id": 131541,
+      "name": "San Didero"
+    },
+    {
+      "id": 131542,
+      "name": "San Francesco al Campo"
+    },
+    {
+      "id": 131543,
+      "name": "San Germano Chisone"
+    },
+    {
+      "id": 131544,
+      "name": "San Germano Vercellese"
+    },
+    {
+      "id": 131545,
+      "name": "San Giacomo Vercellese"
+    },
+    {
+      "id": 131546,
+      "name": "San Gillio"
+    },
+    {
+      "id": 131547,
+      "name": "San Giorgio"
+    },
+    {
+      "id": 131548,
+      "name": "San Giorgio Canavese"
+    },
+    {
+      "id": 131549,
+      "name": "San Giorgio Monferrato"
+    },
+    {
+      "id": 131550,
+      "name": "San Giorgio Scarampi"
+    },
+    {
+      "id": 131551,
+      "name": "San Giorio"
+    },
+    {
+      "id": 131552,
+      "name": "San Giuliano Vecchio"
+    },
+    {
+      "id": 131553,
+      "name": "San Giuseppe"
+    },
+    {
+      "id": 131554,
+      "name": "San Giusto Canavese"
+    },
+    {
+      "id": 131555,
+      "name": "San Lorenzo"
+    },
+    {
+      "id": 131556,
+      "name": "San Martino Alfieri"
+    },
+    {
+      "id": 131557,
+      "name": "San Martino Canavese"
+    },
+    {
+      "id": 131558,
+      "name": "San Marzano Oliveto"
+    },
+    {
+      "id": 131559,
+      "name": "San Maurizio"
+    },
+    {
+      "id": 131560,
+      "name": "San Maurizio D'Opaglio"
+    },
+    {
+      "id": 131561,
+      "name": "San Mauro Torinese"
+    },
+    {
+      "id": 131562,
+      "name": "San Michele Mondovì"
+    },
+    {
+      "id": 131563,
+      "name": "San Nazzaro Sesia"
+    },
+    {
+      "id": 131564,
+      "name": "San Paolo Solbrito"
+    },
+    {
+      "id": 131565,
+      "name": "San Pietro Mosezzo"
+    },
+    {
+      "id": 131566,
+      "name": "San Pietro Val Lemina"
+    },
+    {
+      "id": 131567,
+      "name": "San Ponso"
+    },
+    {
+      "id": 131568,
+      "name": "San Raffaele Cimena"
+    },
+    {
+      "id": 131569,
+      "name": "San Rocco"
+    },
+    {
+      "id": 131570,
+      "name": "San Salvatore Monferrato"
+    },
+    {
+      "id": 131571,
+      "name": "San Sebastiano Curone"
+    },
+    {
+      "id": 131572,
+      "name": "San Sebastiano da Po"
+    },
+    {
+      "id": 131573,
+      "name": "San Secondo di Pinerolo"
+    },
+    {
+      "id": 131574,
+      "name": "Sandigliano"
+    },
+    {
+      "id": 131575,
+      "name": "Sanfrè"
+    },
+    {
+      "id": 131576,
+      "name": "Sanfront"
+    },
+    {
+      "id": 131577,
+      "name": "Sangano"
+    },
+    {
+      "id": 131578,
+      "name": "Sant'Agata Fossili"
+    },
+    {
+      "id": 131579,
+      "name": "Sant'Albano Stura"
+    },
+    {
+      "id": 131580,
+      "name": "Sant'Ambrogio di Torino"
+    },
+    {
+      "id": 131581,
+      "name": "Sant'Antonino di Susa"
+    },
+    {
+      "id": 131582,
+      "name": "Sant'Antonio"
+    },
+    {
+      "id": 131583,
+      "name": "Santa Maria Maggiore"
+    },
+    {
+      "id": 131584,
+      "name": "Santa Vittoria d'Alba"
+    },
+    {
+      "id": 131585,
+      "name": "Santena"
+    },
+    {
+      "id": 131586,
+      "name": "Santhià"
+    },
+    {
+      "id": 131587,
+      "name": "Santino"
+    },
+    {
+      "id": 131588,
+      "name": "Santo Stefano Belbo"
+    },
+    {
+      "id": 131589,
+      "name": "Santo Stefano Roero"
+    },
+    {
+      "id": 131590,
+      "name": "Sardigliano"
+    },
+    {
+      "id": 131591,
+      "name": "Sarezzano"
+    },
+    {
+      "id": 131592,
+      "name": "Sauze d'Oulx"
+    },
+    {
+      "id": 131593,
+      "name": "Sauze di Cesana"
+    },
+    {
+      "id": 131594,
+      "name": "Savigliano"
+    },
+    {
+      "id": 131595,
+      "name": "Savonera"
+    },
+    {
+      "id": 131596,
+      "name": "Scagnello"
+    },
+    {
+      "id": 131597,
+      "name": "Scalenghe"
+    },
+    {
+      "id": 131598,
+      "name": "Scarmagno"
+    },
+    {
+      "id": 131599,
+      "name": "Scarnafigi"
+    },
+    {
+      "id": 131600,
+      "name": "Sciolze"
+    },
+    {
+      "id": 131601,
+      "name": "Scopa"
+    },
+    {
+      "id": 131602,
+      "name": "Scopello"
+    },
+    {
+      "id": 131603,
+      "name": "Scurzolengo"
+    },
+    {
+      "id": 131604,
+      "name": "Selve Marcone"
+    },
+    {
+      "id": 131605,
+      "name": "Seppiana"
+    },
+    {
+      "id": 131606,
+      "name": "Serole"
+    },
+    {
+      "id": 131607,
+      "name": "Serralunga d'Alba"
+    },
+    {
+      "id": 131608,
+      "name": "Serralunga di Crea"
+    },
+    {
+      "id": 131609,
+      "name": "Serravalle Langhe"
+    },
+    {
+      "id": 131610,
+      "name": "Serravalle Scrivia"
+    },
+    {
+      "id": 131611,
+      "name": "Serravalle Sesia"
+    },
+    {
+      "id": 131612,
+      "name": "Serre"
+    },
+    {
+      "id": 131613,
+      "name": "Sessame"
+    },
+    {
+      "id": 131614,
+      "name": "Sestriere"
+    },
+    {
+      "id": 131615,
+      "name": "Settime"
+    },
+    {
+      "id": 131616,
+      "name": "Settimo Rottaro"
+    },
+    {
+      "id": 131617,
+      "name": "Settimo Torinese"
+    },
+    {
+      "id": 131618,
+      "name": "Settimo Vittone"
+    },
+    {
+      "id": 131619,
+      "name": "Sezzadio"
+    },
+    {
+      "id": 131620,
+      "name": "Sillavengo"
+    },
+    {
+      "id": 131621,
+      "name": "Silvano d'Orba"
+    },
+    {
+      "id": 131622,
+      "name": "Sinio"
+    },
+    {
+      "id": 131623,
+      "name": "Sizzano"
+    },
+    {
+      "id": 131624,
+      "name": "Soglio"
+    },
+    {
+      "id": 131625,
+      "name": "Solero"
+    },
+    {
+      "id": 131626,
+      "name": "Solonghello"
+    },
+    {
+      "id": 131627,
+      "name": "Somano"
+    },
+    {
+      "id": 131628,
+      "name": "Sommariva del Bosco"
+    },
+    {
+      "id": 131629,
+      "name": "Sommariva Perno"
+    },
+    {
+      "id": 131630,
+      "name": "Soprana"
+    },
+    {
+      "id": 131631,
+      "name": "Sordevolo"
+    },
+    {
+      "id": 131632,
+      "name": "Soriso"
+    },
+    {
+      "id": 131633,
+      "name": "Sostegno"
+    },
+    {
+      "id": 131634,
+      "name": "Sozzago"
+    },
+    {
+      "id": 131635,
+      "name": "Sparone"
+    },
+    {
+      "id": 131636,
+      "name": "Spigno Monferrato"
+    },
+    {
+      "id": 131637,
+      "name": "Spineto Scrivia"
+    },
+    {
+      "id": 131638,
+      "name": "Spinetta Marengo"
+    },
+    {
+      "id": 131639,
+      "name": "Staffa"
+    },
+    {
+      "id": 131640,
+      "name": "Stazzano"
+    },
+    {
+      "id": 131641,
+      "name": "Strambinello"
+    },
+    {
+      "id": 131642,
+      "name": "Strambino"
+    },
+    {
+      "id": 131643,
+      "name": "Stresa"
+    },
+    {
+      "id": 131644,
+      "name": "Strevi"
+    },
+    {
+      "id": 131645,
+      "name": "Stroppiana"
+    },
+    {
+      "id": 131646,
+      "name": "Stroppo"
+    },
+    {
+      "id": 131647,
+      "name": "Suno"
+    },
+    {
+      "id": 131648,
+      "name": "Susa"
+    },
+    {
+      "id": 131649,
+      "name": "Tagliaferro"
+    },
+    {
+      "id": 131650,
+      "name": "Tagliolo Monferrato"
+    },
+    {
+      "id": 131651,
+      "name": "Tarantasca"
+    },
+    {
+      "id": 131652,
+      "name": "Tassarolo"
+    },
+    {
+      "id": 131653,
+      "name": "Tavagnasco"
+    },
+    {
+      "id": 131654,
+      "name": "Tavigliano"
+    },
+    {
+      "id": 131655,
+      "name": "Terdobbiate"
+    },
+    {
+      "id": 131656,
+      "name": "Ternengo"
+    },
+    {
+      "id": 131657,
+      "name": "Terruggia"
+    },
+    {
+      "id": 131658,
+      "name": "Terzo"
+    },
+    {
+      "id": 131659,
+      "name": "Tetti Neirotti"
+    },
+    {
+      "id": 131660,
+      "name": "Tettorosso"
+    },
+    {
+      "id": 131661,
+      "name": "Ticineto"
+    },
+    {
+      "id": 131662,
+      "name": "Tigliole"
+    },
+    {
+      "id": 131663,
+      "name": "Toceno"
+    },
+    {
+      "id": 131664,
+      "name": "Tollegno"
+    },
+    {
+      "id": 131665,
+      "name": "Tonco"
+    },
+    {
+      "id": 131666,
+      "name": "Tonengo"
+    },
+    {
+      "id": 131667,
+      "name": "Tonengo-Casale"
+    },
+    {
+      "id": 131668,
+      "name": "Torino"
+    },
+    {
+      "id": 131669,
+      "name": "Tornaco"
+    },
+    {
+      "id": 131670,
+      "name": "Torrazza Piemonte"
+    },
+    {
+      "id": 131671,
+      "name": "Torrazzo"
+    },
+    {
+      "id": 131672,
+      "name": "Torre Bormida"
+    },
+    {
+      "id": 131673,
+      "name": "Torre Canavese"
+    },
+    {
+      "id": 131674,
+      "name": "Torre Mondovì"
+    },
+    {
+      "id": 131675,
+      "name": "Torre Pellice"
+    },
+    {
+      "id": 131676,
+      "name": "Torre San Giorgio"
+    },
+    {
+      "id": 131677,
+      "name": "Torresina"
+    },
+    {
+      "id": 131678,
+      "name": "Torrion Quartara"
+    },
+    {
+      "id": 131679,
+      "name": "Tortona"
+    },
+    {
+      "id": 131680,
+      "name": "Trana"
+    },
+    {
+      "id": 131681,
+      "name": "Trarego"
+    },
+    {
+      "id": 131682,
+      "name": "Trasquera"
+    },
+    {
+      "id": 131683,
+      "name": "Trausella"
+    },
+    {
+      "id": 131684,
+      "name": "Traversella"
+    },
+    {
+      "id": 131685,
+      "name": "Traves"
+    },
+    {
+      "id": 131686,
+      "name": "Trecate"
+    },
+    {
+      "id": 131687,
+      "name": "Treiso"
+    },
+    {
+      "id": 131688,
+      "name": "Treville"
+    },
+    {
+      "id": 131689,
+      "name": "Trezzo Tinella"
+    },
+    {
+      "id": 131690,
+      "name": "Tricerro"
+    },
+    {
+      "id": 131691,
+      "name": "Trinità"
+    },
+    {
+      "id": 131692,
+      "name": "Trino"
+    },
+    {
+      "id": 131693,
+      "name": "Trisobbio"
+    },
+    {
+      "id": 131694,
+      "name": "Trivero-Prativero-Ponzone"
+    },
+    {
+      "id": 131695,
+      "name": "Trofarello"
+    },
+    {
+      "id": 131696,
+      "name": "Trontano"
+    },
+    {
+      "id": 131697,
+      "name": "Tronzano Vercellese"
+    },
+    {
+      "id": 131698,
+      "name": "Turin"
+    },
+    {
+      "id": 131699,
+      "name": "Usseaux"
+    },
+    {
+      "id": 131700,
+      "name": "Usseglio"
+    },
+    {
+      "id": 131701,
+      "name": "Vaccheria"
+    },
+    {
+      "id": 131702,
+      "name": "Vaglio Serra"
+    },
+    {
+      "id": 131703,
+      "name": "Vaie"
+    },
+    {
+      "id": 131704,
+      "name": "Val della Torre"
+    },
+    {
+      "id": 131705,
+      "name": "Valdengo"
+    },
+    {
+      "id": 131706,
+      "name": "Valdieri"
+    },
+    {
+      "id": 131707,
+      "name": "Valduggia"
+    },
+    {
+      "id": 131708,
+      "name": "Valentino"
+    },
+    {
+      "id": 131709,
+      "name": "Valenza"
+    },
+    {
+      "id": 131710,
+      "name": "Valfenera"
+    },
+    {
+      "id": 131711,
+      "name": "Valgioie"
+    },
+    {
+      "id": 131712,
+      "name": "Valgrana"
+    },
+    {
+      "id": 131713,
+      "name": "Vallanzengo"
+    },
+    {
+      "id": 131714,
+      "name": "Valle Mosso"
+    },
+    {
+      "id": 131715,
+      "name": "Valle San Bartolomeo"
+    },
+    {
+      "id": 131716,
+      "name": "Valle San Nicolao"
+    },
+    {
+      "id": 131717,
+      "name": "Vallo Torinese"
+    },
+    {
+      "id": 131718,
+      "name": "Valloriate"
+    },
+    {
+      "id": 131719,
+      "name": "Valmacca"
+    },
+    {
+      "id": 131720,
+      "name": "Valmadonna"
+    },
+    {
+      "id": 131721,
+      "name": "Valmala"
+    },
+    {
+      "id": 131722,
+      "name": "Valperga"
+    },
+    {
+      "id": 131723,
+      "name": "Valprato Soana"
+    },
+    {
+      "id": 131724,
+      "name": "Valstrona"
+    },
+    {
+      "id": 131725,
+      "name": "Vanzone"
+    },
+    {
+      "id": 131726,
+      "name": "Vaprio D'Agogna"
+    },
+    {
+      "id": 131727,
+      "name": "Varallo"
+    },
+    {
+      "id": 131728,
+      "name": "Varallo Pombia"
+    },
+    {
+      "id": 131729,
+      "name": "Varisella"
+    },
+    {
+      "id": 131730,
+      "name": "Varzo"
+    },
+    {
+      "id": 131731,
+      "name": "Vauda Canavese Superiore"
+    },
+    {
+      "id": 131732,
+      "name": "Veglio"
+    },
+    {
+      "id": 131733,
+      "name": "Venaria Reale"
+    },
+    {
+      "id": 131734,
+      "name": "Venasca"
+    },
+    {
+      "id": 131735,
+      "name": "Venaus"
+    },
+    {
+      "id": 131736,
+      "name": "Verbania"
+    },
+    {
+      "id": 131737,
+      "name": "Vercelli"
+    },
+    {
+      "id": 131738,
+      "name": "Verduno"
+    },
+    {
+      "id": 131739,
+      "name": "Vergnasco"
+    },
+    {
+      "id": 131740,
+      "name": "Vernante"
+    },
+    {
+      "id": 131741,
+      "name": "Verolengo"
+    },
+    {
+      "id": 131742,
+      "name": "Verrone"
+    },
+    {
+      "id": 131743,
+      "name": "Verrua Savoia"
+    },
+    {
+      "id": 131744,
+      "name": "Veruno"
+    },
+    {
+      "id": 131745,
+      "name": "Verzuolo"
+    },
+    {
+      "id": 131746,
+      "name": "Vesime"
+    },
+    {
+      "id": 131747,
+      "name": "Vespolate"
+    },
+    {
+      "id": 131748,
+      "name": "Vestignè"
+    },
+    {
+      "id": 131749,
+      "name": "Vezza d'Alba"
+    },
+    {
+      "id": 131750,
+      "name": "Viale"
+    },
+    {
+      "id": 131751,
+      "name": "Vialfrè"
+    },
+    {
+      "id": 131752,
+      "name": "Viarigi"
+    },
+    {
+      "id": 131753,
+      "name": "Vico Canavese"
+    },
+    {
+      "id": 131754,
+      "name": "Vicoforte"
+    },
+    {
+      "id": 131755,
+      "name": "Vicolungo"
+    },
+    {
+      "id": 131756,
+      "name": "Vidracco"
+    },
+    {
+      "id": 131757,
+      "name": "Viganella"
+    },
+    {
+      "id": 131758,
+      "name": "Vigliano Biellese"
+    },
+    {
+      "id": 131759,
+      "name": "Vigliano d'Asti"
+    },
+    {
+      "id": 131760,
+      "name": "Vignale Monferrato"
+    },
+    {
+      "id": 131761,
+      "name": "Vignole Borbera"
+    },
+    {
+      "id": 131762,
+      "name": "Vignolo"
+    },
+    {
+      "id": 131763,
+      "name": "Vignone"
+    },
+    {
+      "id": 131764,
+      "name": "Vigone"
+    },
+    {
+      "id": 131765,
+      "name": "Viguzzolo"
+    },
+    {
+      "id": 131766,
+      "name": "Villa"
+    },
+    {
+      "id": 131767,
+      "name": "Villa del Bosco"
+    },
+    {
+      "id": 131768,
+      "name": "Villa San Secondo"
+    },
+    {
+      "id": 131769,
+      "name": "Villa-Borgo"
+    },
+    {
+      "id": 131770,
+      "name": "Villadeati"
+    },
+    {
+      "id": 131771,
+      "name": "Villadossola"
+    },
+    {
+      "id": 131772,
+      "name": "Villafalletto"
+    },
+    {
+      "id": 131773,
+      "name": "Villafranca d'Asti"
+    },
+    {
+      "id": 131774,
+      "name": "Villafranca Piemonte"
+    },
+    {
+      "id": 131775,
+      "name": "Villalvernia"
+    },
+    {
+      "id": 131776,
+      "name": "Villamiroglio"
+    },
+    {
+      "id": 131777,
+      "name": "Villanova Biellese"
+    },
+    {
+      "id": 131778,
+      "name": "Villanova Canavese"
+    },
+    {
+      "id": 131779,
+      "name": "Villanova d'Asti"
+    },
+    {
+      "id": 131780,
+      "name": "Villanova Mondovì"
+    },
+    {
+      "id": 131781,
+      "name": "Villanova Monferrato"
+    },
+    {
+      "id": 131782,
+      "name": "Villanova Solaro"
+    },
+    {
+      "id": 131783,
+      "name": "Villar Dora"
+    },
+    {
+      "id": 131784,
+      "name": "Villar Focchiardo"
+    },
+    {
+      "id": 131785,
+      "name": "Villar Pellice"
+    },
+    {
+      "id": 131786,
+      "name": "Villar Perosa"
+    },
+    {
+      "id": 131787,
+      "name": "Villar San Costanzo"
+    },
+    {
+      "id": 131788,
+      "name": "Villarbasse"
+    },
+    {
+      "id": 131789,
+      "name": "Villarboit"
+    },
+    {
+      "id": 131790,
+      "name": "Villareggia"
+    },
+    {
+      "id": 131791,
+      "name": "Villaromagnano"
+    },
+    {
+      "id": 131792,
+      "name": "Villastellone"
+    },
+    {
+      "id": 131793,
+      "name": "Villata"
+    },
+    {
+      "id": 131794,
+      "name": "Villette"
+    },
+    {
+      "id": 131795,
+      "name": "Vinadio"
+    },
+    {
+      "id": 131796,
+      "name": "Vinchio"
+    },
+    {
+      "id": 131797,
+      "name": "Vinovo"
+    },
+    {
+      "id": 131798,
+      "name": "Vinzaglio"
+    },
+    {
+      "id": 131799,
+      "name": "Viola"
+    },
+    {
+      "id": 131800,
+      "name": "Virle Piemonte"
+    },
+    {
+      "id": 131801,
+      "name": "Vische"
+    },
+    {
+      "id": 131802,
+      "name": "Visone"
+    },
+    {
+      "id": 131803,
+      "name": "Vistrorio"
+    },
+    {
+      "id": 131804,
+      "name": "Viù"
+    },
+    {
+      "id": 131805,
+      "name": "Viverone"
+    },
+    {
+      "id": 131806,
+      "name": "Vocca"
+    },
+    {
+      "id": 131807,
+      "name": "Vogogna"
+    },
+    {
+      "id": 131808,
+      "name": "Volpedo"
+    },
+    {
+      "id": 131809,
+      "name": "Volpeglino"
+    },
+    {
+      "id": 131810,
+      "name": "Volpiano"
+    },
+    {
+      "id": 131811,
+      "name": "Voltaggio"
+    },
+    {
+      "id": 131812,
+      "name": "Volvera"
+    },
+    {
+      "id": 131813,
+      "name": "Vottignasco"
+    },
+    {
+      "id": 131814,
+      "name": "Zimone"
+    },
+    {
+      "id": 131815,
+      "name": "Zubiena"
+    },
+    {
+      "id": 131816,
+      "name": "Zumaglia"
+    }
+  ]
+}

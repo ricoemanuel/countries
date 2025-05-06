@@ -1,0 +1,2111 @@
+{
+  "id": 3868,
+  "name": "Normandie",
+  "state_code": "NOR",
+  "cities": [
+    {
+      "id": 102870,
+      "name": "Ablon"
+    },
+    {
+      "id": 102871,
+      "name": "Acquigny"
+    },
+    {
+      "id": 102872,
+      "name": "Agneaux"
+    },
+    {
+      "id": 102873,
+      "name": "Agon-Coutainville"
+    },
+    {
+      "id": 102874,
+      "name": "Alençon"
+    },
+    {
+      "id": 102875,
+      "name": "Alizay"
+    },
+    {
+      "id": 102876,
+      "name": "Amfreville"
+    },
+    {
+      "id": 102877,
+      "name": "Amfreville-la-Mi-Voie"
+    },
+    {
+      "id": 102878,
+      "name": "Andé"
+    },
+    {
+      "id": 102879,
+      "name": "Angerville-l’Orcher"
+    },
+    {
+      "id": 102880,
+      "name": "Argences"
+    },
+    {
+      "id": 102881,
+      "name": "Argentan"
+    },
+    {
+      "id": 102882,
+      "name": "Arnières-sur-Iton"
+    },
+    {
+      "id": 102883,
+      "name": "Arques-la-Bataille"
+    },
+    {
+      "id": 102884,
+      "name": "Athis-de-l'Orne"
+    },
+    {
+      "id": 102885,
+      "name": "Aube-sur-Rîle"
+    },
+    {
+      "id": 102886,
+      "name": "Aubevoye"
+    },
+    {
+      "id": 102887,
+      "name": "Auffay"
+    },
+    {
+      "id": 102888,
+      "name": "Aumale"
+    },
+    {
+      "id": 102889,
+      "name": "Aunay-sur-Odon"
+    },
+    {
+      "id": 102890,
+      "name": "Authie"
+    },
+    {
+      "id": 102891,
+      "name": "Auzebosc"
+    },
+    {
+      "id": 102892,
+      "name": "Aviron"
+    },
+    {
+      "id": 102893,
+      "name": "Avranches"
+    },
+    {
+      "id": 102894,
+      "name": "Bacqueville-en-Caux"
+    },
+    {
+      "id": 102895,
+      "name": "Bagnoles-de-l'Orne"
+    },
+    {
+      "id": 102896,
+      "name": "Barentin"
+    },
+    {
+      "id": 102897,
+      "name": "Barenton"
+    },
+    {
+      "id": 102898,
+      "name": "Barneville-Carteret"
+    },
+    {
+      "id": 102899,
+      "name": "Barneville-Plage"
+    },
+    {
+      "id": 102900,
+      "name": "Bavent"
+    },
+    {
+      "id": 102901,
+      "name": "Bayeux"
+    },
+    {
+      "id": 102902,
+      "name": "Beaumont-Hague"
+    },
+    {
+      "id": 102903,
+      "name": "Beaumont-le-Roger"
+    },
+    {
+      "id": 102904,
+      "name": "Belbeuf"
+    },
+    {
+      "id": 102905,
+      "name": "Bellême"
+    },
+    {
+      "id": 102906,
+      "name": "Bellengreville"
+    },
+    {
+      "id": 102907,
+      "name": "Bénouville"
+    },
+    {
+      "id": 102908,
+      "name": "Bernay"
+    },
+    {
+      "id": 102909,
+      "name": "Berneval-le-Grand"
+    },
+    {
+      "id": 102910,
+      "name": "Bernières-sur-Mer"
+    },
+    {
+      "id": 102911,
+      "name": "Beuville"
+    },
+    {
+      "id": 102912,
+      "name": "Beuvillers"
+    },
+    {
+      "id": 102913,
+      "name": "Beuzeville"
+    },
+    {
+      "id": 102914,
+      "name": "Beuzeville-la-Grenier"
+    },
+    {
+      "id": 102915,
+      "name": "Bézu-Saint-Éloi"
+    },
+    {
+      "id": 102916,
+      "name": "Biéville-Beuville"
+    },
+    {
+      "id": 102917,
+      "name": "Bihorel"
+    },
+    {
+      "id": 102918,
+      "name": "Blainville-Crevon"
+    },
+    {
+      "id": 102919,
+      "name": "Blainville-sur-Mer"
+    },
+    {
+      "id": 102920,
+      "name": "Blainville-sur-Orne"
+    },
+    {
+      "id": 102921,
+      "name": "Blangy-sur-Bresle"
+    },
+    {
+      "id": 102922,
+      "name": "Blonville-sur-Mer"
+    },
+    {
+      "id": 102923,
+      "name": "Bois-Guillaume"
+    },
+    {
+      "id": 102924,
+      "name": "Bolbec"
+    },
+    {
+      "id": 102925,
+      "name": "Boos"
+    },
+    {
+      "id": 102926,
+      "name": "Bosc-le-Hard"
+    },
+    {
+      "id": 102927,
+      "name": "Bourg-Achard"
+    },
+    {
+      "id": 102928,
+      "name": "Bourgtheroulde-Infreville"
+    },
+    {
+      "id": 102929,
+      "name": "Bourguébus"
+    },
+    {
+      "id": 102930,
+      "name": "Bourth"
+    },
+    {
+      "id": 102931,
+      "name": "Bouville"
+    },
+    {
+      "id": 102932,
+      "name": "Bréauté"
+    },
+    {
+      "id": 102933,
+      "name": "Brécey"
+    },
+    {
+      "id": 102934,
+      "name": "Bréhal"
+    },
+    {
+      "id": 102935,
+      "name": "Breteuil"
+    },
+    {
+      "id": 102936,
+      "name": "Bretoncelles"
+    },
+    {
+      "id": 102937,
+      "name": "Bretteville"
+    },
+    {
+      "id": 102938,
+      "name": "Bretteville-du-Grand-Caux"
+    },
+    {
+      "id": 102939,
+      "name": "Bretteville-l’Orgueilleuse"
+    },
+    {
+      "id": 102940,
+      "name": "Bretteville-sur-Laize"
+    },
+    {
+      "id": 102941,
+      "name": "Bretteville-sur-Odon"
+    },
+    {
+      "id": 102942,
+      "name": "Breuilpont"
+    },
+    {
+      "id": 102943,
+      "name": "Bricquebec"
+    },
+    {
+      "id": 102944,
+      "name": "Brionne"
+    },
+    {
+      "id": 102945,
+      "name": "Briouze"
+    },
+    {
+      "id": 102946,
+      "name": "Brix"
+    },
+    {
+      "id": 102947,
+      "name": "Broglie"
+    },
+    {
+      "id": 102948,
+      "name": "Buchy"
+    },
+    {
+      "id": 102949,
+      "name": "Bueil"
+    },
+    {
+      "id": 102950,
+      "name": "Bully"
+    },
+    {
+      "id": 102951,
+      "name": "Cabourg"
+    },
+    {
+      "id": 102952,
+      "name": "Caen"
+    },
+    {
+      "id": 102953,
+      "name": "Cagny"
+    },
+    {
+      "id": 102954,
+      "name": "Cahagnes"
+    },
+    {
+      "id": 102955,
+      "name": "Cairon"
+    },
+    {
+      "id": 102956,
+      "name": "Calvados"
+    },
+    {
+      "id": 102957,
+      "name": "Cambes-en-Plaine"
+    },
+    {
+      "id": 102958,
+      "name": "Cambremer"
+    },
+    {
+      "id": 102959,
+      "name": "Canon"
+    },
+    {
+      "id": 102960,
+      "name": "Canteleu"
+    },
+    {
+      "id": 102961,
+      "name": "Cany-Barville"
+    },
+    {
+      "id": 102962,
+      "name": "Carentan"
+    },
+    {
+      "id": 102963,
+      "name": "Carpiquet"
+    },
+    {
+      "id": 102964,
+      "name": "Caudebec-en-Caux"
+    },
+    {
+      "id": 102965,
+      "name": "Caudebec-lès-Elbeuf"
+    },
+    {
+      "id": 102966,
+      "name": "Caumont"
+    },
+    {
+      "id": 102967,
+      "name": "Caumont-l'Éventé"
+    },
+    {
+      "id": 102968,
+      "name": "Cauville-sur-Mer"
+    },
+    {
+      "id": 102969,
+      "name": "Ceaucé"
+    },
+    {
+      "id": 102970,
+      "name": "Cérences"
+    },
+    {
+      "id": 102971,
+      "name": "Cerisy-la-Salle"
+    },
+    {
+      "id": 102972,
+      "name": "Ceton"
+    },
+    {
+      "id": 102973,
+      "name": "Champsecret"
+    },
+    {
+      "id": 102974,
+      "name": "Chanu"
+    },
+    {
+      "id": 102975,
+      "name": "Charleval"
+    },
+    {
+      "id": 102976,
+      "name": "Cherbourg-Octeville"
+    },
+    {
+      "id": 102977,
+      "name": "Cheux"
+    },
+    {
+      "id": 102978,
+      "name": "Claville"
+    },
+    {
+      "id": 102979,
+      "name": "Clécy"
+    },
+    {
+      "id": 102980,
+      "name": "Cléon"
+    },
+    {
+      "id": 102981,
+      "name": "Clères"
+    },
+    {
+      "id": 102982,
+      "name": "Clinchamps-sur-Orne"
+    },
+    {
+      "id": 102983,
+      "name": "Colleville-Montgomery"
+    },
+    {
+      "id": 102984,
+      "name": "Colombelles"
+    },
+    {
+      "id": 102985,
+      "name": "Conches-en-Ouche"
+    },
+    {
+      "id": 102986,
+      "name": "Condé-sur-Huisne"
+    },
+    {
+      "id": 102987,
+      "name": "Condé-sur-Noireau"
+    },
+    {
+      "id": 102988,
+      "name": "Condé-sur-Sarthe"
+    },
+    {
+      "id": 102989,
+      "name": "Condé-sur-Vire"
+    },
+    {
+      "id": 102990,
+      "name": "Cormeilles"
+    },
+    {
+      "id": 102991,
+      "name": "Cormelles-le-Royal"
+    },
+    {
+      "id": 102992,
+      "name": "Corneville-sur-Risle"
+    },
+    {
+      "id": 102993,
+      "name": "Courcelles-sur-Seine"
+    },
+    {
+      "id": 102994,
+      "name": "Courseulles-sur-Mer"
+    },
+    {
+      "id": 102995,
+      "name": "Courteilles"
+    },
+    {
+      "id": 102996,
+      "name": "Coutances"
+    },
+    {
+      "id": 102997,
+      "name": "Couterne"
+    },
+    {
+      "id": 102998,
+      "name": "Créances"
+    },
+    {
+      "id": 102999,
+      "name": "Cresserons"
+    },
+    {
+      "id": 103000,
+      "name": "Creully"
+    },
+    {
+      "id": 103001,
+      "name": "Criel-sur-Mer"
+    },
+    {
+      "id": 103002,
+      "name": "Criquebeuf-sur-Seine"
+    },
+    {
+      "id": 103003,
+      "name": "Criquetot-l’Esneval"
+    },
+    {
+      "id": 103004,
+      "name": "Croth"
+    },
+    {
+      "id": 103005,
+      "name": "Cuverville"
+    },
+    {
+      "id": 103006,
+      "name": "Damigny"
+    },
+    {
+      "id": 103007,
+      "name": "Damville"
+    },
+    {
+      "id": 103008,
+      "name": "Darnétal"
+    },
+    {
+      "id": 103009,
+      "name": "Deauville"
+    },
+    {
+      "id": 103010,
+      "name": "Démouville"
+    },
+    {
+      "id": 103011,
+      "name": "Département de l'Eure"
+    },
+    {
+      "id": 103012,
+      "name": "Département de l'Orne"
+    },
+    {
+      "id": 103013,
+      "name": "Déville-lès-Rouen"
+    },
+    {
+      "id": 103014,
+      "name": "Dieppe"
+    },
+    {
+      "id": 103015,
+      "name": "Digosville"
+    },
+    {
+      "id": 103016,
+      "name": "Dives-sur-Mer"
+    },
+    {
+      "id": 103017,
+      "name": "Domfront"
+    },
+    {
+      "id": 103018,
+      "name": "Donville-les-Bains"
+    },
+    {
+      "id": 103019,
+      "name": "Doudeville"
+    },
+    {
+      "id": 103020,
+      "name": "Douvres-la-Délivrande"
+    },
+    {
+      "id": 103021,
+      "name": "Dozulé"
+    },
+    {
+      "id": 103022,
+      "name": "Ducey"
+    },
+    {
+      "id": 103023,
+      "name": "Duclair"
+    },
+    {
+      "id": 103024,
+      "name": "Écouché"
+    },
+    {
+      "id": 103025,
+      "name": "Écrainville"
+    },
+    {
+      "id": 103026,
+      "name": "Elbeuf"
+    },
+    {
+      "id": 103027,
+      "name": "Envermeu"
+    },
+    {
+      "id": 103028,
+      "name": "Épaignes"
+    },
+    {
+      "id": 103029,
+      "name": "Épouville"
+    },
+    {
+      "id": 103030,
+      "name": "Épron"
+    },
+    {
+      "id": 103031,
+      "name": "Équemauville"
+    },
+    {
+      "id": 103032,
+      "name": "Équeurdreville-Hainneville"
+    },
+    {
+      "id": 103033,
+      "name": "Eslettes"
+    },
+    {
+      "id": 103034,
+      "name": "Étainhus"
+    },
+    {
+      "id": 103035,
+      "name": "Éterville"
+    },
+    {
+      "id": 103036,
+      "name": "Étrépagny"
+    },
+    {
+      "id": 103037,
+      "name": "Étretat"
+    },
+    {
+      "id": 103038,
+      "name": "Eu"
+    },
+    {
+      "id": 103039,
+      "name": "Évrecy"
+    },
+    {
+      "id": 103040,
+      "name": "Évreux"
+    },
+    {
+      "id": 103041,
+      "name": "Ézy-sur-Eure"
+    },
+    {
+      "id": 103042,
+      "name": "Falaise"
+    },
+    {
+      "id": 103043,
+      "name": "Fauville-en-Caux"
+    },
+    {
+      "id": 103044,
+      "name": "Fécamp"
+    },
+    {
+      "id": 103045,
+      "name": "Fermanville"
+    },
+    {
+      "id": 103046,
+      "name": "Flamanville"
+    },
+    {
+      "id": 103047,
+      "name": "Flers"
+    },
+    {
+      "id": 103048,
+      "name": "Fleury-sur-Andelle"
+    },
+    {
+      "id": 103049,
+      "name": "Fleury-sur-Orne"
+    },
+    {
+      "id": 103050,
+      "name": "Fontaine-Étoupefour"
+    },
+    {
+      "id": 103051,
+      "name": "Fontaine-la-Mallet"
+    },
+    {
+      "id": 103052,
+      "name": "Fontaine-le-Bourg"
+    },
+    {
+      "id": 103053,
+      "name": "Fontaine-le-Dun"
+    },
+    {
+      "id": 103054,
+      "name": "Fontenay"
+    },
+    {
+      "id": 103055,
+      "name": "Fontenay-le-Marmion"
+    },
+    {
+      "id": 103056,
+      "name": "Forges-les-Eaux"
+    },
+    {
+      "id": 103057,
+      "name": "Foucarmont"
+    },
+    {
+      "id": 103058,
+      "name": "Francheville"
+    },
+    {
+      "id": 103059,
+      "name": "Gacé"
+    },
+    {
+      "id": 103060,
+      "name": "Gaillefontaine"
+    },
+    {
+      "id": 103061,
+      "name": "Gaillon"
+    },
+    {
+      "id": 103062,
+      "name": "Gainneville"
+    },
+    {
+      "id": 103063,
+      "name": "Garennes-sur-Eure"
+    },
+    {
+      "id": 103064,
+      "name": "Gasny"
+    },
+    {
+      "id": 103065,
+      "name": "Gavray"
+    },
+    {
+      "id": 103066,
+      "name": "Giberville"
+    },
+    {
+      "id": 103067,
+      "name": "Gisors"
+    },
+    {
+      "id": 103068,
+      "name": "Goderville"
+    },
+    {
+      "id": 103069,
+      "name": "Gonneville-la-Mallet"
+    },
+    {
+      "id": 103070,
+      "name": "Gournay-en-Bray"
+    },
+    {
+      "id": 103071,
+      "name": "Gouville-sur-Mer"
+    },
+    {
+      "id": 103072,
+      "name": "Grainville-la-Teinturière"
+    },
+    {
+      "id": 103073,
+      "name": "Grainville-sur-Odon"
+    },
+    {
+      "id": 103074,
+      "name": "Grand-Couronne"
+    },
+    {
+      "id": 103075,
+      "name": "Grandcamp-Maisy"
+    },
+    {
+      "id": 103076,
+      "name": "Granville"
+    },
+    {
+      "id": 103077,
+      "name": "Gravigny"
+    },
+    {
+      "id": 103078,
+      "name": "Gruchet-le-Valasse"
+    },
+    {
+      "id": 103079,
+      "name": "Guichainville"
+    },
+    {
+      "id": 103080,
+      "name": "Hambye"
+    },
+    {
+      "id": 103081,
+      "name": "Harfleur"
+    },
+    {
+      "id": 103082,
+      "name": "Hautot-sur-Mer"
+    },
+    {
+      "id": 103083,
+      "name": "Hauville"
+    },
+    {
+      "id": 103084,
+      "name": "Hénouville"
+    },
+    {
+      "id": 103085,
+      "name": "Hermanville-sur-Mer"
+    },
+    {
+      "id": 103086,
+      "name": "Hérouville-Saint-Clair"
+    },
+    {
+      "id": 103087,
+      "name": "Hérouvillette"
+    },
+    {
+      "id": 103088,
+      "name": "Heudreville-sur-Eure"
+    },
+    {
+      "id": 103089,
+      "name": "Honfleur"
+    },
+    {
+      "id": 103090,
+      "name": "Houlbec-Cocherel"
+    },
+    {
+      "id": 103091,
+      "name": "Houlgate"
+    },
+    {
+      "id": 103092,
+      "name": "Houppeville"
+    },
+    {
+      "id": 103093,
+      "name": "Ifs"
+    },
+    {
+      "id": 103094,
+      "name": "Igoville"
+    },
+    {
+      "id": 103095,
+      "name": "Incheville"
+    },
+    {
+      "id": 103096,
+      "name": "Isigny-le-Buat"
+    },
+    {
+      "id": 103097,
+      "name": "Isigny-sur-Mer"
+    },
+    {
+      "id": 103098,
+      "name": "Isneauville"
+    },
+    {
+      "id": 103099,
+      "name": "Ivry-la-Bataille"
+    },
+    {
+      "id": 103100,
+      "name": "Jullouville"
+    },
+    {
+      "id": 103101,
+      "name": "Jumièges"
+    },
+    {
+      "id": 103102,
+      "name": "Juvigny-sous-Andaine"
+    },
+    {
+      "id": 103103,
+      "name": "La Bonneville-sur-Iton"
+    },
+    {
+      "id": 103104,
+      "name": "La Cerlangue"
+    },
+    {
+      "id": 103105,
+      "name": "La Chapelle-Réanville"
+    },
+    {
+      "id": 103106,
+      "name": "La Couture-Boussey"
+    },
+    {
+      "id": 103107,
+      "name": "La Ferrière-aux-Étangs"
+    },
+    {
+      "id": 103108,
+      "name": "La Ferté-Macé"
+    },
+    {
+      "id": 103109,
+      "name": "La Feuillie"
+    },
+    {
+      "id": 103110,
+      "name": "La Glacerie"
+    },
+    {
+      "id": 103111,
+      "name": "La Haye-du-Puits"
+    },
+    {
+      "id": 103112,
+      "name": "La Haye-Malherbe"
+    },
+    {
+      "id": 103113,
+      "name": "La Haye-Pesnel"
+    },
+    {
+      "id": 103114,
+      "name": "La Lande-Patry"
+    },
+    {
+      "id": 103115,
+      "name": "La Madeleine-de-Nonancourt"
+    },
+    {
+      "id": 103116,
+      "name": "La Mailleraye-sur-Seine"
+    },
+    {
+      "id": 103117,
+      "name": "La Meauffe"
+    },
+    {
+      "id": 103118,
+      "name": "La Remuée"
+    },
+    {
+      "id": 103119,
+      "name": "La Rivière-Saint-Sauveur"
+    },
+    {
+      "id": 103120,
+      "name": "La Saussaye"
+    },
+    {
+      "id": 103121,
+      "name": "La Selle-la-Forge"
+    },
+    {
+      "id": 103122,
+      "name": "La Vaupalière"
+    },
+    {
+      "id": 103123,
+      "name": "La Vespière"
+    },
+    {
+      "id": 103124,
+      "name": "Langrune-sur-Mer"
+    },
+    {
+      "id": 103125,
+      "name": "Lanquetot"
+    },
+    {
+      "id": 103126,
+      "name": "Le Bosc-Roger-en-Roumois"
+    },
+    {
+      "id": 103127,
+      "name": "Le Grand-Quevilly"
+    },
+    {
+      "id": 103128,
+      "name": "Le Havre"
+    },
+    {
+      "id": 103129,
+      "name": "Le Houlme"
+    },
+    {
+      "id": 103130,
+      "name": "Le Manoir"
+    },
+    {
+      "id": 103131,
+      "name": "Le Mesnil-Esnard"
+    },
+    {
+      "id": 103132,
+      "name": "Le Molay-Littry"
+    },
+    {
+      "id": 103133,
+      "name": "Le Neubourg"
+    },
+    {
+      "id": 103134,
+      "name": "Le Petit-Quevilly"
+    },
+    {
+      "id": 103135,
+      "name": "Le Teilleul"
+    },
+    {
+      "id": 103136,
+      "name": "Le Theil-Bocage"
+    },
+    {
+      "id": 103137,
+      "name": "Le Thuit-Signol"
+    },
+    {
+      "id": 103138,
+      "name": "Le Trait"
+    },
+    {
+      "id": 103139,
+      "name": "Le Tréport"
+    },
+    {
+      "id": 103140,
+      "name": "Le Val-Saint-Père"
+    },
+    {
+      "id": 103141,
+      "name": "Le Vaudreuil"
+    },
+    {
+      "id": 103142,
+      "name": "Léry"
+    },
+    {
+      "id": 103143,
+      "name": "Les Andelys"
+    },
+    {
+      "id": 103144,
+      "name": "Les Authieux-sur-le-Port-Saint-Ouen"
+    },
+    {
+      "id": 103145,
+      "name": "Les Grandes-Ventes"
+    },
+    {
+      "id": 103146,
+      "name": "Les Loges"
+    },
+    {
+      "id": 103147,
+      "name": "Les Loges-Marchis"
+    },
+    {
+      "id": 103148,
+      "name": "Les Pieux"
+    },
+    {
+      "id": 103149,
+      "name": "Lessay"
+    },
+    {
+      "id": 103150,
+      "name": "Lieurey"
+    },
+    {
+      "id": 103151,
+      "name": "Lillebonne"
+    },
+    {
+      "id": 103152,
+      "name": "Limésy"
+    },
+    {
+      "id": 103153,
+      "name": "Lion-sur-Mer"
+    },
+    {
+      "id": 103154,
+      "name": "Lisieux"
+    },
+    {
+      "id": 103155,
+      "name": "Livarot"
+    },
+    {
+      "id": 103156,
+      "name": "Londinières"
+    },
+    {
+      "id": 103157,
+      "name": "Longny-au-Perche"
+    },
+    {
+      "id": 103158,
+      "name": "Louviers"
+    },
+    {
+      "id": 103159,
+      "name": "Louvigny"
+    },
+    {
+      "id": 103160,
+      "name": "Luc-sur-Mer"
+    },
+    {
+      "id": 103161,
+      "name": "Luneray"
+    },
+    {
+      "id": 103162,
+      "name": "Magny-le-Désert"
+    },
+    {
+      "id": 103163,
+      "name": "Malaunay"
+    },
+    {
+      "id": 103164,
+      "name": "Manche"
+    },
+    {
+      "id": 103165,
+      "name": "Manéglise"
+    },
+    {
+      "id": 103166,
+      "name": "Manneville-sur-Risle"
+    },
+    {
+      "id": 103167,
+      "name": "Marcey-les-Grèves"
+    },
+    {
+      "id": 103168,
+      "name": "Marcilly-sur-Eure"
+    },
+    {
+      "id": 103169,
+      "name": "Marigny"
+    },
+    {
+      "id": 103170,
+      "name": "Maromme"
+    },
+    {
+      "id": 103171,
+      "name": "Martin-Église"
+    },
+    {
+      "id": 103172,
+      "name": "Martinvast"
+    },
+    {
+      "id": 103173,
+      "name": "Mathieu"
+    },
+    {
+      "id": 103174,
+      "name": "May-sur-Orne"
+    },
+    {
+      "id": 103175,
+      "name": "Ménilles"
+    },
+    {
+      "id": 103176,
+      "name": "Menneval"
+    },
+    {
+      "id": 103177,
+      "name": "Merville-Franceville-Plage"
+    },
+    {
+      "id": 103178,
+      "name": "Mesnières-en-Bray"
+    },
+    {
+      "id": 103179,
+      "name": "Messei"
+    },
+    {
+      "id": 103180,
+      "name": "Mondeville"
+    },
+    {
+      "id": 103181,
+      "name": "Mont-Saint-Aignan"
+    },
+    {
+      "id": 103182,
+      "name": "Montaure"
+    },
+    {
+      "id": 103183,
+      "name": "Montebourg"
+    },
+    {
+      "id": 103184,
+      "name": "Montigny"
+    },
+    {
+      "id": 103185,
+      "name": "Montivilliers"
+    },
+    {
+      "id": 103186,
+      "name": "Montmain"
+    },
+    {
+      "id": 103187,
+      "name": "Montmartin-sur-Mer"
+    },
+    {
+      "id": 103188,
+      "name": "Mortagne-au-Perche"
+    },
+    {
+      "id": 103189,
+      "name": "Mortain"
+    },
+    {
+      "id": 103190,
+      "name": "Mortrée"
+    },
+    {
+      "id": 103191,
+      "name": "Mouen"
+    },
+    {
+      "id": 103192,
+      "name": "Moult"
+    },
+    {
+      "id": 103193,
+      "name": "Moyaux"
+    },
+    {
+      "id": 103194,
+      "name": "Nassandres"
+    },
+    {
+      "id": 103195,
+      "name": "Neaufles-Saint-Martin"
+    },
+    {
+      "id": 103196,
+      "name": "Neufchâtel-en-Bray"
+    },
+    {
+      "id": 103197,
+      "name": "Néville"
+    },
+    {
+      "id": 103198,
+      "name": "Nointot"
+    },
+    {
+      "id": 103199,
+      "name": "Nonancourt"
+    },
+    {
+      "id": 103200,
+      "name": "Normanville"
+    },
+    {
+      "id": 103201,
+      "name": "Notre-Dame-de-Bondeville"
+    },
+    {
+      "id": 103202,
+      "name": "Notre-Dame-de-Gravenchon"
+    },
+    {
+      "id": 103203,
+      "name": "Octeville"
+    },
+    {
+      "id": 103204,
+      "name": "Octeville-sur-Mer"
+    },
+    {
+      "id": 103205,
+      "name": "Offranville"
+    },
+    {
+      "id": 103206,
+      "name": "Oissel"
+    },
+    {
+      "id": 103207,
+      "name": "Orbec"
+    },
+    {
+      "id": 103208,
+      "name": "Orival"
+    },
+    {
+      "id": 103209,
+      "name": "Ouistreham"
+    },
+    {
+      "id": 103210,
+      "name": "Ourville-en-Caux"
+    },
+    {
+      "id": 103211,
+      "name": "Pacy-sur-Eure"
+    },
+    {
+      "id": 103212,
+      "name": "Parigny"
+    },
+    {
+      "id": 103213,
+      "name": "Pavilly"
+    },
+    {
+      "id": 103214,
+      "name": "Percy"
+    },
+    {
+      "id": 103215,
+      "name": "Périers"
+    },
+    {
+      "id": 103216,
+      "name": "Perriers-sur-Andelle"
+    },
+    {
+      "id": 103217,
+      "name": "Petit-Couronne"
+    },
+    {
+      "id": 103218,
+      "name": "Petiville"
+    },
+    {
+      "id": 103219,
+      "name": "Picauville"
+    },
+    {
+      "id": 103220,
+      "name": "Pirou"
+    },
+    {
+      "id": 103221,
+      "name": "Pissy-Pôville"
+    },
+    {
+      "id": 103222,
+      "name": "Pîtres"
+    },
+    {
+      "id": 103223,
+      "name": "Pont-Audemer"
+    },
+    {
+      "id": 103224,
+      "name": "Pont-d'Ouilly"
+    },
+    {
+      "id": 103225,
+      "name": "Pont-Écrepin"
+    },
+    {
+      "id": 103226,
+      "name": "Pont-Hébert"
+    },
+    {
+      "id": 103227,
+      "name": "Pont-l’Évêque"
+    },
+    {
+      "id": 103228,
+      "name": "Pont-Saint-Pierre"
+    },
+    {
+      "id": 103229,
+      "name": "Pontorson"
+    },
+    {
+      "id": 103230,
+      "name": "Port-en-Bessin-Huppain"
+    },
+    {
+      "id": 103231,
+      "name": "Portbail"
+    },
+    {
+      "id": 103232,
+      "name": "Poses"
+    },
+    {
+      "id": 103233,
+      "name": "Potigny"
+    },
+    {
+      "id": 103234,
+      "name": "Préaux"
+    },
+    {
+      "id": 103235,
+      "name": "Putanges-Pont-Écrepin"
+    },
+    {
+      "id": 103236,
+      "name": "Querqueville"
+    },
+    {
+      "id": 103237,
+      "name": "Quettehou"
+    },
+    {
+      "id": 103238,
+      "name": "Quettreville-sur-Sienne"
+    },
+    {
+      "id": 103239,
+      "name": "Quillebeuf-sur-Seine"
+    },
+    {
+      "id": 103240,
+      "name": "Quincampoix"
+    },
+    {
+      "id": 103241,
+      "name": "Radon"
+    },
+    {
+      "id": 103242,
+      "name": "Rai"
+    },
+    {
+      "id": 103243,
+      "name": "Ranville"
+    },
+    {
+      "id": 103244,
+      "name": "Rémalard"
+    },
+    {
+      "id": 103245,
+      "name": "Réville"
+    },
+    {
+      "id": 103246,
+      "name": "Rogerville"
+    },
+    {
+      "id": 103247,
+      "name": "Rolleville"
+    },
+    {
+      "id": 103248,
+      "name": "Romagny"
+    },
+    {
+      "id": 103249,
+      "name": "Romilly-sur-Andelle"
+    },
+    {
+      "id": 103250,
+      "name": "Roncherolles-sur-le-Vivier"
+    },
+    {
+      "id": 103251,
+      "name": "Rots"
+    },
+    {
+      "id": 103252,
+      "name": "Rouen"
+    },
+    {
+      "id": 103253,
+      "name": "Roumare"
+    },
+    {
+      "id": 103254,
+      "name": "Routot"
+    },
+    {
+      "id": 103255,
+      "name": "Rouxmesnil-Bouteilles"
+    },
+    {
+      "id": 103256,
+      "name": "Rugles"
+    },
+    {
+      "id": 103257,
+      "name": "Sahurs"
+    },
+    {
+      "id": 103258,
+      "name": "Saint-Amand"
+    },
+    {
+      "id": 103259,
+      "name": "Saint-André-sur-Orne"
+    },
+    {
+      "id": 103260,
+      "name": "Saint-Arnoult"
+    },
+    {
+      "id": 103261,
+      "name": "Saint-Aubin-lès-Elbeuf"
+    },
+    {
+      "id": 103262,
+      "name": "Saint-Aubin-Routot"
+    },
+    {
+      "id": 103263,
+      "name": "Saint-Aubin-sur-Gaillon"
+    },
+    {
+      "id": 103264,
+      "name": "Saint-Aubin-sur-Mer"
+    },
+    {
+      "id": 103265,
+      "name": "Saint-Aubin-sur-Scie"
+    },
+    {
+      "id": 103266,
+      "name": "Saint-Contest"
+    },
+    {
+      "id": 103267,
+      "name": "Saint-Denis-sur-Sarthon"
+    },
+    {
+      "id": 103268,
+      "name": "Saint-Désir"
+    },
+    {
+      "id": 103269,
+      "name": "Saint-Étienne-du-Rouvray"
+    },
+    {
+      "id": 103270,
+      "name": "Saint-Eustache-la-Forêt"
+    },
+    {
+      "id": 103271,
+      "name": "Saint-Gatien-des-Bois"
+    },
+    {
+      "id": 103272,
+      "name": "Saint-Georges-des-Groseillers"
+    },
+    {
+      "id": 103273,
+      "name": "Saint-Germain-du-Corbéis"
+    },
+    {
+      "id": 103274,
+      "name": "Saint-Germain-la-Blanche-Herbe"
+    },
+    {
+      "id": 103275,
+      "name": "Saint-Germain-sur-Avre"
+    },
+    {
+      "id": 103276,
+      "name": "Saint-Germain-Village"
+    },
+    {
+      "id": 103277,
+      "name": "Saint-Hilaire-du-Harcouët"
+    },
+    {
+      "id": 103278,
+      "name": "Saint-Hilaire-Petitville"
+    },
+    {
+      "id": 103279,
+      "name": "Saint-Jacques-sur-Darnétal"
+    },
+    {
+      "id": 103280,
+      "name": "Saint-James"
+    },
+    {
+      "id": 103281,
+      "name": "Saint-Jean-des-Baisants"
+    },
+    {
+      "id": 103282,
+      "name": "Saint-Jean-des-Champs"
+    },
+    {
+      "id": 103283,
+      "name": "Saint-Jean-du-Cardonnay"
+    },
+    {
+      "id": 103284,
+      "name": "Saint-Jouin-Bruneval"
+    },
+    {
+      "id": 103285,
+      "name": "Saint-Just"
+    },
+    {
+      "id": 103286,
+      "name": "Saint-Laurent-de-Brévedent"
+    },
+    {
+      "id": 103287,
+      "name": "Saint-Léger-du-Bourg-Denis"
+    },
+    {
+      "id": 103288,
+      "name": "Saint-Léonard"
+    },
+    {
+      "id": 103289,
+      "name": "Saint-Lô"
+    },
+    {
+      "id": 103290,
+      "name": "Saint-Manvieu"
+    },
+    {
+      "id": 103291,
+      "name": "Saint-Manvieu-Norrey"
+    },
+    {
+      "id": 103292,
+      "name": "Saint-Marcel"
+    },
+    {
+      "id": 103293,
+      "name": "Saint-Martin-de-Boscherville"
+    },
+    {
+      "id": 103294,
+      "name": "Saint-Martin-de-Fontenay"
+    },
+    {
+      "id": 103295,
+      "name": "Saint-Martin-de-Landelles"
+    },
+    {
+      "id": 103296,
+      "name": "Saint-Martin-des-Besaces"
+    },
+    {
+      "id": 103297,
+      "name": "Saint-Martin-des-Champs"
+    },
+    {
+      "id": 103298,
+      "name": "Saint-Martin-du-Manoir"
+    },
+    {
+      "id": 103299,
+      "name": "Saint-Martin-du-Vivier"
+    },
+    {
+      "id": 103300,
+      "name": "Saint-Martin-en-Campagne"
+    },
+    {
+      "id": 103301,
+      "name": "Saint-Martin-Osmonville"
+    },
+    {
+      "id": 103302,
+      "name": "Saint-Nicolas-d’Aliermont"
+    },
+    {
+      "id": 103303,
+      "name": "Saint-Nicolas-de-la-Taille"
+    },
+    {
+      "id": 103304,
+      "name": "Saint-Ouen-de-Thouberville"
+    },
+    {
+      "id": 103305,
+      "name": "Saint-Ouen-du-Tilleul"
+    },
+    {
+      "id": 103306,
+      "name": "Saint-Paër"
+    },
+    {
+      "id": 103307,
+      "name": "Saint-Pair-sur-Mer"
+    },
+    {
+      "id": 103308,
+      "name": "Saint-Pierre-de-Varengeville"
+    },
+    {
+      "id": 103309,
+      "name": "Saint-Pierre-des-Fleurs"
+    },
+    {
+      "id": 103310,
+      "name": "Saint-Pierre-du-Regard"
+    },
+    {
+      "id": 103311,
+      "name": "Saint-Pierre-du-Vauvray"
+    },
+    {
+      "id": 103312,
+      "name": "Saint-Pierre-Église"
+    },
+    {
+      "id": 103313,
+      "name": "Saint-Pierre-en-Val"
+    },
+    {
+      "id": 103314,
+      "name": "Saint-Pierre-lès-Elbeuf"
+    },
+    {
+      "id": 103315,
+      "name": "Saint-Pierre-sur-Dives"
+    },
+    {
+      "id": 103316,
+      "name": "Saint-Planchers"
+    },
+    {
+      "id": 103317,
+      "name": "Saint-Quentin-sur-le-Homme"
+    },
+    {
+      "id": 103318,
+      "name": "Saint-Rémy"
+    },
+    {
+      "id": 103319,
+      "name": "Saint-Romain-de-Colbosc"
+    },
+    {
+      "id": 103320,
+      "name": "Saint-Saëns"
+    },
+    {
+      "id": 103321,
+      "name": "Saint-Sauveur-le-Vicomte"
+    },
+    {
+      "id": 103322,
+      "name": "Saint-Sauveur-Lendelin"
+    },
+    {
+      "id": 103323,
+      "name": "Saint-Sébastien-de-Morsent"
+    },
+    {
+      "id": 103324,
+      "name": "Saint-Senier-sous-Avranches"
+    },
+    {
+      "id": 103325,
+      "name": "Saint-Sever-Calvados"
+    },
+    {
+      "id": 103326,
+      "name": "Saint-Sulpice-sur-Risle"
+    },
+    {
+      "id": 103327,
+      "name": "Saint-Sylvain"
+    },
+    {
+      "id": 103328,
+      "name": "Saint-Vaast-la-Hougue"
+    },
+    {
+      "id": 103329,
+      "name": "Saint-Valery-en-Caux"
+    },
+    {
+      "id": 103330,
+      "name": "Saint-Vigor-le-Grand"
+    },
+    {
+      "id": 103331,
+      "name": "Saint-Wandrille-Rançon"
+    },
+    {
+      "id": 103332,
+      "name": "Sainte-Adresse"
+    },
+    {
+      "id": 103333,
+      "name": "Sainte-Gauburge-Sainte-Colombe"
+    },
+    {
+      "id": 103334,
+      "name": "Sainte-Honorine-du-Fay"
+    },
+    {
+      "id": 103335,
+      "name": "Sainte-Marguerite-sur-Duclair"
+    },
+    {
+      "id": 103336,
+      "name": "Sainte-Marie-des-Champs"
+    },
+    {
+      "id": 103337,
+      "name": "Sainte-Mère-Église"
+    },
+    {
+      "id": 103338,
+      "name": "Sannerville"
+    },
+    {
+      "id": 103339,
+      "name": "Sartilly"
+    },
+    {
+      "id": 103340,
+      "name": "Sées"
+    },
+    {
+      "id": 103341,
+      "name": "Seine-Maritime"
+    },
+    {
+      "id": 103342,
+      "name": "Serqueux"
+    },
+    {
+      "id": 103343,
+      "name": "Serquigny"
+    },
+    {
+      "id": 103344,
+      "name": "Soliers"
+    },
+    {
+      "id": 103345,
+      "name": "Sottevast"
+    },
+    {
+      "id": 103346,
+      "name": "Sotteville-lès-Rouen"
+    },
+    {
+      "id": 103347,
+      "name": "Sourdeval"
+    },
+    {
+      "id": 103348,
+      "name": "Surtainville"
+    },
+    {
+      "id": 103349,
+      "name": "Tancarville"
+    },
+    {
+      "id": 103350,
+      "name": "Tessé-la-Madeleine"
+    },
+    {
+      "id": 103351,
+      "name": "Tessy-sur-Vire"
+    },
+    {
+      "id": 103352,
+      "name": "Thaon"
+    },
+    {
+      "id": 103353,
+      "name": "Thiberville"
+    },
+    {
+      "id": 103354,
+      "name": "Thury-Harcourt"
+    },
+    {
+      "id": 103355,
+      "name": "Tillières-sur-Avre"
+    },
+    {
+      "id": 103356,
+      "name": "Tilly-sur-Seulles"
+    },
+    {
+      "id": 103357,
+      "name": "Tinchebray"
+    },
+    {
+      "id": 103358,
+      "name": "Tollevast"
+    },
+    {
+      "id": 103359,
+      "name": "Torigni-sur-Vire"
+    },
+    {
+      "id": 103360,
+      "name": "Tôtes"
+    },
+    {
+      "id": 103361,
+      "name": "Touques"
+    },
+    {
+      "id": 103362,
+      "name": "Tourlaville"
+    },
+    {
+      "id": 103363,
+      "name": "Tourouvre"
+    },
+    {
+      "id": 103364,
+      "name": "Tourville-la-Rivière"
+    },
+    {
+      "id": 103365,
+      "name": "Tourville-sur-Arques"
+    },
+    {
+      "id": 103366,
+      "name": "Tourville-sur-Odon"
+    },
+    {
+      "id": 103367,
+      "name": "Toutainville"
+    },
+    {
+      "id": 103368,
+      "name": "Troarn"
+    },
+    {
+      "id": 103369,
+      "name": "Trouville-sur-Mer"
+    },
+    {
+      "id": 103370,
+      "name": "Trun"
+    },
+    {
+      "id": 103371,
+      "name": "Turretot"
+    },
+    {
+      "id": 103372,
+      "name": "Urville-Nacqueville"
+    },
+    {
+      "id": 103373,
+      "name": "Val-de-Reuil"
+    },
+    {
+      "id": 103374,
+      "name": "Valframbert"
+    },
+    {
+      "id": 103375,
+      "name": "Valliquerville"
+    },
+    {
+      "id": 103376,
+      "name": "Valognes"
+    },
+    {
+      "id": 103377,
+      "name": "Varengeville-sur-Mer"
+    },
+    {
+      "id": 103378,
+      "name": "Vassy"
+    },
+    {
+      "id": 103379,
+      "name": "Vaudry"
+    },
+    {
+      "id": 103380,
+      "name": "Ver-sur-Mer"
+    },
+    {
+      "id": 103381,
+      "name": "Verneuil-sur-Avre"
+    },
+    {
+      "id": 103382,
+      "name": "Vernon"
+    },
+    {
+      "id": 103383,
+      "name": "Verson"
+    },
+    {
+      "id": 103384,
+      "name": "Villedieu-les-Poêles"
+    },
+    {
+      "id": 103385,
+      "name": "Villers-Bocage"
+    },
+    {
+      "id": 103386,
+      "name": "Villers-Écalles"
+    },
+    {
+      "id": 103387,
+      "name": "Villers-sur-Mer"
+    },
+    {
+      "id": 103388,
+      "name": "Vimoutiers"
+    },
+    {
+      "id": 103389,
+      "name": "Vire"
+    },
+    {
+      "id": 103390,
+      "name": "Yainville"
+    },
+    {
+      "id": 103391,
+      "name": "Yébleron"
+    },
+    {
+      "id": 103392,
+      "name": "Yerville"
+    },
+    {
+      "id": 103393,
+      "name": "Ymare"
+    },
+    {
+      "id": 103394,
+      "name": "Yport"
+    },
+    {
+      "id": 103395,
+      "name": "Yvetot"
+    }
+  ]
+}

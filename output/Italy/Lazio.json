@@ -1,0 +1,2027 @@
+{
+  "id": 4405,
+  "name": "Lazio",
+  "state_code": "62",
+  "cities": [
+    {
+      "id": 127503,
+      "name": "Accumoli"
+    },
+    {
+      "id": 127504,
+      "name": "Acilia-Castel Fusano-Ostia Antica"
+    },
+    {
+      "id": 127505,
+      "name": "Acquafondata"
+    },
+    {
+      "id": 127506,
+      "name": "Acquapendente"
+    },
+    {
+      "id": 127507,
+      "name": "Acuto"
+    },
+    {
+      "id": 127508,
+      "name": "Affile"
+    },
+    {
+      "id": 127509,
+      "name": "Agosta"
+    },
+    {
+      "id": 127510,
+      "name": "Alatri"
+    },
+    {
+      "id": 127511,
+      "name": "Albano Laziale"
+    },
+    {
+      "id": 127512,
+      "name": "Albuccione"
+    },
+    {
+      "id": 127513,
+      "name": "Allumiere"
+    },
+    {
+      "id": 127514,
+      "name": "Alvito"
+    },
+    {
+      "id": 127515,
+      "name": "Amaseno"
+    },
+    {
+      "id": 127516,
+      "name": "Amatrice"
+    },
+    {
+      "id": 127517,
+      "name": "Anagni"
+    },
+    {
+      "id": 127518,
+      "name": "Anguillara Sabazia"
+    },
+    {
+      "id": 127519,
+      "name": "Anitrella-Chiaiamari"
+    },
+    {
+      "id": 127520,
+      "name": "Anticoli Corrado"
+    },
+    {
+      "id": 127521,
+      "name": "Antrodoco"
+    },
+    {
+      "id": 127522,
+      "name": "Anzio"
+    },
+    {
+      "id": 127523,
+      "name": "Aprilia"
+    },
+    {
+      "id": 127524,
+      "name": "Aquino"
+    },
+    {
+      "id": 127525,
+      "name": "Ara Nova"
+    },
+    {
+      "id": 127526,
+      "name": "Arce"
+    },
+    {
+      "id": 127527,
+      "name": "Arci-Empolitana"
+    },
+    {
+      "id": 127528,
+      "name": "Arcinazzo Romano"
+    },
+    {
+      "id": 127529,
+      "name": "Ardea"
+    },
+    {
+      "id": 127530,
+      "name": "Area Produttiva"
+    },
+    {
+      "id": 127531,
+      "name": "Ariccia"
+    },
+    {
+      "id": 127532,
+      "name": "Arlena di Castro"
+    },
+    {
+      "id": 127533,
+      "name": "Armetta"
+    },
+    {
+      "id": 127534,
+      "name": "Arnara"
+    },
+    {
+      "id": 127535,
+      "name": "Arpino"
+    },
+    {
+      "id": 127536,
+      "name": "Arsoli"
+    },
+    {
+      "id": 127537,
+      "name": "Artena"
+    },
+    {
+      "id": 127538,
+      "name": "Ascrea"
+    },
+    {
+      "id": 127539,
+      "name": "Atina"
+    },
+    {
+      "id": 127540,
+      "name": "Atina Inferiore"
+    },
+    {
+      "id": 127541,
+      "name": "Aurelia"
+    },
+    {
+      "id": 127542,
+      "name": "Ausonia"
+    },
+    {
+      "id": 127543,
+      "name": "Bagni di Tivoli"
+    },
+    {
+      "id": 127544,
+      "name": "Bagnoregio"
+    },
+    {
+      "id": 127545,
+      "name": "Barbarano Romano"
+    },
+    {
+      "id": 127546,
+      "name": "Bassano in Teverina"
+    },
+    {
+      "id": 127547,
+      "name": "Bassano Romano"
+    },
+    {
+      "id": 127548,
+      "name": "Bassiano"
+    },
+    {
+      "id": 127549,
+      "name": "Bella Farnia"
+    },
+    {
+      "id": 127550,
+      "name": "Bellegra"
+    },
+    {
+      "id": 127551,
+      "name": "Belmonte Castello"
+    },
+    {
+      "id": 127552,
+      "name": "Belmonte in Sabina"
+    },
+    {
+      "id": 127553,
+      "name": "Bivio di Capanelle"
+    },
+    {
+      "id": 127554,
+      "name": "Bivio San Polo"
+    },
+    {
+      "id": 127555,
+      "name": "Blera"
+    },
+    {
+      "id": 127556,
+      "name": "Bolsena"
+    },
+    {
+      "id": 127557,
+      "name": "Bomarzo"
+    },
+    {
+      "id": 127558,
+      "name": "Borbona"
+    },
+    {
+      "id": 127559,
+      "name": "Borgo Grappa"
+    },
+    {
+      "id": 127560,
+      "name": "Borgo Hermada"
+    },
+    {
+      "id": 127561,
+      "name": "Borgo Lotti"
+    },
+    {
+      "id": 127562,
+      "name": "Borgo Podgora"
+    },
+    {
+      "id": 127563,
+      "name": "Borgo Sabotino-Foce Verde"
+    },
+    {
+      "id": 127564,
+      "name": "Borgo San Michele"
+    },
+    {
+      "id": 127565,
+      "name": "Borgo Velino"
+    },
+    {
+      "id": 127566,
+      "name": "Borgorose"
+    },
+    {
+      "id": 127567,
+      "name": "Boville Ernica"
+    },
+    {
+      "id": 127568,
+      "name": "Bracciano"
+    },
+    {
+      "id": 127569,
+      "name": "Broccostella"
+    },
+    {
+      "id": 127570,
+      "name": "Caira"
+    },
+    {
+      "id": 127571,
+      "name": "Calcata Nuova"
+    },
+    {
+      "id": 127572,
+      "name": "Camerata Nuova"
+    },
+    {
+      "id": 127573,
+      "name": "Camilleri-Vallelata"
+    },
+    {
+      "id": 127574,
+      "name": "Campagnano di Roma"
+    },
+    {
+      "id": 127575,
+      "name": "Campo di Carne"
+    },
+    {
+      "id": 127576,
+      "name": "Campo Jemini"
+    },
+    {
+      "id": 127577,
+      "name": "Campo Limpido-Favale"
+    },
+    {
+      "id": 127578,
+      "name": "Campodimele"
+    },
+    {
+      "id": 127579,
+      "name": "Campoleone"
+    },
+    {
+      "id": 127580,
+      "name": "Campoli Appennino"
+    },
+    {
+      "id": 127581,
+      "name": "Canale Monterano"
+    },
+    {
+      "id": 127582,
+      "name": "Canepina"
+    },
+    {
+      "id": 127583,
+      "name": "Canino"
+    },
+    {
+      "id": 127584,
+      "name": "Cantalice"
+    },
+    {
+      "id": 127585,
+      "name": "Cantalupo in Sabina"
+    },
+    {
+      "id": 127586,
+      "name": "Canterano"
+    },
+    {
+      "id": 127587,
+      "name": "Capena"
+    },
+    {
+      "id": 127588,
+      "name": "Capodimonte"
+    },
+    {
+      "id": 127589,
+      "name": "Capranica"
+    },
+    {
+      "id": 127590,
+      "name": "Capranica Prenestina"
+    },
+    {
+      "id": 127591,
+      "name": "Caprarola"
+    },
+    {
+      "id": 127592,
+      "name": "Carbognano"
+    },
+    {
+      "id": 127593,
+      "name": "Carchitti"
+    },
+    {
+      "id": 127594,
+      "name": "Carpineto Romano"
+    },
+    {
+      "id": 127595,
+      "name": "Carrara-Pontenuovo"
+    },
+    {
+      "id": 127596,
+      "name": "Cartiera-Stazione"
+    },
+    {
+      "id": 127597,
+      "name": "Casal Palocco"
+    },
+    {
+      "id": 127598,
+      "name": "Casalattico"
+    },
+    {
+      "id": 127599,
+      "name": "Casalazzara"
+    },
+    {
+      "id": 127600,
+      "name": "Casali"
+    },
+    {
+      "id": 127601,
+      "name": "Casalvieri"
+    },
+    {
+      "id": 127602,
+      "name": "Casape"
+    },
+    {
+      "id": 127603,
+      "name": "Casaprota"
+    },
+    {
+      "id": 127604,
+      "name": "Case Campoli-Panetta"
+    },
+    {
+      "id": 127605,
+      "name": "Casperia"
+    },
+    {
+      "id": 127606,
+      "name": "Cassino"
+    },
+    {
+      "id": 127607,
+      "name": "Castel Chiodato"
+    },
+    {
+      "id": 127608,
+      "name": "Castel di Tora"
+    },
+    {
+      "id": 127609,
+      "name": "Castel Fusano"
+    },
+    {
+      "id": 127610,
+      "name": "Castel Gandolfo"
+    },
+    {
+      "id": 127611,
+      "name": "Castel Madama"
+    },
+    {
+      "id": 127612,
+      "name": "Castel San Pietro Romano"
+    },
+    {
+      "id": 127613,
+      "name": "Castel Sant'Angelo"
+    },
+    {
+      "id": 127614,
+      "name": "Castel Sant'Elia"
+    },
+    {
+      "id": 127615,
+      "name": "Castelforte"
+    },
+    {
+      "id": 127616,
+      "name": "Castelliri"
+    },
+    {
+      "id": 127617,
+      "name": "Castelmassimo"
+    },
+    {
+      "id": 127618,
+      "name": "Castelnuovo di Farfa"
+    },
+    {
+      "id": 127619,
+      "name": "Castelnuovo di Porto"
+    },
+    {
+      "id": 127620,
+      "name": "Castelnuovo Parano"
+    },
+    {
+      "id": 127621,
+      "name": "Castiglione in Teverina"
+    },
+    {
+      "id": 127622,
+      "name": "Castro dei Volsci"
+    },
+    {
+      "id": 127623,
+      "name": "Castrocielo"
+    },
+    {
+      "id": 127624,
+      "name": "Cave"
+    },
+    {
+      "id": 127625,
+      "name": "Ceccano"
+    },
+    {
+      "id": 127626,
+      "name": "Cecchina"
+    },
+    {
+      "id": 127627,
+      "name": "Celleno"
+    },
+    {
+      "id": 127628,
+      "name": "Cellere"
+    },
+    {
+      "id": 127629,
+      "name": "Ceprano"
+    },
+    {
+      "id": 127630,
+      "name": "Cerquotti-Madonna del Piano"
+    },
+    {
+      "id": 127631,
+      "name": "Cerreto Laziale"
+    },
+    {
+      "id": 127632,
+      "name": "Cervara di Roma"
+    },
+    {
+      "id": 127633,
+      "name": "Cervaro"
+    },
+    {
+      "id": 127634,
+      "name": "Cerveteri"
+    },
+    {
+      "id": 127635,
+      "name": "Cesano"
+    },
+    {
+      "id": 127636,
+      "name": "Ciampino"
+    },
+    {
+      "id": 127637,
+      "name": "Ciciliano"
+    },
+    {
+      "id": 127638,
+      "name": "Cineto Romano"
+    },
+    {
+      "id": 127639,
+      "name": "Cisterna di Latina"
+    },
+    {
+      "id": 127640,
+      "name": "Città metropolitana di Roma Capitale"
+    },
+    {
+      "id": 127641,
+      "name": "Cittaducale"
+    },
+    {
+      "id": 127642,
+      "name": "Cittareale"
+    },
+    {
+      "id": 127643,
+      "name": "Civita Castellana"
+    },
+    {
+      "id": 127644,
+      "name": "Civitavecchia"
+    },
+    {
+      "id": 127645,
+      "name": "Civitella d'Agliano"
+    },
+    {
+      "id": 127646,
+      "name": "Civitella San Paolo"
+    },
+    {
+      "id": 127647,
+      "name": "Coldragone"
+    },
+    {
+      "id": 127648,
+      "name": "Collalto Sabino"
+    },
+    {
+      "id": 127649,
+      "name": "Colle Campano-Scrima"
+    },
+    {
+      "id": 127650,
+      "name": "Colle del Pino"
+    },
+    {
+      "id": 127651,
+      "name": "Colle di Fuori"
+    },
+    {
+      "id": 127652,
+      "name": "Colle di Tora"
+    },
+    {
+      "id": 127653,
+      "name": "Colle Mainello"
+    },
+    {
+      "id": 127654,
+      "name": "Colle San Magno"
+    },
+    {
+      "id": 127655,
+      "name": "Colle Spina"
+    },
+    {
+      "id": 127656,
+      "name": "Colle Verde"
+    },
+    {
+      "id": 127657,
+      "name": "Colleferro"
+    },
+    {
+      "id": 127658,
+      "name": "Collefontana-Fontana Liri Inferiore"
+    },
+    {
+      "id": 127659,
+      "name": "Collegiove"
+    },
+    {
+      "id": 127660,
+      "name": "Collepardo"
+    },
+    {
+      "id": 127661,
+      "name": "Collevecchio"
+    },
+    {
+      "id": 127662,
+      "name": "Colleverde II"
+    },
+    {
+      "id": 127663,
+      "name": "Colli di Enea"
+    },
+    {
+      "id": 127664,
+      "name": "Colli sul Velino"
+    },
+    {
+      "id": 127665,
+      "name": "Colonna"
+    },
+    {
+      "id": 127666,
+      "name": "Colubro"
+    },
+    {
+      "id": 127667,
+      "name": "Concerviano"
+    },
+    {
+      "id": 127668,
+      "name": "Configni"
+    },
+    {
+      "id": 127669,
+      "name": "Contigliano"
+    },
+    {
+      "id": 127670,
+      "name": "Corchiano"
+    },
+    {
+      "id": 127671,
+      "name": "Corcolle"
+    },
+    {
+      "id": 127672,
+      "name": "Coreno Ausonio"
+    },
+    {
+      "id": 127673,
+      "name": "Cori"
+    },
+    {
+      "id": 127674,
+      "name": "Corvaro"
+    },
+    {
+      "id": 127675,
+      "name": "Costaroni"
+    },
+    {
+      "id": 127676,
+      "name": "Cottanello"
+    },
+    {
+      "id": 127677,
+      "name": "Cretone"
+    },
+    {
+      "id": 127678,
+      "name": "Esperia"
+    },
+    {
+      "id": 127679,
+      "name": "Fabrica di Roma"
+    },
+    {
+      "id": 127680,
+      "name": "Faleria"
+    },
+    {
+      "id": 127681,
+      "name": "Falvaterra"
+    },
+    {
+      "id": 127682,
+      "name": "Fara in Sabina"
+    },
+    {
+      "id": 127683,
+      "name": "Farnese"
+    },
+    {
+      "id": 127684,
+      "name": "Ferentino"
+    },
+    {
+      "id": 127685,
+      "name": "Fiamignano"
+    },
+    {
+      "id": 127686,
+      "name": "Fiano Romano"
+    },
+    {
+      "id": 127687,
+      "name": "Filacciano"
+    },
+    {
+      "id": 127688,
+      "name": "Filettino"
+    },
+    {
+      "id": 127689,
+      "name": "Fiuggi"
+    },
+    {
+      "id": 127690,
+      "name": "Fiumicino-Isola Sacra"
+    },
+    {
+      "id": 127691,
+      "name": "Focene"
+    },
+    {
+      "id": 127692,
+      "name": "Fondi"
+    },
+    {
+      "id": 127693,
+      "name": "Fontechiari"
+    },
+    {
+      "id": 127694,
+      "name": "Forano"
+    },
+    {
+      "id": 127695,
+      "name": "Formello"
+    },
+    {
+      "id": 127696,
+      "name": "Formia"
+    },
+    {
+      "id": 127697,
+      "name": "Fossignano"
+    },
+    {
+      "id": 127698,
+      "name": "Frascati"
+    },
+    {
+      "id": 127699,
+      "name": "Frasso Sabino"
+    },
+    {
+      "id": 127700,
+      "name": "Fregene"
+    },
+    {
+      "id": 127701,
+      "name": "Frosinone"
+    },
+    {
+      "id": 127702,
+      "name": "Fumone"
+    },
+    {
+      "id": 127703,
+      "name": "Gaeta"
+    },
+    {
+      "id": 127704,
+      "name": "Gallese"
+    },
+    {
+      "id": 127705,
+      "name": "Gallicano nel Lazio"
+    },
+    {
+      "id": 127706,
+      "name": "Gallinaro"
+    },
+    {
+      "id": 127707,
+      "name": "Gavignano"
+    },
+    {
+      "id": 127708,
+      "name": "Genazzano"
+    },
+    {
+      "id": 127709,
+      "name": "Genio Civile"
+    },
+    {
+      "id": 127710,
+      "name": "Genzano di Roma"
+    },
+    {
+      "id": 127711,
+      "name": "Gerano"
+    },
+    {
+      "id": 127712,
+      "name": "Girardi-Bellavista-Terrazze"
+    },
+    {
+      "id": 127713,
+      "name": "Giulianello"
+    },
+    {
+      "id": 127714,
+      "name": "Giuliano di Roma"
+    },
+    {
+      "id": 127715,
+      "name": "Gorga"
+    },
+    {
+      "id": 127716,
+      "name": "Gradoli"
+    },
+    {
+      "id": 127717,
+      "name": "Graffignano"
+    },
+    {
+      "id": 127718,
+      "name": "Grottaferrata"
+    },
+    {
+      "id": 127719,
+      "name": "Grotte di Castro"
+    },
+    {
+      "id": 127720,
+      "name": "Grotte Santo Stefano"
+    },
+    {
+      "id": 127721,
+      "name": "Grunuovo-Campomaggiore San Luca"
+    },
+    {
+      "id": 127722,
+      "name": "Guarcino"
+    },
+    {
+      "id": 127723,
+      "name": "Guidonia"
+    },
+    {
+      "id": 127724,
+      "name": "Guidonia Montecelio"
+    },
+    {
+      "id": 127725,
+      "name": "Ischia di Castro"
+    },
+    {
+      "id": 127726,
+      "name": "Isola del Liri"
+    },
+    {
+      "id": 127727,
+      "name": "Itri"
+    },
+    {
+      "id": 127728,
+      "name": "Jenne"
+    },
+    {
+      "id": 127729,
+      "name": "La Botte"
+    },
+    {
+      "id": 127730,
+      "name": "La Forma"
+    },
+    {
+      "id": 127731,
+      "name": "La Massimina-Casal Lumbroso"
+    },
+    {
+      "id": 127732,
+      "name": "Labico"
+    },
+    {
+      "id": 127733,
+      "name": "Labro"
+    },
+    {
+      "id": 127734,
+      "name": "Ladispoli"
+    },
+    {
+      "id": 127735,
+      "name": "Laghetto"
+    },
+    {
+      "id": 127736,
+      "name": "Lanuvio"
+    },
+    {
+      "id": 127737,
+      "name": "Lariano"
+    },
+    {
+      "id": 127738,
+      "name": "Latera"
+    },
+    {
+      "id": 127739,
+      "name": "Latina"
+    },
+    {
+      "id": 127740,
+      "name": "Latina Scalo"
+    },
+    {
+      "id": 127741,
+      "name": "Lavinio"
+    },
+    {
+      "id": 127742,
+      "name": "Le Forna"
+    },
+    {
+      "id": 127743,
+      "name": "Le Rughe"
+    },
+    {
+      "id": 127744,
+      "name": "Lenola"
+    },
+    {
+      "id": 127745,
+      "name": "Leonessa"
+    },
+    {
+      "id": 127746,
+      "name": "Licenza"
+    },
+    {
+      "id": 127747,
+      "name": "Lido dei Pini"
+    },
+    {
+      "id": 127748,
+      "name": "Lido di Ostia"
+    },
+    {
+      "id": 127749,
+      "name": "Limiti di Greccio"
+    },
+    {
+      "id": 127750,
+      "name": "Longone Sabino"
+    },
+    {
+      "id": 127751,
+      "name": "Lubriano"
+    },
+    {
+      "id": 127752,
+      "name": "Maccarese"
+    },
+    {
+      "id": 127753,
+      "name": "Macere"
+    },
+    {
+      "id": 127754,
+      "name": "Maenza"
+    },
+    {
+      "id": 127755,
+      "name": "Magliano Romano"
+    },
+    {
+      "id": 127756,
+      "name": "Magliano Sabina"
+    },
+    {
+      "id": 127757,
+      "name": "Mandela"
+    },
+    {
+      "id": 127758,
+      "name": "Mantiglia di Ardea"
+    },
+    {
+      "id": 127759,
+      "name": "Manziana"
+    },
+    {
+      "id": 127760,
+      "name": "Marano Equo"
+    },
+    {
+      "id": 127761,
+      "name": "Maranola-Trivio"
+    },
+    {
+      "id": 127762,
+      "name": "Marcellina"
+    },
+    {
+      "id": 127763,
+      "name": "Marcetelli"
+    },
+    {
+      "id": 127764,
+      "name": "Marco Simone"
+    },
+    {
+      "id": 127765,
+      "name": "Marina di Ardea-Tor San Lorenzo"
+    },
+    {
+      "id": 127766,
+      "name": "Marina di Cerveteri"
+    },
+    {
+      "id": 127767,
+      "name": "Marina San Nicola"
+    },
+    {
+      "id": 127768,
+      "name": "Marino"
+    },
+    {
+      "id": 127769,
+      "name": "Marta"
+    },
+    {
+      "id": 127770,
+      "name": "Mazzano Romano"
+    },
+    {
+      "id": 127771,
+      "name": "Mentana"
+    },
+    {
+      "id": 127772,
+      "name": "Micigliano"
+    },
+    {
+      "id": 127773,
+      "name": "Minturno"
+    },
+    {
+      "id": 127774,
+      "name": "Molella"
+    },
+    {
+      "id": 127775,
+      "name": "Mompeo"
+    },
+    {
+      "id": 127776,
+      "name": "Montalto di Castro"
+    },
+    {
+      "id": 127777,
+      "name": "Montasola"
+    },
+    {
+      "id": 127778,
+      "name": "Monte Caminetto"
+    },
+    {
+      "id": 127779,
+      "name": "Monte Migliore La Selvotta"
+    },
+    {
+      "id": 127780,
+      "name": "Monte Porzio Catone"
+    },
+    {
+      "id": 127781,
+      "name": "Monte Romano"
+    },
+    {
+      "id": 127782,
+      "name": "Monte San Biagio"
+    },
+    {
+      "id": 127783,
+      "name": "Monte San Giovanni Campano"
+    },
+    {
+      "id": 127784,
+      "name": "Monte San Giovanni in Sabina"
+    },
+    {
+      "id": 127785,
+      "name": "Monte San Marino"
+    },
+    {
+      "id": 127786,
+      "name": "Montebuono"
+    },
+    {
+      "id": 127787,
+      "name": "Montecelio"
+    },
+    {
+      "id": 127788,
+      "name": "Montecompatri"
+    },
+    {
+      "id": 127789,
+      "name": "Montefiascone"
+    },
+    {
+      "id": 127790,
+      "name": "Monteflavio"
+    },
+    {
+      "id": 127791,
+      "name": "Montelanico"
+    },
+    {
+      "id": 127792,
+      "name": "Montelarco"
+    },
+    {
+      "id": 127793,
+      "name": "Monteleone Sabino"
+    },
+    {
+      "id": 127794,
+      "name": "Montelibretti"
+    },
+    {
+      "id": 127795,
+      "name": "Montenero Sabino"
+    },
+    {
+      "id": 127796,
+      "name": "Monterosi"
+    },
+    {
+      "id": 127797,
+      "name": "Monterotondo"
+    },
+    {
+      "id": 127798,
+      "name": "Montopoli in Sabina"
+    },
+    {
+      "id": 127799,
+      "name": "Montorio Romano"
+    },
+    {
+      "id": 127800,
+      "name": "Moricone"
+    },
+    {
+      "id": 127801,
+      "name": "Morlupo"
+    },
+    {
+      "id": 127802,
+      "name": "Morolo"
+    },
+    {
+      "id": 127803,
+      "name": "Morro Reatino"
+    },
+    {
+      "id": 127804,
+      "name": "Nazzano"
+    },
+    {
+      "id": 127805,
+      "name": "Nemi"
+    },
+    {
+      "id": 127806,
+      "name": "Nepi"
+    },
+    {
+      "id": 127807,
+      "name": "Nerola"
+    },
+    {
+      "id": 127808,
+      "name": "Nespolo"
+    },
+    {
+      "id": 127809,
+      "name": "Nettuno"
+    },
+    {
+      "id": 127810,
+      "name": "Norma"
+    },
+    {
+      "id": 127811,
+      "name": "Olevano Romano"
+    },
+    {
+      "id": 127812,
+      "name": "Onano"
+    },
+    {
+      "id": 127813,
+      "name": "Oriolo Romano"
+    },
+    {
+      "id": 127814,
+      "name": "Orte"
+    },
+    {
+      "id": 127815,
+      "name": "Orte Scalo"
+    },
+    {
+      "id": 127816,
+      "name": "Orvinio"
+    },
+    {
+      "id": 127817,
+      "name": "Osteria Nuova"
+    },
+    {
+      "id": 127818,
+      "name": "Paganico Sabino"
+    },
+    {
+      "id": 127819,
+      "name": "Palestrina"
+    },
+    {
+      "id": 127820,
+      "name": "Paliano"
+    },
+    {
+      "id": 127821,
+      "name": "Palombara Sabina"
+    },
+    {
+      "id": 127822,
+      "name": "Parco Leonardo"
+    },
+    {
+      "id": 127823,
+      "name": "Passoscuro"
+    },
+    {
+      "id": 127824,
+      "name": "Pastena"
+    },
+    {
+      "id": 127825,
+      "name": "Patrica"
+    },
+    {
+      "id": 127826,
+      "name": "Pavona"
+    },
+    {
+      "id": 127827,
+      "name": "Penitro"
+    },
+    {
+      "id": 127828,
+      "name": "Percile"
+    },
+    {
+      "id": 127829,
+      "name": "Pescia Romana"
+    },
+    {
+      "id": 127830,
+      "name": "Pescorocchiano"
+    },
+    {
+      "id": 127831,
+      "name": "Pescosolido"
+    },
+    {
+      "id": 127832,
+      "name": "Petrella Salto"
+    },
+    {
+      "id": 127833,
+      "name": "Piansano"
+    },
+    {
+      "id": 127834,
+      "name": "Picinisco"
+    },
+    {
+      "id": 127835,
+      "name": "Pico"
+    },
+    {
+      "id": 127836,
+      "name": "Piedimonte San Germano"
+    },
+    {
+      "id": 127837,
+      "name": "Piedimonte San Germano Alta"
+    },
+    {
+      "id": 127838,
+      "name": "Piglio"
+    },
+    {
+      "id": 127839,
+      "name": "Pignataro Interamna"
+    },
+    {
+      "id": 127840,
+      "name": "Pisoniano"
+    },
+    {
+      "id": 127841,
+      "name": "Pofi"
+    },
+    {
+      "id": 127842,
+      "name": "Poggio Bustone"
+    },
+    {
+      "id": 127843,
+      "name": "Poggio Catino"
+    },
+    {
+      "id": 127844,
+      "name": "Poggio Ellera"
+    },
+    {
+      "id": 127845,
+      "name": "Poggio Mirteto"
+    },
+    {
+      "id": 127846,
+      "name": "Poggio Moiano"
+    },
+    {
+      "id": 127847,
+      "name": "Poggio Nativo"
+    },
+    {
+      "id": 127848,
+      "name": "Poggio San Lorenzo"
+    },
+    {
+      "id": 127849,
+      "name": "Poli"
+    },
+    {
+      "id": 127850,
+      "name": "Pomezia"
+    },
+    {
+      "id": 127851,
+      "name": "Ponte Galeria-La Pisana"
+    },
+    {
+      "id": 127852,
+      "name": "Pontecorvo"
+    },
+    {
+      "id": 127853,
+      "name": "Pontinia"
+    },
+    {
+      "id": 127854,
+      "name": "Ponton dell'Elce"
+    },
+    {
+      "id": 127855,
+      "name": "Ponza"
+    },
+    {
+      "id": 127856,
+      "name": "Ponzano Romano"
+    },
+    {
+      "id": 127857,
+      "name": "Posta"
+    },
+    {
+      "id": 127858,
+      "name": "Posta Fibreno"
+    },
+    {
+      "id": 127859,
+      "name": "Pozzaglia Sabino"
+    },
+    {
+      "id": 127860,
+      "name": "Prato di Coppola"
+    },
+    {
+      "id": 127861,
+      "name": "Priverno"
+    },
+    {
+      "id": 127862,
+      "name": "Proceno"
+    },
+    {
+      "id": 127863,
+      "name": "Prossedi"
+    },
+    {
+      "id": 127864,
+      "name": "Provincia di Frosinone"
+    },
+    {
+      "id": 127865,
+      "name": "Provincia di Latina"
+    },
+    {
+      "id": 127866,
+      "name": "Provincia di Rieti"
+    },
+    {
+      "id": 127867,
+      "name": "Provincia di Viterbo"
+    },
+    {
+      "id": 127868,
+      "name": "Regolelli"
+    },
+    {
+      "id": 127869,
+      "name": "Riano"
+    },
+    {
+      "id": 127870,
+      "name": "Rieti"
+    },
+    {
+      "id": 127871,
+      "name": "Rignano Flaminio"
+    },
+    {
+      "id": 127872,
+      "name": "Riofreddo"
+    },
+    {
+      "id": 127873,
+      "name": "Ripi"
+    },
+    {
+      "id": 127874,
+      "name": "Rivodutri"
+    },
+    {
+      "id": 127875,
+      "name": "Rocca Canterano"
+    },
+    {
+      "id": 127876,
+      "name": "Rocca d'Arce"
+    },
+    {
+      "id": 127877,
+      "name": "Rocca di Cave"
+    },
+    {
+      "id": 127878,
+      "name": "Rocca di Papa"
+    },
+    {
+      "id": 127879,
+      "name": "Rocca Massima"
+    },
+    {
+      "id": 127880,
+      "name": "Rocca Priora"
+    },
+    {
+      "id": 127881,
+      "name": "Rocca Santo Stefano"
+    },
+    {
+      "id": 127882,
+      "name": "Rocca Sinibalda"
+    },
+    {
+      "id": 127883,
+      "name": "Roccagiovine"
+    },
+    {
+      "id": 127884,
+      "name": "Roccagorga"
+    },
+    {
+      "id": 127885,
+      "name": "Roccantica"
+    },
+    {
+      "id": 127886,
+      "name": "Roccasecca"
+    },
+    {
+      "id": 127887,
+      "name": "Roccasecca dei Volsci"
+    },
+    {
+      "id": 127888,
+      "name": "Roccasecca Stazione"
+    },
+    {
+      "id": 127889,
+      "name": "Roiate"
+    },
+    {
+      "id": 127890,
+      "name": "Rome"
+    },
+    {
+      "id": 127891,
+      "name": "Ronciglione"
+    },
+    {
+      "id": 127892,
+      "name": "Roviano"
+    },
+    {
+      "id": 127893,
+      "name": "Sabaudia"
+    },
+    {
+      "id": 127894,
+      "name": "Sacrofano"
+    },
+    {
+      "id": 127895,
+      "name": "Salisano"
+    },
+    {
+      "id": 127896,
+      "name": "Sambuci"
+    },
+    {
+      "id": 127897,
+      "name": "San Bartolomeo"
+    },
+    {
+      "id": 127898,
+      "name": "San Biagio Saracinisco"
+    },
+    {
+      "id": 127899,
+      "name": "San Cesareo"
+    },
+    {
+      "id": 127900,
+      "name": "San Donato Val di Comino"
+    },
+    {
+      "id": 127901,
+      "name": "San Felice Circeo"
+    },
+    {
+      "id": 127902,
+      "name": "San Giorgio a Liri"
+    },
+    {
+      "id": 127903,
+      "name": "San Giovanni Incarico"
+    },
+    {
+      "id": 127904,
+      "name": "San Giovanni-Patoni"
+    },
+    {
+      "id": 127905,
+      "name": "San Giuseppe le Prata-Cotropagno"
+    },
+    {
+      "id": 127906,
+      "name": "San Gregorio da Sassola"
+    },
+    {
+      "id": 127907,
+      "name": "San Lorenzo Nuovo"
+    },
+    {
+      "id": 127908,
+      "name": "San Martino al Cimino"
+    },
+    {
+      "id": 127909,
+      "name": "San Polo dei Cavalieri"
+    },
+    {
+      "id": 127910,
+      "name": "San Vito Romano"
+    },
+    {
+      "id": 127911,
+      "name": "San Vittore del Lazio"
+    },
+    {
+      "id": 127912,
+      "name": "Sant'Ambrogio sul Garigliano"
+    },
+    {
+      "id": 127913,
+      "name": "Sant'Andrea del Garigliano"
+    },
+    {
+      "id": 127914,
+      "name": "Sant'Angelo in Villa-Giglio"
+    },
+    {
+      "id": 127915,
+      "name": "Sant'Angelo Romano"
+    },
+    {
+      "id": 127916,
+      "name": "Sant'Apollinare"
+    },
+    {
+      "id": 127917,
+      "name": "Sant'Elia Fiumerapido"
+    },
+    {
+      "id": 127918,
+      "name": "Sant'Oreste"
+    },
+    {
+      "id": 127919,
+      "name": "Santa Lucia"
+    },
+    {
+      "id": 127920,
+      "name": "Santa Marinella"
+    },
+    {
+      "id": 127921,
+      "name": "Santa Rufina"
+    },
+    {
+      "id": 127922,
+      "name": "Santi Cosma e Damiano"
+    },
+    {
+      "id": 127923,
+      "name": "Santopadre"
+    },
+    {
+      "id": 127924,
+      "name": "Saracinesco"
+    },
+    {
+      "id": 127925,
+      "name": "Sassacci"
+    },
+    {
+      "id": 127926,
+      "name": "Scandriglia"
+    },
+    {
+      "id": 127927,
+      "name": "Segni"
+    },
+    {
+      "id": 127928,
+      "name": "Selcetta"
+    },
+    {
+      "id": 127929,
+      "name": "Selci"
+    },
+    {
+      "id": 127930,
+      "name": "Sermoneta"
+    },
+    {
+      "id": 127931,
+      "name": "Serrone"
+    },
+    {
+      "id": 127932,
+      "name": "Settefrati"
+    },
+    {
+      "id": 127933,
+      "name": "Setteville"
+    },
+    {
+      "id": 127934,
+      "name": "Sezze"
+    },
+    {
+      "id": 127935,
+      "name": "Sezze Scalo"
+    },
+    {
+      "id": 127936,
+      "name": "Sgurgola"
+    },
+    {
+      "id": 127937,
+      "name": "Sonnino"
+    },
+    {
+      "id": 127938,
+      "name": "Sora"
+    },
+    {
+      "id": 127939,
+      "name": "Soriano nel Cimino"
+    },
+    {
+      "id": 127940,
+      "name": "Sperlonga"
+    },
+    {
+      "id": 127941,
+      "name": "Spigno Saturnia Inferiore"
+    },
+    {
+      "id": 127942,
+      "name": "Spigno Saturnia Superiore"
+    },
+    {
+      "id": 127943,
+      "name": "Stimigliano"
+    },
+    {
+      "id": 127944,
+      "name": "Strangolagalli"
+    },
+    {
+      "id": 127945,
+      "name": "Subiaco"
+    },
+    {
+      "id": 127946,
+      "name": "Supino"
+    },
+    {
+      "id": 127947,
+      "name": "Sutri"
+    },
+    {
+      "id": 127948,
+      "name": "Tarano"
+    },
+    {
+      "id": 127949,
+      "name": "Tarquinia"
+    },
+    {
+      "id": 127950,
+      "name": "Tecchiena"
+    },
+    {
+      "id": 127951,
+      "name": "Terelle"
+    },
+    {
+      "id": 127952,
+      "name": "Terracina"
+    },
+    {
+      "id": 127953,
+      "name": "Tessennano"
+    },
+    {
+      "id": 127954,
+      "name": "Tivoli"
+    },
+    {
+      "id": 127955,
+      "name": "Toffia"
+    },
+    {
+      "id": 127956,
+      "name": "Tolfa"
+    },
+    {
+      "id": 127957,
+      "name": "Tor Lupara"
+    },
+    {
+      "id": 127958,
+      "name": "Torre Caietani"
+    },
+    {
+      "id": 127959,
+      "name": "Torri in Sabina"
+    },
+    {
+      "id": 127960,
+      "name": "Torrice"
+    },
+    {
+      "id": 127961,
+      "name": "Torricella in Sabina"
+    },
+    {
+      "id": 127962,
+      "name": "Torrita Tiberina"
+    },
+    {
+      "id": 127963,
+      "name": "Torvaianica"
+    },
+    {
+      "id": 127964,
+      "name": "Torvaianica Alta"
+    },
+    {
+      "id": 127965,
+      "name": "Tragliatella Campitello"
+    },
+    {
+      "id": 127966,
+      "name": "Trevi nel Lazio"
+    },
+    {
+      "id": 127967,
+      "name": "Trevignano Romano"
+    },
+    {
+      "id": 127968,
+      "name": "Trivigliano"
+    },
+    {
+      "id": 127969,
+      "name": "Turania"
+    },
+    {
+      "id": 127970,
+      "name": "Tuscania"
+    },
+    {
+      "id": 127971,
+      "name": "Vacone"
+    },
+    {
+      "id": 127972,
+      "name": "Valcanneto"
+    },
+    {
+      "id": 127973,
+      "name": "Valentano"
+    },
+    {
+      "id": 127974,
+      "name": "Valle Martella"
+    },
+    {
+      "id": 127975,
+      "name": "Valle Santa"
+    },
+    {
+      "id": 127976,
+      "name": "Vallecorsa"
+    },
+    {
+      "id": 127977,
+      "name": "Vallemaio"
+    },
+    {
+      "id": 127978,
+      "name": "Vallepietra"
+    },
+    {
+      "id": 127979,
+      "name": "Vallerano"
+    },
+    {
+      "id": 127980,
+      "name": "Vallerotonda"
+    },
+    {
+      "id": 127981,
+      "name": "Vallinfreda"
+    },
+    {
+      "id": 127982,
+      "name": "Valmontone"
+    },
+    {
+      "id": 127983,
+      "name": "Varco Sabino"
+    },
+    {
+      "id": 127984,
+      "name": "Vasanello"
+    },
+    {
+      "id": 127985,
+      "name": "Vejano"
+    },
+    {
+      "id": 127986,
+      "name": "Velletri"
+    },
+    {
+      "id": 127987,
+      "name": "Ventotene"
+    },
+    {
+      "id": 127988,
+      "name": "Veroli"
+    },
+    {
+      "id": 127989,
+      "name": "Vetralla"
+    },
+    {
+      "id": 127990,
+      "name": "Vicalvi"
+    },
+    {
+      "id": 127991,
+      "name": "Vico nel Lazio"
+    },
+    {
+      "id": 127992,
+      "name": "Vicovaro"
+    },
+    {
+      "id": 127993,
+      "name": "Vignanello"
+    },
+    {
+      "id": 127994,
+      "name": "Villa Adriana"
+    },
+    {
+      "id": 127995,
+      "name": "Villa Latina"
+    },
+    {
+      "id": 127996,
+      "name": "Villa San Giovanni in Tuscia"
+    },
+    {
+      "id": 127997,
+      "name": "Villa Santa Lucia"
+    },
+    {
+      "id": 127998,
+      "name": "Villa Santo Stefano"
+    },
+    {
+      "id": 127999,
+      "name": "Villalba"
+    },
+    {
+      "id": 128000,
+      "name": "Villanova"
+    },
+    {
+      "id": 128001,
+      "name": "Viterbo"
+    },
+    {
+      "id": 128002,
+      "name": "Viticuso"
+    },
+    {
+      "id": 128003,
+      "name": "Vitinia"
+    },
+    {
+      "id": 128004,
+      "name": "Vitorchiano"
+    },
+    {
+      "id": 128005,
+      "name": "Vivaro Romano"
+    },
+    {
+      "id": 128006,
+      "name": "Zagarolo"
+    },
+    {
+      "id": 128007,
+      "name": "Zepponami"
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "id": 6640,
+  "name": "Västra Götaland County",
+  "state_code": "O",
+  "cities": [
+    {
+      "id": 190889,
+      "name": "Åkarp"
+    },
+    {
+      "id": 190890,
+      "name": "Alafors"
+    },
+    {
+      "id": 190891,
+      "name": "Alingsås"
+    },
+    {
+      "id": 190892,
+      "name": "Älvängen"
+    },
+    {
+      "id": 190893,
+      "name": "Åmål"
+    },
+    {
+      "id": 190894,
+      "name": "Andalen"
+    },
+    {
+      "id": 190895,
+      "name": "Anderstorp"
+    },
+    {
+      "id": 190896,
+      "name": "Angered"
+    },
+    {
+      "id": 190897,
+      "name": "Annelund"
+    },
+    {
+      "id": 190898,
+      "name": "Axvall"
+    },
+    {
+      "id": 190899,
+      "name": "Bengtsfors"
+    },
+    {
+      "id": 190900,
+      "name": "Billdal"
+    },
+    {
+      "id": 190901,
+      "name": "Billingsfors"
+    },
+    {
+      "id": 190902,
+      "name": "Björboholm"
+    },
+    {
+      "id": 190903,
+      "name": "Björkö"
+    },
+    {
+      "id": 190904,
+      "name": "Björlanda"
+    },
+    {
+      "id": 190905,
+      "name": "Bollebygd"
+    },
+    {
+      "id": 190906,
+      "name": "Borås"
+    },
+    {
+      "id": 190907,
+      "name": "Brålanda"
+    },
+    {
+      "id": 190908,
+      "name": "Brastad"
+    },
+    {
+      "id": 190909,
+      "name": "Dals Långed"
+    },
+    {
+      "id": 190910,
+      "name": "Dalsjöfors"
+    },
+    {
+      "id": 190911,
+      "name": "Diseröd"
+    },
+    {
+      "id": 190912,
+      "name": "Donsö"
+    },
+    {
+      "id": 190913,
+      "name": "Ed"
+    },
+    {
+      "id": 190914,
+      "name": "Ellös"
+    },
+    {
+      "id": 190915,
+      "name": "Eriksbo"
+    },
+    {
+      "id": 190916,
+      "name": "Falköping"
+    },
+    {
+      "id": 190917,
+      "name": "Färgelanda"
+    },
+    {
+      "id": 190918,
+      "name": "Floby"
+    },
+    {
+      "id": 190919,
+      "name": "Fristad"
+    },
+    {
+      "id": 190920,
+      "name": "Fritsla"
+    },
+    {
+      "id": 190921,
+      "name": "Furulund"
+    },
+    {
+      "id": 190922,
+      "name": "Gånghester"
+    },
+    {
+      "id": 190923,
+      "name": "Gårdsten"
+    },
+    {
+      "id": 190924,
+      "name": "Göta"
+    },
+    {
+      "id": 190925,
+      "name": "Göteborg"
+    },
+    {
+      "id": 190926,
+      "name": "Göteborgs stad"
+    },
+    {
+      "id": 190927,
+      "name": "Götene"
+    },
+    {
+      "id": 190928,
+      "name": "Gråbo"
+    },
+    {
+      "id": 190929,
+      "name": "Grästorp"
+    },
+    {
+      "id": 190930,
+      "name": "Grebbestad"
+    },
+    {
+      "id": 190931,
+      "name": "Gullspång"
+    },
+    {
+      "id": 190932,
+      "name": "Hammarkullen"
+    },
+    {
+      "id": 190933,
+      "name": "Henån"
+    },
+    {
+      "id": 190934,
+      "name": "Herrljunga"
+    },
+    {
+      "id": 190935,
+      "name": "Hindås"
+    },
+    {
+      "id": 190936,
+      "name": "Hjo"
+    },
+    {
+      "id": 190937,
+      "name": "Hjuvik"
+    },
+    {
+      "id": 190938,
+      "name": "Hönö"
+    },
+    {
+      "id": 190939,
+      "name": "Horred"
+    },
+    {
+      "id": 190940,
+      "name": "Hova"
+    },
+    {
+      "id": 190941,
+      "name": "Höviksnäs"
+    },
+    {
+      "id": 190942,
+      "name": "Hunnebostrand"
+    },
+    {
+      "id": 190943,
+      "name": "Ingared"
+    },
+    {
+      "id": 190944,
+      "name": "Jonstorp"
+    },
+    {
+      "id": 190945,
+      "name": "Jörlanda"
+    },
+    {
+      "id": 190946,
+      "name": "Källby"
+    },
+    {
+      "id": 190947,
+      "name": "Kållered"
+    },
+    {
+      "id": 190948,
+      "name": "Karlsborg"
+    },
+    {
+      "id": 190949,
+      "name": "Kinna"
+    },
+    {
+      "id": 190950,
+      "name": "Kode"
+    },
+    {
+      "id": 190951,
+      "name": "Kungälv"
+    },
+    {
+      "id": 190952,
+      "name": "Kungshamn"
+    },
+    {
+      "id": 190953,
+      "name": "Kvänum"
+    },
+    {
+      "id": 190954,
+      "name": "Landvetter"
+    },
+    {
+      "id": 190955,
+      "name": "Länghem"
+    },
+    {
+      "id": 190956,
+      "name": "Lerum"
+    },
+    {
+      "id": 190957,
+      "name": "Lidköping"
+    },
+    {
+      "id": 190958,
+      "name": "Lilla Edet"
+    },
+    {
+      "id": 190959,
+      "name": "Limmared"
+    },
+    {
+      "id": 190960,
+      "name": "Lindome"
+    },
+    {
+      "id": 190961,
+      "name": "Ljungskile"
+    },
+    {
+      "id": 190962,
+      "name": "Lödöse"
+    },
+    {
+      "id": 190963,
+      "name": "Lövgärdet"
+    },
+    {
+      "id": 190964,
+      "name": "Lysekil"
+    },
+    {
+      "id": 190965,
+      "name": "Majorna"
+    },
+    {
+      "id": 190966,
+      "name": "Mariestad"
+    },
+    {
+      "id": 190967,
+      "name": "Mellerud"
+    },
+    {
+      "id": 190968,
+      "name": "Mölltorp"
+    },
+    {
+      "id": 190969,
+      "name": "Mölndal"
+    },
+    {
+      "id": 190970,
+      "name": "Mölnlycke"
+    },
+    {
+      "id": 190971,
+      "name": "Munkedal"
+    },
+    {
+      "id": 190972,
+      "name": "Myggenäs"
+    },
+    {
+      "id": 190973,
+      "name": "Nolvik"
+    },
+    {
+      "id": 190974,
+      "name": "Nossebro"
+    },
+    {
+      "id": 190975,
+      "name": "Öckerö"
+    },
+    {
+      "id": 190976,
+      "name": "Ödsmål"
+    },
+    {
+      "id": 190977,
+      "name": "Öjersjö"
+    },
+    {
+      "id": 190978,
+      "name": "Olofstorp"
+    },
+    {
+      "id": 190979,
+      "name": "Olstorp"
+    },
+    {
+      "id": 190980,
+      "name": "Orust"
+    },
+    {
+      "id": 190981,
+      "name": "Partille"
+    },
+    {
+      "id": 190982,
+      "name": "Rannebergen"
+    },
+    {
+      "id": 190983,
+      "name": "Rävlanda"
+    },
+    {
+      "id": 190984,
+      "name": "Rönnäng"
+    },
+    {
+      "id": 190985,
+      "name": "Sålanda"
+    },
+    {
+      "id": 190986,
+      "name": "Sandared"
+    },
+    {
+      "id": 190987,
+      "name": "Sätila"
+    },
+    {
+      "id": 190988,
+      "name": "Sjömarken"
+    },
+    {
+      "id": 190989,
+      "name": "Sjuntorp"
+    },
+    {
+      "id": 190990,
+      "name": "Skara"
+    },
+    {
+      "id": 190991,
+      "name": "Skärhamn"
+    },
+    {
+      "id": 190992,
+      "name": "Skepplanda"
+    },
+    {
+      "id": 190993,
+      "name": "Skövde"
+    },
+    {
+      "id": 190994,
+      "name": "Skultorp"
+    },
+    {
+      "id": 190995,
+      "name": "Smögen"
+    },
+    {
+      "id": 190996,
+      "name": "Sollebrunn"
+    },
+    {
+      "id": 190997,
+      "name": "Stenkullen"
+    },
+    {
+      "id": 190998,
+      "name": "Stenstorp"
+    },
+    {
+      "id": 190999,
+      "name": "Stenungsund"
+    },
+    {
+      "id": 191000,
+      "name": "Stöpen"
+    },
+    {
+      "id": 191001,
+      "name": "Stora Höga"
+    },
+    {
+      "id": 191002,
+      "name": "Strömstad"
+    },
+    {
+      "id": 191003,
+      "name": "Styrsö"
+    },
+    {
+      "id": 191004,
+      "name": "Surte"
+    },
+    {
+      "id": 191005,
+      "name": "Svanesund"
+    },
+    {
+      "id": 191006,
+      "name": "Svenljunga"
+    },
+    {
+      "id": 191007,
+      "name": "Tanumshede"
+    },
+    {
+      "id": 191008,
+      "name": "Tibro"
+    },
+    {
+      "id": 191009,
+      "name": "Tidaholm"
+    },
+    {
+      "id": 191010,
+      "name": "Tjuvkil"
+    },
+    {
+      "id": 191011,
+      "name": "Töreboda"
+    },
+    {
+      "id": 191012,
+      "name": "Torslanda"
+    },
+    {
+      "id": 191013,
+      "name": "Tranemo"
+    },
+    {
+      "id": 191014,
+      "name": "Trollhättan"
+    },
+    {
+      "id": 191015,
+      "name": "Uddevalla"
+    },
+    {
+      "id": 191016,
+      "name": "Ulricehamn"
+    },
+    {
+      "id": 191017,
+      "name": "Vänersborg"
+    },
+    {
+      "id": 191018,
+      "name": "Vara"
+    },
+    {
+      "id": 191019,
+      "name": "Vårgårda"
+    },
+    {
+      "id": 191020,
+      "name": "Vargön"
+    },
+    {
+      "id": 191021,
+      "name": "Västra Frölunda"
+    },
+    {
+      "id": 191022,
+      "name": "Vinninga"
+    },
+    {
+      "id": 191023,
+      "name": "Viskafors"
+    }
+  ]
+}

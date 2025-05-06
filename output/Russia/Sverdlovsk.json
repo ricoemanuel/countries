@@ -1,0 +1,559 @@
+{
+  "id": 6063,
+  "name": "Sverdlovsk",
+  "state_code": "SVE",
+  "cities": [
+    {
+      "id": 177916,
+      "name": "Achit"
+    },
+    {
+      "id": 177917,
+      "name": "Alapayevsk"
+    },
+    {
+      "id": 177918,
+      "name": "Aramil"
+    },
+    {
+      "id": 177919,
+      "name": "Artëmovskiy"
+    },
+    {
+      "id": 177920,
+      "name": "Arti"
+    },
+    {
+      "id": 177921,
+      "name": "Asbest"
+    },
+    {
+      "id": 177922,
+      "name": "Asbestovskiy"
+    },
+    {
+      "id": 177923,
+      "name": "Atig"
+    },
+    {
+      "id": 177924,
+      "name": "Azanka"
+    },
+    {
+      "id": 177925,
+      "name": "Baraba"
+    },
+    {
+      "id": 177926,
+      "name": "Baranchinskiy"
+    },
+    {
+      "id": 177927,
+      "name": "Baykalovo"
+    },
+    {
+      "id": 177928,
+      "name": "Beloyarskiy"
+    },
+    {
+      "id": 177929,
+      "name": "Beryozovsky"
+    },
+    {
+      "id": 177930,
+      "name": "Bilimbay"
+    },
+    {
+      "id": 177931,
+      "name": "Bisert’"
+    },
+    {
+      "id": 177932,
+      "name": "Bobrovskiy"
+    },
+    {
+      "id": 177933,
+      "name": "Bogdanovich"
+    },
+    {
+      "id": 177934,
+      "name": "Bulanash"
+    },
+    {
+      "id": 177935,
+      "name": "Butka"
+    },
+    {
+      "id": 177936,
+      "name": "Cherëmukhovo"
+    },
+    {
+      "id": 177937,
+      "name": "Chernoistochinsk"
+    },
+    {
+      "id": 177938,
+      "name": "Degtyarsk"
+    },
+    {
+      "id": 177939,
+      "name": "Druzhinino"
+    },
+    {
+      "id": 177940,
+      "name": "Dvurechensk"
+    },
+    {
+      "id": 177941,
+      "name": "Gari"
+    },
+    {
+      "id": 177942,
+      "name": "Gornyy Shchit"
+    },
+    {
+      "id": 177943,
+      "name": "Gryaznovskoye"
+    },
+    {
+      "id": 177944,
+      "name": "Irbit"
+    },
+    {
+      "id": 177945,
+      "name": "Is"
+    },
+    {
+      "id": 177946,
+      "name": "Iset’"
+    },
+    {
+      "id": 177947,
+      "name": "Istok"
+    },
+    {
+      "id": 177948,
+      "name": "Ivdel’"
+    },
+    {
+      "id": 177949,
+      "name": "Izumrud"
+    },
+    {
+      "id": 177950,
+      "name": "Kachkanar"
+    },
+    {
+      "id": 177951,
+      "name": "Kalinovo"
+    },
+    {
+      "id": 177952,
+      "name": "Kamensk-Ural’skiy"
+    },
+    {
+      "id": 177953,
+      "name": "Kamyshlov"
+    },
+    {
+      "id": 177954,
+      "name": "Karpinsk"
+    },
+    {
+      "id": 177955,
+      "name": "Karpushikha"
+    },
+    {
+      "id": 177956,
+      "name": "Kedrovoye"
+    },
+    {
+      "id": 177957,
+      "name": "Kirovgrad"
+    },
+    {
+      "id": 177958,
+      "name": "Klyuchevsk"
+    },
+    {
+      "id": 177959,
+      "name": "Krasnogvardeyskiy"
+    },
+    {
+      "id": 177960,
+      "name": "Krasnotur’insk"
+    },
+    {
+      "id": 177961,
+      "name": "Krasnoufimsk"
+    },
+    {
+      "id": 177962,
+      "name": "Krasnoural’sk"
+    },
+    {
+      "id": 177963,
+      "name": "Kushva"
+    },
+    {
+      "id": 177964,
+      "name": "Kuzino"
+    },
+    {
+      "id": 177965,
+      "name": "Lesnoy"
+    },
+    {
+      "id": 177966,
+      "name": "Levikha"
+    },
+    {
+      "id": 177967,
+      "name": "Lobva"
+    },
+    {
+      "id": 177968,
+      "name": "Losinyy"
+    },
+    {
+      "id": 177969,
+      "name": "Lugovskoy"
+    },
+    {
+      "id": 177970,
+      "name": "Malysheva"
+    },
+    {
+      "id": 177971,
+      "name": "Martyush"
+    },
+    {
+      "id": 177972,
+      "name": "Mikhaylovsk"
+    },
+    {
+      "id": 177973,
+      "name": "Monetnyy"
+    },
+    {
+      "id": 177974,
+      "name": "Nev’yansk"
+    },
+    {
+      "id": 177975,
+      "name": "Neyvo-Rudyanka"
+    },
+    {
+      "id": 177976,
+      "name": "Neyvo-Shaytanskiy"
+    },
+    {
+      "id": 177977,
+      "name": "Nikolo-Pavlovskoye"
+    },
+    {
+      "id": 177978,
+      "name": "Nizhniye Sergi"
+    },
+    {
+      "id": 177979,
+      "name": "Nizhny Tagil"
+    },
+    {
+      "id": 177980,
+      "name": "Nizhnyaya Irga"
+    },
+    {
+      "id": 177981,
+      "name": "Nizhnyaya Salda"
+    },
+    {
+      "id": 177982,
+      "name": "Nizhnyaya Tura"
+    },
+    {
+      "id": 177983,
+      "name": "Novaya Lyalya"
+    },
+    {
+      "id": 177984,
+      "name": "Novoasbest"
+    },
+    {
+      "id": 177985,
+      "name": "Novoural’sk"
+    },
+    {
+      "id": 177986,
+      "name": "Novoutkinsk"
+    },
+    {
+      "id": 177987,
+      "name": "Obukhovskoye"
+    },
+    {
+      "id": 177988,
+      "name": "Ous"
+    },
+    {
+      "id": 177989,
+      "name": "Pelym"
+    },
+    {
+      "id": 177990,
+      "name": "Pervoural’sk"
+    },
+    {
+      "id": 177991,
+      "name": "Petrokamenskoye"
+    },
+    {
+      "id": 177992,
+      "name": "Pokrovskoye"
+    },
+    {
+      "id": 177993,
+      "name": "Polevskoy"
+    },
+    {
+      "id": 177994,
+      "name": "Polunochnoye"
+    },
+    {
+      "id": 177995,
+      "name": "Pyshma"
+    },
+    {
+      "id": 177996,
+      "name": "Reftinskiy"
+    },
+    {
+      "id": 177997,
+      "name": "Revda"
+    },
+    {
+      "id": 177998,
+      "name": "Rezh"
+    },
+    {
+      "id": 177999,
+      "name": "Rudnichnyy"
+    },
+    {
+      "id": 178000,
+      "name": "Sarana"
+    },
+    {
+      "id": 178001,
+      "name": "Serov"
+    },
+    {
+      "id": 178002,
+      "name": "Severka"
+    },
+    {
+      "id": 178003,
+      "name": "Severoural’sk"
+    },
+    {
+      "id": 178004,
+      "name": "Shabrovskiy"
+    },
+    {
+      "id": 178005,
+      "name": "Shalya"
+    },
+    {
+      "id": 178006,
+      "name": "Shamary"
+    },
+    {
+      "id": 178007,
+      "name": "Shchelkun"
+    },
+    {
+      "id": 178008,
+      "name": "Shirokaya Rechka"
+    },
+    {
+      "id": 178009,
+      "name": "Shuvakish"
+    },
+    {
+      "id": 178010,
+      "name": "Sos’va"
+    },
+    {
+      "id": 178011,
+      "name": "Sovkhoznyy"
+    },
+    {
+      "id": 178012,
+      "name": "Sredneuralsk"
+    },
+    {
+      "id": 178013,
+      "name": "Staropyshminsk"
+    },
+    {
+      "id": 178014,
+      "name": "Staroutkinsk"
+    },
+    {
+      "id": 178015,
+      "name": "Sukhoy Log"
+    },
+    {
+      "id": 178016,
+      "name": "Svobodnyy"
+    },
+    {
+      "id": 178017,
+      "name": "Sylva"
+    },
+    {
+      "id": 178018,
+      "name": "Sysert’"
+    },
+    {
+      "id": 178019,
+      "name": "Sysertskiy Rayon"
+    },
+    {
+      "id": 178020,
+      "name": "Tabory"
+    },
+    {
+      "id": 178021,
+      "name": "Talitsa"
+    },
+    {
+      "id": 178022,
+      "name": "Tavda"
+    },
+    {
+      "id": 178023,
+      "name": "Tretiy Severnyy"
+    },
+    {
+      "id": 178024,
+      "name": "Troitskiy"
+    },
+    {
+      "id": 178025,
+      "name": "Tsementnyy"
+    },
+    {
+      "id": 178026,
+      "name": "Tugulym"
+    },
+    {
+      "id": 178027,
+      "name": "Turinsk"
+    },
+    {
+      "id": 178028,
+      "name": "Turinskaya Sloboda"
+    },
+    {
+      "id": 178029,
+      "name": "Ufimskiy"
+    },
+    {
+      "id": 178030,
+      "name": "Uralets"
+    },
+    {
+      "id": 178031,
+      "name": "Valerianovsk"
+    },
+    {
+      "id": 178032,
+      "name": "Verkh-Neyvinskiy"
+    },
+    {
+      "id": 178033,
+      "name": "Verkhneye Dubrovo"
+    },
+    {
+      "id": 178034,
+      "name": "Verkhniy Tagil"
+    },
+    {
+      "id": 178035,
+      "name": "Verkhniye Sergi"
+    },
+    {
+      "id": 178036,
+      "name": "Verkhnyaya Pyshma"
+    },
+    {
+      "id": 178037,
+      "name": "Verkhnyaya Salda"
+    },
+    {
+      "id": 178038,
+      "name": "Verkhnyaya Sinyachikha"
+    },
+    {
+      "id": 178039,
+      "name": "Verkhnyaya Sysert’"
+    },
+    {
+      "id": 178040,
+      "name": "Verkhnyaya Tura"
+    },
+    {
+      "id": 178041,
+      "name": "Verkhotur’ye"
+    },
+    {
+      "id": 178042,
+      "name": "Visim"
+    },
+    {
+      "id": 178043,
+      "name": "Volchansk"
+    },
+    {
+      "id": 178044,
+      "name": "Vostochnyy"
+    },
+    {
+      "id": 178045,
+      "name": "Yekaterinburg"
+    },
+    {
+      "id": 178046,
+      "name": "Yelanskiy"
+    },
+    {
+      "id": 178047,
+      "name": "Yëlkino"
+    },
+    {
+      "id": 178048,
+      "name": "Yertarskiy"
+    },
+    {
+      "id": 178049,
+      "name": "Yushala"
+    },
+    {
+      "id": 178050,
+      "name": "Zarechnyy"
+    },
+    {
+      "id": 178051,
+      "name": "Zavodouspenskoye"
+    },
+    {
+      "id": 178052,
+      "name": "Zaykovo"
+    },
+    {
+      "id": 178053,
+      "name": "Zyuzel’skiy"
+    }
+  ]
+}

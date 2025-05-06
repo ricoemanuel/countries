@@ -1,0 +1,411 @@
+{
+  "id": 6523,
+  "name": "Ciudad Real",
+  "state_code": "CR",
+  "cities": [
+    {
+      "id": 183828,
+      "name": "Abenójar"
+    },
+    {
+      "id": 183829,
+      "name": "Agudo"
+    },
+    {
+      "id": 183830,
+      "name": "Alamillo"
+    },
+    {
+      "id": 183831,
+      "name": "Albaladejo"
+    },
+    {
+      "id": 183832,
+      "name": "Alcázar de San Juan"
+    },
+    {
+      "id": 183833,
+      "name": "Alcoba"
+    },
+    {
+      "id": 183834,
+      "name": "Alcolea de Calatrava"
+    },
+    {
+      "id": 183835,
+      "name": "Alcubillas"
+    },
+    {
+      "id": 183836,
+      "name": "Aldea del Rey"
+    },
+    {
+      "id": 183837,
+      "name": "Alhambra"
+    },
+    {
+      "id": 183838,
+      "name": "Almadén"
+    },
+    {
+      "id": 183839,
+      "name": "Almadenejos"
+    },
+    {
+      "id": 183840,
+      "name": "Almagro"
+    },
+    {
+      "id": 183841,
+      "name": "Almedina"
+    },
+    {
+      "id": 183842,
+      "name": "Almodóvar del Campo"
+    },
+    {
+      "id": 183843,
+      "name": "Almuradiel"
+    },
+    {
+      "id": 183844,
+      "name": "Anchuras"
+    },
+    {
+      "id": 183845,
+      "name": "Arenales de San Gregorio"
+    },
+    {
+      "id": 183846,
+      "name": "Arenas de San Juan"
+    },
+    {
+      "id": 183847,
+      "name": "Argamasilla de Alba"
+    },
+    {
+      "id": 183848,
+      "name": "Argamasilla de Calatrava"
+    },
+    {
+      "id": 183849,
+      "name": "Arroba de los Montes"
+    },
+    {
+      "id": 183850,
+      "name": "Ballesteros de Calatrava"
+    },
+    {
+      "id": 183851,
+      "name": "Bolaños de Calatrava"
+    },
+    {
+      "id": 183852,
+      "name": "Brazatortas"
+    },
+    {
+      "id": 183853,
+      "name": "Cabezarados"
+    },
+    {
+      "id": 183854,
+      "name": "Cabezarrubias del Puerto"
+    },
+    {
+      "id": 183855,
+      "name": "Calzada de Calatrava"
+    },
+    {
+      "id": 183856,
+      "name": "Campo de Criptana"
+    },
+    {
+      "id": 183857,
+      "name": "Cañada de Calatrava"
+    },
+    {
+      "id": 183858,
+      "name": "Caracuel de Calatrava"
+    },
+    {
+      "id": 183859,
+      "name": "Carrión de Calatrava"
+    },
+    {
+      "id": 183860,
+      "name": "Carrizosa"
+    },
+    {
+      "id": 183861,
+      "name": "Castellar de Santiago"
+    },
+    {
+      "id": 183862,
+      "name": "Chillón"
+    },
+    {
+      "id": 183863,
+      "name": "Ciudad Real"
+    },
+    {
+      "id": 183864,
+      "name": "Corral de Calatrava"
+    },
+    {
+      "id": 183865,
+      "name": "Cortijos Los"
+    },
+    {
+      "id": 183866,
+      "name": "Cózar"
+    },
+    {
+      "id": 183867,
+      "name": "Daimiel"
+    },
+    {
+      "id": 183868,
+      "name": "Fernán Caballero"
+    },
+    {
+      "id": 183869,
+      "name": "Fontanarejo"
+    },
+    {
+      "id": 183870,
+      "name": "Fuencaliente"
+    },
+    {
+      "id": 183871,
+      "name": "Fuenllana"
+    },
+    {
+      "id": 183872,
+      "name": "Fuente el Fresno"
+    },
+    {
+      "id": 183873,
+      "name": "Granátula de Calatrava"
+    },
+    {
+      "id": 183874,
+      "name": "Guadalmez"
+    },
+    {
+      "id": 183875,
+      "name": "Herencia"
+    },
+    {
+      "id": 183876,
+      "name": "Hinojosas de Calatrava"
+    },
+    {
+      "id": 183877,
+      "name": "Horcajo de los Montes"
+    },
+    {
+      "id": 183878,
+      "name": "Labores Las"
+    },
+    {
+      "id": 183879,
+      "name": "Llanos del Caudillo"
+    },
+    {
+      "id": 183880,
+      "name": "Luciana"
+    },
+    {
+      "id": 183881,
+      "name": "Malagón"
+    },
+    {
+      "id": 183882,
+      "name": "Manzanares"
+    },
+    {
+      "id": 183883,
+      "name": "Membrilla"
+    },
+    {
+      "id": 183884,
+      "name": "Mestanza"
+    },
+    {
+      "id": 183885,
+      "name": "Miguelturra"
+    },
+    {
+      "id": 183886,
+      "name": "Montiel"
+    },
+    {
+      "id": 183887,
+      "name": "Moral de Calatrava"
+    },
+    {
+      "id": 183888,
+      "name": "Navalpino"
+    },
+    {
+      "id": 183889,
+      "name": "Navas de Estena"
+    },
+    {
+      "id": 183890,
+      "name": "Pedro Muñoz"
+    },
+    {
+      "id": 183891,
+      "name": "Picón"
+    },
+    {
+      "id": 183892,
+      "name": "Piedrabuena"
+    },
+    {
+      "id": 183893,
+      "name": "Poblete"
+    },
+    {
+      "id": 183894,
+      "name": "Porzuna"
+    },
+    {
+      "id": 183895,
+      "name": "Pozuelo de Calatrava"
+    },
+    {
+      "id": 183896,
+      "name": "Pozuelos de Calatrava Los"
+    },
+    {
+      "id": 183897,
+      "name": "Puebla de Don Rodrigo"
+    },
+    {
+      "id": 183898,
+      "name": "Puebla del Príncipe"
+    },
+    {
+      "id": 183899,
+      "name": "Puerto Lápice"
+    },
+    {
+      "id": 183900,
+      "name": "Puertollano"
+    },
+    {
+      "id": 183901,
+      "name": "Retuerta del Bullaque"
+    },
+    {
+      "id": 183902,
+      "name": "Robledo El"
+    },
+    {
+      "id": 183903,
+      "name": "Ruidera"
+    },
+    {
+      "id": 183904,
+      "name": "Saceruela"
+    },
+    {
+      "id": 183905,
+      "name": "San Carlos del Valle"
+    },
+    {
+      "id": 183906,
+      "name": "San Lorenzo de Calatrava"
+    },
+    {
+      "id": 183907,
+      "name": "Santa Cruz de los Cáñamos"
+    },
+    {
+      "id": 183908,
+      "name": "Santa Cruz de Mudela"
+    },
+    {
+      "id": 183909,
+      "name": "Socuéllamos"
+    },
+    {
+      "id": 183910,
+      "name": "Solana del Pino"
+    },
+    {
+      "id": 183911,
+      "name": "Solana La"
+    },
+    {
+      "id": 183912,
+      "name": "Terrinches"
+    },
+    {
+      "id": 183913,
+      "name": "Tomelloso"
+    },
+    {
+      "id": 183914,
+      "name": "Torralba de Calatrava"
+    },
+    {
+      "id": 183915,
+      "name": "Torre de Juan Abad"
+    },
+    {
+      "id": 183916,
+      "name": "Torrenueva"
+    },
+    {
+      "id": 183917,
+      "name": "Valdemanco del Esteras"
+    },
+    {
+      "id": 183918,
+      "name": "Valdepeñas"
+    },
+    {
+      "id": 183919,
+      "name": "Valenzuela de Calatrava"
+    },
+    {
+      "id": 183920,
+      "name": "Villahermosa"
+    },
+    {
+      "id": 183921,
+      "name": "Villamanrique"
+    },
+    {
+      "id": 183922,
+      "name": "Villamayor de Calatrava"
+    },
+    {
+      "id": 183923,
+      "name": "Villanueva de la Fuente"
+    },
+    {
+      "id": 183924,
+      "name": "Villanueva de San Carlos"
+    },
+    {
+      "id": 183925,
+      "name": "Villar del Pozo"
+    },
+    {
+      "id": 183926,
+      "name": "Villarrubia de los Ojos"
+    },
+    {
+      "id": 183927,
+      "name": "Villarta de San Juan"
+    },
+    {
+      "id": 183928,
+      "name": "Viso del Marqués"
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "id": 3201,
+  "name": "Alberta",
+  "state_code": "AB",
+  "cities": [
+    {
+      "id": 88898,
+      "name": "Airdrie"
+    },
+    {
+      "id": 88899,
+      "name": "Athabasca"
+    },
+    {
+      "id": 88900,
+      "name": "Banff"
+    },
+    {
+      "id": 88901,
+      "name": "Barrhead"
+    },
+    {
+      "id": 88902,
+      "name": "Bassano"
+    },
+    {
+      "id": 88903,
+      "name": "Beaumont"
+    },
+    {
+      "id": 88904,
+      "name": "Beaverlodge"
+    },
+    {
+      "id": 88905,
+      "name": "Black Diamond"
+    },
+    {
+      "id": 88906,
+      "name": "Blackfalds"
+    },
+    {
+      "id": 88907,
+      "name": "Bon Accord"
+    },
+    {
+      "id": 88908,
+      "name": "Bonnyville"
+    },
+    {
+      "id": 88909,
+      "name": "Bow Island"
+    },
+    {
+      "id": 88910,
+      "name": "Brooks"
+    },
+    {
+      "id": 88911,
+      "name": "Calgary"
+    },
+    {
+      "id": 88912,
+      "name": "Calmar"
+    },
+    {
+      "id": 88913,
+      "name": "Camrose"
+    },
+    {
+      "id": 88914,
+      "name": "Canmore"
+    },
+    {
+      "id": 88915,
+      "name": "Cardston"
+    },
+    {
+      "id": 88916,
+      "name": "Carstairs"
+    },
+    {
+      "id": 88917,
+      "name": "Chestermere"
+    },
+    {
+      "id": 88918,
+      "name": "Claresholm"
+    },
+    {
+      "id": 88919,
+      "name": "Coaldale"
+    },
+    {
+      "id": 88920,
+      "name": "Coalhurst"
+    },
+    {
+      "id": 88921,
+      "name": "Cochrane"
+    },
+    {
+      "id": 88922,
+      "name": "Cold Lake"
+    },
+    {
+      "id": 88923,
+      "name": "Crossfield"
+    },
+    {
+      "id": 88924,
+      "name": "Devon"
+    },
+    {
+      "id": 88925,
+      "name": "Didsbury"
+    },
+    {
+      "id": 88926,
+      "name": "Drayton Valley"
+    },
+    {
+      "id": 88927,
+      "name": "Edmonton"
+    },
+    {
+      "id": 88928,
+      "name": "Edson"
+    },
+    {
+      "id": 88929,
+      "name": "Elk Point"
+    },
+    {
+      "id": 88930,
+      "name": "Fairview"
+    },
+    {
+      "id": 88931,
+      "name": "Falher"
+    },
+    {
+      "id": 88932,
+      "name": "Fort Macleod"
+    },
+    {
+      "id": 88933,
+      "name": "Fort McMurray"
+    },
+    {
+      "id": 88934,
+      "name": "Fort Saskatchewan"
+    },
+    {
+      "id": 88935,
+      "name": "Fox Creek"
+    },
+    {
+      "id": 88936,
+      "name": "Gibbons"
+    },
+    {
+      "id": 88937,
+      "name": "Grand Centre"
+    },
+    {
+      "id": 88938,
+      "name": "Grande Cache"
+    },
+    {
+      "id": 88939,
+      "name": "Grande Prairie"
+    },
+    {
+      "id": 88940,
+      "name": "Grimshaw"
+    },
+    {
+      "id": 88941,
+      "name": "Hanna"
+    },
+    {
+      "id": 88942,
+      "name": "Heritage Pointe"
+    },
+    {
+      "id": 88943,
+      "name": "High Level"
+    },
+    {
+      "id": 88944,
+      "name": "High Prairie"
+    },
+    {
+      "id": 88945,
+      "name": "High River"
+    },
+    {
+      "id": 88946,
+      "name": "Hinton"
+    },
+    {
+      "id": 88947,
+      "name": "Irricana"
+    },
+    {
+      "id": 88948,
+      "name": "Jasper Park Lodge"
+    },
+    {
+      "id": 88949,
+      "name": "Killam"
+    },
+    {
+      "id": 88950,
+      "name": "Lac La Biche"
+    },
+    {
+      "id": 88951,
+      "name": "Lacombe"
+    },
+    {
+      "id": 88952,
+      "name": "Lamont"
+    },
+    {
+      "id": 88953,
+      "name": "Larkspur"
+    },
+    {
+      "id": 88954,
+      "name": "Laurel"
+    },
+    {
+      "id": 88955,
+      "name": "Leduc"
+    },
+    {
+      "id": 88956,
+      "name": "Lethbridge"
+    },
+    {
+      "id": 88957,
+      "name": "Lloydminster"
+    },
+    {
+      "id": 88958,
+      "name": "Magrath"
+    },
+    {
+      "id": 88959,
+      "name": "Manning"
+    },
+    {
+      "id": 88960,
+      "name": "Mannville"
+    },
+    {
+      "id": 88961,
+      "name": "Maple Ridge"
+    },
+    {
+      "id": 88962,
+      "name": "Mayerthorpe"
+    },
+    {
+      "id": 88963,
+      "name": "Medicine Hat"
+    },
+    {
+      "id": 88964,
+      "name": "Mill Woods Town Centre"
+    },
+    {
+      "id": 88965,
+      "name": "Millet"
+    },
+    {
+      "id": 88966,
+      "name": "Morinville"
+    },
+    {
+      "id": 88967,
+      "name": "Nanton"
+    },
+    {
+      "id": 88968,
+      "name": "Okotoks"
+    },
+    {
+      "id": 88969,
+      "name": "Olds"
+    },
+    {
+      "id": 88970,
+      "name": "Peace River"
+    },
+    {
+      "id": 88971,
+      "name": "Penhold"
+    },
+    {
+      "id": 88972,
+      "name": "Picture Butte"
+    },
+    {
+      "id": 88973,
+      "name": "Pincher Creek"
+    },
+    {
+      "id": 88974,
+      "name": "Ponoka"
+    },
+    {
+      "id": 88975,
+      "name": "Provost"
+    },
+    {
+      "id": 88976,
+      "name": "Raymond"
+    },
+    {
+      "id": 88977,
+      "name": "Red Deer"
+    },
+    {
+      "id": 88978,
+      "name": "Rideau Park"
+    },
+    {
+      "id": 88979,
+      "name": "Rimbey"
+    },
+    {
+      "id": 88980,
+      "name": "Rocky Mountain House"
+    },
+    {
+      "id": 88981,
+      "name": "Sexsmith"
+    },
+    {
+      "id": 88982,
+      "name": "Sherwood Park"
+    },
+    {
+      "id": 88983,
+      "name": "Silver Berry"
+    },
+    {
+      "id": 88984,
+      "name": "Slave Lake"
+    },
+    {
+      "id": 88985,
+      "name": "Smoky Lake"
+    },
+    {
+      "id": 88986,
+      "name": "Spirit River"
+    },
+    {
+      "id": 88987,
+      "name": "Springbrook"
+    },
+    {
+      "id": 88988,
+      "name": "Spruce Grove"
+    },
+    {
+      "id": 88989,
+      "name": "St. Albert"
+    },
+    {
+      "id": 88990,
+      "name": "Stettler"
+    },
+    {
+      "id": 88991,
+      "name": "Stony Plain"
+    },
+    {
+      "id": 88992,
+      "name": "Strathmore"
+    },
+    {
+      "id": 88993,
+      "name": "Sundre"
+    },
+    {
+      "id": 88994,
+      "name": "Swan Hills"
+    },
+    {
+      "id": 88995,
+      "name": "Sylvan Lake"
+    },
+    {
+      "id": 88996,
+      "name": "Taber"
+    },
+    {
+      "id": 88997,
+      "name": "Tamarack"
+    },
+    {
+      "id": 88998,
+      "name": "Three Hills"
+    },
+    {
+      "id": 88999,
+      "name": "Tofield"
+    },
+    {
+      "id": 89000,
+      "name": "Two Hills"
+    },
+    {
+      "id": 89001,
+      "name": "Valleyview"
+    },
+    {
+      "id": 89002,
+      "name": "Vegreville"
+    },
+    {
+      "id": 89003,
+      "name": "Vermilion"
+    },
+    {
+      "id": 89004,
+      "name": "Viking"
+    },
+    {
+      "id": 89005,
+      "name": "Vulcan"
+    },
+    {
+      "id": 89006,
+      "name": "Wainwright"
+    },
+    {
+      "id": 89007,
+      "name": "Wembley"
+    },
+    {
+      "id": 89008,
+      "name": "Westlake"
+    },
+    {
+      "id": 89009,
+      "name": "Westlock"
+    },
+    {
+      "id": 89010,
+      "name": "Wetaskiwin"
+    },
+    {
+      "id": 89011,
+      "name": "Whitecourt"
+    },
+    {
+      "id": 89012,
+      "name": "Wild Rose"
+    }
+  ]
+}

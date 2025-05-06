@@ -1,0 +1,307 @@
+{
+  "id": 6663,
+  "name": "Valais",
+  "state_code": "VS",
+  "cities": [
+    {
+      "id": 191968,
+      "name": "Ardon"
+    },
+    {
+      "id": 191969,
+      "name": "Ayent"
+    },
+    {
+      "id": 191970,
+      "name": "Bagnes"
+    },
+    {
+      "id": 191971,
+      "name": "Baltschieder"
+    },
+    {
+      "id": 191972,
+      "name": "Basse-Nendaz"
+    },
+    {
+      "id": 191973,
+      "name": "Brig"
+    },
+    {
+      "id": 191974,
+      "name": "Brig District"
+    },
+    {
+      "id": 191975,
+      "name": "Chalais"
+    },
+    {
+      "id": 191976,
+      "name": "Chamoson"
+    },
+    {
+      "id": 191977,
+      "name": "Champéry"
+    },
+    {
+      "id": 191978,
+      "name": "Charrat"
+    },
+    {
+      "id": 191979,
+      "name": "Chermignon-d’en Haut"
+    },
+    {
+      "id": 191980,
+      "name": "Chippis"
+    },
+    {
+      "id": 191981,
+      "name": "Collombey-Muraz"
+    },
+    {
+      "id": 191982,
+      "name": "Conthey"
+    },
+    {
+      "id": 191983,
+      "name": "Conthey District"
+    },
+    {
+      "id": 191984,
+      "name": "Entremont District"
+    },
+    {
+      "id": 191985,
+      "name": "Evionnaz"
+    },
+    {
+      "id": 191986,
+      "name": "Evolène"
+    },
+    {
+      "id": 191987,
+      "name": "Fiesch"
+    },
+    {
+      "id": 191988,
+      "name": "Fully"
+    },
+    {
+      "id": 191989,
+      "name": "Gampel"
+    },
+    {
+      "id": 191990,
+      "name": "Goms District"
+    },
+    {
+      "id": 191991,
+      "name": "Grächen"
+    },
+    {
+      "id": 191992,
+      "name": "Grimisuat"
+    },
+    {
+      "id": 191993,
+      "name": "Grône"
+    },
+    {
+      "id": 191994,
+      "name": "Hérémence"
+    },
+    {
+      "id": 191995,
+      "name": "Hérens District"
+    },
+    {
+      "id": 191996,
+      "name": "Lens"
+    },
+    {
+      "id": 191997,
+      "name": "Leuk"
+    },
+    {
+      "id": 191998,
+      "name": "Leuk District"
+    },
+    {
+      "id": 191999,
+      "name": "Leukerbad"
+    },
+    {
+      "id": 192000,
+      "name": "Leytron"
+    },
+    {
+      "id": 192001,
+      "name": "Martigny District"
+    },
+    {
+      "id": 192002,
+      "name": "Martigny-Combe"
+    },
+    {
+      "id": 192003,
+      "name": "Martigny-Ville"
+    },
+    {
+      "id": 192004,
+      "name": "Montana"
+    },
+    {
+      "id": 192005,
+      "name": "Monthey"
+    },
+    {
+      "id": 192006,
+      "name": "Monthey District"
+    },
+    {
+      "id": 192007,
+      "name": "Naters"
+    },
+    {
+      "id": 192008,
+      "name": "Orsières"
+    },
+    {
+      "id": 192009,
+      "name": "Randogne"
+    },
+    {
+      "id": 192010,
+      "name": "Raron"
+    },
+    {
+      "id": 192011,
+      "name": "Raron District"
+    },
+    {
+      "id": 192012,
+      "name": "Riddes"
+    },
+    {
+      "id": 192013,
+      "name": "Saas-Fee"
+    },
+    {
+      "id": 192014,
+      "name": "Saas-Grund"
+    },
+    {
+      "id": 192015,
+      "name": "Saillon"
+    },
+    {
+      "id": 192016,
+      "name": "Saint-Léonard"
+    },
+    {
+      "id": 192017,
+      "name": "Saint-Maurice"
+    },
+    {
+      "id": 192018,
+      "name": "Saint-Maurice District"
+    },
+    {
+      "id": 192019,
+      "name": "Salgesch"
+    },
+    {
+      "id": 192020,
+      "name": "Salvan"
+    },
+    {
+      "id": 192021,
+      "name": "Sankt Niklaus"
+    },
+    {
+      "id": 192022,
+      "name": "Savièse"
+    },
+    {
+      "id": 192023,
+      "name": "Saxon"
+    },
+    {
+      "id": 192024,
+      "name": "Sierre"
+    },
+    {
+      "id": 192025,
+      "name": "Sierre District"
+    },
+    {
+      "id": 192026,
+      "name": "Sion District"
+    },
+    {
+      "id": 192027,
+      "name": "Sitten"
+    },
+    {
+      "id": 192028,
+      "name": "Stalden"
+    },
+    {
+      "id": 192029,
+      "name": "Tanay"
+    },
+    {
+      "id": 192030,
+      "name": "Troistorrents"
+    },
+    {
+      "id": 192031,
+      "name": "Turtmann"
+    },
+    {
+      "id": 192032,
+      "name": "Varen"
+    },
+    {
+      "id": 192033,
+      "name": "Verbier"
+    },
+    {
+      "id": 192034,
+      "name": "Vernayaz"
+    },
+    {
+      "id": 192035,
+      "name": "Vétroz"
+    },
+    {
+      "id": 192036,
+      "name": "Vex"
+    },
+    {
+      "id": 192037,
+      "name": "Vionnaz"
+    },
+    {
+      "id": 192038,
+      "name": "Visp"
+    },
+    {
+      "id": 192039,
+      "name": "Visp District"
+    },
+    {
+      "id": 192040,
+      "name": "Visperterminen"
+    },
+    {
+      "id": 192041,
+      "name": "Vouvry"
+    },
+    {
+      "id": 192042,
+      "name": "Zermatt"
+    }
+  ]
+}

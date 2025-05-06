@@ -1,0 +1,451 @@
+{
+  "id": 6044,
+  "name": "Republic of Bashkortostan",
+  "state_code": "BA",
+  "cities": [
+    {
+      "id": 176633,
+      "name": "Abzakovo"
+    },
+    {
+      "id": 176634,
+      "name": "Abzelilovskiy Rayon"
+    },
+    {
+      "id": 176635,
+      "name": "Agidel’"
+    },
+    {
+      "id": 176636,
+      "name": "Ak”yar"
+    },
+    {
+      "id": 176637,
+      "name": "Akhunovo"
+    },
+    {
+      "id": 176638,
+      "name": "Aksakovo"
+    },
+    {
+      "id": 176639,
+      "name": "Al’sheyevskiy Rayon"
+    },
+    {
+      "id": 176640,
+      "name": "Alekseyevka"
+    },
+    {
+      "id": 176641,
+      "name": "Amzya"
+    },
+    {
+      "id": 176642,
+      "name": "Asanovo"
+    },
+    {
+      "id": 176643,
+      "name": "Askino"
+    },
+    {
+      "id": 176644,
+      "name": "Askinskiy Rayon"
+    },
+    {
+      "id": 176645,
+      "name": "Avdon"
+    },
+    {
+      "id": 176646,
+      "name": "Bakalinskiy Rayon"
+    },
+    {
+      "id": 176647,
+      "name": "Bakaly"
+    },
+    {
+      "id": 176648,
+      "name": "Baymak"
+    },
+    {
+      "id": 176649,
+      "name": "Bedeyeva Polyana"
+    },
+    {
+      "id": 176650,
+      "name": "Belebey"
+    },
+    {
+      "id": 176651,
+      "name": "Beloretsk"
+    },
+    {
+      "id": 176652,
+      "name": "Beloretskiy Rayon"
+    },
+    {
+      "id": 176653,
+      "name": "Birsk"
+    },
+    {
+      "id": 176654,
+      "name": "Bizhbulyak"
+    },
+    {
+      "id": 176655,
+      "name": "Blagoveshchensk"
+    },
+    {
+      "id": 176656,
+      "name": "Bulgakovo"
+    },
+    {
+      "id": 176657,
+      "name": "Burayevo"
+    },
+    {
+      "id": 176658,
+      "name": "Buribay"
+    },
+    {
+      "id": 176659,
+      "name": "Buzdyak"
+    },
+    {
+      "id": 176660,
+      "name": "Buzdyakskiy Rayon"
+    },
+    {
+      "id": 176661,
+      "name": "Chekmagush"
+    },
+    {
+      "id": 176662,
+      "name": "Chesnokovka"
+    },
+    {
+      "id": 176663,
+      "name": "Chishmy"
+    },
+    {
+      "id": 176664,
+      "name": "Davlekanovo"
+    },
+    {
+      "id": 176665,
+      "name": "Dmitriyevka"
+    },
+    {
+      "id": 176666,
+      "name": "Duvan"
+    },
+    {
+      "id": 176667,
+      "name": "Dyurtyuli"
+    },
+    {
+      "id": 176668,
+      "name": "Fëdorovskiy Rayon"
+    },
+    {
+      "id": 176669,
+      "name": "Iglino"
+    },
+    {
+      "id": 176670,
+      "name": "Inzer"
+    },
+    {
+      "id": 176671,
+      "name": "Ishimbay"
+    },
+    {
+      "id": 176672,
+      "name": "Isyangulovo"
+    },
+    {
+      "id": 176673,
+      "name": "Kabakovo"
+    },
+    {
+      "id": 176674,
+      "name": "Kaltasy"
+    },
+    {
+      "id": 176675,
+      "name": "Kandry"
+    },
+    {
+      "id": 176676,
+      "name": "Karaidel’"
+    },
+    {
+      "id": 176677,
+      "name": "Karmaskaly"
+    },
+    {
+      "id": 176678,
+      "name": "Khaybullinskiy Rayon"
+    },
+    {
+      "id": 176679,
+      "name": "Kirgiz-Miyaki"
+    },
+    {
+      "id": 176680,
+      "name": "Krasnaya Gorka"
+    },
+    {
+      "id": 176681,
+      "name": "Krasnokholmskiy"
+    },
+    {
+      "id": 176682,
+      "name": "Krasnyy Klyuch"
+    },
+    {
+      "id": 176683,
+      "name": "Kudeyevskiy"
+    },
+    {
+      "id": 176684,
+      "name": "Kumertau"
+    },
+    {
+      "id": 176685,
+      "name": "Kushnarënkovo"
+    },
+    {
+      "id": 176686,
+      "name": "Lomovka"
+    },
+    {
+      "id": 176687,
+      "name": "Maginsk"
+    },
+    {
+      "id": 176688,
+      "name": "Mayachnyy"
+    },
+    {
+      "id": 176689,
+      "name": "Mechetlinskiy Rayon"
+    },
+    {
+      "id": 176690,
+      "name": "Meleuz"
+    },
+    {
+      "id": 176691,
+      "name": "Mesyagutovo"
+    },
+    {
+      "id": 176692,
+      "name": "Mezgor'e"
+    },
+    {
+      "id": 176693,
+      "name": "Mikhaylovka"
+    },
+    {
+      "id": 176694,
+      "name": "Mindyak"
+    },
+    {
+      "id": 176695,
+      "name": "Mishkino"
+    },
+    {
+      "id": 176696,
+      "name": "Mishkinskiy Rayon"
+    },
+    {
+      "id": 176697,
+      "name": "Miyakinskiy Rayon"
+    },
+    {
+      "id": 176698,
+      "name": "Mrakovo"
+    },
+    {
+      "id": 176699,
+      "name": "Mursalimkino"
+    },
+    {
+      "id": 176700,
+      "name": "Neftekamsk"
+    },
+    {
+      "id": 176701,
+      "name": "Nikolo-Berëzovka"
+    },
+    {
+      "id": 176702,
+      "name": "Nizhnetroitskiy"
+    },
+    {
+      "id": 176703,
+      "name": "Novobelokatay"
+    },
+    {
+      "id": 176704,
+      "name": "Nurimanovskiy Rayon"
+    },
+    {
+      "id": 176705,
+      "name": "Oktyabr’skiy"
+    },
+    {
+      "id": 176706,
+      "name": "Pavlovka"
+    },
+    {
+      "id": 176707,
+      "name": "Priyutovo"
+    },
+    {
+      "id": 176708,
+      "name": "Rayevskiy"
+    },
+    {
+      "id": 176709,
+      "name": "Salavat"
+    },
+    {
+      "id": 176710,
+      "name": "Semiletka"
+    },
+    {
+      "id": 176711,
+      "name": "Serafimovskiy"
+    },
+    {
+      "id": 176712,
+      "name": "Shafranovo"
+    },
+    {
+      "id": 176713,
+      "name": "Sharan"
+    },
+    {
+      "id": 176714,
+      "name": "Sibay"
+    },
+    {
+      "id": 176715,
+      "name": "Starobaltachevo"
+    },
+    {
+      "id": 176716,
+      "name": "Starosubkhangulovo"
+    },
+    {
+      "id": 176717,
+      "name": "Sterlibashevo"
+    },
+    {
+      "id": 176718,
+      "name": "Sterlitamak"
+    },
+    {
+      "id": 176719,
+      "name": "Subkhankulovo"
+    },
+    {
+      "id": 176720,
+      "name": "Temyasovo"
+    },
+    {
+      "id": 176721,
+      "name": "Tirlyanskiy"
+    },
+    {
+      "id": 176722,
+      "name": "Tolbazy"
+    },
+    {
+      "id": 176723,
+      "name": "Tubinskiy"
+    },
+    {
+      "id": 176724,
+      "name": "Tukan"
+    },
+    {
+      "id": 176725,
+      "name": "Tuymazy"
+    },
+    {
+      "id": 176726,
+      "name": "Uchaly"
+    },
+    {
+      "id": 176727,
+      "name": "Ufa"
+    },
+    {
+      "id": 176728,
+      "name": "Ulu-Telyak"
+    },
+    {
+      "id": 176729,
+      "name": "Ulukulevo"
+    },
+    {
+      "id": 176730,
+      "name": "Urman"
+    },
+    {
+      "id": 176731,
+      "name": "Verkhneyarkeyevo"
+    },
+    {
+      "id": 176732,
+      "name": "Verkhniy Avzyan"
+    },
+    {
+      "id": 176733,
+      "name": "Verkhniye Kigi"
+    },
+    {
+      "id": 176734,
+      "name": "Verkhniye Tatyshly"
+    },
+    {
+      "id": 176735,
+      "name": "Voskresenskoye"
+    },
+    {
+      "id": 176736,
+      "name": "Yanaul"
+    },
+    {
+      "id": 176737,
+      "name": "Yanaul’skiy Rayon"
+    },
+    {
+      "id": 176738,
+      "name": "Yazykovo"
+    },
+    {
+      "id": 176739,
+      "name": "Yermekeyevo"
+    },
+    {
+      "id": 176740,
+      "name": "Yermolayevo"
+    },
+    {
+      "id": 176741,
+      "name": "Yumaguzino"
+    },
+    {
+      "id": 176742,
+      "name": "Zilair"
+    },
+    {
+      "id": 176743,
+      "name": "Zirgan"
+    }
+  ]
+}

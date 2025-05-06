@@ -1,0 +1,999 @@
+{
+  "id": 5141,
+  "name": "Nuevo León",
+  "state_code": "NLE",
+  "cities": [
+    {
+      "id": 144095,
+      "name": "Agualeguas"
+    },
+    {
+      "id": 144096,
+      "name": "Agualeguas Nuevo León"
+    },
+    {
+      "id": 144097,
+      "name": "Alberto Villarreal"
+    },
+    {
+      "id": 144098,
+      "name": "Aldama Estación"
+    },
+    {
+      "id": 144099,
+      "name": "Alfonso Reyes"
+    },
+    {
+      "id": 144100,
+      "name": "Alianza Real"
+    },
+    {
+      "id": 144101,
+      "name": "Allende"
+    },
+    {
+      "id": 144102,
+      "name": "Altamira"
+    },
+    {
+      "id": 144103,
+      "name": "Ampliación de la Laguna"
+    },
+    {
+      "id": 144104,
+      "name": "Anáhuac"
+    },
+    {
+      "id": 144105,
+      "name": "Apodaca"
+    },
+    {
+      "id": 144106,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 144107,
+      "name": "Aramberri"
+    },
+    {
+      "id": 144108,
+      "name": "Armando Fernández Garza"
+    },
+    {
+      "id": 144109,
+      "name": "Artemio Treviño"
+    },
+    {
+      "id": 144110,
+      "name": "Barrio Aldamas"
+    },
+    {
+      "id": 144111,
+      "name": "Barrio de Jalisco"
+    },
+    {
+      "id": 144112,
+      "name": "Bello Amanecer"
+    },
+    {
+      "id": 144113,
+      "name": "Bosques de San Pedro"
+    },
+    {
+      "id": 144114,
+      "name": "Buena Vista"
+    },
+    {
+      "id": 144115,
+      "name": "Bustamante"
+    },
+    {
+      "id": 144116,
+      "name": "Cadereyta"
+    },
+    {
+      "id": 144117,
+      "name": "Cadereyta Jiménez"
+    },
+    {
+      "id": 144118,
+      "name": "Caja Pinta"
+    },
+    {
+      "id": 144119,
+      "name": "Campestre el Montesito"
+    },
+    {
+      "id": 144120,
+      "name": "Cañón de Vacas"
+    },
+    {
+      "id": 144121,
+      "name": "Cantú"
+    },
+    {
+      "id": 144122,
+      "name": "Carboneras"
+    },
+    {
+      "id": 144123,
+      "name": "Carmen"
+    },
+    {
+      "id": 144124,
+      "name": "Casa Rosa"
+    },
+    {
+      "id": 144125,
+      "name": "Catarino Rodríguez"
+    },
+    {
+      "id": 144126,
+      "name": "Centro Habitacional Burócratas de Guadalupe"
+    },
+    {
+      "id": 144127,
+      "name": "Cerralvo"
+    },
+    {
+      "id": 144128,
+      "name": "Charco Redondo"
+    },
+    {
+      "id": 144129,
+      "name": "China"
+    },
+    {
+      "id": 144130,
+      "name": "Ciénega de Flores"
+    },
+    {
+      "id": 144131,
+      "name": "Cinco Señores"
+    },
+    {
+      "id": 144132,
+      "name": "Ciudad Anáhuac"
+    },
+    {
+      "id": 144133,
+      "name": "Ciudad Apodaca"
+    },
+    {
+      "id": 144134,
+      "name": "Ciudad Benito Juárez"
+    },
+    {
+      "id": 144135,
+      "name": "Ciudad Cerralvo"
+    },
+    {
+      "id": 144136,
+      "name": "Ciudad de Allende"
+    },
+    {
+      "id": 144137,
+      "name": "Ciudad de Villaldama"
+    },
+    {
+      "id": 144138,
+      "name": "Ciudad General Escobedo"
+    },
+    {
+      "id": 144139,
+      "name": "Ciudad General Terán"
+    },
+    {
+      "id": 144140,
+      "name": "Ciudad Sabinas Hidalgo"
+    },
+    {
+      "id": 144141,
+      "name": "Ciudad Satélite del Norte"
+    },
+    {
+      "id": 144142,
+      "name": "Colinas del Aeropuerto"
+    },
+    {
+      "id": 144143,
+      "name": "Colinas del Río Juárez"
+    },
+    {
+      "id": 144144,
+      "name": "Colombia"
+    },
+    {
+      "id": 144145,
+      "name": "Colonia Independencia (Monterrey)"
+    },
+    {
+      "id": 144146,
+      "name": "Colonia la Mesa"
+    },
+    {
+      "id": 144147,
+      "name": "Conferín Arizpe"
+    },
+    {
+      "id": 144148,
+      "name": "Congregación Calles"
+    },
+    {
+      "id": 144149,
+      "name": "Constitución"
+    },
+    {
+      "id": 144150,
+      "name": "Dieciocho de Marzo"
+    },
+    {
+      "id": 144151,
+      "name": "Dieciséis de Septiembre"
+    },
+    {
+      "id": 144152,
+      "name": "Doce de Octubre"
+    },
+    {
+      "id": 144153,
+      "name": "Doctor Arroyo"
+    },
+    {
+      "id": 144154,
+      "name": "Doctor Coss"
+    },
+    {
+      "id": 144155,
+      "name": "Doctor Coss Nuevo León"
+    },
+    {
+      "id": 144156,
+      "name": "Doctor González"
+    },
+    {
+      "id": 144157,
+      "name": "Dolores"
+    },
+    {
+      "id": 144158,
+      "name": "El Bajío"
+    },
+    {
+      "id": 144159,
+      "name": "El Barco"
+    },
+    {
+      "id": 144160,
+      "name": "El Bosque"
+    },
+    {
+      "id": 144161,
+      "name": "El Brasil"
+    },
+    {
+      "id": 144162,
+      "name": "El Carmen de los Elizondo"
+    },
+    {
+      "id": 144163,
+      "name": "El Carmen Nuevo León"
+    },
+    {
+      "id": 144164,
+      "name": "El Cedral"
+    },
+    {
+      "id": 144165,
+      "name": "El Cerrito"
+    },
+    {
+      "id": 144166,
+      "name": "El Chamizal"
+    },
+    {
+      "id": 144167,
+      "name": "El Dieciséis"
+    },
+    {
+      "id": 144168,
+      "name": "El Diez"
+    },
+    {
+      "id": 144169,
+      "name": "El Fraile"
+    },
+    {
+      "id": 144170,
+      "name": "El Leal"
+    },
+    {
+      "id": 144171,
+      "name": "El Maguey"
+    },
+    {
+      "id": 144172,
+      "name": "El Mosquito Linares"
+    },
+    {
+      "id": 144173,
+      "name": "El Nogalito"
+    },
+    {
+      "id": 144174,
+      "name": "El Palmital"
+    },
+    {
+      "id": 144175,
+      "name": "El Pastor"
+    },
+    {
+      "id": 144176,
+      "name": "El Ranchito Número Uno"
+    },
+    {
+      "id": 144177,
+      "name": "El Realito"
+    },
+    {
+      "id": 144178,
+      "name": "El Refugio"
+    },
+    {
+      "id": 144179,
+      "name": "El Refugio y el Reparo"
+    },
+    {
+      "id": 144180,
+      "name": "El Rucio"
+    },
+    {
+      "id": 144181,
+      "name": "El Saladito"
+    },
+    {
+      "id": 144182,
+      "name": "El Salitre"
+    },
+    {
+      "id": 144183,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 144184,
+      "name": "Entronque Laredo-Salinas Victoria"
+    },
+    {
+      "id": 144185,
+      "name": "Estados Unidos"
+    },
+    {
+      "id": 144186,
+      "name": "Fraccionamiento Cosmópolis Octavo Sector"
+    },
+    {
+      "id": 144187,
+      "name": "Fraccionamiento del Valle"
+    },
+    {
+      "id": 144188,
+      "name": "Fraccionamiento Misión de San Javier"
+    },
+    {
+      "id": 144189,
+      "name": "Fraccionamiento Real Palmas"
+    },
+    {
+      "id": 144190,
+      "name": "Francisco I. Madero"
+    },
+    {
+      "id": 144191,
+      "name": "Francisco Villa"
+    },
+    {
+      "id": 144192,
+      "name": "Galeana"
+    },
+    {
+      "id": 144193,
+      "name": "García"
+    },
+    {
+      "id": 144194,
+      "name": "Garza García"
+    },
+    {
+      "id": 144195,
+      "name": "Garza González"
+    },
+    {
+      "id": 144196,
+      "name": "General Bravo"
+    },
+    {
+      "id": 144197,
+      "name": "General Escobedo"
+    },
+    {
+      "id": 144198,
+      "name": "General Tapia"
+    },
+    {
+      "id": 144199,
+      "name": "General Terán Nuevo León"
+    },
+    {
+      "id": 144200,
+      "name": "General Treviño"
+    },
+    {
+      "id": 144201,
+      "name": "General Zuazua"
+    },
+    {
+      "id": 144202,
+      "name": "Graciano Bortoni"
+    },
+    {
+      "id": 144203,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 144204,
+      "name": "Hacienda de Enmedio"
+    },
+    {
+      "id": 144205,
+      "name": "Hacienda San Juan"
+    },
+    {
+      "id": 144206,
+      "name": "Hacienda San Pedro"
+    },
+    {
+      "id": 144207,
+      "name": "Héctor Caballero"
+    },
+    {
+      "id": 144208,
+      "name": "Hidalgo"
+    },
+    {
+      "id": 144209,
+      "name": "Higueras Nuevo León"
+    },
+    {
+      "id": 144210,
+      "name": "Hualahuises"
+    },
+    {
+      "id": 144211,
+      "name": "Huertas Estación"
+    },
+    {
+      "id": 144212,
+      "name": "Ibarrilla"
+    },
+    {
+      "id": 144213,
+      "name": "Ismael Flores"
+    },
+    {
+      "id": 144214,
+      "name": "Iturbide"
+    },
+    {
+      "id": 144215,
+      "name": "Iturbide Nuevo León"
+    },
+    {
+      "id": 144216,
+      "name": "Jardines de la Silla"
+    },
+    {
+      "id": 144217,
+      "name": "Jardines de la Silla (Jardines)"
+    },
+    {
+      "id": 144218,
+      "name": "Jáuregui"
+    },
+    {
+      "id": 144219,
+      "name": "Jesús María Aguirre Galeana"
+    },
+    {
+      "id": 144220,
+      "name": "Jesús María de Berrones"
+    },
+    {
+      "id": 144221,
+      "name": "Jesús María del Terrero"
+    },
+    {
+      "id": 144222,
+      "name": "Juan Salazar"
+    },
+    {
+      "id": 144223,
+      "name": "Juárez Nuevo León"
+    },
+    {
+      "id": 144224,
+      "name": "Kilómetro Dieciséis"
+    },
+    {
+      "id": 144225,
+      "name": "La Agüita"
+    },
+    {
+      "id": 144226,
+      "name": "La Aldea"
+    },
+    {
+      "id": 144227,
+      "name": "La Arena"
+    },
+    {
+      "id": 144228,
+      "name": "La Ascensión"
+    },
+    {
+      "id": 144229,
+      "name": "La Barreta"
+    },
+    {
+      "id": 144230,
+      "name": "La Baticolla"
+    },
+    {
+      "id": 144231,
+      "name": "La Boquilla"
+    },
+    {
+      "id": 144232,
+      "name": "La Campana"
+    },
+    {
+      "id": 144233,
+      "name": "La Candelaria"
+    },
+    {
+      "id": 144234,
+      "name": "La Cardona"
+    },
+    {
+      "id": 144235,
+      "name": "La Chiripa"
+    },
+    {
+      "id": 144236,
+      "name": "La Chueca Cadereyta Jiménez"
+    },
+    {
+      "id": 144237,
+      "name": "La Colmena de Arriba"
+    },
+    {
+      "id": 144238,
+      "name": "La Escuadra"
+    },
+    {
+      "id": 144239,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 144240,
+      "name": "La Estrella"
+    },
+    {
+      "id": 144241,
+      "name": "La Fama"
+    },
+    {
+      "id": 144242,
+      "name": "La Florida"
+    },
+    {
+      "id": 144243,
+      "name": "La Gloria"
+    },
+    {
+      "id": 144244,
+      "name": "La Haciendita"
+    },
+    {
+      "id": 144245,
+      "name": "La Joya de Alardín"
+    },
+    {
+      "id": 144246,
+      "name": "La Lagunita"
+    },
+    {
+      "id": 144247,
+      "name": "La Lobera de Portillo"
+    },
+    {
+      "id": 144248,
+      "name": "La Maestranza"
+    },
+    {
+      "id": 144249,
+      "name": "La Mesa de Berrones"
+    },
+    {
+      "id": 144250,
+      "name": "La Palmita Nuevo Leon"
+    },
+    {
+      "id": 144251,
+      "name": "La Presita de Berlanga"
+    },
+    {
+      "id": 144252,
+      "name": "La Providencia"
+    },
+    {
+      "id": 144253,
+      "name": "La Purísima"
+    },
+    {
+      "id": 144254,
+      "name": "La Reforma"
+    },
+    {
+      "id": 144255,
+      "name": "La Soledad"
+    },
+    {
+      "id": 144256,
+      "name": "La Tinaja"
+    },
+    {
+      "id": 144257,
+      "name": "La Trinidad"
+    },
+    {
+      "id": 144258,
+      "name": "La Unión y el Cardonal"
+    },
+    {
+      "id": 144259,
+      "name": "La Ventana"
+    },
+    {
+      "id": 144260,
+      "name": "Ladrillera"
+    },
+    {
+      "id": 144261,
+      "name": "Ladrillera (Entronque Pesquería)"
+    },
+    {
+      "id": 144262,
+      "name": "Lampazos de Naranjo"
+    },
+    {
+      "id": 144263,
+      "name": "Las Barretas"
+    },
+    {
+      "id": 144264,
+      "name": "Las Brisas"
+    },
+    {
+      "id": 144265,
+      "name": "Las Mesas de San Juan"
+    },
+    {
+      "id": 144266,
+      "name": "Las Palomas"
+    },
+    {
+      "id": 144267,
+      "name": "Las Torres"
+    },
+    {
+      "id": 144268,
+      "name": "Las Torres de Guadalupe"
+    },
+    {
+      "id": 144269,
+      "name": "Linares"
+    },
+    {
+      "id": 144270,
+      "name": "Linares Nuevo León"
+    },
+    {
+      "id": 144271,
+      "name": "Loma la Paz"
+    },
+    {
+      "id": 144272,
+      "name": "Lomas de San Francisco"
+    },
+    {
+      "id": 144273,
+      "name": "Lomas de San Martín"
+    },
+    {
+      "id": 144274,
+      "name": "Los Álamos"
+    },
+    {
+      "id": 144275,
+      "name": "Los Aldamas"
+    },
+    {
+      "id": 144276,
+      "name": "Los Ángeles Nuevo León"
+    },
+    {
+      "id": 144277,
+      "name": "Los Dos Ríos"
+    },
+    {
+      "id": 144278,
+      "name": "Los Herreras"
+    },
+    {
+      "id": 144279,
+      "name": "Los Parques"
+    },
+    {
+      "id": 144280,
+      "name": "Los Pocitos"
+    },
+    {
+      "id": 144281,
+      "name": "Los Ramones"
+    },
+    {
+      "id": 144282,
+      "name": "María Aurora"
+    },
+    {
+      "id": 144283,
+      "name": "María Auxiliadora"
+    },
+    {
+      "id": 144284,
+      "name": "Marín"
+    },
+    {
+      "id": 144285,
+      "name": "Mazatlan"
+    },
+    {
+      "id": 144286,
+      "name": "Melchor Ocampo Nuevo León"
+    },
+    {
+      "id": 144287,
+      "name": "Mexiquito"
+    },
+    {
+      "id": 144288,
+      "name": "Mier y Noriega"
+    },
+    {
+      "id": 144289,
+      "name": "Mina"
+    },
+    {
+      "id": 144290,
+      "name": "Mina Nuevo León"
+    },
+    {
+      "id": 144291,
+      "name": "Misión San Pablo"
+    },
+    {
+      "id": 144292,
+      "name": "Mitras Poniente"
+    },
+    {
+      "id": 144293,
+      "name": "Monclova Primer Sector"
+    },
+    {
+      "id": 144294,
+      "name": "Monclova Segundo Sector"
+    },
+    {
+      "id": 144295,
+      "name": "Monte Kristal"
+    },
+    {
+      "id": 144296,
+      "name": "Montemorelos"
+    },
+    {
+      "id": 144297,
+      "name": "Monterrey"
+    },
+    {
+      "id": 144298,
+      "name": "Náñez González"
+    },
+    {
+      "id": 144299,
+      "name": "Parás"
+    },
+    {
+      "id": 144300,
+      "name": "Parás Nuevo León"
+    },
+    {
+      "id": 144301,
+      "name": "Parque Industrial Ciudad Mitras"
+    },
+    {
+      "id": 144302,
+      "name": "Paseo de San Javier"
+    },
+    {
+      "id": 144303,
+      "name": "Pedro Ibarra Hernández"
+    },
+    {
+      "id": 144304,
+      "name": "Pesquería"
+    },
+    {
+      "id": 144305,
+      "name": "Portal de las Salinas"
+    },
+    {
+      "id": 144306,
+      "name": "Praderas de San Francisco"
+    },
+    {
+      "id": 144307,
+      "name": "Prados de Santa Rosa"
+    },
+    {
+      "id": 144308,
+      "name": "Pueblo Nuevo"
+    },
+    {
+      "id": 144309,
+      "name": "Puerto Genovevo Santiago"
+    },
+    {
+      "id": 144310,
+      "name": "Rayones"
+    },
+    {
+      "id": 144311,
+      "name": "Real del Sol"
+    },
+    {
+      "id": 144312,
+      "name": "Río Verde"
+    },
+    {
+      "id": 144313,
+      "name": "Rubén Carlos Gallegos Reyes Villaldama"
+    },
+    {
+      "id": 144314,
+      "name": "Sabinas Hidalgo"
+    },
+    {
+      "id": 144315,
+      "name": "Salinas Victoria"
+    },
+    {
+      "id": 144316,
+      "name": "San Antonio"
+    },
+    {
+      "id": 144317,
+      "name": "San Antonio de Alamitos"
+    },
+    {
+      "id": 144318,
+      "name": "San Bernardo Nuevo León"
+    },
+    {
+      "id": 144319,
+      "name": "San José de Cuatro Caminos"
+    },
+    {
+      "id": 144320,
+      "name": "San José de Medina"
+    },
+    {
+      "id": 144321,
+      "name": "San José de Raíces"
+    },
+    {
+      "id": 144322,
+      "name": "San José Linares"
+    },
+    {
+      "id": 144323,
+      "name": "San Juan"
+    },
+    {
+      "id": 144324,
+      "name": "San Mateo Doctor Arroyo"
+    },
+    {
+      "id": 144325,
+      "name": "San Nicolás de los Garza"
+    },
+    {
+      "id": 144326,
+      "name": "San Pedro Garza Garcia"
+    },
+    {
+      "id": 144327,
+      "name": "San Rafael"
+    },
+    {
+      "id": 144328,
+      "name": "Santa Catarina"
+    },
+    {
+      "id": 144329,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 144330,
+      "name": "Santa Teresita"
+    },
+    {
+      "id": 144331,
+      "name": "Santa Verónica"
+    },
+    {
+      "id": 144332,
+      "name": "Santiago"
+    },
+    {
+      "id": 144333,
+      "name": "Simeprodeso (Colectivo Nuevo)"
+    },
+    {
+      "id": 144334,
+      "name": "Unión Agropecuarios Lázaro Cárdenas del Norte"
+    },
+    {
+      "id": 144335,
+      "name": "Valle Alto"
+    },
+    {
+      "id": 144336,
+      "name": "Valle de Juárez"
+    },
+    {
+      "id": 144337,
+      "name": "Valle de Lincoln"
+    },
+    {
+      "id": 144338,
+      "name": "Valle de Vaquerías"
+    },
+    {
+      "id": 144339,
+      "name": "Vallecillo"
+    },
+    {
+      "id": 144340,
+      "name": "Villaldama"
+    },
+    {
+      "id": 144341,
+      "name": "Villaldama Nuevo León"
+    },
+    {
+      "id": 144342,
+      "name": "Villas de Alcalá"
+    }
+  ]
+}

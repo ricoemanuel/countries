@@ -1,0 +1,319 @@
+{
+  "id": 5584,
+  "name": "Nordland",
+  "state_code": "18",
+  "cities": [
+    {
+      "id": 151872,
+      "name": "Alstahaug"
+    },
+    {
+      "id": 151873,
+      "name": "Andenes"
+    },
+    {
+      "id": 151874,
+      "name": "Andøy"
+    },
+    {
+      "id": 151875,
+      "name": "Ballangen"
+    },
+    {
+      "id": 151876,
+      "name": "Beiarn"
+    },
+    {
+      "id": 151877,
+      "name": "Bindal"
+    },
+    {
+      "id": 151878,
+      "name": "Bjerkvik"
+    },
+    {
+      "id": 151879,
+      "name": "Bodø"
+    },
+    {
+      "id": 151880,
+      "name": "Bogen"
+    },
+    {
+      "id": 151881,
+      "name": "Bø"
+    },
+    {
+      "id": 151882,
+      "name": "Brønnøy"
+    },
+    {
+      "id": 151883,
+      "name": "Brønnøysund"
+    },
+    {
+      "id": 151884,
+      "name": "Dønna"
+    },
+    {
+      "id": 151885,
+      "name": "Evenes"
+    },
+    {
+      "id": 151886,
+      "name": "Evjen"
+    },
+    {
+      "id": 151887,
+      "name": "Fauske"
+    },
+    {
+      "id": 151888,
+      "name": "Flakstad"
+    },
+    {
+      "id": 151889,
+      "name": "Gildeskål"
+    },
+    {
+      "id": 151890,
+      "name": "Gladstad"
+    },
+    {
+      "id": 151891,
+      "name": "Glomfjord"
+    },
+    {
+      "id": 151892,
+      "name": "Grane"
+    },
+    {
+      "id": 151893,
+      "name": "Gravdal"
+    },
+    {
+      "id": 151894,
+      "name": "Hadsel"
+    },
+    {
+      "id": 151895,
+      "name": "Hamarøy"
+    },
+    {
+      "id": 151896,
+      "name": "Hattfjelldal"
+    },
+    {
+      "id": 151897,
+      "name": "Hauknes"
+    },
+    {
+      "id": 151898,
+      "name": "Hemnes"
+    },
+    {
+      "id": 151899,
+      "name": "Hemnesberget"
+    },
+    {
+      "id": 151900,
+      "name": "Herøy"
+    },
+    {
+      "id": 151901,
+      "name": "Inndyr"
+    },
+    {
+      "id": 151902,
+      "name": "Kabelvåg"
+    },
+    {
+      "id": 151903,
+      "name": "Kjøpsvik"
+    },
+    {
+      "id": 151904,
+      "name": "Korgen"
+    },
+    {
+      "id": 151905,
+      "name": "Leirfjord"
+    },
+    {
+      "id": 151906,
+      "name": "Leknes"
+    },
+    {
+      "id": 151907,
+      "name": "Leland"
+    },
+    {
+      "id": 151908,
+      "name": "Løding"
+    },
+    {
+      "id": 151909,
+      "name": "Lødingen"
+    },
+    {
+      "id": 151910,
+      "name": "Løpsmarka"
+    },
+    {
+      "id": 151911,
+      "name": "Lurøy"
+    },
+    {
+      "id": 151912,
+      "name": "Melbu"
+    },
+    {
+      "id": 151913,
+      "name": "Meløy"
+    },
+    {
+      "id": 151914,
+      "name": "Mo i Rana"
+    },
+    {
+      "id": 151915,
+      "name": "Mosjøen"
+    },
+    {
+      "id": 151916,
+      "name": "Moskenes"
+    },
+    {
+      "id": 151917,
+      "name": "Myre"
+    },
+    {
+      "id": 151918,
+      "name": "Narvik"
+    },
+    {
+      "id": 151919,
+      "name": "Nesna"
+    },
+    {
+      "id": 151920,
+      "name": "Øksnes"
+    },
+    {
+      "id": 151921,
+      "name": "Ørnes"
+    },
+    {
+      "id": 151922,
+      "name": "Rana"
+    },
+    {
+      "id": 151923,
+      "name": "Reine"
+    },
+    {
+      "id": 151924,
+      "name": "Rognan"
+    },
+    {
+      "id": 151925,
+      "name": "Rødøy"
+    },
+    {
+      "id": 151926,
+      "name": "Røst"
+    },
+    {
+      "id": 151927,
+      "name": "Saltdal"
+    },
+    {
+      "id": 151928,
+      "name": "Sandnessjøen"
+    },
+    {
+      "id": 151929,
+      "name": "Sortland"
+    },
+    {
+      "id": 151930,
+      "name": "Sømna"
+    },
+    {
+      "id": 151931,
+      "name": "Sørfold"
+    },
+    {
+      "id": 151932,
+      "name": "Sørland"
+    },
+    {
+      "id": 151933,
+      "name": "Steigen"
+    },
+    {
+      "id": 151934,
+      "name": "Stokmarknes"
+    },
+    {
+      "id": 151935,
+      "name": "Straume"
+    },
+    {
+      "id": 151936,
+      "name": "Straumen"
+    },
+    {
+      "id": 151937,
+      "name": "Svolvær"
+    },
+    {
+      "id": 151938,
+      "name": "Terråk"
+    },
+    {
+      "id": 151939,
+      "name": "Tjeldsund"
+    },
+    {
+      "id": 151940,
+      "name": "Træna"
+    },
+    {
+      "id": 151941,
+      "name": "Trofors"
+    },
+    {
+      "id": 151942,
+      "name": "Tysfjord"
+    },
+    {
+      "id": 151943,
+      "name": "Vågan"
+    },
+    {
+      "id": 151944,
+      "name": "Værøy"
+    },
+    {
+      "id": 151945,
+      "name": "Vefsn"
+    },
+    {
+      "id": 151946,
+      "name": "Vega"
+    },
+    {
+      "id": 151947,
+      "name": "Vestvågøy"
+    },
+    {
+      "id": 151948,
+      "name": "Vevelstad"
+    },
+    {
+      "id": 151949,
+      "name": "Vik"
+    }
+  ]
+}

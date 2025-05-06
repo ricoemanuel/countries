@@ -1,0 +1,595 @@
+{
+  "id": 5973,
+  "name": "Giurgiu County",
+  "state_code": "GR",
+  "cities": [
+    {
+      "id": 168744,
+      "name": "Adunații-Copăceni"
+    },
+    {
+      "id": 168745,
+      "name": "Bâcu"
+    },
+    {
+      "id": 168746,
+      "name": "Băneasa"
+    },
+    {
+      "id": 168747,
+      "name": "Bolintin Deal"
+    },
+    {
+      "id": 168748,
+      "name": "Bolintin Vale"
+    },
+    {
+      "id": 168749,
+      "name": "Brăniștari"
+    },
+    {
+      "id": 168750,
+      "name": "Braniștea"
+    },
+    {
+      "id": 168751,
+      "name": "Bucşani"
+    },
+    {
+      "id": 168752,
+      "name": "Bulbucata"
+    },
+    {
+      "id": 168753,
+      "name": "Buturugeni"
+    },
+    {
+      "id": 168754,
+      "name": "Călugăreni"
+    },
+    {
+      "id": 168755,
+      "name": "Câmpurelu"
+    },
+    {
+      "id": 168756,
+      "name": "Cartojani"
+    },
+    {
+      "id": 168757,
+      "name": "Căscioarele"
+    },
+    {
+      "id": 168758,
+      "name": "Cetatea"
+    },
+    {
+      "id": 168759,
+      "name": "Chiriacu"
+    },
+    {
+      "id": 168760,
+      "name": "Clejani"
+    },
+    {
+      "id": 168761,
+      "name": "Colibaşi"
+    },
+    {
+      "id": 168762,
+      "name": "Comana"
+    },
+    {
+      "id": 168763,
+      "name": "Comuna Adunaţii-Copăceni"
+    },
+    {
+      "id": 168764,
+      "name": "Comuna Băneasa"
+    },
+    {
+      "id": 168765,
+      "name": "Comuna Bolintin Deal"
+    },
+    {
+      "id": 168766,
+      "name": "Comuna Bucşani"
+    },
+    {
+      "id": 168767,
+      "name": "Comuna Bulbucata"
+    },
+    {
+      "id": 168768,
+      "name": "Comuna Buturugeni"
+    },
+    {
+      "id": 168769,
+      "name": "Comuna Călugăreni"
+    },
+    {
+      "id": 168770,
+      "name": "Comuna Clejani"
+    },
+    {
+      "id": 168771,
+      "name": "Comuna Colibaşi"
+    },
+    {
+      "id": 168772,
+      "name": "Comuna Comana"
+    },
+    {
+      "id": 168773,
+      "name": "Comuna Cosoba"
+    },
+    {
+      "id": 168774,
+      "name": "Comuna Crevedia Mare"
+    },
+    {
+      "id": 168775,
+      "name": "Comuna Daia"
+    },
+    {
+      "id": 168776,
+      "name": "Comună Floreşti-Stoeneşti"
+    },
+    {
+      "id": 168777,
+      "name": "Comuna Frăteşti"
+    },
+    {
+      "id": 168778,
+      "name": "Comuna Gãiseni"
+    },
+    {
+      "id": 168779,
+      "name": "Comuna Găujani"
+    },
+    {
+      "id": 168780,
+      "name": "Comuna Ghimpaţi"
+    },
+    {
+      "id": 168781,
+      "name": "Comuna Gogoşari"
+    },
+    {
+      "id": 168782,
+      "name": "Comuna Goştinari"
+    },
+    {
+      "id": 168783,
+      "name": "Comuna Gostinu"
+    },
+    {
+      "id": 168784,
+      "name": "Comuna Grădinari"
+    },
+    {
+      "id": 168785,
+      "name": "Comuna Greaca"
+    },
+    {
+      "id": 168786,
+      "name": "Comuna Herăşti"
+    },
+    {
+      "id": 168787,
+      "name": "Comuna Hotarele"
+    },
+    {
+      "id": 168788,
+      "name": "Comuna Iepureşti"
+    },
+    {
+      "id": 168789,
+      "name": "Comuna Isvoarele"
+    },
+    {
+      "id": 168790,
+      "name": "Comuna Izvoarele"
+    },
+    {
+      "id": 168791,
+      "name": "Comuna Joiţa"
+    },
+    {
+      "id": 168792,
+      "name": "Comuna Letca Nouă"
+    },
+    {
+      "id": 168793,
+      "name": "Comuna Malu"
+    },
+    {
+      "id": 168794,
+      "name": "Comuna Mârşa"
+    },
+    {
+      "id": 168795,
+      "name": "Comuna Mihai Bravu"
+    },
+    {
+      "id": 168796,
+      "name": "Comuna Ogrezeni"
+    },
+    {
+      "id": 168797,
+      "name": "Comuna Oinacu"
+    },
+    {
+      "id": 168798,
+      "name": "Comuna Prundu"
+    },
+    {
+      "id": 168799,
+      "name": "Comuna Putineiu"
+    },
+    {
+      "id": 168800,
+      "name": "Comuna Răsuceni"
+    },
+    {
+      "id": 168801,
+      "name": "Comuna Roata De Jos"
+    },
+    {
+      "id": 168802,
+      "name": "Comuna Săbăreni"
+    },
+    {
+      "id": 168803,
+      "name": "Comuna Schitu"
+    },
+    {
+      "id": 168804,
+      "name": "Comuna Singureni"
+    },
+    {
+      "id": 168805,
+      "name": "Comuna Slobozia"
+    },
+    {
+      "id": 168806,
+      "name": "Comuna Stăneşti"
+    },
+    {
+      "id": 168807,
+      "name": "Comuna Stoeneşti"
+    },
+    {
+      "id": 168808,
+      "name": "Comuna Toporu"
+    },
+    {
+      "id": 168809,
+      "name": "Comuna Ulmi"
+    },
+    {
+      "id": 168810,
+      "name": "Comuna Valea Dragului"
+    },
+    {
+      "id": 168811,
+      "name": "Comuna Vânătorii Mici"
+    },
+    {
+      "id": 168812,
+      "name": "Comuna Vărăşti"
+    },
+    {
+      "id": 168813,
+      "name": "Comuna Vedea"
+    },
+    {
+      "id": 168814,
+      "name": "Copaciu"
+    },
+    {
+      "id": 168815,
+      "name": "Cosoba"
+    },
+    {
+      "id": 168816,
+      "name": "Crevedia Mare"
+    },
+    {
+      "id": 168817,
+      "name": "Cucuruzu"
+    },
+    {
+      "id": 168818,
+      "name": "Daia"
+    },
+    {
+      "id": 168819,
+      "name": "Dărăști-Vlașca"
+    },
+    {
+      "id": 168820,
+      "name": "Dealu"
+    },
+    {
+      "id": 168821,
+      "name": "Dobreni"
+    },
+    {
+      "id": 168822,
+      "name": "Falaștoaca"
+    },
+    {
+      "id": 168823,
+      "name": "Florești"
+    },
+    {
+      "id": 168824,
+      "name": "Frăteşti"
+    },
+    {
+      "id": 168825,
+      "name": "Găiseni"
+    },
+    {
+      "id": 168826,
+      "name": "Găujani"
+    },
+    {
+      "id": 168827,
+      "name": "Ghimpați"
+    },
+    {
+      "id": 168828,
+      "name": "Giurgiu"
+    },
+    {
+      "id": 168829,
+      "name": "Gogoşari"
+    },
+    {
+      "id": 168830,
+      "name": "Gostinari"
+    },
+    {
+      "id": 168831,
+      "name": "Goştinari-Văcăreşti"
+    },
+    {
+      "id": 168832,
+      "name": "Gostinu"
+    },
+    {
+      "id": 168833,
+      "name": "Grădinari"
+    },
+    {
+      "id": 168834,
+      "name": "Grădiștea"
+    },
+    {
+      "id": 168835,
+      "name": "Greaca"
+    },
+    {
+      "id": 168836,
+      "name": "Herăști"
+    },
+    {
+      "id": 168837,
+      "name": "Hotarele"
+    },
+    {
+      "id": 168838,
+      "name": "Hulubești"
+    },
+    {
+      "id": 168839,
+      "name": "Icoana"
+    },
+    {
+      "id": 168840,
+      "name": "Iepureşti"
+    },
+    {
+      "id": 168841,
+      "name": "Izvoarele"
+    },
+    {
+      "id": 168842,
+      "name": "Joiţa"
+    },
+    {
+      "id": 168843,
+      "name": "Letca Nouă"
+    },
+    {
+      "id": 168844,
+      "name": "Letca Veche"
+    },
+    {
+      "id": 168845,
+      "name": "Malu"
+    },
+    {
+      "id": 168846,
+      "name": "Malu Spart"
+    },
+    {
+      "id": 168847,
+      "name": "Mârşa"
+    },
+    {
+      "id": 168848,
+      "name": "Mihai Bravu"
+    },
+    {
+      "id": 168849,
+      "name": "Mihai Vodă"
+    },
+    {
+      "id": 168850,
+      "name": "Mihăileşti"
+    },
+    {
+      "id": 168851,
+      "name": "Milcovățu"
+    },
+    {
+      "id": 168852,
+      "name": "Municipiul Giurgiu"
+    },
+    {
+      "id": 168853,
+      "name": "Naipu"
+    },
+    {
+      "id": 168854,
+      "name": "Novaci"
+    },
+    {
+      "id": 168855,
+      "name": "Ogrezeni"
+    },
+    {
+      "id": 168856,
+      "name": "Oinacu"
+    },
+    {
+      "id": 168857,
+      "name": "Oraş Bolintin-Vale"
+    },
+    {
+      "id": 168858,
+      "name": "Oraş Mihãileşti"
+    },
+    {
+      "id": 168859,
+      "name": "Pădureni"
+    },
+    {
+      "id": 168860,
+      "name": "Palanca"
+    },
+    {
+      "id": 168861,
+      "name": "Pietrele"
+    },
+    {
+      "id": 168862,
+      "name": "Pietrișu"
+    },
+    {
+      "id": 168863,
+      "name": "Plopșoru"
+    },
+    {
+      "id": 168864,
+      "name": "Popești"
+    },
+    {
+      "id": 168865,
+      "name": "Prundu"
+    },
+    {
+      "id": 168866,
+      "name": "Puieni"
+    },
+    {
+      "id": 168867,
+      "name": "Putineiu"
+    },
+    {
+      "id": 168868,
+      "name": "Răsuceni"
+    },
+    {
+      "id": 168869,
+      "name": "Remuș"
+    },
+    {
+      "id": 168870,
+      "name": "Roata de Jos"
+    },
+    {
+      "id": 168871,
+      "name": "Săbăreni"
+    },
+    {
+      "id": 168872,
+      "name": "Sadina"
+    },
+    {
+      "id": 168873,
+      "name": "Schitu"
+    },
+    {
+      "id": 168874,
+      "name": "Singureni"
+    },
+    {
+      "id": 168875,
+      "name": "Slobozia"
+    },
+    {
+      "id": 168876,
+      "name": "Stăneşti"
+    },
+    {
+      "id": 168877,
+      "name": "Stoeneşti"
+    },
+    {
+      "id": 168878,
+      "name": "Tântava"
+    },
+    {
+      "id": 168879,
+      "name": "Toporu"
+    },
+    {
+      "id": 168880,
+      "name": "Trestieni"
+    },
+    {
+      "id": 168881,
+      "name": "Ulmi"
+    },
+    {
+      "id": 168882,
+      "name": "Uzunu"
+    },
+    {
+      "id": 168883,
+      "name": "Valea Dragului"
+    },
+    {
+      "id": 168884,
+      "name": "Vânătorii Mari"
+    },
+    {
+      "id": 168885,
+      "name": "Vânătorii Mici"
+    },
+    {
+      "id": 168886,
+      "name": "Vărăşti"
+    },
+    {
+      "id": 168887,
+      "name": "Vedea"
+    },
+    {
+      "id": 168888,
+      "name": "Vieru"
+    },
+    {
+      "id": 168889,
+      "name": "Vlad Țepeș"
+    },
+    {
+      "id": 168890,
+      "name": "Zorile"
+    }
+  ]
+}

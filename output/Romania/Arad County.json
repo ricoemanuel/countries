@@ -1,0 +1,755 @@
+{
+  "id": 5955,
+  "name": "Arad County",
+  "state_code": "AR",
+  "cities": [
+    {
+      "id": 165581,
+      "name": "Adea"
+    },
+    {
+      "id": 165582,
+      "name": "Agrișu Mare"
+    },
+    {
+      "id": 165583,
+      "name": "Almaş"
+    },
+    {
+      "id": 165584,
+      "name": "Andrei Șaguna"
+    },
+    {
+      "id": 165585,
+      "name": "Apateu"
+    },
+    {
+      "id": 165586,
+      "name": "Arad"
+    },
+    {
+      "id": 165587,
+      "name": "Archiş"
+    },
+    {
+      "id": 165588,
+      "name": "Bârsa"
+    },
+    {
+      "id": 165589,
+      "name": "Bârzava"
+    },
+    {
+      "id": 165590,
+      "name": "Bata"
+    },
+    {
+      "id": 165591,
+      "name": "Beliu"
+    },
+    {
+      "id": 165592,
+      "name": "Birchiş"
+    },
+    {
+      "id": 165593,
+      "name": "Bocsig"
+    },
+    {
+      "id": 165594,
+      "name": "Brazii"
+    },
+    {
+      "id": 165595,
+      "name": "Buteni"
+    },
+    {
+      "id": 165596,
+      "name": "Caporal Alexa"
+    },
+    {
+      "id": 165597,
+      "name": "Cărand"
+    },
+    {
+      "id": 165598,
+      "name": "Cermei"
+    },
+    {
+      "id": 165599,
+      "name": "Chereluș"
+    },
+    {
+      "id": 165600,
+      "name": "Chesinț"
+    },
+    {
+      "id": 165601,
+      "name": "Chier"
+    },
+    {
+      "id": 165602,
+      "name": "Chisindia"
+    },
+    {
+      "id": 165603,
+      "name": "Chişineu-Criş"
+    },
+    {
+      "id": 165604,
+      "name": "Cintei"
+    },
+    {
+      "id": 165605,
+      "name": "Comuna Almaş"
+    },
+    {
+      "id": 165606,
+      "name": "Comuna Apateu"
+    },
+    {
+      "id": 165607,
+      "name": "Comuna Archiş"
+    },
+    {
+      "id": 165608,
+      "name": "Comuna Bârsa"
+    },
+    {
+      "id": 165609,
+      "name": "Comuna Bârzava"
+    },
+    {
+      "id": 165610,
+      "name": "Comuna Bata"
+    },
+    {
+      "id": 165611,
+      "name": "Comuna Beliu"
+    },
+    {
+      "id": 165612,
+      "name": "Comuna Birchiş"
+    },
+    {
+      "id": 165613,
+      "name": "Comuna Bocsig"
+    },
+    {
+      "id": 165614,
+      "name": "Comuna Brazii"
+    },
+    {
+      "id": 165615,
+      "name": "Comuna Buteni"
+    },
+    {
+      "id": 165616,
+      "name": "Comuna Cărand"
+    },
+    {
+      "id": 165617,
+      "name": "Comuna Cermei"
+    },
+    {
+      "id": 165618,
+      "name": "Comuna Chisindia"
+    },
+    {
+      "id": 165619,
+      "name": "Comuna Conop"
+    },
+    {
+      "id": 165620,
+      "name": "Comuna Covăsinţ"
+    },
+    {
+      "id": 165621,
+      "name": "Comuna Craiva"
+    },
+    {
+      "id": 165622,
+      "name": "Comuna Dezna"
+    },
+    {
+      "id": 165623,
+      "name": "Comuna Dieci"
+    },
+    {
+      "id": 165624,
+      "name": "Comuna Dorobanți"
+    },
+    {
+      "id": 165625,
+      "name": "Comuna Fântânele"
+    },
+    {
+      "id": 165626,
+      "name": "Comuna Felnac"
+    },
+    {
+      "id": 165627,
+      "name": "Comuna Frumuşeni"
+    },
+    {
+      "id": 165628,
+      "name": "Comuna Ghioroc"
+    },
+    {
+      "id": 165629,
+      "name": "Comuna Grăniceri"
+    },
+    {
+      "id": 165630,
+      "name": "Comuna Gurahonţ"
+    },
+    {
+      "id": 165631,
+      "name": "Comuna Hălmăgel"
+    },
+    {
+      "id": 165632,
+      "name": "Comuna Hălmagiu"
+    },
+    {
+      "id": 165633,
+      "name": "Comuna Hăşmaş"
+    },
+    {
+      "id": 165634,
+      "name": "Comuna Igneşti"
+    },
+    {
+      "id": 165635,
+      "name": "Comuna Iratoşu"
+    },
+    {
+      "id": 165636,
+      "name": "Comuna Livada"
+    },
+    {
+      "id": 165637,
+      "name": "Comuna Macea"
+    },
+    {
+      "id": 165638,
+      "name": "Comuna Mişca"
+    },
+    {
+      "id": 165639,
+      "name": "Comuna Moneasa"
+    },
+    {
+      "id": 165640,
+      "name": "Comuna Olari"
+    },
+    {
+      "id": 165641,
+      "name": "Comuna Păuliş"
+    },
+    {
+      "id": 165642,
+      "name": "Comuna Peregu Mare"
+    },
+    {
+      "id": 165643,
+      "name": "Comuna Petriş"
+    },
+    {
+      "id": 165644,
+      "name": "Comuna Pilu"
+    },
+    {
+      "id": 165645,
+      "name": "Comuna Pleşcuţa"
+    },
+    {
+      "id": 165646,
+      "name": "Comuna Şagu"
+    },
+    {
+      "id": 165647,
+      "name": "Comuna Săvârşin"
+    },
+    {
+      "id": 165648,
+      "name": "Comuna Secusigiu"
+    },
+    {
+      "id": 165649,
+      "name": "Comuna Şeitin"
+    },
+    {
+      "id": 165650,
+      "name": "Comuna Seleuş"
+    },
+    {
+      "id": 165651,
+      "name": "Comuna Semlac"
+    },
+    {
+      "id": 165652,
+      "name": "Comuna Şepreuş"
+    },
+    {
+      "id": 165653,
+      "name": "Comuna Şicula"
+    },
+    {
+      "id": 165654,
+      "name": "Comuna Şilindia"
+    },
+    {
+      "id": 165655,
+      "name": "Comuna Şimand"
+    },
+    {
+      "id": 165656,
+      "name": "Comuna Sintea Mare"
+    },
+    {
+      "id": 165657,
+      "name": "Comuna Şiria"
+    },
+    {
+      "id": 165658,
+      "name": "Comuna Şiştarovăţ"
+    },
+    {
+      "id": 165659,
+      "name": "Comuna Socodor"
+    },
+    {
+      "id": 165660,
+      "name": "Comuna Şofronea"
+    },
+    {
+      "id": 165661,
+      "name": "Comuna Târnova"
+    },
+    {
+      "id": 165662,
+      "name": "Comuna Tauţ"
+    },
+    {
+      "id": 165663,
+      "name": "Comuna Ususău"
+    },
+    {
+      "id": 165664,
+      "name": "Comuna Vărădia de Mureş"
+    },
+    {
+      "id": 165665,
+      "name": "Comuna Vârfurile"
+    },
+    {
+      "id": 165666,
+      "name": "Comuna Vinga"
+    },
+    {
+      "id": 165667,
+      "name": "Comuna Vladimirescu"
+    },
+    {
+      "id": 165668,
+      "name": "Comuna Zăbrani"
+    },
+    {
+      "id": 165669,
+      "name": "Comuna Zădăreni"
+    },
+    {
+      "id": 165670,
+      "name": "Comuna Zărand"
+    },
+    {
+      "id": 165671,
+      "name": "Comuna Zerind"
+    },
+    {
+      "id": 165672,
+      "name": "Comuna Zimandu Nou"
+    },
+    {
+      "id": 165673,
+      "name": "Conop"
+    },
+    {
+      "id": 165674,
+      "name": "Covăsinţ"
+    },
+    {
+      "id": 165675,
+      "name": "Craiva"
+    },
+    {
+      "id": 165676,
+      "name": "Curtici"
+    },
+    {
+      "id": 165677,
+      "name": "Cuvin"
+    },
+    {
+      "id": 165678,
+      "name": "Dezna"
+    },
+    {
+      "id": 165679,
+      "name": "Dieci"
+    },
+    {
+      "id": 165680,
+      "name": "Dorgoş"
+    },
+    {
+      "id": 165681,
+      "name": "Dorobanți"
+    },
+    {
+      "id": 165682,
+      "name": "Drauț"
+    },
+    {
+      "id": 165683,
+      "name": "Fântânele"
+    },
+    {
+      "id": 165684,
+      "name": "Felnac"
+    },
+    {
+      "id": 165685,
+      "name": "Frumușeni"
+    },
+    {
+      "id": 165686,
+      "name": "Galșa"
+    },
+    {
+      "id": 165687,
+      "name": "Ghioroc"
+    },
+    {
+      "id": 165688,
+      "name": "Grăniceri"
+    },
+    {
+      "id": 165689,
+      "name": "Gurahonţ"
+    },
+    {
+      "id": 165690,
+      "name": "Gurba"
+    },
+    {
+      "id": 165691,
+      "name": "Hălmăgel"
+    },
+    {
+      "id": 165692,
+      "name": "Hălmagiu"
+    },
+    {
+      "id": 165693,
+      "name": "Hășmaș"
+    },
+    {
+      "id": 165694,
+      "name": "Horia"
+    },
+    {
+      "id": 165695,
+      "name": "Igneşti"
+    },
+    {
+      "id": 165696,
+      "name": "Ineu"
+    },
+    {
+      "id": 165697,
+      "name": "Iratoşu"
+    },
+    {
+      "id": 165698,
+      "name": "Lipova"
+    },
+    {
+      "id": 165699,
+      "name": "Livada"
+    },
+    {
+      "id": 165700,
+      "name": "Macea"
+    },
+    {
+      "id": 165701,
+      "name": "Măderat"
+    },
+    {
+      "id": 165702,
+      "name": "Mailat"
+    },
+    {
+      "id": 165703,
+      "name": "Mănăștur"
+    },
+    {
+      "id": 165704,
+      "name": "Mândruloc"
+    },
+    {
+      "id": 165705,
+      "name": "Mâsca"
+    },
+    {
+      "id": 165706,
+      "name": "Mișca"
+    },
+    {
+      "id": 165707,
+      "name": "Moneasa"
+    },
+    {
+      "id": 165708,
+      "name": "Municipiul Arad"
+    },
+    {
+      "id": 165709,
+      "name": "Nadab"
+    },
+    {
+      "id": 165710,
+      "name": "Nadăș"
+    },
+    {
+      "id": 165711,
+      "name": "Nădlac"
+    },
+    {
+      "id": 165712,
+      "name": "Neudorf"
+    },
+    {
+      "id": 165713,
+      "name": "Olari"
+    },
+    {
+      "id": 165714,
+      "name": "Oraş Chişineu-Criş"
+    },
+    {
+      "id": 165715,
+      "name": "Oraş Curtici"
+    },
+    {
+      "id": 165716,
+      "name": "Oraş Ineu"
+    },
+    {
+      "id": 165717,
+      "name": "Oraş Lipova"
+    },
+    {
+      "id": 165718,
+      "name": "Oraş Nãdlac"
+    },
+    {
+      "id": 165719,
+      "name": "Oraş Pâncota"
+    },
+    {
+      "id": 165720,
+      "name": "Oraş Sântana"
+    },
+    {
+      "id": 165721,
+      "name": "Oraş Sebiş"
+    },
+    {
+      "id": 165722,
+      "name": "Pâncota"
+    },
+    {
+      "id": 165723,
+      "name": "Păuliş"
+    },
+    {
+      "id": 165724,
+      "name": "Pecica"
+    },
+    {
+      "id": 165725,
+      "name": "Peregu Mare"
+    },
+    {
+      "id": 165726,
+      "name": "Peregu Mic"
+    },
+    {
+      "id": 165727,
+      "name": "Petriş"
+    },
+    {
+      "id": 165728,
+      "name": "Pilu"
+    },
+    {
+      "id": 165729,
+      "name": "Pleşcuţa"
+    },
+    {
+      "id": 165730,
+      "name": "Radna"
+    },
+    {
+      "id": 165731,
+      "name": "Şagu"
+    },
+    {
+      "id": 165732,
+      "name": "Sâmbăteni"
+    },
+    {
+      "id": 165733,
+      "name": "Sânmartin"
+    },
+    {
+      "id": 165734,
+      "name": "Sânpetru German"
+    },
+    {
+      "id": 165735,
+      "name": "Sântana"
+    },
+    {
+      "id": 165736,
+      "name": "Satu Mare"
+    },
+    {
+      "id": 165737,
+      "name": "Săvârşin"
+    },
+    {
+      "id": 165738,
+      "name": "Sebiş"
+    },
+    {
+      "id": 165739,
+      "name": "Secusigiu"
+    },
+    {
+      "id": 165740,
+      "name": "Şeitin"
+    },
+    {
+      "id": 165741,
+      "name": "Seleuş"
+    },
+    {
+      "id": 165742,
+      "name": "Semlac"
+    },
+    {
+      "id": 165743,
+      "name": "Șepreuș"
+    },
+    {
+      "id": 165744,
+      "name": "Șiclău"
+    },
+    {
+      "id": 165745,
+      "name": "Şicula"
+    },
+    {
+      "id": 165746,
+      "name": "Şilindia"
+    },
+    {
+      "id": 165747,
+      "name": "Şimand"
+    },
+    {
+      "id": 165748,
+      "name": "Sintea Mare"
+    },
+    {
+      "id": 165749,
+      "name": "Şiria"
+    },
+    {
+      "id": 165750,
+      "name": "Şiştarovăţ"
+    },
+    {
+      "id": 165751,
+      "name": "Socodor"
+    },
+    {
+      "id": 165752,
+      "name": "Şofronea"
+    },
+    {
+      "id": 165753,
+      "name": "Târnova"
+    },
+    {
+      "id": 165754,
+      "name": "Tauţ"
+    },
+    {
+      "id": 165755,
+      "name": "Țipar"
+    },
+    {
+      "id": 165756,
+      "name": "Turnu"
+    },
+    {
+      "id": 165757,
+      "name": "Ususău"
+    },
+    {
+      "id": 165758,
+      "name": "Vânători"
+    },
+    {
+      "id": 165759,
+      "name": "Vărădia de Mureş"
+    },
+    {
+      "id": 165760,
+      "name": "Vârfurile"
+    },
+    {
+      "id": 165761,
+      "name": "Vinga"
+    },
+    {
+      "id": 165762,
+      "name": "Vladimirescu"
+    },
+    {
+      "id": 165763,
+      "name": "Zăbrani"
+    },
+    {
+      "id": 165764,
+      "name": "Zădăreni"
+    },
+    {
+      "id": 165765,
+      "name": "Zărand"
+    },
+    {
+      "id": 165766,
+      "name": "Zerind"
+    },
+    {
+      "id": 165767,
+      "name": "Zimandu Nou"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": 3051,
+  "name": "Rio de Janeiro",
+  "state_code": "RJ",
+  "cities": [
+    {
+      "id": 86017,
+      "name": "Angra dos Reis"
+    },
+    {
+      "id": 86018,
+      "name": "Aperibé"
+    },
+    {
+      "id": 86019,
+      "name": "Araruama"
+    },
+    {
+      "id": 86020,
+      "name": "Areal"
+    },
+    {
+      "id": 86021,
+      "name": "Armação dos Búzios"
+    },
+    {
+      "id": 86022,
+      "name": "Arraial do Cabo"
+    },
+    {
+      "id": 86023,
+      "name": "Barra do Piraí"
+    },
+    {
+      "id": 86024,
+      "name": "Barra Mansa"
+    },
+    {
+      "id": 86025,
+      "name": "Belford Roxo"
+    },
+    {
+      "id": 86026,
+      "name": "Bom Jardim"
+    },
+    {
+      "id": 86027,
+      "name": "Bom Jesus do Itabapoana"
+    },
+    {
+      "id": 86028,
+      "name": "Cabo Frio"
+    },
+    {
+      "id": 86029,
+      "name": "Cachoeiras de Macacu"
+    },
+    {
+      "id": 86030,
+      "name": "Cambuci"
+    },
+    {
+      "id": 86031,
+      "name": "Campos dos Goytacazes"
+    },
+    {
+      "id": 86032,
+      "name": "Cantagalo"
+    },
+    {
+      "id": 86033,
+      "name": "Carapebus"
+    },
+    {
+      "id": 86034,
+      "name": "Cardoso Moreira"
+    },
+    {
+      "id": 86035,
+      "name": "Carmo"
+    },
+    {
+      "id": 86036,
+      "name": "Casimiro de Abreu"
+    },
+    {
+      "id": 86037,
+      "name": "Comendador Levy Gasparian"
+    },
+    {
+      "id": 86038,
+      "name": "Conceição de Macabu"
+    },
+    {
+      "id": 86039,
+      "name": "Cordeiro"
+    },
+    {
+      "id": 86040,
+      "name": "Duas Barras"
+    },
+    {
+      "id": 86041,
+      "name": "Duque de Caxias"
+    },
+    {
+      "id": 86042,
+      "name": "Engenheiro Paulo de Frontin"
+    },
+    {
+      "id": 86043,
+      "name": "Guapimirim"
+    },
+    {
+      "id": 86044,
+      "name": "Iguaba Grande"
+    },
+    {
+      "id": 86045,
+      "name": "Ilha Grande"
+    },
+    {
+      "id": 86046,
+      "name": "Itaboraí"
+    },
+    {
+      "id": 86047,
+      "name": "Itaguaí"
+    },
+    {
+      "id": 86048,
+      "name": "Italva"
+    },
+    {
+      "id": 86049,
+      "name": "Itaocara"
+    },
+    {
+      "id": 86050,
+      "name": "Itaperuna"
+    },
+    {
+      "id": 86051,
+      "name": "Itatiaia"
+    },
+    {
+      "id": 86052,
+      "name": "Japeri"
+    },
+    {
+      "id": 86053,
+      "name": "Laje do Muriaé"
+    },
+    {
+      "id": 86054,
+      "name": "Macaé"
+    },
+    {
+      "id": 86055,
+      "name": "Macuco"
+    },
+    {
+      "id": 86056,
+      "name": "Magé"
+    },
+    {
+      "id": 86057,
+      "name": "Mangaratiba"
+    },
+    {
+      "id": 86058,
+      "name": "Maricá"
+    },
+    {
+      "id": 86059,
+      "name": "Mendes"
+    },
+    {
+      "id": 86060,
+      "name": "Mesquita"
+    },
+    {
+      "id": 86061,
+      "name": "Miguel Pereira"
+    },
+    {
+      "id": 86062,
+      "name": "Miracema"
+    },
+    {
+      "id": 86063,
+      "name": "Natividade"
+    },
+    {
+      "id": 86064,
+      "name": "Nilópolis"
+    },
+    {
+      "id": 86065,
+      "name": "Niterói"
+    },
+    {
+      "id": 86066,
+      "name": "Nova Friburgo"
+    },
+    {
+      "id": 86067,
+      "name": "Nova Iguaçu"
+    },
+    {
+      "id": 86068,
+      "name": "Paracambi"
+    },
+    {
+      "id": 86069,
+      "name": "Paraíba do Sul"
+    },
+    {
+      "id": 86070,
+      "name": "Paraty"
+    },
+    {
+      "id": 86071,
+      "name": "Paty do Alferes"
+    },
+    {
+      "id": 86072,
+      "name": "Petrópolis"
+    },
+    {
+      "id": 86073,
+      "name": "Pinheiral"
+    },
+    {
+      "id": 86074,
+      "name": "Piraí"
+    },
+    {
+      "id": 86075,
+      "name": "Porciúncula"
+    },
+    {
+      "id": 86076,
+      "name": "Porto Real"
+    },
+    {
+      "id": 86077,
+      "name": "Quatis"
+    },
+    {
+      "id": 86078,
+      "name": "Queimados"
+    },
+    {
+      "id": 86079,
+      "name": "Quissamã"
+    },
+    {
+      "id": 86080,
+      "name": "Resende"
+    },
+    {
+      "id": 86081,
+      "name": "Rio Bonito"
+    },
+    {
+      "id": 86082,
+      "name": "Rio Claro"
+    },
+    {
+      "id": 86083,
+      "name": "Rio das Flores"
+    },
+    {
+      "id": 86084,
+      "name": "Rio das Ostras"
+    },
+    {
+      "id": 86085,
+      "name": "Rio de Janeiro"
+    },
+    {
+      "id": 86086,
+      "name": "Santa Maria Madalena"
+    },
+    {
+      "id": 86087,
+      "name": "Santo Antônio de Pádua"
+    },
+    {
+      "id": 86088,
+      "name": "São Fidélis"
+    },
+    {
+      "id": 86089,
+      "name": "São Francisco de Itabapoana"
+    },
+    {
+      "id": 86090,
+      "name": "São Gonçalo"
+    },
+    {
+      "id": 86091,
+      "name": "São João da Barra"
+    },
+    {
+      "id": 86092,
+      "name": "São João de Meriti"
+    },
+    {
+      "id": 86093,
+      "name": "São José de Ubá"
+    },
+    {
+      "id": 86094,
+      "name": "São José do Vale do Rio Preto"
+    },
+    {
+      "id": 86095,
+      "name": "São Pedro"
+    },
+    {
+      "id": 86096,
+      "name": "São Pedro da Aldeia"
+    },
+    {
+      "id": 86097,
+      "name": "São Sebastião do Alto"
+    },
+    {
+      "id": 86098,
+      "name": "Sapucaia"
+    },
+    {
+      "id": 86099,
+      "name": "Saquarema"
+    },
+    {
+      "id": 86100,
+      "name": "Seropédica"
+    },
+    {
+      "id": 86101,
+      "name": "Silva Jardim"
+    },
+    {
+      "id": 86102,
+      "name": "Sumidouro"
+    },
+    {
+      "id": 86103,
+      "name": "Tanguá"
+    },
+    {
+      "id": 86104,
+      "name": "Teresópolis"
+    },
+    {
+      "id": 86105,
+      "name": "Trajano de Moraes"
+    },
+    {
+      "id": 86106,
+      "name": "Três Rios"
+    },
+    {
+      "id": 86107,
+      "name": "Valença"
+    },
+    {
+      "id": 86108,
+      "name": "Varre-Sai"
+    },
+    {
+      "id": 86109,
+      "name": "Vassouras"
+    },
+    {
+      "id": 86110,
+      "name": "Volta Redonda"
+    }
+  ]
+}

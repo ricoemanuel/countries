@@ -1,0 +1,331 @@
+{
+  "id": 7160,
+  "name": "Lvivska oblast",
+  "state_code": "46",
+  "cities": [
+    {
+      "id": 196852,
+      "name": "Belz"
+    },
+    {
+      "id": 196853,
+      "name": "Bibrka"
+    },
+    {
+      "id": 196854,
+      "name": "Boryslav"
+    },
+    {
+      "id": 196855,
+      "name": "Brody"
+    },
+    {
+      "id": 196856,
+      "name": "Bryukhovychi"
+    },
+    {
+      "id": 196857,
+      "name": "Chervonohrad"
+    },
+    {
+      "id": 196858,
+      "name": "Demnya"
+    },
+    {
+      "id": 196859,
+      "name": "Dobromyl’"
+    },
+    {
+      "id": 196860,
+      "name": "Drohobych"
+    },
+    {
+      "id": 196861,
+      "name": "Dublyany"
+    },
+    {
+      "id": 196862,
+      "name": "Duliby"
+    },
+    {
+      "id": 196863,
+      "name": "Dzvinogrud"
+    },
+    {
+      "id": 196864,
+      "name": "Hlyns'k"
+    },
+    {
+      "id": 196865,
+      "name": "Horodok"
+    },
+    {
+      "id": 196866,
+      "name": "Ivano-Frankove"
+    },
+    {
+      "id": 196867,
+      "name": "Khodoriv"
+    },
+    {
+      "id": 196868,
+      "name": "Khyriv"
+    },
+    {
+      "id": 196869,
+      "name": "Komarno"
+    },
+    {
+      "id": 196870,
+      "name": "Krasne"
+    },
+    {
+      "id": 196871,
+      "name": "Kulykiv"
+    },
+    {
+      "id": 196872,
+      "name": "Lopatyn"
+    },
+    {
+      "id": 196873,
+      "name": "Lviv"
+    },
+    {
+      "id": 196874,
+      "name": "Medenychi"
+    },
+    {
+      "id": 196875,
+      "name": "Morshyn"
+    },
+    {
+      "id": 196876,
+      "name": "Mostys'ka"
+    },
+    {
+      "id": 196877,
+      "name": "Murovane"
+    },
+    {
+      "id": 196878,
+      "name": "Mykolaiv"
+    },
+    {
+      "id": 196879,
+      "name": "Navaria"
+    },
+    {
+      "id": 196880,
+      "name": "Novoyavorivs'k"
+    },
+    {
+      "id": 196881,
+      "name": "Novyi Yarychiv"
+    },
+    {
+      "id": 196882,
+      "name": "Obroshyne"
+    },
+    {
+      "id": 196883,
+      "name": "Olesko"
+    },
+    {
+      "id": 196884,
+      "name": "Peremyshlyany"
+    },
+    {
+      "id": 196885,
+      "name": "Pidbuzh"
+    },
+    {
+      "id": 196886,
+      "name": "Pidhirtsi"
+    },
+    {
+      "id": 196887,
+      "name": "Pidkamin’"
+    },
+    {
+      "id": 196888,
+      "name": "Pnikut"
+    },
+    {
+      "id": 196889,
+      "name": "Pomoriany"
+    },
+    {
+      "id": 196890,
+      "name": "Potelych"
+    },
+    {
+      "id": 196891,
+      "name": "Pustomyty"
+    },
+    {
+      "id": 196892,
+      "name": "Ralivka"
+    },
+    {
+      "id": 196893,
+      "name": "Rava-Rus’ka"
+    },
+    {
+      "id": 196894,
+      "name": "Richky"
+    },
+    {
+      "id": 196895,
+      "name": "Rodatychi"
+    },
+    {
+      "id": 196896,
+      "name": "Rozdil"
+    },
+    {
+      "id": 196897,
+      "name": "Rozvadiv"
+    },
+    {
+      "id": 196898,
+      "name": "Rudky"
+    },
+    {
+      "id": 196899,
+      "name": "Rudne"
+    },
+    {
+      "id": 196900,
+      "name": "Rykhtychi"
+    },
+    {
+      "id": 196901,
+      "name": "Sambir"
+    },
+    {
+      "id": 196902,
+      "name": "Shchyrets"
+    },
+    {
+      "id": 196903,
+      "name": "Shklo"
+    },
+    {
+      "id": 196904,
+      "name": "Silets’"
+    },
+    {
+      "id": 196905,
+      "name": "Skelivka"
+    },
+    {
+      "id": 196906,
+      "name": "Skhidnytsya"
+    },
+    {
+      "id": 196907,
+      "name": "Skole"
+    },
+    {
+      "id": 196908,
+      "name": "Slavske"
+    },
+    {
+      "id": 196909,
+      "name": "Sokal’"
+    },
+    {
+      "id": 196910,
+      "name": "Solonka"
+    },
+    {
+      "id": 196911,
+      "name": "Staroye Selo"
+    },
+    {
+      "id": 196912,
+      "name": "Starychi"
+    },
+    {
+      "id": 196913,
+      "name": "Staryy Dobrotvir"
+    },
+    {
+      "id": 196914,
+      "name": "Staryy Sambir"
+    },
+    {
+      "id": 196915,
+      "name": "Stebnyk"
+    },
+    {
+      "id": 196916,
+      "name": "Stryi"
+    },
+    {
+      "id": 196917,
+      "name": "Sudova Vyshnya"
+    },
+    {
+      "id": 196918,
+      "name": "Sukhovolya"
+    },
+    {
+      "id": 196919,
+      "name": "Truskavets’"
+    },
+    {
+      "id": 196920,
+      "name": "Tukhlia"
+    },
+    {
+      "id": 196921,
+      "name": "Turka"
+    },
+    {
+      "id": 196922,
+      "name": "Uhniv"
+    },
+    {
+      "id": 196923,
+      "name": "Ulychne"
+    },
+    {
+      "id": 196924,
+      "name": "Verblyany"
+    },
+    {
+      "id": 196925,
+      "name": "Verchnia Rozhanka"
+    },
+    {
+      "id": 196926,
+      "name": "Verkhnie Synevydne"
+    },
+    {
+      "id": 196927,
+      "name": "Verkhnyaya Belka"
+    },
+    {
+      "id": 196928,
+      "name": "Voyutychi"
+    },
+    {
+      "id": 196929,
+      "name": "Yavoriv"
+    },
+    {
+      "id": 196930,
+      "name": "Zhovkva"
+    },
+    {
+      "id": 196931,
+      "name": "Zhydachiv"
+    },
+    {
+      "id": 196932,
+      "name": "Zolochiv"
+    }
+  ]
+}

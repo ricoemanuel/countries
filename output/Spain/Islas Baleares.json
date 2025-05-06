@@ -1,0 +1,399 @@
+{
+  "id": 6532,
+  "name": "Islas Baleares",
+  "state_code": "PM",
+  "cities": [
+    {
+      "id": 185306,
+      "name": "Alaior"
+    },
+    {
+      "id": 185307,
+      "name": "Alaró"
+    },
+    {
+      "id": 185308,
+      "name": "Alcúdia"
+    },
+    {
+      "id": 185309,
+      "name": "Algaida"
+    },
+    {
+      "id": 185310,
+      "name": "Andratx"
+    },
+    {
+      "id": 185311,
+      "name": "Ariany"
+    },
+    {
+      "id": 185312,
+      "name": "Artà"
+    },
+    {
+      "id": 185313,
+      "name": "Banyalbufar"
+    },
+    {
+      "id": 185314,
+      "name": "Binissalem"
+    },
+    {
+      "id": 185315,
+      "name": "Búger"
+    },
+    {
+      "id": 185316,
+      "name": "Bunyola"
+    },
+    {
+      "id": 185317,
+      "name": "Cala d'Or"
+    },
+    {
+      "id": 185318,
+      "name": "Cala Rajada"
+    },
+    {
+      "id": 185319,
+      "name": "Calonge"
+    },
+    {
+      "id": 185320,
+      "name": "Calvià"
+    },
+    {
+      "id": 185321,
+      "name": "Camp de Mar"
+    },
+    {
+      "id": 185322,
+      "name": "Campanet"
+    },
+    {
+      "id": 185323,
+      "name": "Campos"
+    },
+    {
+      "id": 185324,
+      "name": "Can Pastilla"
+    },
+    {
+      "id": 185325,
+      "name": "Can Picafort"
+    },
+    {
+      "id": 185326,
+      "name": "Capdepera"
+    },
+    {
+      "id": 185327,
+      "name": "Castell Es"
+    },
+    {
+      "id": 185328,
+      "name": "Ciutadella"
+    },
+    {
+      "id": 185329,
+      "name": "Ciutadella de Menorca"
+    },
+    {
+      "id": 185330,
+      "name": "Coll d'en Rabassa"
+    },
+    {
+      "id": 185331,
+      "name": "Colònia de Sant Jordi"
+    },
+    {
+      "id": 185332,
+      "name": "Consell"
+    },
+    {
+      "id": 185333,
+      "name": "Costitx"
+    },
+    {
+      "id": 185334,
+      "name": "Deià"
+    },
+    {
+      "id": 185335,
+      "name": "Deyá"
+    },
+    {
+      "id": 185336,
+      "name": "Eivissa"
+    },
+    {
+      "id": 185337,
+      "name": "El Toro"
+    },
+    {
+      "id": 185338,
+      "name": "Es Castell"
+    },
+    {
+      "id": 185339,
+      "name": "Es Molinar"
+    },
+    {
+      "id": 185340,
+      "name": "Escorca"
+    },
+    {
+      "id": 185341,
+      "name": "Esporles"
+    },
+    {
+      "id": 185342,
+      "name": "Estellencs"
+    },
+    {
+      "id": 185343,
+      "name": "Felanitx"
+    },
+    {
+      "id": 185344,
+      "name": "Ferreries"
+    },
+    {
+      "id": 185345,
+      "name": "Formentera"
+    },
+    {
+      "id": 185346,
+      "name": "Fornalutx"
+    },
+    {
+      "id": 185347,
+      "name": "Ibiza"
+    },
+    {
+      "id": 185348,
+      "name": "Illes Balears"
+    },
+    {
+      "id": 185349,
+      "name": "Inca"
+    },
+    {
+      "id": 185350,
+      "name": "Lloret de Vistalegre"
+    },
+    {
+      "id": 185351,
+      "name": "Lloseta"
+    },
+    {
+      "id": 185352,
+      "name": "Llubí"
+    },
+    {
+      "id": 185353,
+      "name": "Llucmajor"
+    },
+    {
+      "id": 185354,
+      "name": "Magaluf"
+    },
+    {
+      "id": 185355,
+      "name": "Manacor"
+    },
+    {
+      "id": 185356,
+      "name": "Mancor de la Vall"
+    },
+    {
+      "id": 185357,
+      "name": "Maó"
+    },
+    {
+      "id": 185358,
+      "name": "Maria de la Salut"
+    },
+    {
+      "id": 185359,
+      "name": "Marratxí"
+    },
+    {
+      "id": 185360,
+      "name": "Mercadal"
+    },
+    {
+      "id": 185361,
+      "name": "Mercadal Es"
+    },
+    {
+      "id": 185362,
+      "name": "Migjorn Gran Es"
+    },
+    {
+      "id": 185363,
+      "name": "Montuïri"
+    },
+    {
+      "id": 185364,
+      "name": "Muro"
+    },
+    {
+      "id": 185365,
+      "name": "Palma"
+    },
+    {
+      "id": 185366,
+      "name": "Palmanova"
+    },
+    {
+      "id": 185367,
+      "name": "Peguera"
+    },
+    {
+      "id": 185368,
+      "name": "Petra"
+    },
+    {
+      "id": 185369,
+      "name": "Pobla Sa"
+    },
+    {
+      "id": 185370,
+      "name": "Pollença"
+    },
+    {
+      "id": 185371,
+      "name": "Porreres"
+    },
+    {
+      "id": 185372,
+      "name": "Port d'Alcúdia"
+    },
+    {
+      "id": 185373,
+      "name": "Port de Pollença"
+    },
+    {
+      "id": 185374,
+      "name": "Port de Sóller"
+    },
+    {
+      "id": 185375,
+      "name": "Porto Cristo"
+    },
+    {
+      "id": 185376,
+      "name": "Portocolom"
+    },
+    {
+      "id": 185377,
+      "name": "Puigpunyent"
+    },
+    {
+      "id": 185378,
+      "name": "s'Arenal"
+    },
+    {
+      "id": 185379,
+      "name": "sa Pobla"
+    },
+    {
+      "id": 185380,
+      "name": "Salines Ses"
+    },
+    {
+      "id": 185381,
+      "name": "Sant Antoni de Portmany"
+    },
+    {
+      "id": 185382,
+      "name": "Sant Francesc de Formentera"
+    },
+    {
+      "id": 185383,
+      "name": "Sant Joan"
+    },
+    {
+      "id": 185384,
+      "name": "Sant Joan de Labritja"
+    },
+    {
+      "id": 185385,
+      "name": "Sant Josep de sa Talaia"
+    },
+    {
+      "id": 185386,
+      "name": "Sant Llorenç des Cardassar"
+    },
+    {
+      "id": 185387,
+      "name": "Sant Lluís"
+    },
+    {
+      "id": 185388,
+      "name": "Santa Eugènia"
+    },
+    {
+      "id": 185389,
+      "name": "Santa Eulalia del Río"
+    },
+    {
+      "id": 185390,
+      "name": "Santa Eulària des Riu"
+    },
+    {
+      "id": 185391,
+      "name": "Santa Margalida"
+    },
+    {
+      "id": 185392,
+      "name": "Santa María del Camí"
+    },
+    {
+      "id": 185393,
+      "name": "Santa Ponsa"
+    },
+    {
+      "id": 185394,
+      "name": "Santanyí"
+    },
+    {
+      "id": 185395,
+      "name": "Selva"
+    },
+    {
+      "id": 185396,
+      "name": "Sencelles"
+    },
+    {
+      "id": 185397,
+      "name": "Ses Salines"
+    },
+    {
+      "id": 185398,
+      "name": "Sineu"
+    },
+    {
+      "id": 185399,
+      "name": "Sóller"
+    },
+    {
+      "id": 185400,
+      "name": "Son Ferrer"
+    },
+    {
+      "id": 185401,
+      "name": "Son Servera"
+    },
+    {
+      "id": 185402,
+      "name": "Valldemossa"
+    },
+    {
+      "id": 185403,
+      "name": "Vilafranca de Bonany"
+    }
+  ]
+}

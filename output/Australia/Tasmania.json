@@ -1,0 +1,575 @@
+{
+  "id": 2820,
+  "name": "Tasmania",
+  "state_code": "TAS",
+  "cities": [
+    {
+      "id": 76832,
+      "name": "Acton Park"
+    },
+    {
+      "id": 76833,
+      "name": "Austins Ferry"
+    },
+    {
+      "id": 76834,
+      "name": "Bagdad"
+    },
+    {
+      "id": 76835,
+      "name": "Battery Point"
+    },
+    {
+      "id": 76836,
+      "name": "Beaconsfield"
+    },
+    {
+      "id": 76837,
+      "name": "Beauty Point"
+    },
+    {
+      "id": 76838,
+      "name": "Bellerive"
+    },
+    {
+      "id": 76839,
+      "name": "Berriedale"
+    },
+    {
+      "id": 76840,
+      "name": "Blackmans Bay"
+    },
+    {
+      "id": 76841,
+      "name": "Blackstone Heights"
+    },
+    {
+      "id": 76842,
+      "name": "Break O'Day"
+    },
+    {
+      "id": 76843,
+      "name": "Bridgewater"
+    },
+    {
+      "id": 76844,
+      "name": "Bridport"
+    },
+    {
+      "id": 76845,
+      "name": "Brighton"
+    },
+    {
+      "id": 76846,
+      "name": "Burnie"
+    },
+    {
+      "id": 76847,
+      "name": "Cambridge"
+    },
+    {
+      "id": 76848,
+      "name": "Central Coast"
+    },
+    {
+      "id": 76849,
+      "name": "Central Highlands"
+    },
+    {
+      "id": 76850,
+      "name": "Chigwell"
+    },
+    {
+      "id": 76851,
+      "name": "Circular Head"
+    },
+    {
+      "id": 76852,
+      "name": "Claremont"
+    },
+    {
+      "id": 76853,
+      "name": "Clarence"
+    },
+    {
+      "id": 76854,
+      "name": "Clarendon Vale"
+    },
+    {
+      "id": 76855,
+      "name": "Cressy"
+    },
+    {
+      "id": 76856,
+      "name": "Currie"
+    },
+    {
+      "id": 76857,
+      "name": "Cygnet"
+    },
+    {
+      "id": 76858,
+      "name": "Deloraine"
+    },
+    {
+      "id": 76859,
+      "name": "Derwent Valley"
+    },
+    {
+      "id": 76860,
+      "name": "Devonport"
+    },
+    {
+      "id": 76861,
+      "name": "Dodges Ferry"
+    },
+    {
+      "id": 76862,
+      "name": "Dorset"
+    },
+    {
+      "id": 76863,
+      "name": "Dynnyrne"
+    },
+    {
+      "id": 76864,
+      "name": "East Devonport"
+    },
+    {
+      "id": 76865,
+      "name": "East Launceston"
+    },
+    {
+      "id": 76866,
+      "name": "Evandale"
+    },
+    {
+      "id": 76867,
+      "name": "Flinders"
+    },
+    {
+      "id": 76868,
+      "name": "Franklin"
+    },
+    {
+      "id": 76869,
+      "name": "Gagebrook"
+    },
+    {
+      "id": 76870,
+      "name": "Geeveston"
+    },
+    {
+      "id": 76871,
+      "name": "Geilston Bay"
+    },
+    {
+      "id": 76872,
+      "name": "George Town"
+    },
+    {
+      "id": 76873,
+      "name": "Glamorgan/Spring Bay"
+    },
+    {
+      "id": 76874,
+      "name": "Glenorchy"
+    },
+    {
+      "id": 76875,
+      "name": "Goodwood"
+    },
+    {
+      "id": 76876,
+      "name": "Granton"
+    },
+    {
+      "id": 76877,
+      "name": "Hadspen"
+    },
+    {
+      "id": 76878,
+      "name": "Herdsmans Cove"
+    },
+    {
+      "id": 76879,
+      "name": "Hillcrest"
+    },
+    {
+      "id": 76880,
+      "name": "Hobart"
+    },
+    {
+      "id": 76881,
+      "name": "Hobart city centre"
+    },
+    {
+      "id": 76882,
+      "name": "Howrah"
+    },
+    {
+      "id": 76883,
+      "name": "Huon Valley"
+    },
+    {
+      "id": 76884,
+      "name": "Huonville"
+    },
+    {
+      "id": 76885,
+      "name": "Invermay"
+    },
+    {
+      "id": 76886,
+      "name": "Kentish"
+    },
+    {
+      "id": 76887,
+      "name": "King Island"
+    },
+    {
+      "id": 76888,
+      "name": "Kingborough"
+    },
+    {
+      "id": 76889,
+      "name": "Kings Meadows"
+    },
+    {
+      "id": 76890,
+      "name": "Kingston"
+    },
+    {
+      "id": 76891,
+      "name": "Kingston Beach"
+    },
+    {
+      "id": 76892,
+      "name": "Latrobe"
+    },
+    {
+      "id": 76893,
+      "name": "Lauderdale"
+    },
+    {
+      "id": 76894,
+      "name": "Launceston"
+    },
+    {
+      "id": 76895,
+      "name": "Launceston city centre"
+    },
+    {
+      "id": 76896,
+      "name": "Legana"
+    },
+    {
+      "id": 76897,
+      "name": "Lenah Valley"
+    },
+    {
+      "id": 76898,
+      "name": "Lindisfarne"
+    },
+    {
+      "id": 76899,
+      "name": "Longford"
+    },
+    {
+      "id": 76900,
+      "name": "Lutana"
+    },
+    {
+      "id": 76901,
+      "name": "Margate"
+    },
+    {
+      "id": 76902,
+      "name": "Mayfield"
+    },
+    {
+      "id": 76903,
+      "name": "Meander Valley"
+    },
+    {
+      "id": 76904,
+      "name": "Miandetta"
+    },
+    {
+      "id": 76905,
+      "name": "Midway Point"
+    },
+    {
+      "id": 76906,
+      "name": "Montello"
+    },
+    {
+      "id": 76907,
+      "name": "Montrose"
+    },
+    {
+      "id": 76908,
+      "name": "Moonah"
+    },
+    {
+      "id": 76909,
+      "name": "Mornington"
+    },
+    {
+      "id": 76910,
+      "name": "Mount Nelson"
+    },
+    {
+      "id": 76911,
+      "name": "Mount Stuart"
+    },
+    {
+      "id": 76912,
+      "name": "Mowbray"
+    },
+    {
+      "id": 76913,
+      "name": "New Norfolk"
+    },
+    {
+      "id": 76914,
+      "name": "New Town"
+    },
+    {
+      "id": 76915,
+      "name": "Newnham"
+    },
+    {
+      "id": 76916,
+      "name": "Newstead"
+    },
+    {
+      "id": 76917,
+      "name": "North Hobart"
+    },
+    {
+      "id": 76918,
+      "name": "Northern Midlands"
+    },
+    {
+      "id": 76919,
+      "name": "Norwood"
+    },
+    {
+      "id": 76920,
+      "name": "Oakdowns"
+    },
+    {
+      "id": 76921,
+      "name": "Old Beach"
+    },
+    {
+      "id": 76922,
+      "name": "Park Grove"
+    },
+    {
+      "id": 76923,
+      "name": "Penguin"
+    },
+    {
+      "id": 76924,
+      "name": "Perth"
+    },
+    {
+      "id": 76925,
+      "name": "Port Sorell"
+    },
+    {
+      "id": 76926,
+      "name": "Prospect Vale"
+    },
+    {
+      "id": 76927,
+      "name": "Queenstown"
+    },
+    {
+      "id": 76928,
+      "name": "Ranelagh"
+    },
+    {
+      "id": 76929,
+      "name": "Ravenswood"
+    },
+    {
+      "id": 76930,
+      "name": "Richmond"
+    },
+    {
+      "id": 76931,
+      "name": "Risdon Vale"
+    },
+    {
+      "id": 76932,
+      "name": "Riverside"
+    },
+    {
+      "id": 76933,
+      "name": "Rocherlea"
+    },
+    {
+      "id": 76934,
+      "name": "Rokeby"
+    },
+    {
+      "id": 76935,
+      "name": "Romaine"
+    },
+    {
+      "id": 76936,
+      "name": "Rosetta"
+    },
+    {
+      "id": 76937,
+      "name": "Saint Leonards"
+    },
+    {
+      "id": 76938,
+      "name": "Sandford"
+    },
+    {
+      "id": 76939,
+      "name": "Sandy Bay"
+    },
+    {
+      "id": 76940,
+      "name": "Scottsdale"
+    },
+    {
+      "id": 76941,
+      "name": "Seven Mile Beach"
+    },
+    {
+      "id": 76942,
+      "name": "Shearwater"
+    },
+    {
+      "id": 76943,
+      "name": "Sheffield"
+    },
+    {
+      "id": 76944,
+      "name": "Shorewell Park"
+    },
+    {
+      "id": 76945,
+      "name": "Smithton"
+    },
+    {
+      "id": 76946,
+      "name": "Snug"
+    },
+    {
+      "id": 76947,
+      "name": "Somerset"
+    },
+    {
+      "id": 76948,
+      "name": "Sorell"
+    },
+    {
+      "id": 76949,
+      "name": "South Hobart"
+    },
+    {
+      "id": 76950,
+      "name": "South Launceston"
+    },
+    {
+      "id": 76951,
+      "name": "Southern Midlands"
+    },
+    {
+      "id": 76952,
+      "name": "Spreyton"
+    },
+    {
+      "id": 76953,
+      "name": "St Helens"
+    },
+    {
+      "id": 76954,
+      "name": "Summerhill"
+    },
+    {
+      "id": 76955,
+      "name": "Taroona"
+    },
+    {
+      "id": 76956,
+      "name": "Tasman Peninsula"
+    },
+    {
+      "id": 76957,
+      "name": "Tranmere"
+    },
+    {
+      "id": 76958,
+      "name": "Trevallyn"
+    },
+    {
+      "id": 76959,
+      "name": "Turners Beach"
+    },
+    {
+      "id": 76960,
+      "name": "Ulverstone"
+    },
+    {
+      "id": 76961,
+      "name": "Upper Burnie"
+    },
+    {
+      "id": 76962,
+      "name": "Waratah/Wynyard"
+    },
+    {
+      "id": 76963,
+      "name": "Warrane"
+    },
+    {
+      "id": 76964,
+      "name": "Waverley"
+    },
+    {
+      "id": 76965,
+      "name": "West Coast"
+    },
+    {
+      "id": 76966,
+      "name": "West Hobart"
+    },
+    {
+      "id": 76967,
+      "name": "West Launceston"
+    },
+    {
+      "id": 76968,
+      "name": "West Moonah"
+    },
+    {
+      "id": 76969,
+      "name": "West Tamar"
+    },
+    {
+      "id": 76970,
+      "name": "West Ulverstone"
+    },
+    {
+      "id": 76971,
+      "name": "Westbury"
+    },
+    {
+      "id": 76972,
+      "name": "Wynyard"
+    },
+    {
+      "id": 76973,
+      "name": "Youngtown"
+    }
+  ]
+}

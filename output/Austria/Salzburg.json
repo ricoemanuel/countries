@@ -1,0 +1,595 @@
+{
+  "id": 2826,
+  "name": "Salzburg",
+  "state_code": "5",
+  "cities": [
+    {
+      "id": 79204,
+      "name": "Abtenau"
+    },
+    {
+      "id": 79205,
+      "name": "Adnet"
+    },
+    {
+      "id": 79206,
+      "name": "Altenmarkt im Pongau"
+    },
+    {
+      "id": 79207,
+      "name": "Anger"
+    },
+    {
+      "id": 79208,
+      "name": "Anif"
+    },
+    {
+      "id": 79209,
+      "name": "Anthering"
+    },
+    {
+      "id": 79210,
+      "name": "Au"
+    },
+    {
+      "id": 79211,
+      "name": "Bad Gastein"
+    },
+    {
+      "id": 79212,
+      "name": "Bad Hofgastein"
+    },
+    {
+      "id": 79213,
+      "name": "Bergheim"
+    },
+    {
+      "id": 79214,
+      "name": "Berndorf bei Salzburg"
+    },
+    {
+      "id": 79215,
+      "name": "Bischofshofen"
+    },
+    {
+      "id": 79216,
+      "name": "Bramberg am Wildkogel"
+    },
+    {
+      "id": 79217,
+      "name": "Bruck an der Großglocknerstraße"
+    },
+    {
+      "id": 79218,
+      "name": "Burgfried"
+    },
+    {
+      "id": 79219,
+      "name": "Bürmoos"
+    },
+    {
+      "id": 79220,
+      "name": "Dienten am Hochkönig"
+    },
+    {
+      "id": 79221,
+      "name": "Dorfbeuern"
+    },
+    {
+      "id": 79222,
+      "name": "Dorfgastein"
+    },
+    {
+      "id": 79223,
+      "name": "Eben im Pongau"
+    },
+    {
+      "id": 79224,
+      "name": "Ebenau"
+    },
+    {
+      "id": 79225,
+      "name": "Eching"
+    },
+    {
+      "id": 79226,
+      "name": "Elixhausen"
+    },
+    {
+      "id": 79227,
+      "name": "Elsbethen"
+    },
+    {
+      "id": 79228,
+      "name": "Esch"
+    },
+    {
+      "id": 79229,
+      "name": "Eugendorf"
+    },
+    {
+      "id": 79230,
+      "name": "Faistenau"
+    },
+    {
+      "id": 79231,
+      "name": "Filzmoos"
+    },
+    {
+      "id": 79232,
+      "name": "Flachau"
+    },
+    {
+      "id": 79233,
+      "name": "Forstau"
+    },
+    {
+      "id": 79234,
+      "name": "Fuschl am See"
+    },
+    {
+      "id": 79235,
+      "name": "Georgenberg"
+    },
+    {
+      "id": 79236,
+      "name": "Glanegg"
+    },
+    {
+      "id": 79237,
+      "name": "Glasenbach"
+    },
+    {
+      "id": 79238,
+      "name": "Golling an der Salzach"
+    },
+    {
+      "id": 79239,
+      "name": "Grödig"
+    },
+    {
+      "id": 79240,
+      "name": "Grossarl"
+    },
+    {
+      "id": 79241,
+      "name": "Grossgmain"
+    },
+    {
+      "id": 79242,
+      "name": "Habach"
+    },
+    {
+      "id": 79243,
+      "name": "Hallein"
+    },
+    {
+      "id": 79244,
+      "name": "Hallwang"
+    },
+    {
+      "id": 79245,
+      "name": "Henndorf am Wallersee"
+    },
+    {
+      "id": 79246,
+      "name": "Himmelreich"
+    },
+    {
+      "id": 79247,
+      "name": "Hinterglemm"
+    },
+    {
+      "id": 79248,
+      "name": "Hintersee"
+    },
+    {
+      "id": 79249,
+      "name": "Hof"
+    },
+    {
+      "id": 79250,
+      "name": "Hof bei Salzburg"
+    },
+    {
+      "id": 79251,
+      "name": "Hollersbach im Pinzgau"
+    },
+    {
+      "id": 79252,
+      "name": "Hüttau"
+    },
+    {
+      "id": 79253,
+      "name": "Hüttschlag"
+    },
+    {
+      "id": 79254,
+      "name": "Irrsdorf"
+    },
+    {
+      "id": 79255,
+      "name": "Kaprun"
+    },
+    {
+      "id": 79256,
+      "name": "Kleinarl"
+    },
+    {
+      "id": 79257,
+      "name": "Koppl"
+    },
+    {
+      "id": 79258,
+      "name": "Köstendorf"
+    },
+    {
+      "id": 79259,
+      "name": "Krimml"
+    },
+    {
+      "id": 79260,
+      "name": "Krispl"
+    },
+    {
+      "id": 79261,
+      "name": "Kuchl"
+    },
+    {
+      "id": 79262,
+      "name": "Lamprechtshausen"
+    },
+    {
+      "id": 79263,
+      "name": "Lehen"
+    },
+    {
+      "id": 79264,
+      "name": "Lend"
+    },
+    {
+      "id": 79265,
+      "name": "Lengfelden"
+    },
+    {
+      "id": 79266,
+      "name": "Leogang"
+    },
+    {
+      "id": 79267,
+      "name": "Lofer"
+    },
+    {
+      "id": 79268,
+      "name": "Maishofen"
+    },
+    {
+      "id": 79269,
+      "name": "Maria Alm am Steinernen Meer"
+    },
+    {
+      "id": 79270,
+      "name": "Mariapfarr"
+    },
+    {
+      "id": 79271,
+      "name": "Mattsee"
+    },
+    {
+      "id": 79272,
+      "name": "Mauterndorf"
+    },
+    {
+      "id": 79273,
+      "name": "Mitterberghütten"
+    },
+    {
+      "id": 79274,
+      "name": "Mitterhofen"
+    },
+    {
+      "id": 79275,
+      "name": "Mittersill"
+    },
+    {
+      "id": 79276,
+      "name": "Mühlbach am Hochkönig"
+    },
+    {
+      "id": 79277,
+      "name": "Neualm"
+    },
+    {
+      "id": 79278,
+      "name": "Neukirchen am Großvenediger"
+    },
+    {
+      "id": 79279,
+      "name": "Neumarkt am Wallersee"
+    },
+    {
+      "id": 79280,
+      "name": "Niederalm"
+    },
+    {
+      "id": 79281,
+      "name": "Niedernsill"
+    },
+    {
+      "id": 79282,
+      "name": "Nußdorf am Haunsberg"
+    },
+    {
+      "id": 79283,
+      "name": "Oberalm"
+    },
+    {
+      "id": 79284,
+      "name": "Obergäu"
+    },
+    {
+      "id": 79285,
+      "name": "Oberndorf bei Salzburg"
+    },
+    {
+      "id": 79286,
+      "name": "Obertrum am See"
+    },
+    {
+      "id": 79287,
+      "name": "Pfarrwerfen"
+    },
+    {
+      "id": 79288,
+      "name": "Pichl"
+    },
+    {
+      "id": 79289,
+      "name": "Piesendorf"
+    },
+    {
+      "id": 79290,
+      "name": "Plainfeld"
+    },
+    {
+      "id": 79291,
+      "name": "Plankenau"
+    },
+    {
+      "id": 79292,
+      "name": "Politischer Bezirk Hallein"
+    },
+    {
+      "id": 79293,
+      "name": "Politischer Bezirk Salzburg-Umgebung"
+    },
+    {
+      "id": 79294,
+      "name": "Politischer Bezirk Sankt Johann im Pongau"
+    },
+    {
+      "id": 79295,
+      "name": "Politischer Bezirk Tamsweg"
+    },
+    {
+      "id": 79296,
+      "name": "Puch bei Hallein"
+    },
+    {
+      "id": 79297,
+      "name": "Radstadt"
+    },
+    {
+      "id": 79298,
+      "name": "Ramingstein"
+    },
+    {
+      "id": 79299,
+      "name": "Rauris"
+    },
+    {
+      "id": 79300,
+      "name": "Reinbach"
+    },
+    {
+      "id": 79301,
+      "name": "Reitberg"
+    },
+    {
+      "id": 79302,
+      "name": "Saalbach"
+    },
+    {
+      "id": 79303,
+      "name": "Saalfelden am Steinernen Meer"
+    },
+    {
+      "id": 79304,
+      "name": "Salzburg"
+    },
+    {
+      "id": 79305,
+      "name": "Salzburg Stadt"
+    },
+    {
+      "id": 79306,
+      "name": "Sankt Andrä im Lungau"
+    },
+    {
+      "id": 79307,
+      "name": "Sankt Gilgen"
+    },
+    {
+      "id": 79308,
+      "name": "Sankt Johann im Pongau"
+    },
+    {
+      "id": 79309,
+      "name": "Sankt Leonhard"
+    },
+    {
+      "id": 79310,
+      "name": "Sankt Margarethen im Lungau"
+    },
+    {
+      "id": 79311,
+      "name": "Sankt Martin bei Lofer"
+    },
+    {
+      "id": 79312,
+      "name": "Sankt Michael im Lungau"
+    },
+    {
+      "id": 79313,
+      "name": "Sankt Veit im Pongau"
+    },
+    {
+      "id": 79314,
+      "name": "Scheffau am Tennengebirge"
+    },
+    {
+      "id": 79315,
+      "name": "Schleedorf"
+    },
+    {
+      "id": 79316,
+      "name": "Schwarzach im Pongau"
+    },
+    {
+      "id": 79317,
+      "name": "Seeham"
+    },
+    {
+      "id": 79318,
+      "name": "Seekirchen am Wallersee"
+    },
+    {
+      "id": 79319,
+      "name": "Seewalchen"
+    },
+    {
+      "id": 79320,
+      "name": "Siezenheim"
+    },
+    {
+      "id": 79321,
+      "name": "St. Martin of Tennengebirge"
+    },
+    {
+      "id": 79322,
+      "name": "Strasswalchen"
+    },
+    {
+      "id": 79323,
+      "name": "Strobl"
+    },
+    {
+      "id": 79324,
+      "name": "Stuhlfelden"
+    },
+    {
+      "id": 79325,
+      "name": "Tamsweg"
+    },
+    {
+      "id": 79326,
+      "name": "Taugl"
+    },
+    {
+      "id": 79327,
+      "name": "Taxach"
+    },
+    {
+      "id": 79328,
+      "name": "Taxenbach"
+    },
+    {
+      "id": 79329,
+      "name": "Thalgau"
+    },
+    {
+      "id": 79330,
+      "name": "Thomatal"
+    },
+    {
+      "id": 79331,
+      "name": "Thumersbach"
+    },
+    {
+      "id": 79332,
+      "name": "Tweng"
+    },
+    {
+      "id": 79333,
+      "name": "Unken"
+    },
+    {
+      "id": 79334,
+      "name": "Unternberg"
+    },
+    {
+      "id": 79335,
+      "name": "Untertauern"
+    },
+    {
+      "id": 79336,
+      "name": "Uttendorf"
+    },
+    {
+      "id": 79337,
+      "name": "Viehhausen"
+    },
+    {
+      "id": 79338,
+      "name": "Viehhofen"
+    },
+    {
+      "id": 79339,
+      "name": "Vigaun"
+    },
+    {
+      "id": 79340,
+      "name": "Wagnergraben"
+    },
+    {
+      "id": 79341,
+      "name": "Wagrain"
+    },
+    {
+      "id": 79342,
+      "name": "Walchen"
+    },
+    {
+      "id": 79343,
+      "name": "Wald im Pinzgau"
+    },
+    {
+      "id": 79344,
+      "name": "Waldprechting"
+    },
+    {
+      "id": 79345,
+      "name": "Wals"
+    },
+    {
+      "id": 79346,
+      "name": "Walserfeld"
+    },
+    {
+      "id": 79347,
+      "name": "Werfen"
+    },
+    {
+      "id": 79348,
+      "name": "Werfenweng"
+    },
+    {
+      "id": 79349,
+      "name": "Zederhaus"
+    },
+    {
+      "id": 79350,
+      "name": "Zell am See"
+    }
+  ]
+}

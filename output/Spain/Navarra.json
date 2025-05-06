@@ -1,0 +1,1247 @@
+{
+  "id": 6543,
+  "name": "Navarra",
+  "state_code": "NA",
+  "cities": [
+    {
+      "id": 186683,
+      "name": "Abáigar"
+    },
+    {
+      "id": 186684,
+      "name": "Abárzuza/Abartzuza"
+    },
+    {
+      "id": 186685,
+      "name": "Abaurregaina/Abaurrea Alta"
+    },
+    {
+      "id": 186686,
+      "name": "Abaurrepea/Abaurrea Baja"
+    },
+    {
+      "id": 186687,
+      "name": "Aberin"
+    },
+    {
+      "id": 186688,
+      "name": "Ablitas"
+    },
+    {
+      "id": 186689,
+      "name": "Adiós"
+    },
+    {
+      "id": 186690,
+      "name": "Aguilar de Codés"
+    },
+    {
+      "id": 186691,
+      "name": "Aibar/Oibar"
+    },
+    {
+      "id": 186692,
+      "name": "Allín/Allin"
+    },
+    {
+      "id": 186693,
+      "name": "Allo"
+    },
+    {
+      "id": 186694,
+      "name": "Altsasu"
+    },
+    {
+      "id": 186695,
+      "name": "Altsasu/Alsasua"
+    },
+    {
+      "id": 186696,
+      "name": "Améscoa Baja"
+    },
+    {
+      "id": 186697,
+      "name": "Ancín"
+    },
+    {
+      "id": 186698,
+      "name": "Ancín/Antzin"
+    },
+    {
+      "id": 186699,
+      "name": "Andosilla"
+    },
+    {
+      "id": 186700,
+      "name": "Añorbe"
+    },
+    {
+      "id": 186701,
+      "name": "Ansoáin/Antsoain"
+    },
+    {
+      "id": 186702,
+      "name": "Anue"
+    },
+    {
+      "id": 186703,
+      "name": "Aoiz"
+    },
+    {
+      "id": 186704,
+      "name": "Aoiz/Agoitz"
+    },
+    {
+      "id": 186705,
+      "name": "Araitz"
+    },
+    {
+      "id": 186706,
+      "name": "Arakil"
+    },
+    {
+      "id": 186707,
+      "name": "Aranarache"
+    },
+    {
+      "id": 186708,
+      "name": "Aranarache/Aranaratxe"
+    },
+    {
+      "id": 186709,
+      "name": "Aranguren"
+    },
+    {
+      "id": 186710,
+      "name": "Arano"
+    },
+    {
+      "id": 186711,
+      "name": "Arantza"
+    },
+    {
+      "id": 186712,
+      "name": "Aras"
+    },
+    {
+      "id": 186713,
+      "name": "Arbizu"
+    },
+    {
+      "id": 186714,
+      "name": "Arce/Artzi"
+    },
+    {
+      "id": 186715,
+      "name": "Arcos Los"
+    },
+    {
+      "id": 186716,
+      "name": "Arellano"
+    },
+    {
+      "id": 186717,
+      "name": "Areso"
+    },
+    {
+      "id": 186718,
+      "name": "Arguedas"
+    },
+    {
+      "id": 186719,
+      "name": "Aria"
+    },
+    {
+      "id": 186720,
+      "name": "Aribe"
+    },
+    {
+      "id": 186721,
+      "name": "Armañanzas"
+    },
+    {
+      "id": 186722,
+      "name": "Arróniz"
+    },
+    {
+      "id": 186723,
+      "name": "Arruazu"
+    },
+    {
+      "id": 186724,
+      "name": "Artajona"
+    },
+    {
+      "id": 186725,
+      "name": "Artazu"
+    },
+    {
+      "id": 186726,
+      "name": "Atarrabia"
+    },
+    {
+      "id": 186727,
+      "name": "Atez"
+    },
+    {
+      "id": 186728,
+      "name": "Auritz/Burguete"
+    },
+    {
+      "id": 186729,
+      "name": "Ayegui"
+    },
+    {
+      "id": 186730,
+      "name": "Ayegui/Aiegi"
+    },
+    {
+      "id": 186731,
+      "name": "Azagra"
+    },
+    {
+      "id": 186732,
+      "name": "Azuelo"
+    },
+    {
+      "id": 186733,
+      "name": "Bakaiku"
+    },
+    {
+      "id": 186734,
+      "name": "Barañáin"
+    },
+    {
+      "id": 186735,
+      "name": "Barásoain"
+    },
+    {
+      "id": 186736,
+      "name": "Barbarin"
+    },
+    {
+      "id": 186737,
+      "name": "Bargota"
+    },
+    {
+      "id": 186738,
+      "name": "Barillas"
+    },
+    {
+      "id": 186739,
+      "name": "Basaburua"
+    },
+    {
+      "id": 186740,
+      "name": "Baztan"
+    },
+    {
+      "id": 186741,
+      "name": "Beintza-Labaien"
+    },
+    {
+      "id": 186742,
+      "name": "Beire"
+    },
+    {
+      "id": 186743,
+      "name": "Belascoáin"
+    },
+    {
+      "id": 186744,
+      "name": "Bera"
+    },
+    {
+      "id": 186745,
+      "name": "Berbinzana"
+    },
+    {
+      "id": 186746,
+      "name": "Beriáin"
+    },
+    {
+      "id": 186747,
+      "name": "Berriobeiti"
+    },
+    {
+      "id": 186748,
+      "name": "Berrioplano/Berriobeiti"
+    },
+    {
+      "id": 186749,
+      "name": "Berriozar"
+    },
+    {
+      "id": 186750,
+      "name": "Bertizarana"
+    },
+    {
+      "id": 186751,
+      "name": "Betelu"
+    },
+    {
+      "id": 186752,
+      "name": "Bidaurreta"
+    },
+    {
+      "id": 186753,
+      "name": "Biurrun-Olcoz"
+    },
+    {
+      "id": 186754,
+      "name": "Buñuel"
+    },
+    {
+      "id": 186755,
+      "name": "Burgui/Burgi"
+    },
+    {
+      "id": 186756,
+      "name": "Burlada/Burlata"
+    },
+    {
+      "id": 186757,
+      "name": "Burlata"
+    },
+    {
+      "id": 186758,
+      "name": "Busto El"
+    },
+    {
+      "id": 186759,
+      "name": "Cabanillas"
+    },
+    {
+      "id": 186760,
+      "name": "Cabredo"
+    },
+    {
+      "id": 186761,
+      "name": "Cadreita"
+    },
+    {
+      "id": 186762,
+      "name": "Caparroso"
+    },
+    {
+      "id": 186763,
+      "name": "Cárcar"
+    },
+    {
+      "id": 186764,
+      "name": "Carcastillo"
+    },
+    {
+      "id": 186765,
+      "name": "Cascante"
+    },
+    {
+      "id": 186766,
+      "name": "Cáseda"
+    },
+    {
+      "id": 186767,
+      "name": "Castejón"
+    },
+    {
+      "id": 186768,
+      "name": "Castillonuevo"
+    },
+    {
+      "id": 186769,
+      "name": "Cendea de Olza/Oltza Zendea"
+    },
+    {
+      "id": 186770,
+      "name": "Cintruénigo"
+    },
+    {
+      "id": 186771,
+      "name": "Cirauqui"
+    },
+    {
+      "id": 186772,
+      "name": "Cirauqui/Zirauki"
+    },
+    {
+      "id": 186773,
+      "name": "Ciriza"
+    },
+    {
+      "id": 186774,
+      "name": "Ciriza/Ziritza"
+    },
+    {
+      "id": 186775,
+      "name": "Cizur"
+    },
+    {
+      "id": 186776,
+      "name": "Cizur Mayor"
+    },
+    {
+      "id": 186777,
+      "name": "Corella"
+    },
+    {
+      "id": 186778,
+      "name": "Cortes"
+    },
+    {
+      "id": 186779,
+      "name": "Desojo"
+    },
+    {
+      "id": 186780,
+      "name": "Dicastillo"
+    },
+    {
+      "id": 186781,
+      "name": "Donamaria"
+    },
+    {
+      "id": 186782,
+      "name": "Doneztebe"
+    },
+    {
+      "id": 186783,
+      "name": "Doneztebe/Santesteban"
+    },
+    {
+      "id": 186784,
+      "name": "Echarri"
+    },
+    {
+      "id": 186785,
+      "name": "Echarri-Aranaz"
+    },
+    {
+      "id": 186786,
+      "name": "Egüés"
+    },
+    {
+      "id": 186787,
+      "name": "Elgorriaga"
+    },
+    {
+      "id": 186788,
+      "name": "Elorz"
+    },
+    {
+      "id": 186789,
+      "name": "Enériz"
+    },
+    {
+      "id": 186790,
+      "name": "Enériz/Eneritz"
+    },
+    {
+      "id": 186791,
+      "name": "Eratsun"
+    },
+    {
+      "id": 186792,
+      "name": "Ergoiena"
+    },
+    {
+      "id": 186793,
+      "name": "Ermitagaña"
+    },
+    {
+      "id": 186794,
+      "name": "Erro"
+    },
+    {
+      "id": 186795,
+      "name": "Eslava"
+    },
+    {
+      "id": 186796,
+      "name": "Esparza de Salazar/Espartza Zaraitzu"
+    },
+    {
+      "id": 186797,
+      "name": "Espronceda"
+    },
+    {
+      "id": 186798,
+      "name": "Estella-Lizarra"
+    },
+    {
+      "id": 186799,
+      "name": "Esteribar"
+    },
+    {
+      "id": 186800,
+      "name": "Etayo"
+    },
+    {
+      "id": 186801,
+      "name": "Etxalar"
+    },
+    {
+      "id": 186802,
+      "name": "Etxarri-Aranatz"
+    },
+    {
+      "id": 186803,
+      "name": "Etxauri"
+    },
+    {
+      "id": 186804,
+      "name": "Eulate"
+    },
+    {
+      "id": 186805,
+      "name": "Ezcabarte"
+    },
+    {
+      "id": 186806,
+      "name": "Ezcároz/Ezkaroze"
+    },
+    {
+      "id": 186807,
+      "name": "Ezkurra"
+    },
+    {
+      "id": 186808,
+      "name": "Ezprogui"
+    },
+    {
+      "id": 186809,
+      "name": "Falces"
+    },
+    {
+      "id": 186810,
+      "name": "Fitero"
+    },
+    {
+      "id": 186811,
+      "name": "Fontellas"
+    },
+    {
+      "id": 186812,
+      "name": "Funes"
+    },
+    {
+      "id": 186813,
+      "name": "Fustiñana"
+    },
+    {
+      "id": 186814,
+      "name": "Galar"
+    },
+    {
+      "id": 186815,
+      "name": "Gallipienzo"
+    },
+    {
+      "id": 186816,
+      "name": "Gallipienzo/Galipentzu"
+    },
+    {
+      "id": 186817,
+      "name": "Gallués/Galoze"
+    },
+    {
+      "id": 186818,
+      "name": "Garaioa"
+    },
+    {
+      "id": 186819,
+      "name": "Garde"
+    },
+    {
+      "id": 186820,
+      "name": "Garínoain"
+    },
+    {
+      "id": 186821,
+      "name": "Garralda"
+    },
+    {
+      "id": 186822,
+      "name": "Genevilla"
+    },
+    {
+      "id": 186823,
+      "name": "Goizueta"
+    },
+    {
+      "id": 186824,
+      "name": "Goñi"
+    },
+    {
+      "id": 186825,
+      "name": "Güesa/Gorza"
+    },
+    {
+      "id": 186826,
+      "name": "Guesálaz/Gesalatz"
+    },
+    {
+      "id": 186827,
+      "name": "Guirguillano"
+    },
+    {
+      "id": 186828,
+      "name": "Hiriberri/Villanueva de Aezkoa"
+    },
+    {
+      "id": 186829,
+      "name": "Huarte-Uharte"
+    },
+    {
+      "id": 186830,
+      "name": "Huarte/Uharte"
+    },
+    {
+      "id": 186831,
+      "name": "Ibargoiti"
+    },
+    {
+      "id": 186832,
+      "name": "Igantzi"
+    },
+    {
+      "id": 186833,
+      "name": "Igúzquiza"
+    },
+    {
+      "id": 186834,
+      "name": "Imotz"
+    },
+    {
+      "id": 186835,
+      "name": "Irañeta"
+    },
+    {
+      "id": 186836,
+      "name": "Irurtzun"
+    },
+    {
+      "id": 186837,
+      "name": "Isaba/Izaba"
+    },
+    {
+      "id": 186838,
+      "name": "Ituren"
+    },
+    {
+      "id": 186839,
+      "name": "Iturmendi"
+    },
+    {
+      "id": 186840,
+      "name": "Iturrama"
+    },
+    {
+      "id": 186841,
+      "name": "Iza/Itza"
+    },
+    {
+      "id": 186842,
+      "name": "Izagaondoa"
+    },
+    {
+      "id": 186843,
+      "name": "Izalzu/Itzaltzu"
+    },
+    {
+      "id": 186844,
+      "name": "Jaurrieta"
+    },
+    {
+      "id": 186845,
+      "name": "Javier"
+    },
+    {
+      "id": 186846,
+      "name": "Juslapeña"
+    },
+    {
+      "id": 186847,
+      "name": "Lakuntza"
+    },
+    {
+      "id": 186848,
+      "name": "Lana"
+    },
+    {
+      "id": 186849,
+      "name": "Lantz"
+    },
+    {
+      "id": 186850,
+      "name": "Lapoblación"
+    },
+    {
+      "id": 186851,
+      "name": "Larraga"
+    },
+    {
+      "id": 186852,
+      "name": "Larraona"
+    },
+    {
+      "id": 186853,
+      "name": "Larraun"
+    },
+    {
+      "id": 186854,
+      "name": "Lazagurría"
+    },
+    {
+      "id": 186855,
+      "name": "Leache"
+    },
+    {
+      "id": 186856,
+      "name": "Legarda"
+    },
+    {
+      "id": 186857,
+      "name": "Legaria"
+    },
+    {
+      "id": 186858,
+      "name": "Leitza"
+    },
+    {
+      "id": 186859,
+      "name": "Lekunberri"
+    },
+    {
+      "id": 186860,
+      "name": "Leoz/Leotz"
+    },
+    {
+      "id": 186861,
+      "name": "Lerga"
+    },
+    {
+      "id": 186862,
+      "name": "Lerín"
+    },
+    {
+      "id": 186863,
+      "name": "Lesaka"
+    },
+    {
+      "id": 186864,
+      "name": "Lezáun"
+    },
+    {
+      "id": 186865,
+      "name": "Liédena"
+    },
+    {
+      "id": 186866,
+      "name": "Lizoáin"
+    },
+    {
+      "id": 186867,
+      "name": "Lizoáin-Arriasgoiti"
+    },
+    {
+      "id": 186868,
+      "name": "Lodosa"
+    },
+    {
+      "id": 186869,
+      "name": "Lónguida/Longida"
+    },
+    {
+      "id": 186870,
+      "name": "Los Arcos"
+    },
+    {
+      "id": 186871,
+      "name": "Lumbier"
+    },
+    {
+      "id": 186872,
+      "name": "Luquin"
+    },
+    {
+      "id": 186873,
+      "name": "Luzaide/Valcarlos"
+    },
+    {
+      "id": 186874,
+      "name": "Mañeru"
+    },
+    {
+      "id": 186875,
+      "name": "Marañón"
+    },
+    {
+      "id": 186876,
+      "name": "Marcilla"
+    },
+    {
+      "id": 186877,
+      "name": "Mélida"
+    },
+    {
+      "id": 186878,
+      "name": "Mendavia"
+    },
+    {
+      "id": 186879,
+      "name": "Mendaza"
+    },
+    {
+      "id": 186880,
+      "name": "Mendigorría"
+    },
+    {
+      "id": 186881,
+      "name": "Metauten"
+    },
+    {
+      "id": 186882,
+      "name": "Milagro"
+    },
+    {
+      "id": 186883,
+      "name": "Mirafuentes"
+    },
+    {
+      "id": 186884,
+      "name": "Miranda de Arga"
+    },
+    {
+      "id": 186885,
+      "name": "Monreal"
+    },
+    {
+      "id": 186886,
+      "name": "Monreal/Elo"
+    },
+    {
+      "id": 186887,
+      "name": "Monteagudo"
+    },
+    {
+      "id": 186888,
+      "name": "Morentin"
+    },
+    {
+      "id": 186889,
+      "name": "Mues"
+    },
+    {
+      "id": 186890,
+      "name": "Murchante"
+    },
+    {
+      "id": 186891,
+      "name": "Murieta"
+    },
+    {
+      "id": 186892,
+      "name": "Murillo el Cuende"
+    },
+    {
+      "id": 186893,
+      "name": "Murillo el Fruto"
+    },
+    {
+      "id": 186894,
+      "name": "Muruzábal"
+    },
+    {
+      "id": 186895,
+      "name": "Navascués"
+    },
+    {
+      "id": 186896,
+      "name": "Navascués/Nabaskoze"
+    },
+    {
+      "id": 186897,
+      "name": "Nazar"
+    },
+    {
+      "id": 186898,
+      "name": "Noáin (Valle de Elorz)/Noain (Elortzibar)"
+    },
+    {
+      "id": 186899,
+      "name": "Obanos"
+    },
+    {
+      "id": 186900,
+      "name": "Ochagavía/Otsagabia"
+    },
+    {
+      "id": 186901,
+      "name": "Oco"
+    },
+    {
+      "id": 186902,
+      "name": "Odieta"
+    },
+    {
+      "id": 186903,
+      "name": "Oitz"
+    },
+    {
+      "id": 186904,
+      "name": "Olaibar"
+    },
+    {
+      "id": 186905,
+      "name": "Olazagutía"
+    },
+    {
+      "id": 186906,
+      "name": "Olazti/Olazagutía"
+    },
+    {
+      "id": 186907,
+      "name": "Olejua"
+    },
+    {
+      "id": 186908,
+      "name": "Olite"
+    },
+    {
+      "id": 186909,
+      "name": "Olite/Erriberri"
+    },
+    {
+      "id": 186910,
+      "name": "Ollo"
+    },
+    {
+      "id": 186911,
+      "name": "Olóriz"
+    },
+    {
+      "id": 186912,
+      "name": "Olóriz/Oloritz"
+    },
+    {
+      "id": 186913,
+      "name": "Oltza"
+    },
+    {
+      "id": 186914,
+      "name": "Orbaizeta"
+    },
+    {
+      "id": 186915,
+      "name": "Orbara"
+    },
+    {
+      "id": 186916,
+      "name": "Orísoain"
+    },
+    {
+      "id": 186917,
+      "name": "Orkoien"
+    },
+    {
+      "id": 186918,
+      "name": "Oronz"
+    },
+    {
+      "id": 186919,
+      "name": "Oronz/Orontze"
+    },
+    {
+      "id": 186920,
+      "name": "Oroz-Betelu/Orotz-Betelu"
+    },
+    {
+      "id": 186921,
+      "name": "Orreaga/Roncesvalles"
+    },
+    {
+      "id": 186922,
+      "name": "Oteiza"
+    },
+    {
+      "id": 186923,
+      "name": "Pamplona"
+    },
+    {
+      "id": 186924,
+      "name": "Pamplona/Iruña"
+    },
+    {
+      "id": 186925,
+      "name": "Peralta"
+    },
+    {
+      "id": 186926,
+      "name": "Peralta/Azkoien"
+    },
+    {
+      "id": 186927,
+      "name": "Petilla de Aragón"
+    },
+    {
+      "id": 186928,
+      "name": "Piedramillera"
+    },
+    {
+      "id": 186929,
+      "name": "Pitillas"
+    },
+    {
+      "id": 186930,
+      "name": "Primer Ensanche"
+    },
+    {
+      "id": 186931,
+      "name": "Provincia de Navarra"
+    },
+    {
+      "id": 186932,
+      "name": "Puente la Reina"
+    },
+    {
+      "id": 186933,
+      "name": "Puente la Reina/Gares"
+    },
+    {
+      "id": 186934,
+      "name": "Pueyo"
+    },
+    {
+      "id": 186935,
+      "name": "Ribaforada"
+    },
+    {
+      "id": 186936,
+      "name": "Romanzado"
+    },
+    {
+      "id": 186937,
+      "name": "Roncal/Erronkari"
+    },
+    {
+      "id": 186938,
+      "name": "Saldías"
+    },
+    {
+      "id": 186939,
+      "name": "Salinas de Oro"
+    },
+    {
+      "id": 186940,
+      "name": "Salinas de Oro/Jaitz"
+    },
+    {
+      "id": 186941,
+      "name": "San Adrián"
+    },
+    {
+      "id": 186942,
+      "name": "San Martín de Unx"
+    },
+    {
+      "id": 186943,
+      "name": "Sangüesa/Zangoza"
+    },
+    {
+      "id": 186944,
+      "name": "Sansol"
+    },
+    {
+      "id": 186945,
+      "name": "Santacara"
+    },
+    {
+      "id": 186946,
+      "name": "Sarriés/Sartze"
+    },
+    {
+      "id": 186947,
+      "name": "Sarriguren"
+    },
+    {
+      "id": 186948,
+      "name": "Sartaguda"
+    },
+    {
+      "id": 186949,
+      "name": "Segundo Ensanche"
+    },
+    {
+      "id": 186950,
+      "name": "Sesma"
+    },
+    {
+      "id": 186951,
+      "name": "Sorlada"
+    },
+    {
+      "id": 186952,
+      "name": "Sunbilla"
+    },
+    {
+      "id": 186953,
+      "name": "Tafalla"
+    },
+    {
+      "id": 186954,
+      "name": "Tiebas-Muruarte de Reta"
+    },
+    {
+      "id": 186955,
+      "name": "Tirapu"
+    },
+    {
+      "id": 186956,
+      "name": "Torralba del Río"
+    },
+    {
+      "id": 186957,
+      "name": "Torres del Río"
+    },
+    {
+      "id": 186958,
+      "name": "Tudela"
+    },
+    {
+      "id": 186959,
+      "name": "Tulebras"
+    },
+    {
+      "id": 186960,
+      "name": "Ucar"
+    },
+    {
+      "id": 186961,
+      "name": "Uharte-Arakil"
+    },
+    {
+      "id": 186962,
+      "name": "Ujué"
+    },
+    {
+      "id": 186963,
+      "name": "Ultzama"
+    },
+    {
+      "id": 186964,
+      "name": "Unciti"
+    },
+    {
+      "id": 186965,
+      "name": "Unzué"
+    },
+    {
+      "id": 186966,
+      "name": "Unzué/Untzue"
+    },
+    {
+      "id": 186967,
+      "name": "Urdazubi/Urdax"
+    },
+    {
+      "id": 186968,
+      "name": "Urdiain"
+    },
+    {
+      "id": 186969,
+      "name": "Urraul Alto"
+    },
+    {
+      "id": 186970,
+      "name": "Urraul Bajo"
+    },
+    {
+      "id": 186971,
+      "name": "Urrotz"
+    },
+    {
+      "id": 186972,
+      "name": "Urroz-Villa"
+    },
+    {
+      "id": 186973,
+      "name": "Urzainqui"
+    },
+    {
+      "id": 186974,
+      "name": "Urzainqui/Urzainki"
+    },
+    {
+      "id": 186975,
+      "name": "Uterga"
+    },
+    {
+      "id": 186976,
+      "name": "Uztárroz/Uztarroze"
+    },
+    {
+      "id": 186977,
+      "name": "Valle de Yerri/Deierri"
+    },
+    {
+      "id": 186978,
+      "name": "Valtierra"
+    },
+    {
+      "id": 186979,
+      "name": "Viana"
+    },
+    {
+      "id": 186980,
+      "name": "Vidángoz/Bidankoze"
+    },
+    {
+      "id": 186981,
+      "name": "Villafranca"
+    },
+    {
+      "id": 186982,
+      "name": "Villamayor de Monjardín"
+    },
+    {
+      "id": 186983,
+      "name": "Villatuerta"
+    },
+    {
+      "id": 186984,
+      "name": "Villava/Atarrabia"
+    },
+    {
+      "id": 186985,
+      "name": "Yerri"
+    },
+    {
+      "id": 186986,
+      "name": "Yesa"
+    },
+    {
+      "id": 186987,
+      "name": "Zabalza/Zabaltza"
+    },
+    {
+      "id": 186988,
+      "name": "Ziordia"
+    },
+    {
+      "id": 186989,
+      "name": "Zizur Mayor/Zizur Nagusia"
+    },
+    {
+      "id": 186990,
+      "name": "Zubieta"
+    },
+    {
+      "id": 186991,
+      "name": "Zugarramurdi"
+    },
+    {
+      "id": 186992,
+      "name": "Zúñiga"
+    }
+  ]
+}

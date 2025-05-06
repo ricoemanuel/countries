@@ -1,0 +1,771 @@
+{
+  "id": 6545,
+  "name": "Palencia",
+  "state_code": "P",
+  "cities": [
+    {
+      "id": 187090,
+      "name": "Abarca de Campos"
+    },
+    {
+      "id": 187091,
+      "name": "Abia de las Torres"
+    },
+    {
+      "id": 187092,
+      "name": "Aguilar de Campoo"
+    },
+    {
+      "id": 187093,
+      "name": "Alar del Rey"
+    },
+    {
+      "id": 187094,
+      "name": "Alba de Cerrato"
+    },
+    {
+      "id": 187095,
+      "name": "Amayuelas de Arriba"
+    },
+    {
+      "id": 187096,
+      "name": "Ampudia"
+    },
+    {
+      "id": 187097,
+      "name": "Amusco"
+    },
+    {
+      "id": 187098,
+      "name": "Antigüedad"
+    },
+    {
+      "id": 187099,
+      "name": "Arconada"
+    },
+    {
+      "id": 187100,
+      "name": "Astudillo"
+    },
+    {
+      "id": 187101,
+      "name": "Autilla del Pino"
+    },
+    {
+      "id": 187102,
+      "name": "Autillo de Campos"
+    },
+    {
+      "id": 187103,
+      "name": "Ayuela"
+    },
+    {
+      "id": 187104,
+      "name": "Baltanás"
+    },
+    {
+      "id": 187105,
+      "name": "Baquerín de Campos"
+    },
+    {
+      "id": 187106,
+      "name": "Bárcena de Campos"
+    },
+    {
+      "id": 187107,
+      "name": "Barruelo de Santullán"
+    },
+    {
+      "id": 187108,
+      "name": "Báscones de Ojeda"
+    },
+    {
+      "id": 187109,
+      "name": "Becerril de Campos"
+    },
+    {
+      "id": 187110,
+      "name": "Belmonte de Campos"
+    },
+    {
+      "id": 187111,
+      "name": "Berzosilla"
+    },
+    {
+      "id": 187112,
+      "name": "Boada de Campos"
+    },
+    {
+      "id": 187113,
+      "name": "Boadilla de Rioseco"
+    },
+    {
+      "id": 187114,
+      "name": "Boadilla del Camino"
+    },
+    {
+      "id": 187115,
+      "name": "Brañosera"
+    },
+    {
+      "id": 187116,
+      "name": "Buenavista de Valdavia"
+    },
+    {
+      "id": 187117,
+      "name": "Bustillo de la Vega"
+    },
+    {
+      "id": 187118,
+      "name": "Bustillo del Páramo de Carrión"
+    },
+    {
+      "id": 187119,
+      "name": "Calahorra de Boedo"
+    },
+    {
+      "id": 187120,
+      "name": "Calzada de los Molinos"
+    },
+    {
+      "id": 187121,
+      "name": "Capillas"
+    },
+    {
+      "id": 187122,
+      "name": "Cardeñosa de Volpejera"
+    },
+    {
+      "id": 187123,
+      "name": "Carrión de los Condes"
+    },
+    {
+      "id": 187124,
+      "name": "Castil de Vela"
+    },
+    {
+      "id": 187125,
+      "name": "Castrejón de la Peña"
+    },
+    {
+      "id": 187126,
+      "name": "Castrillo de Don Juan"
+    },
+    {
+      "id": 187127,
+      "name": "Castrillo de Onielo"
+    },
+    {
+      "id": 187128,
+      "name": "Castrillo de Villavega"
+    },
+    {
+      "id": 187129,
+      "name": "Castromocho"
+    },
+    {
+      "id": 187130,
+      "name": "Cervatos de la Cueza"
+    },
+    {
+      "id": 187131,
+      "name": "Cervera de Pisuerga"
+    },
+    {
+      "id": 187132,
+      "name": "Cevico de la Torre"
+    },
+    {
+      "id": 187133,
+      "name": "Cevico Navero"
+    },
+    {
+      "id": 187134,
+      "name": "Cisneros"
+    },
+    {
+      "id": 187135,
+      "name": "Cobos de Cerrato"
+    },
+    {
+      "id": 187136,
+      "name": "Collazos de Boedo"
+    },
+    {
+      "id": 187137,
+      "name": "Congosto de Valdavia"
+    },
+    {
+      "id": 187138,
+      "name": "Cordovilla la Real"
+    },
+    {
+      "id": 187139,
+      "name": "Cubillas de Cerrato"
+    },
+    {
+      "id": 187140,
+      "name": "Dehesa de Montejo"
+    },
+    {
+      "id": 187141,
+      "name": "Dehesa de Romanos"
+    },
+    {
+      "id": 187142,
+      "name": "Dueñas"
+    },
+    {
+      "id": 187143,
+      "name": "Espinosa de Cerrato"
+    },
+    {
+      "id": 187144,
+      "name": "Espinosa de Villagonzalo"
+    },
+    {
+      "id": 187145,
+      "name": "Frechilla"
+    },
+    {
+      "id": 187146,
+      "name": "Fresno del Río"
+    },
+    {
+      "id": 187147,
+      "name": "Frómista"
+    },
+    {
+      "id": 187148,
+      "name": "Fuentes de Nava"
+    },
+    {
+      "id": 187149,
+      "name": "Fuentes de Valdepero"
+    },
+    {
+      "id": 187150,
+      "name": "Grijota"
+    },
+    {
+      "id": 187151,
+      "name": "Guardo"
+    },
+    {
+      "id": 187152,
+      "name": "Guaza de Campos"
+    },
+    {
+      "id": 187153,
+      "name": "Hérmedes de Cerrato"
+    },
+    {
+      "id": 187154,
+      "name": "Herrera de Pisuerga"
+    },
+    {
+      "id": 187155,
+      "name": "Herrera de Valdecañas"
+    },
+    {
+      "id": 187156,
+      "name": "Hontoria de Cerrato"
+    },
+    {
+      "id": 187157,
+      "name": "Hornillos de Cerrato"
+    },
+    {
+      "id": 187158,
+      "name": "Husillos"
+    },
+    {
+      "id": 187159,
+      "name": "Itero de la Vega"
+    },
+    {
+      "id": 187160,
+      "name": "Lagartos"
+    },
+    {
+      "id": 187161,
+      "name": "Lantadilla"
+    },
+    {
+      "id": 187162,
+      "name": "Ledigos"
+    },
+    {
+      "id": 187163,
+      "name": "Loma de Ucieza"
+    },
+    {
+      "id": 187164,
+      "name": "Lomas"
+    },
+    {
+      "id": 187165,
+      "name": "Magaz de Pisuerga"
+    },
+    {
+      "id": 187166,
+      "name": "Manquillos"
+    },
+    {
+      "id": 187167,
+      "name": "Mantinos"
+    },
+    {
+      "id": 187168,
+      "name": "Marcilla de Campos"
+    },
+    {
+      "id": 187169,
+      "name": "Mazariegos"
+    },
+    {
+      "id": 187170,
+      "name": "Mazuecos de Valdeginate"
+    },
+    {
+      "id": 187171,
+      "name": "Melgar de Yuso"
+    },
+    {
+      "id": 187172,
+      "name": "Meneses de Campos"
+    },
+    {
+      "id": 187173,
+      "name": "Micieces de Ojeda"
+    },
+    {
+      "id": 187174,
+      "name": "Monzón de Campos"
+    },
+    {
+      "id": 187175,
+      "name": "Moratinos"
+    },
+    {
+      "id": 187176,
+      "name": "Mudá"
+    },
+    {
+      "id": 187177,
+      "name": "Nogal de las Huertas"
+    },
+    {
+      "id": 187178,
+      "name": "Olea de Boedo"
+    },
+    {
+      "id": 187179,
+      "name": "Olmos de Ojeda"
+    },
+    {
+      "id": 187180,
+      "name": "Osornillo"
+    },
+    {
+      "id": 187181,
+      "name": "Osorno la Mayor"
+    },
+    {
+      "id": 187182,
+      "name": "Palencia"
+    },
+    {
+      "id": 187183,
+      "name": "Palenzuela"
+    },
+    {
+      "id": 187184,
+      "name": "Páramo de Boedo"
+    },
+    {
+      "id": 187185,
+      "name": "Paredes de Nava"
+    },
+    {
+      "id": 187186,
+      "name": "Payo de Ojeda"
+    },
+    {
+      "id": 187187,
+      "name": "Pedraza de Campos"
+    },
+    {
+      "id": 187188,
+      "name": "Pedrosa de la Vega"
+    },
+    {
+      "id": 187189,
+      "name": "Perales"
+    },
+    {
+      "id": 187190,
+      "name": "Pernía La"
+    },
+    {
+      "id": 187191,
+      "name": "Piña de Campos"
+    },
+    {
+      "id": 187192,
+      "name": "Pino del Río"
+    },
+    {
+      "id": 187193,
+      "name": "Población de Arroyo"
+    },
+    {
+      "id": 187194,
+      "name": "Población de Campos"
+    },
+    {
+      "id": 187195,
+      "name": "Población de Cerrato"
+    },
+    {
+      "id": 187196,
+      "name": "Polentinos"
+    },
+    {
+      "id": 187197,
+      "name": "Pomar de Valdivia"
+    },
+    {
+      "id": 187198,
+      "name": "Poza de la Vega"
+    },
+    {
+      "id": 187199,
+      "name": "Pozo de Urama"
+    },
+    {
+      "id": 187200,
+      "name": "Prádanos de Ojeda"
+    },
+    {
+      "id": 187201,
+      "name": "Puebla de Valdavia La"
+    },
+    {
+      "id": 187202,
+      "name": "Quintana del Puente"
+    },
+    {
+      "id": 187203,
+      "name": "Quintanilla de Onsoña"
+    },
+    {
+      "id": 187204,
+      "name": "Reinoso de Cerrato"
+    },
+    {
+      "id": 187205,
+      "name": "Renedo de la Vega"
+    },
+    {
+      "id": 187206,
+      "name": "Requena de Campos"
+    },
+    {
+      "id": 187207,
+      "name": "Respenda de la Peña"
+    },
+    {
+      "id": 187208,
+      "name": "Revenga de Campos"
+    },
+    {
+      "id": 187209,
+      "name": "Revilla de Collazos"
+    },
+    {
+      "id": 187210,
+      "name": "Ribas de Campos"
+    },
+    {
+      "id": 187211,
+      "name": "Riberos de la Cueza"
+    },
+    {
+      "id": 187212,
+      "name": "Saldaña"
+    },
+    {
+      "id": 187213,
+      "name": "Salinas de Pisuerga"
+    },
+    {
+      "id": 187214,
+      "name": "San Cebrián de Campos"
+    },
+    {
+      "id": 187215,
+      "name": "San Cebrián de Mudá"
+    },
+    {
+      "id": 187216,
+      "name": "San Cristóbal de Boedo"
+    },
+    {
+      "id": 187217,
+      "name": "San Mamés de Campos"
+    },
+    {
+      "id": 187218,
+      "name": "San Román de la Cuba"
+    },
+    {
+      "id": 187219,
+      "name": "Santa Cecilia del Alcor"
+    },
+    {
+      "id": 187220,
+      "name": "Santa Cruz de Boedo"
+    },
+    {
+      "id": 187221,
+      "name": "Santervás de la Vega"
+    },
+    {
+      "id": 187222,
+      "name": "Santibáñez de Ecla"
+    },
+    {
+      "id": 187223,
+      "name": "Santibáñez de la Peña"
+    },
+    {
+      "id": 187224,
+      "name": "Santoyo"
+    },
+    {
+      "id": 187225,
+      "name": "Serna La"
+    },
+    {
+      "id": 187226,
+      "name": "Soto de Cerrato"
+    },
+    {
+      "id": 187227,
+      "name": "Sotobañado y Priorato"
+    },
+    {
+      "id": 187228,
+      "name": "Tabanera de Cerrato"
+    },
+    {
+      "id": 187229,
+      "name": "Tabanera de Valdavia"
+    },
+    {
+      "id": 187230,
+      "name": "Támara de Campos"
+    },
+    {
+      "id": 187231,
+      "name": "Tariego de Cerrato"
+    },
+    {
+      "id": 187232,
+      "name": "Torquemada"
+    },
+    {
+      "id": 187233,
+      "name": "Torremormojón"
+    },
+    {
+      "id": 187234,
+      "name": "Triollo"
+    },
+    {
+      "id": 187235,
+      "name": "Valbuena de Pisuerga"
+    },
+    {
+      "id": 187236,
+      "name": "Valde-Ucieza"
+    },
+    {
+      "id": 187237,
+      "name": "Valdeolmillos"
+    },
+    {
+      "id": 187238,
+      "name": "Valderrábano"
+    },
+    {
+      "id": 187239,
+      "name": "Valle de Cerrato"
+    },
+    {
+      "id": 187240,
+      "name": "Valle del Retortillo"
+    },
+    {
+      "id": 187241,
+      "name": "Velilla del Río Carrión"
+    },
+    {
+      "id": 187242,
+      "name": "Venta de Baños"
+    },
+    {
+      "id": 187243,
+      "name": "Vertavillo"
+    },
+    {
+      "id": 187244,
+      "name": "Vid de Ojeda La"
+    },
+    {
+      "id": 187245,
+      "name": "Villabasta de Valdavia"
+    },
+    {
+      "id": 187246,
+      "name": "Villacidaler"
+    },
+    {
+      "id": 187247,
+      "name": "Villaconancio"
+    },
+    {
+      "id": 187248,
+      "name": "Villada"
+    },
+    {
+      "id": 187249,
+      "name": "Villaeles de Valdavia"
+    },
+    {
+      "id": 187250,
+      "name": "Villahán"
+    },
+    {
+      "id": 187251,
+      "name": "Villaherreros"
+    },
+    {
+      "id": 187252,
+      "name": "Villalaco"
+    },
+    {
+      "id": 187253,
+      "name": "Villalba de Guardo"
+    },
+    {
+      "id": 187254,
+      "name": "Villalcázar de Sirga"
+    },
+    {
+      "id": 187255,
+      "name": "Villalcón"
+    },
+    {
+      "id": 187256,
+      "name": "Villalobón"
+    },
+    {
+      "id": 187257,
+      "name": "Villaluenga de la Vega"
+    },
+    {
+      "id": 187258,
+      "name": "Villamartín de Campos"
+    },
+    {
+      "id": 187259,
+      "name": "Villamediana"
+    },
+    {
+      "id": 187260,
+      "name": "Villameriel"
+    },
+    {
+      "id": 187261,
+      "name": "Villamoronta"
+    },
+    {
+      "id": 187262,
+      "name": "Villamuera de la Cueza"
+    },
+    {
+      "id": 187263,
+      "name": "Villamuriel de Cerrato"
+    },
+    {
+      "id": 187264,
+      "name": "Villanueva del Rebollar"
+    },
+    {
+      "id": 187265,
+      "name": "Villanuño de Valdavia"
+    },
+    {
+      "id": 187266,
+      "name": "Villaprovedo"
+    },
+    {
+      "id": 187267,
+      "name": "Villarmentero de Campos"
+    },
+    {
+      "id": 187268,
+      "name": "Villarrabé"
+    },
+    {
+      "id": 187269,
+      "name": "Villarramiel"
+    },
+    {
+      "id": 187270,
+      "name": "Villasarracino"
+    },
+    {
+      "id": 187271,
+      "name": "Villasila de Valdavia"
+    },
+    {
+      "id": 187272,
+      "name": "Villaturde"
+    },
+    {
+      "id": 187273,
+      "name": "Villaumbrales"
+    },
+    {
+      "id": 187274,
+      "name": "Villaviudas"
+    },
+    {
+      "id": 187275,
+      "name": "Villerías de Campos"
+    },
+    {
+      "id": 187276,
+      "name": "Villodre"
+    },
+    {
+      "id": 187277,
+      "name": "Villodrigo"
+    },
+    {
+      "id": 187278,
+      "name": "Villoldo"
+    },
+    {
+      "id": 187279,
+      "name": "Villota del Páramo"
+    },
+    {
+      "id": 187280,
+      "name": "Villovieco"
+    }
+  ]
+}

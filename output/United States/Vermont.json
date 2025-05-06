@@ -1,0 +1,391 @@
+{
+  "id": 7486,
+  "name": "Vermont",
+  "state_code": "VT",
+  "cities": [
+    {
+      "id": 219701,
+      "name": "Addison"
+    },
+    {
+      "id": 219702,
+      "name": "Addison County"
+    },
+    {
+      "id": 219703,
+      "name": "Arlington"
+    },
+    {
+      "id": 219704,
+      "name": "Barre"
+    },
+    {
+      "id": 219705,
+      "name": "Bellows Falls"
+    },
+    {
+      "id": 219706,
+      "name": "Bennington"
+    },
+    {
+      "id": 219707,
+      "name": "Bennington County"
+    },
+    {
+      "id": 219708,
+      "name": "Brandon"
+    },
+    {
+      "id": 219709,
+      "name": "Brattleboro"
+    },
+    {
+      "id": 219710,
+      "name": "Bridport"
+    },
+    {
+      "id": 219711,
+      "name": "Bristol"
+    },
+    {
+      "id": 219712,
+      "name": "Burlington"
+    },
+    {
+      "id": 219713,
+      "name": "Caledonia County"
+    },
+    {
+      "id": 219714,
+      "name": "Castleton"
+    },
+    {
+      "id": 219715,
+      "name": "Charlotte"
+    },
+    {
+      "id": 219716,
+      "name": "Chelsea"
+    },
+    {
+      "id": 219717,
+      "name": "Chester"
+    },
+    {
+      "id": 219718,
+      "name": "Chittenden"
+    },
+    {
+      "id": 219719,
+      "name": "Chittenden County"
+    },
+    {
+      "id": 219720,
+      "name": "Clarendon"
+    },
+    {
+      "id": 219721,
+      "name": "Colchester"
+    },
+    {
+      "id": 219722,
+      "name": "Danby"
+    },
+    {
+      "id": 219723,
+      "name": "Dover"
+    },
+    {
+      "id": 219724,
+      "name": "Enosburg Falls"
+    },
+    {
+      "id": 219725,
+      "name": "Essex County"
+    },
+    {
+      "id": 219726,
+      "name": "Essex Junction"
+    },
+    {
+      "id": 219727,
+      "name": "Fair Haven"
+    },
+    {
+      "id": 219728,
+      "name": "Ferrisburgh"
+    },
+    {
+      "id": 219729,
+      "name": "Franklin County"
+    },
+    {
+      "id": 219730,
+      "name": "Grand Isle County"
+    },
+    {
+      "id": 219731,
+      "name": "Guildhall"
+    },
+    {
+      "id": 219732,
+      "name": "Hardwick"
+    },
+    {
+      "id": 219733,
+      "name": "Hartford"
+    },
+    {
+      "id": 219734,
+      "name": "Hinesburg"
+    },
+    {
+      "id": 219735,
+      "name": "Hyde Park"
+    },
+    {
+      "id": 219736,
+      "name": "Jamaica"
+    },
+    {
+      "id": 219737,
+      "name": "Jericho"
+    },
+    {
+      "id": 219738,
+      "name": "Johnson"
+    },
+    {
+      "id": 219739,
+      "name": "Lamoille County"
+    },
+    {
+      "id": 219740,
+      "name": "Leicester"
+    },
+    {
+      "id": 219741,
+      "name": "Lincoln"
+    },
+    {
+      "id": 219742,
+      "name": "Londonderry"
+    },
+    {
+      "id": 219743,
+      "name": "Lunenburg"
+    },
+    {
+      "id": 219744,
+      "name": "Lyndon"
+    },
+    {
+      "id": 219745,
+      "name": "Lyndonville"
+    },
+    {
+      "id": 219746,
+      "name": "Manchester Center"
+    },
+    {
+      "id": 219747,
+      "name": "Mendon"
+    },
+    {
+      "id": 219748,
+      "name": "Middlebury (village)"
+    },
+    {
+      "id": 219749,
+      "name": "Milton"
+    },
+    {
+      "id": 219750,
+      "name": "Montgomery"
+    },
+    {
+      "id": 219751,
+      "name": "Montpelier"
+    },
+    {
+      "id": 219752,
+      "name": "Moretown"
+    },
+    {
+      "id": 219753,
+      "name": "Morristown"
+    },
+    {
+      "id": 219754,
+      "name": "Morrisville"
+    },
+    {
+      "id": 219755,
+      "name": "Mount Holly"
+    },
+    {
+      "id": 219756,
+      "name": "Newfane"
+    },
+    {
+      "id": 219757,
+      "name": "Newport"
+    },
+    {
+      "id": 219758,
+      "name": "North Bennington"
+    },
+    {
+      "id": 219759,
+      "name": "North Hero"
+    },
+    {
+      "id": 219760,
+      "name": "Northfield"
+    },
+    {
+      "id": 219761,
+      "name": "Orange County"
+    },
+    {
+      "id": 219762,
+      "name": "Orleans County"
+    },
+    {
+      "id": 219763,
+      "name": "Pawlet"
+    },
+    {
+      "id": 219764,
+      "name": "Poultney"
+    },
+    {
+      "id": 219765,
+      "name": "Pownal"
+    },
+    {
+      "id": 219766,
+      "name": "Randolph"
+    },
+    {
+      "id": 219767,
+      "name": "Richford"
+    },
+    {
+      "id": 219768,
+      "name": "Rockingham"
+    },
+    {
+      "id": 219769,
+      "name": "Rutland"
+    },
+    {
+      "id": 219770,
+      "name": "Rutland County"
+    },
+    {
+      "id": 219771,
+      "name": "Saint Albans"
+    },
+    {
+      "id": 219772,
+      "name": "Saint Johnsbury"
+    },
+    {
+      "id": 219773,
+      "name": "Salisbury"
+    },
+    {
+      "id": 219774,
+      "name": "South Barre"
+    },
+    {
+      "id": 219775,
+      "name": "South Burlington"
+    },
+    {
+      "id": 219776,
+      "name": "Springfield"
+    },
+    {
+      "id": 219777,
+      "name": "St Johnsbury"
+    },
+    {
+      "id": 219778,
+      "name": "Starksboro"
+    },
+    {
+      "id": 219779,
+      "name": "Stowe"
+    },
+    {
+      "id": 219780,
+      "name": "Swanton"
+    },
+    {
+      "id": 219781,
+      "name": "Townshend"
+    },
+    {
+      "id": 219782,
+      "name": "Vergennes"
+    },
+    {
+      "id": 219783,
+      "name": "Washington"
+    },
+    {
+      "id": 219784,
+      "name": "Washington County"
+    },
+    {
+      "id": 219785,
+      "name": "Waterbury"
+    },
+    {
+      "id": 219786,
+      "name": "West Brattleboro"
+    },
+    {
+      "id": 219787,
+      "name": "West Rutland"
+    },
+    {
+      "id": 219788,
+      "name": "White River Junction"
+    },
+    {
+      "id": 219789,
+      "name": "Wilder"
+    },
+    {
+      "id": 219790,
+      "name": "Williamstown"
+    },
+    {
+      "id": 219791,
+      "name": "Williston"
+    },
+    {
+      "id": 219792,
+      "name": "Windham County"
+    },
+    {
+      "id": 219793,
+      "name": "Windsor"
+    },
+    {
+      "id": 219794,
+      "name": "Windsor County"
+    },
+    {
+      "id": 219795,
+      "name": "Winooski"
+    },
+    {
+      "id": 219796,
+      "name": "Woodstock"
+    }
+  ]
+}

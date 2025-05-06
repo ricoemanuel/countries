@@ -1,0 +1,383 @@
+{
+  "id": 4182,
+  "name": "Szabolcs-Szatmár-Bereg County",
+  "state_code": "SZ",
+  "cities": [
+    {
+      "id": 116803,
+      "name": "Ajak"
+    },
+    {
+      "id": 116804,
+      "name": "Anarcs"
+    },
+    {
+      "id": 116805,
+      "name": "Apagy"
+    },
+    {
+      "id": 116806,
+      "name": "Aranyosapáti"
+    },
+    {
+      "id": 116807,
+      "name": "Baktalórántháza"
+    },
+    {
+      "id": 116808,
+      "name": "Baktalórántházai Járás"
+    },
+    {
+      "id": 116809,
+      "name": "Balkány"
+    },
+    {
+      "id": 116810,
+      "name": "Bököny"
+    },
+    {
+      "id": 116811,
+      "name": "Buj"
+    },
+    {
+      "id": 116812,
+      "name": "Csenger"
+    },
+    {
+      "id": 116813,
+      "name": "Csengeri Járás"
+    },
+    {
+      "id": 116814,
+      "name": "Demecser"
+    },
+    {
+      "id": 116815,
+      "name": "Döge"
+    },
+    {
+      "id": 116816,
+      "name": "Dombrád"
+    },
+    {
+      "id": 116817,
+      "name": "Encsencs"
+    },
+    {
+      "id": 116818,
+      "name": "Fehérgyarmat"
+    },
+    {
+      "id": 116819,
+      "name": "Fehérgyarmati Járás"
+    },
+    {
+      "id": 116820,
+      "name": "Fényeslitke"
+    },
+    {
+      "id": 116821,
+      "name": "Gégény"
+    },
+    {
+      "id": 116822,
+      "name": "Gyulaháza"
+    },
+    {
+      "id": 116823,
+      "name": "Hodász"
+    },
+    {
+      "id": 116824,
+      "name": "Ibrány"
+    },
+    {
+      "id": 116825,
+      "name": "Ibrányi Járás"
+    },
+    {
+      "id": 116826,
+      "name": "Kállósemjén"
+    },
+    {
+      "id": 116827,
+      "name": "Kálmánháza"
+    },
+    {
+      "id": 116828,
+      "name": "Kántorjánosi"
+    },
+    {
+      "id": 116829,
+      "name": "Kék"
+    },
+    {
+      "id": 116830,
+      "name": "Kemecse"
+    },
+    {
+      "id": 116831,
+      "name": "Kemecsei Járás"
+    },
+    {
+      "id": 116832,
+      "name": "Kisléta"
+    },
+    {
+      "id": 116833,
+      "name": "Kisvárda"
+    },
+    {
+      "id": 116834,
+      "name": "Kisvárdai Járás"
+    },
+    {
+      "id": 116835,
+      "name": "Kocsord"
+    },
+    {
+      "id": 116836,
+      "name": "Kótaj"
+    },
+    {
+      "id": 116837,
+      "name": "Levelek"
+    },
+    {
+      "id": 116838,
+      "name": "Mándok"
+    },
+    {
+      "id": 116839,
+      "name": "Máriapócs"
+    },
+    {
+      "id": 116840,
+      "name": "Mátészalka"
+    },
+    {
+      "id": 116841,
+      "name": "Mátészalkai Járás"
+    },
+    {
+      "id": 116842,
+      "name": "Mérk"
+    },
+    {
+      "id": 116843,
+      "name": "Nagycserkesz"
+    },
+    {
+      "id": 116844,
+      "name": "Nagydobos"
+    },
+    {
+      "id": 116845,
+      "name": "Nagyecsed"
+    },
+    {
+      "id": 116846,
+      "name": "Nagyhalász"
+    },
+    {
+      "id": 116847,
+      "name": "Nagykálló"
+    },
+    {
+      "id": 116848,
+      "name": "Nagykállói Járás"
+    },
+    {
+      "id": 116849,
+      "name": "Napkor"
+    },
+    {
+      "id": 116850,
+      "name": "Nyírbátor"
+    },
+    {
+      "id": 116851,
+      "name": "Nyírbátori Járás"
+    },
+    {
+      "id": 116852,
+      "name": "Nyírbéltek"
+    },
+    {
+      "id": 116853,
+      "name": "Nyírbogát"
+    },
+    {
+      "id": 116854,
+      "name": "Nyírbogdány"
+    },
+    {
+      "id": 116855,
+      "name": "Nyírcsaholy"
+    },
+    {
+      "id": 116856,
+      "name": "Nyíregyháza"
+    },
+    {
+      "id": 116857,
+      "name": "Nyíregyházi Járás"
+    },
+    {
+      "id": 116858,
+      "name": "Nyírgyulaj"
+    },
+    {
+      "id": 116859,
+      "name": "Nyírkarász"
+    },
+    {
+      "id": 116860,
+      "name": "Nyírlugos"
+    },
+    {
+      "id": 116861,
+      "name": "Nyírmada"
+    },
+    {
+      "id": 116862,
+      "name": "Nyírmeggyes"
+    },
+    {
+      "id": 116863,
+      "name": "Nyírmihálydi"
+    },
+    {
+      "id": 116864,
+      "name": "Nyírpazony"
+    },
+    {
+      "id": 116865,
+      "name": "Nyírtass"
+    },
+    {
+      "id": 116866,
+      "name": "Nyírtelek"
+    },
+    {
+      "id": 116867,
+      "name": "Nyírvasvári"
+    },
+    {
+      "id": 116868,
+      "name": "Ófehértó"
+    },
+    {
+      "id": 116869,
+      "name": "Ököritófülpös"
+    },
+    {
+      "id": 116870,
+      "name": "Ópályi"
+    },
+    {
+      "id": 116871,
+      "name": "Pátroha"
+    },
+    {
+      "id": 116872,
+      "name": "Petneháza"
+    },
+    {
+      "id": 116873,
+      "name": "Porcsalma"
+    },
+    {
+      "id": 116874,
+      "name": "Rakamaz"
+    },
+    {
+      "id": 116875,
+      "name": "Szakoly"
+    },
+    {
+      "id": 116876,
+      "name": "Szamosszeg"
+    },
+    {
+      "id": 116877,
+      "name": "Tarpa"
+    },
+    {
+      "id": 116878,
+      "name": "Tiszabercel"
+    },
+    {
+      "id": 116879,
+      "name": "Tiszabezdéd"
+    },
+    {
+      "id": 116880,
+      "name": "Tiszadada"
+    },
+    {
+      "id": 116881,
+      "name": "Tiszadob"
+    },
+    {
+      "id": 116882,
+      "name": "Tiszaeszlár"
+    },
+    {
+      "id": 116883,
+      "name": "Tiszalök"
+    },
+    {
+      "id": 116884,
+      "name": "Tiszanagyfalu"
+    },
+    {
+      "id": 116885,
+      "name": "Tiszavasvári"
+    },
+    {
+      "id": 116886,
+      "name": "Tiszavasvári Járás"
+    },
+    {
+      "id": 116887,
+      "name": "Tornyospálca"
+    },
+    {
+      "id": 116888,
+      "name": "Tunyogmatolcs"
+    },
+    {
+      "id": 116889,
+      "name": "Tuzsér"
+    },
+    {
+      "id": 116890,
+      "name": "Tyukod"
+    },
+    {
+      "id": 116891,
+      "name": "Újfehértó"
+    },
+    {
+      "id": 116892,
+      "name": "Vaja"
+    },
+    {
+      "id": 116893,
+      "name": "Vásárosnamény"
+    },
+    {
+      "id": 116894,
+      "name": "Vásárosnaményi Járás"
+    },
+    {
+      "id": 116895,
+      "name": "Záhony"
+    },
+    {
+      "id": 116896,
+      "name": "Záhonyi Járás"
+    }
+  ]
+}

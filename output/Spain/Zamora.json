@@ -1,0 +1,999 @@
+{
+  "id": 6557,
+  "name": "Zamora",
+  "state_code": "ZA",
+  "cities": [
+    {
+      "id": 189452,
+      "name": "Abezames"
+    },
+    {
+      "id": 189453,
+      "name": "Alcañices"
+    },
+    {
+      "id": 189454,
+      "name": "Alcubilla de Nogales"
+    },
+    {
+      "id": 189455,
+      "name": "Alfaraz de Sayago"
+    },
+    {
+      "id": 189456,
+      "name": "Algodre"
+    },
+    {
+      "id": 189457,
+      "name": "Almaraz de Duero"
+    },
+    {
+      "id": 189458,
+      "name": "Almeida de Sayago"
+    },
+    {
+      "id": 189459,
+      "name": "Andavías"
+    },
+    {
+      "id": 189460,
+      "name": "Arcenillas"
+    },
+    {
+      "id": 189461,
+      "name": "Arcos de la Polvorosa"
+    },
+    {
+      "id": 189462,
+      "name": "Argañín"
+    },
+    {
+      "id": 189463,
+      "name": "Argujillo"
+    },
+    {
+      "id": 189464,
+      "name": "Arquillinos"
+    },
+    {
+      "id": 189465,
+      "name": "Arrabalde"
+    },
+    {
+      "id": 189466,
+      "name": "Aspariegos"
+    },
+    {
+      "id": 189467,
+      "name": "Asturianos"
+    },
+    {
+      "id": 189468,
+      "name": "Ayoó de Vidriales"
+    },
+    {
+      "id": 189469,
+      "name": "Barcial del Barco"
+    },
+    {
+      "id": 189470,
+      "name": "Belver de los Montes"
+    },
+    {
+      "id": 189471,
+      "name": "Benavente"
+    },
+    {
+      "id": 189472,
+      "name": "Benegiles"
+    },
+    {
+      "id": 189473,
+      "name": "Bermillo de Sayago"
+    },
+    {
+      "id": 189474,
+      "name": "Bóveda de Toro La"
+    },
+    {
+      "id": 189475,
+      "name": "Bretó"
+    },
+    {
+      "id": 189476,
+      "name": "Bretocino"
+    },
+    {
+      "id": 189477,
+      "name": "Brime de Sog"
+    },
+    {
+      "id": 189478,
+      "name": "Brime de Urz"
+    },
+    {
+      "id": 189479,
+      "name": "Burganes de Valverde"
+    },
+    {
+      "id": 189480,
+      "name": "Bustillo del Oro"
+    },
+    {
+      "id": 189481,
+      "name": "Cabañas de Sayago"
+    },
+    {
+      "id": 189482,
+      "name": "Calzadilla de Tera"
+    },
+    {
+      "id": 189483,
+      "name": "Camarzana de Tera"
+    },
+    {
+      "id": 189484,
+      "name": "Cañizal"
+    },
+    {
+      "id": 189485,
+      "name": "Cañizo"
+    },
+    {
+      "id": 189486,
+      "name": "Carbajales de Alba"
+    },
+    {
+      "id": 189487,
+      "name": "Carbellino"
+    },
+    {
+      "id": 189488,
+      "name": "Casaseca de Campeán"
+    },
+    {
+      "id": 189489,
+      "name": "Casaseca de las Chanas"
+    },
+    {
+      "id": 189490,
+      "name": "Castrillo de la Guareña"
+    },
+    {
+      "id": 189491,
+      "name": "Castrogonzalo"
+    },
+    {
+      "id": 189492,
+      "name": "Castronuevo"
+    },
+    {
+      "id": 189493,
+      "name": "Castroverde de Campos"
+    },
+    {
+      "id": 189494,
+      "name": "Cazurra"
+    },
+    {
+      "id": 189495,
+      "name": "Cerecinos de Campos"
+    },
+    {
+      "id": 189496,
+      "name": "Cerecinos del Carrizal"
+    },
+    {
+      "id": 189497,
+      "name": "Cernadilla"
+    },
+    {
+      "id": 189498,
+      "name": "Cobreros"
+    },
+    {
+      "id": 189499,
+      "name": "Coomonte"
+    },
+    {
+      "id": 189500,
+      "name": "Coreses"
+    },
+    {
+      "id": 189501,
+      "name": "Corrales del Vino"
+    },
+    {
+      "id": 189502,
+      "name": "Cotanes del Monte"
+    },
+    {
+      "id": 189503,
+      "name": "Cubillos"
+    },
+    {
+      "id": 189504,
+      "name": "Cubo de Benavente"
+    },
+    {
+      "id": 189505,
+      "name": "Cubo de Tierra del Vino El"
+    },
+    {
+      "id": 189506,
+      "name": "Cuelgamures"
+    },
+    {
+      "id": 189507,
+      "name": "Entrala"
+    },
+    {
+      "id": 189508,
+      "name": "Espadañedo"
+    },
+    {
+      "id": 189509,
+      "name": "Faramontanos de Tábara"
+    },
+    {
+      "id": 189510,
+      "name": "Fariza"
+    },
+    {
+      "id": 189511,
+      "name": "Fermoselle"
+    },
+    {
+      "id": 189512,
+      "name": "Ferreras de Abajo"
+    },
+    {
+      "id": 189513,
+      "name": "Ferreras de Arriba"
+    },
+    {
+      "id": 189514,
+      "name": "Ferreruela"
+    },
+    {
+      "id": 189515,
+      "name": "Figueruela de Arriba"
+    },
+    {
+      "id": 189516,
+      "name": "Fonfría"
+    },
+    {
+      "id": 189517,
+      "name": "Fresno de la Polvorosa"
+    },
+    {
+      "id": 189518,
+      "name": "Fresno de la Ribera"
+    },
+    {
+      "id": 189519,
+      "name": "Fresno de Sayago"
+    },
+    {
+      "id": 189520,
+      "name": "Friera de Valverde"
+    },
+    {
+      "id": 189521,
+      "name": "Fuente Encalada"
+    },
+    {
+      "id": 189522,
+      "name": "Fuentelapeña"
+    },
+    {
+      "id": 189523,
+      "name": "Fuentes de Ropel"
+    },
+    {
+      "id": 189524,
+      "name": "Fuentesaúco"
+    },
+    {
+      "id": 189525,
+      "name": "Fuentesecas"
+    },
+    {
+      "id": 189526,
+      "name": "Fuentespreadas"
+    },
+    {
+      "id": 189527,
+      "name": "Galende"
+    },
+    {
+      "id": 189528,
+      "name": "Gallegos del Pan"
+    },
+    {
+      "id": 189529,
+      "name": "Gallegos del Río"
+    },
+    {
+      "id": 189530,
+      "name": "Gamones"
+    },
+    {
+      "id": 189531,
+      "name": "Gema"
+    },
+    {
+      "id": 189532,
+      "name": "Granja de Moreruela"
+    },
+    {
+      "id": 189533,
+      "name": "Granucillo"
+    },
+    {
+      "id": 189534,
+      "name": "Guarrate"
+    },
+    {
+      "id": 189535,
+      "name": "Hermisende"
+    },
+    {
+      "id": 189536,
+      "name": "Hiniesta La"
+    },
+    {
+      "id": 189537,
+      "name": "Jambrina"
+    },
+    {
+      "id": 189538,
+      "name": "Justel"
+    },
+    {
+      "id": 189539,
+      "name": "Losacino"
+    },
+    {
+      "id": 189540,
+      "name": "Losacio"
+    },
+    {
+      "id": 189541,
+      "name": "Lubián"
+    },
+    {
+      "id": 189542,
+      "name": "Luelmo"
+    },
+    {
+      "id": 189543,
+      "name": "Maderal El"
+    },
+    {
+      "id": 189544,
+      "name": "Madridanos"
+    },
+    {
+      "id": 189545,
+      "name": "Mahide"
+    },
+    {
+      "id": 189546,
+      "name": "Maire de Castroponce"
+    },
+    {
+      "id": 189547,
+      "name": "Malva"
+    },
+    {
+      "id": 189548,
+      "name": "Manganeses de la Lampreana"
+    },
+    {
+      "id": 189549,
+      "name": "Manganeses de la Polvorosa"
+    },
+    {
+      "id": 189550,
+      "name": "Manzanal de Arriba"
+    },
+    {
+      "id": 189551,
+      "name": "Manzanal de los Infantes"
+    },
+    {
+      "id": 189552,
+      "name": "Manzanal del Barco"
+    },
+    {
+      "id": 189553,
+      "name": "Matilla de Arzón"
+    },
+    {
+      "id": 189554,
+      "name": "Matilla la Seca"
+    },
+    {
+      "id": 189555,
+      "name": "Mayalde"
+    },
+    {
+      "id": 189556,
+      "name": "Melgar de Tera"
+    },
+    {
+      "id": 189557,
+      "name": "Micereces de Tera"
+    },
+    {
+      "id": 189558,
+      "name": "Milles de la Polvorosa"
+    },
+    {
+      "id": 189559,
+      "name": "Molacillos"
+    },
+    {
+      "id": 189560,
+      "name": "Molezuelas de la Carballeda"
+    },
+    {
+      "id": 189561,
+      "name": "Mombuey"
+    },
+    {
+      "id": 189562,
+      "name": "Monfarracinos"
+    },
+    {
+      "id": 189563,
+      "name": "Montamarta"
+    },
+    {
+      "id": 189564,
+      "name": "Moral de Sayago"
+    },
+    {
+      "id": 189565,
+      "name": "Moraleja de Sayago"
+    },
+    {
+      "id": 189566,
+      "name": "Moraleja del Vino"
+    },
+    {
+      "id": 189567,
+      "name": "Morales de Rey"
+    },
+    {
+      "id": 189568,
+      "name": "Morales de Toro"
+    },
+    {
+      "id": 189569,
+      "name": "Morales de Valverde"
+    },
+    {
+      "id": 189570,
+      "name": "Morales del Vino"
+    },
+    {
+      "id": 189571,
+      "name": "Moralina"
+    },
+    {
+      "id": 189572,
+      "name": "Moreruela de los Infanzones"
+    },
+    {
+      "id": 189573,
+      "name": "Moreruela de Tábara"
+    },
+    {
+      "id": 189574,
+      "name": "Muelas de los Caballeros"
+    },
+    {
+      "id": 189575,
+      "name": "Muelas del Pan"
+    },
+    {
+      "id": 189576,
+      "name": "Muga de Sayago"
+    },
+    {
+      "id": 189577,
+      "name": "Navianos de Valverde"
+    },
+    {
+      "id": 189578,
+      "name": "Olmillos de Castro"
+    },
+    {
+      "id": 189579,
+      "name": "Otero de Bodas"
+    },
+    {
+      "id": 189580,
+      "name": "Pajares de la Lampreana"
+    },
+    {
+      "id": 189581,
+      "name": "Palacios de Sanabria"
+    },
+    {
+      "id": 189582,
+      "name": "Palacios del Pan"
+    },
+    {
+      "id": 189583,
+      "name": "Pedralba de la Pradería"
+    },
+    {
+      "id": 189584,
+      "name": "Pego El"
+    },
+    {
+      "id": 189585,
+      "name": "Peleagonzalo"
+    },
+    {
+      "id": 189586,
+      "name": "Peleas de Abajo"
+    },
+    {
+      "id": 189587,
+      "name": "Peñausende"
+    },
+    {
+      "id": 189588,
+      "name": "Peque"
+    },
+    {
+      "id": 189589,
+      "name": "Perdigón El"
+    },
+    {
+      "id": 189590,
+      "name": "Pereruela"
+    },
+    {
+      "id": 189591,
+      "name": "Perilla de Castro"
+    },
+    {
+      "id": 189592,
+      "name": "Pías"
+    },
+    {
+      "id": 189593,
+      "name": "Piedrahita de Castro"
+    },
+    {
+      "id": 189594,
+      "name": "Piñero El"
+    },
+    {
+      "id": 189595,
+      "name": "Pinilla de Toro"
+    },
+    {
+      "id": 189596,
+      "name": "Pino del Oro"
+    },
+    {
+      "id": 189597,
+      "name": "Pobladura de Valderaduey"
+    },
+    {
+      "id": 189598,
+      "name": "Pobladura del Valle"
+    },
+    {
+      "id": 189599,
+      "name": "Porto"
+    },
+    {
+      "id": 189600,
+      "name": "Pozoantiguo"
+    },
+    {
+      "id": 189601,
+      "name": "Pozuelo de Tábara"
+    },
+    {
+      "id": 189602,
+      "name": "Prado"
+    },
+    {
+      "id": 189603,
+      "name": "Puebla de Sanabria"
+    },
+    {
+      "id": 189604,
+      "name": "Pueblica de Valverde"
+    },
+    {
+      "id": 189605,
+      "name": "Quintanilla de Urz"
+    },
+    {
+      "id": 189606,
+      "name": "Quintanilla del Monte"
+    },
+    {
+      "id": 189607,
+      "name": "Quintanilla del Olmo"
+    },
+    {
+      "id": 189608,
+      "name": "Quiruelas de Vidriales"
+    },
+    {
+      "id": 189609,
+      "name": "Rabanales"
+    },
+    {
+      "id": 189610,
+      "name": "Rábano de Aliste"
+    },
+    {
+      "id": 189611,
+      "name": "Requejo"
+    },
+    {
+      "id": 189612,
+      "name": "Revellinos"
+    },
+    {
+      "id": 189613,
+      "name": "Ríofrío de Aliste"
+    },
+    {
+      "id": 189614,
+      "name": "Rionegro del Puente"
+    },
+    {
+      "id": 189615,
+      "name": "Roales"
+    },
+    {
+      "id": 189616,
+      "name": "Robleda-Cervantes"
+    },
+    {
+      "id": 189617,
+      "name": "Roelos de Sayago"
+    },
+    {
+      "id": 189618,
+      "name": "Rosinos de la Requejada"
+    },
+    {
+      "id": 189619,
+      "name": "Salce"
+    },
+    {
+      "id": 189620,
+      "name": "Samir de los Caños"
+    },
+    {
+      "id": 189621,
+      "name": "San Agustín del Pozo"
+    },
+    {
+      "id": 189622,
+      "name": "San Cebrián de Castro"
+    },
+    {
+      "id": 189623,
+      "name": "San Cristóbal de Entreviñas"
+    },
+    {
+      "id": 189624,
+      "name": "San Esteban del Molar"
+    },
+    {
+      "id": 189625,
+      "name": "San Justo"
+    },
+    {
+      "id": 189626,
+      "name": "San Martín de Valderaduey"
+    },
+    {
+      "id": 189627,
+      "name": "San Miguel de la Ribera"
+    },
+    {
+      "id": 189628,
+      "name": "San Miguel del Valle"
+    },
+    {
+      "id": 189629,
+      "name": "San Pedro de Ceque"
+    },
+    {
+      "id": 189630,
+      "name": "San Pedro de la Nave-Almendra"
+    },
+    {
+      "id": 189631,
+      "name": "San Vicente de la Cabeza"
+    },
+    {
+      "id": 189632,
+      "name": "San Vitero"
+    },
+    {
+      "id": 189633,
+      "name": "Santa Clara de Avedillo"
+    },
+    {
+      "id": 189634,
+      "name": "Santa Colomba de las Monjas"
+    },
+    {
+      "id": 189635,
+      "name": "Santa Cristina de la Polvorosa"
+    },
+    {
+      "id": 189636,
+      "name": "Santa Croya de Tera"
+    },
+    {
+      "id": 189637,
+      "name": "Santa Eufemia del Barco"
+    },
+    {
+      "id": 189638,
+      "name": "Santa María de la Vega"
+    },
+    {
+      "id": 189639,
+      "name": "Santa María de Valverde"
+    },
+    {
+      "id": 189640,
+      "name": "Santibáñez de Tera"
+    },
+    {
+      "id": 189641,
+      "name": "Santibáñez de Vidriales"
+    },
+    {
+      "id": 189642,
+      "name": "Santovenia"
+    },
+    {
+      "id": 189643,
+      "name": "Sanzoles"
+    },
+    {
+      "id": 189644,
+      "name": "Tábara"
+    },
+    {
+      "id": 189645,
+      "name": "Tapioles"
+    },
+    {
+      "id": 189646,
+      "name": "Toro"
+    },
+    {
+      "id": 189647,
+      "name": "Torre del Valle La"
+    },
+    {
+      "id": 189648,
+      "name": "Torregamones"
+    },
+    {
+      "id": 189649,
+      "name": "Torres del Carrizal"
+    },
+    {
+      "id": 189650,
+      "name": "Trabazos"
+    },
+    {
+      "id": 189651,
+      "name": "Trefacio"
+    },
+    {
+      "id": 189652,
+      "name": "Uña de Quintana"
+    },
+    {
+      "id": 189653,
+      "name": "Vadillo de la Guareña"
+    },
+    {
+      "id": 189654,
+      "name": "Valcabado"
+    },
+    {
+      "id": 189655,
+      "name": "Valdefinjas"
+    },
+    {
+      "id": 189656,
+      "name": "Valdescorriel"
+    },
+    {
+      "id": 189657,
+      "name": "Vallesa de la Guareña"
+    },
+    {
+      "id": 189658,
+      "name": "Vega de Tera"
+    },
+    {
+      "id": 189659,
+      "name": "Vega de Villalobos"
+    },
+    {
+      "id": 189660,
+      "name": "Vegalatrave"
+    },
+    {
+      "id": 189661,
+      "name": "Venialbo"
+    },
+    {
+      "id": 189662,
+      "name": "Vezdemarbán"
+    },
+    {
+      "id": 189663,
+      "name": "Vidayanes"
+    },
+    {
+      "id": 189664,
+      "name": "Videmala"
+    },
+    {
+      "id": 189665,
+      "name": "Villabrázaro"
+    },
+    {
+      "id": 189666,
+      "name": "Villabuena del Puente"
+    },
+    {
+      "id": 189667,
+      "name": "Villadepera"
+    },
+    {
+      "id": 189668,
+      "name": "Villaescusa"
+    },
+    {
+      "id": 189669,
+      "name": "Villafáfila"
+    },
+    {
+      "id": 189670,
+      "name": "Villaferrueña"
+    },
+    {
+      "id": 189671,
+      "name": "Villageriz"
+    },
+    {
+      "id": 189672,
+      "name": "Villalazán"
+    },
+    {
+      "id": 189673,
+      "name": "Villalba de la Lampreana"
+    },
+    {
+      "id": 189674,
+      "name": "Villalcampo"
+    },
+    {
+      "id": 189675,
+      "name": "Villalobos"
+    },
+    {
+      "id": 189676,
+      "name": "Villalonso"
+    },
+    {
+      "id": 189677,
+      "name": "Villalpando"
+    },
+    {
+      "id": 189678,
+      "name": "Villalube"
+    },
+    {
+      "id": 189679,
+      "name": "Villamayor de Campos"
+    },
+    {
+      "id": 189680,
+      "name": "Villamor de los Escuderos"
+    },
+    {
+      "id": 189681,
+      "name": "Villanázar"
+    },
+    {
+      "id": 189682,
+      "name": "Villanueva de Azoague"
+    },
+    {
+      "id": 189683,
+      "name": "Villanueva de Campeán"
+    },
+    {
+      "id": 189684,
+      "name": "Villanueva de las Peras"
+    },
+    {
+      "id": 189685,
+      "name": "Villanueva del Campo"
+    },
+    {
+      "id": 189686,
+      "name": "Villar de Fallaves"
+    },
+    {
+      "id": 189687,
+      "name": "Villar del Buey"
+    },
+    {
+      "id": 189688,
+      "name": "Villaralbo"
+    },
+    {
+      "id": 189689,
+      "name": "Villardeciervos"
+    },
+    {
+      "id": 189690,
+      "name": "Villardiegua de la Ribera"
+    },
+    {
+      "id": 189691,
+      "name": "Villárdiga"
+    },
+    {
+      "id": 189692,
+      "name": "Villardondiego"
+    },
+    {
+      "id": 189693,
+      "name": "Villarrín de Campos"
+    },
+    {
+      "id": 189694,
+      "name": "Villaseco del Pan"
+    },
+    {
+      "id": 189695,
+      "name": "Villavendimio"
+    },
+    {
+      "id": 189696,
+      "name": "Villaveza de Valverde"
+    },
+    {
+      "id": 189697,
+      "name": "Villaveza del Agua"
+    },
+    {
+      "id": 189698,
+      "name": "Viñas"
+    },
+    {
+      "id": 189699,
+      "name": "Zamora"
+    }
+  ]
+}

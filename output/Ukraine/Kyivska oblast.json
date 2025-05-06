@@ -1,0 +1,363 @@
+{
+  "id": 7158,
+  "name": "Kyivska oblast",
+  "state_code": "32",
+  "cities": [
+    {
+      "id": 196695,
+      "name": "Baryshivka"
+    },
+    {
+      "id": 196696,
+      "name": "Baryshivs’kyy Rayon"
+    },
+    {
+      "id": 196697,
+      "name": "Bila Tserkva"
+    },
+    {
+      "id": 196698,
+      "name": "Bila Tserkva Raion"
+    },
+    {
+      "id": 196699,
+      "name": "Bohuslav"
+    },
+    {
+      "id": 196700,
+      "name": "Borispol’skiy Rayon"
+    },
+    {
+      "id": 196701,
+      "name": "Borodianka"
+    },
+    {
+      "id": 196702,
+      "name": "Borodyans’kyy Rayon"
+    },
+    {
+      "id": 196703,
+      "name": "Borova"
+    },
+    {
+      "id": 196704,
+      "name": "Boryspil’"
+    },
+    {
+      "id": 196705,
+      "name": "Boyarka"
+    },
+    {
+      "id": 196706,
+      "name": "Brovary"
+    },
+    {
+      "id": 196707,
+      "name": "Brovary Raion"
+    },
+    {
+      "id": 196708,
+      "name": "Bucha"
+    },
+    {
+      "id": 196709,
+      "name": "Chabany"
+    },
+    {
+      "id": 196710,
+      "name": "Chernyakhivka"
+    },
+    {
+      "id": 196711,
+      "name": "Dymer"
+    },
+    {
+      "id": 196712,
+      "name": "Fastiv"
+    },
+    {
+      "id": 196713,
+      "name": "Fastiv Raion"
+    },
+    {
+      "id": 196714,
+      "name": "Hlevakha"
+    },
+    {
+      "id": 196715,
+      "name": "Hnidyn"
+    },
+    {
+      "id": 196716,
+      "name": "Horenka"
+    },
+    {
+      "id": 196717,
+      "name": "Hostomel"
+    },
+    {
+      "id": 196718,
+      "name": "Irpin"
+    },
+    {
+      "id": 196719,
+      "name": "Irpins’ka Mis’krada"
+    },
+    {
+      "id": 196720,
+      "name": "Ivankiv"
+    },
+    {
+      "id": 196721,
+      "name": "Ivankiv Raion"
+    },
+    {
+      "id": 196722,
+      "name": "Kaharlyk"
+    },
+    {
+      "id": 196723,
+      "name": "Kaharlyk Raion"
+    },
+    {
+      "id": 196724,
+      "name": "Kalynove"
+    },
+    {
+      "id": 196725,
+      "name": "Karapyshi"
+    },
+    {
+      "id": 196726,
+      "name": "Katyuzhanka"
+    },
+    {
+      "id": 196727,
+      "name": "Khotiv"
+    },
+    {
+      "id": 196728,
+      "name": "Kirove"
+    },
+    {
+      "id": 196729,
+      "name": "Klavdiyevo-Tarasove"
+    },
+    {
+      "id": 196730,
+      "name": "Knyazhichi"
+    },
+    {
+      "id": 196731,
+      "name": "Kodra"
+    },
+    {
+      "id": 196732,
+      "name": "Korniyivka"
+    },
+    {
+      "id": 196733,
+      "name": "Kozhanka"
+    },
+    {
+      "id": 196734,
+      "name": "Krasyatychi"
+    },
+    {
+      "id": 196735,
+      "name": "Kriukivschina"
+    },
+    {
+      "id": 196736,
+      "name": "Kryva Hora"
+    },
+    {
+      "id": 196737,
+      "name": "Kyyevo-Svyatoshyns’kyy Rayon"
+    },
+    {
+      "id": 196738,
+      "name": "Liutizh"
+    },
+    {
+      "id": 196739,
+      "name": "Makariv"
+    },
+    {
+      "id": 196740,
+      "name": "Makariv Raion"
+    },
+    {
+      "id": 196741,
+      "name": "Mirovka"
+    },
+    {
+      "id": 196742,
+      "name": "Motovylivka"
+    },
+    {
+      "id": 196743,
+      "name": "Myronivka"
+    },
+    {
+      "id": 196744,
+      "name": "Novi Petrivtsi"
+    },
+    {
+      "id": 196745,
+      "name": "Obukhiv"
+    },
+    {
+      "id": 196746,
+      "name": "Obukhiv Raion"
+    },
+    {
+      "id": 196747,
+      "name": "Obukhivs’ka Mis’krada"
+    },
+    {
+      "id": 196748,
+      "name": "Pereiaslav-Khmelnytskyi"
+    },
+    {
+      "id": 196749,
+      "name": "Pereiaslav-Khmelnytskyi Raion"
+    },
+    {
+      "id": 196750,
+      "name": "Piskivka"
+    },
+    {
+      "id": 196751,
+      "name": "Pohreby"
+    },
+    {
+      "id": 196752,
+      "name": "Pukhivka"
+    },
+    {
+      "id": 196753,
+      "name": "Rokytne"
+    },
+    {
+      "id": 196754,
+      "name": "Rokytne Raion"
+    },
+    {
+      "id": 196755,
+      "name": "Roskoshnyy"
+    },
+    {
+      "id": 196756,
+      "name": "Rzhyshchiv"
+    },
+    {
+      "id": 196757,
+      "name": "Semypolky"
+    },
+    {
+      "id": 196758,
+      "name": "Skvyra"
+    },
+    {
+      "id": 196759,
+      "name": "Skvyrs’kyy Rayon"
+    },
+    {
+      "id": 196760,
+      "name": "Slavutych"
+    },
+    {
+      "id": 196761,
+      "name": "Sofiyivska Borschagivka"
+    },
+    {
+      "id": 196762,
+      "name": "Stavyshche"
+    },
+    {
+      "id": 196763,
+      "name": "Stayki"
+    },
+    {
+      "id": 196764,
+      "name": "Tarashcha"
+    },
+    {
+      "id": 196765,
+      "name": "Tetiiv"
+    },
+    {
+      "id": 196766,
+      "name": "Trebukhiv"
+    },
+    {
+      "id": 196767,
+      "name": "Trypillia"
+    },
+    {
+      "id": 196768,
+      "name": "Tsybli"
+    },
+    {
+      "id": 196769,
+      "name": "Ukrainka"
+    },
+    {
+      "id": 196770,
+      "name": "Uzyn"
+    },
+    {
+      "id": 196771,
+      "name": "Vasylkiv"
+    },
+    {
+      "id": 196772,
+      "name": "Vasylkiv Raion"
+    },
+    {
+      "id": 196773,
+      "name": "Velyka Dymerka"
+    },
+    {
+      "id": 196774,
+      "name": "Volodarka"
+    },
+    {
+      "id": 196775,
+      "name": "Voronkov"
+    },
+    {
+      "id": 196776,
+      "name": "Vorzel’"
+    },
+    {
+      "id": 196777,
+      "name": "Vyshgorodskiy Rayon"
+    },
+    {
+      "id": 196778,
+      "name": "Vyshhorod"
+    },
+    {
+      "id": 196779,
+      "name": "Vyshneve"
+    },
+    {
+      "id": 196780,
+      "name": "Yahotyn"
+    },
+    {
+      "id": 196781,
+      "name": "Yahotyns’kyy Rayon"
+    },
+    {
+      "id": 196782,
+      "name": "Z·hurivs’kyy Rayon"
+    },
+    {
+      "id": 196783,
+      "name": "Zgurovka"
+    }
+  ]
+}

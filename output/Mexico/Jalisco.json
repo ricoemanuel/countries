@@ -1,0 +1,3291 @@
+{
+  "id": 5137,
+  "name": "Jalisco",
+  "state_code": "JAL",
+  "cities": [
+    {
+      "id": 142461,
+      "name": "Acatlán de Juárez Municipality"
+    },
+    {
+      "id": 142462,
+      "name": "Acueducto Fraccionamiento"
+    },
+    {
+      "id": 142463,
+      "name": "Agua Bermeja"
+    },
+    {
+      "id": 142464,
+      "name": "Agua Caliente"
+    },
+    {
+      "id": 142465,
+      "name": "Agua Colorada"
+    },
+    {
+      "id": 142466,
+      "name": "Agua Delgada"
+    },
+    {
+      "id": 142467,
+      "name": "Agua Escondida"
+    },
+    {
+      "id": 142468,
+      "name": "Agua Fría"
+    },
+    {
+      "id": 142469,
+      "name": "Agua Nueva"
+    },
+    {
+      "id": 142470,
+      "name": "Agua Paloma"
+    },
+    {
+      "id": 142471,
+      "name": "Agua Prieta"
+    },
+    {
+      "id": 142472,
+      "name": "Agua Rica"
+    },
+    {
+      "id": 142473,
+      "name": "Agua Salada"
+    },
+    {
+      "id": 142474,
+      "name": "Agua Zarca"
+    },
+    {
+      "id": 142475,
+      "name": "Ahualulco de Mercado Municipality"
+    },
+    {
+      "id": 142476,
+      "name": "Ahuatlán"
+    },
+    {
+      "id": 142477,
+      "name": "Ahuetita de Abajo"
+    },
+    {
+      "id": 142478,
+      "name": "Ahuisculco"
+    },
+    {
+      "id": 142479,
+      "name": "Ajijic"
+    },
+    {
+      "id": 142480,
+      "name": "Alfredo V. Bonfil"
+    },
+    {
+      "id": 142481,
+      "name": "Alista"
+    },
+    {
+      "id": 142482,
+      "name": "Allende"
+    },
+    {
+      "id": 142483,
+      "name": "Altavista de Ramos"
+    },
+    {
+      "id": 142484,
+      "name": "Altus Bosques"
+    },
+    {
+      "id": 142485,
+      "name": "Amacuautitlán"
+    },
+    {
+      "id": 142486,
+      "name": "Amacueca Municipality"
+    },
+    {
+      "id": 142487,
+      "name": "Amajaquillo"
+    },
+    {
+      "id": 142488,
+      "name": "Amatanejo"
+    },
+    {
+      "id": 142489,
+      "name": "Amatitán"
+    },
+    {
+      "id": 142490,
+      "name": "Ambrosio"
+    },
+    {
+      "id": 142491,
+      "name": "Ameca"
+    },
+    {
+      "id": 142492,
+      "name": "Ameca Municipality"
+    },
+    {
+      "id": 142493,
+      "name": "Analco"
+    },
+    {
+      "id": 142494,
+      "name": "Anoca"
+    },
+    {
+      "id": 142495,
+      "name": "Antonio Escobedo"
+    },
+    {
+      "id": 142496,
+      "name": "Apazulco"
+    },
+    {
+      "id": 142497,
+      "name": "Apozol de Gutiérrez"
+    },
+    {
+      "id": 142498,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 142499,
+      "name": "Arandas"
+    },
+    {
+      "id": 142500,
+      "name": "Arroyo Hondo"
+    },
+    {
+      "id": 142501,
+      "name": "Atacco"
+    },
+    {
+      "id": 142502,
+      "name": "Atarjeas de Covarrubias"
+    },
+    {
+      "id": 142503,
+      "name": "Atemanica"
+    },
+    {
+      "id": 142504,
+      "name": "Atengo"
+    },
+    {
+      "id": 142505,
+      "name": "Atenguillo"
+    },
+    {
+      "id": 142506,
+      "name": "Atequiza"
+    },
+    {
+      "id": 142507,
+      "name": "Atotonilco el Alto Municipality"
+    },
+    {
+      "id": 142508,
+      "name": "Atotonilco el Bajo"
+    },
+    {
+      "id": 142509,
+      "name": "Atotonilquillo"
+    },
+    {
+      "id": 142510,
+      "name": "Atoyac"
+    },
+    {
+      "id": 142511,
+      "name": "Atzcatlán"
+    },
+    {
+      "id": 142512,
+      "name": "Autlán de Navarro"
+    },
+    {
+      "id": 142513,
+      "name": "Ayotitlán"
+    },
+    {
+      "id": 142514,
+      "name": "Ayotlán Municipality"
+    },
+    {
+      "id": 142515,
+      "name": "Ayuquila"
+    },
+    {
+      "id": 142516,
+      "name": "Ayutla Jalisco"
+    },
+    {
+      "id": 142517,
+      "name": "Bajío de Ratones"
+    },
+    {
+      "id": 142518,
+      "name": "Bajío de San José"
+    },
+    {
+      "id": 142519,
+      "name": "Bajío Seco"
+    },
+    {
+      "id": 142520,
+      "name": "Balcones de la Calera"
+    },
+    {
+      "id": 142521,
+      "name": "Banus Vallarta"
+    },
+    {
+      "id": 142522,
+      "name": "Barra de Navidad"
+    },
+    {
+      "id": 142523,
+      "name": "Barranca de los Laureles"
+    },
+    {
+      "id": 142524,
+      "name": "Barranca de Otates"
+    },
+    {
+      "id": 142525,
+      "name": "Barranca de Santa Clara"
+    },
+    {
+      "id": 142526,
+      "name": "Barranca del Tule"
+    },
+    {
+      "id": 142527,
+      "name": "Barrio de Reyes"
+    },
+    {
+      "id": 142528,
+      "name": "Barrio de Tapias"
+    },
+    {
+      "id": 142529,
+      "name": "Belem del Refugio"
+    },
+    {
+      "id": 142530,
+      "name": "Bellavista"
+    },
+    {
+      "id": 142531,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 142532,
+      "name": "Betania"
+    },
+    {
+      "id": 142533,
+      "name": "Betulia"
+    },
+    {
+      "id": 142534,
+      "name": "Bicercio"
+    },
+    {
+      "id": 142535,
+      "name": "Boca de Tomatlán"
+    },
+    {
+      "id": 142536,
+      "name": "Bolaños Municipality"
+    },
+    {
+      "id": 142537,
+      "name": "Bosque Real Fraccionamiento"
+    },
+    {
+      "id": 142538,
+      "name": "Brisas de la Navidad"
+    },
+    {
+      "id": 142539,
+      "name": "Brizuela"
+    },
+    {
+      "id": 142540,
+      "name": "Buena Vista"
+    },
+    {
+      "id": 142541,
+      "name": "Buenavista"
+    },
+    {
+      "id": 142542,
+      "name": "Buenos Aires"
+    },
+    {
+      "id": 142543,
+      "name": "Cabo Corrientes"
+    },
+    {
+      "id": 142544,
+      "name": "Cajititlán"
+    },
+    {
+      "id": 142545,
+      "name": "Calerita"
+    },
+    {
+      "id": 142546,
+      "name": "Callejones"
+    },
+    {
+      "id": 142547,
+      "name": "Camajapita"
+    },
+    {
+      "id": 142548,
+      "name": "Campestre las Palomas Fraccionamiento"
+    },
+    {
+      "id": 142549,
+      "name": "Campo Acosta"
+    },
+    {
+      "id": 142550,
+      "name": "Campo Real"
+    },
+    {
+      "id": 142551,
+      "name": "Cañada de Islas"
+    },
+    {
+      "id": 142552,
+      "name": "Cañada de Ricos"
+    },
+    {
+      "id": 142553,
+      "name": "Cañada de San Ignacio"
+    },
+    {
+      "id": 142554,
+      "name": "Cañada Grande"
+    },
+    {
+      "id": 142555,
+      "name": "Cañadas de Obregón"
+    },
+    {
+      "id": 142556,
+      "name": "Canchol"
+    },
+    {
+      "id": 142557,
+      "name": "Canoas"
+    },
+    {
+      "id": 142558,
+      "name": "Canoas de Arriba"
+    },
+    {
+      "id": 142559,
+      "name": "Capilla de Guadalupe"
+    },
+    {
+      "id": 142560,
+      "name": "Capilla de Milpillas"
+    },
+    {
+      "id": 142561,
+      "name": "Capulín"
+    },
+    {
+      "id": 142562,
+      "name": "Caquixtle de Arriba"
+    },
+    {
+      "id": 142563,
+      "name": "Carrasqueño"
+    },
+    {
+      "id": 142564,
+      "name": "Carretas"
+    },
+    {
+      "id": 142565,
+      "name": "Carrizal"
+    },
+    {
+      "id": 142566,
+      "name": "Casa de Teja"
+    },
+    {
+      "id": 142567,
+      "name": "Casas Viejas"
+    },
+    {
+      "id": 142568,
+      "name": "Casimiro Castillo"
+    },
+    {
+      "id": 142569,
+      "name": "Castro Urdiales"
+    },
+    {
+      "id": 142570,
+      "name": "Ceja de Bolitas"
+    },
+    {
+      "id": 142571,
+      "name": "Centro de Readaptación Social"
+    },
+    {
+      "id": 142572,
+      "name": "Cerrito de Buenos Aires"
+    },
+    {
+      "id": 142573,
+      "name": "Cerrito de Tierra"
+    },
+    {
+      "id": 142574,
+      "name": "Cerro Santa Fe"
+    },
+    {
+      "id": 142575,
+      "name": "Chacala"
+    },
+    {
+      "id": 142576,
+      "name": "Chachahuatlán"
+    },
+    {
+      "id": 142577,
+      "name": "Chalpicote"
+    },
+    {
+      "id": 142578,
+      "name": "Chamacuero"
+    },
+    {
+      "id": 142579,
+      "name": "Chamela Jalisco"
+    },
+    {
+      "id": 142580,
+      "name": "Chancol"
+    },
+    {
+      "id": 142581,
+      "name": "Chancuellar"
+    },
+    {
+      "id": 142582,
+      "name": "Chapala"
+    },
+    {
+      "id": 142583,
+      "name": "Chayotillo"
+    },
+    {
+      "id": 142584,
+      "name": "Chilacayote"
+    },
+    {
+      "id": 142585,
+      "name": "Chimaltitán"
+    },
+    {
+      "id": 142586,
+      "name": "Chinampas"
+    },
+    {
+      "id": 142587,
+      "name": "Chipinque de Arriba"
+    },
+    {
+      "id": 142588,
+      "name": "Chiquihuitillo"
+    },
+    {
+      "id": 142589,
+      "name": "Chiquilistlán"
+    },
+    {
+      "id": 142590,
+      "name": "Chiquilistlán Jalisco"
+    },
+    {
+      "id": 142591,
+      "name": "Chome"
+    },
+    {
+      "id": 142592,
+      "name": "Churintzio"
+    },
+    {
+      "id": 142593,
+      "name": "Ciénega de Galvanes"
+    },
+    {
+      "id": 142594,
+      "name": "Ciénega del Pastor"
+    },
+    {
+      "id": 142595,
+      "name": "Cihuatlán Jalisco"
+    },
+    {
+      "id": 142596,
+      "name": "Cima del Sol"
+    },
+    {
+      "id": 142597,
+      "name": "Citala"
+    },
+    {
+      "id": 142598,
+      "name": "Ciudad Guzmán"
+    },
+    {
+      "id": 142599,
+      "name": "Ciudad Guzmán CERESO"
+    },
+    {
+      "id": 142600,
+      "name": "Coamostita"
+    },
+    {
+      "id": 142601,
+      "name": "Coatlancillo"
+    },
+    {
+      "id": 142602,
+      "name": "Cocuasco"
+    },
+    {
+      "id": 142603,
+      "name": "Cocula Jalisco"
+    },
+    {
+      "id": 142604,
+      "name": "Codorniz"
+    },
+    {
+      "id": 142605,
+      "name": "Cofradía"
+    },
+    {
+      "id": 142606,
+      "name": "Cofradía Santa Cruz de Camotlán"
+    },
+    {
+      "id": 142607,
+      "name": "Colinas del Roble"
+    },
+    {
+      "id": 142608,
+      "name": "Colinas del Valle"
+    },
+    {
+      "id": 142609,
+      "name": "Colonia Agua Caliente"
+    },
+    {
+      "id": 142610,
+      "name": "Colonia Bosques del Sol"
+    },
+    {
+      "id": 142611,
+      "name": "Colonia Capilla de Rayo"
+    },
+    {
+      "id": 142612,
+      "name": "Colonia Cuisillos"
+    },
+    {
+      "id": 142613,
+      "name": "Colonia Ganadera"
+    },
+    {
+      "id": 142614,
+      "name": "Colonia Guadalupana"
+    },
+    {
+      "id": 142615,
+      "name": "Colonia Hatmasie"
+    },
+    {
+      "id": 142616,
+      "name": "Colonia la Granjena"
+    },
+    {
+      "id": 142617,
+      "name": "Colonia las Granjas"
+    },
+    {
+      "id": 142618,
+      "name": "Colonia las Palmas Campamento SAGAR"
+    },
+    {
+      "id": 142619,
+      "name": "Colonia Lázaro Cárdenas"
+    },
+    {
+      "id": 142620,
+      "name": "Colonia Lázaro Cárdenas del Río"
+    },
+    {
+      "id": 142621,
+      "name": "Colonia Loma Alta"
+    },
+    {
+      "id": 142622,
+      "name": "Colonia los Robles"
+    },
+    {
+      "id": 142623,
+      "name": "Colonia los Sauces"
+    },
+    {
+      "id": 142624,
+      "name": "Colonia Madero"
+    },
+    {
+      "id": 142625,
+      "name": "Colonia Niños Héroes"
+    },
+    {
+      "id": 142626,
+      "name": "Colonia Paso del Molino"
+    },
+    {
+      "id": 142627,
+      "name": "Colonia Pinal Villa"
+    },
+    {
+      "id": 142628,
+      "name": "Colonia Santa Cecilia"
+    },
+    {
+      "id": 142629,
+      "name": "Colonia Trigomil"
+    },
+    {
+      "id": 142630,
+      "name": "Colonia Veintitrés de Mayo"
+    },
+    {
+      "id": 142631,
+      "name": "Colonia Veintiuno de Marzo"
+    },
+    {
+      "id": 142632,
+      "name": "Colotlán"
+    },
+    {
+      "id": 142633,
+      "name": "Colotlán Municipality"
+    },
+    {
+      "id": 142634,
+      "name": "Comanja de Corona"
+    },
+    {
+      "id": 142635,
+      "name": "Concepción de Buenos Aires"
+    },
+    {
+      "id": 142636,
+      "name": "Concepción del Bramador"
+    },
+    {
+      "id": 142637,
+      "name": "Cópala"
+    },
+    {
+      "id": 142638,
+      "name": "Copales"
+    },
+    {
+      "id": 142639,
+      "name": "Corral Blanco"
+    },
+    {
+      "id": 142640,
+      "name": "Corral de Piedra"
+    },
+    {
+      "id": 142641,
+      "name": "Corralillos"
+    },
+    {
+      "id": 142642,
+      "name": "Coyamel"
+    },
+    {
+      "id": 142643,
+      "name": "Coyula"
+    },
+    {
+      "id": 142644,
+      "name": "Cristeros Fraccionamiento"
+    },
+    {
+      "id": 142645,
+      "name": "Cuauhtémoc"
+    },
+    {
+      "id": 142646,
+      "name": "Cuautitlán"
+    },
+    {
+      "id": 142647,
+      "name": "Cuautitlán de García Barragán"
+    },
+    {
+      "id": 142648,
+      "name": "Cuautla"
+    },
+    {
+      "id": 142649,
+      "name": "Cuesta Chica"
+    },
+    {
+      "id": 142650,
+      "name": "Cuesta de Ovejas"
+    },
+    {
+      "id": 142651,
+      "name": "Cuexcomatitlán"
+    },
+    {
+      "id": 142652,
+      "name": "Cuisillos"
+    },
+    {
+      "id": 142653,
+      "name": "Cuitzeo"
+    },
+    {
+      "id": 142654,
+      "name": "Cuquío"
+    },
+    {
+      "id": 142655,
+      "name": "Custique"
+    },
+    {
+      "id": 142656,
+      "name": "Cuxpala"
+    },
+    {
+      "id": 142657,
+      "name": "Degollado"
+    },
+    {
+      "id": 142658,
+      "name": "Dieciocho de Marzo"
+    },
+    {
+      "id": 142659,
+      "name": "Ejido Agua Zarca"
+    },
+    {
+      "id": 142660,
+      "name": "Ejido Ciénega de Mora"
+    },
+    {
+      "id": 142661,
+      "name": "Ejido Modelo"
+    },
+    {
+      "id": 142662,
+      "name": "Ejido Poblado Atenquique"
+    },
+    {
+      "id": 142663,
+      "name": "Ejido Uno de Febrero"
+    },
+    {
+      "id": 142664,
+      "name": "Ejutla"
+    },
+    {
+      "id": 142665,
+      "name": "El Agostadero"
+    },
+    {
+      "id": 142666,
+      "name": "El Aguacate"
+    },
+    {
+      "id": 142667,
+      "name": "El Alto"
+    },
+    {
+      "id": 142668,
+      "name": "El Amarillo"
+    },
+    {
+      "id": 142669,
+      "name": "El Amarradero"
+    },
+    {
+      "id": 142670,
+      "name": "El Arca"
+    },
+    {
+      "id": 142671,
+      "name": "El Arco Ameca"
+    },
+    {
+      "id": 142672,
+      "name": "El Arenal"
+    },
+    {
+      "id": 142673,
+      "name": "El Asoleadero"
+    },
+    {
+      "id": 142674,
+      "name": "El Bajío"
+    },
+    {
+      "id": 142675,
+      "name": "El Bajío de Plascencia"
+    },
+    {
+      "id": 142676,
+      "name": "El Bajío Lomas del Club"
+    },
+    {
+      "id": 142677,
+      "name": "El Banco del Venado"
+    },
+    {
+      "id": 142678,
+      "name": "El Barrio"
+    },
+    {
+      "id": 142679,
+      "name": "El Brillante Fraccionamiento"
+    },
+    {
+      "id": 142680,
+      "name": "El Briseño"
+    },
+    {
+      "id": 142681,
+      "name": "El Cabezón"
+    },
+    {
+      "id": 142682,
+      "name": "El Cacalote"
+    },
+    {
+      "id": 142683,
+      "name": "El Camichín"
+    },
+    {
+      "id": 142684,
+      "name": "El Cantón"
+    },
+    {
+      "id": 142685,
+      "name": "El Capulín de Chávez"
+    },
+    {
+      "id": 142686,
+      "name": "El Carmen"
+    },
+    {
+      "id": 142687,
+      "name": "El Carricillo"
+    },
+    {
+      "id": 142688,
+      "name": "El Carrizal"
+    },
+    {
+      "id": 142689,
+      "name": "El Cedazo"
+    },
+    {
+      "id": 142690,
+      "name": "El Cerrito"
+    },
+    {
+      "id": 142691,
+      "name": "El Cerro Jalisco"
+    },
+    {
+      "id": 142692,
+      "name": "El Chalate"
+    },
+    {
+      "id": 142693,
+      "name": "El Chante"
+    },
+    {
+      "id": 142694,
+      "name": "El Chaveño"
+    },
+    {
+      "id": 142695,
+      "name": "El Chilar"
+    },
+    {
+      "id": 142696,
+      "name": "El Chispeadero"
+    },
+    {
+      "id": 142697,
+      "name": "El Chivatillo"
+    },
+    {
+      "id": 142698,
+      "name": "El Coahuayote"
+    },
+    {
+      "id": 142699,
+      "name": "El Colomo"
+    },
+    {
+      "id": 142700,
+      "name": "El Colorado"
+    },
+    {
+      "id": 142701,
+      "name": "El Columpio"
+    },
+    {
+      "id": 142702,
+      "name": "El Conde"
+    },
+    {
+      "id": 142703,
+      "name": "El Conejo"
+    },
+    {
+      "id": 142704,
+      "name": "El Corcovado"
+    },
+    {
+      "id": 142705,
+      "name": "El Cortijo"
+    },
+    {
+      "id": 142706,
+      "name": "El Coyotillo"
+    },
+    {
+      "id": 142707,
+      "name": "El Crucero"
+    },
+    {
+      "id": 142708,
+      "name": "El Crucero de Arandas"
+    },
+    {
+      "id": 142709,
+      "name": "El Crucero de Santa María"
+    },
+    {
+      "id": 142710,
+      "name": "El Cuatro"
+    },
+    {
+      "id": 142711,
+      "name": "El Derramadero"
+    },
+    {
+      "id": 142712,
+      "name": "El Dique"
+    },
+    {
+      "id": 142713,
+      "name": "El Fraile"
+    },
+    {
+      "id": 142714,
+      "name": "El Gato"
+    },
+    {
+      "id": 142715,
+      "name": "El Grullo Municipality"
+    },
+    {
+      "id": 142716,
+      "name": "El Hollejo"
+    },
+    {
+      "id": 142717,
+      "name": "El Huiroche"
+    },
+    {
+      "id": 142718,
+      "name": "El Jabalí"
+    },
+    {
+      "id": 142719,
+      "name": "El Jagüey"
+    },
+    {
+      "id": 142720,
+      "name": "El Jaral"
+    },
+    {
+      "id": 142721,
+      "name": "El Jaralillo"
+    },
+    {
+      "id": 142722,
+      "name": "El Jaralito"
+    },
+    {
+      "id": 142723,
+      "name": "El Jardín"
+    },
+    {
+      "id": 142724,
+      "name": "El Jazmín"
+    },
+    {
+      "id": 142725,
+      "name": "El Jomate"
+    },
+    {
+      "id": 142726,
+      "name": "El Laurel"
+    },
+    {
+      "id": 142727,
+      "name": "El Lazo"
+    },
+    {
+      "id": 142728,
+      "name": "El Limón"
+    },
+    {
+      "id": 142729,
+      "name": "El Llano de Barajas"
+    },
+    {
+      "id": 142730,
+      "name": "El Llano de los Toros"
+    },
+    {
+      "id": 142731,
+      "name": "El Llano de Plascencia"
+    },
+    {
+      "id": 142732,
+      "name": "El Lobo"
+    },
+    {
+      "id": 142733,
+      "name": "El Lopeño"
+    },
+    {
+      "id": 142734,
+      "name": "El Loreto Occidental"
+    },
+    {
+      "id": 142735,
+      "name": "El Macuchi"
+    },
+    {
+      "id": 142736,
+      "name": "El Maestranzo"
+    },
+    {
+      "id": 142737,
+      "name": "El Manantial"
+    },
+    {
+      "id": 142738,
+      "name": "El Mastranzo"
+    },
+    {
+      "id": 142739,
+      "name": "El Mayoral de Abajo"
+    },
+    {
+      "id": 142740,
+      "name": "El Medineño"
+    },
+    {
+      "id": 142741,
+      "name": "El Mentidero"
+    },
+    {
+      "id": 142742,
+      "name": "El Mesoncito"
+    },
+    {
+      "id": 142743,
+      "name": "El Mezquite Grande"
+    },
+    {
+      "id": 142744,
+      "name": "El Mirador"
+    },
+    {
+      "id": 142745,
+      "name": "El Molino"
+    },
+    {
+      "id": 142746,
+      "name": "El Moral"
+    },
+    {
+      "id": 142747,
+      "name": "El Muey"
+    },
+    {
+      "id": 142748,
+      "name": "El Nacimiento"
+    },
+    {
+      "id": 142749,
+      "name": "El Nacimiento de Abajo"
+    },
+    {
+      "id": 142750,
+      "name": "El Naranjo"
+    },
+    {
+      "id": 142751,
+      "name": "El Nuevo Poblado"
+    },
+    {
+      "id": 142752,
+      "name": "El Ocote"
+    },
+    {
+      "id": 142753,
+      "name": "El Ocotillo"
+    },
+    {
+      "id": 142754,
+      "name": "El Ojo de Agua"
+    },
+    {
+      "id": 142755,
+      "name": "El Ojuelo"
+    },
+    {
+      "id": 142756,
+      "name": "El Olvido"
+    },
+    {
+      "id": 142757,
+      "name": "El Padre Juan"
+    },
+    {
+      "id": 142758,
+      "name": "El Palmar de San Antonio"
+    },
+    {
+      "id": 142759,
+      "name": "El Pantano"
+    },
+    {
+      "id": 142760,
+      "name": "El Paso Real"
+    },
+    {
+      "id": 142761,
+      "name": "El Pino"
+    },
+    {
+      "id": 142762,
+      "name": "El Plan"
+    },
+    {
+      "id": 142763,
+      "name": "El Platanar"
+    },
+    {
+      "id": 142764,
+      "name": "El Pochote"
+    },
+    {
+      "id": 142765,
+      "name": "El Popote"
+    },
+    {
+      "id": 142766,
+      "name": "El Portezuelo"
+    },
+    {
+      "id": 142767,
+      "name": "El Porvenir"
+    },
+    {
+      "id": 142768,
+      "name": "El Pozo Santo"
+    },
+    {
+      "id": 142769,
+      "name": "El Pueblito"
+    },
+    {
+      "id": 142770,
+      "name": "El Puente"
+    },
+    {
+      "id": 142771,
+      "name": "El Puerto"
+    },
+    {
+      "id": 142772,
+      "name": "El Puerto de Amolero"
+    },
+    {
+      "id": 142773,
+      "name": "El Puesto"
+    },
+    {
+      "id": 142774,
+      "name": "El Quemado"
+    },
+    {
+      "id": 142775,
+      "name": "El Quince"
+    },
+    {
+      "id": 142776,
+      "name": "El Ranchito"
+    },
+    {
+      "id": 142777,
+      "name": "El Rayo"
+    },
+    {
+      "id": 142778,
+      "name": "El Rebalse"
+    },
+    {
+      "id": 142779,
+      "name": "El Rebalsito de Apazulco"
+    },
+    {
+      "id": 142780,
+      "name": "El Refugio"
+    },
+    {
+      "id": 142781,
+      "name": "El Refugio de los Altos"
+    },
+    {
+      "id": 142782,
+      "name": "El Refugio de Vázquez"
+    },
+    {
+      "id": 142783,
+      "name": "El Refugio Jalisco"
+    },
+    {
+      "id": 142784,
+      "name": "El Refugio Suchitlán"
+    },
+    {
+      "id": 142785,
+      "name": "El Reparo"
+    },
+    {
+      "id": 142786,
+      "name": "El Rincón"
+    },
+    {
+      "id": 142787,
+      "name": "El Rodeo"
+    },
+    {
+      "id": 142788,
+      "name": "El Rodeo Viejo"
+    },
+    {
+      "id": 142789,
+      "name": "El Romereño"
+    },
+    {
+      "id": 142790,
+      "name": "El Rosario"
+    },
+    {
+      "id": 142791,
+      "name": "El Sabino"
+    },
+    {
+      "id": 142792,
+      "name": "El Sacrificio"
+    },
+    {
+      "id": 142793,
+      "name": "El Salero"
+    },
+    {
+      "id": 142794,
+      "name": "El Salitre"
+    },
+    {
+      "id": 142795,
+      "name": "El Salto"
+    },
+    {
+      "id": 142796,
+      "name": "El Salto de las Peñas"
+    },
+    {
+      "id": 142797,
+      "name": "El Salto de San Antonio"
+    },
+    {
+      "id": 142798,
+      "name": "El Salto Municipality"
+    },
+    {
+      "id": 142799,
+      "name": "El Salvador"
+    },
+    {
+      "id": 142800,
+      "name": "El Salvial"
+    },
+    {
+      "id": 142801,
+      "name": "El Saucillo"
+    },
+    {
+      "id": 142802,
+      "name": "El Saucillo de los Pérez"
+    },
+    {
+      "id": 142803,
+      "name": "El Saucito"
+    },
+    {
+      "id": 142804,
+      "name": "El Sauz de Ibarra"
+    },
+    {
+      "id": 142805,
+      "name": "El Seminario"
+    },
+    {
+      "id": 142806,
+      "name": "El Sitio"
+    },
+    {
+      "id": 142807,
+      "name": "El Sopial"
+    },
+    {
+      "id": 142808,
+      "name": "El Soyate"
+    },
+    {
+      "id": 142809,
+      "name": "El Tablero"
+    },
+    {
+      "id": 142810,
+      "name": "El Taray"
+    },
+    {
+      "id": 142811,
+      "name": "El Tarengo Nuevo"
+    },
+    {
+      "id": 142812,
+      "name": "El Tecolote"
+    },
+    {
+      "id": 142813,
+      "name": "El Tecuán"
+    },
+    {
+      "id": 142814,
+      "name": "El Tempisque"
+    },
+    {
+      "id": 142815,
+      "name": "El Tepame"
+    },
+    {
+      "id": 142816,
+      "name": "El Tepec"
+    },
+    {
+      "id": 142817,
+      "name": "El Tepetate"
+    },
+    {
+      "id": 142818,
+      "name": "El Tepozán"
+    },
+    {
+      "id": 142819,
+      "name": "El Tequesquite"
+    },
+    {
+      "id": 142820,
+      "name": "El Terrerito de Sevilla"
+    },
+    {
+      "id": 142821,
+      "name": "El Terrero"
+    },
+    {
+      "id": 142822,
+      "name": "El Torque"
+    },
+    {
+      "id": 142823,
+      "name": "El Torreón"
+    },
+    {
+      "id": 142824,
+      "name": "El Tuito"
+    },
+    {
+      "id": 142825,
+      "name": "El Tule"
+    },
+    {
+      "id": 142826,
+      "name": "El Tulillo"
+    },
+    {
+      "id": 142827,
+      "name": "El Uvalano"
+    },
+    {
+      "id": 142828,
+      "name": "El Verde"
+    },
+    {
+      "id": 142829,
+      "name": "El Vergel"
+    },
+    {
+      "id": 142830,
+      "name": "El Vigía"
+    },
+    {
+      "id": 142831,
+      "name": "El Zancudo"
+    },
+    {
+      "id": 142832,
+      "name": "El Zapatero"
+    },
+    {
+      "id": 142833,
+      "name": "El Zapote"
+    },
+    {
+      "id": 142834,
+      "name": "El Zapote de Chávez"
+    },
+    {
+      "id": 142835,
+      "name": "El Zapotillo"
+    },
+    {
+      "id": 142836,
+      "name": "Emiliano Zapata"
+    },
+    {
+      "id": 142837,
+      "name": "Emiliano Zapata Jalisco"
+    },
+    {
+      "id": 142838,
+      "name": "Encarnación de Díaz"
+    },
+    {
+      "id": 142839,
+      "name": "Epeche Chico"
+    },
+    {
+      "id": 142840,
+      "name": "Epeche Grande"
+    },
+    {
+      "id": 142841,
+      "name": "Estancia de San Nicolás"
+    },
+    {
+      "id": 142842,
+      "name": "Estancia Vieja de Arriba"
+    },
+    {
+      "id": 142843,
+      "name": "Estanzuela"
+    },
+    {
+      "id": 142844,
+      "name": "Estipa"
+    },
+    {
+      "id": 142845,
+      "name": "Etzatlán Municipality"
+    },
+    {
+      "id": 142846,
+      "name": "Ferrería de Tula"
+    },
+    {
+      "id": 142847,
+      "name": "Francisco I. Madero"
+    },
+    {
+      "id": 142848,
+      "name": "Francisco Primo de Verdad"
+    },
+    {
+      "id": 142849,
+      "name": "Galaxia Bonito Jalisco"
+    },
+    {
+      "id": 142850,
+      "name": "Galaxia la Noria"
+    },
+    {
+      "id": 142851,
+      "name": "Gargantillo"
+    },
+    {
+      "id": 142852,
+      "name": "General Andrés Figueroa"
+    },
+    {
+      "id": 142853,
+      "name": "General Gabriel Leyva"
+    },
+    {
+      "id": 142854,
+      "name": "Geovillas Laureles del Campanario"
+    },
+    {
+      "id": 142855,
+      "name": "Getsemaní"
+    },
+    {
+      "id": 142856,
+      "name": "Gómez Farías Municipality"
+    },
+    {
+      "id": 142857,
+      "name": "Granadillas"
+    },
+    {
+      "id": 142858,
+      "name": "Guachinango"
+    },
+    {
+      "id": 142859,
+      "name": "Guadalajara"
+    },
+    {
+      "id": 142860,
+      "name": "Guadalupe de Lerma"
+    },
+    {
+      "id": 142861,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 142862,
+      "name": "Guamuchilillo"
+    },
+    {
+      "id": 142863,
+      "name": "Guayabitos"
+    },
+    {
+      "id": 142864,
+      "name": "Hacienda de la Labor"
+    },
+    {
+      "id": 142865,
+      "name": "Hacienda los Fresnos"
+    },
+    {
+      "id": 142866,
+      "name": "Hacienda Santa Fe"
+    },
+    {
+      "id": 142867,
+      "name": "Hacienda Vieja"
+    },
+    {
+      "id": 142868,
+      "name": "Hacienda Vieja del Castillo"
+    },
+    {
+      "id": 142869,
+      "name": "Haciendas la Herradura"
+    },
+    {
+      "id": 142870,
+      "name": "Hierba de Matancillas"
+    },
+    {
+      "id": 142871,
+      "name": "Higueras San Miguel"
+    },
+    {
+      "id": 142872,
+      "name": "Higuerillas"
+    },
+    {
+      "id": 142873,
+      "name": "Hostotipaquillo"
+    },
+    {
+      "id": 142874,
+      "name": "Huajacatlán"
+    },
+    {
+      "id": 142875,
+      "name": "Huascato"
+    },
+    {
+      "id": 142876,
+      "name": "Huaxtla"
+    },
+    {
+      "id": 142877,
+      "name": "Huejotitán"
+    },
+    {
+      "id": 142878,
+      "name": "Huejotitlán"
+    },
+    {
+      "id": 142879,
+      "name": "Huejúcar"
+    },
+    {
+      "id": 142880,
+      "name": "Huejuquilla El Alto Municipality"
+    },
+    {
+      "id": 142881,
+      "name": "Huertas Familiares San Pedro"
+    },
+    {
+      "id": 142882,
+      "name": "Huisichi"
+    },
+    {
+      "id": 142883,
+      "name": "Huitzometl"
+    },
+    {
+      "id": 142884,
+      "name": "Huizaches"
+    },
+    {
+      "id": 142885,
+      "name": "Ipazoltic"
+    },
+    {
+      "id": 142886,
+      "name": "IPROVIPE I"
+    },
+    {
+      "id": 142887,
+      "name": "Ixtapa"
+    },
+    {
+      "id": 142888,
+      "name": "Ixtlahuacán de los Membrillos"
+    },
+    {
+      "id": 142889,
+      "name": "Ixtlahuacán del Río"
+    },
+    {
+      "id": 142890,
+      "name": "Izolta"
+    },
+    {
+      "id": 142891,
+      "name": "J. Isabel Flores"
+    },
+    {
+      "id": 142892,
+      "name": "Jalostotitlan"
+    },
+    {
+      "id": 142893,
+      "name": "Jaluco"
+    },
+    {
+      "id": 142894,
+      "name": "Jamay"
+    },
+    {
+      "id": 142895,
+      "name": "Jardines de San Sebastián"
+    },
+    {
+      "id": 142896,
+      "name": "Jardines del Edén"
+    },
+    {
+      "id": 142897,
+      "name": "Jaritas"
+    },
+    {
+      "id": 142898,
+      "name": "Jesús María"
+    },
+    {
+      "id": 142899,
+      "name": "Jesús María Nayarit"
+    },
+    {
+      "id": 142900,
+      "name": "Jilotlán de los Dolores"
+    },
+    {
+      "id": 142901,
+      "name": "Jiquilpan"
+    },
+    {
+      "id": 142902,
+      "name": "Joconoxtle"
+    },
+    {
+      "id": 142903,
+      "name": "Jocotepec"
+    },
+    {
+      "id": 142904,
+      "name": "José de Jesús Aguirre Teocaltiche"
+    },
+    {
+      "id": 142905,
+      "name": "José María Pino Suárez"
+    },
+    {
+      "id": 142906,
+      "name": "Josefa Ortíz de Domínguez"
+    },
+    {
+      "id": 142907,
+      "name": "Juan Gil Preciado"
+    },
+    {
+      "id": 142908,
+      "name": "Juanacatlán"
+    },
+    {
+      "id": 142909,
+      "name": "La Alameda"
+    },
+    {
+      "id": 142910,
+      "name": "La Aldaba"
+    },
+    {
+      "id": 142911,
+      "name": "La Angostura de los Altos"
+    },
+    {
+      "id": 142912,
+      "name": "La Arbolada Plus"
+    },
+    {
+      "id": 142913,
+      "name": "La Barca"
+    },
+    {
+      "id": 142914,
+      "name": "La Barranca"
+    },
+    {
+      "id": 142915,
+      "name": "La Calera"
+    },
+    {
+      "id": 142916,
+      "name": "La Calera Fraccionamiento"
+    },
+    {
+      "id": 142917,
+      "name": "La Cañada"
+    },
+    {
+      "id": 142918,
+      "name": "La Cañada Tezcaltilti"
+    },
+    {
+      "id": 142919,
+      "name": "La Cantera"
+    },
+    {
+      "id": 142920,
+      "name": "La Cebadilla"
+    },
+    {
+      "id": 142921,
+      "name": "La Ceja de la Capilla"
+    },
+    {
+      "id": 142922,
+      "name": "La Cerca Blanca"
+    },
+    {
+      "id": 142923,
+      "name": "La Ciénega"
+    },
+    {
+      "id": 142924,
+      "name": "La Ciénega de Huaistita"
+    },
+    {
+      "id": 142925,
+      "name": "La Cieneguita"
+    },
+    {
+      "id": 142926,
+      "name": "La Cofradía"
+    },
+    {
+      "id": 142927,
+      "name": "La Cofradía del Rosario"
+    },
+    {
+      "id": 142928,
+      "name": "La Colonia San Juanito"
+    },
+    {
+      "id": 142929,
+      "name": "La Concepción"
+    },
+    {
+      "id": 142930,
+      "name": "La Conchilla"
+    },
+    {
+      "id": 142931,
+      "name": "La Conchita"
+    },
+    {
+      "id": 142932,
+      "name": "La Constancia"
+    },
+    {
+      "id": 142933,
+      "name": "La Cruz"
+    },
+    {
+      "id": 142934,
+      "name": "La Cruz de Loreto"
+    },
+    {
+      "id": 142935,
+      "name": "La Cuchilla"
+    },
+    {
+      "id": 142936,
+      "name": "La Cuesta de Medina"
+    },
+    {
+      "id": 142937,
+      "name": "La Cueva"
+    },
+    {
+      "id": 142938,
+      "name": "La Estacada"
+    },
+    {
+      "id": 142939,
+      "name": "La Estancia"
+    },
+    {
+      "id": 142940,
+      "name": "La Estancia de Arriba"
+    },
+    {
+      "id": 142941,
+      "name": "La Estancia de Ayones"
+    },
+    {
+      "id": 142942,
+      "name": "La Estancia de Navarro"
+    },
+    {
+      "id": 142943,
+      "name": "La Estancita"
+    },
+    {
+      "id": 142944,
+      "name": "La Estanzuela"
+    },
+    {
+      "id": 142945,
+      "name": "La Floreña"
+    },
+    {
+      "id": 142946,
+      "name": "La Fortuna Fraccionamiento"
+    },
+    {
+      "id": 142947,
+      "name": "La Frontera"
+    },
+    {
+      "id": 142948,
+      "name": "La Garita Jalisco"
+    },
+    {
+      "id": 142949,
+      "name": "La Garruña"
+    },
+    {
+      "id": 142950,
+      "name": "La Gila"
+    },
+    {
+      "id": 142951,
+      "name": "La Gloria"
+    },
+    {
+      "id": 142952,
+      "name": "La Granjena"
+    },
+    {
+      "id": 142953,
+      "name": "La Guadalupe"
+    },
+    {
+      "id": 142954,
+      "name": "La Guásima"
+    },
+    {
+      "id": 142955,
+      "name": "La Hermosura"
+    },
+    {
+      "id": 142956,
+      "name": "La Higuera"
+    },
+    {
+      "id": 142957,
+      "name": "La Huerta"
+    },
+    {
+      "id": 142958,
+      "name": "La Huevera"
+    },
+    {
+      "id": 142959,
+      "name": "La Isla"
+    },
+    {
+      "id": 142960,
+      "name": "La Jarrilla"
+    },
+    {
+      "id": 142961,
+      "name": "La Joya"
+    },
+    {
+      "id": 142962,
+      "name": "La Joya Chica"
+    },
+    {
+      "id": 142963,
+      "name": "La Joya Grande"
+    },
+    {
+      "id": 142964,
+      "name": "La Labor de la Concepción"
+    },
+    {
+      "id": 142965,
+      "name": "La Labor de los Alba"
+    },
+    {
+      "id": 142966,
+      "name": "La Ladera"
+    },
+    {
+      "id": 142967,
+      "name": "La Ladera Grande"
+    },
+    {
+      "id": 142968,
+      "name": "La Laguna"
+    },
+    {
+      "id": 142969,
+      "name": "La Laguna Grande"
+    },
+    {
+      "id": 142970,
+      "name": "La Laja"
+    },
+    {
+      "id": 142971,
+      "name": "La Lobera"
+    },
+    {
+      "id": 142972,
+      "name": "La Loma"
+    },
+    {
+      "id": 142973,
+      "name": "La Loma de los Rizo"
+    },
+    {
+      "id": 142974,
+      "name": "La Loma del Nopal"
+    },
+    {
+      "id": 142975,
+      "name": "La Lomita"
+    },
+    {
+      "id": 142976,
+      "name": "La Luz"
+    },
+    {
+      "id": 142977,
+      "name": "La Manzanilla"
+    },
+    {
+      "id": 142978,
+      "name": "La Manzanilla de La Paz"
+    },
+    {
+      "id": 142979,
+      "name": "La Mata"
+    },
+    {
+      "id": 142980,
+      "name": "La Merced"
+    },
+    {
+      "id": 142981,
+      "name": "La Mesa"
+    },
+    {
+      "id": 142982,
+      "name": "La Mesa del Guitarrero"
+    },
+    {
+      "id": 142983,
+      "name": "La Mesita"
+    },
+    {
+      "id": 142984,
+      "name": "La Mezcalilla"
+    },
+    {
+      "id": 142985,
+      "name": "La Mezquitera"
+    },
+    {
+      "id": 142986,
+      "name": "La Mial"
+    },
+    {
+      "id": 142987,
+      "name": "La Mina"
+    },
+    {
+      "id": 142988,
+      "name": "La Mojarra"
+    },
+    {
+      "id": 142989,
+      "name": "La Mora"
+    },
+    {
+      "id": 142990,
+      "name": "La Mota"
+    },
+    {
+      "id": 142991,
+      "name": "La Nance"
+    },
+    {
+      "id": 142992,
+      "name": "La Nopalera"
+    },
+    {
+      "id": 142993,
+      "name": "La Noria"
+    },
+    {
+      "id": 142994,
+      "name": "La Orilla de la Cerca"
+    },
+    {
+      "id": 142995,
+      "name": "La Orilla del Agua"
+    },
+    {
+      "id": 142996,
+      "name": "La Palma"
+    },
+    {
+      "id": 142997,
+      "name": "La Palmita"
+    },
+    {
+      "id": 142998,
+      "name": "La Parota"
+    },
+    {
+      "id": 142999,
+      "name": "La Parrita"
+    },
+    {
+      "id": 143000,
+      "name": "La Paz"
+    },
+    {
+      "id": 143001,
+      "name": "La Paz de Ordaz"
+    },
+    {
+      "id": 143002,
+      "name": "La Peña Jalisco"
+    },
+    {
+      "id": 143003,
+      "name": "La Playa"
+    },
+    {
+      "id": 143004,
+      "name": "La Presa"
+    },
+    {
+      "id": 143005,
+      "name": "La Primavera"
+    },
+    {
+      "id": 143006,
+      "name": "La Providencia"
+    },
+    {
+      "id": 143007,
+      "name": "La Puerta de San Pedro"
+    },
+    {
+      "id": 143008,
+      "name": "La Puerta del Coche"
+    },
+    {
+      "id": 143009,
+      "name": "La Punta"
+    },
+    {
+      "id": 143010,
+      "name": "La Purísima"
+    },
+    {
+      "id": 143011,
+      "name": "La Quemada"
+    },
+    {
+      "id": 143012,
+      "name": "La Rana"
+    },
+    {
+      "id": 143013,
+      "name": "La Raya"
+    },
+    {
+      "id": 143014,
+      "name": "La Red"
+    },
+    {
+      "id": 143015,
+      "name": "La Resolana"
+    },
+    {
+      "id": 143016,
+      "name": "La Ribera"
+    },
+    {
+      "id": 143017,
+      "name": "La Roca"
+    },
+    {
+      "id": 143018,
+      "name": "La Rosa"
+    },
+    {
+      "id": 143019,
+      "name": "La Rosa Amarilla"
+    },
+    {
+      "id": 143020,
+      "name": "La Rosa de Castilla"
+    },
+    {
+      "id": 143021,
+      "name": "La Rueda"
+    },
+    {
+      "id": 143022,
+      "name": "La Sanguijuela"
+    },
+    {
+      "id": 143023,
+      "name": "La Sauceda"
+    },
+    {
+      "id": 143024,
+      "name": "La Soledad"
+    },
+    {
+      "id": 143025,
+      "name": "La Teja"
+    },
+    {
+      "id": 143026,
+      "name": "La Tijera"
+    },
+    {
+      "id": 143027,
+      "name": "La Tinajera"
+    },
+    {
+      "id": 143028,
+      "name": "La Tiricia"
+    },
+    {
+      "id": 143029,
+      "name": "La Tortuga"
+    },
+    {
+      "id": 143030,
+      "name": "La Trinidad"
+    },
+    {
+      "id": 143031,
+      "name": "La Unión del Cuatro"
+    },
+    {
+      "id": 143032,
+      "name": "La Vaquera"
+    },
+    {
+      "id": 143033,
+      "name": "La Vega"
+    },
+    {
+      "id": 143034,
+      "name": "La Venta del Astillero"
+    },
+    {
+      "id": 143035,
+      "name": "La Verdolaga"
+    },
+    {
+      "id": 143036,
+      "name": "La Villa"
+    },
+    {
+      "id": 143037,
+      "name": "La Virgencita"
+    },
+    {
+      "id": 143038,
+      "name": "La Yerbabuena"
+    },
+    {
+      "id": 143039,
+      "name": "La Zapotera"
+    },
+    {
+      "id": 143040,
+      "name": "Labor de Medina"
+    },
+    {
+      "id": 143041,
+      "name": "Labor de Montoya"
+    },
+    {
+      "id": 143042,
+      "name": "Ladera Chica"
+    },
+    {
+      "id": 143043,
+      "name": "Lagos de Moreno"
+    },
+    {
+      "id": 143044,
+      "name": "Laguna Colorada"
+    },
+    {
+      "id": 143045,
+      "name": "Laguna de Piedra"
+    },
+    {
+      "id": 143046,
+      "name": "Lagunillas Jalisco"
+    },
+    {
+      "id": 143047,
+      "name": "Las Alfalfas"
+    },
+    {
+      "id": 143048,
+      "name": "Las Amarillas"
+    },
+    {
+      "id": 143049,
+      "name": "Las Asturias Fraccionamiento"
+    },
+    {
+      "id": 143050,
+      "name": "Las Azules"
+    },
+    {
+      "id": 143051,
+      "name": "Las Calaveras"
+    },
+    {
+      "id": 143052,
+      "name": "Las Cañadas"
+    },
+    {
+      "id": 143053,
+      "name": "Las Canoas"
+    },
+    {
+      "id": 143054,
+      "name": "Las Carretas"
+    },
+    {
+      "id": 143055,
+      "name": "Las Golondrinas [Fraccionamiento]"
+    },
+    {
+      "id": 143056,
+      "name": "Las Juntas"
+    },
+    {
+      "id": 143057,
+      "name": "Las Pintas de Arriba"
+    },
+    {
+      "id": 143058,
+      "name": "Las Pintitas"
+    },
+    {
+      "id": 143059,
+      "name": "Las Primaveras [Invernadero]"
+    },
+    {
+      "id": 143060,
+      "name": "Lázaro Cárdenas Jalisco"
+    },
+    {
+      "id": 143061,
+      "name": "Lo Arado"
+    },
+    {
+      "id": 143062,
+      "name": "Lomas de San Agustín"
+    },
+    {
+      "id": 143063,
+      "name": "Lomas de Tejeda"
+    },
+    {
+      "id": 143064,
+      "name": "Lomas del Sur"
+    },
+    {
+      "id": 143065,
+      "name": "Los Azulitos"
+    },
+    {
+      "id": 143066,
+      "name": "Los Cedros"
+    },
+    {
+      "id": 143067,
+      "name": "Los Gavilanes"
+    },
+    {
+      "id": 143068,
+      "name": "Los Guerrero"
+    },
+    {
+      "id": 143069,
+      "name": "Los Mazos"
+    },
+    {
+      "id": 143070,
+      "name": "Los Olivos"
+    },
+    {
+      "id": 143071,
+      "name": "Los Pocitos"
+    },
+    {
+      "id": 143072,
+      "name": "Los Ruiseñores"
+    },
+    {
+      "id": 143073,
+      "name": "Los Sauces"
+    },
+    {
+      "id": 143074,
+      "name": "Los Vergara"
+    },
+    {
+      "id": 143075,
+      "name": "Magdalena"
+    },
+    {
+      "id": 143076,
+      "name": "Manalisco"
+    },
+    {
+      "id": 143077,
+      "name": "Margaritas"
+    },
+    {
+      "id": 143078,
+      "name": "Mascota Municipality"
+    },
+    {
+      "id": 143079,
+      "name": "Matancillas (San Isidro Matancillas)"
+    },
+    {
+      "id": 143080,
+      "name": "Matanzas"
+    },
+    {
+      "id": 143081,
+      "name": "Matatlán"
+    },
+    {
+      "id": 143082,
+      "name": "Mazamitlongo"
+    },
+    {
+      "id": 143083,
+      "name": "Mechoacanejo"
+    },
+    {
+      "id": 143084,
+      "name": "Mexticacán"
+    },
+    {
+      "id": 143085,
+      "name": "Mezcala"
+    },
+    {
+      "id": 143086,
+      "name": "Mezquitic de la Magdalena"
+    },
+    {
+      "id": 143087,
+      "name": "Mezquitic Municipality"
+    },
+    {
+      "id": 143088,
+      "name": "Milpillas"
+    },
+    {
+      "id": 143089,
+      "name": "Misión San Luis Gonzaga Chiriyaqui"
+    },
+    {
+      "id": 143090,
+      "name": "Mismaloya"
+    },
+    {
+      "id": 143091,
+      "name": "Mismaloya (Fraccionamiento Pedregal de Santa Martha)"
+    },
+    {
+      "id": 143092,
+      "name": "Mixtlán"
+    },
+    {
+      "id": 143093,
+      "name": "Moras"
+    },
+    {
+      "id": 143094,
+      "name": "Navajas"
+    },
+    {
+      "id": 143095,
+      "name": "Nextipac"
+    },
+    {
+      "id": 143096,
+      "name": "Nicolás R Casillas"
+    },
+    {
+      "id": 143097,
+      "name": "Nuevo México Jalisco"
+    },
+    {
+      "id": 143098,
+      "name": "Nuevo Refugio de Afuera (Nuevo Refugio)"
+    },
+    {
+      "id": 143099,
+      "name": "Oconahua Jalisco"
+    },
+    {
+      "id": 143100,
+      "name": "Ocotlán Jalisco"
+    },
+    {
+      "id": 143101,
+      "name": "Ojo de Agua de Morán Jalisco"
+    },
+    {
+      "id": 143102,
+      "name": "Ojuelos de Jalisco"
+    },
+    {
+      "id": 143103,
+      "name": "Otatlán"
+    },
+    {
+      "id": 143104,
+      "name": "Palomar"
+    },
+    {
+      "id": 143105,
+      "name": "Palos Altos"
+    },
+    {
+      "id": 143106,
+      "name": "Paseo de las Cañadas"
+    },
+    {
+      "id": 143107,
+      "name": "Paseo del Prado"
+    },
+    {
+      "id": 143108,
+      "name": "Paseo Puente Viejo"
+    },
+    {
+      "id": 143109,
+      "name": "Paseos del Valle [Fraccionamiento]"
+    },
+    {
+      "id": 143110,
+      "name": "Paso de Cuarenta"
+    },
+    {
+      "id": 143111,
+      "name": "Pegueros"
+    },
+    {
+      "id": 143112,
+      "name": "Piedra Pesada"
+    },
+    {
+      "id": 143113,
+      "name": "Pihuamo"
+    },
+    {
+      "id": 143114,
+      "name": "Pochotita"
+    },
+    {
+      "id": 143115,
+      "name": "Poncitlán Municipality"
+    },
+    {
+      "id": 143116,
+      "name": "Portes Gil"
+    },
+    {
+      "id": 143117,
+      "name": "Potrerillos"
+    },
+    {
+      "id": 143118,
+      "name": "Primero de Mayo (Chupaderos)"
+    },
+    {
+      "id": 143119,
+      "name": "Puente de Camotlán"
+    },
+    {
+      "id": 143120,
+      "name": "Puente Grande"
+    },
+    {
+      "id": 143121,
+      "name": "Puerta del Llano"
+    },
+    {
+      "id": 143122,
+      "name": "Puerto Vallarta"
+    },
+    {
+      "id": 143123,
+      "name": "Punta de la Vega"
+    },
+    {
+      "id": 143124,
+      "name": "Purificación"
+    },
+    {
+      "id": 143125,
+      "name": "Quitupan"
+    },
+    {
+      "id": 143126,
+      "name": "Rancho Alegre [Fraccionamiento]"
+    },
+    {
+      "id": 143127,
+      "name": "Real del Valle (El Paraíso) [Fraccionamiento]"
+    },
+    {
+      "id": 143128,
+      "name": "Rinconada la Loma [Fraccionamiento]"
+    },
+    {
+      "id": 143129,
+      "name": "San Agustín"
+    },
+    {
+      "id": 143130,
+      "name": "San Andrés Cohamiata"
+    },
+    {
+      "id": 143131,
+      "name": "San Andrés Ixtlán"
+    },
+    {
+      "id": 143132,
+      "name": "San Antonio"
+    },
+    {
+      "id": 143133,
+      "name": "San Antonio de los Barrera"
+    },
+    {
+      "id": 143134,
+      "name": "San Antonio de los Vázquez"
+    },
+    {
+      "id": 143135,
+      "name": "San Antonio de Rivas"
+    },
+    {
+      "id": 143136,
+      "name": "San Clemente"
+    },
+    {
+      "id": 143137,
+      "name": "San Cristóbal"
+    },
+    {
+      "id": 143138,
+      "name": "San Cristóbal de la Barranca Municipality"
+    },
+    {
+      "id": 143139,
+      "name": "San Cristóbal Zapotitlán"
+    },
+    {
+      "id": 143140,
+      "name": "San Diego de Alejandría"
+    },
+    {
+      "id": 143141,
+      "name": "San Esteban (San Miguel Tateposco)"
+    },
+    {
+      "id": 143142,
+      "name": "San Felipe de Híjar"
+    },
+    {
+      "id": 143143,
+      "name": "San Francisco de Asís"
+    },
+    {
+      "id": 143144,
+      "name": "San Francisco de Rivas"
+    },
+    {
+      "id": 143145,
+      "name": "San Gabriel  Jalisco"
+    },
+    {
+      "id": 143146,
+      "name": "San Gaspar"
+    },
+    {
+      "id": 143147,
+      "name": "San Gaspar de los Reyes"
+    },
+    {
+      "id": 143148,
+      "name": "San Ignacio Municipality Jalisco"
+    },
+    {
+      "id": 143149,
+      "name": "San Isidro"
+    },
+    {
+      "id": 143150,
+      "name": "San Isidro Mazatepec"
+    },
+    {
+      "id": 143151,
+      "name": "San Jacintito"
+    },
+    {
+      "id": 143152,
+      "name": "San Jacinto Jalisco"
+    },
+    {
+      "id": 143153,
+      "name": "San Joaquín Zorrillos"
+    },
+    {
+      "id": 143154,
+      "name": "San Jorge"
+    },
+    {
+      "id": 143155,
+      "name": "San José Casas Caídas"
+    },
+    {
+      "id": 143156,
+      "name": "San Jose de Gracia Jalisco"
+    },
+    {
+      "id": 143157,
+      "name": "San José de la Paz"
+    },
+    {
+      "id": 143158,
+      "name": "San José de las Flores"
+    },
+    {
+      "id": 143159,
+      "name": "San José de los Reynoso"
+    },
+    {
+      "id": 143160,
+      "name": "San José del Caliche (El Caliche)"
+    },
+    {
+      "id": 143161,
+      "name": "San José del Castillo"
+    },
+    {
+      "id": 143162,
+      "name": "San José del Valle"
+    },
+    {
+      "id": 143163,
+      "name": "San Juan Cosalá"
+    },
+    {
+      "id": 143164,
+      "name": "San Juan de los Arcos"
+    },
+    {
+      "id": 143165,
+      "name": "San Juan de los Lagos"
+    },
+    {
+      "id": 143166,
+      "name": "San Juan Tecomatlán"
+    },
+    {
+      "id": 143167,
+      "name": "San Juanito de Escobedo"
+    },
+    {
+      "id": 143168,
+      "name": "San Julián"
+    },
+    {
+      "id": 143169,
+      "name": "San Lucas Evangelista"
+    },
+    {
+      "id": 143170,
+      "name": "San Luciano"
+    },
+    {
+      "id": 143171,
+      "name": "San Luis de Agua Caliente"
+    },
+    {
+      "id": 143172,
+      "name": "San Luis Soyatlán"
+    },
+    {
+      "id": 143173,
+      "name": "San Marcos"
+    },
+    {
+      "id": 143174,
+      "name": "San Martín de Bolaños"
+    },
+    {
+      "id": 143175,
+      "name": "San Martín de Hidalgo"
+    },
+    {
+      "id": 143176,
+      "name": "San Miguel Cuyutlán"
+    },
+    {
+      "id": 143177,
+      "name": "San Miguel de la Paz"
+    },
+    {
+      "id": 143178,
+      "name": "San Miguel de la Sierra Ayutla"
+    },
+    {
+      "id": 143179,
+      "name": "San Miguel el Alto"
+    },
+    {
+      "id": 143180,
+      "name": "San Miguel Zapotitlán"
+    },
+    {
+      "id": 143181,
+      "name": "San Nicolas"
+    },
+    {
+      "id": 143182,
+      "name": "San Nicolás de las Flores"
+    },
+    {
+      "id": 143183,
+      "name": "San Patricio Jalisco"
+    },
+    {
+      "id": 143184,
+      "name": "San Pedro"
+    },
+    {
+      "id": 143185,
+      "name": "San Pedro Itzicán"
+    },
+    {
+      "id": 143186,
+      "name": "San Sebastian"
+    },
+    {
+      "id": 143187,
+      "name": "San Sebastián del Oeste"
+    },
+    {
+      "id": 143188,
+      "name": "San Vicente"
+    },
+    {
+      "id": 143189,
+      "name": "Santa Anita"
+    },
+    {
+      "id": 143190,
+      "name": "Santa Cruz de Barcenas"
+    },
+    {
+      "id": 143191,
+      "name": "Santa Cruz de la Loma (Tepetates)"
+    },
+    {
+      "id": 143192,
+      "name": "Santa Cruz de la Soledad"
+    },
+    {
+      "id": 143193,
+      "name": "Santa Cruz de las Flores Tlajomulco de Zúñiga Jalisco"
+    },
+    {
+      "id": 143194,
+      "name": "Santa Cruz del Astillero"
+    },
+    {
+      "id": 143195,
+      "name": "Santa Cruz del Valle"
+    },
+    {
+      "id": 143196,
+      "name": "Santa Cruz el Grande"
+    },
+    {
+      "id": 143197,
+      "name": "Santa María de Enmedio"
+    },
+    {
+      "id": 143198,
+      "name": "Santa María de los Ángeles"
+    },
+    {
+      "id": 143199,
+      "name": "Santa María del Valle"
+    },
+    {
+      "id": 143200,
+      "name": "Santa María Transpontina"
+    },
+    {
+      "id": 143201,
+      "name": "Santa Rita"
+    },
+    {
+      "id": 143202,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 143203,
+      "name": "Santa Rosalía Jalisco"
+    },
+    {
+      "id": 143204,
+      "name": "Santa Teresa"
+    },
+    {
+      "id": 143205,
+      "name": "Santiaguito"
+    },
+    {
+      "id": 143206,
+      "name": "Santiaguito (Santiaguito de Velázquez)"
+    },
+    {
+      "id": 143207,
+      "name": "Sayula"
+    },
+    {
+      "id": 143208,
+      "name": "Soyatlán de Afuera"
+    },
+    {
+      "id": 143209,
+      "name": "Soyatlán del Oro"
+    },
+    {
+      "id": 143210,
+      "name": "Talpa de Allende"
+    },
+    {
+      "id": 143211,
+      "name": "Tamazula de Gordiano"
+    },
+    {
+      "id": 143212,
+      "name": "Tamazulita Jalisco"
+    },
+    {
+      "id": 143213,
+      "name": "Tapalpa"
+    },
+    {
+      "id": 143214,
+      "name": "Tazumbo"
+    },
+    {
+      "id": 143215,
+      "name": "Tecalitlán Municipality"
+    },
+    {
+      "id": 143216,
+      "name": "Techaluta de Montenegro"
+    },
+    {
+      "id": 143217,
+      "name": "Tecolotlán"
+    },
+    {
+      "id": 143218,
+      "name": "Tecomates"
+    },
+    {
+      "id": 143219,
+      "name": "Tecuattitan"
+    },
+    {
+      "id": 143220,
+      "name": "Telcruz"
+    },
+    {
+      "id": 143221,
+      "name": "Temastián (La Cantera)"
+    },
+    {
+      "id": 143222,
+      "name": "Tenamaxtlán"
+    },
+    {
+      "id": 143223,
+      "name": "Tenayuca"
+    },
+    {
+      "id": 143224,
+      "name": "Teocaltiche"
+    },
+    {
+      "id": 143225,
+      "name": "Teocuitatlán de Corona"
+    },
+    {
+      "id": 143226,
+      "name": "Tepatitlán de Morelos"
+    },
+    {
+      "id": 143227,
+      "name": "Tepec"
+    },
+    {
+      "id": 143228,
+      "name": "Tepusco"
+    },
+    {
+      "id": 143229,
+      "name": "Tequesquitlán"
+    },
+    {
+      "id": 143230,
+      "name": "Tequila"
+    },
+    {
+      "id": 143231,
+      "name": "Tesistán"
+    },
+    {
+      "id": 143232,
+      "name": "Teuchitlán Jalisco"
+    },
+    {
+      "id": 143233,
+      "name": "Tierras Coloradas"
+    },
+    {
+      "id": 143234,
+      "name": "Tizapán el Alto"
+    },
+    {
+      "id": 143235,
+      "name": "Tlacuitapan"
+    },
+    {
+      "id": 143236,
+      "name": "Tlajomulco de Zuñiga"
+    },
+    {
+      "id": 143237,
+      "name": "Tlaquepaque"
+    },
+    {
+      "id": 143238,
+      "name": "Tolimán Municipality"
+    },
+    {
+      "id": 143239,
+      "name": "Tomatlán"
+    },
+    {
+      "id": 143240,
+      "name": "Tonalá"
+    },
+    {
+      "id": 143241,
+      "name": "Tonaya"
+    },
+    {
+      "id": 143242,
+      "name": "Tonila"
+    },
+    {
+      "id": 143243,
+      "name": "Totatiche Municipality"
+    },
+    {
+      "id": 143244,
+      "name": "Tototlán"
+    },
+    {
+      "id": 143245,
+      "name": "Trapiche de Abra"
+    },
+    {
+      "id": 143246,
+      "name": "Trejos"
+    },
+    {
+      "id": 143247,
+      "name": "Tultitlán"
+    },
+    {
+      "id": 143248,
+      "name": "Tuxcacuesco"
+    },
+    {
+      "id": 143249,
+      "name": "Tuxcueca"
+    },
+    {
+      "id": 143250,
+      "name": "Tuxpan"
+    },
+    {
+      "id": 143251,
+      "name": "Tuxpan de Bolaños"
+    },
+    {
+      "id": 143252,
+      "name": "Unión de San Antonio"
+    },
+    {
+      "id": 143253,
+      "name": "Unión de Tula"
+    },
+    {
+      "id": 143254,
+      "name": "Usmajac"
+    },
+    {
+      "id": 143255,
+      "name": "Valle de Guadalupe Municipality"
+    },
+    {
+      "id": 143256,
+      "name": "Valle de Juárez"
+    },
+    {
+      "id": 143257,
+      "name": "Valle de los Girasoles [Fraccionamiento]"
+    },
+    {
+      "id": 143258,
+      "name": "Valle Dorado Inn"
+    },
+    {
+      "id": 143259,
+      "name": "Vaquerias"
+    },
+    {
+      "id": 143260,
+      "name": "Villa Corona"
+    },
+    {
+      "id": 143261,
+      "name": "Villa de los Niños"
+    },
+    {
+      "id": 143262,
+      "name": "Villa Emiliano Zapata"
+    },
+    {
+      "id": 143263,
+      "name": "Villa Guerrero Municipality"
+    },
+    {
+      "id": 143264,
+      "name": "Villa Hidalgo"
+    },
+    {
+      "id": 143265,
+      "name": "Villa las Flores"
+    },
+    {
+      "id": 143266,
+      "name": "Villa Purificación"
+    },
+    {
+      "id": 143267,
+      "name": "Villas de la Hacienda [Fraccionamiento]"
+    },
+    {
+      "id": 143268,
+      "name": "Vista Hermosa"
+    },
+    {
+      "id": 143269,
+      "name": "Vistas del Maguey [Fraccionamiento]"
+    },
+    {
+      "id": 143270,
+      "name": "Xochitlán"
+    },
+    {
+      "id": 143271,
+      "name": "Yahualica de González Gallo"
+    },
+    {
+      "id": 143272,
+      "name": "Zacoalco de Torres"
+    },
+    {
+      "id": 143273,
+      "name": "Zalamea"
+    },
+    {
+      "id": 143274,
+      "name": "Zapopan"
+    },
+    {
+      "id": 143275,
+      "name": "Zapotiltic"
+    },
+    {
+      "id": 143276,
+      "name": "Zapotitán de Hidalgo"
+    },
+    {
+      "id": 143277,
+      "name": "Zapotitlán de Vadillo"
+    },
+    {
+      "id": 143278,
+      "name": "Zapotlán del Rey"
+    },
+    {
+      "id": 143279,
+      "name": "Zapotlán El Grande Municipality"
+    },
+    {
+      "id": 143280,
+      "name": "Zapotlanejo"
+    },
+    {
+      "id": 143281,
+      "name": "Zula"
+    }
+  ]
+}

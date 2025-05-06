@@ -1,0 +1,363 @@
+{
+  "id": 3514,
+  "name": "Plzeň-jih",
+  "state_code": "324",
+  "cities": [
+    {
+      "id": 95021,
+      "name": "Bělá nad Radbuzou"
+    },
+    {
+      "id": 95022,
+      "name": "Bezdružice"
+    },
+    {
+      "id": 95023,
+      "name": "Blížejov"
+    },
+    {
+      "id": 95024,
+      "name": "Blovice"
+    },
+    {
+      "id": 95025,
+      "name": "Bor"
+    },
+    {
+      "id": 95026,
+      "name": "Břasy"
+    },
+    {
+      "id": 95027,
+      "name": "Černošín"
+    },
+    {
+      "id": 95028,
+      "name": "Chlumčany"
+    },
+    {
+      "id": 95029,
+      "name": "Chodová Planá"
+    },
+    {
+      "id": 95030,
+      "name": "Chotěšov"
+    },
+    {
+      "id": 95031,
+      "name": "Chrást"
+    },
+    {
+      "id": 95032,
+      "name": "Dobřany"
+    },
+    {
+      "id": 95033,
+      "name": "Dobřív"
+    },
+    {
+      "id": 95034,
+      "name": "Domažlice"
+    },
+    {
+      "id": 95035,
+      "name": "Dýšina"
+    },
+    {
+      "id": 95036,
+      "name": "Hartmanice"
+    },
+    {
+      "id": 95037,
+      "name": "Heřmanova Huť"
+    },
+    {
+      "id": 95038,
+      "name": "Holoubkov"
+    },
+    {
+      "id": 95039,
+      "name": "Holýšov"
+    },
+    {
+      "id": 95040,
+      "name": "Horažďovice"
+    },
+    {
+      "id": 95041,
+      "name": "Horní Bříza"
+    },
+    {
+      "id": 95042,
+      "name": "Horšovský Týn"
+    },
+    {
+      "id": 95043,
+      "name": "Hostouň"
+    },
+    {
+      "id": 95044,
+      "name": "Hrádek"
+    },
+    {
+      "id": 95045,
+      "name": "Hromnice"
+    },
+    {
+      "id": 95046,
+      "name": "Janovice nad Úhlavou"
+    },
+    {
+      "id": 95047,
+      "name": "Kasejovice"
+    },
+    {
+      "id": 95048,
+      "name": "Kašperské Hory"
+    },
+    {
+      "id": 95049,
+      "name": "Kaznějov"
+    },
+    {
+      "id": 95050,
+      "name": "Kdyně"
+    },
+    {
+      "id": 95051,
+      "name": "Kladruby"
+    },
+    {
+      "id": 95052,
+      "name": "Klatovy"
+    },
+    {
+      "id": 95053,
+      "name": "Klenčí pod Čerchovem"
+    },
+    {
+      "id": 95054,
+      "name": "Kolinec"
+    },
+    {
+      "id": 95055,
+      "name": "Kout na Šumavě"
+    },
+    {
+      "id": 95056,
+      "name": "Kožlany"
+    },
+    {
+      "id": 95057,
+      "name": "Kralovice"
+    },
+    {
+      "id": 95058,
+      "name": "Líně"
+    },
+    {
+      "id": 95059,
+      "name": "Manětín"
+    },
+    {
+      "id": 95060,
+      "name": "Měčín"
+    },
+    {
+      "id": 95061,
+      "name": "Meclov"
+    },
+    {
+      "id": 95062,
+      "name": "Merklín"
+    },
+    {
+      "id": 95063,
+      "name": "Město Touškov"
+    },
+    {
+      "id": 95064,
+      "name": "Mirošov"
+    },
+    {
+      "id": 95065,
+      "name": "Mrákov"
+    },
+    {
+      "id": 95066,
+      "name": "Mýto"
+    },
+    {
+      "id": 95067,
+      "name": "Nepomuk"
+    },
+    {
+      "id": 95068,
+      "name": "Nezvěstice"
+    },
+    {
+      "id": 95069,
+      "name": "Nýřany"
+    },
+    {
+      "id": 95070,
+      "name": "Nýrsko"
+    },
+    {
+      "id": 95071,
+      "name": "Okres Domažlice"
+    },
+    {
+      "id": 95072,
+      "name": "Okres Klatovy"
+    },
+    {
+      "id": 95073,
+      "name": "Okres Plzeň-jih"
+    },
+    {
+      "id": 95074,
+      "name": "Okres Plzeň-město"
+    },
+    {
+      "id": 95075,
+      "name": "Okres Plzeň-sever"
+    },
+    {
+      "id": 95076,
+      "name": "Okres Rokycany"
+    },
+    {
+      "id": 95077,
+      "name": "Okres Tachov"
+    },
+    {
+      "id": 95078,
+      "name": "Osek"
+    },
+    {
+      "id": 95079,
+      "name": "Pilsen"
+    },
+    {
+      "id": 95080,
+      "name": "Planá"
+    },
+    {
+      "id": 95081,
+      "name": "Plánice"
+    },
+    {
+      "id": 95082,
+      "name": "Plasy"
+    },
+    {
+      "id": 95083,
+      "name": "Poběžovice"
+    },
+    {
+      "id": 95084,
+      "name": "Postřekov"
+    },
+    {
+      "id": 95085,
+      "name": "Přeštice"
+    },
+    {
+      "id": 95086,
+      "name": "Přimda"
+    },
+    {
+      "id": 95087,
+      "name": "Radnice"
+    },
+    {
+      "id": 95088,
+      "name": "Rokycany"
+    },
+    {
+      "id": 95089,
+      "name": "Spálené Poříčí"
+    },
+    {
+      "id": 95090,
+      "name": "Šťáhlavy"
+    },
+    {
+      "id": 95091,
+      "name": "Staňkov"
+    },
+    {
+      "id": 95092,
+      "name": "Starý Plzenec"
+    },
+    {
+      "id": 95093,
+      "name": "Štěnovice"
+    },
+    {
+      "id": 95094,
+      "name": "Stod"
+    },
+    {
+      "id": 95095,
+      "name": "Strašice"
+    },
+    {
+      "id": 95096,
+      "name": "Stráž"
+    },
+    {
+      "id": 95097,
+      "name": "Strážov"
+    },
+    {
+      "id": 95098,
+      "name": "Stříbro"
+    },
+    {
+      "id": 95099,
+      "name": "Sušice"
+    },
+    {
+      "id": 95100,
+      "name": "Švihov"
+    },
+    {
+      "id": 95101,
+      "name": "Tachov"
+    },
+    {
+      "id": 95102,
+      "name": "Tlučná"
+    },
+    {
+      "id": 95103,
+      "name": "Třemošná"
+    },
+    {
+      "id": 95104,
+      "name": "Vejprnice"
+    },
+    {
+      "id": 95105,
+      "name": "Všeruby"
+    },
+    {
+      "id": 95106,
+      "name": "Zbiroh"
+    },
+    {
+      "id": 95107,
+      "name": "Zbůch"
+    },
+    {
+      "id": 95108,
+      "name": "Železná Ruda"
+    },
+    {
+      "id": 95109,
+      "name": "Žihle"
+    }
+  ]
+}

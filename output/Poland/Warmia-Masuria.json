@@ -1,0 +1,415 @@
+{
+  "id": 5836,
+  "name": "Warmia-Masuria",
+  "state_code": "28",
+  "cities": [
+    {
+      "id": 163769,
+      "name": "Banie Mazurskie"
+    },
+    {
+      "id": 163770,
+      "name": "Barciany"
+    },
+    {
+      "id": 163771,
+      "name": "Barczewo"
+    },
+    {
+      "id": 163772,
+      "name": "Bartoszyce"
+    },
+    {
+      "id": 163773,
+      "name": "Biała Piska"
+    },
+    {
+      "id": 163774,
+      "name": "Biskupiec"
+    },
+    {
+      "id": 163775,
+      "name": "Bisztynek"
+    },
+    {
+      "id": 163776,
+      "name": "Braniewo"
+    },
+    {
+      "id": 163777,
+      "name": "Czerwonka"
+    },
+    {
+      "id": 163778,
+      "name": "Dąbrówno"
+    },
+    {
+      "id": 163779,
+      "name": "Dobre Miasto"
+    },
+    {
+      "id": 163780,
+      "name": "Dywity"
+    },
+    {
+      "id": 163781,
+      "name": "Działdowo"
+    },
+    {
+      "id": 163782,
+      "name": "Dźwierzuty"
+    },
+    {
+      "id": 163783,
+      "name": "Elbląg"
+    },
+    {
+      "id": 163784,
+      "name": "Ełk"
+    },
+    {
+      "id": 163785,
+      "name": "Frombork"
+    },
+    {
+      "id": 163786,
+      "name": "Gierłoż"
+    },
+    {
+      "id": 163787,
+      "name": "Gierzwałd"
+    },
+    {
+      "id": 163788,
+      "name": "Gietrzwałd"
+    },
+    {
+      "id": 163789,
+      "name": "Giżycko"
+    },
+    {
+      "id": 163790,
+      "name": "Gołdap"
+    },
+    {
+      "id": 163791,
+      "name": "Górowo Iławeckie"
+    },
+    {
+      "id": 163792,
+      "name": "Gronowo Elbląskie"
+    },
+    {
+      "id": 163793,
+      "name": "Gronowo Górne"
+    },
+    {
+      "id": 163794,
+      "name": "Iława"
+    },
+    {
+      "id": 163795,
+      "name": "Iłowo -Osada"
+    },
+    {
+      "id": 163796,
+      "name": "Jedwabno"
+    },
+    {
+      "id": 163797,
+      "name": "Jeziorany"
+    },
+    {
+      "id": 163798,
+      "name": "Jonkowo"
+    },
+    {
+      "id": 163799,
+      "name": "Kętrzyn"
+    },
+    {
+      "id": 163800,
+      "name": "Kisielice"
+    },
+    {
+      "id": 163801,
+      "name": "Korsze"
+    },
+    {
+      "id": 163802,
+      "name": "Kortowo"
+    },
+    {
+      "id": 163803,
+      "name": "Kowale Oleckie"
+    },
+    {
+      "id": 163804,
+      "name": "Kozłowo"
+    },
+    {
+      "id": 163805,
+      "name": "Kruklanki"
+    },
+    {
+      "id": 163806,
+      "name": "Kurzętnik"
+    },
+    {
+      "id": 163807,
+      "name": "Lelkowo"
+    },
+    {
+      "id": 163808,
+      "name": "Lidzbark"
+    },
+    {
+      "id": 163809,
+      "name": "Lidzbark Warmiński"
+    },
+    {
+      "id": 163810,
+      "name": "Lubawa"
+    },
+    {
+      "id": 163811,
+      "name": "Lubomino"
+    },
+    {
+      "id": 163812,
+      "name": "Małdyty"
+    },
+    {
+      "id": 163813,
+      "name": "Mikołajki"
+    },
+    {
+      "id": 163814,
+      "name": "Miłakowo"
+    },
+    {
+      "id": 163815,
+      "name": "Miłomłyn"
+    },
+    {
+      "id": 163816,
+      "name": "Młynary"
+    },
+    {
+      "id": 163817,
+      "name": "Morąg"
+    },
+    {
+      "id": 163818,
+      "name": "Mrągowo"
+    },
+    {
+      "id": 163819,
+      "name": "Nidzica"
+    },
+    {
+      "id": 163820,
+      "name": "Nowe Miasto Lubawskie"
+    },
+    {
+      "id": 163821,
+      "name": "Olecko"
+    },
+    {
+      "id": 163822,
+      "name": "Olsztyn"
+    },
+    {
+      "id": 163823,
+      "name": "Olsztynek"
+    },
+    {
+      "id": 163824,
+      "name": "Orneta"
+    },
+    {
+      "id": 163825,
+      "name": "Orzysz"
+    },
+    {
+      "id": 163826,
+      "name": "Ostróda"
+    },
+    {
+      "id": 163827,
+      "name": "Pasłęk"
+    },
+    {
+      "id": 163828,
+      "name": "Pasym"
+    },
+    {
+      "id": 163829,
+      "name": "Piecki"
+    },
+    {
+      "id": 163830,
+      "name": "Pieniężno"
+    },
+    {
+      "id": 163831,
+      "name": "Pisz"
+    },
+    {
+      "id": 163832,
+      "name": "Powiat bartoszycki"
+    },
+    {
+      "id": 163833,
+      "name": "Powiat braniewski"
+    },
+    {
+      "id": 163834,
+      "name": "Powiat działdowski"
+    },
+    {
+      "id": 163835,
+      "name": "Powiat elbląski"
+    },
+    {
+      "id": 163836,
+      "name": "Powiat ełcki"
+    },
+    {
+      "id": 163837,
+      "name": "Powiat giżycki"
+    },
+    {
+      "id": 163838,
+      "name": "Powiat gołdapski"
+    },
+    {
+      "id": 163839,
+      "name": "Powiat iławski"
+    },
+    {
+      "id": 163840,
+      "name": "Powiat kętrzyński"
+    },
+    {
+      "id": 163841,
+      "name": "Powiat lidzbarski"
+    },
+    {
+      "id": 163842,
+      "name": "Powiat mrągowski"
+    },
+    {
+      "id": 163843,
+      "name": "Powiat nidzicki"
+    },
+    {
+      "id": 163844,
+      "name": "Powiat nowomiejski"
+    },
+    {
+      "id": 163845,
+      "name": "Powiat olecki"
+    },
+    {
+      "id": 163846,
+      "name": "Powiat olsztyński"
+    },
+    {
+      "id": 163847,
+      "name": "Powiat ostródzki"
+    },
+    {
+      "id": 163848,
+      "name": "Powiat piski"
+    },
+    {
+      "id": 163849,
+      "name": "Powiat szczycieński"
+    },
+    {
+      "id": 163850,
+      "name": "Powiat węgorzewski"
+    },
+    {
+      "id": 163851,
+      "name": "Pozezdrze"
+    },
+    {
+      "id": 163852,
+      "name": "Prostki"
+    },
+    {
+      "id": 163853,
+      "name": "Purda"
+    },
+    {
+      "id": 163854,
+      "name": "Reszel"
+    },
+    {
+      "id": 163855,
+      "name": "Rozogi"
+    },
+    {
+      "id": 163856,
+      "name": "Ruciane-Nida"
+    },
+    {
+      "id": 163857,
+      "name": "Rybno"
+    },
+    {
+      "id": 163858,
+      "name": "Ryn"
+    },
+    {
+      "id": 163859,
+      "name": "Sępopol"
+    },
+    {
+      "id": 163860,
+      "name": "Srokowo"
+    },
+    {
+      "id": 163861,
+      "name": "Stare Juchy"
+    },
+    {
+      "id": 163862,
+      "name": "Stawiguda"
+    },
+    {
+      "id": 163863,
+      "name": "Susz"
+    },
+    {
+      "id": 163864,
+      "name": "Swiętajno"
+    },
+    {
+      "id": 163865,
+      "name": "Szczytno"
+    },
+    {
+      "id": 163866,
+      "name": "Tolkmicko"
+    },
+    {
+      "id": 163867,
+      "name": "Węgorzewo"
+    },
+    {
+      "id": 163868,
+      "name": "Wielbark"
+    },
+    {
+      "id": 163869,
+      "name": "Wydminy"
+    },
+    {
+      "id": 163870,
+      "name": "Zalewo"
+    }
+  ]
+}

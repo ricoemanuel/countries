@@ -1,0 +1,583 @@
+{
+  "id": 4463,
+  "name": "Umbria",
+  "state_code": "55",
+  "cities": [
+    {
+      "id": 133571,
+      "name": "Acquasparta"
+    },
+    {
+      "id": 133572,
+      "name": "Allerona"
+    },
+    {
+      "id": 133573,
+      "name": "Alviano"
+    },
+    {
+      "id": 133574,
+      "name": "Amelia"
+    },
+    {
+      "id": 133575,
+      "name": "Arrone"
+    },
+    {
+      "id": 133576,
+      "name": "Assisi"
+    },
+    {
+      "id": 133577,
+      "name": "Attigliano"
+    },
+    {
+      "id": 133578,
+      "name": "Avigliano Umbro"
+    },
+    {
+      "id": 133579,
+      "name": "Baschi"
+    },
+    {
+      "id": 133580,
+      "name": "Bastardo"
+    },
+    {
+      "id": 133581,
+      "name": "Bastia umbra"
+    },
+    {
+      "id": 133582,
+      "name": "Bettona"
+    },
+    {
+      "id": 133583,
+      "name": "Bevagna"
+    },
+    {
+      "id": 133584,
+      "name": "Bruna"
+    },
+    {
+      "id": 133585,
+      "name": "Calvi dell'Umbria"
+    },
+    {
+      "id": 133586,
+      "name": "Campello sul Clitunno"
+    },
+    {
+      "id": 133587,
+      "name": "Cannara"
+    },
+    {
+      "id": 133588,
+      "name": "Capitan Loreto"
+    },
+    {
+      "id": 133589,
+      "name": "Casa del Diavolo"
+    },
+    {
+      "id": 133590,
+      "name": "Cascia"
+    },
+    {
+      "id": 133591,
+      "name": "Castel Giorgio"
+    },
+    {
+      "id": 133592,
+      "name": "Castel Ritaldi"
+    },
+    {
+      "id": 133593,
+      "name": "Castel Viscardo"
+    },
+    {
+      "id": 133594,
+      "name": "Casteltodino"
+    },
+    {
+      "id": 133595,
+      "name": "Castiglione del Lago"
+    },
+    {
+      "id": 133596,
+      "name": "Cerbara"
+    },
+    {
+      "id": 133597,
+      "name": "Cerreto di Spoleto"
+    },
+    {
+      "id": 133598,
+      "name": "Chiugiana-La Commenda"
+    },
+    {
+      "id": 133599,
+      "name": "Ciconia"
+    },
+    {
+      "id": 133600,
+      "name": "Cipolleto"
+    },
+    {
+      "id": 133601,
+      "name": "Citerna"
+    },
+    {
+      "id": 133602,
+      "name": "Città della Pieve"
+    },
+    {
+      "id": 133603,
+      "name": "Città di Castello"
+    },
+    {
+      "id": 133604,
+      "name": "Collazzone"
+    },
+    {
+      "id": 133605,
+      "name": "Collepepe"
+    },
+    {
+      "id": 133606,
+      "name": "Colombella"
+    },
+    {
+      "id": 133607,
+      "name": "Corciano"
+    },
+    {
+      "id": 133608,
+      "name": "Costacciaro"
+    },
+    {
+      "id": 133609,
+      "name": "Costano"
+    },
+    {
+      "id": 133610,
+      "name": "Deruta"
+    },
+    {
+      "id": 133611,
+      "name": "Fabro"
+    },
+    {
+      "id": 133612,
+      "name": "Fabro Scalo"
+    },
+    {
+      "id": 133613,
+      "name": "Ferentillo"
+    },
+    {
+      "id": 133614,
+      "name": "Ficulle"
+    },
+    {
+      "id": 133615,
+      "name": "Foligno"
+    },
+    {
+      "id": 133616,
+      "name": "Fontignano"
+    },
+    {
+      "id": 133617,
+      "name": "Fornole"
+    },
+    {
+      "id": 133618,
+      "name": "Fossato di Vico"
+    },
+    {
+      "id": 133619,
+      "name": "Fratta Todina"
+    },
+    {
+      "id": 133620,
+      "name": "Giano dell'Umbria"
+    },
+    {
+      "id": 133621,
+      "name": "Giove"
+    },
+    {
+      "id": 133622,
+      "name": "Gualdo Cattaneo"
+    },
+    {
+      "id": 133623,
+      "name": "Gualdo Tadino"
+    },
+    {
+      "id": 133624,
+      "name": "Guardea"
+    },
+    {
+      "id": 133625,
+      "name": "Gubbio"
+    },
+    {
+      "id": 133626,
+      "name": "Lacugnano"
+    },
+    {
+      "id": 133627,
+      "name": "Lisciano Niccone"
+    },
+    {
+      "id": 133628,
+      "name": "Lugnano in Teverina"
+    },
+    {
+      "id": 133629,
+      "name": "Magione"
+    },
+    {
+      "id": 133630,
+      "name": "Mantignana"
+    },
+    {
+      "id": 133631,
+      "name": "Marsciano"
+    },
+    {
+      "id": 133632,
+      "name": "Massa Martana"
+    },
+    {
+      "id": 133633,
+      "name": "Meggiano"
+    },
+    {
+      "id": 133634,
+      "name": "Monte Castello di Vibio"
+    },
+    {
+      "id": 133635,
+      "name": "Monte Grimano"
+    },
+    {
+      "id": 133636,
+      "name": "Monte Santa Maria Tiberina"
+    },
+    {
+      "id": 133637,
+      "name": "Montecastrilli"
+    },
+    {
+      "id": 133638,
+      "name": "Montecchio"
+    },
+    {
+      "id": 133639,
+      "name": "Montefalco"
+    },
+    {
+      "id": 133640,
+      "name": "Montefranco"
+    },
+    {
+      "id": 133641,
+      "name": "Montegabbione"
+    },
+    {
+      "id": 133642,
+      "name": "Monteleone d'Orvieto"
+    },
+    {
+      "id": 133643,
+      "name": "Monteleone di Spoleto"
+    },
+    {
+      "id": 133644,
+      "name": "Montone"
+    },
+    {
+      "id": 133645,
+      "name": "Narni"
+    },
+    {
+      "id": 133646,
+      "name": "Narni Scalo"
+    },
+    {
+      "id": 133647,
+      "name": "Nocera Umbra"
+    },
+    {
+      "id": 133648,
+      "name": "Norcia"
+    },
+    {
+      "id": 133649,
+      "name": "Orvieto"
+    },
+    {
+      "id": 133650,
+      "name": "Orvieto Scalo"
+    },
+    {
+      "id": 133651,
+      "name": "Oscano"
+    },
+    {
+      "id": 133652,
+      "name": "Ospedalicchio"
+    },
+    {
+      "id": 133653,
+      "name": "Osteria del Gatto"
+    },
+    {
+      "id": 133654,
+      "name": "Otricoli"
+    },
+    {
+      "id": 133655,
+      "name": "Paciano"
+    },
+    {
+      "id": 133656,
+      "name": "Padule-San Marco"
+    },
+    {
+      "id": 133657,
+      "name": "Palazzo"
+    },
+    {
+      "id": 133658,
+      "name": "Panicale"
+    },
+    {
+      "id": 133659,
+      "name": "Pantalla"
+    },
+    {
+      "id": 133660,
+      "name": "Parrano"
+    },
+    {
+      "id": 133661,
+      "name": "Passaggio"
+    },
+    {
+      "id": 133662,
+      "name": "Passignano sul Trasimeno"
+    },
+    {
+      "id": 133663,
+      "name": "Penna in Teverina"
+    },
+    {
+      "id": 133664,
+      "name": "Perugia"
+    },
+    {
+      "id": 133665,
+      "name": "Petrignano"
+    },
+    {
+      "id": 133666,
+      "name": "Piegaro"
+    },
+    {
+      "id": 133667,
+      "name": "Pietralunga"
+    },
+    {
+      "id": 133668,
+      "name": "Pila"
+    },
+    {
+      "id": 133669,
+      "name": "Pistrino"
+    },
+    {
+      "id": 133670,
+      "name": "Poggiodomo"
+    },
+    {
+      "id": 133671,
+      "name": "Polino"
+    },
+    {
+      "id": 133672,
+      "name": "Ponte Felcino"
+    },
+    {
+      "id": 133673,
+      "name": "Ponte Pattoli"
+    },
+    {
+      "id": 133674,
+      "name": "Ponterio-Pian di Porto"
+    },
+    {
+      "id": 133675,
+      "name": "Porano"
+    },
+    {
+      "id": 133676,
+      "name": "Pozzuolo"
+    },
+    {
+      "id": 133677,
+      "name": "Preci"
+    },
+    {
+      "id": 133678,
+      "name": "Provincia di Perugia"
+    },
+    {
+      "id": 133679,
+      "name": "Provincia di Terni"
+    },
+    {
+      "id": 133680,
+      "name": "Rivotorto"
+    },
+    {
+      "id": 133681,
+      "name": "San Gemini"
+    },
+    {
+      "id": 133682,
+      "name": "San Giacomo"
+    },
+    {
+      "id": 133683,
+      "name": "San Giustino"
+    },
+    {
+      "id": 133684,
+      "name": "San Martino in Campo"
+    },
+    {
+      "id": 133685,
+      "name": "San Martino in Trignano"
+    },
+    {
+      "id": 133686,
+      "name": "San Niccolò di Celle"
+    },
+    {
+      "id": 133687,
+      "name": "San Secondo"
+    },
+    {
+      "id": 133688,
+      "name": "San Terenziano"
+    },
+    {
+      "id": 133689,
+      "name": "San Venanzo"
+    },
+    {
+      "id": 133690,
+      "name": "Sant'Anatolia di Narco"
+    },
+    {
+      "id": 133691,
+      "name": "Santa Maria degli Angeli"
+    },
+    {
+      "id": 133692,
+      "name": "Scheggia"
+    },
+    {
+      "id": 133693,
+      "name": "Scheggino"
+    },
+    {
+      "id": 133694,
+      "name": "Selci-Lama"
+    },
+    {
+      "id": 133695,
+      "name": "Sellano"
+    },
+    {
+      "id": 133696,
+      "name": "Semonte-Casamorcia"
+    },
+    {
+      "id": 133697,
+      "name": "Sferracavallo"
+    },
+    {
+      "id": 133698,
+      "name": "Sigillo"
+    },
+    {
+      "id": 133699,
+      "name": "Spello"
+    },
+    {
+      "id": 133700,
+      "name": "Spoleto"
+    },
+    {
+      "id": 133701,
+      "name": "Stazione di Allerona"
+    },
+    {
+      "id": 133702,
+      "name": "Stazione di Padule"
+    },
+    {
+      "id": 133703,
+      "name": "Stroncone"
+    },
+    {
+      "id": 133704,
+      "name": "Tavernelle"
+    },
+    {
+      "id": 133705,
+      "name": "Terni"
+    },
+    {
+      "id": 133706,
+      "name": "Todi"
+    },
+    {
+      "id": 133707,
+      "name": "Torgiano"
+    },
+    {
+      "id": 133708,
+      "name": "Trestina"
+    },
+    {
+      "id": 133709,
+      "name": "Trevi"
+    },
+    {
+      "id": 133710,
+      "name": "Tuoro sul Trasimeno"
+    },
+    {
+      "id": 133711,
+      "name": "Umbertide"
+    },
+    {
+      "id": 133712,
+      "name": "Valfabbrica"
+    },
+    {
+      "id": 133713,
+      "name": "Valtopina"
+    },
+    {
+      "id": 133714,
+      "name": "Via Lippia"
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "id": 7490,
+  "name": "West Virginia",
+  "state_code": "WV",
+  "cities": [
+    {
+      "id": 220733,
+      "name": "Alderson"
+    },
+    {
+      "id": 220734,
+      "name": "Alum Creek"
+    },
+    {
+      "id": 220735,
+      "name": "Ansted"
+    },
+    {
+      "id": 220736,
+      "name": "Barbour County"
+    },
+    {
+      "id": 220737,
+      "name": "Barboursville"
+    },
+    {
+      "id": 220738,
+      "name": "Barrackville"
+    },
+    {
+      "id": 220739,
+      "name": "Beaver"
+    },
+    {
+      "id": 220740,
+      "name": "Beckley"
+    },
+    {
+      "id": 220741,
+      "name": "Belington"
+    },
+    {
+      "id": 220742,
+      "name": "Belle"
+    },
+    {
+      "id": 220743,
+      "name": "Benwood"
+    },
+    {
+      "id": 220744,
+      "name": "Berkeley County"
+    },
+    {
+      "id": 220745,
+      "name": "Berkeley Springs"
+    },
+    {
+      "id": 220746,
+      "name": "Bethany"
+    },
+    {
+      "id": 220747,
+      "name": "Bethlehem"
+    },
+    {
+      "id": 220748,
+      "name": "Blennerhassett"
+    },
+    {
+      "id": 220749,
+      "name": "Bluefield"
+    },
+    {
+      "id": 220750,
+      "name": "Bluewell"
+    },
+    {
+      "id": 220751,
+      "name": "Boaz"
+    },
+    {
+      "id": 220752,
+      "name": "Bolivar"
+    },
+    {
+      "id": 220753,
+      "name": "Boone County"
+    },
+    {
+      "id": 220754,
+      "name": "Bradley"
+    },
+    {
+      "id": 220755,
+      "name": "Braxton County"
+    },
+    {
+      "id": 220756,
+      "name": "Bridgeport"
+    },
+    {
+      "id": 220757,
+      "name": "Brooke County"
+    },
+    {
+      "id": 220758,
+      "name": "Brookhaven"
+    },
+    {
+      "id": 220759,
+      "name": "Brush Fork"
+    },
+    {
+      "id": 220760,
+      "name": "Buckhannon"
+    },
+    {
+      "id": 220761,
+      "name": "Buffalo"
+    },
+    {
+      "id": 220762,
+      "name": "Cabell County"
+    },
+    {
+      "id": 220763,
+      "name": "Calhoun County"
+    },
+    {
+      "id": 220764,
+      "name": "Ceredo"
+    },
+    {
+      "id": 220765,
+      "name": "Chapmanville"
+    },
+    {
+      "id": 220766,
+      "name": "Charles Town"
+    },
+    {
+      "id": 220767,
+      "name": "Charleston"
+    },
+    {
+      "id": 220768,
+      "name": "Cheat Lake"
+    },
+    {
+      "id": 220769,
+      "name": "Chesapeake"
+    },
+    {
+      "id": 220770,
+      "name": "Chester"
+    },
+    {
+      "id": 220771,
+      "name": "Clarksburg"
+    },
+    {
+      "id": 220772,
+      "name": "Clay"
+    },
+    {
+      "id": 220773,
+      "name": "Clay County"
+    },
+    {
+      "id": 220774,
+      "name": "Clendenin"
+    },
+    {
+      "id": 220775,
+      "name": "Coal City"
+    },
+    {
+      "id": 220776,
+      "name": "Coal Fork"
+    },
+    {
+      "id": 220777,
+      "name": "Crab Orchard"
+    },
+    {
+      "id": 220778,
+      "name": "Craigsville"
+    },
+    {
+      "id": 220779,
+      "name": "Cross Lanes"
+    },
+    {
+      "id": 220780,
+      "name": "Culloden"
+    },
+    {
+      "id": 220781,
+      "name": "Daniels"
+    },
+    {
+      "id": 220782,
+      "name": "Despard"
+    },
+    {
+      "id": 220783,
+      "name": "Doddridge County"
+    },
+    {
+      "id": 220784,
+      "name": "Dunbar"
+    },
+    {
+      "id": 220785,
+      "name": "Eleanor"
+    },
+    {
+      "id": 220786,
+      "name": "Elizabeth"
+    },
+    {
+      "id": 220787,
+      "name": "Elkins"
+    },
+    {
+      "id": 220788,
+      "name": "Elkview"
+    },
+    {
+      "id": 220789,
+      "name": "Fairlea"
+    },
+    {
+      "id": 220790,
+      "name": "Fairmont"
+    },
+    {
+      "id": 220791,
+      "name": "Fayette County"
+    },
+    {
+      "id": 220792,
+      "name": "Fayetteville"
+    },
+    {
+      "id": 220793,
+      "name": "Follansbee"
+    },
+    {
+      "id": 220794,
+      "name": "Fort Ashby"
+    },
+    {
+      "id": 220795,
+      "name": "Franklin"
+    },
+    {
+      "id": 220796,
+      "name": "Gilbert Creek"
+    },
+    {
+      "id": 220797,
+      "name": "Gilmer County"
+    },
+    {
+      "id": 220798,
+      "name": "Glendale"
+    },
+    {
+      "id": 220799,
+      "name": "Glenville"
+    },
+    {
+      "id": 220800,
+      "name": "Grafton"
+    },
+    {
+      "id": 220801,
+      "name": "Grant County"
+    },
+    {
+      "id": 220802,
+      "name": "Grantsville"
+    },
+    {
+      "id": 220803,
+      "name": "Granville"
+    },
+    {
+      "id": 220804,
+      "name": "Greenbrier County"
+    },
+    {
+      "id": 220805,
+      "name": "Hamlin"
+    },
+    {
+      "id": 220806,
+      "name": "Hampshire County"
+    },
+    {
+      "id": 220807,
+      "name": "Hancock County"
+    },
+    {
+      "id": 220808,
+      "name": "Hardy County"
+    },
+    {
+      "id": 220809,
+      "name": "Harrison County"
+    },
+    {
+      "id": 220810,
+      "name": "Harrisville"
+    },
+    {
+      "id": 220811,
+      "name": "Hinton"
+    },
+    {
+      "id": 220812,
+      "name": "Hooverson Heights"
+    },
+    {
+      "id": 220813,
+      "name": "Huntington"
+    },
+    {
+      "id": 220814,
+      "name": "Hurricane"
+    },
+    {
+      "id": 220815,
+      "name": "Inwood"
+    },
+    {
+      "id": 220816,
+      "name": "Jackson County"
+    },
+    {
+      "id": 220817,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 220818,
+      "name": "Kanawha County"
+    },
+    {
+      "id": 220819,
+      "name": "Kenova"
+    },
+    {
+      "id": 220820,
+      "name": "Keyser"
+    },
+    {
+      "id": 220821,
+      "name": "Kingwood"
+    },
+    {
+      "id": 220822,
+      "name": "Lavalette"
+    },
+    {
+      "id": 220823,
+      "name": "Lesage"
+    },
+    {
+      "id": 220824,
+      "name": "Lewis County"
+    },
+    {
+      "id": 220825,
+      "name": "Lewisburg"
+    },
+    {
+      "id": 220826,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 220827,
+      "name": "Logan"
+    },
+    {
+      "id": 220828,
+      "name": "Logan County"
+    },
+    {
+      "id": 220829,
+      "name": "Lubeck"
+    },
+    {
+      "id": 220830,
+      "name": "Mabscott"
+    },
+    {
+      "id": 220831,
+      "name": "MacArthur"
+    },
+    {
+      "id": 220832,
+      "name": "Madison"
+    },
+    {
+      "id": 220833,
+      "name": "Mallory"
+    },
+    {
+      "id": 220834,
+      "name": "Mannington"
+    },
+    {
+      "id": 220835,
+      "name": "Marion County"
+    },
+    {
+      "id": 220836,
+      "name": "Marlinton"
+    },
+    {
+      "id": 220837,
+      "name": "Marmet"
+    },
+    {
+      "id": 220838,
+      "name": "Marshall County"
+    },
+    {
+      "id": 220839,
+      "name": "Martinsburg"
+    },
+    {
+      "id": 220840,
+      "name": "Mason County"
+    },
+    {
+      "id": 220841,
+      "name": "McDowell County"
+    },
+    {
+      "id": 220842,
+      "name": "McMechen"
+    },
+    {
+      "id": 220843,
+      "name": "Mercer County"
+    },
+    {
+      "id": 220844,
+      "name": "Middlebourne"
+    },
+    {
+      "id": 220845,
+      "name": "Milton"
+    },
+    {
+      "id": 220846,
+      "name": "Mineral County"
+    },
+    {
+      "id": 220847,
+      "name": "Mineral Wells"
+    },
+    {
+      "id": 220848,
+      "name": "Mingo County"
+    },
+    {
+      "id": 220849,
+      "name": "Monongah"
+    },
+    {
+      "id": 220850,
+      "name": "Monongalia County"
+    },
+    {
+      "id": 220851,
+      "name": "Monroe County"
+    },
+    {
+      "id": 220852,
+      "name": "Montgomery"
+    },
+    {
+      "id": 220853,
+      "name": "Moorefield"
+    },
+    {
+      "id": 220854,
+      "name": "Morgan County"
+    },
+    {
+      "id": 220855,
+      "name": "Morgantown"
+    },
+    {
+      "id": 220856,
+      "name": "Moundsville"
+    },
+    {
+      "id": 220857,
+      "name": "Mount Gay-Shamrock"
+    },
+    {
+      "id": 220858,
+      "name": "Mount Hope"
+    },
+    {
+      "id": 220859,
+      "name": "Mullens"
+    },
+    {
+      "id": 220860,
+      "name": "New Cumberland"
+    },
+    {
+      "id": 220861,
+      "name": "New Haven"
+    },
+    {
+      "id": 220862,
+      "name": "New Martinsville"
+    },
+    {
+      "id": 220863,
+      "name": "Newell"
+    },
+    {
+      "id": 220864,
+      "name": "Nicholas County"
+    },
+    {
+      "id": 220865,
+      "name": "Nitro"
+    },
+    {
+      "id": 220866,
+      "name": "Nutter Fort"
+    },
+    {
+      "id": 220867,
+      "name": "Oak Hill"
+    },
+    {
+      "id": 220868,
+      "name": "Oceana"
+    },
+    {
+      "id": 220869,
+      "name": "Ohio County"
+    },
+    {
+      "id": 220870,
+      "name": "Paden City"
+    },
+    {
+      "id": 220871,
+      "name": "Parkersburg"
+    },
+    {
+      "id": 220872,
+      "name": "Parsons"
+    },
+    {
+      "id": 220873,
+      "name": "Pea Ridge"
+    },
+    {
+      "id": 220874,
+      "name": "Pendleton County"
+    },
+    {
+      "id": 220875,
+      "name": "Pennsboro"
+    },
+    {
+      "id": 220876,
+      "name": "Petersburg"
+    },
+    {
+      "id": 220877,
+      "name": "Philippi"
+    },
+    {
+      "id": 220878,
+      "name": "Pinch"
+    },
+    {
+      "id": 220879,
+      "name": "Pineville"
+    },
+    {
+      "id": 220880,
+      "name": "Pleasant Valley"
+    },
+    {
+      "id": 220881,
+      "name": "Pleasants County"
+    },
+    {
+      "id": 220882,
+      "name": "Pocahontas County"
+    },
+    {
+      "id": 220883,
+      "name": "Point Pleasant"
+    },
+    {
+      "id": 220884,
+      "name": "Preston County"
+    },
+    {
+      "id": 220885,
+      "name": "Princeton"
+    },
+    {
+      "id": 220886,
+      "name": "Prosperity"
+    },
+    {
+      "id": 220887,
+      "name": "Putnam County"
+    },
+    {
+      "id": 220888,
+      "name": "Rainelle"
+    },
+    {
+      "id": 220889,
+      "name": "Raleigh County"
+    },
+    {
+      "id": 220890,
+      "name": "Rand"
+    },
+    {
+      "id": 220891,
+      "name": "Randolph County"
+    },
+    {
+      "id": 220892,
+      "name": "Ranson"
+    },
+    {
+      "id": 220893,
+      "name": "Ravenswood"
+    },
+    {
+      "id": 220894,
+      "name": "Richwood"
+    },
+    {
+      "id": 220895,
+      "name": "Ripley"
+    },
+    {
+      "id": 220896,
+      "name": "Ritchie County"
+    },
+    {
+      "id": 220897,
+      "name": "Roane County"
+    },
+    {
+      "id": 220898,
+      "name": "Romney"
+    },
+    {
+      "id": 220899,
+      "name": "Ronceverte"
+    },
+    {
+      "id": 220900,
+      "name": "Saint Albans"
+    },
+    {
+      "id": 220901,
+      "name": "Saint Marys"
+    },
+    {
+      "id": 220902,
+      "name": "Salem"
+    },
+    {
+      "id": 220903,
+      "name": "Shady Spring"
+    },
+    {
+      "id": 220904,
+      "name": "Shannondale"
+    },
+    {
+      "id": 220905,
+      "name": "Shepherdstown"
+    },
+    {
+      "id": 220906,
+      "name": "Shinnston"
+    },
+    {
+      "id": 220907,
+      "name": "Sissonville"
+    },
+    {
+      "id": 220908,
+      "name": "Sistersville"
+    },
+    {
+      "id": 220909,
+      "name": "Sophia"
+    },
+    {
+      "id": 220910,
+      "name": "South Charleston"
+    },
+    {
+      "id": 220911,
+      "name": "Spencer"
+    },
+    {
+      "id": 220912,
+      "name": "Stanaford"
+    },
+    {
+      "id": 220913,
+      "name": "Star City"
+    },
+    {
+      "id": 220914,
+      "name": "Stonewood"
+    },
+    {
+      "id": 220915,
+      "name": "Summers County"
+    },
+    {
+      "id": 220916,
+      "name": "Summersville"
+    },
+    {
+      "id": 220917,
+      "name": "Sutton"
+    },
+    {
+      "id": 220918,
+      "name": "Taylor County"
+    },
+    {
+      "id": 220919,
+      "name": "Teays Valley"
+    },
+    {
+      "id": 220920,
+      "name": "Terra Alta"
+    },
+    {
+      "id": 220921,
+      "name": "Tornado"
+    },
+    {
+      "id": 220922,
+      "name": "Tucker County"
+    },
+    {
+      "id": 220923,
+      "name": "Tyler County"
+    },
+    {
+      "id": 220924,
+      "name": "Union"
+    },
+    {
+      "id": 220925,
+      "name": "Upshur County"
+    },
+    {
+      "id": 220926,
+      "name": "Vienna"
+    },
+    {
+      "id": 220927,
+      "name": "Washington"
+    },
+    {
+      "id": 220928,
+      "name": "Wayne"
+    },
+    {
+      "id": 220929,
+      "name": "Wayne County"
+    },
+    {
+      "id": 220930,
+      "name": "Webster County"
+    },
+    {
+      "id": 220931,
+      "name": "Webster Springs"
+    },
+    {
+      "id": 220932,
+      "name": "Weirton"
+    },
+    {
+      "id": 220933,
+      "name": "Weirton Heights"
+    },
+    {
+      "id": 220934,
+      "name": "Welch"
+    },
+    {
+      "id": 220935,
+      "name": "Wellsburg"
+    },
+    {
+      "id": 220936,
+      "name": "West Liberty"
+    },
+    {
+      "id": 220937,
+      "name": "West Union"
+    },
+    {
+      "id": 220938,
+      "name": "Weston"
+    },
+    {
+      "id": 220939,
+      "name": "Westover"
+    },
+    {
+      "id": 220940,
+      "name": "Wetzel County"
+    },
+    {
+      "id": 220941,
+      "name": "Wheeling"
+    },
+    {
+      "id": 220942,
+      "name": "White Sulphur Springs"
+    },
+    {
+      "id": 220943,
+      "name": "Wiley Ford"
+    },
+    {
+      "id": 220944,
+      "name": "Williamson"
+    },
+    {
+      "id": 220945,
+      "name": "Williamstown"
+    },
+    {
+      "id": 220946,
+      "name": "Winfield"
+    },
+    {
+      "id": 220947,
+      "name": "Wirt County"
+    },
+    {
+      "id": 220948,
+      "name": "Wood County"
+    },
+    {
+      "id": 220949,
+      "name": "Wyoming County"
+    }
+  ]
+}

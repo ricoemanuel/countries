@@ -1,0 +1,1887 @@
+{
+  "id": 4461,
+  "name": "Tuscany",
+  "state_code": "52",
+  "cities": [
+    {
+      "id": 133101,
+      "name": "Abbadia San Salvatore"
+    },
+    {
+      "id": 133102,
+      "name": "Abetone"
+    },
+    {
+      "id": 133103,
+      "name": "Acquaviva"
+    },
+    {
+      "id": 133104,
+      "name": "Agliana"
+    },
+    {
+      "id": 133105,
+      "name": "Albiano Magra"
+    },
+    {
+      "id": 133106,
+      "name": "Albinia"
+    },
+    {
+      "id": 133107,
+      "name": "Altopascio"
+    },
+    {
+      "id": 133108,
+      "name": "Ambra"
+    },
+    {
+      "id": 133109,
+      "name": "Anchione"
+    },
+    {
+      "id": 133110,
+      "name": "Anghiari"
+    },
+    {
+      "id": 133111,
+      "name": "Antella"
+    },
+    {
+      "id": 133112,
+      "name": "Arbia"
+    },
+    {
+      "id": 133113,
+      "name": "Arcidosso"
+    },
+    {
+      "id": 133114,
+      "name": "Arezzo"
+    },
+    {
+      "id": 133115,
+      "name": "Asciano"
+    },
+    {
+      "id": 133116,
+      "name": "Aulla"
+    },
+    {
+      "id": 133117,
+      "name": "Avane"
+    },
+    {
+      "id": 133118,
+      "name": "Badia al Pino"
+    },
+    {
+      "id": 133119,
+      "name": "Badia Tedalda"
+    },
+    {
+      "id": 133120,
+      "name": "Bagni di Lucca"
+    },
+    {
+      "id": 133121,
+      "name": "Bagno a Ripoli"
+    },
+    {
+      "id": 133122,
+      "name": "Bagno Roselle"
+    },
+    {
+      "id": 133123,
+      "name": "Bagnone"
+    },
+    {
+      "id": 133124,
+      "name": "Barba"
+    },
+    {
+      "id": 133125,
+      "name": "Barbarasco"
+    },
+    {
+      "id": 133126,
+      "name": "Barberino di Mugello"
+    },
+    {
+      "id": 133127,
+      "name": "Barberino Val d'Elsa"
+    },
+    {
+      "id": 133128,
+      "name": "Barga"
+    },
+    {
+      "id": 133129,
+      "name": "Battifolle-Ruscello-Poggiola"
+    },
+    {
+      "id": 133130,
+      "name": "Bellavista"
+    },
+    {
+      "id": 133131,
+      "name": "Belverde"
+    },
+    {
+      "id": 133132,
+      "name": "Bettolle"
+    },
+    {
+      "id": 133133,
+      "name": "Bibbiena"
+    },
+    {
+      "id": 133134,
+      "name": "Bibbona"
+    },
+    {
+      "id": 133135,
+      "name": "Bientina"
+    },
+    {
+      "id": 133136,
+      "name": "Borghetto-Melara"
+    },
+    {
+      "id": 133137,
+      "name": "Borgo a Buggiano"
+    },
+    {
+      "id": 133138,
+      "name": "Borgo a Mozzano"
+    },
+    {
+      "id": 133139,
+      "name": "Borgo San Lorenzo"
+    },
+    {
+      "id": 133140,
+      "name": "Braccagni"
+    },
+    {
+      "id": 133141,
+      "name": "Bucine"
+    },
+    {
+      "id": 133142,
+      "name": "Buonconvento"
+    },
+    {
+      "id": 133143,
+      "name": "Buti"
+    },
+    {
+      "id": 133144,
+      "name": "Calci"
+    },
+    {
+      "id": 133145,
+      "name": "Calcinaia"
+    },
+    {
+      "id": 133146,
+      "name": "Caldine"
+    },
+    {
+      "id": 133147,
+      "name": "Calenzano"
+    },
+    {
+      "id": 133148,
+      "name": "Camaiore"
+    },
+    {
+      "id": 133149,
+      "name": "Campagnatico"
+    },
+    {
+      "id": 133150,
+      "name": "Campi Bisenzio"
+    },
+    {
+      "id": 133151,
+      "name": "Campiglia Marittima"
+    },
+    {
+      "id": 133152,
+      "name": "Campo"
+    },
+    {
+      "id": 133153,
+      "name": "Campo nell'Elba"
+    },
+    {
+      "id": 133154,
+      "name": "Campo Tizzoro"
+    },
+    {
+      "id": 133155,
+      "name": "Camporgiano"
+    },
+    {
+      "id": 133156,
+      "name": "Camucia-Monsigliolo"
+    },
+    {
+      "id": 133157,
+      "name": "Cantagallo"
+    },
+    {
+      "id": 133158,
+      "name": "Cantagrillo-Casalguidi"
+    },
+    {
+      "id": 133159,
+      "name": "Capalbio"
+    },
+    {
+      "id": 133160,
+      "name": "Capanne-Prato-Cinquale"
+    },
+    {
+      "id": 133161,
+      "name": "Capannoli"
+    },
+    {
+      "id": 133162,
+      "name": "Capannori"
+    },
+    {
+      "id": 133163,
+      "name": "Capoliveri"
+    },
+    {
+      "id": 133164,
+      "name": "Capolona"
+    },
+    {
+      "id": 133165,
+      "name": "Capraia e Limite"
+    },
+    {
+      "id": 133166,
+      "name": "Capraia Isola"
+    },
+    {
+      "id": 133167,
+      "name": "Caprese Michelangelo"
+    },
+    {
+      "id": 133168,
+      "name": "Careggine"
+    },
+    {
+      "id": 133169,
+      "name": "Carmignano"
+    },
+    {
+      "id": 133170,
+      "name": "Carraia"
+    },
+    {
+      "id": 133171,
+      "name": "Carrara"
+    },
+    {
+      "id": 133172,
+      "name": "Casale Marittimo"
+    },
+    {
+      "id": 133173,
+      "name": "Casciana Terme"
+    },
+    {
+      "id": 133174,
+      "name": "Cascina"
+    },
+    {
+      "id": 133175,
+      "name": "Cascine-La Croce"
+    },
+    {
+      "id": 133176,
+      "name": "Casola in Lunigiana"
+    },
+    {
+      "id": 133177,
+      "name": "Casole d'Elsa"
+    },
+    {
+      "id": 133178,
+      "name": "Castagneto Carducci"
+    },
+    {
+      "id": 133179,
+      "name": "Castel del Piano"
+    },
+    {
+      "id": 133180,
+      "name": "Castel San Niccolò"
+    },
+    {
+      "id": 133181,
+      "name": "Castelfiorentino"
+    },
+    {
+      "id": 133182,
+      "name": "Castelfranco di Sopra"
+    },
+    {
+      "id": 133183,
+      "name": "Castelfranco di Sotto"
+    },
+    {
+      "id": 133184,
+      "name": "Castell'Azzara"
+    },
+    {
+      "id": 133185,
+      "name": "Castellina in Chianti"
+    },
+    {
+      "id": 133186,
+      "name": "Castellina Marittima"
+    },
+    {
+      "id": 133187,
+      "name": "Castellina Scalo"
+    },
+    {
+      "id": 133188,
+      "name": "Castelnuovo Berardenga"
+    },
+    {
+      "id": 133189,
+      "name": "Castelnuovo dei Sabbioni"
+    },
+    {
+      "id": 133190,
+      "name": "Castelnuovo di Garfagnana"
+    },
+    {
+      "id": 133191,
+      "name": "Castelnuovo di Val di Cecina"
+    },
+    {
+      "id": 133192,
+      "name": "Castiglion Fibocchi"
+    },
+    {
+      "id": 133193,
+      "name": "Castiglion Fiorentino"
+    },
+    {
+      "id": 133194,
+      "name": "Castiglione d'Orcia"
+    },
+    {
+      "id": 133195,
+      "name": "Castiglione della Pescaia"
+    },
+    {
+      "id": 133196,
+      "name": "Castiglione di Garfagnana"
+    },
+    {
+      "id": 133197,
+      "name": "Catena"
+    },
+    {
+      "id": 133198,
+      "name": "Cavallina"
+    },
+    {
+      "id": 133199,
+      "name": "Cavriglia-Monastero"
+    },
+    {
+      "id": 133200,
+      "name": "Cecina"
+    },
+    {
+      "id": 133201,
+      "name": "Cenaia"
+    },
+    {
+      "id": 133202,
+      "name": "Cerbaia"
+    },
+    {
+      "id": 133203,
+      "name": "Cerreto Guidi"
+    },
+    {
+      "id": 133204,
+      "name": "Certaldo"
+    },
+    {
+      "id": 133205,
+      "name": "Cesa"
+    },
+    {
+      "id": 133206,
+      "name": "Cetona"
+    },
+    {
+      "id": 133207,
+      "name": "Chianciano Terme"
+    },
+    {
+      "id": 133208,
+      "name": "Chianni"
+    },
+    {
+      "id": 133209,
+      "name": "Chiassa-Tregozzano"
+    },
+    {
+      "id": 133210,
+      "name": "Chiesina Uzzanese"
+    },
+    {
+      "id": 133211,
+      "name": "Chiesino-Collodi"
+    },
+    {
+      "id": 133212,
+      "name": "Chitignano"
+    },
+    {
+      "id": 133213,
+      "name": "Chiusdino"
+    },
+    {
+      "id": 133214,
+      "name": "Chiusi"
+    },
+    {
+      "id": 133215,
+      "name": "Chiusi della Verna"
+    },
+    {
+      "id": 133216,
+      "name": "Chiusi Scalo"
+    },
+    {
+      "id": 133217,
+      "name": "Cinigiano"
+    },
+    {
+      "id": 133218,
+      "name": "Cintolese"
+    },
+    {
+      "id": 133219,
+      "name": "Civitella in Val di Chiana"
+    },
+    {
+      "id": 133220,
+      "name": "Civitella Marittima"
+    },
+    {
+      "id": 133221,
+      "name": "Colle di Val d'Elsa"
+    },
+    {
+      "id": 133222,
+      "name": "Collesalvetti"
+    },
+    {
+      "id": 133223,
+      "name": "Comano"
+    },
+    {
+      "id": 133224,
+      "name": "Comeana"
+    },
+    {
+      "id": 133225,
+      "name": "Compiobbi"
+    },
+    {
+      "id": 133226,
+      "name": "Coreglia Antelminelli"
+    },
+    {
+      "id": 133227,
+      "name": "Corsanico-Bargecchia"
+    },
+    {
+      "id": 133228,
+      "name": "Cortona"
+    },
+    {
+      "id": 133229,
+      "name": "Crespina"
+    },
+    {
+      "id": 133230,
+      "name": "Cutigliano"
+    },
+    {
+      "id": 133231,
+      "name": "Dicomano"
+    },
+    {
+      "id": 133232,
+      "name": "Donoratico"
+    },
+    {
+      "id": 133233,
+      "name": "Empoli"
+    },
+    {
+      "id": 133234,
+      "name": "Fabbriche di Vallico"
+    },
+    {
+      "id": 133235,
+      "name": "Faella"
+    },
+    {
+      "id": 133236,
+      "name": "Fauglia"
+    },
+    {
+      "id": 133237,
+      "name": "Fiesole"
+    },
+    {
+      "id": 133238,
+      "name": "Figline Valdarno"
+    },
+    {
+      "id": 133239,
+      "name": "Filattiera"
+    },
+    {
+      "id": 133240,
+      "name": "Filettole"
+    },
+    {
+      "id": 133241,
+      "name": "Firenzuola"
+    },
+    {
+      "id": 133242,
+      "name": "Fivizzano"
+    },
+    {
+      "id": 133243,
+      "name": "Florence"
+    },
+    {
+      "id": 133244,
+      "name": "Foiano della Chiana"
+    },
+    {
+      "id": 133245,
+      "name": "Follonica"
+    },
+    {
+      "id": 133246,
+      "name": "Fontana delle Monache"
+    },
+    {
+      "id": 133247,
+      "name": "Fonteblanda"
+    },
+    {
+      "id": 133248,
+      "name": "Forcoli"
+    },
+    {
+      "id": 133249,
+      "name": "Fornacelle"
+    },
+    {
+      "id": 133250,
+      "name": "Fornacette"
+    },
+    {
+      "id": 133251,
+      "name": "Fornaci di Barga"
+    },
+    {
+      "id": 133252,
+      "name": "Forte dei Marmi"
+    },
+    {
+      "id": 133253,
+      "name": "Fosciandora"
+    },
+    {
+      "id": 133254,
+      "name": "Fosdinovo"
+    },
+    {
+      "id": 133255,
+      "name": "Fucecchio"
+    },
+    {
+      "id": 133256,
+      "name": "Gabella"
+    },
+    {
+      "id": 133257,
+      "name": "Gaiole in Chianti"
+    },
+    {
+      "id": 133258,
+      "name": "Galliano"
+    },
+    {
+      "id": 133259,
+      "name": "Gallicano"
+    },
+    {
+      "id": 133260,
+      "name": "Gambassi Terme"
+    },
+    {
+      "id": 133261,
+      "name": "Gavorrano"
+    },
+    {
+      "id": 133262,
+      "name": "Gello"
+    },
+    {
+      "id": 133263,
+      "name": "Giglio Castello"
+    },
+    {
+      "id": 133264,
+      "name": "Ginestra Fiorentina"
+    },
+    {
+      "id": 133265,
+      "name": "Giovi-Ponte alla Chiassa"
+    },
+    {
+      "id": 133266,
+      "name": "Giuncugnano"
+    },
+    {
+      "id": 133267,
+      "name": "Grassina Ponte a Ema"
+    },
+    {
+      "id": 133268,
+      "name": "Greve in Chianti"
+    },
+    {
+      "id": 133269,
+      "name": "Grosseto"
+    },
+    {
+      "id": 133270,
+      "name": "Guardistallo"
+    },
+    {
+      "id": 133271,
+      "name": "Guasticce"
+    },
+    {
+      "id": 133272,
+      "name": "Guazzino"
+    },
+    {
+      "id": 133273,
+      "name": "Il Romito"
+    },
+    {
+      "id": 133274,
+      "name": "Impruneta"
+    },
+    {
+      "id": 133275,
+      "name": "Incisa in Val d'Arno"
+    },
+    {
+      "id": 133276,
+      "name": "Isola D'Arbia"
+    },
+    {
+      "id": 133277,
+      "name": "Isola del Giglio"
+    },
+    {
+      "id": 133278,
+      "name": "Istia D'Ombrone-Le Stiacciole"
+    },
+    {
+      "id": 133279,
+      "name": "La California"
+    },
+    {
+      "id": 133280,
+      "name": "La Pieve-Molino"
+    },
+    {
+      "id": 133281,
+      "name": "La Rotta"
+    },
+    {
+      "id": 133282,
+      "name": "Lajatico"
+    },
+    {
+      "id": 133283,
+      "name": "Lamporecchio"
+    },
+    {
+      "id": 133284,
+      "name": "Larciano"
+    },
+    {
+      "id": 133285,
+      "name": "Lari"
+    },
+    {
+      "id": 133286,
+      "name": "Lastra a Signa"
+    },
+    {
+      "id": 133287,
+      "name": "Laterina"
+    },
+    {
+      "id": 133288,
+      "name": "Lazzeretto"
+    },
+    {
+      "id": 133289,
+      "name": "Le Casine-Perignano-Spinelli"
+    },
+    {
+      "id": 133290,
+      "name": "Licciana Nardi"
+    },
+    {
+      "id": 133291,
+      "name": "Limite"
+    },
+    {
+      "id": 133292,
+      "name": "Livorno"
+    },
+    {
+      "id": 133293,
+      "name": "Londa"
+    },
+    {
+      "id": 133294,
+      "name": "Lorenzana"
+    },
+    {
+      "id": 133295,
+      "name": "Loro Ciuffenna"
+    },
+    {
+      "id": 133296,
+      "name": "Lucca"
+    },
+    {
+      "id": 133297,
+      "name": "Lucignano"
+    },
+    {
+      "id": 133298,
+      "name": "Luco Mugello"
+    },
+    {
+      "id": 133299,
+      "name": "Madonna dell'Acqua"
+    },
+    {
+      "id": 133300,
+      "name": "Magliano in Toscana"
+    },
+    {
+      "id": 133301,
+      "name": "Malmantile"
+    },
+    {
+      "id": 133302,
+      "name": "Manciano"
+    },
+    {
+      "id": 133303,
+      "name": "Mantignano-Ugnano"
+    },
+    {
+      "id": 133304,
+      "name": "Marciana"
+    },
+    {
+      "id": 133305,
+      "name": "Marciana Marina"
+    },
+    {
+      "id": 133306,
+      "name": "Marciano"
+    },
+    {
+      "id": 133307,
+      "name": "Marciano della Chiana"
+    },
+    {
+      "id": 133308,
+      "name": "Marcignana"
+    },
+    {
+      "id": 133309,
+      "name": "Margine Coperta-Traversagna"
+    },
+    {
+      "id": 133310,
+      "name": "Marina di Campo"
+    },
+    {
+      "id": 133311,
+      "name": "Marina di Carrara"
+    },
+    {
+      "id": 133312,
+      "name": "Marina di Grosseto"
+    },
+    {
+      "id": 133313,
+      "name": "Marina di Massa"
+    },
+    {
+      "id": 133314,
+      "name": "Marina di Pisa"
+    },
+    {
+      "id": 133315,
+      "name": "Marina di Pisa-Tirrenia-Calambrone"
+    },
+    {
+      "id": 133316,
+      "name": "Marliana"
+    },
+    {
+      "id": 133317,
+      "name": "Marradi"
+    },
+    {
+      "id": 133318,
+      "name": "Marti"
+    },
+    {
+      "id": 133319,
+      "name": "Massa"
+    },
+    {
+      "id": 133320,
+      "name": "Massa Marittima"
+    },
+    {
+      "id": 133321,
+      "name": "Massarosa"
+    },
+    {
+      "id": 133322,
+      "name": "Mercatale"
+    },
+    {
+      "id": 133323,
+      "name": "Mercatale-San Quirico"
+    },
+    {
+      "id": 133324,
+      "name": "Metato"
+    },
+    {
+      "id": 133325,
+      "name": "Migliarino"
+    },
+    {
+      "id": 133326,
+      "name": "Minucciano"
+    },
+    {
+      "id": 133327,
+      "name": "Molazzana"
+    },
+    {
+      "id": 133328,
+      "name": "Molino del Piano"
+    },
+    {
+      "id": 133329,
+      "name": "Monsummano Terme"
+    },
+    {
+      "id": 133330,
+      "name": "Montaione"
+    },
+    {
+      "id": 133331,
+      "name": "Montalcino"
+    },
+    {
+      "id": 133332,
+      "name": "Montale"
+    },
+    {
+      "id": 133333,
+      "name": "Montalto"
+    },
+    {
+      "id": 133334,
+      "name": "Monte Argentario"
+    },
+    {
+      "id": 133335,
+      "name": "Monte San Savino"
+    },
+    {
+      "id": 133336,
+      "name": "Montebonello"
+    },
+    {
+      "id": 133337,
+      "name": "Montecalvoli"
+    },
+    {
+      "id": 133338,
+      "name": "Montecarlo"
+    },
+    {
+      "id": 133339,
+      "name": "Montecatini Val di Cecina"
+    },
+    {
+      "id": 133340,
+      "name": "Montecatini-Terme"
+    },
+    {
+      "id": 133341,
+      "name": "Montelupo Fiorentino"
+    },
+    {
+      "id": 133342,
+      "name": "Montemignaio"
+    },
+    {
+      "id": 133343,
+      "name": "Montemurlo"
+    },
+    {
+      "id": 133344,
+      "name": "Montepulciano"
+    },
+    {
+      "id": 133345,
+      "name": "Montepulciano Stazione"
+    },
+    {
+      "id": 133346,
+      "name": "Monterchi"
+    },
+    {
+      "id": 133347,
+      "name": "Monteriggioni"
+    },
+    {
+      "id": 133348,
+      "name": "Monteroni d'Arbia"
+    },
+    {
+      "id": 133349,
+      "name": "Monterotondo Marittimo"
+    },
+    {
+      "id": 133350,
+      "name": "Montescudaio"
+    },
+    {
+      "id": 133351,
+      "name": "Montespertoli"
+    },
+    {
+      "id": 133352,
+      "name": "Montevarchi"
+    },
+    {
+      "id": 133353,
+      "name": "Monteverdi Marittimo"
+    },
+    {
+      "id": 133354,
+      "name": "Monti"
+    },
+    {
+      "id": 133355,
+      "name": "Monticiano"
+    },
+    {
+      "id": 133356,
+      "name": "Montieri"
+    },
+    {
+      "id": 133357,
+      "name": "Montignoso"
+    },
+    {
+      "id": 133358,
+      "name": "Montopoli"
+    },
+    {
+      "id": 133359,
+      "name": "Mulazzo"
+    },
+    {
+      "id": 133360,
+      "name": "Murlo"
+    },
+    {
+      "id": 133361,
+      "name": "Orbetello"
+    },
+    {
+      "id": 133362,
+      "name": "Orbetello Scalo"
+    },
+    {
+      "id": 133363,
+      "name": "Orciano Pisano"
+    },
+    {
+      "id": 133364,
+      "name": "Orentano"
+    },
+    {
+      "id": 133365,
+      "name": "Ortignano Raggiolo"
+    },
+    {
+      "id": 133366,
+      "name": "Orzignano"
+    },
+    {
+      "id": 133367,
+      "name": "Palaia"
+    },
+    {
+      "id": 133368,
+      "name": "Palazzuolo sul Senio"
+    },
+    {
+      "id": 133369,
+      "name": "Pallerone"
+    },
+    {
+      "id": 133370,
+      "name": "Panzano in Chianti"
+    },
+    {
+      "id": 133371,
+      "name": "Patigno"
+    },
+    {
+      "id": 133372,
+      "name": "Peccioli"
+    },
+    {
+      "id": 133373,
+      "name": "Pelago"
+    },
+    {
+      "id": 133374,
+      "name": "Pergine Valdarno"
+    },
+    {
+      "id": 133375,
+      "name": "Pescaglia"
+    },
+    {
+      "id": 133376,
+      "name": "Pescia"
+    },
+    {
+      "id": 133377,
+      "name": "Pian di Mugnone"
+    },
+    {
+      "id": 133378,
+      "name": "Pian di Scò"
+    },
+    {
+      "id": 133379,
+      "name": "Piancastagnaio"
+    },
+    {
+      "id": 133380,
+      "name": "Piano di Conca"
+    },
+    {
+      "id": 133381,
+      "name": "Piano di Coreglia-Ghivizzano"
+    },
+    {
+      "id": 133382,
+      "name": "Piano di Mommio"
+    },
+    {
+      "id": 133383,
+      "name": "Piazza al Serchio-San Michele"
+    },
+    {
+      "id": 133384,
+      "name": "Pienza"
+    },
+    {
+      "id": 133385,
+      "name": "Pietrasanta"
+    },
+    {
+      "id": 133386,
+      "name": "Pieve a Nievole"
+    },
+    {
+      "id": 133387,
+      "name": "Pieve al Toppo"
+    },
+    {
+      "id": 133388,
+      "name": "Pieve Fosciana"
+    },
+    {
+      "id": 133389,
+      "name": "Pieve Santo Stefano"
+    },
+    {
+      "id": 133390,
+      "name": "Piombino"
+    },
+    {
+      "id": 133391,
+      "name": "Pisa"
+    },
+    {
+      "id": 133392,
+      "name": "Pistoia"
+    },
+    {
+      "id": 133393,
+      "name": "Piteglio"
+    },
+    {
+      "id": 133394,
+      "name": "Pitigliano"
+    },
+    {
+      "id": 133395,
+      "name": "Podenzana"
+    },
+    {
+      "id": 133396,
+      "name": "Poggetto"
+    },
+    {
+      "id": 133397,
+      "name": "Poggibonsi"
+    },
+    {
+      "id": 133398,
+      "name": "Poggio A Caiano"
+    },
+    {
+      "id": 133399,
+      "name": "Pomarance"
+    },
+    {
+      "id": 133400,
+      "name": "Ponsacco"
+    },
+    {
+      "id": 133401,
+      "name": "Pontasserchio"
+    },
+    {
+      "id": 133402,
+      "name": "Pontassieve"
+    },
+    {
+      "id": 133403,
+      "name": "Ponte A Elsa"
+    },
+    {
+      "id": 133404,
+      "name": "Ponte a Poppi"
+    },
+    {
+      "id": 133405,
+      "name": "Ponte A Tressa"
+    },
+    {
+      "id": 133406,
+      "name": "Ponte Buggianese"
+    },
+    {
+      "id": 133407,
+      "name": "Pontedera"
+    },
+    {
+      "id": 133408,
+      "name": "Pontestazzemese"
+    },
+    {
+      "id": 133409,
+      "name": "Ponticino"
+    },
+    {
+      "id": 133410,
+      "name": "Pontremoli"
+    },
+    {
+      "id": 133411,
+      "name": "Poppi"
+    },
+    {
+      "id": 133412,
+      "name": "Porcari"
+    },
+    {
+      "id": 133413,
+      "name": "Porto Azzurro"
+    },
+    {
+      "id": 133414,
+      "name": "Porto Ercole"
+    },
+    {
+      "id": 133415,
+      "name": "Porto Santo Stefano"
+    },
+    {
+      "id": 133416,
+      "name": "Portoferraio"
+    },
+    {
+      "id": 133417,
+      "name": "Pozzale-Case Nuove"
+    },
+    {
+      "id": 133418,
+      "name": "Pratantico-Indicatore"
+    },
+    {
+      "id": 133419,
+      "name": "Prato"
+    },
+    {
+      "id": 133420,
+      "name": "Pratovecchio"
+    },
+    {
+      "id": 133421,
+      "name": "Province of Arezzo"
+    },
+    {
+      "id": 133422,
+      "name": "Province of Florence"
+    },
+    {
+      "id": 133423,
+      "name": "Province of Pisa"
+    },
+    {
+      "id": 133424,
+      "name": "Provincia di Grosseto"
+    },
+    {
+      "id": 133425,
+      "name": "Provincia di Livorno"
+    },
+    {
+      "id": 133426,
+      "name": "Provincia di Lucca"
+    },
+    {
+      "id": 133427,
+      "name": "Provincia di Massa-Carrara"
+    },
+    {
+      "id": 133428,
+      "name": "Provincia di Pistoia"
+    },
+    {
+      "id": 133429,
+      "name": "Provincia di Prato"
+    },
+    {
+      "id": 133430,
+      "name": "Provincia di Siena"
+    },
+    {
+      "id": 133431,
+      "name": "Quarata"
+    },
+    {
+      "id": 133432,
+      "name": "Quarrata"
+    },
+    {
+      "id": 133433,
+      "name": "Quattro Strade"
+    },
+    {
+      "id": 133434,
+      "name": "Quercianella"
+    },
+    {
+      "id": 133435,
+      "name": "Radda in Chianti"
+    },
+    {
+      "id": 133436,
+      "name": "Radicofani"
+    },
+    {
+      "id": 133437,
+      "name": "Radicondoli"
+    },
+    {
+      "id": 133438,
+      "name": "Rapolano Terme"
+    },
+    {
+      "id": 133439,
+      "name": "Rassina"
+    },
+    {
+      "id": 133440,
+      "name": "Reggello"
+    },
+    {
+      "id": 133441,
+      "name": "Ribolla"
+    },
+    {
+      "id": 133442,
+      "name": "Rignano sull'Arno"
+    },
+    {
+      "id": 133443,
+      "name": "Rio Marina"
+    },
+    {
+      "id": 133444,
+      "name": "Rio nell'Elba"
+    },
+    {
+      "id": 133445,
+      "name": "Ripa-Pozzi-Querceta-Ponterosso"
+    },
+    {
+      "id": 133446,
+      "name": "Riparbella"
+    },
+    {
+      "id": 133447,
+      "name": "Roccalbegna"
+    },
+    {
+      "id": 133448,
+      "name": "Roccastrada"
+    },
+    {
+      "id": 133449,
+      "name": "Ronta"
+    },
+    {
+      "id": 133450,
+      "name": "Rosia"
+    },
+    {
+      "id": 133451,
+      "name": "Rosignano Marittimo"
+    },
+    {
+      "id": 133452,
+      "name": "Rosignano Solvay-Castiglioncello"
+    },
+    {
+      "id": 133453,
+      "name": "Rufina"
+    },
+    {
+      "id": 133454,
+      "name": "S.P. in Palazzi"
+    },
+    {
+      "id": 133455,
+      "name": "Saline"
+    },
+    {
+      "id": 133456,
+      "name": "Sambuca"
+    },
+    {
+      "id": 133457,
+      "name": "Sambuca Pistoiese"
+    },
+    {
+      "id": 133458,
+      "name": "San Casciano dei Bagni"
+    },
+    {
+      "id": 133459,
+      "name": "San Casciano in Val di Pesa"
+    },
+    {
+      "id": 133460,
+      "name": "San Cipriano-S.Barbara-Centinale"
+    },
+    {
+      "id": 133461,
+      "name": "San Donato"
+    },
+    {
+      "id": 133462,
+      "name": "San Donnino"
+    },
+    {
+      "id": 133463,
+      "name": "San Francesco"
+    },
+    {
+      "id": 133464,
+      "name": "San Gimignano"
+    },
+    {
+      "id": 133465,
+      "name": "San Giovanni d'Asso"
+    },
+    {
+      "id": 133466,
+      "name": "San Giovanni Valdarno"
+    },
+    {
+      "id": 133467,
+      "name": "San Giuliano Terme"
+    },
+    {
+      "id": 133468,
+      "name": "San Giustino Valdarno"
+    },
+    {
+      "id": 133469,
+      "name": "San Godenzo"
+    },
+    {
+      "id": 133470,
+      "name": "San Jacopo al Girone"
+    },
+    {
+      "id": 133471,
+      "name": "San Marcello Pistoiese"
+    },
+    {
+      "id": 133472,
+      "name": "San Martino in Freddana-Monsagrati"
+    },
+    {
+      "id": 133473,
+      "name": "San Mauro"
+    },
+    {
+      "id": 133474,
+      "name": "San Miniato"
+    },
+    {
+      "id": 133475,
+      "name": "San Miniato Basso"
+    },
+    {
+      "id": 133476,
+      "name": "San Pierino"
+    },
+    {
+      "id": 133477,
+      "name": "San Piero a Sieve"
+    },
+    {
+      "id": 133478,
+      "name": "San Pietro Belvedere"
+    },
+    {
+      "id": 133479,
+      "name": "San Quirico d'Orcia"
+    },
+    {
+      "id": 133480,
+      "name": "San Rocco"
+    },
+    {
+      "id": 133481,
+      "name": "San Romano"
+    },
+    {
+      "id": 133482,
+      "name": "San Romano in Garfagnana"
+    },
+    {
+      "id": 133483,
+      "name": "San Vincenzo"
+    },
+    {
+      "id": 133484,
+      "name": "San Vito-Cerreto"
+    },
+    {
+      "id": 133485,
+      "name": "Sansepolcro"
+    },
+    {
+      "id": 133486,
+      "name": "Sant'Albino"
+    },
+    {
+      "id": 133487,
+      "name": "Santa Croce sull'Arno"
+    },
+    {
+      "id": 133488,
+      "name": "Santa Fiora"
+    },
+    {
+      "id": 133489,
+      "name": "Santa Luce"
+    },
+    {
+      "id": 133490,
+      "name": "Santa Lucia"
+    },
+    {
+      "id": 133491,
+      "name": "Santa Maria a Monte"
+    },
+    {
+      "id": 133492,
+      "name": "Sarteano"
+    },
+    {
+      "id": 133493,
+      "name": "Sassetta"
+    },
+    {
+      "id": 133494,
+      "name": "Scandicci"
+    },
+    {
+      "id": 133495,
+      "name": "Scansano"
+    },
+    {
+      "id": 133496,
+      "name": "Scarlino"
+    },
+    {
+      "id": 133497,
+      "name": "Scarlino Scalo"
+    },
+    {
+      "id": 133498,
+      "name": "Scarperia"
+    },
+    {
+      "id": 133499,
+      "name": "Seano"
+    },
+    {
+      "id": 133500,
+      "name": "Seggiano"
+    },
+    {
+      "id": 133501,
+      "name": "Selvatelle"
+    },
+    {
+      "id": 133502,
+      "name": "Semproniano"
+    },
+    {
+      "id": 133503,
+      "name": "Seravezza"
+    },
+    {
+      "id": 133504,
+      "name": "Serravalle Pistoiese"
+    },
+    {
+      "id": 133505,
+      "name": "Serre di Rapolano"
+    },
+    {
+      "id": 133506,
+      "name": "Sestino"
+    },
+    {
+      "id": 133507,
+      "name": "Sesto Fiorentino"
+    },
+    {
+      "id": 133508,
+      "name": "Sieci"
+    },
+    {
+      "id": 133509,
+      "name": "Siena"
+    },
+    {
+      "id": 133510,
+      "name": "Signa"
+    },
+    {
+      "id": 133511,
+      "name": "Sillano"
+    },
+    {
+      "id": 133512,
+      "name": "Sinalunga"
+    },
+    {
+      "id": 133513,
+      "name": "Soci"
+    },
+    {
+      "id": 133514,
+      "name": "Sorano"
+    },
+    {
+      "id": 133515,
+      "name": "Sovicille"
+    },
+    {
+      "id": 133516,
+      "name": "Spianate"
+    },
+    {
+      "id": 133517,
+      "name": "Spicchio-Sovigliana"
+    },
+    {
+      "id": 133518,
+      "name": "Stabbia"
+    },
+    {
+      "id": 133519,
+      "name": "Staggia"
+    },
+    {
+      "id": 133520,
+      "name": "Stazione"
+    },
+    {
+      "id": 133521,
+      "name": "Stazione Masotti"
+    },
+    {
+      "id": 133522,
+      "name": "Stia"
+    },
+    {
+      "id": 133523,
+      "name": "Stiava"
+    },
+    {
+      "id": 133524,
+      "name": "Strada"
+    },
+    {
+      "id": 133525,
+      "name": "Strada in Chianti"
+    },
+    {
+      "id": 133526,
+      "name": "Strettoia"
+    },
+    {
+      "id": 133527,
+      "name": "Subbiano"
+    },
+    {
+      "id": 133528,
+      "name": "Suvereto"
+    },
+    {
+      "id": 133529,
+      "name": "Talla"
+    },
+    {
+      "id": 133530,
+      "name": "Tavarnelle Val di Pesa"
+    },
+    {
+      "id": 133531,
+      "name": "Tavarnuzze"
+    },
+    {
+      "id": 133532,
+      "name": "Taverne D'Arbia"
+    },
+    {
+      "id": 133533,
+      "name": "Tegoleto"
+    },
+    {
+      "id": 133534,
+      "name": "Terontola"
+    },
+    {
+      "id": 133535,
+      "name": "Terranuova Bracciolini"
+    },
+    {
+      "id": 133536,
+      "name": "Terrarossa"
+    },
+    {
+      "id": 133537,
+      "name": "Terricciola"
+    },
+    {
+      "id": 133538,
+      "name": "Torre del Lago Puccini"
+    },
+    {
+      "id": 133539,
+      "name": "Torrenieri"
+    },
+    {
+      "id": 133540,
+      "name": "Torrita di Siena"
+    },
+    {
+      "id": 133541,
+      "name": "Treggiaia"
+    },
+    {
+      "id": 133542,
+      "name": "Trequanda"
+    },
+    {
+      "id": 133543,
+      "name": "Tresana"
+    },
+    {
+      "id": 133544,
+      "name": "Uggia-Pazzera-Bizzarrino"
+    },
+    {
+      "id": 133545,
+      "name": "Uliveto Terme"
+    },
+    {
+      "id": 133546,
+      "name": "Uzzano"
+    },
+    {
+      "id": 133547,
+      "name": "Vacchereccia"
+    },
+    {
+      "id": 133548,
+      "name": "Vada"
+    },
+    {
+      "id": 133549,
+      "name": "Vaglia"
+    },
+    {
+      "id": 133550,
+      "name": "Vaiano"
+    },
+    {
+      "id": 133551,
+      "name": "Val di Cava"
+    },
+    {
+      "id": 133552,
+      "name": "Valdottavo"
+    },
+    {
+      "id": 133553,
+      "name": "Valenzatico"
+    },
+    {
+      "id": 133554,
+      "name": "Vecchiano-Nodica"
+    },
+    {
+      "id": 133555,
+      "name": "Venturina"
+    },
+    {
+      "id": 133556,
+      "name": "Vernio"
+    },
+    {
+      "id": 133557,
+      "name": "Vescovado"
+    },
+    {
+      "id": 133558,
+      "name": "Viareggio"
+    },
+    {
+      "id": 133559,
+      "name": "Vicarello"
+    },
+    {
+      "id": 133560,
+      "name": "Vicchio"
+    },
+    {
+      "id": 133561,
+      "name": "Viciomaggio"
+    },
+    {
+      "id": 133562,
+      "name": "Vicopisano"
+    },
+    {
+      "id": 133563,
+      "name": "Vignale Riotorto"
+    },
+    {
+      "id": 133564,
+      "name": "Vignole-Olmi"
+    },
+    {
+      "id": 133565,
+      "name": "Villa Basilica"
+    },
+    {
+      "id": 133566,
+      "name": "Villa Collemandina"
+    },
+    {
+      "id": 133567,
+      "name": "Villafranca in Lunigiana"
+    },
+    {
+      "id": 133568,
+      "name": "Vinci"
+    },
+    {
+      "id": 133569,
+      "name": "Volterra"
+    },
+    {
+      "id": 133570,
+      "name": "Zeri"
+    }
+  ]
+}

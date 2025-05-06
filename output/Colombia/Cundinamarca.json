@@ -1,0 +1,471 @@
+{
+  "id": 3345,
+  "name": "Cundinamarca",
+  "state_code": "CUN",
+  "cities": [
+    {
+      "id": 92271,
+      "name": "Agua de Dios"
+    },
+    {
+      "id": 92272,
+      "name": "Albán"
+    },
+    {
+      "id": 92273,
+      "name": "Anapoima"
+    },
+    {
+      "id": 92274,
+      "name": "Anolaima"
+    },
+    {
+      "id": 92275,
+      "name": "Apulo"
+    },
+    {
+      "id": 92276,
+      "name": "Arbeláez"
+    },
+    {
+      "id": 92277,
+      "name": "Beltrán"
+    },
+    {
+      "id": 92278,
+      "name": "Bituima"
+    },
+    {
+      "id": 92279,
+      "name": "Bojacá"
+    },
+    {
+      "id": 92280,
+      "name": "Cabrera"
+    },
+    {
+      "id": 92281,
+      "name": "Cachipay"
+    },
+    {
+      "id": 92282,
+      "name": "Cajicá"
+    },
+    {
+      "id": 92283,
+      "name": "Caparrapí"
+    },
+    {
+      "id": 92284,
+      "name": "Caqueza"
+    },
+    {
+      "id": 92285,
+      "name": "Carmen de Carupa"
+    },
+    {
+      "id": 92286,
+      "name": "Chaguaní"
+    },
+    {
+      "id": 92287,
+      "name": "Chía"
+    },
+    {
+      "id": 92288,
+      "name": "Chipaque"
+    },
+    {
+      "id": 92289,
+      "name": "Choachí"
+    },
+    {
+      "id": 92290,
+      "name": "Chocontá"
+    },
+    {
+      "id": 92291,
+      "name": "Cogua"
+    },
+    {
+      "id": 92292,
+      "name": "Cota"
+    },
+    {
+      "id": 92293,
+      "name": "Cucunubá"
+    },
+    {
+      "id": 92294,
+      "name": "El Colegio"
+    },
+    {
+      "id": 92295,
+      "name": "El Peñón"
+    },
+    {
+      "id": 92296,
+      "name": "El Rosal"
+    },
+    {
+      "id": 92297,
+      "name": "Facatativá"
+    },
+    {
+      "id": 92298,
+      "name": "Fomeque"
+    },
+    {
+      "id": 92299,
+      "name": "Fosca"
+    },
+    {
+      "id": 92300,
+      "name": "Funza"
+    },
+    {
+      "id": 92301,
+      "name": "Fúquene"
+    },
+    {
+      "id": 92302,
+      "name": "Fusagasugá"
+    },
+    {
+      "id": 92303,
+      "name": "Gachala"
+    },
+    {
+      "id": 92304,
+      "name": "Gachancipá"
+    },
+    {
+      "id": 92305,
+      "name": "Gachetá"
+    },
+    {
+      "id": 92306,
+      "name": "Gama"
+    },
+    {
+      "id": 92307,
+      "name": "Girardot"
+    },
+    {
+      "id": 92308,
+      "name": "Granada"
+    },
+    {
+      "id": 92309,
+      "name": "Guachetá"
+    },
+    {
+      "id": 92310,
+      "name": "Guaduas"
+    },
+    {
+      "id": 92311,
+      "name": "Guasca"
+    },
+    {
+      "id": 92312,
+      "name": "Guataquí"
+    },
+    {
+      "id": 92313,
+      "name": "Guatavita"
+    },
+    {
+      "id": 92314,
+      "name": "Guayabal de Siquima"
+    },
+    {
+      "id": 92315,
+      "name": "Guayabetal"
+    },
+    {
+      "id": 92316,
+      "name": "Gutiérrez"
+    },
+    {
+      "id": 92317,
+      "name": "Jerusalén"
+    },
+    {
+      "id": 92318,
+      "name": "Junín"
+    },
+    {
+      "id": 92319,
+      "name": "La Calera"
+    },
+    {
+      "id": 92320,
+      "name": "La Mesa"
+    },
+    {
+      "id": 92321,
+      "name": "La Palma"
+    },
+    {
+      "id": 92322,
+      "name": "La Peña"
+    },
+    {
+      "id": 92323,
+      "name": "La Vega"
+    },
+    {
+      "id": 92324,
+      "name": "Lenguazaque"
+    },
+    {
+      "id": 92325,
+      "name": "Macheta"
+    },
+    {
+      "id": 92326,
+      "name": "Madrid"
+    },
+    {
+      "id": 92327,
+      "name": "Manta"
+    },
+    {
+      "id": 92328,
+      "name": "Medina"
+    },
+    {
+      "id": 92329,
+      "name": "Mosquera"
+    },
+    {
+      "id": 92330,
+      "name": "Nariño"
+    },
+    {
+      "id": 92331,
+      "name": "Nemocón"
+    },
+    {
+      "id": 92332,
+      "name": "Nilo"
+    },
+    {
+      "id": 92333,
+      "name": "Nimaima"
+    },
+    {
+      "id": 92334,
+      "name": "Nocaima"
+    },
+    {
+      "id": 92335,
+      "name": "Pacho"
+    },
+    {
+      "id": 92336,
+      "name": "Paime"
+    },
+    {
+      "id": 92337,
+      "name": "Pandi"
+    },
+    {
+      "id": 92338,
+      "name": "Paratebueno"
+    },
+    {
+      "id": 92339,
+      "name": "Pasca"
+    },
+    {
+      "id": 92340,
+      "name": "Puerto Salgar"
+    },
+    {
+      "id": 92341,
+      "name": "Pulí"
+    },
+    {
+      "id": 92342,
+      "name": "Quebradanegra"
+    },
+    {
+      "id": 92343,
+      "name": "Quetame"
+    },
+    {
+      "id": 92344,
+      "name": "Quipile"
+    },
+    {
+      "id": 92345,
+      "name": "Ricaurte"
+    },
+    {
+      "id": 92346,
+      "name": "San Antonio del Tequendama"
+    },
+    {
+      "id": 92347,
+      "name": "San Bernardo"
+    },
+    {
+      "id": 92348,
+      "name": "San Cayetano"
+    },
+    {
+      "id": 92349,
+      "name": "San Francisco"
+    },
+    {
+      "id": 92350,
+      "name": "San Juan de Río Seco"
+    },
+    {
+      "id": 92351,
+      "name": "Sasaima"
+    },
+    {
+      "id": 92352,
+      "name": "Sesquilé"
+    },
+    {
+      "id": 92353,
+      "name": "Sibaté"
+    },
+    {
+      "id": 92354,
+      "name": "Silvania"
+    },
+    {
+      "id": 92355,
+      "name": "Simijaca"
+    },
+    {
+      "id": 92356,
+      "name": "Soacha"
+    },
+    {
+      "id": 92357,
+      "name": "Sopó"
+    },
+    {
+      "id": 92358,
+      "name": "Subachoque"
+    },
+    {
+      "id": 92359,
+      "name": "Suesca"
+    },
+    {
+      "id": 92360,
+      "name": "Supatá"
+    },
+    {
+      "id": 92361,
+      "name": "Susa"
+    },
+    {
+      "id": 92362,
+      "name": "Sutatausa"
+    },
+    {
+      "id": 92363,
+      "name": "Tabio"
+    },
+    {
+      "id": 92364,
+      "name": "Tausa"
+    },
+    {
+      "id": 92365,
+      "name": "Tena"
+    },
+    {
+      "id": 92366,
+      "name": "Tenjo"
+    },
+    {
+      "id": 92367,
+      "name": "Tibacuy"
+    },
+    {
+      "id": 92368,
+      "name": "Tibirita"
+    },
+    {
+      "id": 92369,
+      "name": "Tocaima"
+    },
+    {
+      "id": 92370,
+      "name": "Tocancipá"
+    },
+    {
+      "id": 92371,
+      "name": "Topaipí"
+    },
+    {
+      "id": 92372,
+      "name": "Ubalá"
+    },
+    {
+      "id": 92373,
+      "name": "Ubaque"
+    },
+    {
+      "id": 92374,
+      "name": "Une"
+    },
+    {
+      "id": 92375,
+      "name": "Útica"
+    },
+    {
+      "id": 92376,
+      "name": "Venecia"
+    },
+    {
+      "id": 92377,
+      "name": "Vergara"
+    },
+    {
+      "id": 92378,
+      "name": "Vianí"
+    },
+    {
+      "id": 92379,
+      "name": "Villa de San Diego de Ubate"
+    },
+    {
+      "id": 92380,
+      "name": "Villagómez"
+    },
+    {
+      "id": 92381,
+      "name": "Villapinzón"
+    },
+    {
+      "id": 92382,
+      "name": "Villeta"
+    },
+    {
+      "id": 92383,
+      "name": "Viotá"
+    },
+    {
+      "id": 92384,
+      "name": "Yacopí"
+    },
+    {
+      "id": 92385,
+      "name": "Zipacón"
+    },
+    {
+      "id": 92386,
+      "name": "Zipaquirá"
+    }
+  ]
+}

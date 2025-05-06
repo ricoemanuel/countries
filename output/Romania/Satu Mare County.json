@@ -1,0 +1,635 @@
+{
+  "id": 5987,
+  "name": "Satu Mare County",
+  "state_code": "SM",
+  "cities": [
+    {
+      "id": 171745,
+      "name": "Acâş"
+    },
+    {
+      "id": 171746,
+      "name": "Agriș"
+    },
+    {
+      "id": 171747,
+      "name": "Andrid"
+    },
+    {
+      "id": 171748,
+      "name": "Apa"
+    },
+    {
+      "id": 171749,
+      "name": "Ardud"
+    },
+    {
+      "id": 171750,
+      "name": "Babța"
+    },
+    {
+      "id": 171751,
+      "name": "Bârsău de Sus"
+    },
+    {
+      "id": 171752,
+      "name": "Bătarci"
+    },
+    {
+      "id": 171753,
+      "name": "Beltiug"
+    },
+    {
+      "id": 171754,
+      "name": "Berveni"
+    },
+    {
+      "id": 171755,
+      "name": "Bixad"
+    },
+    {
+      "id": 171756,
+      "name": "Bogdand"
+    },
+    {
+      "id": 171757,
+      "name": "Boinești"
+    },
+    {
+      "id": 171758,
+      "name": "Botiz"
+    },
+    {
+      "id": 171759,
+      "name": "Călineşti-Oaş"
+    },
+    {
+      "id": 171760,
+      "name": "Cămărzana"
+    },
+    {
+      "id": 171761,
+      "name": "Cămin"
+    },
+    {
+      "id": 171762,
+      "name": "Căpleni"
+    },
+    {
+      "id": 171763,
+      "name": "Cărășeu"
+    },
+    {
+      "id": 171764,
+      "name": "Carei"
+    },
+    {
+      "id": 171765,
+      "name": "Căuaş"
+    },
+    {
+      "id": 171766,
+      "name": "Cehal"
+    },
+    {
+      "id": 171767,
+      "name": "Certeze"
+    },
+    {
+      "id": 171768,
+      "name": "Cidreag"
+    },
+    {
+      "id": 171769,
+      "name": "Ciumești"
+    },
+    {
+      "id": 171770,
+      "name": "Comuna Acâş"
+    },
+    {
+      "id": 171771,
+      "name": "Comuna Agriş"
+    },
+    {
+      "id": 171772,
+      "name": "Comuna Andrid"
+    },
+    {
+      "id": 171773,
+      "name": "Comuna Apa"
+    },
+    {
+      "id": 171774,
+      "name": "Comuna Bârsău"
+    },
+    {
+      "id": 171775,
+      "name": "Comuna Bătarci"
+    },
+    {
+      "id": 171776,
+      "name": "Comuna Beltiug"
+    },
+    {
+      "id": 171777,
+      "name": "Comuna Berveni"
+    },
+    {
+      "id": 171778,
+      "name": "Comuna Bixad"
+    },
+    {
+      "id": 171779,
+      "name": "Comuna Bogdand"
+    },
+    {
+      "id": 171780,
+      "name": "Comuna Botiz"
+    },
+    {
+      "id": 171781,
+      "name": "Comuna Cãlineşti-Oaş"
+    },
+    {
+      "id": 171782,
+      "name": "Comuna Cămărzana"
+    },
+    {
+      "id": 171783,
+      "name": "Comuna Cãmin"
+    },
+    {
+      "id": 171784,
+      "name": "Comuna Căpleni"
+    },
+    {
+      "id": 171785,
+      "name": "Comuna Căuaş"
+    },
+    {
+      "id": 171786,
+      "name": "Comuna Cehal"
+    },
+    {
+      "id": 171787,
+      "name": "Comuna Certeze"
+    },
+    {
+      "id": 171788,
+      "name": "Comuna Ciumeşti"
+    },
+    {
+      "id": 171789,
+      "name": "Comuna Craidorolţ"
+    },
+    {
+      "id": 171790,
+      "name": "Comuna Crucişor"
+    },
+    {
+      "id": 171791,
+      "name": "Comuna Culciu"
+    },
+    {
+      "id": 171792,
+      "name": "Comuna Doba"
+    },
+    {
+      "id": 171793,
+      "name": "Comuna Dorolţ"
+    },
+    {
+      "id": 171794,
+      "name": "Comuna Foieni"
+    },
+    {
+      "id": 171795,
+      "name": "Comuna Gherţa Mică"
+    },
+    {
+      "id": 171796,
+      "name": "Comuna Halmeu"
+    },
+    {
+      "id": 171797,
+      "name": "Comuna Hodod"
+    },
+    {
+      "id": 171798,
+      "name": "Comuna Homoroade"
+    },
+    {
+      "id": 171799,
+      "name": "Comuna Lazuri"
+    },
+    {
+      "id": 171800,
+      "name": "Comuna Medieşu Aurit"
+    },
+    {
+      "id": 171801,
+      "name": "Comuna Micula"
+    },
+    {
+      "id": 171802,
+      "name": "Comuna Moftinu"
+    },
+    {
+      "id": 171803,
+      "name": "Comuna Odoreu"
+    },
+    {
+      "id": 171804,
+      "name": "Comuna Oraşu Nou"
+    },
+    {
+      "id": 171805,
+      "name": "Comuna Pãuleşti"
+    },
+    {
+      "id": 171806,
+      "name": "Comuna Petreşti"
+    },
+    {
+      "id": 171807,
+      "name": "Comuna Pir"
+    },
+    {
+      "id": 171808,
+      "name": "Comuna Pişcolt"
+    },
+    {
+      "id": 171809,
+      "name": "Comuna Pomi"
+    },
+    {
+      "id": 171810,
+      "name": "Comuna Porumbeşti"
+    },
+    {
+      "id": 171811,
+      "name": "Comuna Racşa"
+    },
+    {
+      "id": 171812,
+      "name": "Comuna Săcăşeni"
+    },
+    {
+      "id": 171813,
+      "name": "Comuna Sanislău"
+    },
+    {
+      "id": 171814,
+      "name": "Comuna Santău"
+    },
+    {
+      "id": 171815,
+      "name": "Comuna Săuca"
+    },
+    {
+      "id": 171816,
+      "name": "Comuna Socond"
+    },
+    {
+      "id": 171817,
+      "name": "Comuna Supur"
+    },
+    {
+      "id": 171818,
+      "name": "Comuna Tarna Mare"
+    },
+    {
+      "id": 171819,
+      "name": "Comuna Târşolţ"
+    },
+    {
+      "id": 171820,
+      "name": "Comuna Terebeşti"
+    },
+    {
+      "id": 171821,
+      "name": "Comuna Tiream"
+    },
+    {
+      "id": 171822,
+      "name": "Comuna Turţ"
+    },
+    {
+      "id": 171823,
+      "name": "Comuna Turulung"
+    },
+    {
+      "id": 171824,
+      "name": "Comuna Urziceni"
+    },
+    {
+      "id": 171825,
+      "name": "Comuna Valea Vinului"
+    },
+    {
+      "id": 171826,
+      "name": "Comuna Vama"
+    },
+    {
+      "id": 171827,
+      "name": "Comuna Vetiş"
+    },
+    {
+      "id": 171828,
+      "name": "Comuna Viile Satu Mare"
+    },
+    {
+      "id": 171829,
+      "name": "Craidorolţ"
+    },
+    {
+      "id": 171830,
+      "name": "Crucişor"
+    },
+    {
+      "id": 171831,
+      "name": "Culciu Mic"
+    },
+    {
+      "id": 171832,
+      "name": "Dara"
+    },
+    {
+      "id": 171833,
+      "name": "Decebal"
+    },
+    {
+      "id": 171834,
+      "name": "Doba"
+    },
+    {
+      "id": 171835,
+      "name": "Dobra"
+    },
+    {
+      "id": 171836,
+      "name": "Domănești"
+    },
+    {
+      "id": 171837,
+      "name": "Dorolţ"
+    },
+    {
+      "id": 171838,
+      "name": "Drăgușeni"
+    },
+    {
+      "id": 171839,
+      "name": "Dumbrava"
+    },
+    {
+      "id": 171840,
+      "name": "Foieni"
+    },
+    {
+      "id": 171841,
+      "name": "Gherța Mare"
+    },
+    {
+      "id": 171842,
+      "name": "Gherţa Mică"
+    },
+    {
+      "id": 171843,
+      "name": "Halmeu"
+    },
+    {
+      "id": 171844,
+      "name": "Hodod"
+    },
+    {
+      "id": 171845,
+      "name": "Homorodu de Jos"
+    },
+    {
+      "id": 171846,
+      "name": "Huta Certeze"
+    },
+    {
+      "id": 171847,
+      "name": "Iojib"
+    },
+    {
+      "id": 171848,
+      "name": "Lazuri"
+    },
+    {
+      "id": 171849,
+      "name": "Livada"
+    },
+    {
+      "id": 171850,
+      "name": "Lucăceni"
+    },
+    {
+      "id": 171851,
+      "name": "Mădăras"
+    },
+    {
+      "id": 171852,
+      "name": "Medieşu Aurit"
+    },
+    {
+      "id": 171853,
+      "name": "Micula"
+    },
+    {
+      "id": 171854,
+      "name": "Moftinu Mare"
+    },
+    {
+      "id": 171855,
+      "name": "Moftinu Mic"
+    },
+    {
+      "id": 171856,
+      "name": "Moișeni"
+    },
+    {
+      "id": 171857,
+      "name": "Municipiul Carei"
+    },
+    {
+      "id": 171858,
+      "name": "Municipiul Satu Mare"
+    },
+    {
+      "id": 171859,
+      "name": "Negreşti-Oaş"
+    },
+    {
+      "id": 171860,
+      "name": "Oar"
+    },
+    {
+      "id": 171861,
+      "name": "Odoreu"
+    },
+    {
+      "id": 171862,
+      "name": "Oraș Ardud"
+    },
+    {
+      "id": 171863,
+      "name": "Oraș Livada"
+    },
+    {
+      "id": 171864,
+      "name": "Oraş Negreşti-Oaş"
+    },
+    {
+      "id": 171865,
+      "name": "Oraș Tăşnad"
+    },
+    {
+      "id": 171866,
+      "name": "Oraşu Nou"
+    },
+    {
+      "id": 171867,
+      "name": "Păuleşti"
+    },
+    {
+      "id": 171868,
+      "name": "Petreşti"
+    },
+    {
+      "id": 171869,
+      "name": "Pir"
+    },
+    {
+      "id": 171870,
+      "name": "Pişcolt"
+    },
+    {
+      "id": 171871,
+      "name": "Poiana Codrului"
+    },
+    {
+      "id": 171872,
+      "name": "Pomi"
+    },
+    {
+      "id": 171873,
+      "name": "Porumbești"
+    },
+    {
+      "id": 171874,
+      "name": "Potău"
+    },
+    {
+      "id": 171875,
+      "name": "Racşa"
+    },
+    {
+      "id": 171876,
+      "name": "Săcăşeni"
+    },
+    {
+      "id": 171877,
+      "name": "Sanislău"
+    },
+    {
+      "id": 171878,
+      "name": "Santău"
+    },
+    {
+      "id": 171879,
+      "name": "Sărăuad"
+    },
+    {
+      "id": 171880,
+      "name": "Sătmărel"
+    },
+    {
+      "id": 171881,
+      "name": "Satu Mare"
+    },
+    {
+      "id": 171882,
+      "name": "Săuca"
+    },
+    {
+      "id": 171883,
+      "name": "Socond"
+    },
+    {
+      "id": 171884,
+      "name": "Stâna"
+    },
+    {
+      "id": 171885,
+      "name": "Supuru de Jos"
+    },
+    {
+      "id": 171886,
+      "name": "Tarna Mare"
+    },
+    {
+      "id": 171887,
+      "name": "Târşolţ"
+    },
+    {
+      "id": 171888,
+      "name": "Târşolţel"
+    },
+    {
+      "id": 171889,
+      "name": "Tăşnad"
+    },
+    {
+      "id": 171890,
+      "name": "Terebeşti"
+    },
+    {
+      "id": 171891,
+      "name": "Tiream"
+    },
+    {
+      "id": 171892,
+      "name": "Trip"
+    },
+    {
+      "id": 171893,
+      "name": "Tur"
+    },
+    {
+      "id": 171894,
+      "name": "Turţ"
+    },
+    {
+      "id": 171895,
+      "name": "Turulung"
+    },
+    {
+      "id": 171896,
+      "name": "Urziceni"
+    },
+    {
+      "id": 171897,
+      "name": "Valea Seacă"
+    },
+    {
+      "id": 171898,
+      "name": "Valea Vinului"
+    },
+    {
+      "id": 171899,
+      "name": "Vama"
+    },
+    {
+      "id": 171900,
+      "name": "Vetiş"
+    },
+    {
+      "id": 171901,
+      "name": "Viile Satu Mare"
+    }
+  ]
+}

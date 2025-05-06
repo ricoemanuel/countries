@@ -1,0 +1,907 @@
+{
+  "id": 2824,
+  "name": "Carinthia",
+  "state_code": "2",
+  "cities": [
+    {
+      "id": 78404,
+      "name": "Albeck"
+    },
+    {
+      "id": 78405,
+      "name": "Althofen"
+    },
+    {
+      "id": 78406,
+      "name": "Annabichl"
+    },
+    {
+      "id": 78407,
+      "name": "Arnoldstein"
+    },
+    {
+      "id": 78408,
+      "name": "Arriach"
+    },
+    {
+      "id": 78409,
+      "name": "Auen"
+    },
+    {
+      "id": 78410,
+      "name": "Bad Bleiberg"
+    },
+    {
+      "id": 78411,
+      "name": "Bad Eisenkappel"
+    },
+    {
+      "id": 78412,
+      "name": "Bad Kleinkirchheim"
+    },
+    {
+      "id": 78413,
+      "name": "Bad Sankt Leonhard im Lavanttal"
+    },
+    {
+      "id": 78414,
+      "name": "Baldramsdorf"
+    },
+    {
+      "id": 78415,
+      "name": "Berg im Drautal"
+    },
+    {
+      "id": 78416,
+      "name": "Bleiburg"
+    },
+    {
+      "id": 78417,
+      "name": "Bodensdorf"
+    },
+    {
+      "id": 78418,
+      "name": "Brückl"
+    },
+    {
+      "id": 78419,
+      "name": "Dellach"
+    },
+    {
+      "id": 78420,
+      "name": "Dellach im Drautal"
+    },
+    {
+      "id": 78421,
+      "name": "Deutsch Griffen"
+    },
+    {
+      "id": 78422,
+      "name": "Deutsch-Griffen"
+    },
+    {
+      "id": 78423,
+      "name": "Diex"
+    },
+    {
+      "id": 78424,
+      "name": "Döbriach"
+    },
+    {
+      "id": 78425,
+      "name": "Draschen"
+    },
+    {
+      "id": 78426,
+      "name": "Ebenthal"
+    },
+    {
+      "id": 78427,
+      "name": "Eberndorf"
+    },
+    {
+      "id": 78428,
+      "name": "Eberstein"
+    },
+    {
+      "id": 78429,
+      "name": "Ebriach"
+    },
+    {
+      "id": 78430,
+      "name": "Eisenkappel-Vellach"
+    },
+    {
+      "id": 78431,
+      "name": "Faak am See"
+    },
+    {
+      "id": 78432,
+      "name": "Feffernitz"
+    },
+    {
+      "id": 78433,
+      "name": "Feistritz an der Drau"
+    },
+    {
+      "id": 78434,
+      "name": "Feistritz an der Gail"
+    },
+    {
+      "id": 78435,
+      "name": "Feistritz im Rosental"
+    },
+    {
+      "id": 78436,
+      "name": "Feistritz ob Bleiburg"
+    },
+    {
+      "id": 78437,
+      "name": "Feld am See"
+    },
+    {
+      "id": 78438,
+      "name": "Feldkirchen District"
+    },
+    {
+      "id": 78439,
+      "name": "Feldkirchen in Kärnten"
+    },
+    {
+      "id": 78440,
+      "name": "Ferlach"
+    },
+    {
+      "id": 78441,
+      "name": "Ferndorf"
+    },
+    {
+      "id": 78442,
+      "name": "Finkenstein"
+    },
+    {
+      "id": 78443,
+      "name": "Finkenstein am Faaker See"
+    },
+    {
+      "id": 78444,
+      "name": "Flattach"
+    },
+    {
+      "id": 78445,
+      "name": "Föderlach I"
+    },
+    {
+      "id": 78446,
+      "name": "Frantschach-Sankt Gertraud"
+    },
+    {
+      "id": 78447,
+      "name": "Frauenstein"
+    },
+    {
+      "id": 78448,
+      "name": "Fresach"
+    },
+    {
+      "id": 78449,
+      "name": "Fresen"
+    },
+    {
+      "id": 78450,
+      "name": "Friesach"
+    },
+    {
+      "id": 78451,
+      "name": "Fürnitz"
+    },
+    {
+      "id": 78452,
+      "name": "Gailitz"
+    },
+    {
+      "id": 78453,
+      "name": "Gallizien"
+    },
+    {
+      "id": 78454,
+      "name": "Gemmersdorf"
+    },
+    {
+      "id": 78455,
+      "name": "Gerlamoos"
+    },
+    {
+      "id": 78456,
+      "name": "Gitschtal"
+    },
+    {
+      "id": 78457,
+      "name": "Glanegg"
+    },
+    {
+      "id": 78458,
+      "name": "Globasnitz"
+    },
+    {
+      "id": 78459,
+      "name": "Glödnitz"
+    },
+    {
+      "id": 78460,
+      "name": "Gmünd"
+    },
+    {
+      "id": 78461,
+      "name": "Gmünd in Kärnten"
+    },
+    {
+      "id": 78462,
+      "name": "Gnesau"
+    },
+    {
+      "id": 78463,
+      "name": "Görtschach"
+    },
+    {
+      "id": 78464,
+      "name": "Grafenstein"
+    },
+    {
+      "id": 78465,
+      "name": "Greifenburg"
+    },
+    {
+      "id": 78466,
+      "name": "Gries"
+    },
+    {
+      "id": 78467,
+      "name": "Griffen"
+    },
+    {
+      "id": 78468,
+      "name": "Großkirchheim"
+    },
+    {
+      "id": 78469,
+      "name": "Gurk"
+    },
+    {
+      "id": 78470,
+      "name": "Guttaring"
+    },
+    {
+      "id": 78471,
+      "name": "Heiligenblut"
+    },
+    {
+      "id": 78472,
+      "name": "Hermagor"
+    },
+    {
+      "id": 78473,
+      "name": "Hermagor District"
+    },
+    {
+      "id": 78474,
+      "name": "Hermagor-Pressegger See"
+    },
+    {
+      "id": 78475,
+      "name": "Himmelberg"
+    },
+    {
+      "id": 78476,
+      "name": "Hohenthurn"
+    },
+    {
+      "id": 78477,
+      "name": "Hörtendorf"
+    },
+    {
+      "id": 78478,
+      "name": "Hüttenberg"
+    },
+    {
+      "id": 78479,
+      "name": "Irschen"
+    },
+    {
+      "id": 78480,
+      "name": "Kappel am Krappfeld"
+    },
+    {
+      "id": 78481,
+      "name": "Keutschach am See"
+    },
+    {
+      "id": 78482,
+      "name": "Kirchbach"
+    },
+    {
+      "id": 78483,
+      "name": "Klagenfurt"
+    },
+    {
+      "id": 78484,
+      "name": "Klagenfurt am Wörthersee"
+    },
+    {
+      "id": 78485,
+      "name": "Klagenfurt-Land District"
+    },
+    {
+      "id": 78486,
+      "name": "Kleblach-Lind"
+    },
+    {
+      "id": 78487,
+      "name": "Klein Sankt Paul"
+    },
+    {
+      "id": 78488,
+      "name": "Kleinedling"
+    },
+    {
+      "id": 78489,
+      "name": "Kötschach"
+    },
+    {
+      "id": 78490,
+      "name": "Kötschach-Mauthen"
+    },
+    {
+      "id": 78491,
+      "name": "Köttmannsdorf"
+    },
+    {
+      "id": 78492,
+      "name": "Krems"
+    },
+    {
+      "id": 78493,
+      "name": "Krumpendorf"
+    },
+    {
+      "id": 78494,
+      "name": "Kühnsdorf"
+    },
+    {
+      "id": 78495,
+      "name": "Lamnitz"
+    },
+    {
+      "id": 78496,
+      "name": "Landskron"
+    },
+    {
+      "id": 78497,
+      "name": "Launsdorf"
+    },
+    {
+      "id": 78498,
+      "name": "Lavamünd"
+    },
+    {
+      "id": 78499,
+      "name": "Ledenitzen"
+    },
+    {
+      "id": 78500,
+      "name": "Lendorf"
+    },
+    {
+      "id": 78501,
+      "name": "Leppen"
+    },
+    {
+      "id": 78502,
+      "name": "Lesachtal"
+    },
+    {
+      "id": 78503,
+      "name": "Liebenfels"
+    },
+    {
+      "id": 78504,
+      "name": "Lind"
+    },
+    {
+      "id": 78505,
+      "name": "Lobersberg"
+    },
+    {
+      "id": 78506,
+      "name": "Ludmannsdorf"
+    },
+    {
+      "id": 78507,
+      "name": "Lurnfeld"
+    },
+    {
+      "id": 78508,
+      "name": "Magdalensberg"
+    },
+    {
+      "id": 78509,
+      "name": "Mallnitz"
+    },
+    {
+      "id": 78510,
+      "name": "Malta"
+    },
+    {
+      "id": 78511,
+      "name": "Maria Rain"
+    },
+    {
+      "id": 78512,
+      "name": "Maria Saal"
+    },
+    {
+      "id": 78513,
+      "name": "Maria Wörth"
+    },
+    {
+      "id": 78514,
+      "name": "Mautbrücken"
+    },
+    {
+      "id": 78515,
+      "name": "Metnitz"
+    },
+    {
+      "id": 78516,
+      "name": "Micheldorf"
+    },
+    {
+      "id": 78517,
+      "name": "Millstatt"
+    },
+    {
+      "id": 78518,
+      "name": "Mölbling"
+    },
+    {
+      "id": 78519,
+      "name": "Möllbrücke"
+    },
+    {
+      "id": 78520,
+      "name": "Moosburg"
+    },
+    {
+      "id": 78521,
+      "name": "Mörtschach"
+    },
+    {
+      "id": 78522,
+      "name": "Mühldorf"
+    },
+    {
+      "id": 78523,
+      "name": "Neu-Feffernitz"
+    },
+    {
+      "id": 78524,
+      "name": "Neuhaus"
+    },
+    {
+      "id": 78525,
+      "name": "Niederdorf"
+    },
+    {
+      "id": 78526,
+      "name": "Nötsch im Gailtal"
+    },
+    {
+      "id": 78527,
+      "name": "Oberdörfl"
+    },
+    {
+      "id": 78528,
+      "name": "Oberdrauburg"
+    },
+    {
+      "id": 78529,
+      "name": "Obermillstatt"
+    },
+    {
+      "id": 78530,
+      "name": "Obervellach"
+    },
+    {
+      "id": 78531,
+      "name": "Ossiach"
+    },
+    {
+      "id": 78532,
+      "name": "Paternion"
+    },
+    {
+      "id": 78533,
+      "name": "Pischeldorf"
+    },
+    {
+      "id": 78534,
+      "name": "Pöckau"
+    },
+    {
+      "id": 78535,
+      "name": "Poggersdorf"
+    },
+    {
+      "id": 78536,
+      "name": "Pörtschach am Wörthersee"
+    },
+    {
+      "id": 78537,
+      "name": "Preitenegg"
+    },
+    {
+      "id": 78538,
+      "name": "Priel"
+    },
+    {
+      "id": 78539,
+      "name": "Pusarnitz"
+    },
+    {
+      "id": 78540,
+      "name": "Radenthein"
+    },
+    {
+      "id": 78541,
+      "name": "Rain"
+    },
+    {
+      "id": 78542,
+      "name": "Rangersdorf"
+    },
+    {
+      "id": 78543,
+      "name": "Reding"
+    },
+    {
+      "id": 78544,
+      "name": "Reichenau"
+    },
+    {
+      "id": 78545,
+      "name": "Reichenfels"
+    },
+    {
+      "id": 78546,
+      "name": "Reißeck"
+    },
+    {
+      "id": 78547,
+      "name": "Rennweg am Katschberg"
+    },
+    {
+      "id": 78548,
+      "name": "Rittersdorf"
+    },
+    {
+      "id": 78549,
+      "name": "Rosegg"
+    },
+    {
+      "id": 78550,
+      "name": "Ruden"
+    },
+    {
+      "id": 78551,
+      "name": "Sachsenburg"
+    },
+    {
+      "id": 78552,
+      "name": "Sankt Andrä"
+    },
+    {
+      "id": 78553,
+      "name": "Sankt Egyden an der Drau"
+    },
+    {
+      "id": 78554,
+      "name": "Sankt Georgen am Längsee"
+    },
+    {
+      "id": 78555,
+      "name": "Sankt Georgen im Lavanttal"
+    },
+    {
+      "id": 78556,
+      "name": "Sankt Jakob"
+    },
+    {
+      "id": 78557,
+      "name": "Sankt Jakob im Rosental"
+    },
+    {
+      "id": 78558,
+      "name": "Sankt Kanzian am Klopeiner See"
+    },
+    {
+      "id": 78559,
+      "name": "Sankt Leonhard"
+    },
+    {
+      "id": 78560,
+      "name": "Sankt Magdalen"
+    },
+    {
+      "id": 78561,
+      "name": "Sankt Margareten im Rosental"
+    },
+    {
+      "id": 78562,
+      "name": "Sankt Martin"
+    },
+    {
+      "id": 78563,
+      "name": "Sankt Paul im Lavanttal"
+    },
+    {
+      "id": 78564,
+      "name": "Sankt Peter"
+    },
+    {
+      "id": 78565,
+      "name": "Sankt Ruprecht"
+    },
+    {
+      "id": 78566,
+      "name": "Sankt Stefan"
+    },
+    {
+      "id": 78567,
+      "name": "Sankt Stefan im Gailtal"
+    },
+    {
+      "id": 78568,
+      "name": "Sankt Urban"
+    },
+    {
+      "id": 78569,
+      "name": "Sankt Veit an der Glan"
+    },
+    {
+      "id": 78570,
+      "name": "Sankt Veit an der Glan District"
+    },
+    {
+      "id": 78571,
+      "name": "Schiefling am See"
+    },
+    {
+      "id": 78572,
+      "name": "Schleben"
+    },
+    {
+      "id": 78573,
+      "name": "Seebach"
+    },
+    {
+      "id": 78574,
+      "name": "Seeboden"
+    },
+    {
+      "id": 78575,
+      "name": "Seitenberg"
+    },
+    {
+      "id": 78576,
+      "name": "Sirnitz"
+    },
+    {
+      "id": 78577,
+      "name": "Sittersdorf"
+    },
+    {
+      "id": 78578,
+      "name": "Spittal an der Drau"
+    },
+    {
+      "id": 78579,
+      "name": "Spittal an der Drau District"
+    },
+    {
+      "id": 78580,
+      "name": "St. Agathen und Perau"
+    },
+    {
+      "id": 78581,
+      "name": "St. Andrä"
+    },
+    {
+      "id": 78582,
+      "name": "St. Margareten im Rosental"
+    },
+    {
+      "id": 78583,
+      "name": "St. Paul im Lavanttal"
+    },
+    {
+      "id": 78584,
+      "name": "St. Stefan im Gailtal"
+    },
+    {
+      "id": 78585,
+      "name": "St. Urban"
+    },
+    {
+      "id": 78586,
+      "name": "St. Veit an der Glan"
+    },
+    {
+      "id": 78587,
+      "name": "St. Veiter Vorstadt"
+    },
+    {
+      "id": 78588,
+      "name": "Stall"
+    },
+    {
+      "id": 78589,
+      "name": "Steindorf am Ossiacher See"
+    },
+    {
+      "id": 78590,
+      "name": "Steinfeld"
+    },
+    {
+      "id": 78591,
+      "name": "Steuerberg"
+    },
+    {
+      "id": 78592,
+      "name": "Stockenboi"
+    },
+    {
+      "id": 78593,
+      "name": "Straßburg"
+    },
+    {
+      "id": 78594,
+      "name": "Straßburg-Stadt"
+    },
+    {
+      "id": 78595,
+      "name": "Suetschach"
+    },
+    {
+      "id": 78596,
+      "name": "Techelsberg"
+    },
+    {
+      "id": 78597,
+      "name": "Timenitz"
+    },
+    {
+      "id": 78598,
+      "name": "Trebesing"
+    },
+    {
+      "id": 78599,
+      "name": "Treffen"
+    },
+    {
+      "id": 78600,
+      "name": "Treibach"
+    },
+    {
+      "id": 78601,
+      "name": "Tschachoritsch"
+    },
+    {
+      "id": 78602,
+      "name": "Umberg"
+    },
+    {
+      "id": 78603,
+      "name": "Untere Fellach"
+    },
+    {
+      "id": 78604,
+      "name": "Velden am Wörther See"
+    },
+    {
+      "id": 78605,
+      "name": "Velden am Wörthersee"
+    },
+    {
+      "id": 78606,
+      "name": "Viktring"
+    },
+    {
+      "id": 78607,
+      "name": "Viktringer Vorstadt"
+    },
+    {
+      "id": 78608,
+      "name": "Villach"
+    },
+    {
+      "id": 78609,
+      "name": "Villach-Innere Stadt"
+    },
+    {
+      "id": 78610,
+      "name": "Villach-Land District"
+    },
+    {
+      "id": 78611,
+      "name": "Villacher Vorstadt"
+    },
+    {
+      "id": 78612,
+      "name": "Völkendorf"
+    },
+    {
+      "id": 78613,
+      "name": "Völkermarkt"
+    },
+    {
+      "id": 78614,
+      "name": "Völkermarkt District"
+    },
+    {
+      "id": 78615,
+      "name": "Völkermarkter Vorstadt"
+    },
+    {
+      "id": 78616,
+      "name": "Waiern"
+    },
+    {
+      "id": 78617,
+      "name": "Warmbad-Judendorf"
+    },
+    {
+      "id": 78618,
+      "name": "Weißensee"
+    },
+    {
+      "id": 78619,
+      "name": "Weißenstein"
+    },
+    {
+      "id": 78620,
+      "name": "Weitensfeld"
+    },
+    {
+      "id": 78621,
+      "name": "Weitensfeld im Gurktal"
+    },
+    {
+      "id": 78622,
+      "name": "Wernberg"
+    },
+    {
+      "id": 78623,
+      "name": "Winklern"
+    },
+    {
+      "id": 78624,
+      "name": "Wölfnitz"
+    },
+    {
+      "id": 78625,
+      "name": "Wolfsberg"
+    },
+    {
+      "id": 78626,
+      "name": "Wolfsberg District"
+    },
+    {
+      "id": 78627,
+      "name": "Wudmath"
+    },
+    {
+      "id": 78628,
+      "name": "Zell"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "id": 3430,
+  "name": "Split-Dalmatia",
+  "state_code": "17",
+  "cities": [
+    {
+      "id": 93602,
+      "name": "Baška Voda"
+    },
+    {
+      "id": 93603,
+      "name": "Bol"
+    },
+    {
+      "id": 93604,
+      "name": "Brela"
+    },
+    {
+      "id": 93605,
+      "name": "Brnaze"
+    },
+    {
+      "id": 93606,
+      "name": "Dicmo"
+    },
+    {
+      "id": 93607,
+      "name": "Donji Vinjani"
+    },
+    {
+      "id": 93608,
+      "name": "Duće"
+    },
+    {
+      "id": 93609,
+      "name": "Dugi Rat Općina"
+    },
+    {
+      "id": 93610,
+      "name": "Dugopolje"
+    },
+    {
+      "id": 93611,
+      "name": "Gala"
+    },
+    {
+      "id": 93612,
+      "name": "Grabovci"
+    },
+    {
+      "id": 93613,
+      "name": "Grad Hvar"
+    },
+    {
+      "id": 93614,
+      "name": "Grad Imotski"
+    },
+    {
+      "id": 93615,
+      "name": "Grad Makarska"
+    },
+    {
+      "id": 93616,
+      "name": "Grad Omiš"
+    },
+    {
+      "id": 93617,
+      "name": "Grad Sinj"
+    },
+    {
+      "id": 93618,
+      "name": "Grad Split"
+    },
+    {
+      "id": 93619,
+      "name": "Grad Supetar"
+    },
+    {
+      "id": 93620,
+      "name": "Grad Trogir"
+    },
+    {
+      "id": 93621,
+      "name": "Grad Vis"
+    },
+    {
+      "id": 93622,
+      "name": "Grad Vrgorac"
+    },
+    {
+      "id": 93623,
+      "name": "Gradac"
+    },
+    {
+      "id": 93624,
+      "name": "Greda"
+    },
+    {
+      "id": 93625,
+      "name": "Grubine"
+    },
+    {
+      "id": 93626,
+      "name": "Hrvace"
+    },
+    {
+      "id": 93627,
+      "name": "Hvar"
+    },
+    {
+      "id": 93628,
+      "name": "Imotski"
+    },
+    {
+      "id": 93629,
+      "name": "Jelsa"
+    },
+    {
+      "id": 93630,
+      "name": "Jesenice"
+    },
+    {
+      "id": 93631,
+      "name": "Kamen"
+    },
+    {
+      "id": 93632,
+      "name": "Kaštel Gomilica"
+    },
+    {
+      "id": 93633,
+      "name": "Kaštel Kambelovac"
+    },
+    {
+      "id": 93634,
+      "name": "Kaštel Lukšić"
+    },
+    {
+      "id": 93635,
+      "name": "Kaštel Novi"
+    },
+    {
+      "id": 93636,
+      "name": "Kaštel Štafilić"
+    },
+    {
+      "id": 93637,
+      "name": "Kaštel Stari"
+    },
+    {
+      "id": 93638,
+      "name": "Kaštela"
+    },
+    {
+      "id": 93639,
+      "name": "Klis"
+    },
+    {
+      "id": 93640,
+      "name": "Komiža"
+    },
+    {
+      "id": 93641,
+      "name": "Košute"
+    },
+    {
+      "id": 93642,
+      "name": "Lokvičići"
+    },
+    {
+      "id": 93643,
+      "name": "Lovreć"
+    },
+    {
+      "id": 93644,
+      "name": "Makarska"
+    },
+    {
+      "id": 93645,
+      "name": "Milna"
+    },
+    {
+      "id": 93646,
+      "name": "Mravince"
+    },
+    {
+      "id": 93647,
+      "name": "Muć"
+    },
+    {
+      "id": 93648,
+      "name": "Nerežišća"
+    },
+    {
+      "id": 93649,
+      "name": "Okrug"
+    },
+    {
+      "id": 93650,
+      "name": "Okrug Gornji"
+    },
+    {
+      "id": 93651,
+      "name": "Omiš"
+    },
+    {
+      "id": 93652,
+      "name": "Otok"
+    },
+    {
+      "id": 93653,
+      "name": "Podstrana"
+    },
+    {
+      "id": 93654,
+      "name": "Postira"
+    },
+    {
+      "id": 93655,
+      "name": "Proložac"
+    },
+    {
+      "id": 93656,
+      "name": "Pučišća"
+    },
+    {
+      "id": 93657,
+      "name": "Runović"
+    },
+    {
+      "id": 93658,
+      "name": "Runovići"
+    },
+    {
+      "id": 93659,
+      "name": "Seget"
+    },
+    {
+      "id": 93660,
+      "name": "Seget Vranjica"
+    },
+    {
+      "id": 93661,
+      "name": "Selca"
+    },
+    {
+      "id": 93662,
+      "name": "Sinj"
+    },
+    {
+      "id": 93663,
+      "name": "Slatine"
+    },
+    {
+      "id": 93664,
+      "name": "Solin"
+    },
+    {
+      "id": 93665,
+      "name": "Šolta"
+    },
+    {
+      "id": 93666,
+      "name": "Split"
+    },
+    {
+      "id": 93667,
+      "name": "Srinjine"
+    },
+    {
+      "id": 93668,
+      "name": "Stari Grad"
+    },
+    {
+      "id": 93669,
+      "name": "Stobreč"
+    },
+    {
+      "id": 93670,
+      "name": "Supetar"
+    },
+    {
+      "id": 93671,
+      "name": "Trilj"
+    },
+    {
+      "id": 93672,
+      "name": "Trogir"
+    },
+    {
+      "id": 93673,
+      "name": "Tučepi"
+    },
+    {
+      "id": 93674,
+      "name": "Turjaci"
+    },
+    {
+      "id": 93675,
+      "name": "Veliki Drvenik"
+    },
+    {
+      "id": 93676,
+      "name": "Vis"
+    },
+    {
+      "id": 93677,
+      "name": "Vranjic"
+    },
+    {
+      "id": 93678,
+      "name": "Vrgorac"
+    },
+    {
+      "id": 93679,
+      "name": "Vrlika"
+    },
+    {
+      "id": 93680,
+      "name": "Zagvozd"
+    },
+    {
+      "id": 93681,
+      "name": "Zmijavci"
+    },
+    {
+      "id": 93682,
+      "name": "Žrnovnica"
+    }
+  ]
+}

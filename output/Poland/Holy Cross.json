@@ -1,0 +1,483 @@
+{
+  "id": 5823,
+  "name": "Holy Cross",
+  "state_code": "26",
+  "cities": [
+    {
+      "id": 161133,
+      "name": "Baćkowice"
+    },
+    {
+      "id": 161134,
+      "name": "Bałtów"
+    },
+    {
+      "id": 161135,
+      "name": "Bejsce"
+    },
+    {
+      "id": 161136,
+      "name": "Bieliny"
+    },
+    {
+      "id": 161137,
+      "name": "Bliżyn"
+    },
+    {
+      "id": 161138,
+      "name": "Bodzentyn"
+    },
+    {
+      "id": 161139,
+      "name": "Bogoria"
+    },
+    {
+      "id": 161140,
+      "name": "Brody"
+    },
+    {
+      "id": 161141,
+      "name": "Brzeziny"
+    },
+    {
+      "id": 161142,
+      "name": "Busko-Zdrój"
+    },
+    {
+      "id": 161143,
+      "name": "Chęciny"
+    },
+    {
+      "id": 161144,
+      "name": "Chmielnik"
+    },
+    {
+      "id": 161145,
+      "name": "Ćmielów"
+    },
+    {
+      "id": 161146,
+      "name": "Czarnocin"
+    },
+    {
+      "id": 161147,
+      "name": "Daleszyce"
+    },
+    {
+      "id": 161148,
+      "name": "Domaszowice"
+    },
+    {
+      "id": 161149,
+      "name": "Dwikozy"
+    },
+    {
+      "id": 161150,
+      "name": "Działoszyce"
+    },
+    {
+      "id": 161151,
+      "name": "Fałków"
+    },
+    {
+      "id": 161152,
+      "name": "Gnojno"
+    },
+    {
+      "id": 161153,
+      "name": "Górno"
+    },
+    {
+      "id": 161154,
+      "name": "Gowarczów"
+    },
+    {
+      "id": 161155,
+      "name": "Grzybowa Góra"
+    },
+    {
+      "id": 161156,
+      "name": "Imielno"
+    },
+    {
+      "id": 161157,
+      "name": "Iwaniska"
+    },
+    {
+      "id": 161158,
+      "name": "Jędrzejów"
+    },
+    {
+      "id": 161159,
+      "name": "Kaniów"
+    },
+    {
+      "id": 161160,
+      "name": "Kazimierza Wielka"
+    },
+    {
+      "id": 161161,
+      "name": "Kielce"
+    },
+    {
+      "id": 161162,
+      "name": "Kije"
+    },
+    {
+      "id": 161163,
+      "name": "Klimontów"
+    },
+    {
+      "id": 161164,
+      "name": "Końskie"
+    },
+    {
+      "id": 161165,
+      "name": "Koprzywnica"
+    },
+    {
+      "id": 161166,
+      "name": "Kostomłoty Drugie"
+    },
+    {
+      "id": 161167,
+      "name": "Kostomłoty Pierwsze"
+    },
+    {
+      "id": 161168,
+      "name": "Krasocin"
+    },
+    {
+      "id": 161169,
+      "name": "Kunów"
+    },
+    {
+      "id": 161170,
+      "name": "Lipnik"
+    },
+    {
+      "id": 161171,
+      "name": "Łączna"
+    },
+    {
+      "id": 161172,
+      "name": "Łagów"
+    },
+    {
+      "id": 161173,
+      "name": "Łoniów"
+    },
+    {
+      "id": 161174,
+      "name": "Łopuszno"
+    },
+    {
+      "id": 161175,
+      "name": "Łubnice"
+    },
+    {
+      "id": 161176,
+      "name": "Małogoszcz"
+    },
+    {
+      "id": 161177,
+      "name": "Masłów"
+    },
+    {
+      "id": 161178,
+      "name": "Michałów"
+    },
+    {
+      "id": 161179,
+      "name": "Miedziana Góra"
+    },
+    {
+      "id": 161180,
+      "name": "Mirzec"
+    },
+    {
+      "id": 161181,
+      "name": "Mniów"
+    },
+    {
+      "id": 161182,
+      "name": "Morawica"
+    },
+    {
+      "id": 161183,
+      "name": "Nagłowice"
+    },
+    {
+      "id": 161184,
+      "name": "Nowa Słupia"
+    },
+    {
+      "id": 161185,
+      "name": "Nowy Korczyn"
+    },
+    {
+      "id": 161186,
+      "name": "Obrazów"
+    },
+    {
+      "id": 161187,
+      "name": "Oksa"
+    },
+    {
+      "id": 161188,
+      "name": "Oleśnica"
+    },
+    {
+      "id": 161189,
+      "name": "Opatów"
+    },
+    {
+      "id": 161190,
+      "name": "Opatowiec"
+    },
+    {
+      "id": 161191,
+      "name": "Osiedle-Nowiny"
+    },
+    {
+      "id": 161192,
+      "name": "Osiek"
+    },
+    {
+      "id": 161193,
+      "name": "Ostrowiec Świętokrzyski"
+    },
+    {
+      "id": 161194,
+      "name": "Ożarów"
+    },
+    {
+      "id": 161195,
+      "name": "Pacanów"
+    },
+    {
+      "id": 161196,
+      "name": "Pawłów"
+    },
+    {
+      "id": 161197,
+      "name": "Piekoszów"
+    },
+    {
+      "id": 161198,
+      "name": "Pierzchnica"
+    },
+    {
+      "id": 161199,
+      "name": "Pińczów"
+    },
+    {
+      "id": 161200,
+      "name": "Połaniec"
+    },
+    {
+      "id": 161201,
+      "name": "Powiat buski"
+    },
+    {
+      "id": 161202,
+      "name": "Powiat jędrzejowski"
+    },
+    {
+      "id": 161203,
+      "name": "Powiat kazimierski"
+    },
+    {
+      "id": 161204,
+      "name": "Powiat kielecki"
+    },
+    {
+      "id": 161205,
+      "name": "Powiat konecki"
+    },
+    {
+      "id": 161206,
+      "name": "Powiat opatowski"
+    },
+    {
+      "id": 161207,
+      "name": "Powiat ostrowiecki"
+    },
+    {
+      "id": 161208,
+      "name": "Powiat pińczowski"
+    },
+    {
+      "id": 161209,
+      "name": "Powiat sandomierski"
+    },
+    {
+      "id": 161210,
+      "name": "Powiat skarżyski"
+    },
+    {
+      "id": 161211,
+      "name": "Powiat starachowicki"
+    },
+    {
+      "id": 161212,
+      "name": "Powiat staszowski"
+    },
+    {
+      "id": 161213,
+      "name": "Powiat włoszczowski"
+    },
+    {
+      "id": 161214,
+      "name": "Radoszyce"
+    },
+    {
+      "id": 161215,
+      "name": "Raków"
+    },
+    {
+      "id": 161216,
+      "name": "Rogów"
+    },
+    {
+      "id": 161217,
+      "name": "Ruda Maleniecka"
+    },
+    {
+      "id": 161218,
+      "name": "Rytwiany"
+    },
+    {
+      "id": 161219,
+      "name": "Sadowie"
+    },
+    {
+      "id": 161220,
+      "name": "Samborzec"
+    },
+    {
+      "id": 161221,
+      "name": "Sandomierz"
+    },
+    {
+      "id": 161222,
+      "name": "Secemin"
+    },
+    {
+      "id": 161223,
+      "name": "Sędziszów"
+    },
+    {
+      "id": 161224,
+      "name": "Skalbmierz"
+    },
+    {
+      "id": 161225,
+      "name": "Skarżysko Kościelne"
+    },
+    {
+      "id": 161226,
+      "name": "Skarżysko-Kamienna"
+    },
+    {
+      "id": 161227,
+      "name": "Słupia"
+    },
+    {
+      "id": 161228,
+      "name": "Smyków"
+    },
+    {
+      "id": 161229,
+      "name": "Sobków"
+    },
+    {
+      "id": 161230,
+      "name": "Solec-Zdrój"
+    },
+    {
+      "id": 161231,
+      "name": "Stąporków"
+    },
+    {
+      "id": 161232,
+      "name": "Starachowice"
+    },
+    {
+      "id": 161233,
+      "name": "Staszów"
+    },
+    {
+      "id": 161234,
+      "name": "Stopnica"
+    },
+    {
+      "id": 161235,
+      "name": "Strawczyn"
+    },
+    {
+      "id": 161236,
+      "name": "Suchedniów"
+    },
+    {
+      "id": 161237,
+      "name": "Szydłów"
+    },
+    {
+      "id": 161238,
+      "name": "Tarłów"
+    },
+    {
+      "id": 161239,
+      "name": "Tuczępy"
+    },
+    {
+      "id": 161240,
+      "name": "Wąchock"
+    },
+    {
+      "id": 161241,
+      "name": "Waśniów"
+    },
+    {
+      "id": 161242,
+      "name": "Wielka Wieś"
+    },
+    {
+      "id": 161243,
+      "name": "Wilczyce"
+    },
+    {
+      "id": 161244,
+      "name": "Wiślica"
+    },
+    {
+      "id": 161245,
+      "name": "Włoszczowa"
+    },
+    {
+      "id": 161246,
+      "name": "Wodzisław"
+    },
+    {
+      "id": 161247,
+      "name": "Wojciechowice"
+    },
+    {
+      "id": 161248,
+      "name": "Wola Jachowa"
+    },
+    {
+      "id": 161249,
+      "name": "Zagnańsk"
+    },
+    {
+      "id": 161250,
+      "name": "Zawichost"
+    },
+    {
+      "id": 161251,
+      "name": "Złota"
+    }
+  ]
+}

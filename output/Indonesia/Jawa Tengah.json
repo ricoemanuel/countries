@@ -1,0 +1,435 @@
+{
+  "id": 4248,
+  "name": "Jawa Tengah",
+  "state_code": "JT",
+  "cities": [
+    {
+      "id": 121476,
+      "name": "Adiwerna"
+    },
+    {
+      "id": 121477,
+      "name": "Ambarawa"
+    },
+    {
+      "id": 121478,
+      "name": "Baekrajan"
+    },
+    {
+      "id": 121479,
+      "name": "Baki"
+    },
+    {
+      "id": 121480,
+      "name": "Balapulang"
+    },
+    {
+      "id": 121481,
+      "name": "Banyumas"
+    },
+    {
+      "id": 121482,
+      "name": "Batang"
+    },
+    {
+      "id": 121483,
+      "name": "Baturaden"
+    },
+    {
+      "id": 121484,
+      "name": "Blora"
+    },
+    {
+      "id": 121485,
+      "name": "Boyolali"
+    },
+    {
+      "id": 121486,
+      "name": "Buaran"
+    },
+    {
+      "id": 121487,
+      "name": "Bulakamba"
+    },
+    {
+      "id": 121488,
+      "name": "Candi Prambanan"
+    },
+    {
+      "id": 121489,
+      "name": "Ceper"
+    },
+    {
+      "id": 121490,
+      "name": "Cepu"
+    },
+    {
+      "id": 121491,
+      "name": "Colomadu"
+    },
+    {
+      "id": 121492,
+      "name": "Comal"
+    },
+    {
+      "id": 121493,
+      "name": "Delanggu"
+    },
+    {
+      "id": 121494,
+      "name": "Demak"
+    },
+    {
+      "id": 121495,
+      "name": "Dukuhturi"
+    },
+    {
+      "id": 121496,
+      "name": "Gatak"
+    },
+    {
+      "id": 121497,
+      "name": "Gebog"
+    },
+    {
+      "id": 121498,
+      "name": "Gombong"
+    },
+    {
+      "id": 121499,
+      "name": "Grogol"
+    },
+    {
+      "id": 121500,
+      "name": "Gunung Kendil"
+    },
+    {
+      "id": 121501,
+      "name": "Jaten"
+    },
+    {
+      "id": 121502,
+      "name": "Jatiroto"
+    },
+    {
+      "id": 121503,
+      "name": "Jekulo"
+    },
+    {
+      "id": 121504,
+      "name": "Jogonalan"
+    },
+    {
+      "id": 121505,
+      "name": "Juwana"
+    },
+    {
+      "id": 121506,
+      "name": "Kabupaten Banjarnegara"
+    },
+    {
+      "id": 121507,
+      "name": "Kabupaten Banyumas"
+    },
+    {
+      "id": 121508,
+      "name": "Kabupaten Batang"
+    },
+    {
+      "id": 121509,
+      "name": "Kabupaten Blora"
+    },
+    {
+      "id": 121510,
+      "name": "Kabupaten Boyolali"
+    },
+    {
+      "id": 121511,
+      "name": "Kabupaten Brebes"
+    },
+    {
+      "id": 121512,
+      "name": "Kabupaten Cilacap"
+    },
+    {
+      "id": 121513,
+      "name": "Kabupaten Demak"
+    },
+    {
+      "id": 121514,
+      "name": "Kabupaten Grobogan"
+    },
+    {
+      "id": 121515,
+      "name": "Kabupaten Jepara"
+    },
+    {
+      "id": 121516,
+      "name": "Kabupaten Karanganyar"
+    },
+    {
+      "id": 121517,
+      "name": "Kabupaten Kebumen"
+    },
+    {
+      "id": 121518,
+      "name": "Kabupaten Kendal"
+    },
+    {
+      "id": 121519,
+      "name": "Kabupaten Klaten"
+    },
+    {
+      "id": 121520,
+      "name": "Kabupaten Kudus"
+    },
+    {
+      "id": 121521,
+      "name": "Kabupaten Magelang"
+    },
+    {
+      "id": 121522,
+      "name": "Kabupaten Pati"
+    },
+    {
+      "id": 121523,
+      "name": "Kabupaten Pekalongan"
+    },
+    {
+      "id": 121524,
+      "name": "Kabupaten Pemalang"
+    },
+    {
+      "id": 121525,
+      "name": "Kabupaten Purbalingga"
+    },
+    {
+      "id": 121526,
+      "name": "Kabupaten Purworejo"
+    },
+    {
+      "id": 121527,
+      "name": "Kabupaten Rembang"
+    },
+    {
+      "id": 121528,
+      "name": "Kabupaten Semarang"
+    },
+    {
+      "id": 121529,
+      "name": "Kabupaten Sragen"
+    },
+    {
+      "id": 121530,
+      "name": "Kabupaten Sukoharjo"
+    },
+    {
+      "id": 121531,
+      "name": "Kabupaten Tegal"
+    },
+    {
+      "id": 121532,
+      "name": "Kabupaten Temanggung"
+    },
+    {
+      "id": 121533,
+      "name": "Kabupaten Wonogiri"
+    },
+    {
+      "id": 121534,
+      "name": "Kabupaten Wonosobo"
+    },
+    {
+      "id": 121535,
+      "name": "Karanganom"
+    },
+    {
+      "id": 121536,
+      "name": "Kartasura"
+    },
+    {
+      "id": 121537,
+      "name": "Kebonarun"
+    },
+    {
+      "id": 121538,
+      "name": "Kedungwuni"
+    },
+    {
+      "id": 121539,
+      "name": "Ketanggungan"
+    },
+    {
+      "id": 121540,
+      "name": "Klaten"
+    },
+    {
+      "id": 121541,
+      "name": "Kroya"
+    },
+    {
+      "id": 121542,
+      "name": "Kudus"
+    },
+    {
+      "id": 121543,
+      "name": "Kutoarjo"
+    },
+    {
+      "id": 121544,
+      "name": "Lasem"
+    },
+    {
+      "id": 121545,
+      "name": "Lebaksiu"
+    },
+    {
+      "id": 121546,
+      "name": "Magelang"
+    },
+    {
+      "id": 121547,
+      "name": "Majenang"
+    },
+    {
+      "id": 121548,
+      "name": "Margasari"
+    },
+    {
+      "id": 121549,
+      "name": "Mertoyudan"
+    },
+    {
+      "id": 121550,
+      "name": "Mlonggo"
+    },
+    {
+      "id": 121551,
+      "name": "Mranggen"
+    },
+    {
+      "id": 121552,
+      "name": "Muntilan"
+    },
+    {
+      "id": 121553,
+      "name": "Ngemplak"
+    },
+    {
+      "id": 121554,
+      "name": "Pati"
+    },
+    {
+      "id": 121555,
+      "name": "Pecangaan"
+    },
+    {
+      "id": 121556,
+      "name": "Pekalongan"
+    },
+    {
+      "id": 121557,
+      "name": "Pemalang"
+    },
+    {
+      "id": 121558,
+      "name": "Purbalingga"
+    },
+    {
+      "id": 121559,
+      "name": "Purwodadi"
+    },
+    {
+      "id": 121560,
+      "name": "Purwokerto"
+    },
+    {
+      "id": 121561,
+      "name": "Randudongkal"
+    },
+    {
+      "id": 121562,
+      "name": "Rembangan"
+    },
+    {
+      "id": 121563,
+      "name": "Salatiga"
+    },
+    {
+      "id": 121564,
+      "name": "Selogiri"
+    },
+    {
+      "id": 121565,
+      "name": "Semarang"
+    },
+    {
+      "id": 121566,
+      "name": "Sidareja"
+    },
+    {
+      "id": 121567,
+      "name": "Slawi"
+    },
+    {
+      "id": 121568,
+      "name": "Sokaraja"
+    },
+    {
+      "id": 121569,
+      "name": "Sragen"
+    },
+    {
+      "id": 121570,
+      "name": "Surakarta"
+    },
+    {
+      "id": 121571,
+      "name": "Tarub"
+    },
+    {
+      "id": 121572,
+      "name": "Tayu"
+    },
+    {
+      "id": 121573,
+      "name": "Tegal"
+    },
+    {
+      "id": 121574,
+      "name": "Trucuk"
+    },
+    {
+      "id": 121575,
+      "name": "Ungaran"
+    },
+    {
+      "id": 121576,
+      "name": "Wangon"
+    },
+    {
+      "id": 121577,
+      "name": "Wedi"
+    },
+    {
+      "id": 121578,
+      "name": "Welahan"
+    },
+    {
+      "id": 121579,
+      "name": "Weleri"
+    },
+    {
+      "id": 121580,
+      "name": "Wiradesa"
+    },
+    {
+      "id": 121581,
+      "name": "Wonopringgo"
+    },
+    {
+      "id": 121582,
+      "name": "Wonosobo"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": 5965,
+  "name": "Călărași County",
+  "state_code": "CL",
+  "cities": [
+    {
+      "id": 167333,
+      "name": "Alexandru Odobescu"
+    },
+    {
+      "id": 167334,
+      "name": "Aprozi"
+    },
+    {
+      "id": 167335,
+      "name": "Belciugatele"
+    },
+    {
+      "id": 167336,
+      "name": "Borcea"
+    },
+    {
+      "id": 167337,
+      "name": "Budeşti"
+    },
+    {
+      "id": 167338,
+      "name": "Călăraşi"
+    },
+    {
+      "id": 167339,
+      "name": "Căscioarele"
+    },
+    {
+      "id": 167340,
+      "name": "Ceacu"
+    },
+    {
+      "id": 167341,
+      "name": "Chirnogi"
+    },
+    {
+      "id": 167342,
+      "name": "Chiselet"
+    },
+    {
+      "id": 167343,
+      "name": "Ciocăneşti"
+    },
+    {
+      "id": 167344,
+      "name": "Coconi"
+    },
+    {
+      "id": 167345,
+      "name": "Comuna Alexandru Odobescu"
+    },
+    {
+      "id": 167346,
+      "name": "Comuna Belciugatele"
+    },
+    {
+      "id": 167347,
+      "name": "Comuna Borcea"
+    },
+    {
+      "id": 167348,
+      "name": "Comuna Căscioarele"
+    },
+    {
+      "id": 167349,
+      "name": "Comuna Chirnogi"
+    },
+    {
+      "id": 167350,
+      "name": "Comuna Chiselet"
+    },
+    {
+      "id": 167351,
+      "name": "Comuna Ciocăneşti"
+    },
+    {
+      "id": 167352,
+      "name": "Comuna Crivăţ"
+    },
+    {
+      "id": 167353,
+      "name": "Comuna Curcani"
+    },
+    {
+      "id": 167354,
+      "name": "Comuna Cuza Vodă"
+    },
+    {
+      "id": 167355,
+      "name": "Comuna Dichiseni"
+    },
+    {
+      "id": 167356,
+      "name": "Comuna Dor Mărunt"
+    },
+    {
+      "id": 167357,
+      "name": "Comuna Dorobanţu"
+    },
+    {
+      "id": 167358,
+      "name": "Comuna Dragalina"
+    },
+    {
+      "id": 167359,
+      "name": "Comuna Dragoş Vodă"
+    },
+    {
+      "id": 167360,
+      "name": "Comuna Frăsinet"
+    },
+    {
+      "id": 167361,
+      "name": "Comuna Frumuşani"
+    },
+    {
+      "id": 167362,
+      "name": "Comuna Fundeni"
+    },
+    {
+      "id": 167363,
+      "name": "Comuna Gălbinaşi"
+    },
+    {
+      "id": 167364,
+      "name": "Comuna Grădiştea"
+    },
+    {
+      "id": 167365,
+      "name": "Comuna Gurbăneşti"
+    },
+    {
+      "id": 167366,
+      "name": "Comuna Ileana"
+    },
+    {
+      "id": 167367,
+      "name": "Comuna Independenţa"
+    },
+    {
+      "id": 167368,
+      "name": "Comuna Jegălia"
+    },
+    {
+      "id": 167369,
+      "name": "Comuna Lehliu"
+    },
+    {
+      "id": 167370,
+      "name": "Comuna Luica"
+    },
+    {
+      "id": 167371,
+      "name": "Comuna Lupşanu"
+    },
+    {
+      "id": 167372,
+      "name": "Comuna Mânăstirea"
+    },
+    {
+      "id": 167373,
+      "name": "Comuna Mitreni"
+    },
+    {
+      "id": 167374,
+      "name": "Comuna Modelu"
+    },
+    {
+      "id": 167375,
+      "name": "Comuna Nana"
+    },
+    {
+      "id": 167376,
+      "name": "Comuna Nicolae Bălcescu"
+    },
+    {
+      "id": 167377,
+      "name": "Comuna Perişoru"
+    },
+    {
+      "id": 167378,
+      "name": "Comuna Plătăreşti"
+    },
+    {
+      "id": 167379,
+      "name": "Comuna Radovanu"
+    },
+    {
+      "id": 167380,
+      "name": "Comuna Roseţi"
+    },
+    {
+      "id": 167381,
+      "name": "Comuna Săruleşti"
+    },
+    {
+      "id": 167382,
+      "name": "Comuna Sohatu"
+    },
+    {
+      "id": 167383,
+      "name": "Comuna Şoldanu"
+    },
+    {
+      "id": 167384,
+      "name": "Comuna Spanţov"
+    },
+    {
+      "id": 167385,
+      "name": "Comuna Ştefan Cel Mare"
+    },
+    {
+      "id": 167386,
+      "name": "Comuna Ştefan Vodă"
+    },
+    {
+      "id": 167387,
+      "name": "Comuna Tãmãdãu Mare"
+    },
+    {
+      "id": 167388,
+      "name": "Comuna Ulmeni"
+    },
+    {
+      "id": 167389,
+      "name": "Comuna Ulmu"
+    },
+    {
+      "id": 167390,
+      "name": "Comuna Unirea"
+    },
+    {
+      "id": 167391,
+      "name": "Comuna Vâlcelele"
+    },
+    {
+      "id": 167392,
+      "name": "Comuna Valea Argovei"
+    },
+    {
+      "id": 167393,
+      "name": "Comuna Vasilaţi"
+    },
+    {
+      "id": 167394,
+      "name": "Comuna Vlad Ţepeş"
+    },
+    {
+      "id": 167395,
+      "name": "Constantin Brâncoveanu"
+    },
+    {
+      "id": 167396,
+      "name": "Crivăț"
+    },
+    {
+      "id": 167397,
+      "name": "Curcani"
+    },
+    {
+      "id": 167398,
+      "name": "Cuza Vodă"
+    },
+    {
+      "id": 167399,
+      "name": "Dâlga-Gară"
+    },
+    {
+      "id": 167400,
+      "name": "Dichiseni"
+    },
+    {
+      "id": 167401,
+      "name": "Dor Mărunt"
+    },
+    {
+      "id": 167402,
+      "name": "Dorobanţu"
+    },
+    {
+      "id": 167403,
+      "name": "Dragalina"
+    },
+    {
+      "id": 167404,
+      "name": "Dragoș Vodă"
+    },
+    {
+      "id": 167405,
+      "name": "Drajna Nouă"
+    },
+    {
+      "id": 167406,
+      "name": "Frăsinet"
+    },
+    {
+      "id": 167407,
+      "name": "Frumuşani"
+    },
+    {
+      "id": 167408,
+      "name": "Fundeni"
+    },
+    {
+      "id": 167409,
+      "name": "Fundulea"
+    },
+    {
+      "id": 167410,
+      "name": "Gălbinași"
+    },
+    {
+      "id": 167411,
+      "name": "Gâldău"
+    },
+    {
+      "id": 167412,
+      "name": "Grădiştea"
+    },
+    {
+      "id": 167413,
+      "name": "Gurbăneşti"
+    },
+    {
+      "id": 167414,
+      "name": "Iezeru"
+    },
+    {
+      "id": 167415,
+      "name": "Ileana"
+    },
+    {
+      "id": 167416,
+      "name": "Independenţa"
+    },
+    {
+      "id": 167417,
+      "name": "Jegălia"
+    },
+    {
+      "id": 167418,
+      "name": "Lehliu"
+    },
+    {
+      "id": 167419,
+      "name": "Lehliu-Gară"
+    },
+    {
+      "id": 167420,
+      "name": "Luica"
+    },
+    {
+      "id": 167421,
+      "name": "Lupşanu"
+    },
+    {
+      "id": 167422,
+      "name": "Mânăstirea"
+    },
+    {
+      "id": 167423,
+      "name": "Mihai Viteazu"
+    },
+    {
+      "id": 167424,
+      "name": "Mitreni"
+    },
+    {
+      "id": 167425,
+      "name": "Modelu"
+    },
+    {
+      "id": 167426,
+      "name": "Municipiul Călăraşi"
+    },
+    {
+      "id": 167427,
+      "name": "Municipiul Olteniţa"
+    },
+    {
+      "id": 167428,
+      "name": "Nana"
+    },
+    {
+      "id": 167429,
+      "name": "Negoești"
+    },
+    {
+      "id": 167430,
+      "name": "Nicolae Bălcescu"
+    },
+    {
+      "id": 167431,
+      "name": "Olteniţa"
+    },
+    {
+      "id": 167432,
+      "name": "Oraş Budeşti"
+    },
+    {
+      "id": 167433,
+      "name": "Oraş Fundulea"
+    },
+    {
+      "id": 167434,
+      "name": "Oraş Lehliu Garã"
+    },
+    {
+      "id": 167435,
+      "name": "Perişoru"
+    },
+    {
+      "id": 167436,
+      "name": "Plătăreşti"
+    },
+    {
+      "id": 167437,
+      "name": "Potcoava"
+    },
+    {
+      "id": 167438,
+      "name": "Progresu"
+    },
+    {
+      "id": 167439,
+      "name": "Radovanu"
+    },
+    {
+      "id": 167440,
+      "name": "Radu Vodă"
+    },
+    {
+      "id": 167441,
+      "name": "Rasa"
+    },
+    {
+      "id": 167442,
+      "name": "Răzvani"
+    },
+    {
+      "id": 167443,
+      "name": "Roseţi"
+    },
+    {
+      "id": 167444,
+      "name": "Săpunari"
+    },
+    {
+      "id": 167445,
+      "name": "Săruleşti"
+    },
+    {
+      "id": 167446,
+      "name": "Sărulești-Gară"
+    },
+    {
+      "id": 167447,
+      "name": "Sohatu"
+    },
+    {
+      "id": 167448,
+      "name": "Şoldanu"
+    },
+    {
+      "id": 167449,
+      "name": "Spanţov"
+    },
+    {
+      "id": 167450,
+      "name": "Stancea"
+    },
+    {
+      "id": 167451,
+      "name": "Ștefan cel Mare"
+    },
+    {
+      "id": 167452,
+      "name": "Ştefan Vodă"
+    },
+    {
+      "id": 167453,
+      "name": "Sultana"
+    },
+    {
+      "id": 167454,
+      "name": "Tămădău Mare"
+    },
+    {
+      "id": 167455,
+      "name": "Ulmeni"
+    },
+    {
+      "id": 167456,
+      "name": "Ulmu"
+    },
+    {
+      "id": 167457,
+      "name": "Unirea"
+    },
+    {
+      "id": 167458,
+      "name": "Vâlcelele"
+    },
+    {
+      "id": 167459,
+      "name": "Valea Argovei"
+    },
+    {
+      "id": 167460,
+      "name": "Valea Roșie"
+    },
+    {
+      "id": 167461,
+      "name": "Vărăști"
+    },
+    {
+      "id": 167462,
+      "name": "Vasilaţi"
+    },
+    {
+      "id": 167463,
+      "name": "Vlad Ţepeş"
+    }
+  ]
+}

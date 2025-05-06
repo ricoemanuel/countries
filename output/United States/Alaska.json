@@ -1,0 +1,391 @@
+{
+  "id": 7428,
+  "name": "Alaska",
+  "state_code": "AK",
+  "cities": [
+    {
+      "id": 202077,
+      "name": "Akutan"
+    },
+    {
+      "id": 202078,
+      "name": "Aleutians East Borough"
+    },
+    {
+      "id": 202079,
+      "name": "Aleutians West Census Area"
+    },
+    {
+      "id": 202080,
+      "name": "Anchor Point"
+    },
+    {
+      "id": 202081,
+      "name": "Anchorage"
+    },
+    {
+      "id": 202082,
+      "name": "Anchorage Municipality"
+    },
+    {
+      "id": 202083,
+      "name": "Badger"
+    },
+    {
+      "id": 202084,
+      "name": "Barrow"
+    },
+    {
+      "id": 202085,
+      "name": "Bear Creek"
+    },
+    {
+      "id": 202086,
+      "name": "Bethel"
+    },
+    {
+      "id": 202087,
+      "name": "Bethel Census Area"
+    },
+    {
+      "id": 202088,
+      "name": "Big Lake"
+    },
+    {
+      "id": 202089,
+      "name": "Bristol Bay Borough"
+    },
+    {
+      "id": 202090,
+      "name": "Butte"
+    },
+    {
+      "id": 202091,
+      "name": "Chevak"
+    },
+    {
+      "id": 202092,
+      "name": "City and Borough of Wrangell"
+    },
+    {
+      "id": 202093,
+      "name": "Cohoe"
+    },
+    {
+      "id": 202094,
+      "name": "College"
+    },
+    {
+      "id": 202095,
+      "name": "Cordova"
+    },
+    {
+      "id": 202096,
+      "name": "Craig"
+    },
+    {
+      "id": 202097,
+      "name": "Deltana"
+    },
+    {
+      "id": 202098,
+      "name": "Denali Borough"
+    },
+    {
+      "id": 202099,
+      "name": "Diamond Ridge"
+    },
+    {
+      "id": 202100,
+      "name": "Dillingham"
+    },
+    {
+      "id": 202101,
+      "name": "Dillingham Census Area"
+    },
+    {
+      "id": 202102,
+      "name": "Dutch Harbor"
+    },
+    {
+      "id": 202103,
+      "name": "Eagle River"
+    },
+    {
+      "id": 202104,
+      "name": "Eielson Air Force Base"
+    },
+    {
+      "id": 202105,
+      "name": "Elmendorf Air Force Base"
+    },
+    {
+      "id": 202106,
+      "name": "Ester"
+    },
+    {
+      "id": 202107,
+      "name": "Fairbanks"
+    },
+    {
+      "id": 202108,
+      "name": "Fairbanks North Star Borough"
+    },
+    {
+      "id": 202109,
+      "name": "Farm Loop"
+    },
+    {
+      "id": 202110,
+      "name": "Farmers Loop"
+    },
+    {
+      "id": 202111,
+      "name": "Fishhook"
+    },
+    {
+      "id": 202112,
+      "name": "Fritz Creek"
+    },
+    {
+      "id": 202113,
+      "name": "Gateway"
+    },
+    {
+      "id": 202114,
+      "name": "Girdwood"
+    },
+    {
+      "id": 202115,
+      "name": "Haines"
+    },
+    {
+      "id": 202116,
+      "name": "Haines Borough"
+    },
+    {
+      "id": 202117,
+      "name": "Healy"
+    },
+    {
+      "id": 202118,
+      "name": "Homer"
+    },
+    {
+      "id": 202119,
+      "name": "Hoonah-Angoon Census Area"
+    },
+    {
+      "id": 202120,
+      "name": "Hooper Bay"
+    },
+    {
+      "id": 202121,
+      "name": "Houston"
+    },
+    {
+      "id": 202122,
+      "name": "Juneau"
+    },
+    {
+      "id": 202123,
+      "name": "Kalifornsky"
+    },
+    {
+      "id": 202124,
+      "name": "Kenai"
+    },
+    {
+      "id": 202125,
+      "name": "Kenai Peninsula Borough"
+    },
+    {
+      "id": 202126,
+      "name": "Ketchikan"
+    },
+    {
+      "id": 202127,
+      "name": "Ketchikan Gateway Borough"
+    },
+    {
+      "id": 202128,
+      "name": "King Cove"
+    },
+    {
+      "id": 202129,
+      "name": "Knik-Fairview"
+    },
+    {
+      "id": 202130,
+      "name": "Kodiak"
+    },
+    {
+      "id": 202131,
+      "name": "Kodiak Island Borough"
+    },
+    {
+      "id": 202132,
+      "name": "Kodiak Station"
+    },
+    {
+      "id": 202133,
+      "name": "Kotzebue"
+    },
+    {
+      "id": 202134,
+      "name": "Lake and Peninsula Borough"
+    },
+    {
+      "id": 202135,
+      "name": "Lakes"
+    },
+    {
+      "id": 202136,
+      "name": "Lazy Mountain"
+    },
+    {
+      "id": 202137,
+      "name": "Marshall"
+    },
+    {
+      "id": 202138,
+      "name": "Matanuska-Susitna Borough"
+    },
+    {
+      "id": 202139,
+      "name": "Meadow Lakes"
+    },
+    {
+      "id": 202140,
+      "name": "Metlakatla"
+    },
+    {
+      "id": 202141,
+      "name": "Nikiski"
+    },
+    {
+      "id": 202142,
+      "name": "Nome"
+    },
+    {
+      "id": 202143,
+      "name": "Nome Census Area"
+    },
+    {
+      "id": 202144,
+      "name": "North Pole"
+    },
+    {
+      "id": 202145,
+      "name": "North Slope Borough"
+    },
+    {
+      "id": 202146,
+      "name": "Northwest Arctic Borough"
+    },
+    {
+      "id": 202147,
+      "name": "Palmer"
+    },
+    {
+      "id": 202148,
+      "name": "Petersburg"
+    },
+    {
+      "id": 202149,
+      "name": "Petersburg Borough"
+    },
+    {
+      "id": 202150,
+      "name": "Prudhoe Bay"
+    },
+    {
+      "id": 202151,
+      "name": "Ridgeway"
+    },
+    {
+      "id": 202152,
+      "name": "Salcha"
+    },
+    {
+      "id": 202153,
+      "name": "Sand Point"
+    },
+    {
+      "id": 202154,
+      "name": "Seward"
+    },
+    {
+      "id": 202155,
+      "name": "Sitka"
+    },
+    {
+      "id": 202156,
+      "name": "Sitka City and Borough"
+    },
+    {
+      "id": 202157,
+      "name": "Skagway Municipality"
+    },
+    {
+      "id": 202158,
+      "name": "Soldotna"
+    },
+    {
+      "id": 202159,
+      "name": "Southeast Fairbanks Census Area"
+    },
+    {
+      "id": 202160,
+      "name": "Sterling"
+    },
+    {
+      "id": 202161,
+      "name": "Sutton-Alpine"
+    },
+    {
+      "id": 202162,
+      "name": "Tanaina"
+    },
+    {
+      "id": 202163,
+      "name": "Tok"
+    },
+    {
+      "id": 202164,
+      "name": "Unalaska"
+    },
+    {
+      "id": 202165,
+      "name": "Valdez"
+    },
+    {
+      "id": 202166,
+      "name": "Valdez-Cordova Census Area"
+    },
+    {
+      "id": 202167,
+      "name": "Wasilla"
+    },
+    {
+      "id": 202168,
+      "name": "Willow"
+    },
+    {
+      "id": 202169,
+      "name": "Wrangell"
+    },
+    {
+      "id": 202170,
+      "name": "Y"
+    },
+    {
+      "id": 202171,
+      "name": "Yakutat City and Borough"
+    },
+    {
+      "id": 202172,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  ]
+}

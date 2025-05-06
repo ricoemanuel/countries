@@ -1,0 +1,479 @@
+{
+  "id": 5392,
+  "name": "Friesland",
+  "state_code": "FR",
+  "cities": [
+    {
+      "id": 149013,
+      "name": "Akkrum"
+    },
+    {
+      "id": 149014,
+      "name": "Aldeboarn"
+    },
+    {
+      "id": 149015,
+      "name": "Aldlân-Oost"
+    },
+    {
+      "id": 149016,
+      "name": "Appelscha"
+    },
+    {
+      "id": 149017,
+      "name": "Augustinusga"
+    },
+    {
+      "id": 149018,
+      "name": "Bakhuizen"
+    },
+    {
+      "id": 149019,
+      "name": "Bakkeveen"
+    },
+    {
+      "id": 149020,
+      "name": "Balk"
+    },
+    {
+      "id": 149021,
+      "name": "Beetsterzwaag"
+    },
+    {
+      "id": 149022,
+      "name": "Berltsum"
+    },
+    {
+      "id": 149023,
+      "name": "Bilgaard"
+    },
+    {
+      "id": 149024,
+      "name": "Bolsward"
+    },
+    {
+      "id": 149025,
+      "name": "Boornbergum"
+    },
+    {
+      "id": 149026,
+      "name": "Broeksterwâld"
+    },
+    {
+      "id": 149027,
+      "name": "Buitenpost"
+    },
+    {
+      "id": 149028,
+      "name": "Burdaard"
+    },
+    {
+      "id": 149029,
+      "name": "Burgum"
+    },
+    {
+      "id": 149030,
+      "name": "Camminghaburen"
+    },
+    {
+      "id": 149031,
+      "name": "Damwâld"
+    },
+    {
+      "id": 149032,
+      "name": "De Domp"
+    },
+    {
+      "id": 149033,
+      "name": "De Drait"
+    },
+    {
+      "id": 149034,
+      "name": "De Fryske Marren"
+    },
+    {
+      "id": 149035,
+      "name": "De Greiden"
+    },
+    {
+      "id": 149036,
+      "name": "De Knipe"
+    },
+    {
+      "id": 149037,
+      "name": "De Westereen"
+    },
+    {
+      "id": 149038,
+      "name": "Dokkum"
+    },
+    {
+      "id": 149039,
+      "name": "Donkerbroek"
+    },
+    {
+      "id": 149040,
+      "name": "Drachten"
+    },
+    {
+      "id": 149041,
+      "name": "Drachtstercompagnie"
+    },
+    {
+      "id": 149042,
+      "name": "Drogeham"
+    },
+    {
+      "id": 149043,
+      "name": "Dronryp"
+    },
+    {
+      "id": 149044,
+      "name": "Eastermar"
+    },
+    {
+      "id": 149045,
+      "name": "Echtenerbrug"
+    },
+    {
+      "id": 149046,
+      "name": "Feanwâlden"
+    },
+    {
+      "id": 149047,
+      "name": "Ferwert"
+    },
+    {
+      "id": 149048,
+      "name": "Franeker"
+    },
+    {
+      "id": 149049,
+      "name": "Garyp"
+    },
+    {
+      "id": 149050,
+      "name": "Gorredijk"
+    },
+    {
+      "id": 149051,
+      "name": "Goutum"
+    },
+    {
+      "id": 149052,
+      "name": "Grou"
+    },
+    {
+      "id": 149053,
+      "name": "Gytsjerk"
+    },
+    {
+      "id": 149054,
+      "name": "Hallum"
+    },
+    {
+      "id": 149055,
+      "name": "Harkema"
+    },
+    {
+      "id": 149056,
+      "name": "Harlingen"
+    },
+    {
+      "id": 149057,
+      "name": "Haulerwijk"
+    },
+    {
+      "id": 149058,
+      "name": "Heechterp"
+    },
+    {
+      "id": 149059,
+      "name": "Heeg"
+    },
+    {
+      "id": 149060,
+      "name": "Heerenveen"
+    },
+    {
+      "id": 149061,
+      "name": "Hoek"
+    },
+    {
+      "id": 149062,
+      "name": "Hollum"
+    },
+    {
+      "id": 149063,
+      "name": "Holwerd"
+    },
+    {
+      "id": 149064,
+      "name": "Huizum"
+    },
+    {
+      "id": 149065,
+      "name": "Hurdegaryp"
+    },
+    {
+      "id": 149066,
+      "name": "IJlst"
+    },
+    {
+      "id": 149067,
+      "name": "Jirnsum"
+    },
+    {
+      "id": 149068,
+      "name": "Joure"
+    },
+    {
+      "id": 149069,
+      "name": "Jubbega"
+    },
+    {
+      "id": 149070,
+      "name": "Kollum"
+    },
+    {
+      "id": 149071,
+      "name": "Kollumerzwaag"
+    },
+    {
+      "id": 149072,
+      "name": "Kootstertille"
+    },
+    {
+      "id": 149073,
+      "name": "Koudum"
+    },
+    {
+      "id": 149074,
+      "name": "Langweer"
+    },
+    {
+      "id": 149075,
+      "name": "Leeuwarden"
+    },
+    {
+      "id": 149076,
+      "name": "Lemmer"
+    },
+    {
+      "id": 149077,
+      "name": "Makkum"
+    },
+    {
+      "id": 149078,
+      "name": "Mantgum"
+    },
+    {
+      "id": 149079,
+      "name": "Marrum"
+    },
+    {
+      "id": 149080,
+      "name": "Marsum"
+    },
+    {
+      "id": 149081,
+      "name": "Menaam"
+    },
+    {
+      "id": 149082,
+      "name": "Minnertsga"
+    },
+    {
+      "id": 149083,
+      "name": "Nes"
+    },
+    {
+      "id": 149084,
+      "name": "Nieuwehorne"
+    },
+    {
+      "id": 149085,
+      "name": "Noardburgum"
+    },
+    {
+      "id": 149086,
+      "name": "Noordwolde"
+    },
+    {
+      "id": 149087,
+      "name": "Oentsjerk"
+    },
+    {
+      "id": 149088,
+      "name": "Oldeberkoop"
+    },
+    {
+      "id": 149089,
+      "name": "Oost-Vlieland"
+    },
+    {
+      "id": 149090,
+      "name": "Oosterwolde"
+    },
+    {
+      "id": 149091,
+      "name": "Opeinde"
+    },
+    {
+      "id": 149092,
+      "name": "Oppenhuizen"
+    },
+    {
+      "id": 149093,
+      "name": "Oranjewoud"
+    },
+    {
+      "id": 149094,
+      "name": "Oudega"
+    },
+    {
+      "id": 149095,
+      "name": "Oudehaske"
+    },
+    {
+      "id": 149096,
+      "name": "Oudemirdum"
+    },
+    {
+      "id": 149097,
+      "name": "Oudeschoot"
+    },
+    {
+      "id": 149098,
+      "name": "Rottevalle"
+    },
+    {
+      "id": 149099,
+      "name": "Scharnegoutum"
+    },
+    {
+      "id": 149100,
+      "name": "Schiermonnikoog"
+    },
+    {
+      "id": 149101,
+      "name": "Sexbierum"
+    },
+    {
+      "id": 149102,
+      "name": "Sint Annaparochie"
+    },
+    {
+      "id": 149103,
+      "name": "Sint Jacobiparochie"
+    },
+    {
+      "id": 149104,
+      "name": "Sint Nicolaasga"
+    },
+    {
+      "id": 149105,
+      "name": "Sintjohannesga"
+    },
+    {
+      "id": 149106,
+      "name": "Sneek"
+    },
+    {
+      "id": 149107,
+      "name": "Stadsfenne"
+    },
+    {
+      "id": 149108,
+      "name": "Stiens"
+    },
+    {
+      "id": 149109,
+      "name": "Sûdwest Fryslân"
+    },
+    {
+      "id": 149110,
+      "name": "Surhuisterveen"
+    },
+    {
+      "id": 149111,
+      "name": "Ternaard"
+    },
+    {
+      "id": 149112,
+      "name": "Tijnje"
+    },
+    {
+      "id": 149113,
+      "name": "Tinga"
+    },
+    {
+      "id": 149114,
+      "name": "Twijzel"
+    },
+    {
+      "id": 149115,
+      "name": "Twijzelerheide"
+    },
+    {
+      "id": 149116,
+      "name": "Tytsjerk"
+    },
+    {
+      "id": 149117,
+      "name": "Tzummarum"
+    },
+    {
+      "id": 149118,
+      "name": "Ureterp"
+    },
+    {
+      "id": 149119,
+      "name": "Waadhoeke"
+    },
+    {
+      "id": 149120,
+      "name": "Warga"
+    },
+    {
+      "id": 149121,
+      "name": "West-Terschelling"
+    },
+    {
+      "id": 149122,
+      "name": "Westeinde"
+    },
+    {
+      "id": 149123,
+      "name": "Wijnjewoude"
+    },
+    {
+      "id": 149124,
+      "name": "Wirdum"
+    },
+    {
+      "id": 149125,
+      "name": "Witmarsum"
+    },
+    {
+      "id": 149126,
+      "name": "Wolvega"
+    },
+    {
+      "id": 149127,
+      "name": "Wommels"
+    },
+    {
+      "id": 149128,
+      "name": "Workum"
+    },
+    {
+      "id": 149129,
+      "name": "Woudsend"
+    },
+    {
+      "id": 149130,
+      "name": "Zuiderburen"
+    }
+  ]
+}

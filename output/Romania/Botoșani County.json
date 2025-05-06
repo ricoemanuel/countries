@@ -1,0 +1,803 @@
+{
+  "id": 5960,
+  "name": "Botoșani County",
+  "state_code": "BT",
+  "cities": [
+    {
+      "id": 166669,
+      "name": "Adășeni"
+    },
+    {
+      "id": 166670,
+      "name": "Alba"
+    },
+    {
+      "id": 166671,
+      "name": "Albeşti"
+    },
+    {
+      "id": 166672,
+      "name": "Avrămeni"
+    },
+    {
+      "id": 166673,
+      "name": "Bajura"
+    },
+    {
+      "id": 166674,
+      "name": "Băluşeni"
+    },
+    {
+      "id": 166675,
+      "name": "Baranca"
+    },
+    {
+      "id": 166676,
+      "name": "Blândeşti"
+    },
+    {
+      "id": 166677,
+      "name": "Bobulești"
+    },
+    {
+      "id": 166678,
+      "name": "Botoşani"
+    },
+    {
+      "id": 166679,
+      "name": "Brăeşti"
+    },
+    {
+      "id": 166680,
+      "name": "Brehuiești"
+    },
+    {
+      "id": 166681,
+      "name": "Broscăuţi"
+    },
+    {
+      "id": 166682,
+      "name": "Bucecea"
+    },
+    {
+      "id": 166683,
+      "name": "Bucovineni"
+    },
+    {
+      "id": 166684,
+      "name": "Călăraşi"
+    },
+    {
+      "id": 166685,
+      "name": "Cândeşti"
+    },
+    {
+      "id": 166686,
+      "name": "Cătămărești-Deal"
+    },
+    {
+      "id": 166687,
+      "name": "Comuna Adăşeni"
+    },
+    {
+      "id": 166688,
+      "name": "Comuna Albeşti"
+    },
+    {
+      "id": 166689,
+      "name": "Comuna Avrămeni"
+    },
+    {
+      "id": 166690,
+      "name": "Comuna Băluşeni"
+    },
+    {
+      "id": 166691,
+      "name": "Comuna Blândeşti"
+    },
+    {
+      "id": 166692,
+      "name": "Comuna Brăeşti"
+    },
+    {
+      "id": 166693,
+      "name": "Comuna Broscăuţi"
+    },
+    {
+      "id": 166694,
+      "name": "Comuna Călăraşi"
+    },
+    {
+      "id": 166695,
+      "name": "Comuna Cândeşti"
+    },
+    {
+      "id": 166696,
+      "name": "Comuna Conceşti"
+    },
+    {
+      "id": 166697,
+      "name": "Comuna Copălău"
+    },
+    {
+      "id": 166698,
+      "name": "Comună Cordăreni"
+    },
+    {
+      "id": 166699,
+      "name": "Comuna Corlăteni"
+    },
+    {
+      "id": 166700,
+      "name": "Comuna Corni"
+    },
+    {
+      "id": 166701,
+      "name": "Comuna Coşula"
+    },
+    {
+      "id": 166702,
+      "name": "Comuna Coţuşca"
+    },
+    {
+      "id": 166703,
+      "name": "Comuna Cristeşti"
+    },
+    {
+      "id": 166704,
+      "name": "Comuna Cristineşti"
+    },
+    {
+      "id": 166705,
+      "name": "Comuna Curteşti"
+    },
+    {
+      "id": 166706,
+      "name": "Comuna Dângeni"
+    },
+    {
+      "id": 166707,
+      "name": "Comuna Dersca"
+    },
+    {
+      "id": 166708,
+      "name": "Comuna Dimăcheni"
+    },
+    {
+      "id": 166709,
+      "name": "Comuna Dobârceni"
+    },
+    {
+      "id": 166710,
+      "name": "Comuna Drăguşeni"
+    },
+    {
+      "id": 166711,
+      "name": "Comuna Durneşti"
+    },
+    {
+      "id": 166712,
+      "name": "Comuna Frumuşica"
+    },
+    {
+      "id": 166713,
+      "name": "Comuna George Enescu"
+    },
+    {
+      "id": 166714,
+      "name": "Comuna Gorbăneşti"
+    },
+    {
+      "id": 166715,
+      "name": "Comuna Hăneşti"
+    },
+    {
+      "id": 166716,
+      "name": "Comuna Havârna"
+    },
+    {
+      "id": 166717,
+      "name": "Comuna Hilişeu-Horia"
+    },
+    {
+      "id": 166718,
+      "name": "Comuna Hlipiceni"
+    },
+    {
+      "id": 166719,
+      "name": "Comuna Hudeşti"
+    },
+    {
+      "id": 166720,
+      "name": "Comuna Ibăneşti"
+    },
+    {
+      "id": 166721,
+      "name": "Comuna Leorda"
+    },
+    {
+      "id": 166722,
+      "name": "Comuna Lozna"
+    },
+    {
+      "id": 166723,
+      "name": "Comuna Lunca"
+    },
+    {
+      "id": 166724,
+      "name": "Comuna Manoleasa"
+    },
+    {
+      "id": 166725,
+      "name": "Comuna Mihai Eminescu"
+    },
+    {
+      "id": 166726,
+      "name": "Comuna Mihăileni"
+    },
+    {
+      "id": 166727,
+      "name": "Comuna Mihălăşeni"
+    },
+    {
+      "id": 166728,
+      "name": "Comuna Mileanca"
+    },
+    {
+      "id": 166729,
+      "name": "Comuna Mitoc"
+    },
+    {
+      "id": 166730,
+      "name": "Comuna Nicşeni"
+    },
+    {
+      "id": 166731,
+      "name": "Comuna Păltiniş"
+    },
+    {
+      "id": 166732,
+      "name": "Comuna Pomârla"
+    },
+    {
+      "id": 166733,
+      "name": "Comuna Prăjeni"
+    },
+    {
+      "id": 166734,
+      "name": "Comuna Răchiţi"
+    },
+    {
+      "id": 166735,
+      "name": "Comuna Rãdãuţi-Prut"
+    },
+    {
+      "id": 166736,
+      "name": "Comuna Răuseni"
+    },
+    {
+      "id": 166737,
+      "name": "Comuna Ripiceni"
+    },
+    {
+      "id": 166738,
+      "name": "Comuna Roma"
+    },
+    {
+      "id": 166739,
+      "name": "Comuna Româneşti"
+    },
+    {
+      "id": 166740,
+      "name": "Comuna Santa Mare"
+    },
+    {
+      "id": 166741,
+      "name": "Comuna Şendriceni"
+    },
+    {
+      "id": 166742,
+      "name": "Comuna Stăuceni"
+    },
+    {
+      "id": 166743,
+      "name": "Comuna Ştiubieni"
+    },
+    {
+      "id": 166744,
+      "name": "Comuna Suharău"
+    },
+    {
+      "id": 166745,
+      "name": "Comuna Suliţa"
+    },
+    {
+      "id": 166746,
+      "name": "Comuna Todireni"
+    },
+    {
+      "id": 166747,
+      "name": "Comuna Truşeşti"
+    },
+    {
+      "id": 166748,
+      "name": "Comuna Tudora"
+    },
+    {
+      "id": 166749,
+      "name": "Comuna Ungureni"
+    },
+    {
+      "id": 166750,
+      "name": "Comuna Unţeni"
+    },
+    {
+      "id": 166751,
+      "name": "Comuna Văculeşti"
+    },
+    {
+      "id": 166752,
+      "name": "Comuna Vârfu Câmpului"
+    },
+    {
+      "id": 166753,
+      "name": "Comuna Viişoara"
+    },
+    {
+      "id": 166754,
+      "name": "Comuna Vlădeni"
+    },
+    {
+      "id": 166755,
+      "name": "Comuna Vlăsineşti"
+    },
+    {
+      "id": 166756,
+      "name": "Comuna Vorniceni"
+    },
+    {
+      "id": 166757,
+      "name": "Comuna Vorona"
+    },
+    {
+      "id": 166758,
+      "name": "Conceşti"
+    },
+    {
+      "id": 166759,
+      "name": "Copălău"
+    },
+    {
+      "id": 166760,
+      "name": "Cordăreni"
+    },
+    {
+      "id": 166761,
+      "name": "Corlăteni"
+    },
+    {
+      "id": 166762,
+      "name": "Corni"
+    },
+    {
+      "id": 166763,
+      "name": "Costești"
+    },
+    {
+      "id": 166764,
+      "name": "Coșula"
+    },
+    {
+      "id": 166765,
+      "name": "Coţuşca"
+    },
+    {
+      "id": 166766,
+      "name": "Cristeşti"
+    },
+    {
+      "id": 166767,
+      "name": "Cristineşti"
+    },
+    {
+      "id": 166768,
+      "name": "Curteşti"
+    },
+    {
+      "id": 166769,
+      "name": "Dângeni"
+    },
+    {
+      "id": 166770,
+      "name": "Darabani"
+    },
+    {
+      "id": 166771,
+      "name": "Dersca"
+    },
+    {
+      "id": 166772,
+      "name": "Dimăcheni"
+    },
+    {
+      "id": 166773,
+      "name": "Dobârceni"
+    },
+    {
+      "id": 166774,
+      "name": "Dorobanți"
+    },
+    {
+      "id": 166775,
+      "name": "Dorohoi"
+    },
+    {
+      "id": 166776,
+      "name": "Dracșani"
+    },
+    {
+      "id": 166777,
+      "name": "Drăguşeni"
+    },
+    {
+      "id": 166778,
+      "name": "Draxini"
+    },
+    {
+      "id": 166779,
+      "name": "Dumbrăvița"
+    },
+    {
+      "id": 166780,
+      "name": "Dumeni"
+    },
+    {
+      "id": 166781,
+      "name": "Durneşti"
+    },
+    {
+      "id": 166782,
+      "name": "Flămânzi"
+    },
+    {
+      "id": 166783,
+      "name": "Frumuşica"
+    },
+    {
+      "id": 166784,
+      "name": "George Enescu"
+    },
+    {
+      "id": 166785,
+      "name": "Gorbăneşti"
+    },
+    {
+      "id": 166786,
+      "name": "Hăneşti"
+    },
+    {
+      "id": 166787,
+      "name": "Havârna"
+    },
+    {
+      "id": 166788,
+      "name": "Hilişeu-Horia"
+    },
+    {
+      "id": 166789,
+      "name": "Hlipiceni"
+    },
+    {
+      "id": 166790,
+      "name": "Hudeşti"
+    },
+    {
+      "id": 166791,
+      "name": "Iacobeni"
+    },
+    {
+      "id": 166792,
+      "name": "Ibăneşti"
+    },
+    {
+      "id": 166793,
+      "name": "Icușeni"
+    },
+    {
+      "id": 166794,
+      "name": "Ionășeni"
+    },
+    {
+      "id": 166795,
+      "name": "Joldești"
+    },
+    {
+      "id": 166796,
+      "name": "Leorda"
+    },
+    {
+      "id": 166797,
+      "name": "Lozna"
+    },
+    {
+      "id": 166798,
+      "name": "Lunca"
+    },
+    {
+      "id": 166799,
+      "name": "Mândrești"
+    },
+    {
+      "id": 166800,
+      "name": "Manoleasa"
+    },
+    {
+      "id": 166801,
+      "name": "Mihăileni"
+    },
+    {
+      "id": 166802,
+      "name": "Mihălăşeni"
+    },
+    {
+      "id": 166803,
+      "name": "Mileanca"
+    },
+    {
+      "id": 166804,
+      "name": "Miorcani"
+    },
+    {
+      "id": 166805,
+      "name": "Mitoc"
+    },
+    {
+      "id": 166806,
+      "name": "Mlenăuți"
+    },
+    {
+      "id": 166807,
+      "name": "Municipiul Botoşani"
+    },
+    {
+      "id": 166808,
+      "name": "Municipiul Dorohoi"
+    },
+    {
+      "id": 166809,
+      "name": "Nicolae Bălcescu"
+    },
+    {
+      "id": 166810,
+      "name": "Nicşeni"
+    },
+    {
+      "id": 166811,
+      "name": "Oneaga"
+    },
+    {
+      "id": 166812,
+      "name": "Oraş Bucecea"
+    },
+    {
+      "id": 166813,
+      "name": "Oraş Darabani"
+    },
+    {
+      "id": 166814,
+      "name": "Oraş Flãmânzi"
+    },
+    {
+      "id": 166815,
+      "name": "Oraş Sãveni"
+    },
+    {
+      "id": 166816,
+      "name": "Oraş Ştefãneşti"
+    },
+    {
+      "id": 166817,
+      "name": "Orășeni-Deal"
+    },
+    {
+      "id": 166818,
+      "name": "Oroftiana"
+    },
+    {
+      "id": 166819,
+      "name": "Pădureni"
+    },
+    {
+      "id": 166820,
+      "name": "Păltiniş"
+    },
+    {
+      "id": 166821,
+      "name": "Poiana"
+    },
+    {
+      "id": 166822,
+      "name": "Pomârla"
+    },
+    {
+      "id": 166823,
+      "name": "Prăjeni"
+    },
+    {
+      "id": 166824,
+      "name": "Răchiţi"
+    },
+    {
+      "id": 166825,
+      "name": "Rădăuți-Prut"
+    },
+    {
+      "id": 166826,
+      "name": "Rădeni"
+    },
+    {
+      "id": 166827,
+      "name": "Răuseni"
+    },
+    {
+      "id": 166828,
+      "name": "Rediu"
+    },
+    {
+      "id": 166829,
+      "name": "Ripiceni"
+    },
+    {
+      "id": 166830,
+      "name": "Roma"
+    },
+    {
+      "id": 166831,
+      "name": "Românești"
+    },
+    {
+      "id": 166832,
+      "name": "Roșiori"
+    },
+    {
+      "id": 166833,
+      "name": "Santa Mare"
+    },
+    {
+      "id": 166834,
+      "name": "Sarafinești"
+    },
+    {
+      "id": 166835,
+      "name": "Sârbi"
+    },
+    {
+      "id": 166836,
+      "name": "Săveni"
+    },
+    {
+      "id": 166837,
+      "name": "Şendriceni"
+    },
+    {
+      "id": 166838,
+      "name": "Stâncești"
+    },
+    {
+      "id": 166839,
+      "name": "Stăuceni"
+    },
+    {
+      "id": 166840,
+      "name": "Ștefănești"
+    },
+    {
+      "id": 166841,
+      "name": "Ştefăneşti-Sat"
+    },
+    {
+      "id": 166842,
+      "name": "Ştiubieni"
+    },
+    {
+      "id": 166843,
+      "name": "Storeşti"
+    },
+    {
+      "id": 166844,
+      "name": "Străteni"
+    },
+    {
+      "id": 166845,
+      "name": "Stroiești"
+    },
+    {
+      "id": 166846,
+      "name": "Suharău"
+    },
+    {
+      "id": 166847,
+      "name": "Sulița"
+    },
+    {
+      "id": 166848,
+      "name": "Șupitca"
+    },
+    {
+      "id": 166849,
+      "name": "Tocileni"
+    },
+    {
+      "id": 166850,
+      "name": "Todireni"
+    },
+    {
+      "id": 166851,
+      "name": "Truşeşti"
+    },
+    {
+      "id": 166852,
+      "name": "Tudor Vladimirescu"
+    },
+    {
+      "id": 166853,
+      "name": "Tudora"
+    },
+    {
+      "id": 166854,
+      "name": "Ungureni"
+    },
+    {
+      "id": 166855,
+      "name": "Ungureni-Jianu"
+    },
+    {
+      "id": 166856,
+      "name": "Unţeni"
+    },
+    {
+      "id": 166857,
+      "name": "Văculeşti"
+    },
+    {
+      "id": 166858,
+      "name": "Vârfu Câmpului"
+    },
+    {
+      "id": 166859,
+      "name": "Victoria"
+    },
+    {
+      "id": 166860,
+      "name": "Viişoara"
+    },
+    {
+      "id": 166861,
+      "name": "Vlădeni"
+    },
+    {
+      "id": 166862,
+      "name": "Vlădeni-Deal"
+    },
+    {
+      "id": 166863,
+      "name": "Vlăsineşti"
+    },
+    {
+      "id": 166864,
+      "name": "Vorniceni"
+    },
+    {
+      "id": 166865,
+      "name": "Vorona"
+    },
+    {
+      "id": 166866,
+      "name": "Vorona Teodoru"
+    },
+    {
+      "id": 166867,
+      "name": "Zlătunoaia"
+    }
+  ]
+}

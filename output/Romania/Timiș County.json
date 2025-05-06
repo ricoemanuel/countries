@@ -1,0 +1,883 @@
+{
+  "id": 5991,
+  "name": "Timiș County",
+  "state_code": "TM",
+  "cities": [
+    {
+      "id": 172564,
+      "name": "Bacova"
+    },
+    {
+      "id": 172565,
+      "name": "Balinţ"
+    },
+    {
+      "id": 172566,
+      "name": "Banloc"
+    },
+    {
+      "id": 172567,
+      "name": "Bara"
+    },
+    {
+      "id": 172568,
+      "name": "Bârna"
+    },
+    {
+      "id": 172569,
+      "name": "Beba Veche"
+    },
+    {
+      "id": 172570,
+      "name": "Becicherecu Mic"
+    },
+    {
+      "id": 172571,
+      "name": "Belinţ"
+    },
+    {
+      "id": 172572,
+      "name": "Beregsău Mare"
+    },
+    {
+      "id": 172573,
+      "name": "Bethausen"
+    },
+    {
+      "id": 172574,
+      "name": "Biled"
+    },
+    {
+      "id": 172575,
+      "name": "Birda"
+    },
+    {
+      "id": 172576,
+      "name": "Bogda"
+    },
+    {
+      "id": 172577,
+      "name": "Boldur"
+    },
+    {
+      "id": 172578,
+      "name": "Brestovăț"
+    },
+    {
+      "id": 172579,
+      "name": "Bucovăț"
+    },
+    {
+      "id": 172580,
+      "name": "Bulgăruș"
+    },
+    {
+      "id": 172581,
+      "name": "Buziaş"
+    },
+    {
+      "id": 172582,
+      "name": "Carani"
+    },
+    {
+      "id": 172583,
+      "name": "Cărpiniş"
+    },
+    {
+      "id": 172584,
+      "name": "Cenad"
+    },
+    {
+      "id": 172585,
+      "name": "Cenei"
+    },
+    {
+      "id": 172586,
+      "name": "Checea"
+    },
+    {
+      "id": 172587,
+      "name": "Chevereşu Mare"
+    },
+    {
+      "id": 172588,
+      "name": "Chișoda"
+    },
+    {
+      "id": 172589,
+      "name": "Ciacova"
+    },
+    {
+      "id": 172590,
+      "name": "Colonia Fabricii"
+    },
+    {
+      "id": 172591,
+      "name": "Comloşu Mare"
+    },
+    {
+      "id": 172592,
+      "name": "Comuna Balinţ"
+    },
+    {
+      "id": 172593,
+      "name": "Comuna Banloc"
+    },
+    {
+      "id": 172594,
+      "name": "Comuna Bara"
+    },
+    {
+      "id": 172595,
+      "name": "Comuna Bârna"
+    },
+    {
+      "id": 172596,
+      "name": "Comuna Beba Veche"
+    },
+    {
+      "id": 172597,
+      "name": "Comuna Becicherecu Mic"
+    },
+    {
+      "id": 172598,
+      "name": "Comuna Belinţ"
+    },
+    {
+      "id": 172599,
+      "name": "Comuna Bethausen"
+    },
+    {
+      "id": 172600,
+      "name": "Comuna Biled"
+    },
+    {
+      "id": 172601,
+      "name": "Comuna Birda"
+    },
+    {
+      "id": 172602,
+      "name": "Comuna Bogda"
+    },
+    {
+      "id": 172603,
+      "name": "Comuna Boldur"
+    },
+    {
+      "id": 172604,
+      "name": "Comuna Brestovăţ"
+    },
+    {
+      "id": 172605,
+      "name": "Comuna Bucovăţ"
+    },
+    {
+      "id": 172606,
+      "name": "Comuna Cărpiniş"
+    },
+    {
+      "id": 172607,
+      "name": "Comuna Cenad"
+    },
+    {
+      "id": 172608,
+      "name": "Comuna Cenei"
+    },
+    {
+      "id": 172609,
+      "name": "Comuna Checea"
+    },
+    {
+      "id": 172610,
+      "name": "Comuna Chevereşu Mare"
+    },
+    {
+      "id": 172611,
+      "name": "Comuna Comloşu Mare"
+    },
+    {
+      "id": 172612,
+      "name": "Comuna Coşteiu"
+    },
+    {
+      "id": 172613,
+      "name": "Comuna Criciova"
+    },
+    {
+      "id": 172614,
+      "name": "Comuna Curtea"
+    },
+    {
+      "id": 172615,
+      "name": "Comuna Darova"
+    },
+    {
+      "id": 172616,
+      "name": "Comuna Denta"
+    },
+    {
+      "id": 172617,
+      "name": "Comuna Dudeştii Noi"
+    },
+    {
+      "id": 172618,
+      "name": "Comuna Dudeştii Vechi"
+    },
+    {
+      "id": 172619,
+      "name": "Comuna Dumbrava"
+    },
+    {
+      "id": 172620,
+      "name": "Comuna Dumbrăviţa"
+    },
+    {
+      "id": 172621,
+      "name": "Comuna Fârdea"
+    },
+    {
+      "id": 172622,
+      "name": "Comuna Fibiş"
+    },
+    {
+      "id": 172623,
+      "name": "Comuna Foeni"
+    },
+    {
+      "id": 172624,
+      "name": "Comuna Gavojdia"
+    },
+    {
+      "id": 172625,
+      "name": "Comuna Ghilad"
+    },
+    {
+      "id": 172626,
+      "name": "Comuna Ghiroda"
+    },
+    {
+      "id": 172627,
+      "name": "Comuna Ghizela"
+    },
+    {
+      "id": 172628,
+      "name": "Comuna Giarmata"
+    },
+    {
+      "id": 172629,
+      "name": "Comuna Giera"
+    },
+    {
+      "id": 172630,
+      "name": "Comuna Giroc"
+    },
+    {
+      "id": 172631,
+      "name": "Comuna Giulvăz"
+    },
+    {
+      "id": 172632,
+      "name": "Comuna Gottlob"
+    },
+    {
+      "id": 172633,
+      "name": "Comuna Iecea Mare"
+    },
+    {
+      "id": 172634,
+      "name": "Comuna Jamu Mare"
+    },
+    {
+      "id": 172635,
+      "name": "Comuna Jebel"
+    },
+    {
+      "id": 172636,
+      "name": "Comuna Lenauheim"
+    },
+    {
+      "id": 172637,
+      "name": "Comuna Liebling"
+    },
+    {
+      "id": 172638,
+      "name": "Comuna Livezile"
+    },
+    {
+      "id": 172639,
+      "name": "Comuna Lovrin"
+    },
+    {
+      "id": 172640,
+      "name": "Comuna Mănăştiur"
+    },
+    {
+      "id": 172641,
+      "name": "Comuna Margina"
+    },
+    {
+      "id": 172642,
+      "name": "Comuna Maşloc"
+    },
+    {
+      "id": 172643,
+      "name": "Comuna Moraviţa"
+    },
+    {
+      "id": 172644,
+      "name": "Comuna Moşniţa Nouã"
+    },
+    {
+      "id": 172645,
+      "name": "Comuna Nădrag"
+    },
+    {
+      "id": 172646,
+      "name": "Comuna Niţchidorf"
+    },
+    {
+      "id": 172647,
+      "name": "Comuna Ohaba Lungă"
+    },
+    {
+      "id": 172648,
+      "name": "Comuna Orţişoara"
+    },
+    {
+      "id": 172649,
+      "name": "Comuna Otelec"
+    },
+    {
+      "id": 172650,
+      "name": "Comuna Pădureni"
+    },
+    {
+      "id": 172651,
+      "name": "Comuna Parţa"
+    },
+    {
+      "id": 172652,
+      "name": "Comuna Peciu Nou"
+    },
+    {
+      "id": 172653,
+      "name": "Comuna Periam"
+    },
+    {
+      "id": 172654,
+      "name": "Comuna Pesac"
+    },
+    {
+      "id": 172655,
+      "name": "Comuna Pietroasa"
+    },
+    {
+      "id": 172656,
+      "name": "Comuna Pişchia"
+    },
+    {
+      "id": 172657,
+      "name": "Comuna Racoviţa"
+    },
+    {
+      "id": 172658,
+      "name": "Comuna Remetea Mare"
+    },
+    {
+      "id": 172659,
+      "name": "Comuna Săcălaz"
+    },
+    {
+      "id": 172660,
+      "name": "Comuna Sacoşu Turcesc"
+    },
+    {
+      "id": 172661,
+      "name": "Comuna Şag"
+    },
+    {
+      "id": 172662,
+      "name": "Comuna Sânandrei"
+    },
+    {
+      "id": 172663,
+      "name": "Comuna Şandra"
+    },
+    {
+      "id": 172664,
+      "name": "Comuna Sânmihaiu Român"
+    },
+    {
+      "id": 172665,
+      "name": "Comuna Sânpetru Mare"
+    },
+    {
+      "id": 172666,
+      "name": "Comuna Saravale"
+    },
+    {
+      "id": 172667,
+      "name": "Comuna Satchinez"
+    },
+    {
+      "id": 172668,
+      "name": "Comuna Secaş"
+    },
+    {
+      "id": 172669,
+      "name": "Comuna Ştiuca"
+    },
+    {
+      "id": 172670,
+      "name": "Comuna Teremia Mare"
+    },
+    {
+      "id": 172671,
+      "name": "Comuna Tomeşti"
+    },
+    {
+      "id": 172672,
+      "name": "Comuna Tomnatic"
+    },
+    {
+      "id": 172673,
+      "name": "Comuna Topolovãţu Mare"
+    },
+    {
+      "id": 172674,
+      "name": "Comuna Tormac"
+    },
+    {
+      "id": 172675,
+      "name": "Comuna Traian Vuia"
+    },
+    {
+      "id": 172676,
+      "name": "Comuna Uivar"
+    },
+    {
+      "id": 172677,
+      "name": "Comuna Vălcani"
+    },
+    {
+      "id": 172678,
+      "name": "Comuna Variaş"
+    },
+    {
+      "id": 172679,
+      "name": "Comuna Victor Vlad Delamarina"
+    },
+    {
+      "id": 172680,
+      "name": "Comuna Voiteg"
+    },
+    {
+      "id": 172681,
+      "name": "Coşteiu"
+    },
+    {
+      "id": 172682,
+      "name": "Criciova"
+    },
+    {
+      "id": 172683,
+      "name": "Curtea"
+    },
+    {
+      "id": 172684,
+      "name": "Darova"
+    },
+    {
+      "id": 172685,
+      "name": "Darova Nouă"
+    },
+    {
+      "id": 172686,
+      "name": "Denta"
+    },
+    {
+      "id": 172687,
+      "name": "Deta"
+    },
+    {
+      "id": 172688,
+      "name": "Dudeștii Noi"
+    },
+    {
+      "id": 172689,
+      "name": "Dudeştii Vechi"
+    },
+    {
+      "id": 172690,
+      "name": "Dumbrava"
+    },
+    {
+      "id": 172691,
+      "name": "Dumbrăviţa"
+    },
+    {
+      "id": 172692,
+      "name": "Făget"
+    },
+    {
+      "id": 172693,
+      "name": "Fârdea"
+    },
+    {
+      "id": 172694,
+      "name": "Fibiș"
+    },
+    {
+      "id": 172695,
+      "name": "Foeni"
+    },
+    {
+      "id": 172696,
+      "name": "Gătaia"
+    },
+    {
+      "id": 172697,
+      "name": "Gavojdia"
+    },
+    {
+      "id": 172698,
+      "name": "Gelu"
+    },
+    {
+      "id": 172699,
+      "name": "Ghilad"
+    },
+    {
+      "id": 172700,
+      "name": "Ghiroda"
+    },
+    {
+      "id": 172701,
+      "name": "Ghizela"
+    },
+    {
+      "id": 172702,
+      "name": "Giarmata"
+    },
+    {
+      "id": 172703,
+      "name": "Giarmata-Vii"
+    },
+    {
+      "id": 172704,
+      "name": "Giera"
+    },
+    {
+      "id": 172705,
+      "name": "Giroc"
+    },
+    {
+      "id": 172706,
+      "name": "Giulvăz"
+    },
+    {
+      "id": 172707,
+      "name": "Gottlob"
+    },
+    {
+      "id": 172708,
+      "name": "Grabăț"
+    },
+    {
+      "id": 172709,
+      "name": "Hodoni"
+    },
+    {
+      "id": 172710,
+      "name": "Iecea Mare"
+    },
+    {
+      "id": 172711,
+      "name": "Iecea Mică"
+    },
+    {
+      "id": 172712,
+      "name": "Igriș"
+    },
+    {
+      "id": 172713,
+      "name": "Izvin"
+    },
+    {
+      "id": 172714,
+      "name": "Jamu Mare"
+    },
+    {
+      "id": 172715,
+      "name": "Jebel"
+    },
+    {
+      "id": 172716,
+      "name": "Jimbolia"
+    },
+    {
+      "id": 172717,
+      "name": "Lenauheim"
+    },
+    {
+      "id": 172718,
+      "name": "Liebling"
+    },
+    {
+      "id": 172719,
+      "name": "Livezile"
+    },
+    {
+      "id": 172720,
+      "name": "Lovrin"
+    },
+    {
+      "id": 172721,
+      "name": "Lugoj"
+    },
+    {
+      "id": 172722,
+      "name": "Mănăştiur"
+    },
+    {
+      "id": 172723,
+      "name": "Margina"
+    },
+    {
+      "id": 172724,
+      "name": "Maşloc"
+    },
+    {
+      "id": 172725,
+      "name": "Moraviţa"
+    },
+    {
+      "id": 172726,
+      "name": "Moşniţa Nouă"
+    },
+    {
+      "id": 172727,
+      "name": "Moșnița Veche"
+    },
+    {
+      "id": 172728,
+      "name": "Municipiul Lugoj"
+    },
+    {
+      "id": 172729,
+      "name": "Municipiul Timişoara"
+    },
+    {
+      "id": 172730,
+      "name": "Nădrag"
+    },
+    {
+      "id": 172731,
+      "name": "Nerău"
+    },
+    {
+      "id": 172732,
+      "name": "Niţchidorf"
+    },
+    {
+      "id": 172733,
+      "name": "Ohaba Lungă"
+    },
+    {
+      "id": 172734,
+      "name": "Oraş Buziaş"
+    },
+    {
+      "id": 172735,
+      "name": "Oraş Ciacova"
+    },
+    {
+      "id": 172736,
+      "name": "Oraş Deta"
+    },
+    {
+      "id": 172737,
+      "name": "Oraş Fãget"
+    },
+    {
+      "id": 172738,
+      "name": "Oraş Gãtaia"
+    },
+    {
+      "id": 172739,
+      "name": "Oraş Jimbolia"
+    },
+    {
+      "id": 172740,
+      "name": "Oraş Recaş"
+    },
+    {
+      "id": 172741,
+      "name": "Oraş Sânnicolau Mare"
+    },
+    {
+      "id": 172742,
+      "name": "Orţişoara"
+    },
+    {
+      "id": 172743,
+      "name": "Otelec"
+    },
+    {
+      "id": 172744,
+      "name": "Pădureni"
+    },
+    {
+      "id": 172745,
+      "name": "Parța"
+    },
+    {
+      "id": 172746,
+      "name": "Peciu Nou"
+    },
+    {
+      "id": 172747,
+      "name": "Periam"
+    },
+    {
+      "id": 172748,
+      "name": "Pesac"
+    },
+    {
+      "id": 172749,
+      "name": "Pietroasa"
+    },
+    {
+      "id": 172750,
+      "name": "Pişchia"
+    },
+    {
+      "id": 172751,
+      "name": "Răchita"
+    },
+    {
+      "id": 172752,
+      "name": "Racoviţa"
+    },
+    {
+      "id": 172753,
+      "name": "Recaş"
+    },
+    {
+      "id": 172754,
+      "name": "Remetea Mare"
+    },
+    {
+      "id": 172755,
+      "name": "Săcălaz"
+    },
+    {
+      "id": 172756,
+      "name": "Sacoșu Mare"
+    },
+    {
+      "id": 172757,
+      "name": "Sacoşu Turcesc"
+    },
+    {
+      "id": 172758,
+      "name": "Şag"
+    },
+    {
+      "id": 172759,
+      "name": "Sânandrei"
+    },
+    {
+      "id": 172760,
+      "name": "Şandra"
+    },
+    {
+      "id": 172761,
+      "name": "Sânmihaiu Român"
+    },
+    {
+      "id": 172762,
+      "name": "Sânnicolau Mare"
+    },
+    {
+      "id": 172763,
+      "name": "Sânpetru Mare"
+    },
+    {
+      "id": 172764,
+      "name": "Saravale"
+    },
+    {
+      "id": 172765,
+      "name": "Satchinez"
+    },
+    {
+      "id": 172766,
+      "name": "Sculia"
+    },
+    {
+      "id": 172767,
+      "name": "Secaş"
+    },
+    {
+      "id": 172768,
+      "name": "Ştiuca"
+    },
+    {
+      "id": 172769,
+      "name": "Teremia Mare"
+    },
+    {
+      "id": 172770,
+      "name": "Timişoara"
+    },
+    {
+      "id": 172771,
+      "name": "Tomeşti"
+    },
+    {
+      "id": 172772,
+      "name": "Tomnatic"
+    },
+    {
+      "id": 172773,
+      "name": "Topolovăţu Mare"
+    },
+    {
+      "id": 172774,
+      "name": "Tormac"
+    },
+    {
+      "id": 172775,
+      "name": "Traian Vuia"
+    },
+    {
+      "id": 172776,
+      "name": "Uivar"
+    },
+    {
+      "id": 172777,
+      "name": "Urseni"
+    },
+    {
+      "id": 172778,
+      "name": "Utvin"
+    },
+    {
+      "id": 172779,
+      "name": "Vălcani"
+    },
+    {
+      "id": 172780,
+      "name": "Variaş"
+    },
+    {
+      "id": 172781,
+      "name": "Victor Vlad Delamarina"
+    },
+    {
+      "id": 172782,
+      "name": "Voiteg"
+    }
+  ]
+}

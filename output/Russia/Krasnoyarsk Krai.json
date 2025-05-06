@@ -1,0 +1,443 @@
+{
+  "id": 6022,
+  "name": "Krasnoyarsk Krai",
+  "state_code": "KYA",
+  "cities": [
+    {
+      "id": 175079,
+      "name": "Aban"
+    },
+    {
+      "id": 175080,
+      "name": "Abanskiy Rayon"
+    },
+    {
+      "id": 175081,
+      "name": "Achinsk"
+    },
+    {
+      "id": 175082,
+      "name": "Achinskiy Rayon"
+    },
+    {
+      "id": 175083,
+      "name": "Aginskoye"
+    },
+    {
+      "id": 175084,
+      "name": "Balakhta"
+    },
+    {
+      "id": 175085,
+      "name": "Balakhtinskiy Rayon"
+    },
+    {
+      "id": 175086,
+      "name": "Baykit"
+    },
+    {
+      "id": 175087,
+      "name": "Berëzovka"
+    },
+    {
+      "id": 175088,
+      "name": "Berezovskiy rayon"
+    },
+    {
+      "id": 175089,
+      "name": "Birilyusskiy Rayon"
+    },
+    {
+      "id": 175090,
+      "name": "Bogotol"
+    },
+    {
+      "id": 175091,
+      "name": "Bogotol’skiy Rayon"
+    },
+    {
+      "id": 175092,
+      "name": "Boguchanskiy Rayon"
+    },
+    {
+      "id": 175093,
+      "name": "Boguchany"
+    },
+    {
+      "id": 175094,
+      "name": "Bol’shemurtinskiy Rayon"
+    },
+    {
+      "id": 175095,
+      "name": "Bol’sheuluyskiy Rayon"
+    },
+    {
+      "id": 175096,
+      "name": "Bor"
+    },
+    {
+      "id": 175097,
+      "name": "Borodino"
+    },
+    {
+      "id": 175098,
+      "name": "Chunoyar"
+    },
+    {
+      "id": 175099,
+      "name": "Dikson"
+    },
+    {
+      "id": 175100,
+      "name": "Divnogorsk"
+    },
+    {
+      "id": 175101,
+      "name": "Dubinino"
+    },
+    {
+      "id": 175102,
+      "name": "Dudinka"
+    },
+    {
+      "id": 175103,
+      "name": "Dzerzhinskoye"
+    },
+    {
+      "id": 175104,
+      "name": "Evenkiyskiy District"
+    },
+    {
+      "id": 175105,
+      "name": "Filimonovo"
+    },
+    {
+      "id": 175106,
+      "name": "Idrinskiy Rayon"
+    },
+    {
+      "id": 175107,
+      "name": "Idrinskoye"
+    },
+    {
+      "id": 175108,
+      "name": "Igarka"
+    },
+    {
+      "id": 175109,
+      "name": "Il’ichevo"
+    },
+    {
+      "id": 175110,
+      "name": "Ilanskiy"
+    },
+    {
+      "id": 175111,
+      "name": "Ilanskiy Rayon"
+    },
+    {
+      "id": 175112,
+      "name": "Irbeyskiy Rayon"
+    },
+    {
+      "id": 175113,
+      "name": "Irbeyskoye"
+    },
+    {
+      "id": 175114,
+      "name": "Irsha"
+    },
+    {
+      "id": 175115,
+      "name": "Kansk"
+    },
+    {
+      "id": 175116,
+      "name": "Kanskiy Rayon"
+    },
+    {
+      "id": 175117,
+      "name": "Karatuzskoye"
+    },
+    {
+      "id": 175118,
+      "name": "Kayyerkan"
+    },
+    {
+      "id": 175119,
+      "name": "Kazachinskiy Rayon"
+    },
+    {
+      "id": 175120,
+      "name": "Kazachinskoye"
+    },
+    {
+      "id": 175121,
+      "name": "Kedrovyy"
+    },
+    {
+      "id": 175122,
+      "name": "Khatanga"
+    },
+    {
+      "id": 175123,
+      "name": "Kodinsk"
+    },
+    {
+      "id": 175124,
+      "name": "Koshurnikovo"
+    },
+    {
+      "id": 175125,
+      "name": "Krasnokamensk"
+    },
+    {
+      "id": 175126,
+      "name": "Krasnoturansk"
+    },
+    {
+      "id": 175127,
+      "name": "Krasnoyarsk"
+    },
+    {
+      "id": 175128,
+      "name": "Kuragino"
+    },
+    {
+      "id": 175129,
+      "name": "Lesosibirsk"
+    },
+    {
+      "id": 175130,
+      "name": "Manskiy Rayon"
+    },
+    {
+      "id": 175131,
+      "name": "Manzya"
+    },
+    {
+      "id": 175132,
+      "name": "Minusinsk"
+    },
+    {
+      "id": 175133,
+      "name": "Minusinskiy Rayon"
+    },
+    {
+      "id": 175134,
+      "name": "Motygino"
+    },
+    {
+      "id": 175135,
+      "name": "Nazarovo"
+    },
+    {
+      "id": 175136,
+      "name": "Nazarovskiy Rayon"
+    },
+    {
+      "id": 175137,
+      "name": "Nizhneingashskiy Rayon"
+    },
+    {
+      "id": 175138,
+      "name": "Nizhniy Ingash"
+    },
+    {
+      "id": 175139,
+      "name": "Nizhnyaya Poyma"
+    },
+    {
+      "id": 175140,
+      "name": "Norilsk"
+    },
+    {
+      "id": 175141,
+      "name": "Novobirilyussy"
+    },
+    {
+      "id": 175142,
+      "name": "Novochernorechenskiy"
+    },
+    {
+      "id": 175143,
+      "name": "Ovsyanka"
+    },
+    {
+      "id": 175144,
+      "name": "Partizanskiy Rayon"
+    },
+    {
+      "id": 175145,
+      "name": "Partizanskoye"
+    },
+    {
+      "id": 175146,
+      "name": "Pirovskoye"
+    },
+    {
+      "id": 175147,
+      "name": "Predivinsk"
+    },
+    {
+      "id": 175148,
+      "name": "Rassvet"
+    },
+    {
+      "id": 175149,
+      "name": "Razdolinsk"
+    },
+    {
+      "id": 175150,
+      "name": "Sayansk"
+    },
+    {
+      "id": 175151,
+      "name": "Sayanskiy Rayon"
+    },
+    {
+      "id": 175152,
+      "name": "Severo-Yeniseyskiy"
+    },
+    {
+      "id": 175153,
+      "name": "Severo-Yeniseyskiy Rayon"
+    },
+    {
+      "id": 175154,
+      "name": "Shalinskoye"
+    },
+    {
+      "id": 175155,
+      "name": "Sharypovo"
+    },
+    {
+      "id": 175156,
+      "name": "Sharypovskiy Rayon"
+    },
+    {
+      "id": 175157,
+      "name": "Shushenskiy Rayon"
+    },
+    {
+      "id": 175158,
+      "name": "Shushenskoye"
+    },
+    {
+      "id": 175159,
+      "name": "Snezhnogorsk"
+    },
+    {
+      "id": 175160,
+      "name": "Solnechnyy"
+    },
+    {
+      "id": 175161,
+      "name": "Sosnovoborsk"
+    },
+    {
+      "id": 175162,
+      "name": "Strelka"
+    },
+    {
+      "id": 175163,
+      "name": "Sukhobuzimskoye"
+    },
+    {
+      "id": 175164,
+      "name": "Svetlogorsk"
+    },
+    {
+      "id": 175165,
+      "name": "Talnakh"
+    },
+    {
+      "id": 175166,
+      "name": "Tanzybey"
+    },
+    {
+      "id": 175167,
+      "name": "Taseyevo"
+    },
+    {
+      "id": 175168,
+      "name": "Taymyrsky Dolgano-Nenetsky District"
+    },
+    {
+      "id": 175169,
+      "name": "Teya"
+    },
+    {
+      "id": 175170,
+      "name": "Tinskoy"
+    },
+    {
+      "id": 175171,
+      "name": "Tura"
+    },
+    {
+      "id": 175172,
+      "name": "Turukhansk"
+    },
+    {
+      "id": 175173,
+      "name": "Tyukhtet"
+    },
+    {
+      "id": 175174,
+      "name": "Ural"
+    },
+    {
+      "id": 175175,
+      "name": "Uyar"
+    },
+    {
+      "id": 175176,
+      "name": "Uyarskiy Rayon"
+    },
+    {
+      "id": 175177,
+      "name": "Uzhur"
+    },
+    {
+      "id": 175178,
+      "name": "Vanavara"
+    },
+    {
+      "id": 175179,
+      "name": "Yemel’yanovo"
+    },
+    {
+      "id": 175180,
+      "name": "Yemel’yanovskiy Rayon"
+    },
+    {
+      "id": 175181,
+      "name": "Yeniseysk"
+    },
+    {
+      "id": 175182,
+      "name": "Yeniseyskiy Rayon"
+    },
+    {
+      "id": 175183,
+      "name": "Yermakovskoye"
+    },
+    {
+      "id": 175184,
+      "name": "Zelenogorsk"
+    },
+    {
+      "id": 175185,
+      "name": "Zelënyy Bor"
+    },
+    {
+      "id": 175186,
+      "name": "Zheleznogorsk"
+    },
+    {
+      "id": 175187,
+      "name": "Zykovo"
+    }
+  ]
+}

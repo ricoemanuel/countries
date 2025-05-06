@@ -1,0 +1,467 @@
+{
+  "id": 4230,
+  "name": "Punjab",
+  "state_code": "PB",
+  "cities": [
+    {
+      "id": 119588,
+      "name": "Abohar"
+    },
+    {
+      "id": 119589,
+      "name": "Adampur"
+    },
+    {
+      "id": 119590,
+      "name": "Ajitgarh"
+    },
+    {
+      "id": 119591,
+      "name": "Ajnala"
+    },
+    {
+      "id": 119592,
+      "name": "Akalgarh"
+    },
+    {
+      "id": 119593,
+      "name": "Alawalpur"
+    },
+    {
+      "id": 119594,
+      "name": "Amloh"
+    },
+    {
+      "id": 119595,
+      "name": "Amritsar"
+    },
+    {
+      "id": 119596,
+      "name": "Anandpur Sahib"
+    },
+    {
+      "id": 119597,
+      "name": "Badhni Kalan"
+    },
+    {
+      "id": 119598,
+      "name": "Bagha Purana"
+    },
+    {
+      "id": 119599,
+      "name": "Bakloh"
+    },
+    {
+      "id": 119600,
+      "name": "Balachor"
+    },
+    {
+      "id": 119601,
+      "name": "Banga"
+    },
+    {
+      "id": 119602,
+      "name": "Banur"
+    },
+    {
+      "id": 119603,
+      "name": "Barnala"
+    },
+    {
+      "id": 119604,
+      "name": "Batala"
+    },
+    {
+      "id": 119605,
+      "name": "Begowal"
+    },
+    {
+      "id": 119606,
+      "name": "Bhadaur"
+    },
+    {
+      "id": 119607,
+      "name": "Bhatinda"
+    },
+    {
+      "id": 119608,
+      "name": "Bhawanigarh"
+    },
+    {
+      "id": 119609,
+      "name": "Bhikhi"
+    },
+    {
+      "id": 119610,
+      "name": "Bhogpur"
+    },
+    {
+      "id": 119611,
+      "name": "Bholath"
+    },
+    {
+      "id": 119612,
+      "name": "Budhlada"
+    },
+    {
+      "id": 119613,
+      "name": "Chima"
+    },
+    {
+      "id": 119614,
+      "name": "Dasuya"
+    },
+    {
+      "id": 119615,
+      "name": "Dera Baba Nanak"
+    },
+    {
+      "id": 119616,
+      "name": "Dera Bassi"
+    },
+    {
+      "id": 119617,
+      "name": "Dhanaula"
+    },
+    {
+      "id": 119618,
+      "name": "Dhariwal"
+    },
+    {
+      "id": 119619,
+      "name": "Dhilwan"
+    },
+    {
+      "id": 119620,
+      "name": "Dhudi"
+    },
+    {
+      "id": 119621,
+      "name": "Dhuri"
+    },
+    {
+      "id": 119622,
+      "name": "Dina Nagar"
+    },
+    {
+      "id": 119623,
+      "name": "Dirba"
+    },
+    {
+      "id": 119624,
+      "name": "Doraha"
+    },
+    {
+      "id": 119625,
+      "name": "Faridkot"
+    },
+    {
+      "id": 119626,
+      "name": "Fatehgarh Churian"
+    },
+    {
+      "id": 119627,
+      "name": "Fatehgarh Sahib"
+    },
+    {
+      "id": 119628,
+      "name": "Fazilka"
+    },
+    {
+      "id": 119629,
+      "name": "Firozpur"
+    },
+    {
+      "id": 119630,
+      "name": "Firozpur District"
+    },
+    {
+      "id": 119631,
+      "name": "Gardhiwala"
+    },
+    {
+      "id": 119632,
+      "name": "Garhshankar"
+    },
+    {
+      "id": 119633,
+      "name": "Ghanaur"
+    },
+    {
+      "id": 119634,
+      "name": "Giddarbaha"
+    },
+    {
+      "id": 119635,
+      "name": "Gurdaspur"
+    },
+    {
+      "id": 119636,
+      "name": "Guru Har Sahai"
+    },
+    {
+      "id": 119637,
+      "name": "Hajipur"
+    },
+    {
+      "id": 119638,
+      "name": "Hariana"
+    },
+    {
+      "id": 119639,
+      "name": "Hoshiarpur"
+    },
+    {
+      "id": 119640,
+      "name": "Ishanpur"
+    },
+    {
+      "id": 119641,
+      "name": "Jagraon"
+    },
+    {
+      "id": 119642,
+      "name": "Jaito"
+    },
+    {
+      "id": 119643,
+      "name": "Jalalabad"
+    },
+    {
+      "id": 119644,
+      "name": "Jalandhar"
+    },
+    {
+      "id": 119645,
+      "name": "Jandiala"
+    },
+    {
+      "id": 119646,
+      "name": "Jandiala Guru"
+    },
+    {
+      "id": 119647,
+      "name": "Kalanaur"
+    },
+    {
+      "id": 119648,
+      "name": "Kapurthala"
+    },
+    {
+      "id": 119649,
+      "name": "Kartarpur"
+    },
+    {
+      "id": 119650,
+      "name": "Khamanon"
+    },
+    {
+      "id": 119651,
+      "name": "Khanna"
+    },
+    {
+      "id": 119652,
+      "name": "Kharar"
+    },
+    {
+      "id": 119653,
+      "name": "Khemkaran"
+    },
+    {
+      "id": 119654,
+      "name": "Kot Isa Khan"
+    },
+    {
+      "id": 119655,
+      "name": "Kotkapura"
+    },
+    {
+      "id": 119656,
+      "name": "Laungowal"
+    },
+    {
+      "id": 119657,
+      "name": "Ludhiana"
+    },
+    {
+      "id": 119658,
+      "name": "Machhiwara"
+    },
+    {
+      "id": 119659,
+      "name": "Majitha"
+    },
+    {
+      "id": 119660,
+      "name": "Makhu"
+    },
+    {
+      "id": 119661,
+      "name": "Malaut"
+    },
+    {
+      "id": 119662,
+      "name": "Malerkotla"
+    },
+    {
+      "id": 119663,
+      "name": "Mansa"
+    },
+    {
+      "id": 119664,
+      "name": "Maur Mandi"
+    },
+    {
+      "id": 119665,
+      "name": "Moga"
+    },
+    {
+      "id": 119666,
+      "name": "Mohali"
+    },
+    {
+      "id": 119667,
+      "name": "Morinda"
+    },
+    {
+      "id": 119668,
+      "name": "Mukerian"
+    },
+    {
+      "id": 119669,
+      "name": "Nabha"
+    },
+    {
+      "id": 119670,
+      "name": "Nakodar"
+    },
+    {
+      "id": 119671,
+      "name": "Nangal"
+    },
+    {
+      "id": 119672,
+      "name": "Nawanshahr"
+    },
+    {
+      "id": 119673,
+      "name": "Nurmahal"
+    },
+    {
+      "id": 119674,
+      "name": "Nurpur Kalan"
+    },
+    {
+      "id": 119675,
+      "name": "Pathankot"
+    },
+    {
+      "id": 119676,
+      "name": "Patiala"
+    },
+    {
+      "id": 119677,
+      "name": "Patti"
+    },
+    {
+      "id": 119678,
+      "name": "Phagwara"
+    },
+    {
+      "id": 119679,
+      "name": "Phillaur"
+    },
+    {
+      "id": 119680,
+      "name": "Qadian"
+    },
+    {
+      "id": 119681,
+      "name": "Rahon"
+    },
+    {
+      "id": 119682,
+      "name": "Raikot"
+    },
+    {
+      "id": 119683,
+      "name": "Rajasansi"
+    },
+    {
+      "id": 119684,
+      "name": "Rajpura"
+    },
+    {
+      "id": 119685,
+      "name": "Ram Das"
+    },
+    {
+      "id": 119686,
+      "name": "Rampura"
+    },
+    {
+      "id": 119687,
+      "name": "Rupnagar"
+    },
+    {
+      "id": 119688,
+      "name": "Samrala"
+    },
+    {
+      "id": 119689,
+      "name": "Sanaur"
+    },
+    {
+      "id": 119690,
+      "name": "Sangrur"
+    },
+    {
+      "id": 119691,
+      "name": "Sardulgarh"
+    },
+    {
+      "id": 119692,
+      "name": "Shahid Bhagat Singh Nagar"
+    },
+    {
+      "id": 119693,
+      "name": "Shahkot"
+    },
+    {
+      "id": 119694,
+      "name": "Sham Churasi"
+    },
+    {
+      "id": 119695,
+      "name": "Sirhind-Fategarh"
+    },
+    {
+      "id": 119696,
+      "name": "Sri Muktsar Sahib"
+    },
+    {
+      "id": 119697,
+      "name": "Sultanpur Lodhi"
+    },
+    {
+      "id": 119698,
+      "name": "Sunam"
+    },
+    {
+      "id": 119699,
+      "name": "Talwandi Bhai"
+    },
+    {
+      "id": 119700,
+      "name": "Talwara"
+    },
+    {
+      "id": 119701,
+      "name": "Tarn Taran Sahib"
+    },
+    {
+      "id": 119702,
+      "name": "Zira"
+    }
+  ]
+}

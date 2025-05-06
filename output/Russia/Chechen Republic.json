@@ -1,0 +1,347 @@
+{
+  "id": 6003,
+  "name": "Chechen Republic",
+  "state_code": "CE",
+  "cities": [
+    {
+      "id": 173962,
+      "name": "Achkhoy-Martan"
+    },
+    {
+      "id": 173963,
+      "name": "Achkhoy-Martanovskiy Rayon"
+    },
+    {
+      "id": 173964,
+      "name": "Alkhan-Kala"
+    },
+    {
+      "id": 173965,
+      "name": "Alkhan-Yurt"
+    },
+    {
+      "id": 173966,
+      "name": "Alkhazurovo"
+    },
+    {
+      "id": 173967,
+      "name": "Alleroy"
+    },
+    {
+      "id": 173968,
+      "name": "Alpatovo"
+    },
+    {
+      "id": 173969,
+      "name": "Argun"
+    },
+    {
+      "id": 173970,
+      "name": "Assinovskaya"
+    },
+    {
+      "id": 173971,
+      "name": "Avtury"
+    },
+    {
+      "id": 173972,
+      "name": "Bachi-Yurt"
+    },
+    {
+      "id": 173973,
+      "name": "Bamut"
+    },
+    {
+      "id": 173974,
+      "name": "Belgatoy"
+    },
+    {
+      "id": 173975,
+      "name": "Benoy-Yurt"
+    },
+    {
+      "id": 173976,
+      "name": "Borzoy"
+    },
+    {
+      "id": 173977,
+      "name": "Chechen-Aul"
+    },
+    {
+      "id": 173978,
+      "name": "Chiri-Yurt"
+    },
+    {
+      "id": 173979,
+      "name": "Duba-Yurt"
+    },
+    {
+      "id": 173980,
+      "name": "Dyshne-Vedeno"
+    },
+    {
+      "id": 173981,
+      "name": "Dzhalka"
+    },
+    {
+      "id": 173982,
+      "name": "Elin-Yurt"
+    },
+    {
+      "id": 173983,
+      "name": "Engel’-Yurt"
+    },
+    {
+      "id": 173984,
+      "name": "Gekhi"
+    },
+    {
+      "id": 173985,
+      "name": "Germenchuk"
+    },
+    {
+      "id": 173986,
+      "name": "Gerzel’-Aul"
+    },
+    {
+      "id": 173987,
+      "name": "Goragorskiy"
+    },
+    {
+      "id": 173988,
+      "name": "Goyty"
+    },
+    {
+      "id": 173989,
+      "name": "Grebenskaya"
+    },
+    {
+      "id": 173990,
+      "name": "Groznenskiy Rayon"
+    },
+    {
+      "id": 173991,
+      "name": "Groznyy"
+    },
+    {
+      "id": 173992,
+      "name": "Gudermes"
+    },
+    {
+      "id": 173993,
+      "name": "Gudermesskiy Rayon"
+    },
+    {
+      "id": 173994,
+      "name": "Ilaskhan-Yurt"
+    },
+    {
+      "id": 173995,
+      "name": "Ishcherskaya"
+    },
+    {
+      "id": 173996,
+      "name": "Ishkhoy-Yurt"
+    },
+    {
+      "id": 173997,
+      "name": "Itum-Kali"
+    },
+    {
+      "id": 173998,
+      "name": "Itum-Kalinskiy Rayon"
+    },
+    {
+      "id": 173999,
+      "name": "Kalinovskaya"
+    },
+    {
+      "id": 174000,
+      "name": "Kargalinskaya"
+    },
+    {
+      "id": 174001,
+      "name": "Katyr-Yurt"
+    },
+    {
+      "id": 174002,
+      "name": "Khambi-Irze"
+    },
+    {
+      "id": 174003,
+      "name": "Khankala"
+    },
+    {
+      "id": 174004,
+      "name": "Kulary"
+    },
+    {
+      "id": 174005,
+      "name": "Kurchaloy"
+    },
+    {
+      "id": 174006,
+      "name": "Lakha Nëvre"
+    },
+    {
+      "id": 174007,
+      "name": "Lakkha Nëvre"
+    },
+    {
+      "id": 174008,
+      "name": "Martan-Chu"
+    },
+    {
+      "id": 174009,
+      "name": "Mayrtup"
+    },
+    {
+      "id": 174010,
+      "name": "Mesker-Yurt"
+    },
+    {
+      "id": 174011,
+      "name": "Nadterechnyy Rayon"
+    },
+    {
+      "id": 174012,
+      "name": "Naurskaya"
+    },
+    {
+      "id": 174013,
+      "name": "Naurskiy Rayon"
+    },
+    {
+      "id": 174014,
+      "name": "Nogamerzin-Yurt"
+    },
+    {
+      "id": 174015,
+      "name": "Novyye Atagi"
+    },
+    {
+      "id": 174016,
+      "name": "Nozhay-Yurt"
+    },
+    {
+      "id": 174017,
+      "name": "Nozhay-Yurtovskiy Rayon"
+    },
+    {
+      "id": 174018,
+      "name": "Oyskhara"
+    },
+    {
+      "id": 174019,
+      "name": "Pervomayskaya"
+    },
+    {
+      "id": 174020,
+      "name": "Petropavlovskaya"
+    },
+    {
+      "id": 174021,
+      "name": "Prigorodnoye"
+    },
+    {
+      "id": 174022,
+      "name": "Roshni-Chu"
+    },
+    {
+      "id": 174023,
+      "name": "Samashki"
+    },
+    {
+      "id": 174024,
+      "name": "Sernovodsk"
+    },
+    {
+      "id": 174025,
+      "name": "Serzhen’-Yurt"
+    },
+    {
+      "id": 174026,
+      "name": "Shaami-Yurt"
+    },
+    {
+      "id": 174027,
+      "name": "Shalazhi"
+    },
+    {
+      "id": 174028,
+      "name": "Shali"
+    },
+    {
+      "id": 174029,
+      "name": "Shalinskiy Rayon"
+    },
+    {
+      "id": 174030,
+      "name": "Shatoy"
+    },
+    {
+      "id": 174031,
+      "name": "Shëlkovskaya"
+    },
+    {
+      "id": 174032,
+      "name": "Shelkovskiy Rayon"
+    },
+    {
+      "id": 174033,
+      "name": "Staraya Sunzha"
+    },
+    {
+      "id": 174034,
+      "name": "Staryye Atagi"
+    },
+    {
+      "id": 174035,
+      "name": "Tolstoy-Yurt"
+    },
+    {
+      "id": 174036,
+      "name": "Tsentoroy"
+    },
+    {
+      "id": 174037,
+      "name": "Tsotsin-Yurt"
+    },
+    {
+      "id": 174038,
+      "name": "Urus-Martan"
+    },
+    {
+      "id": 174039,
+      "name": "Urus-Martanovskiy Rayon"
+    },
+    {
+      "id": 174040,
+      "name": "Valerik"
+    },
+    {
+      "id": 174041,
+      "name": "Vedeno"
+    },
+    {
+      "id": 174042,
+      "name": "Vedenskiy Rayon"
+    },
+    {
+      "id": 174043,
+      "name": "Yalkhoy-Mokhk"
+    },
+    {
+      "id": 174044,
+      "name": "Zakan-Yurt"
+    },
+    {
+      "id": 174045,
+      "name": "Zandak"
+    },
+    {
+      "id": 174046,
+      "name": "Znamenskoye"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "id": 4249,
+  "name": "Jawa Timur",
+  "state_code": "JI",
+  "cities": [
+    {
+      "id": 121583,
+      "name": "Babat"
+    },
+    {
+      "id": 121584,
+      "name": "Balung"
+    },
+    {
+      "id": 121585,
+      "name": "Bangil"
+    },
+    {
+      "id": 121586,
+      "name": "Bangkalan"
+    },
+    {
+      "id": 121587,
+      "name": "Banyuwangi"
+    },
+    {
+      "id": 121588,
+      "name": "Batu"
+    },
+    {
+      "id": 121589,
+      "name": "Besuki"
+    },
+    {
+      "id": 121590,
+      "name": "Blitar"
+    },
+    {
+      "id": 121591,
+      "name": "Bojonegoro"
+    },
+    {
+      "id": 121592,
+      "name": "Bondowoso"
+    },
+    {
+      "id": 121593,
+      "name": "Boyolangu"
+    },
+    {
+      "id": 121594,
+      "name": "Buduran"
+    },
+    {
+      "id": 121595,
+      "name": "Dampit"
+    },
+    {
+      "id": 121596,
+      "name": "Diwek"
+    },
+    {
+      "id": 121597,
+      "name": "Driyorejo"
+    },
+    {
+      "id": 121598,
+      "name": "Gambiran Satu"
+    },
+    {
+      "id": 121599,
+      "name": "Gampengrejo"
+    },
+    {
+      "id": 121600,
+      "name": "Gedangan"
+    },
+    {
+      "id": 121601,
+      "name": "Genteng"
+    },
+    {
+      "id": 121602,
+      "name": "Gongdanglegi Kulon"
+    },
+    {
+      "id": 121603,
+      "name": "Gresik"
+    },
+    {
+      "id": 121604,
+      "name": "Gresik Regency"
+    },
+    {
+      "id": 121605,
+      "name": "Jember"
+    },
+    {
+      "id": 121606,
+      "name": "Jombang"
+    },
+    {
+      "id": 121607,
+      "name": "Kabupaten Bangkalan"
+    },
+    {
+      "id": 121608,
+      "name": "Kabupaten Banyuwangi"
+    },
+    {
+      "id": 121609,
+      "name": "Kabupaten Blitar"
+    },
+    {
+      "id": 121610,
+      "name": "Kabupaten Bojonegoro"
+    },
+    {
+      "id": 121611,
+      "name": "Kabupaten Bondowoso"
+    },
+    {
+      "id": 121612,
+      "name": "Kabupaten Jember"
+    },
+    {
+      "id": 121613,
+      "name": "Kabupaten Jombang"
+    },
+    {
+      "id": 121614,
+      "name": "Kabupaten Kediri"
+    },
+    {
+      "id": 121615,
+      "name": "Kabupaten Lamongan"
+    },
+    {
+      "id": 121616,
+      "name": "Kabupaten Lumajang"
+    },
+    {
+      "id": 121617,
+      "name": "Kabupaten Madiun"
+    },
+    {
+      "id": 121618,
+      "name": "Kabupaten Magetan"
+    },
+    {
+      "id": 121619,
+      "name": "Kabupaten Malang"
+    },
+    {
+      "id": 121620,
+      "name": "Kabupaten Mojokerto"
+    },
+    {
+      "id": 121621,
+      "name": "Kabupaten Nganjuk"
+    },
+    {
+      "id": 121622,
+      "name": "Kabupaten Ngawi"
+    },
+    {
+      "id": 121623,
+      "name": "Kabupaten Pacitan"
+    },
+    {
+      "id": 121624,
+      "name": "Kabupaten Pamekasan"
+    },
+    {
+      "id": 121625,
+      "name": "Kabupaten Pasuruan"
+    },
+    {
+      "id": 121626,
+      "name": "Kabupaten Ponorogo"
+    },
+    {
+      "id": 121627,
+      "name": "Kabupaten Probolinggo"
+    },
+    {
+      "id": 121628,
+      "name": "Kabupaten Sampang"
+    },
+    {
+      "id": 121629,
+      "name": "Kabupaten Sidoarjo"
+    },
+    {
+      "id": 121630,
+      "name": "Kabupaten Situbondo"
+    },
+    {
+      "id": 121631,
+      "name": "Kabupaten Sumenep"
+    },
+    {
+      "id": 121632,
+      "name": "Kabupaten Trenggalek"
+    },
+    {
+      "id": 121633,
+      "name": "Kabupaten Tuban"
+    },
+    {
+      "id": 121634,
+      "name": "Kabupaten Tulungagung"
+    },
+    {
+      "id": 121635,
+      "name": "Kalianget"
+    },
+    {
+      "id": 121636,
+      "name": "Kamal"
+    },
+    {
+      "id": 121637,
+      "name": "Kebomas"
+    },
+    {
+      "id": 121638,
+      "name": "Kediri"
+    },
+    {
+      "id": 121639,
+      "name": "Kedungwaru"
+    },
+    {
+      "id": 121640,
+      "name": "Kencong"
+    },
+    {
+      "id": 121641,
+      "name": "Kepanjen"
+    },
+    {
+      "id": 121642,
+      "name": "Kertosono"
+    },
+    {
+      "id": 121643,
+      "name": "Kraksaan"
+    },
+    {
+      "id": 121644,
+      "name": "Krian"
+    },
+    {
+      "id": 121645,
+      "name": "Lamongan"
+    },
+    {
+      "id": 121646,
+      "name": "Lawang"
+    },
+    {
+      "id": 121647,
+      "name": "Lumajang"
+    },
+    {
+      "id": 121648,
+      "name": "Madiun"
+    },
+    {
+      "id": 121649,
+      "name": "Malang"
+    },
+    {
+      "id": 121650,
+      "name": "Mojoagung"
+    },
+    {
+      "id": 121651,
+      "name": "Mojokerto"
+    },
+    {
+      "id": 121652,
+      "name": "Muncar"
+    },
+    {
+      "id": 121653,
+      "name": "Nganjuk"
+    },
+    {
+      "id": 121654,
+      "name": "Ngoro"
+    },
+    {
+      "id": 121655,
+      "name": "Ngunut"
+    },
+    {
+      "id": 121656,
+      "name": "Paciran"
+    },
+    {
+      "id": 121657,
+      "name": "Pakisaji"
+    },
+    {
+      "id": 121658,
+      "name": "Pamekasan"
+    },
+    {
+      "id": 121659,
+      "name": "Panarukan"
+    },
+    {
+      "id": 121660,
+      "name": "Pandaan"
+    },
+    {
+      "id": 121661,
+      "name": "Panji"
+    },
+    {
+      "id": 121662,
+      "name": "Pare"
+    },
+    {
+      "id": 121663,
+      "name": "Pasuruan"
+    },
+    {
+      "id": 121664,
+      "name": "Ponorogo"
+    },
+    {
+      "id": 121665,
+      "name": "Prigen"
+    },
+    {
+      "id": 121666,
+      "name": "Probolinggo"
+    },
+    {
+      "id": 121667,
+      "name": "Sampang"
+    },
+    {
+      "id": 121668,
+      "name": "Sidoarjo"
+    },
+    {
+      "id": 121669,
+      "name": "Singojuruh"
+    },
+    {
+      "id": 121670,
+      "name": "Singosari"
+    },
+    {
+      "id": 121671,
+      "name": "Situbondo"
+    },
+    {
+      "id": 121672,
+      "name": "Soko"
+    },
+    {
+      "id": 121673,
+      "name": "Srono"
+    },
+    {
+      "id": 121674,
+      "name": "Sumberpucung"
+    },
+    {
+      "id": 121675,
+      "name": "Sumenep"
+    },
+    {
+      "id": 121676,
+      "name": "Surabaya"
+    },
+    {
+      "id": 121677,
+      "name": "Tanggul"
+    },
+    {
+      "id": 121678,
+      "name": "Tanggulangin"
+    },
+    {
+      "id": 121679,
+      "name": "Trenggalek"
+    },
+    {
+      "id": 121680,
+      "name": "Tuban"
+    },
+    {
+      "id": 121681,
+      "name": "Tulangan Utara"
+    },
+    {
+      "id": 121682,
+      "name": "Tulungagung"
+    },
+    {
+      "id": 121683,
+      "name": "Wongsorejo"
+    }
+  ]
+}

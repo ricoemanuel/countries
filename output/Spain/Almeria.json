@@ -1,0 +1,415 @@
+{
+  "id": 6509,
+  "name": "Almeria",
+  "state_code": "AL",
+  "cities": [
+    {
+      "id": 181881,
+      "name": "Abla"
+    },
+    {
+      "id": 181882,
+      "name": "Abrucena"
+    },
+    {
+      "id": 181883,
+      "name": "Adra"
+    },
+    {
+      "id": 181884,
+      "name": "Albánchez"
+    },
+    {
+      "id": 181885,
+      "name": "Alboloduy"
+    },
+    {
+      "id": 181886,
+      "name": "Albox"
+    },
+    {
+      "id": 181887,
+      "name": "Alcolea"
+    },
+    {
+      "id": 181888,
+      "name": "Alcóntar"
+    },
+    {
+      "id": 181889,
+      "name": "Alcudia de Monteagud"
+    },
+    {
+      "id": 181890,
+      "name": "Alhabia"
+    },
+    {
+      "id": 181891,
+      "name": "Alhama de Almería"
+    },
+    {
+      "id": 181892,
+      "name": "Alicún"
+    },
+    {
+      "id": 181893,
+      "name": "Almería"
+    },
+    {
+      "id": 181894,
+      "name": "Almócita"
+    },
+    {
+      "id": 181895,
+      "name": "Alsodux"
+    },
+    {
+      "id": 181896,
+      "name": "Antas"
+    },
+    {
+      "id": 181897,
+      "name": "Arboleas"
+    },
+    {
+      "id": 181898,
+      "name": "Armuña de Almanzora"
+    },
+    {
+      "id": 181899,
+      "name": "Bacares"
+    },
+    {
+      "id": 181900,
+      "name": "Bayárcal"
+    },
+    {
+      "id": 181901,
+      "name": "Bayarque"
+    },
+    {
+      "id": 181902,
+      "name": "Bédar"
+    },
+    {
+      "id": 181903,
+      "name": "Beires"
+    },
+    {
+      "id": 181904,
+      "name": "Benahadux"
+    },
+    {
+      "id": 181905,
+      "name": "Benitagla"
+    },
+    {
+      "id": 181906,
+      "name": "Benizalón"
+    },
+    {
+      "id": 181907,
+      "name": "Bentarique"
+    },
+    {
+      "id": 181908,
+      "name": "Berja"
+    },
+    {
+      "id": 181909,
+      "name": "Canjáyar"
+    },
+    {
+      "id": 181910,
+      "name": "Cantoria"
+    },
+    {
+      "id": 181911,
+      "name": "Carboneras"
+    },
+    {
+      "id": 181912,
+      "name": "Castro de Filabres"
+    },
+    {
+      "id": 181913,
+      "name": "Chercos"
+    },
+    {
+      "id": 181914,
+      "name": "Chirivel"
+    },
+    {
+      "id": 181915,
+      "name": "Cóbdar"
+    },
+    {
+      "id": 181916,
+      "name": "Cuevas del Almanzora"
+    },
+    {
+      "id": 181917,
+      "name": "Dalías"
+    },
+    {
+      "id": 181918,
+      "name": "Ejido El"
+    },
+    {
+      "id": 181919,
+      "name": "Enix"
+    },
+    {
+      "id": 181920,
+      "name": "Felix"
+    },
+    {
+      "id": 181921,
+      "name": "Fiñana"
+    },
+    {
+      "id": 181922,
+      "name": "Fines"
+    },
+    {
+      "id": 181923,
+      "name": "Fondón"
+    },
+    {
+      "id": 181924,
+      "name": "Gádor"
+    },
+    {
+      "id": 181925,
+      "name": "Gallardos Los"
+    },
+    {
+      "id": 181926,
+      "name": "Garrucha"
+    },
+    {
+      "id": 181927,
+      "name": "Gérgal"
+    },
+    {
+      "id": 181928,
+      "name": "Huécija"
+    },
+    {
+      "id": 181929,
+      "name": "Huércal de Almería"
+    },
+    {
+      "id": 181930,
+      "name": "Huércal-Overa"
+    },
+    {
+      "id": 181931,
+      "name": "Illar"
+    },
+    {
+      "id": 181932,
+      "name": "Instinción"
+    },
+    {
+      "id": 181933,
+      "name": "Laroya"
+    },
+    {
+      "id": 181934,
+      "name": "Laujar de Andarax"
+    },
+    {
+      "id": 181935,
+      "name": "Líjar"
+    },
+    {
+      "id": 181936,
+      "name": "Lubrín"
+    },
+    {
+      "id": 181937,
+      "name": "Lucainena de las Torres"
+    },
+    {
+      "id": 181938,
+      "name": "Lúcar"
+    },
+    {
+      "id": 181939,
+      "name": "Macael"
+    },
+    {
+      "id": 181940,
+      "name": "María"
+    },
+    {
+      "id": 181941,
+      "name": "Mojacar"
+    },
+    {
+      "id": 181942,
+      "name": "Mojonera La"
+    },
+    {
+      "id": 181943,
+      "name": "Nacimiento"
+    },
+    {
+      "id": 181944,
+      "name": "Níjar"
+    },
+    {
+      "id": 181945,
+      "name": "Ohanes"
+    },
+    {
+      "id": 181946,
+      "name": "Olula de Castro"
+    },
+    {
+      "id": 181947,
+      "name": "Olula del Río"
+    },
+    {
+      "id": 181948,
+      "name": "Oria"
+    },
+    {
+      "id": 181949,
+      "name": "Padules"
+    },
+    {
+      "id": 181950,
+      "name": "Partaloa"
+    },
+    {
+      "id": 181951,
+      "name": "Paterna del Río"
+    },
+    {
+      "id": 181952,
+      "name": "Pechina"
+    },
+    {
+      "id": 181953,
+      "name": "Pulpí"
+    },
+    {
+      "id": 181954,
+      "name": "Purchena"
+    },
+    {
+      "id": 181955,
+      "name": "Rágol"
+    },
+    {
+      "id": 181956,
+      "name": "Rioja"
+    },
+    {
+      "id": 181957,
+      "name": "Roquetas de Mar"
+    },
+    {
+      "id": 181958,
+      "name": "Santa Cruz de Marchena"
+    },
+    {
+      "id": 181959,
+      "name": "Santa Fe de Mondújar"
+    },
+    {
+      "id": 181960,
+      "name": "Senés"
+    },
+    {
+      "id": 181961,
+      "name": "Serón"
+    },
+    {
+      "id": 181962,
+      "name": "Sierro"
+    },
+    {
+      "id": 181963,
+      "name": "Somontín"
+    },
+    {
+      "id": 181964,
+      "name": "Sorbas"
+    },
+    {
+      "id": 181965,
+      "name": "Suflí"
+    },
+    {
+      "id": 181966,
+      "name": "Tabernas"
+    },
+    {
+      "id": 181967,
+      "name": "Taberno"
+    },
+    {
+      "id": 181968,
+      "name": "Tahal"
+    },
+    {
+      "id": 181969,
+      "name": "Terque"
+    },
+    {
+      "id": 181970,
+      "name": "Tíjola"
+    },
+    {
+      "id": 181971,
+      "name": "Tres Villas Las"
+    },
+    {
+      "id": 181972,
+      "name": "Turre"
+    },
+    {
+      "id": 181973,
+      "name": "Turrillas"
+    },
+    {
+      "id": 181974,
+      "name": "Uleila del Campo"
+    },
+    {
+      "id": 181975,
+      "name": "Urrácal"
+    },
+    {
+      "id": 181976,
+      "name": "Velefique"
+    },
+    {
+      "id": 181977,
+      "name": "Vélez-Blanco"
+    },
+    {
+      "id": 181978,
+      "name": "Vélez-Rubio"
+    },
+    {
+      "id": 181979,
+      "name": "Vera"
+    },
+    {
+      "id": 181980,
+      "name": "Viator"
+    },
+    {
+      "id": 181981,
+      "name": "Vícar"
+    },
+    {
+      "id": 181982,
+      "name": "Zurgena"
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "id": 6539,
+  "name": "Madrid",
+  "state_code": "M",
+  "cities": [
+    {
+      "id": 186299,
+      "name": "Acebeda La"
+    },
+    {
+      "id": 186300,
+      "name": "Ajalvir"
+    },
+    {
+      "id": 186301,
+      "name": "Alameda del Valle"
+    },
+    {
+      "id": 186302,
+      "name": "Álamo El"
+    },
+    {
+      "id": 186303,
+      "name": "Alcalá de Henares"
+    },
+    {
+      "id": 186304,
+      "name": "Alcobendas"
+    },
+    {
+      "id": 186305,
+      "name": "Alcorcón"
+    },
+    {
+      "id": 186306,
+      "name": "Aldea del Fresno"
+    },
+    {
+      "id": 186307,
+      "name": "Algete"
+    },
+    {
+      "id": 186308,
+      "name": "Alpedrete"
+    },
+    {
+      "id": 186309,
+      "name": "Ambite"
+    },
+    {
+      "id": 186310,
+      "name": "Anchuelo"
+    },
+    {
+      "id": 186311,
+      "name": "Aranjuez"
+    },
+    {
+      "id": 186312,
+      "name": "Arganda"
+    },
+    {
+      "id": 186313,
+      "name": "Arganda del Rey"
+    },
+    {
+      "id": 186314,
+      "name": "Arganzuela"
+    },
+    {
+      "id": 186315,
+      "name": "Arroyomolinos"
+    },
+    {
+      "id": 186316,
+      "name": "Atazar El"
+    },
+    {
+      "id": 186317,
+      "name": "Barajas de Madrid"
+    },
+    {
+      "id": 186318,
+      "name": "Batres"
+    },
+    {
+      "id": 186319,
+      "name": "Becerril de la Sierra"
+    },
+    {
+      "id": 186320,
+      "name": "Belmonte de Tajo"
+    },
+    {
+      "id": 186321,
+      "name": "Berrueco El"
+    },
+    {
+      "id": 186322,
+      "name": "Berzosa del Lozoya"
+    },
+    {
+      "id": 186323,
+      "name": "Boadilla del Monte"
+    },
+    {
+      "id": 186324,
+      "name": "Boalo"
+    },
+    {
+      "id": 186325,
+      "name": "Boalo El"
+    },
+    {
+      "id": 186326,
+      "name": "Braojos"
+    },
+    {
+      "id": 186327,
+      "name": "Brea de Tajo"
+    },
+    {
+      "id": 186328,
+      "name": "Brunete"
+    },
+    {
+      "id": 186329,
+      "name": "Buitrago del Lozoya"
+    },
+    {
+      "id": 186330,
+      "name": "Bustarviejo"
+    },
+    {
+      "id": 186331,
+      "name": "Cabanillas de la Sierra"
+    },
+    {
+      "id": 186332,
+      "name": "Cabrera La"
+    },
+    {
+      "id": 186333,
+      "name": "Cadalso de los Vidrios"
+    },
+    {
+      "id": 186334,
+      "name": "Camarma de Esteruelas"
+    },
+    {
+      "id": 186335,
+      "name": "Campo Real"
+    },
+    {
+      "id": 186336,
+      "name": "Canencia"
+    },
+    {
+      "id": 186337,
+      "name": "Carabaña"
+    },
+    {
+      "id": 186338,
+      "name": "Carabanchel"
+    },
+    {
+      "id": 186339,
+      "name": "Casarrubuelos"
+    },
+    {
+      "id": 186340,
+      "name": "Cenicientos"
+    },
+    {
+      "id": 186341,
+      "name": "Cercedilla"
+    },
+    {
+      "id": 186342,
+      "name": "Cervera de Buitrago"
+    },
+    {
+      "id": 186343,
+      "name": "Chamberí"
+    },
+    {
+      "id": 186344,
+      "name": "Chapinería"
+    },
+    {
+      "id": 186345,
+      "name": "Chinchón"
+    },
+    {
+      "id": 186346,
+      "name": "Ciempozuelos"
+    },
+    {
+      "id": 186347,
+      "name": "City Center"
+    },
+    {
+      "id": 186348,
+      "name": "Ciudad Lineal"
+    },
+    {
+      "id": 186349,
+      "name": "Cobeña"
+    },
+    {
+      "id": 186350,
+      "name": "Collado Mediano"
+    },
+    {
+      "id": 186351,
+      "name": "Collado Villalba"
+    },
+    {
+      "id": 186352,
+      "name": "Collado-Villalba"
+    },
+    {
+      "id": 186353,
+      "name": "Colmenar de Oreja"
+    },
+    {
+      "id": 186354,
+      "name": "Colmenar del Arroyo"
+    },
+    {
+      "id": 186355,
+      "name": "Colmenar Viejo"
+    },
+    {
+      "id": 186356,
+      "name": "Colmenarejo"
+    },
+    {
+      "id": 186357,
+      "name": "Corpa"
+    },
+    {
+      "id": 186358,
+      "name": "Coslada"
+    },
+    {
+      "id": 186359,
+      "name": "Cubas"
+    },
+    {
+      "id": 186360,
+      "name": "Cubas de la Sagra"
+    },
+    {
+      "id": 186361,
+      "name": "Daganzo de Arriba"
+    },
+    {
+      "id": 186362,
+      "name": "El Álamo"
+    },
+    {
+      "id": 186363,
+      "name": "El Escorial"
+    },
+    {
+      "id": 186364,
+      "name": "El Molar"
+    },
+    {
+      "id": 186365,
+      "name": "El Pardo"
+    },
+    {
+      "id": 186366,
+      "name": "El Vellón"
+    },
+    {
+      "id": 186367,
+      "name": "Escorial El"
+    },
+    {
+      "id": 186368,
+      "name": "Estremera"
+    },
+    {
+      "id": 186369,
+      "name": "Fresnedillas"
+    },
+    {
+      "id": 186370,
+      "name": "Fresnedillas de la Oliva"
+    },
+    {
+      "id": 186371,
+      "name": "Fresno de Torote"
+    },
+    {
+      "id": 186372,
+      "name": "Fuencarral-El Pardo"
+    },
+    {
+      "id": 186373,
+      "name": "Fuenlabrada"
+    },
+    {
+      "id": 186374,
+      "name": "Fuente el Saz"
+    },
+    {
+      "id": 186375,
+      "name": "Fuente el Saz de Jarama"
+    },
+    {
+      "id": 186376,
+      "name": "Fuentidueña de Tajo"
+    },
+    {
+      "id": 186377,
+      "name": "Galapagar"
+    },
+    {
+      "id": 186378,
+      "name": "Garganta de los Montes"
+    },
+    {
+      "id": 186379,
+      "name": "Gargantilla del Lozoya y Pinilla de Buitrago"
+    },
+    {
+      "id": 186380,
+      "name": "Gascones"
+    },
+    {
+      "id": 186381,
+      "name": "Getafe"
+    },
+    {
+      "id": 186382,
+      "name": "Griñón"
+    },
+    {
+      "id": 186383,
+      "name": "Guadalix de la Sierra"
+    },
+    {
+      "id": 186384,
+      "name": "Guadarrama"
+    },
+    {
+      "id": 186385,
+      "name": "Hiruela La"
+    },
+    {
+      "id": 186386,
+      "name": "Horcajo de la Sierra"
+    },
+    {
+      "id": 186387,
+      "name": "Horcajo de la Sierra-Aoslos"
+    },
+    {
+      "id": 186388,
+      "name": "Horcajuelo de la Sierra"
+    },
+    {
+      "id": 186389,
+      "name": "Hortaleza"
+    },
+    {
+      "id": 186390,
+      "name": "Hoyo de Manzanares"
+    },
+    {
+      "id": 186391,
+      "name": "Humanes de Madrid"
+    },
+    {
+      "id": 186392,
+      "name": "La Cabrera"
+    },
+    {
+      "id": 186393,
+      "name": "Las Matas"
+    },
+    {
+      "id": 186394,
+      "name": "Las Rozas de Madrid"
+    },
+    {
+      "id": 186395,
+      "name": "Las Tablas"
+    },
+    {
+      "id": 186396,
+      "name": "Latina"
+    },
+    {
+      "id": 186397,
+      "name": "Leganés"
+    },
+    {
+      "id": 186398,
+      "name": "Loeches"
+    },
+    {
+      "id": 186399,
+      "name": "Los Molinos"
+    },
+    {
+      "id": 186400,
+      "name": "Los Santos de la Humosa"
+    },
+    {
+      "id": 186401,
+      "name": "Lozoya"
+    },
+    {
+      "id": 186402,
+      "name": "Lozoyuela-Navas-Sieteiglesias"
+    },
+    {
+      "id": 186403,
+      "name": "Madarcos"
+    },
+    {
+      "id": 186404,
+      "name": "Madrid"
+    },
+    {
+      "id": 186405,
+      "name": "Majadahonda"
+    },
+    {
+      "id": 186406,
+      "name": "Manzanares el Real"
+    },
+    {
+      "id": 186407,
+      "name": "Meco"
+    },
+    {
+      "id": 186408,
+      "name": "Mejorada del Campo"
+    },
+    {
+      "id": 186409,
+      "name": "Miraflores de la Sierra"
+    },
+    {
+      "id": 186410,
+      "name": "Molar El"
+    },
+    {
+      "id": 186411,
+      "name": "Molinos Los"
+    },
+    {
+      "id": 186412,
+      "name": "Moncloa-Aravaca"
+    },
+    {
+      "id": 186413,
+      "name": "Montejo de la Sierra"
+    },
+    {
+      "id": 186414,
+      "name": "Moraleja de Enmedio"
+    },
+    {
+      "id": 186415,
+      "name": "Moralzarzal"
+    },
+    {
+      "id": 186416,
+      "name": "Morata de Tajuña"
+    },
+    {
+      "id": 186417,
+      "name": "Moratalaz"
+    },
+    {
+      "id": 186418,
+      "name": "Móstoles"
+    },
+    {
+      "id": 186419,
+      "name": "Navacerrada"
+    },
+    {
+      "id": 186420,
+      "name": "Navalafuente"
+    },
+    {
+      "id": 186421,
+      "name": "Navalagamella"
+    },
+    {
+      "id": 186422,
+      "name": "Navalcarnero"
+    },
+    {
+      "id": 186423,
+      "name": "Navalquejigo"
+    },
+    {
+      "id": 186424,
+      "name": "Navarredonda y San Mamés"
+    },
+    {
+      "id": 186425,
+      "name": "Navas del Rey"
+    },
+    {
+      "id": 186426,
+      "name": "Nuevo Baztán"
+    },
+    {
+      "id": 186427,
+      "name": "Olmeda de las Fuentes"
+    },
+    {
+      "id": 186428,
+      "name": "Orusco de Tajuña"
+    },
+    {
+      "id": 186429,
+      "name": "Paracuellos de Jarama"
+    },
+    {
+      "id": 186430,
+      "name": "Parla"
+    },
+    {
+      "id": 186431,
+      "name": "Patones"
+    },
+    {
+      "id": 186432,
+      "name": "Pedrezuela"
+    },
+    {
+      "id": 186433,
+      "name": "Pelayos de la Presa"
+    },
+    {
+      "id": 186434,
+      "name": "Perales de Tajuña"
+    },
+    {
+      "id": 186435,
+      "name": "Pezuela de las Torres"
+    },
+    {
+      "id": 186436,
+      "name": "Pinar de Chamartín"
+    },
+    {
+      "id": 186437,
+      "name": "Pinilla del Valle"
+    },
+    {
+      "id": 186438,
+      "name": "Pinto"
+    },
+    {
+      "id": 186439,
+      "name": "Piñuécar-Gandullas"
+    },
+    {
+      "id": 186440,
+      "name": "Pozuelo de Alarcón"
+    },
+    {
+      "id": 186441,
+      "name": "Pozuelo del Rey"
+    },
+    {
+      "id": 186442,
+      "name": "Prádena del Rincón"
+    },
+    {
+      "id": 186443,
+      "name": "Provincia de Madrid"
+    },
+    {
+      "id": 186444,
+      "name": "Puebla de la Sierra"
+    },
+    {
+      "id": 186445,
+      "name": "Puente de Vallecas"
+    },
+    {
+      "id": 186446,
+      "name": "Puentes Viejas"
+    },
+    {
+      "id": 186447,
+      "name": "Quijorna"
+    },
+    {
+      "id": 186448,
+      "name": "Rascafría"
+    },
+    {
+      "id": 186449,
+      "name": "Redueña"
+    },
+    {
+      "id": 186450,
+      "name": "Retiro"
+    },
+    {
+      "id": 186451,
+      "name": "Ribatejada"
+    },
+    {
+      "id": 186452,
+      "name": "Rivas-Vaciamadrid"
+    },
+    {
+      "id": 186453,
+      "name": "Robledillo de la Jara"
+    },
+    {
+      "id": 186454,
+      "name": "Robledo de Chavela"
+    },
+    {
+      "id": 186455,
+      "name": "Robregordo"
+    },
+    {
+      "id": 186456,
+      "name": "Rozas de Madrid Las"
+    },
+    {
+      "id": 186457,
+      "name": "Rozas de Puerto Real"
+    },
+    {
+      "id": 186458,
+      "name": "San Agustín del Guadalix"
+    },
+    {
+      "id": 186459,
+      "name": "San Blas-Canillejas"
+    },
+    {
+      "id": 186460,
+      "name": "San Fernando de Henares"
+    },
+    {
+      "id": 186461,
+      "name": "San Lorenzo de El Escorial"
+    },
+    {
+      "id": 186462,
+      "name": "San Martín de la Vega"
+    },
+    {
+      "id": 186463,
+      "name": "San Martín de Valdeiglesias"
+    },
+    {
+      "id": 186464,
+      "name": "San Sebastián de los Reyes"
+    },
+    {
+      "id": 186465,
+      "name": "Santa María de la Alameda"
+    },
+    {
+      "id": 186466,
+      "name": "Santorcaz"
+    },
+    {
+      "id": 186467,
+      "name": "Santos de la Humosa Los"
+    },
+    {
+      "id": 186468,
+      "name": "Serna del Monte La"
+    },
+    {
+      "id": 186469,
+      "name": "Serranillos del Valle"
+    },
+    {
+      "id": 186470,
+      "name": "Sevilla La Nueva"
+    },
+    {
+      "id": 186471,
+      "name": "Somosierra"
+    },
+    {
+      "id": 186472,
+      "name": "Soto del Real"
+    },
+    {
+      "id": 186473,
+      "name": "Talamanca de Jarama"
+    },
+    {
+      "id": 186474,
+      "name": "Tetuán de las Victorias"
+    },
+    {
+      "id": 186475,
+      "name": "Tielmes"
+    },
+    {
+      "id": 186476,
+      "name": "Titulcia"
+    },
+    {
+      "id": 186477,
+      "name": "Torrejón de Ardoz"
+    },
+    {
+      "id": 186478,
+      "name": "Torrejón de la Calzada"
+    },
+    {
+      "id": 186479,
+      "name": "Torrejón de Velasco"
+    },
+    {
+      "id": 186480,
+      "name": "Torrelaguna"
+    },
+    {
+      "id": 186481,
+      "name": "Torrelodones"
+    },
+    {
+      "id": 186482,
+      "name": "Torremocha de Jarama"
+    },
+    {
+      "id": 186483,
+      "name": "Torres de la Alameda"
+    },
+    {
+      "id": 186484,
+      "name": "Tres Cantos"
+    },
+    {
+      "id": 186485,
+      "name": "Usera"
+    },
+    {
+      "id": 186486,
+      "name": "Valdaracete"
+    },
+    {
+      "id": 186487,
+      "name": "Valdeavero"
+    },
+    {
+      "id": 186488,
+      "name": "Valdelaguna"
+    },
+    {
+      "id": 186489,
+      "name": "Valdemanco"
+    },
+    {
+      "id": 186490,
+      "name": "Valdemaqueda"
+    },
+    {
+      "id": 186491,
+      "name": "Valdemorillo"
+    },
+    {
+      "id": 186492,
+      "name": "Valdemoro"
+    },
+    {
+      "id": 186493,
+      "name": "Valdeolmos"
+    },
+    {
+      "id": 186494,
+      "name": "Valdeolmos-Alalpardo"
+    },
+    {
+      "id": 186495,
+      "name": "Valdepiélagos"
+    },
+    {
+      "id": 186496,
+      "name": "Valdetorres de Jarama"
+    },
+    {
+      "id": 186497,
+      "name": "Valdilecha"
+    },
+    {
+      "id": 186498,
+      "name": "Valverde de Alcalá"
+    },
+    {
+      "id": 186499,
+      "name": "Velilla de San Antonio"
+    },
+    {
+      "id": 186500,
+      "name": "Vellón El"
+    },
+    {
+      "id": 186501,
+      "name": "Venturada"
+    },
+    {
+      "id": 186502,
+      "name": "Vicálvaro"
+    },
+    {
+      "id": 186503,
+      "name": "Villa de Vallecas"
+    },
+    {
+      "id": 186504,
+      "name": "Villa del Prado"
+    },
+    {
+      "id": 186505,
+      "name": "Villaconejos"
+    },
+    {
+      "id": 186506,
+      "name": "Villalbilla"
+    },
+    {
+      "id": 186507,
+      "name": "Villamanrique de Tajo"
+    },
+    {
+      "id": 186508,
+      "name": "Villamanta"
+    },
+    {
+      "id": 186509,
+      "name": "Villamantilla"
+    },
+    {
+      "id": 186510,
+      "name": "Villanueva de la Cañada"
+    },
+    {
+      "id": 186511,
+      "name": "Villanueva de Perales"
+    },
+    {
+      "id": 186512,
+      "name": "Villanueva del Pardillo"
+    },
+    {
+      "id": 186513,
+      "name": "Villar del Olmo"
+    },
+    {
+      "id": 186514,
+      "name": "Villarejo de Salvanés"
+    },
+    {
+      "id": 186515,
+      "name": "Villaverde"
+    },
+    {
+      "id": 186516,
+      "name": "Villaviciosa de Odón"
+    },
+    {
+      "id": 186517,
+      "name": "Villavieja del Lozoya"
+    },
+    {
+      "id": 186518,
+      "name": "Zarzalejo"
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "id": 3930,
+  "name": "Brandenburg",
+  "state_code": "BB",
+  "cities": [
+    {
+      "id": 109325,
+      "name": "Alt Tucheband"
+    },
+    {
+      "id": 109326,
+      "name": "Altdöbern"
+    },
+    {
+      "id": 109327,
+      "name": "Altlandsberg"
+    },
+    {
+      "id": 109328,
+      "name": "Angermünde"
+    },
+    {
+      "id": 109329,
+      "name": "Bad Belzig"
+    },
+    {
+      "id": 109330,
+      "name": "Bad Freienwalde"
+    },
+    {
+      "id": 109331,
+      "name": "Bad Liebenwerda"
+    },
+    {
+      "id": 109332,
+      "name": "Bad Saarow"
+    },
+    {
+      "id": 109333,
+      "name": "Bad Wilsnack"
+    },
+    {
+      "id": 109334,
+      "name": "Baruth"
+    },
+    {
+      "id": 109335,
+      "name": "Beelitz"
+    },
+    {
+      "id": 109336,
+      "name": "Beeskow"
+    },
+    {
+      "id": 109337,
+      "name": "Bensdorf"
+    },
+    {
+      "id": 109338,
+      "name": "Berkenbrück"
+    },
+    {
+      "id": 109339,
+      "name": "Bernau bei Berlin"
+    },
+    {
+      "id": 109340,
+      "name": "Bestensee"
+    },
+    {
+      "id": 109341,
+      "name": "Biesenthal"
+    },
+    {
+      "id": 109342,
+      "name": "Birkenwerder"
+    },
+    {
+      "id": 109343,
+      "name": "Bliesdorf"
+    },
+    {
+      "id": 109344,
+      "name": "Borkheide"
+    },
+    {
+      "id": 109345,
+      "name": "Borkwalde"
+    },
+    {
+      "id": 109346,
+      "name": "Brandenburg an der Havel"
+    },
+    {
+      "id": 109347,
+      "name": "Breddin"
+    },
+    {
+      "id": 109348,
+      "name": "Breese"
+    },
+    {
+      "id": 109349,
+      "name": "Brieselang"
+    },
+    {
+      "id": 109350,
+      "name": "Briesen"
+    },
+    {
+      "id": 109351,
+      "name": "Brieskow-Finkenheerd"
+    },
+    {
+      "id": 109352,
+      "name": "Britz"
+    },
+    {
+      "id": 109353,
+      "name": "Brück"
+    },
+    {
+      "id": 109354,
+      "name": "Brüssow"
+    },
+    {
+      "id": 109355,
+      "name": "Buckow"
+    },
+    {
+      "id": 109356,
+      "name": "Burg"
+    },
+    {
+      "id": 109357,
+      "name": "Calau"
+    },
+    {
+      "id": 109358,
+      "name": "Casekow"
+    },
+    {
+      "id": 109359,
+      "name": "Chorin"
+    },
+    {
+      "id": 109360,
+      "name": "Cottbus"
+    },
+    {
+      "id": 109361,
+      "name": "Crinitz"
+    },
+    {
+      "id": 109362,
+      "name": "Dahme"
+    },
+    {
+      "id": 109363,
+      "name": "Dallgow-Döberitz"
+    },
+    {
+      "id": 109364,
+      "name": "Doberlug-Kirchhain"
+    },
+    {
+      "id": 109365,
+      "name": "Drebkau"
+    },
+    {
+      "id": 109366,
+      "name": "Dreetz"
+    },
+    {
+      "id": 109367,
+      "name": "Eberswalde"
+    },
+    {
+      "id": 109368,
+      "name": "Eichwalde"
+    },
+    {
+      "id": 109369,
+      "name": "Eisenhüttenstadt"
+    },
+    {
+      "id": 109370,
+      "name": "Elsterwerda"
+    },
+    {
+      "id": 109371,
+      "name": "Erkner"
+    },
+    {
+      "id": 109372,
+      "name": "Falkenberg"
+    },
+    {
+      "id": 109373,
+      "name": "Falkensee"
+    },
+    {
+      "id": 109374,
+      "name": "Fehrbellin"
+    },
+    {
+      "id": 109375,
+      "name": "Fichtenwalde"
+    },
+    {
+      "id": 109376,
+      "name": "Finsterwalde"
+    },
+    {
+      "id": 109377,
+      "name": "Forst"
+    },
+    {
+      "id": 109378,
+      "name": "Frankfurt (Oder)"
+    },
+    {
+      "id": 109379,
+      "name": "Friedland"
+    },
+    {
+      "id": 109380,
+      "name": "Friesack"
+    },
+    {
+      "id": 109381,
+      "name": "Fürstenberg"
+    },
+    {
+      "id": 109382,
+      "name": "Fürstenwalde"
+    },
+    {
+      "id": 109383,
+      "name": "Gartz"
+    },
+    {
+      "id": 109384,
+      "name": "Gerswalde"
+    },
+    {
+      "id": 109385,
+      "name": "Glienicke"
+    },
+    {
+      "id": 109386,
+      "name": "Golßen"
+    },
+    {
+      "id": 109387,
+      "name": "Golzow"
+    },
+    {
+      "id": 109388,
+      "name": "Görzke"
+    },
+    {
+      "id": 109389,
+      "name": "Gramzow"
+    },
+    {
+      "id": 109390,
+      "name": "Gransee"
+    },
+    {
+      "id": 109391,
+      "name": "Gröden"
+    },
+    {
+      "id": 109392,
+      "name": "Groß Köris"
+    },
+    {
+      "id": 109393,
+      "name": "Groß Kreutz"
+    },
+    {
+      "id": 109394,
+      "name": "Groß Lindow"
+    },
+    {
+      "id": 109395,
+      "name": "Groß Pankow"
+    },
+    {
+      "id": 109396,
+      "name": "Großbeeren"
+    },
+    {
+      "id": 109397,
+      "name": "Großkmehlen"
+    },
+    {
+      "id": 109398,
+      "name": "Großräschen"
+    },
+    {
+      "id": 109399,
+      "name": "Großthiemig"
+    },
+    {
+      "id": 109400,
+      "name": "Großwoltersdorf"
+    },
+    {
+      "id": 109401,
+      "name": "Grünheide"
+    },
+    {
+      "id": 109402,
+      "name": "Guben"
+    },
+    {
+      "id": 109403,
+      "name": "Gumtow"
+    },
+    {
+      "id": 109404,
+      "name": "Halbe"
+    },
+    {
+      "id": 109405,
+      "name": "Heiligengrabe"
+    },
+    {
+      "id": 109406,
+      "name": "Hennigsdorf"
+    },
+    {
+      "id": 109407,
+      "name": "Herzberg"
+    },
+    {
+      "id": 109408,
+      "name": "Hirschfeld"
+    },
+    {
+      "id": 109409,
+      "name": "Hohen Neuendorf"
+    },
+    {
+      "id": 109410,
+      "name": "Hohenbocka"
+    },
+    {
+      "id": 109411,
+      "name": "Hohenleipisch"
+    },
+    {
+      "id": 109412,
+      "name": "Jacobsdorf"
+    },
+    {
+      "id": 109413,
+      "name": "Jänschwalde"
+    },
+    {
+      "id": 109414,
+      "name": "Joachimsthal"
+    },
+    {
+      "id": 109415,
+      "name": "Jüterbog"
+    },
+    {
+      "id": 109416,
+      "name": "Karstädt"
+    },
+    {
+      "id": 109417,
+      "name": "Ketzin"
+    },
+    {
+      "id": 109418,
+      "name": "Kleinmachnow"
+    },
+    {
+      "id": 109419,
+      "name": "Kloster Lehnin"
+    },
+    {
+      "id": 109420,
+      "name": "Kolkwitz"
+    },
+    {
+      "id": 109421,
+      "name": "Königs Wusterhausen"
+    },
+    {
+      "id": 109422,
+      "name": "Kremmen"
+    },
+    {
+      "id": 109423,
+      "name": "Kyritz"
+    },
+    {
+      "id": 109424,
+      "name": "Lauchhammer"
+    },
+    {
+      "id": 109425,
+      "name": "Lebus"
+    },
+    {
+      "id": 109426,
+      "name": "Leegebruch"
+    },
+    {
+      "id": 109427,
+      "name": "Lenzen"
+    },
+    {
+      "id": 109428,
+      "name": "Letschin"
+    },
+    {
+      "id": 109429,
+      "name": "Liebenwalde"
+    },
+    {
+      "id": 109430,
+      "name": "Lieberose"
+    },
+    {
+      "id": 109431,
+      "name": "Lindow"
+    },
+    {
+      "id": 109432,
+      "name": "Lübben"
+    },
+    {
+      "id": 109433,
+      "name": "Lübbenau"
+    },
+    {
+      "id": 109434,
+      "name": "Luckau"
+    },
+    {
+      "id": 109435,
+      "name": "Luckenwalde"
+    },
+    {
+      "id": 109436,
+      "name": "Ludwigsfelde"
+    },
+    {
+      "id": 109437,
+      "name": "Lychen"
+    },
+    {
+      "id": 109438,
+      "name": "Manschnow"
+    },
+    {
+      "id": 109439,
+      "name": "Marienwerder"
+    },
+    {
+      "id": 109440,
+      "name": "Melchow"
+    },
+    {
+      "id": 109441,
+      "name": "Meyenburg"
+    },
+    {
+      "id": 109442,
+      "name": "Michendorf"
+    },
+    {
+      "id": 109443,
+      "name": "Milmersdorf"
+    },
+    {
+      "id": 109444,
+      "name": "Mittenwalde"
+    },
+    {
+      "id": 109445,
+      "name": "Mixdorf"
+    },
+    {
+      "id": 109446,
+      "name": "Mühlberg"
+    },
+    {
+      "id": 109447,
+      "name": "Müllrose"
+    },
+    {
+      "id": 109448,
+      "name": "Müncheberg"
+    },
+    {
+      "id": 109449,
+      "name": "Nauen"
+    },
+    {
+      "id": 109450,
+      "name": "Nennhausen"
+    },
+    {
+      "id": 109451,
+      "name": "Neu Zauche"
+    },
+    {
+      "id": 109452,
+      "name": "Neuenhagen"
+    },
+    {
+      "id": 109453,
+      "name": "Neuhardenberg"
+    },
+    {
+      "id": 109454,
+      "name": "Neulewin"
+    },
+    {
+      "id": 109455,
+      "name": "Neuruppin"
+    },
+    {
+      "id": 109456,
+      "name": "Neutrebbin"
+    },
+    {
+      "id": 109457,
+      "name": "Neuzelle"
+    },
+    {
+      "id": 109458,
+      "name": "Niedergörsdorf"
+    },
+    {
+      "id": 109459,
+      "name": "Niemegk"
+    },
+    {
+      "id": 109460,
+      "name": "Oderberg"
+    },
+    {
+      "id": 109461,
+      "name": "Oranienburg"
+    },
+    {
+      "id": 109462,
+      "name": "Ortrand"
+    },
+    {
+      "id": 109463,
+      "name": "Paulinenaue"
+    },
+    {
+      "id": 109464,
+      "name": "Peitz"
+    },
+    {
+      "id": 109465,
+      "name": "Perleberg"
+    },
+    {
+      "id": 109466,
+      "name": "Petershagen"
+    },
+    {
+      "id": 109467,
+      "name": "Plattenburg"
+    },
+    {
+      "id": 109468,
+      "name": "Plessa"
+    },
+    {
+      "id": 109469,
+      "name": "Podelzig"
+    },
+    {
+      "id": 109470,
+      "name": "Potsdam"
+    },
+    {
+      "id": 109471,
+      "name": "Premnitz"
+    },
+    {
+      "id": 109472,
+      "name": "Prenzlau"
+    },
+    {
+      "id": 109473,
+      "name": "Pritzwalk"
+    },
+    {
+      "id": 109474,
+      "name": "Prötzel"
+    },
+    {
+      "id": 109475,
+      "name": "Putlitz"
+    },
+    {
+      "id": 109476,
+      "name": "Rangsdorf"
+    },
+    {
+      "id": 109477,
+      "name": "Rathenow"
+    },
+    {
+      "id": 109478,
+      "name": "Rauen"
+    },
+    {
+      "id": 109479,
+      "name": "Rehfelde"
+    },
+    {
+      "id": 109480,
+      "name": "Reichenwalde"
+    },
+    {
+      "id": 109481,
+      "name": "Rheinsberg"
+    },
+    {
+      "id": 109482,
+      "name": "Rhinow"
+    },
+    {
+      "id": 109483,
+      "name": "Rietz Neuendorf"
+    },
+    {
+      "id": 109484,
+      "name": "Roskow"
+    },
+    {
+      "id": 109485,
+      "name": "Rückersdorf"
+    },
+    {
+      "id": 109486,
+      "name": "Rüdnitz"
+    },
+    {
+      "id": 109487,
+      "name": "Ruhland"
+    },
+    {
+      "id": 109488,
+      "name": "Sallgast"
+    },
+    {
+      "id": 109489,
+      "name": "Schenkendöbern"
+    },
+    {
+      "id": 109490,
+      "name": "Schipkau"
+    },
+    {
+      "id": 109491,
+      "name": "Schlieben"
+    },
+    {
+      "id": 109492,
+      "name": "Schönborn"
+    },
+    {
+      "id": 109493,
+      "name": "Schönefeld"
+    },
+    {
+      "id": 109494,
+      "name": "Schöneiche"
+    },
+    {
+      "id": 109495,
+      "name": "Schönewalde"
+    },
+    {
+      "id": 109496,
+      "name": "Schulzendorf"
+    },
+    {
+      "id": 109497,
+      "name": "Schwarzheide"
+    },
+    {
+      "id": 109498,
+      "name": "Schwedt (Oder)"
+    },
+    {
+      "id": 109499,
+      "name": "Seelow"
+    },
+    {
+      "id": 109500,
+      "name": "Senftenberg"
+    },
+    {
+      "id": 109501,
+      "name": "Sonnewalde"
+    },
+    {
+      "id": 109502,
+      "name": "Sperenberg"
+    },
+    {
+      "id": 109503,
+      "name": "Spreenhagen"
+    },
+    {
+      "id": 109504,
+      "name": "Stahnsdorf"
+    },
+    {
+      "id": 109505,
+      "name": "Steinhöfel"
+    },
+    {
+      "id": 109506,
+      "name": "Storkow"
+    },
+    {
+      "id": 109507,
+      "name": "Straupitz"
+    },
+    {
+      "id": 109508,
+      "name": "Strausberg"
+    },
+    {
+      "id": 109509,
+      "name": "Tauche"
+    },
+    {
+      "id": 109510,
+      "name": "Teltow"
+    },
+    {
+      "id": 109511,
+      "name": "Templin"
+    },
+    {
+      "id": 109512,
+      "name": "Teupitz"
+    },
+    {
+      "id": 109513,
+      "name": "Trebbin"
+    },
+    {
+      "id": 109514,
+      "name": "Treuenbrietzen"
+    },
+    {
+      "id": 109515,
+      "name": "Tschernitz"
+    },
+    {
+      "id": 109516,
+      "name": "Uebigau"
+    },
+    {
+      "id": 109517,
+      "name": "Velten"
+    },
+    {
+      "id": 109518,
+      "name": "Vetschau"
+    },
+    {
+      "id": 109519,
+      "name": "Waldsieversdorf"
+    },
+    {
+      "id": 109520,
+      "name": "Wandlitz"
+    },
+    {
+      "id": 109521,
+      "name": "Weisen"
+    },
+    {
+      "id": 109522,
+      "name": "Welzow"
+    },
+    {
+      "id": 109523,
+      "name": "Wendisch Rietz"
+    },
+    {
+      "id": 109524,
+      "name": "Werben"
+    },
+    {
+      "id": 109525,
+      "name": "Werder"
+    },
+    {
+      "id": 109526,
+      "name": "Werftpfuhl"
+    },
+    {
+      "id": 109527,
+      "name": "Werneuchen"
+    },
+    {
+      "id": 109528,
+      "name": "Wiesenau"
+    },
+    {
+      "id": 109529,
+      "name": "Wiesenburg"
+    },
+    {
+      "id": 109530,
+      "name": "Wittenberge"
+    },
+    {
+      "id": 109531,
+      "name": "Wittstock"
+    },
+    {
+      "id": 109532,
+      "name": "Woltersdorf"
+    },
+    {
+      "id": 109533,
+      "name": "Wriezen"
+    },
+    {
+      "id": 109534,
+      "name": "Wusterhausen"
+    },
+    {
+      "id": 109535,
+      "name": "Wustermark"
+    },
+    {
+      "id": 109536,
+      "name": "Wusterwitz"
+    },
+    {
+      "id": 109537,
+      "name": "Zehdenick"
+    },
+    {
+      "id": 109538,
+      "name": "Zeuthen"
+    },
+    {
+      "id": 109539,
+      "name": "Ziesar"
+    },
+    {
+      "id": 109540,
+      "name": "Ziltendorf"
+    },
+    {
+      "id": 109541,
+      "name": "Zossen"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "id": 5828,
+  "name": "Lubusz",
+  "state_code": "08",
+  "cities": [
+    {
+      "id": 162219,
+      "name": "Babimost"
+    },
+    {
+      "id": 162220,
+      "name": "Bledzew"
+    },
+    {
+      "id": 162221,
+      "name": "Bobrowice"
+    },
+    {
+      "id": 162222,
+      "name": "Bogdaniec"
+    },
+    {
+      "id": 162223,
+      "name": "Bojadła"
+    },
+    {
+      "id": 162224,
+      "name": "Brody"
+    },
+    {
+      "id": 162225,
+      "name": "Brójce"
+    },
+    {
+      "id": 162226,
+      "name": "Bytnica"
+    },
+    {
+      "id": 162227,
+      "name": "Bytom Odrzański"
+    },
+    {
+      "id": 162228,
+      "name": "Cybinka"
+    },
+    {
+      "id": 162229,
+      "name": "Czerwieńsk"
+    },
+    {
+      "id": 162230,
+      "name": "Dąbie"
+    },
+    {
+      "id": 162231,
+      "name": "Deszczno"
+    },
+    {
+      "id": 162232,
+      "name": "Dobiegniew"
+    },
+    {
+      "id": 162233,
+      "name": "Drezdenko"
+    },
+    {
+      "id": 162234,
+      "name": "Gorzów Wielkopolski"
+    },
+    {
+      "id": 162235,
+      "name": "Górzyca"
+    },
+    {
+      "id": 162236,
+      "name": "Gozdnica"
+    },
+    {
+      "id": 162237,
+      "name": "Gubin"
+    },
+    {
+      "id": 162238,
+      "name": "Iłowa"
+    },
+    {
+      "id": 162239,
+      "name": "Jasień"
+    },
+    {
+      "id": 162240,
+      "name": "Jenin"
+    },
+    {
+      "id": 162241,
+      "name": "Kargowa"
+    },
+    {
+      "id": 162242,
+      "name": "Klenica"
+    },
+    {
+      "id": 162243,
+      "name": "Kłodawa"
+    },
+    {
+      "id": 162244,
+      "name": "Kolsko"
+    },
+    {
+      "id": 162245,
+      "name": "Konotop"
+    },
+    {
+      "id": 162246,
+      "name": "Kostrzyn nad Odrą"
+    },
+    {
+      "id": 162247,
+      "name": "Kożuchów"
+    },
+    {
+      "id": 162248,
+      "name": "Krosno Odrzańskie"
+    },
+    {
+      "id": 162249,
+      "name": "Krzeszyce"
+    },
+    {
+      "id": 162250,
+      "name": "Kunice Żarskie"
+    },
+    {
+      "id": 162251,
+      "name": "Lipinki Łużyckie"
+    },
+    {
+      "id": 162252,
+      "name": "Lubiszyn"
+    },
+    {
+      "id": 162253,
+      "name": "Lubniewice"
+    },
+    {
+      "id": 162254,
+      "name": "Lubrza"
+    },
+    {
+      "id": 162255,
+      "name": "Lubsko"
+    },
+    {
+      "id": 162256,
+      "name": "Łagów"
+    },
+    {
+      "id": 162257,
+      "name": "Łęknica"
+    },
+    {
+      "id": 162258,
+      "name": "Małomice"
+    },
+    {
+      "id": 162259,
+      "name": "Maszewo"
+    },
+    {
+      "id": 162260,
+      "name": "Międzylesie"
+    },
+    {
+      "id": 162261,
+      "name": "Międzyrzecz"
+    },
+    {
+      "id": 162262,
+      "name": "Nowa Sól"
+    },
+    {
+      "id": 162263,
+      "name": "Nowe Miasteczko"
+    },
+    {
+      "id": 162264,
+      "name": "Nowogród Bobrzański"
+    },
+    {
+      "id": 162265,
+      "name": "Ochla"
+    },
+    {
+      "id": 162266,
+      "name": "Ośno Lubuskie"
+    },
+    {
+      "id": 162267,
+      "name": "Otyń"
+    },
+    {
+      "id": 162268,
+      "name": "Powiat gorzowski"
+    },
+    {
+      "id": 162269,
+      "name": "Powiat krośnieński"
+    },
+    {
+      "id": 162270,
+      "name": "Powiat międzyrzecki"
+    },
+    {
+      "id": 162271,
+      "name": "Powiat nowosolski"
+    },
+    {
+      "id": 162272,
+      "name": "Powiat słubicki"
+    },
+    {
+      "id": 162273,
+      "name": "Powiat strzelecko-drezdenecki"
+    },
+    {
+      "id": 162274,
+      "name": "Powiat sulęciński"
+    },
+    {
+      "id": 162275,
+      "name": "Powiat świebodziński"
+    },
+    {
+      "id": 162276,
+      "name": "Powiat wschowski"
+    },
+    {
+      "id": 162277,
+      "name": "Powiat żagański"
+    },
+    {
+      "id": 162278,
+      "name": "Powiat żarski"
+    },
+    {
+      "id": 162279,
+      "name": "Powiat zielonogórski"
+    },
+    {
+      "id": 162280,
+      "name": "Przewóz"
+    },
+    {
+      "id": 162281,
+      "name": "Przyborów"
+    },
+    {
+      "id": 162282,
+      "name": "Przytoczna"
+    },
+    {
+      "id": 162283,
+      "name": "Pszczew"
+    },
+    {
+      "id": 162284,
+      "name": "Rzepin"
+    },
+    {
+      "id": 162285,
+      "name": "Santok"
+    },
+    {
+      "id": 162286,
+      "name": "Siedlisko"
+    },
+    {
+      "id": 162287,
+      "name": "Sieniawa"
+    },
+    {
+      "id": 162288,
+      "name": "Sieniawa Żarska"
+    },
+    {
+      "id": 162289,
+      "name": "Skąpe"
+    },
+    {
+      "id": 162290,
+      "name": "Skwierzyna"
+    },
+    {
+      "id": 162291,
+      "name": "Sława"
+    },
+    {
+      "id": 162292,
+      "name": "Słońsk"
+    },
+    {
+      "id": 162293,
+      "name": "Słubice"
+    },
+    {
+      "id": 162294,
+      "name": "Stare Kurowo"
+    },
+    {
+      "id": 162295,
+      "name": "Strzelce Krajeńskie"
+    },
+    {
+      "id": 162296,
+      "name": "Sulechów"
+    },
+    {
+      "id": 162297,
+      "name": "Świdnica"
+    },
+    {
+      "id": 162298,
+      "name": "Świebodzin"
+    },
+    {
+      "id": 162299,
+      "name": "Szczaniec"
+    },
+    {
+      "id": 162300,
+      "name": "Szlichtyngowa"
+    },
+    {
+      "id": 162301,
+      "name": "Szprotawa"
+    },
+    {
+      "id": 162302,
+      "name": "Torzym"
+    },
+    {
+      "id": 162303,
+      "name": "Trzciel"
+    },
+    {
+      "id": 162304,
+      "name": "Trzebiechów"
+    },
+    {
+      "id": 162305,
+      "name": "Trzebiel"
+    },
+    {
+      "id": 162306,
+      "name": "Tuplice"
+    },
+    {
+      "id": 162307,
+      "name": "Witnica"
+    },
+    {
+      "id": 162308,
+      "name": "Wschowa"
+    },
+    {
+      "id": 162309,
+      "name": "Wymiarki"
+    },
+    {
+      "id": 162310,
+      "name": "Zabór"
+    },
+    {
+      "id": 162311,
+      "name": "Żagań"
+    },
+    {
+      "id": 162312,
+      "name": "Żary"
+    },
+    {
+      "id": 162313,
+      "name": "Zbąszynek"
+    },
+    {
+      "id": 162314,
+      "name": "Zielona Góra"
+    },
+    {
+      "id": 162315,
+      "name": "Zwierzyń"
+    }
+  ]
+}

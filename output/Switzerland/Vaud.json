@@ -1,0 +1,427 @@
+{
+  "id": 6664,
+  "name": "Vaud",
+  "state_code": "VD",
+  "cities": [
+    {
+      "id": 192043,
+      "name": "Aigle"
+    },
+    {
+      "id": 192044,
+      "name": "Aigle District"
+    },
+    {
+      "id": 192045,
+      "name": "Apples"
+    },
+    {
+      "id": 192046,
+      "name": "Arzier"
+    },
+    {
+      "id": 192047,
+      "name": "Aubonne"
+    },
+    {
+      "id": 192048,
+      "name": "Avenches"
+    },
+    {
+      "id": 192049,
+      "name": "Ballens"
+    },
+    {
+      "id": 192050,
+      "name": "Bavois"
+    },
+    {
+      "id": 192051,
+      "name": "Begnins"
+    },
+    {
+      "id": 192052,
+      "name": "Belmont-sur-Lausanne"
+    },
+    {
+      "id": 192053,
+      "name": "Berolle"
+    },
+    {
+      "id": 192054,
+      "name": "Bex"
+    },
+    {
+      "id": 192055,
+      "name": "Bière"
+    },
+    {
+      "id": 192056,
+      "name": "Blécherette"
+    },
+    {
+      "id": 192057,
+      "name": "Blonay"
+    },
+    {
+      "id": 192058,
+      "name": "Bottens"
+    },
+    {
+      "id": 192059,
+      "name": "Broye-Vully District"
+    },
+    {
+      "id": 192060,
+      "name": "Bussigny"
+    },
+    {
+      "id": 192061,
+      "name": "Caux"
+    },
+    {
+      "id": 192062,
+      "name": "Chardonne"
+    },
+    {
+      "id": 192063,
+      "name": "Château-d'Oex"
+    },
+    {
+      "id": 192064,
+      "name": "Chavannes"
+    },
+    {
+      "id": 192065,
+      "name": "Chavannes-le-Veyron"
+    },
+    {
+      "id": 192066,
+      "name": "Chavornay"
+    },
+    {
+      "id": 192067,
+      "name": "Cheseaux"
+    },
+    {
+      "id": 192068,
+      "name": "Chevilly"
+    },
+    {
+      "id": 192069,
+      "name": "Chexbres"
+    },
+    {
+      "id": 192070,
+      "name": "Colombier"
+    },
+    {
+      "id": 192071,
+      "name": "Coppet"
+    },
+    {
+      "id": 192072,
+      "name": "Cossonay"
+    },
+    {
+      "id": 192073,
+      "name": "Crissier"
+    },
+    {
+      "id": 192074,
+      "name": "Cuarnens"
+    },
+    {
+      "id": 192075,
+      "name": "Cully"
+    },
+    {
+      "id": 192076,
+      "name": "Echallens"
+    },
+    {
+      "id": 192077,
+      "name": "Ecublens"
+    },
+    {
+      "id": 192078,
+      "name": "Epalinges"
+    },
+    {
+      "id": 192079,
+      "name": "Ferreyres"
+    },
+    {
+      "id": 192080,
+      "name": "Founex"
+    },
+    {
+      "id": 192081,
+      "name": "Froideville"
+    },
+    {
+      "id": 192082,
+      "name": "Genolier"
+    },
+    {
+      "id": 192083,
+      "name": "Gimel"
+    },
+    {
+      "id": 192084,
+      "name": "Gland"
+    },
+    {
+      "id": 192085,
+      "name": "Grancy"
+    },
+    {
+      "id": 192086,
+      "name": "Grandson"
+    },
+    {
+      "id": 192087,
+      "name": "Gros-de-Vaud District"
+    },
+    {
+      "id": 192088,
+      "name": "Gryon"
+    },
+    {
+      "id": 192089,
+      "name": "Jongny"
+    },
+    {
+      "id": 192090,
+      "name": "Jura-Nord vaudois District"
+    },
+    {
+      "id": 192091,
+      "name": "La Sarraz"
+    },
+    {
+      "id": 192092,
+      "name": "La Tour-de-Peilz"
+    },
+    {
+      "id": 192093,
+      "name": "Lausanne"
+    },
+    {
+      "id": 192094,
+      "name": "Lausanne District"
+    },
+    {
+      "id": 192095,
+      "name": "Lavaux-Oron District"
+    },
+    {
+      "id": 192096,
+      "name": "Le Chenit"
+    },
+    {
+      "id": 192097,
+      "name": "Le Mont-sur-Lausanne"
+    },
+    {
+      "id": 192098,
+      "name": "Le Vaud"
+    },
+    {
+      "id": 192099,
+      "name": "Leysin"
+    },
+    {
+      "id": 192100,
+      "name": "Lucens"
+    },
+    {
+      "id": 192101,
+      "name": "Lutry"
+    },
+    {
+      "id": 192102,
+      "name": "Mauraz"
+    },
+    {
+      "id": 192103,
+      "name": "Mollens"
+    },
+    {
+      "id": 192104,
+      "name": "Montagny"
+    },
+    {
+      "id": 192105,
+      "name": "Montreux"
+    },
+    {
+      "id": 192106,
+      "name": "Morges"
+    },
+    {
+      "id": 192107,
+      "name": "Morges District"
+    },
+    {
+      "id": 192108,
+      "name": "Moudon"
+    },
+    {
+      "id": 192109,
+      "name": "Nyon"
+    },
+    {
+      "id": 192110,
+      "name": "Nyon District"
+    },
+    {
+      "id": 192111,
+      "name": "Ollon"
+    },
+    {
+      "id": 192112,
+      "name": "Orbe"
+    },
+    {
+      "id": 192113,
+      "name": "Oron-la-Ville"
+    },
+    {
+      "id": 192114,
+      "name": "Ouest Lausannois District"
+    },
+    {
+      "id": 192115,
+      "name": "Pailly"
+    },
+    {
+      "id": 192116,
+      "name": "Palézieux"
+    },
+    {
+      "id": 192117,
+      "name": "Pampigny"
+    },
+    {
+      "id": 192118,
+      "name": "Paudex"
+    },
+    {
+      "id": 192119,
+      "name": "Payerne"
+    },
+    {
+      "id": 192120,
+      "name": "Penthalaz"
+    },
+    {
+      "id": 192121,
+      "name": "Penthéréaz"
+    },
+    {
+      "id": 192122,
+      "name": "Perroy"
+    },
+    {
+      "id": 192123,
+      "name": "Pompaples"
+    },
+    {
+      "id": 192124,
+      "name": "Prangins"
+    },
+    {
+      "id": 192125,
+      "name": "Préverenges"
+    },
+    {
+      "id": 192126,
+      "name": "Prilly"
+    },
+    {
+      "id": 192127,
+      "name": "Puidoux"
+    },
+    {
+      "id": 192128,
+      "name": "Pully"
+    },
+    {
+      "id": 192129,
+      "name": "Renens"
+    },
+    {
+      "id": 192130,
+      "name": "Riviera-Pays-d'Enhaut District"
+    },
+    {
+      "id": 192131,
+      "name": "Rolle"
+    },
+    {
+      "id": 192132,
+      "name": "Romanel-sur-Lausanne"
+    },
+    {
+      "id": 192133,
+      "name": "Saint-Cergue"
+    },
+    {
+      "id": 192134,
+      "name": "Saint-Livres"
+    },
+    {
+      "id": 192135,
+      "name": "Saint-Prex"
+    },
+    {
+      "id": 192136,
+      "name": "Sainte-Croix"
+    },
+    {
+      "id": 192137,
+      "name": "Saubraz"
+    },
+    {
+      "id": 192138,
+      "name": "Savigny"
+    },
+    {
+      "id": 192139,
+      "name": "Sottens"
+    },
+    {
+      "id": 192140,
+      "name": "Trélex"
+    },
+    {
+      "id": 192141,
+      "name": "Vallorbe"
+    },
+    {
+      "id": 192142,
+      "name": "Vevey"
+    },
+    {
+      "id": 192143,
+      "name": "Villars-sur-Ollon"
+    },
+    {
+      "id": 192144,
+      "name": "Villeneuve"
+    },
+    {
+      "id": 192145,
+      "name": "Vuarrens"
+    },
+    {
+      "id": 192146,
+      "name": "Yverdon-les-Bains"
+    },
+    {
+      "id": 192147,
+      "name": "Yvonand"
+    }
+  ]
+}

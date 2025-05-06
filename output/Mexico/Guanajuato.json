@@ -1,0 +1,1911 @@
+{
+  "id": 5134,
+  "name": "Guanajuato",
+  "state_code": "GUA",
+  "cities": [
+    {
+      "id": 141135,
+      "name": "Abasolo"
+    },
+    {
+      "id": 141136,
+      "name": "Acámbaro"
+    },
+    {
+      "id": 141137,
+      "name": "Adjuntas del Río"
+    },
+    {
+      "id": 141138,
+      "name": "Aguas Buenas"
+    },
+    {
+      "id": 141139,
+      "name": "Alcocer"
+    },
+    {
+      "id": 141140,
+      "name": "Aldama"
+    },
+    {
+      "id": 141141,
+      "name": "Alfaro"
+    },
+    {
+      "id": 141142,
+      "name": "Ameche"
+    },
+    {
+      "id": 141143,
+      "name": "Apaseo el Alto"
+    },
+    {
+      "id": 141144,
+      "name": "Apaseo el Grande"
+    },
+    {
+      "id": 141145,
+      "name": "Arandas"
+    },
+    {
+      "id": 141146,
+      "name": "Atarjea"
+    },
+    {
+      "id": 141147,
+      "name": "Bajío de Bonillas"
+    },
+    {
+      "id": 141148,
+      "name": "Barretos"
+    },
+    {
+      "id": 141149,
+      "name": "Barrio de Guadalupe del Mezquitillo"
+    },
+    {
+      "id": 141150,
+      "name": "Barrón"
+    },
+    {
+      "id": 141151,
+      "name": "Boquillas"
+    },
+    {
+      "id": 141152,
+      "name": "Buenavista de Cortés"
+    },
+    {
+      "id": 141153,
+      "name": "Caleras de Ameche"
+    },
+    {
+      "id": 141154,
+      "name": "Calzada del Tepozán"
+    },
+    {
+      "id": 141155,
+      "name": "Cañada de Bustos"
+    },
+    {
+      "id": 141156,
+      "name": "Cañada de Caracheo"
+    },
+    {
+      "id": 141157,
+      "name": "Cañada de Negros"
+    },
+    {
+      "id": 141158,
+      "name": "Capulín de Bustos"
+    },
+    {
+      "id": 141159,
+      "name": "Cárdenas"
+    },
+    {
+      "id": 141160,
+      "name": "Carrizal Grande"
+    },
+    {
+      "id": 141161,
+      "name": "Celaya"
+    },
+    {
+      "id": 141162,
+      "name": "Centro Familiar la Soledad"
+    },
+    {
+      "id": 141163,
+      "name": "Cerano"
+    },
+    {
+      "id": 141164,
+      "name": "Cerrito de Gasca"
+    },
+    {
+      "id": 141165,
+      "name": "Cerritos"
+    },
+    {
+      "id": 141166,
+      "name": "Cerro Colorado"
+    },
+    {
+      "id": 141167,
+      "name": "Cerro Gordo"
+    },
+    {
+      "id": 141168,
+      "name": "Chamácuaro"
+    },
+    {
+      "id": 141169,
+      "name": "Charco de Pantoja"
+    },
+    {
+      "id": 141170,
+      "name": "Chichimequillas"
+    },
+    {
+      "id": 141171,
+      "name": "Chirimoya (Estación Chirimoya)"
+    },
+    {
+      "id": 141172,
+      "name": "Churipitzeo"
+    },
+    {
+      "id": 141173,
+      "name": "Cieneguilla"
+    },
+    {
+      "id": 141174,
+      "name": "Ciudad Manuel Doblado"
+    },
+    {
+      "id": 141175,
+      "name": "Coachiti"
+    },
+    {
+      "id": 141176,
+      "name": "Colonia 18 de Marzo"
+    },
+    {
+      "id": 141177,
+      "name": "Colonia Fraccionamiento el Puente"
+    },
+    {
+      "id": 141178,
+      "name": "Colonia Francisco Javier Mina"
+    },
+    {
+      "id": 141179,
+      "name": "Colonia la Calzada (La Olla)"
+    },
+    {
+      "id": 141180,
+      "name": "Colonia Latinoamericana"
+    },
+    {
+      "id": 141181,
+      "name": "Colonia Morelos"
+    },
+    {
+      "id": 141182,
+      "name": "Colonia Morelos de Guadalupe de Rivera"
+    },
+    {
+      "id": 141183,
+      "name": "Colonia Nuevo México"
+    },
+    {
+      "id": 141184,
+      "name": "Colonia Padre Hidalgo"
+    },
+    {
+      "id": 141185,
+      "name": "Colonia Patria Nueva"
+    },
+    {
+      "id": 141186,
+      "name": "Colonia Pedro María Anaya"
+    },
+    {
+      "id": 141187,
+      "name": "Colonia Rafael Corrales Ayala"
+    },
+    {
+      "id": 141188,
+      "name": "Colonia San Luis Rey"
+    },
+    {
+      "id": 141189,
+      "name": "Comanjilla"
+    },
+    {
+      "id": 141190,
+      "name": "Comonfort"
+    },
+    {
+      "id": 141191,
+      "name": "Coroneo"
+    },
+    {
+      "id": 141192,
+      "name": "Corral de Piedras de Arriba"
+    },
+    {
+      "id": 141193,
+      "name": "Corralejo de Arriba"
+    },
+    {
+      "id": 141194,
+      "name": "Cortazar"
+    },
+    {
+      "id": 141195,
+      "name": "Cuarta Brigada"
+    },
+    {
+      "id": 141196,
+      "name": "Cuchicuato"
+    },
+    {
+      "id": 141197,
+      "name": "Cuerámaro"
+    },
+    {
+      "id": 141198,
+      "name": "Cuesta de Peñones"
+    },
+    {
+      "id": 141199,
+      "name": "Cupareo"
+    },
+    {
+      "id": 141200,
+      "name": "De Parral"
+    },
+    {
+      "id": 141201,
+      "name": "Delgado de Abajo"
+    },
+    {
+      "id": 141202,
+      "name": "Delgado de Arriba"
+    },
+    {
+      "id": 141203,
+      "name": "Derramadero Segundo (Infiernillo)"
+    },
+    {
+      "id": 141204,
+      "name": "Doctor Mora"
+    },
+    {
+      "id": 141205,
+      "name": "Dolores Hidalgo Cuna de la Independencia Nacional"
+    },
+    {
+      "id": 141206,
+      "name": "Don Diego"
+    },
+    {
+      "id": 141207,
+      "name": "Don Francisco"
+    },
+    {
+      "id": 141208,
+      "name": "Duarte"
+    },
+    {
+      "id": 141209,
+      "name": "Ejido Jesús María"
+    },
+    {
+      "id": 141210,
+      "name": "Ejido la Joya"
+    },
+    {
+      "id": 141211,
+      "name": "El Acebuche"
+    },
+    {
+      "id": 141212,
+      "name": "El Canario"
+    },
+    {
+      "id": 141213,
+      "name": "El Capulín"
+    },
+    {
+      "id": 141214,
+      "name": "El Caracol"
+    },
+    {
+      "id": 141215,
+      "name": "El Carmen"
+    },
+    {
+      "id": 141216,
+      "name": "El Carretón"
+    },
+    {
+      "id": 141217,
+      "name": "El Carrizalito"
+    },
+    {
+      "id": 141218,
+      "name": "El Castillo"
+    },
+    {
+      "id": 141219,
+      "name": "El CERESO"
+    },
+    {
+      "id": 141220,
+      "name": "El Chinaco (El Pujido)"
+    },
+    {
+      "id": 141221,
+      "name": "El Coecillo"
+    },
+    {
+      "id": 141222,
+      "name": "El Copalillo"
+    },
+    {
+      "id": 141223,
+      "name": "El Divisador"
+    },
+    {
+      "id": 141224,
+      "name": "El Escoplo"
+    },
+    {
+      "id": 141225,
+      "name": "El Espejo"
+    },
+    {
+      "id": 141226,
+      "name": "El Fresno"
+    },
+    {
+      "id": 141227,
+      "name": "El Gallinero"
+    },
+    {
+      "id": 141228,
+      "name": "El Huizache"
+    },
+    {
+      "id": 141229,
+      "name": "El Jaguey"
+    },
+    {
+      "id": 141230,
+      "name": "El Llanito"
+    },
+    {
+      "id": 141231,
+      "name": "El Maguey"
+    },
+    {
+      "id": 141232,
+      "name": "El Mezquitillo"
+    },
+    {
+      "id": 141233,
+      "name": "El Moral"
+    },
+    {
+      "id": 141234,
+      "name": "El Nacimiento"
+    },
+    {
+      "id": 141235,
+      "name": "El Naranjillo"
+    },
+    {
+      "id": 141236,
+      "name": "El Picacho"
+    },
+    {
+      "id": 141237,
+      "name": "El Puesto"
+    },
+    {
+      "id": 141238,
+      "name": "El Recuerdo de Ancón (Xoconoxtle de Arriba)"
+    },
+    {
+      "id": 141239,
+      "name": "El Refugio de los Sauces"
+    },
+    {
+      "id": 141240,
+      "name": "El Sabino"
+    },
+    {
+      "id": 141241,
+      "name": "El Salto de Espejo"
+    },
+    {
+      "id": 141242,
+      "name": "El Salvador (Ranchito San José del Carmen)"
+    },
+    {
+      "id": 141243,
+      "name": "El Sauz (El Sauz de Villaseñor)"
+    },
+    {
+      "id": 141244,
+      "name": "El Tecolote"
+    },
+    {
+      "id": 141245,
+      "name": "El Tejocote (El Domingo)"
+    },
+    {
+      "id": 141246,
+      "name": "El Tunal"
+    },
+    {
+      "id": 141247,
+      "name": "El Varal"
+    },
+    {
+      "id": 141248,
+      "name": "El Vicarlo"
+    },
+    {
+      "id": 141249,
+      "name": "El Zapote"
+    },
+    {
+      "id": 141250,
+      "name": "Empalme Escobedo"
+    },
+    {
+      "id": 141251,
+      "name": "Estación Corralejo"
+    },
+    {
+      "id": 141252,
+      "name": "Estación de San Francisco"
+    },
+    {
+      "id": 141253,
+      "name": "Estación Joaquín"
+    },
+    {
+      "id": 141254,
+      "name": "Estación la Piedad"
+    },
+    {
+      "id": 141255,
+      "name": "Estación Pénjamo"
+    },
+    {
+      "id": 141256,
+      "name": "Estancia del Llano"
+    },
+    {
+      "id": 141257,
+      "name": "Estanzuela de Romero"
+    },
+    {
+      "id": 141258,
+      "name": "Estrada"
+    },
+    {
+      "id": 141259,
+      "name": "Ex-Hacienda del Copal"
+    },
+    {
+      "id": 141260,
+      "name": "Fábrica de Melchor"
+    },
+    {
+      "id": 141261,
+      "name": "Fraccionamiento la Mezquitera"
+    },
+    {
+      "id": 141262,
+      "name": "Fraccionamiento las Liebres"
+    },
+    {
+      "id": 141263,
+      "name": "Fraccionamiento Paraíso Real"
+    },
+    {
+      "id": 141264,
+      "name": "Fraccionamiento Paseo de las Torres"
+    },
+    {
+      "id": 141265,
+      "name": "Fraccionamiento Praderas de la Venta"
+    },
+    {
+      "id": 141266,
+      "name": "Fraccionamiento Villa Jardín"
+    },
+    {
+      "id": 141267,
+      "name": "Fraccionamiento Villas de Guanajuato"
+    },
+    {
+      "id": 141268,
+      "name": "Franco"
+    },
+    {
+      "id": 141269,
+      "name": "Franco Tavera"
+    },
+    {
+      "id": 141270,
+      "name": "Frías"
+    },
+    {
+      "id": 141271,
+      "name": "Gachupines"
+    },
+    {
+      "id": 141272,
+      "name": "Galerade Panales"
+    },
+    {
+      "id": 141273,
+      "name": "Gasca"
+    },
+    {
+      "id": 141274,
+      "name": "Gavia de Rionda"
+    },
+    {
+      "id": 141275,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 141276,
+      "name": "Guadalupe de Paso Blanco"
+    },
+    {
+      "id": 141277,
+      "name": "Guadalupe de Rivera"
+    },
+    {
+      "id": 141278,
+      "name": "Guadalupe de Tambula"
+    },
+    {
+      "id": 141279,
+      "name": "Guadalupe del Monte"
+    },
+    {
+      "id": 141280,
+      "name": "Guanajuato"
+    },
+    {
+      "id": 141281,
+      "name": "Hacienda Arriba"
+    },
+    {
+      "id": 141282,
+      "name": "Hacienda de la Bolsa"
+    },
+    {
+      "id": 141283,
+      "name": "Hacienda de Márquez"
+    },
+    {
+      "id": 141284,
+      "name": "Hoya de Cintora (La Hoya de Arriba)"
+    },
+    {
+      "id": 141285,
+      "name": "Huanímaro"
+    },
+    {
+      "id": 141286,
+      "name": "Huitzatarito"
+    },
+    {
+      "id": 141287,
+      "name": "Ibarrilla"
+    },
+    {
+      "id": 141288,
+      "name": "Irámuco"
+    },
+    {
+      "id": 141289,
+      "name": "Irapuato"
+    },
+    {
+      "id": 141290,
+      "name": "Jalpilla"
+    },
+    {
+      "id": 141291,
+      "name": "Jamaica"
+    },
+    {
+      "id": 141292,
+      "name": "Jaral del Progreso"
+    },
+    {
+      "id": 141293,
+      "name": "Jauregui"
+    },
+    {
+      "id": 141294,
+      "name": "Jerécuaro"
+    },
+    {
+      "id": 141295,
+      "name": "Jesús del Monte"
+    },
+    {
+      "id": 141296,
+      "name": "Jícamas"
+    },
+    {
+      "id": 141297,
+      "name": "Jocoqui"
+    },
+    {
+      "id": 141298,
+      "name": "Juan Martín"
+    },
+    {
+      "id": 141299,
+      "name": "Juventino Rosas"
+    },
+    {
+      "id": 141300,
+      "name": "La Aldea"
+    },
+    {
+      "id": 141301,
+      "name": "La Angostura"
+    },
+    {
+      "id": 141302,
+      "name": "La Aurora"
+    },
+    {
+      "id": 141303,
+      "name": "La Caja"
+    },
+    {
+      "id": 141304,
+      "name": "La Calera"
+    },
+    {
+      "id": 141305,
+      "name": "La Capilla"
+    },
+    {
+      "id": 141306,
+      "name": "La Ciénega"
+    },
+    {
+      "id": 141307,
+      "name": "La Cieneguita"
+    },
+    {
+      "id": 141308,
+      "name": "La Compañía"
+    },
+    {
+      "id": 141309,
+      "name": "La Cruz"
+    },
+    {
+      "id": 141310,
+      "name": "La Cruz del Palmar"
+    },
+    {
+      "id": 141311,
+      "name": "La Cuevita"
+    },
+    {
+      "id": 141312,
+      "name": "La Ermita"
+    },
+    {
+      "id": 141313,
+      "name": "La Escondida"
+    },
+    {
+      "id": 141314,
+      "name": "La Estancia de San José del Carmen"
+    },
+    {
+      "id": 141315,
+      "name": "La Estrella"
+    },
+    {
+      "id": 141316,
+      "name": "La Gavia"
+    },
+    {
+      "id": 141317,
+      "name": "La Joya de Calvillo"
+    },
+    {
+      "id": 141318,
+      "name": "La Labor"
+    },
+    {
+      "id": 141319,
+      "name": "La Laborcita"
+    },
+    {
+      "id": 141320,
+      "name": "La Laja"
+    },
+    {
+      "id": 141321,
+      "name": "La Lobera"
+    },
+    {
+      "id": 141322,
+      "name": "La Luz"
+    },
+    {
+      "id": 141323,
+      "name": "La Moncada"
+    },
+    {
+      "id": 141324,
+      "name": "La Norita"
+    },
+    {
+      "id": 141325,
+      "name": "La Ordeña"
+    },
+    {
+      "id": 141326,
+      "name": "La Ortiga"
+    },
+    {
+      "id": 141327,
+      "name": "La Palma"
+    },
+    {
+      "id": 141328,
+      "name": "La Palmita (La Palmita de San Gabriel)"
+    },
+    {
+      "id": 141329,
+      "name": "La Purísima"
+    },
+    {
+      "id": 141330,
+      "name": "La Sabana"
+    },
+    {
+      "id": 141331,
+      "name": "La Sardina"
+    },
+    {
+      "id": 141332,
+      "name": "La Sauceda"
+    },
+    {
+      "id": 141333,
+      "name": "La Soledad"
+    },
+    {
+      "id": 141334,
+      "name": "La Tinaja"
+    },
+    {
+      "id": 141335,
+      "name": "La Trinidad"
+    },
+    {
+      "id": 141336,
+      "name": "Labor de Peralta"
+    },
+    {
+      "id": 141337,
+      "name": "Ladrilleras del Refugio"
+    },
+    {
+      "id": 141338,
+      "name": "Laguna de Guadalupe"
+    },
+    {
+      "id": 141339,
+      "name": "Laguna Larga"
+    },
+    {
+      "id": 141340,
+      "name": "Laguna Larga de Cortés"
+    },
+    {
+      "id": 141341,
+      "name": "Landín"
+    },
+    {
+      "id": 141342,
+      "name": "Las Ánimas"
+    },
+    {
+      "id": 141343,
+      "name": "Las Cañas"
+    },
+    {
+      "id": 141344,
+      "name": "Las Huertas Tercera Sección"
+    },
+    {
+      "id": 141345,
+      "name": "Las Liebres"
+    },
+    {
+      "id": 141346,
+      "name": "Las Masas (La Luz Masas)"
+    },
+    {
+      "id": 141347,
+      "name": "Las Trojas"
+    },
+    {
+      "id": 141348,
+      "name": "León"
+    },
+    {
+      "id": 141349,
+      "name": "León de los Aldama"
+    },
+    {
+      "id": 141350,
+      "name": "Lo de Juárez"
+    },
+    {
+      "id": 141351,
+      "name": "Loma de la Esperanza"
+    },
+    {
+      "id": 141352,
+      "name": "Loma de Yerbabuena"
+    },
+    {
+      "id": 141353,
+      "name": "Loma de Zempoala"
+    },
+    {
+      "id": 141354,
+      "name": "Loma Pelada"
+    },
+    {
+      "id": 141355,
+      "name": "Loma Tendida"
+    },
+    {
+      "id": 141356,
+      "name": "Los Ángeles"
+    },
+    {
+      "id": 141357,
+      "name": "Los Arcos"
+    },
+    {
+      "id": 141358,
+      "name": "Los Desmontes"
+    },
+    {
+      "id": 141359,
+      "name": "Los Dolores (Las Quince Letras)"
+    },
+    {
+      "id": 141360,
+      "name": "Los Dulces Nombres"
+    },
+    {
+      "id": 141361,
+      "name": "Los Fierros"
+    },
+    {
+      "id": 141362,
+      "name": "Los Galvan"
+    },
+    {
+      "id": 141363,
+      "name": "Los Lorenzos"
+    },
+    {
+      "id": 141364,
+      "name": "Los Mancera"
+    },
+    {
+      "id": 141365,
+      "name": "Los Medranos"
+    },
+    {
+      "id": 141366,
+      "name": "Los Nicolases"
+    },
+    {
+      "id": 141367,
+      "name": "Los Ocotes"
+    },
+    {
+      "id": 141368,
+      "name": "Los Prietos"
+    },
+    {
+      "id": 141369,
+      "name": "Los Ramírez"
+    },
+    {
+      "id": 141370,
+      "name": "Los Remedios"
+    },
+    {
+      "id": 141371,
+      "name": "Los Rodríguez"
+    },
+    {
+      "id": 141372,
+      "name": "Loza de Barrera"
+    },
+    {
+      "id": 141373,
+      "name": "Loza de los Padres"
+    },
+    {
+      "id": 141374,
+      "name": "Lucio Blanco (Los Gavilanes)"
+    },
+    {
+      "id": 141375,
+      "name": "Magdalena de Araceo"
+    },
+    {
+      "id": 141376,
+      "name": "Malagana (San Antonio del Monte)"
+    },
+    {
+      "id": 141377,
+      "name": "Manuel Doblado"
+    },
+    {
+      "id": 141378,
+      "name": "Maravatío del Encinal"
+    },
+    {
+      "id": 141379,
+      "name": "Marfil"
+    },
+    {
+      "id": 141380,
+      "name": "Marroquín"
+    },
+    {
+      "id": 141381,
+      "name": "Medina"
+    },
+    {
+      "id": 141382,
+      "name": "Medio Sitio"
+    },
+    {
+      "id": 141383,
+      "name": "Menores"
+    },
+    {
+      "id": 141384,
+      "name": "Merino"
+    },
+    {
+      "id": 141385,
+      "name": "Mexicanos"
+    },
+    {
+      "id": 141386,
+      "name": "Mezquite de Luna"
+    },
+    {
+      "id": 141387,
+      "name": "Mezquite de Sotelo"
+    },
+    {
+      "id": 141388,
+      "name": "Mezquite Gordo"
+    },
+    {
+      "id": 141389,
+      "name": "Mineral de la Luz"
+    },
+    {
+      "id": 141390,
+      "name": "Misión de Chichimecas"
+    },
+    {
+      "id": 141391,
+      "name": "Molino de San José"
+    },
+    {
+      "id": 141392,
+      "name": "Molino de Santa Ana"
+    },
+    {
+      "id": 141393,
+      "name": "Monte Blanco"
+    },
+    {
+      "id": 141394,
+      "name": "Monte del Coecillo"
+    },
+    {
+      "id": 141395,
+      "name": "Monte Grande"
+    },
+    {
+      "id": 141396,
+      "name": "Morales"
+    },
+    {
+      "id": 141397,
+      "name": "Moroleón"
+    },
+    {
+      "id": 141398,
+      "name": "Neutla"
+    },
+    {
+      "id": 141399,
+      "name": "Nigromante"
+    },
+    {
+      "id": 141400,
+      "name": "Obrajuelo"
+    },
+    {
+      "id": 141401,
+      "name": "Ocampo"
+    },
+    {
+      "id": 141402,
+      "name": "Ojo de Agua de Ballesteros"
+    },
+    {
+      "id": 141403,
+      "name": "Ojo de Agua de la Trinidad"
+    },
+    {
+      "id": 141404,
+      "name": "Ojo de Agua de Mendoza"
+    },
+    {
+      "id": 141405,
+      "name": "Ojo de Agua del Refugio"
+    },
+    {
+      "id": 141406,
+      "name": "Ojo Seco"
+    },
+    {
+      "id": 141407,
+      "name": "Orduña de Abajo"
+    },
+    {
+      "id": 141408,
+      "name": "Orduña de Arriba"
+    },
+    {
+      "id": 141409,
+      "name": "Otates"
+    },
+    {
+      "id": 141410,
+      "name": "Palmillas de San Juan"
+    },
+    {
+      "id": 141411,
+      "name": "Palo Colorado"
+    },
+    {
+      "id": 141412,
+      "name": "Panales Jamaica (Cañones)"
+    },
+    {
+      "id": 141413,
+      "name": "Parácuaro"
+    },
+    {
+      "id": 141414,
+      "name": "Parangarico"
+    },
+    {
+      "id": 141415,
+      "name": "Paso de Pirules"
+    },
+    {
+      "id": 141416,
+      "name": "Paxtle"
+    },
+    {
+      "id": 141417,
+      "name": "Pénjamo"
+    },
+    {
+      "id": 141418,
+      "name": "Peñuelas"
+    },
+    {
+      "id": 141419,
+      "name": "Peralta"
+    },
+    {
+      "id": 141420,
+      "name": "Piedras de Lumbre"
+    },
+    {
+      "id": 141421,
+      "name": "Piedras Negras"
+    },
+    {
+      "id": 141422,
+      "name": "Piñícuaro"
+    },
+    {
+      "id": 141423,
+      "name": "Plan de Ayala"
+    },
+    {
+      "id": 141424,
+      "name": "Plan Guanajuato (La Sandía)"
+    },
+    {
+      "id": 141425,
+      "name": "Plancarte"
+    },
+    {
+      "id": 141426,
+      "name": "Potrerillos (Guanajal)"
+    },
+    {
+      "id": 141427,
+      "name": "Pozos"
+    },
+    {
+      "id": 141428,
+      "name": "Prados del Rosario"
+    },
+    {
+      "id": 141429,
+      "name": "Presa Blanca"
+    },
+    {
+      "id": 141430,
+      "name": "Primera Fracción de Crespo"
+    },
+    {
+      "id": 141431,
+      "name": "Providencia"
+    },
+    {
+      "id": 141432,
+      "name": "Providencia de Nápoles"
+    },
+    {
+      "id": 141433,
+      "name": "Pueblo Nuevo"
+    },
+    {
+      "id": 141434,
+      "name": "Puentecillas"
+    },
+    {
+      "id": 141435,
+      "name": "Puerta del Monte"
+    },
+    {
+      "id": 141436,
+      "name": "Purísima de Bustos"
+    },
+    {
+      "id": 141437,
+      "name": "Purísima de Covarrubias"
+    },
+    {
+      "id": 141438,
+      "name": "Purísima del Progreso"
+    },
+    {
+      "id": 141439,
+      "name": "Purísima del Rincón"
+    },
+    {
+      "id": 141440,
+      "name": "Puroagua"
+    },
+    {
+      "id": 141441,
+      "name": "Rancho de Guadalupe"
+    },
+    {
+      "id": 141442,
+      "name": "Rancho Nuevo de la Cruz"
+    },
+    {
+      "id": 141443,
+      "name": "Rancho Nuevo de la Luz"
+    },
+    {
+      "id": 141444,
+      "name": "Rancho Nuevo del Llanito"
+    },
+    {
+      "id": 141445,
+      "name": "Rancho Viejo"
+    },
+    {
+      "id": 141446,
+      "name": "Rincón de Cano"
+    },
+    {
+      "id": 141447,
+      "name": "Rincón de Parangueo"
+    },
+    {
+      "id": 141448,
+      "name": "Rincón de Tamayo"
+    },
+    {
+      "id": 141449,
+      "name": "Rincón del Centeno"
+    },
+    {
+      "id": 141450,
+      "name": "Rinconadas del Bosque"
+    },
+    {
+      "id": 141451,
+      "name": "Río Laja"
+    },
+    {
+      "id": 141452,
+      "name": "Rizos de la Joya (Rizos del Saucillo)"
+    },
+    {
+      "id": 141453,
+      "name": "Romita"
+    },
+    {
+      "id": 141454,
+      "name": "Roque"
+    },
+    {
+      "id": 141455,
+      "name": "Salamanca"
+    },
+    {
+      "id": 141456,
+      "name": "Salitrillo"
+    },
+    {
+      "id": 141457,
+      "name": "Salvatierra"
+    },
+    {
+      "id": 141458,
+      "name": "San Agustín de las Flores"
+    },
+    {
+      "id": 141459,
+      "name": "San Andrés Enguaro"
+    },
+    {
+      "id": 141460,
+      "name": "San Ángel"
+    },
+    {
+      "id": 141461,
+      "name": "San Antonio Calichar"
+    },
+    {
+      "id": 141462,
+      "name": "San Antonio de Corrales"
+    },
+    {
+      "id": 141463,
+      "name": "San Antonio de los Morales"
+    },
+    {
+      "id": 141464,
+      "name": "San Antonio de los Tepetates"
+    },
+    {
+      "id": 141465,
+      "name": "San Antonio de Romerillo"
+    },
+    {
+      "id": 141466,
+      "name": "San Antonio el Chico"
+    },
+    {
+      "id": 141467,
+      "name": "San Antonio el Rico"
+    },
+    {
+      "id": 141468,
+      "name": "San Antonio Eménguaro"
+    },
+    {
+      "id": 141469,
+      "name": "San Antonio Gallardo"
+    },
+    {
+      "id": 141470,
+      "name": "San Antonio Primero"
+    },
+    {
+      "id": 141471,
+      "name": "San Antonio Texas"
+    },
+    {
+      "id": 141472,
+      "name": "San Bartolo de Berrios"
+    },
+    {
+      "id": 141473,
+      "name": "San Bartolomé Aguas Calientes"
+    },
+    {
+      "id": 141474,
+      "name": "San Bernardo"
+    },
+    {
+      "id": 141475,
+      "name": "San Bernardo Peña Blanca"
+    },
+    {
+      "id": 141476,
+      "name": "San Cayetano"
+    },
+    {
+      "id": 141477,
+      "name": "San Cristóbal"
+    },
+    {
+      "id": 141478,
+      "name": "San Diego"
+    },
+    {
+      "id": 141479,
+      "name": "San Diego de Alcalá"
+    },
+    {
+      "id": 141480,
+      "name": "San Diego de la Unión"
+    },
+    {
+      "id": 141481,
+      "name": "San Elías"
+    },
+    {
+      "id": 141482,
+      "name": "San Felipe"
+    },
+    {
+      "id": 141483,
+      "name": "San Felipe Quiriceo"
+    },
+    {
+      "id": 141484,
+      "name": "San Francisco"
+    },
+    {
+      "id": 141485,
+      "name": "San Francisco (Baños de Agua Caliente)"
+    },
+    {
+      "id": 141486,
+      "name": "San Francisco de Durán"
+    },
+    {
+      "id": 141487,
+      "name": "San Francisco del Rincón"
+    },
+    {
+      "id": 141488,
+      "name": "San Gabriel"
+    },
+    {
+      "id": 141489,
+      "name": "San Gabriel y San Ignacio"
+    },
+    {
+      "id": 141490,
+      "name": "San Gregorio"
+    },
+    {
+      "id": 141491,
+      "name": "San Ignacio"
+    },
+    {
+      "id": 141492,
+      "name": "San Ignacio de Hidalgo"
+    },
+    {
+      "id": 141493,
+      "name": "San Ignacio de Rivera (Ojo de Agua)"
+    },
+    {
+      "id": 141494,
+      "name": "San Ignacio de San José Parangueo"
+    },
+    {
+      "id": 141495,
+      "name": "San Isidro de Gamboa"
+    },
+    {
+      "id": 141496,
+      "name": "San Isidro de la Concepción"
+    },
+    {
+      "id": 141497,
+      "name": "San Isidro de la Estacada"
+    },
+    {
+      "id": 141498,
+      "name": "San Isidro de los Sauces"
+    },
+    {
+      "id": 141499,
+      "name": "San Javier"
+    },
+    {
+      "id": 141500,
+      "name": "San Jerónimo de Araceo"
+    },
+    {
+      "id": 141501,
+      "name": "San José de Agua Azul"
+    },
+    {
+      "id": 141502,
+      "name": "San José de Ayala"
+    },
+    {
+      "id": 141503,
+      "name": "San José de Bernalejo (El Guayabo)"
+    },
+    {
+      "id": 141504,
+      "name": "San José de Cervera"
+    },
+    {
+      "id": 141505,
+      "name": "San José de Durán (Los Troncoso)"
+    },
+    {
+      "id": 141506,
+      "name": "San José de Guanajuato"
+    },
+    {
+      "id": 141507,
+      "name": "San José de la Montaña"
+    },
+    {
+      "id": 141508,
+      "name": "San José de las Pilas"
+    },
+    {
+      "id": 141509,
+      "name": "San José de Llanos"
+    },
+    {
+      "id": 141510,
+      "name": "San José de Mendoza"
+    },
+    {
+      "id": 141511,
+      "name": "San José de Rancho Nuevo (Los Arrieros)"
+    },
+    {
+      "id": 141512,
+      "name": "San José del Cerrito de Camargo"
+    },
+    {
+      "id": 141513,
+      "name": "San José del Potrero"
+    },
+    {
+      "id": 141514,
+      "name": "San José del Rodeo"
+    },
+    {
+      "id": 141515,
+      "name": "San José del Torreón"
+    },
+    {
+      "id": 141516,
+      "name": "San José el Nuevo"
+    },
+    {
+      "id": 141517,
+      "name": "San José Iturbide"
+    },
+    {
+      "id": 141518,
+      "name": "San José Temascatío"
+    },
+    {
+      "id": 141519,
+      "name": "San José Viborillas"
+    },
+    {
+      "id": 141520,
+      "name": "San Juan Bautista Cacalote"
+    },
+    {
+      "id": 141521,
+      "name": "San Juan de Abajo"
+    },
+    {
+      "id": 141522,
+      "name": "San Juan de la Vega"
+    },
+    {
+      "id": 141523,
+      "name": "San Juan de Otates"
+    },
+    {
+      "id": 141524,
+      "name": "San Juan del Llanito"
+    },
+    {
+      "id": 141525,
+      "name": "San Juan Grande"
+    },
+    {
+      "id": 141526,
+      "name": "San Juan Jaripeo"
+    },
+    {
+      "id": 141527,
+      "name": "San Juan Pan de Arriba"
+    },
+    {
+      "id": 141528,
+      "name": "San Lorenzo"
+    },
+    {
+      "id": 141529,
+      "name": "San Lucas"
+    },
+    {
+      "id": 141530,
+      "name": "San Luis de la Paz"
+    },
+    {
+      "id": 141531,
+      "name": "San Miguel de Allende"
+    },
+    {
+      "id": 141532,
+      "name": "San Miguel del Arenal"
+    },
+    {
+      "id": 141533,
+      "name": "San Miguel Eménguaro"
+    },
+    {
+      "id": 141534,
+      "name": "San Miguel Octopan"
+    },
+    {
+      "id": 141535,
+      "name": "San Nicolás de la Condesa"
+    },
+    {
+      "id": 141536,
+      "name": "San Nicolás de los Agustinos"
+    },
+    {
+      "id": 141537,
+      "name": "San Nicolás del Cármen"
+    },
+    {
+      "id": 141538,
+      "name": "San Nicolás Parangueo"
+    },
+    {
+      "id": 141539,
+      "name": "San Nicolás Temascatío"
+    },
+    {
+      "id": 141540,
+      "name": "San Pablo Pejo"
+    },
+    {
+      "id": 141541,
+      "name": "San Pedro de Ibarra"
+    },
+    {
+      "id": 141542,
+      "name": "San Pedro de los Naranjos"
+    },
+    {
+      "id": 141543,
+      "name": "San Pedro Tenango"
+    },
+    {
+      "id": 141544,
+      "name": "San Roque"
+    },
+    {
+      "id": 141545,
+      "name": "San Roque de Montes"
+    },
+    {
+      "id": 141546,
+      "name": "San Roque de Torres"
+    },
+    {
+      "id": 141547,
+      "name": "San Salvador Torrecillas"
+    },
+    {
+      "id": 141548,
+      "name": "San Sebastián de Salitre"
+    },
+    {
+      "id": 141549,
+      "name": "San Vicente"
+    },
+    {
+      "id": 141550,
+      "name": "San Vicente de Flores"
+    },
+    {
+      "id": 141551,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 141552,
+      "name": "Santa Ana Pacueco"
+    },
+    {
+      "id": 141553,
+      "name": "Santa Anita"
+    },
+    {
+      "id": 141554,
+      "name": "Santa Bárbara"
+    },
+    {
+      "id": 141555,
+      "name": "Santa Catarina"
+    },
+    {
+      "id": 141556,
+      "name": "Santa Clara"
+    },
+    {
+      "id": 141557,
+      "name": "Santa Cruz de Juventino Rosas"
+    },
+    {
+      "id": 141558,
+      "name": "Santa Fe de la Purísima"
+    },
+    {
+      "id": 141559,
+      "name": "Santa María del Refugio"
+    },
+    {
+      "id": 141560,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 141561,
+      "name": "Santa Rosa de Lima"
+    },
+    {
+      "id": 141562,
+      "name": "Santa Rosa de Rivas"
+    },
+    {
+      "id": 141563,
+      "name": "Santa Rosa los Angeles"
+    },
+    {
+      "id": 141564,
+      "name": "Santa Teresa"
+    },
+    {
+      "id": 141565,
+      "name": "Santa Teresita de Don Diego"
+    },
+    {
+      "id": 141566,
+      "name": "Santiago Capitiro"
+    },
+    {
+      "id": 141567,
+      "name": "Santiago de Cuenda"
+    },
+    {
+      "id": 141568,
+      "name": "Santiago Maravatío"
+    },
+    {
+      "id": 141569,
+      "name": "Santo Tomás Huatzindeo"
+    },
+    {
+      "id": 141570,
+      "name": "Sarabia"
+    },
+    {
+      "id": 141571,
+      "name": "Serrano"
+    },
+    {
+      "id": 141572,
+      "name": "Silao"
+    },
+    {
+      "id": 141573,
+      "name": "Silao de la Victoria"
+    },
+    {
+      "id": 141574,
+      "name": "Silva"
+    },
+    {
+      "id": 141575,
+      "name": "Soledad Nueva"
+    },
+    {
+      "id": 141576,
+      "name": "Sotelo"
+    },
+    {
+      "id": 141577,
+      "name": "Suchitlán"
+    },
+    {
+      "id": 141578,
+      "name": "Tamazula"
+    },
+    {
+      "id": 141579,
+      "name": "Tarandacuao"
+    },
+    {
+      "id": 141580,
+      "name": "Taretán"
+    },
+    {
+      "id": 141581,
+      "name": "Tarimoro"
+    },
+    {
+      "id": 141582,
+      "name": "Tejocote de Calera"
+    },
+    {
+      "id": 141583,
+      "name": "Tenango el Nuevo"
+    },
+    {
+      "id": 141584,
+      "name": "Tenería del Santuario"
+    },
+    {
+      "id": 141585,
+      "name": "Tequisquiapan"
+    },
+    {
+      "id": 141586,
+      "name": "Tierra Fría"
+    },
+    {
+      "id": 141587,
+      "name": "Tomelopitos"
+    },
+    {
+      "id": 141588,
+      "name": "Tulillos de Abajo"
+    },
+    {
+      "id": 141589,
+      "name": "Tupataro"
+    },
+    {
+      "id": 141590,
+      "name": "Uriangato"
+    },
+    {
+      "id": 141591,
+      "name": "Urireo"
+    },
+    {
+      "id": 141592,
+      "name": "Valencia de Cerro Gordo"
+    },
+    {
+      "id": 141593,
+      "name": "Valencianita"
+    },
+    {
+      "id": 141594,
+      "name": "Valle de Santiago"
+    },
+    {
+      "id": 141595,
+      "name": "Valtierrilla"
+    },
+    {
+      "id": 141596,
+      "name": "Victoria"
+    },
+    {
+      "id": 141597,
+      "name": "Victoria de Cortazar"
+    },
+    {
+      "id": 141598,
+      "name": "Villagrán"
+    },
+    {
+      "id": 141599,
+      "name": "Villas de Irapuato"
+    },
+    {
+      "id": 141600,
+      "name": "Xichú"
+    },
+    {
+      "id": 141601,
+      "name": "Xoconoxtle el Grande"
+    },
+    {
+      "id": 141602,
+      "name": "Yerbabuena"
+    },
+    {
+      "id": 141603,
+      "name": "Yuriria"
+    },
+    {
+      "id": 141604,
+      "name": "Yustis"
+    },
+    {
+      "id": 141605,
+      "name": "Zangarro (Zangarro Nuevo)"
+    },
+    {
+      "id": 141606,
+      "name": "Zapote de Barajas"
+    },
+    {
+      "id": 141607,
+      "name": "Zapote de Cestao"
+    },
+    {
+      "id": 141608,
+      "name": "Zapote de Palomas"
+    },
+    {
+      "id": 141609,
+      "name": "Zapote de Peralta"
+    },
+    {
+      "id": 141610,
+      "name": "Zapotillo de Mogotes"
+    }
+  ]
+}

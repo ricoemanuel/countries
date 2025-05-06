@@ -1,0 +1,1955 @@
+{
+  "id": 2827,
+  "name": "Styria",
+  "state_code": "6",
+  "cities": [
+    {
+      "id": 79351,
+      "name": "Abtissendorf"
+    },
+    {
+      "id": 79352,
+      "name": "Admont"
+    },
+    {
+      "id": 79353,
+      "name": "Aflenz Kurort"
+    },
+    {
+      "id": 79354,
+      "name": "Aibl"
+    },
+    {
+      "id": 79355,
+      "name": "Aigen im Ennstal"
+    },
+    {
+      "id": 79356,
+      "name": "Albersdorf"
+    },
+    {
+      "id": 79357,
+      "name": "Allerheiligen bei Wildon"
+    },
+    {
+      "id": 79358,
+      "name": "Allerheiligen im Mürztal"
+    },
+    {
+      "id": 79359,
+      "name": "Altaussee"
+    },
+    {
+      "id": 79360,
+      "name": "Altenmarkt bei Fürstenfeld"
+    },
+    {
+      "id": 79361,
+      "name": "Altenmarkt bei Sankt Gallen"
+    },
+    {
+      "id": 79362,
+      "name": "Andritz"
+    },
+    {
+      "id": 79363,
+      "name": "Anger"
+    },
+    {
+      "id": 79364,
+      "name": "Apfelberg"
+    },
+    {
+      "id": 79365,
+      "name": "Ardning"
+    },
+    {
+      "id": 79366,
+      "name": "Arnfels"
+    },
+    {
+      "id": 79367,
+      "name": "Arzberg"
+    },
+    {
+      "id": 79368,
+      "name": "Attendorf"
+    },
+    {
+      "id": 79369,
+      "name": "Auersbach"
+    },
+    {
+      "id": 79370,
+      "name": "Bad Aussee"
+    },
+    {
+      "id": 79371,
+      "name": "Bad Blumau"
+    },
+    {
+      "id": 79372,
+      "name": "Bad Gams"
+    },
+    {
+      "id": 79373,
+      "name": "Bad Gleichenberg"
+    },
+    {
+      "id": 79374,
+      "name": "Bad Radkersburg"
+    },
+    {
+      "id": 79375,
+      "name": "Bad Waltersdorf"
+    },
+    {
+      "id": 79376,
+      "name": "Baierdorf-Umgebung"
+    },
+    {
+      "id": 79377,
+      "name": "Bairisch Kölldorf"
+    },
+    {
+      "id": 79378,
+      "name": "Bärnbach"
+    },
+    {
+      "id": 79379,
+      "name": "Baumgarten bei Gnas"
+    },
+    {
+      "id": 79380,
+      "name": "Berndorf"
+    },
+    {
+      "id": 79381,
+      "name": "Bierbaum am Auersbach"
+    },
+    {
+      "id": 79382,
+      "name": "Birkfeld"
+    },
+    {
+      "id": 79383,
+      "name": "Blaindorf"
+    },
+    {
+      "id": 79384,
+      "name": "Breitenfeld am Tannenriegel"
+    },
+    {
+      "id": 79385,
+      "name": "Breitenfeld an der Rittschein"
+    },
+    {
+      "id": 79386,
+      "name": "Bretstein"
+    },
+    {
+      "id": 79387,
+      "name": "Bruck an der Mur"
+    },
+    {
+      "id": 79388,
+      "name": "Brunn"
+    },
+    {
+      "id": 79389,
+      "name": "Burgau"
+    },
+    {
+      "id": 79390,
+      "name": "Dechantskirchen"
+    },
+    {
+      "id": 79391,
+      "name": "Deuchendorf"
+    },
+    {
+      "id": 79392,
+      "name": "Deutsch Goritz"
+    },
+    {
+      "id": 79393,
+      "name": "Deutschfeistritz"
+    },
+    {
+      "id": 79394,
+      "name": "Deutschlandsberg"
+    },
+    {
+      "id": 79395,
+      "name": "Diemlach"
+    },
+    {
+      "id": 79396,
+      "name": "Dienersdorf"
+    },
+    {
+      "id": 79397,
+      "name": "Dietersdorf"
+    },
+    {
+      "id": 79398,
+      "name": "Dietersdorf am Gnasbach"
+    },
+    {
+      "id": 79399,
+      "name": "Donawitz"
+    },
+    {
+      "id": 79400,
+      "name": "Donnersbach"
+    },
+    {
+      "id": 79401,
+      "name": "Dürnstein in der Steiermark"
+    },
+    {
+      "id": 79402,
+      "name": "Ebersdorf"
+    },
+    {
+      "id": 79403,
+      "name": "Edelsbach bei Feldbach"
+    },
+    {
+      "id": 79404,
+      "name": "Edelschrott"
+    },
+    {
+      "id": 79405,
+      "name": "Edelsgrub"
+    },
+    {
+      "id": 79406,
+      "name": "Edelstauden"
+    },
+    {
+      "id": 79407,
+      "name": "Eggenberg"
+    },
+    {
+      "id": 79408,
+      "name": "Eggersdorf bei Graz"
+    },
+    {
+      "id": 79409,
+      "name": "Ehrenhausen"
+    },
+    {
+      "id": 79410,
+      "name": "Eibiswald"
+    },
+    {
+      "id": 79411,
+      "name": "Eichberg"
+    },
+    {
+      "id": 79412,
+      "name": "Eichfeld"
+    },
+    {
+      "id": 79413,
+      "name": "Eisbach"
+    },
+    {
+      "id": 79414,
+      "name": "Eisenerz"
+    },
+    {
+      "id": 79415,
+      "name": "Empersdorf"
+    },
+    {
+      "id": 79416,
+      "name": "Eppenstein"
+    },
+    {
+      "id": 79417,
+      "name": "Falkenburg"
+    },
+    {
+      "id": 79418,
+      "name": "Farrach"
+    },
+    {
+      "id": 79419,
+      "name": "Fehring"
+    },
+    {
+      "id": 79420,
+      "name": "Feistritz bei Knittelfeld"
+    },
+    {
+      "id": 79421,
+      "name": "Feldbach"
+    },
+    {
+      "id": 79422,
+      "name": "Feldkirchen bei Graz"
+    },
+    {
+      "id": 79423,
+      "name": "Fernitz"
+    },
+    {
+      "id": 79424,
+      "name": "Fischbach"
+    },
+    {
+      "id": 79425,
+      "name": "Fladnitz im Raabtal"
+    },
+    {
+      "id": 79426,
+      "name": "Flatschach"
+    },
+    {
+      "id": 79427,
+      "name": "Floing"
+    },
+    {
+      "id": 79428,
+      "name": "Fohnsdorf"
+    },
+    {
+      "id": 79429,
+      "name": "Frannach"
+    },
+    {
+      "id": 79430,
+      "name": "Frauenberg"
+    },
+    {
+      "id": 79431,
+      "name": "Freidorf an der Laßnitz"
+    },
+    {
+      "id": 79432,
+      "name": "Freiland bei Deutschlandsberg"
+    },
+    {
+      "id": 79433,
+      "name": "Friedberg"
+    },
+    {
+      "id": 79434,
+      "name": "Frohnleiten"
+    },
+    {
+      "id": 79435,
+      "name": "Fürstenfeld"
+    },
+    {
+      "id": 79436,
+      "name": "Gaal"
+    },
+    {
+      "id": 79437,
+      "name": "Gabersdorf"
+    },
+    {
+      "id": 79438,
+      "name": "Gallmannsegg"
+    },
+    {
+      "id": 79439,
+      "name": "Gamlitz"
+    },
+    {
+      "id": 79440,
+      "name": "Gams bei Hieflau"
+    },
+    {
+      "id": 79441,
+      "name": "Ganz"
+    },
+    {
+      "id": 79442,
+      "name": "Garanas"
+    },
+    {
+      "id": 79443,
+      "name": "Gasen"
+    },
+    {
+      "id": 79444,
+      "name": "Geidorf"
+    },
+    {
+      "id": 79445,
+      "name": "Geistthal"
+    },
+    {
+      "id": 79446,
+      "name": "Gersdorf an der Feistritz"
+    },
+    {
+      "id": 79447,
+      "name": "Gleinstätten"
+    },
+    {
+      "id": 79448,
+      "name": "Gleisdorf"
+    },
+    {
+      "id": 79449,
+      "name": "Glojach"
+    },
+    {
+      "id": 79450,
+      "name": "Gnas"
+    },
+    {
+      "id": 79451,
+      "name": "Gniebing"
+    },
+    {
+      "id": 79452,
+      "name": "Gosdorf"
+    },
+    {
+      "id": 79453,
+      "name": "Göss"
+    },
+    {
+      "id": 79454,
+      "name": "Gössenberg"
+    },
+    {
+      "id": 79455,
+      "name": "Gossendorf"
+    },
+    {
+      "id": 79456,
+      "name": "Gösting"
+    },
+    {
+      "id": 79457,
+      "name": "Göttelsberg"
+    },
+    {
+      "id": 79458,
+      "name": "Grabersdorf"
+    },
+    {
+      "id": 79459,
+      "name": "Grafendorf bei Hartberg"
+    },
+    {
+      "id": 79460,
+      "name": "Gralla"
+    },
+    {
+      "id": 79461,
+      "name": "Grambach"
+    },
+    {
+      "id": 79462,
+      "name": "Gratkorn"
+    },
+    {
+      "id": 79463,
+      "name": "Gratwein"
+    },
+    {
+      "id": 79464,
+      "name": "Graz"
+    },
+    {
+      "id": 79465,
+      "name": "Graz Stadt"
+    },
+    {
+      "id": 79466,
+      "name": "Greisdorf"
+    },
+    {
+      "id": 79467,
+      "name": "Gressenberg"
+    },
+    {
+      "id": 79468,
+      "name": "Gries"
+    },
+    {
+      "id": 79469,
+      "name": "Gröbming"
+    },
+    {
+      "id": 79470,
+      "name": "Groß Sankt Florian"
+    },
+    {
+      "id": 79471,
+      "name": "Großklein"
+    },
+    {
+      "id": 79472,
+      "name": "Großlobming"
+    },
+    {
+      "id": 79473,
+      "name": "Großsölk"
+    },
+    {
+      "id": 79474,
+      "name": "Grosssulz"
+    },
+    {
+      "id": 79475,
+      "name": "Gundersdorf"
+    },
+    {
+      "id": 79476,
+      "name": "Hafendorf"
+    },
+    {
+      "id": 79477,
+      "name": "Hainersdorf"
+    },
+    {
+      "id": 79478,
+      "name": "Hainsdorf im Schwarzautal"
+    },
+    {
+      "id": 79479,
+      "name": "Halbenrain"
+    },
+    {
+      "id": 79480,
+      "name": "Hall bei Admont"
+    },
+    {
+      "id": 79481,
+      "name": "Hart bei Graz"
+    },
+    {
+      "id": 79482,
+      "name": "Hartberg"
+    },
+    {
+      "id": 79483,
+      "name": "Hartl"
+    },
+    {
+      "id": 79484,
+      "name": "Hartmannsdorf"
+    },
+    {
+      "id": 79485,
+      "name": "Hatzendorf"
+    },
+    {
+      "id": 79486,
+      "name": "Haus"
+    },
+    {
+      "id": 79487,
+      "name": "Haus im Ennstal"
+    },
+    {
+      "id": 79488,
+      "name": "Hausmannstätten"
+    },
+    {
+      "id": 79489,
+      "name": "Heiligenkreuz am Waasen"
+    },
+    {
+      "id": 79490,
+      "name": "Heimschuh"
+    },
+    {
+      "id": 79491,
+      "name": "Hengsberg"
+    },
+    {
+      "id": 79492,
+      "name": "Hetzendorf"
+    },
+    {
+      "id": 79493,
+      "name": "Hieflau"
+    },
+    {
+      "id": 79494,
+      "name": "Hinterberg"
+    },
+    {
+      "id": 79495,
+      "name": "Hirnsdorf"
+    },
+    {
+      "id": 79496,
+      "name": "Hitzendorf"
+    },
+    {
+      "id": 79497,
+      "name": "Hochtregist"
+    },
+    {
+      "id": 79498,
+      "name": "Höf"
+    },
+    {
+      "id": 79499,
+      "name": "Hof bei Straden"
+    },
+    {
+      "id": 79500,
+      "name": "Hofstätten an der Raab"
+    },
+    {
+      "id": 79501,
+      "name": "Hohenau an der Raab"
+    },
+    {
+      "id": 79502,
+      "name": "Hohentauern"
+    },
+    {
+      "id": 79503,
+      "name": "Hollenegg"
+    },
+    {
+      "id": 79504,
+      "name": "Hönigsberg"
+    },
+    {
+      "id": 79505,
+      "name": "Ilz"
+    },
+    {
+      "id": 79506,
+      "name": "Innere Stadt"
+    },
+    {
+      "id": 79507,
+      "name": "Irdning"
+    },
+    {
+      "id": 79508,
+      "name": "Jagerberg"
+    },
+    {
+      "id": 79509,
+      "name": "Jakomini"
+    },
+    {
+      "id": 79510,
+      "name": "Johnsbach"
+    },
+    {
+      "id": 79511,
+      "name": "Judenburg"
+    },
+    {
+      "id": 79512,
+      "name": "Judendorf"
+    },
+    {
+      "id": 79513,
+      "name": "Kaibing"
+    },
+    {
+      "id": 79514,
+      "name": "Kainach bei Voitsberg"
+    },
+    {
+      "id": 79515,
+      "name": "Kainbach"
+    },
+    {
+      "id": 79516,
+      "name": "Kaindorf"
+    },
+    {
+      "id": 79517,
+      "name": "Kaindorf an der Sulm"
+    },
+    {
+      "id": 79518,
+      "name": "Kalsdorf bei Graz"
+    },
+    {
+      "id": 79519,
+      "name": "Kalwang"
+    },
+    {
+      "id": 79520,
+      "name": "Kammern im Liesingtal"
+    },
+    {
+      "id": 79521,
+      "name": "Kapellen"
+    },
+    {
+      "id": 79522,
+      "name": "Kapfenberg"
+    },
+    {
+      "id": 79523,
+      "name": "Kapfenstein"
+    },
+    {
+      "id": 79524,
+      "name": "Kindberg"
+    },
+    {
+      "id": 79525,
+      "name": "Kirchbach in Steiermark"
+    },
+    {
+      "id": 79526,
+      "name": "Kirchberg an der Raab"
+    },
+    {
+      "id": 79527,
+      "name": "Kirchenviertel"
+    },
+    {
+      "id": 79528,
+      "name": "Kitzeck im Sausal"
+    },
+    {
+      "id": 79529,
+      "name": "Kleinlobming"
+    },
+    {
+      "id": 79530,
+      "name": "Kleinsöding"
+    },
+    {
+      "id": 79531,
+      "name": "Kleinsölk"
+    },
+    {
+      "id": 79532,
+      "name": "Klöch"
+    },
+    {
+      "id": 79533,
+      "name": "Kloster"
+    },
+    {
+      "id": 79534,
+      "name": "Knittelfeld"
+    },
+    {
+      "id": 79535,
+      "name": "Kobenz"
+    },
+    {
+      "id": 79536,
+      "name": "Köflach"
+    },
+    {
+      "id": 79537,
+      "name": "Kohlberg"
+    },
+    {
+      "id": 79538,
+      "name": "Kohlschwarz"
+    },
+    {
+      "id": 79539,
+      "name": "Krakaudorf"
+    },
+    {
+      "id": 79540,
+      "name": "Krakauhintermühlen"
+    },
+    {
+      "id": 79541,
+      "name": "Krakauschatten"
+    },
+    {
+      "id": 79542,
+      "name": "Kraubath an der Mur"
+    },
+    {
+      "id": 79543,
+      "name": "Krieglach"
+    },
+    {
+      "id": 79544,
+      "name": "Krottendorf"
+    },
+    {
+      "id": 79545,
+      "name": "Krottendorf bei Ligist"
+    },
+    {
+      "id": 79546,
+      "name": "Krumegg"
+    },
+    {
+      "id": 79547,
+      "name": "Krusdorf"
+    },
+    {
+      "id": 79548,
+      "name": "Kulm am Zirbitz"
+    },
+    {
+      "id": 79549,
+      "name": "Kumberg"
+    },
+    {
+      "id": 79550,
+      "name": "Labuch"
+    },
+    {
+      "id": 79551,
+      "name": "Lafnitz"
+    },
+    {
+      "id": 79552,
+      "name": "Landl"
+    },
+    {
+      "id": 79553,
+      "name": "Lang"
+    },
+    {
+      "id": 79554,
+      "name": "Langegg bei Graz"
+    },
+    {
+      "id": 79555,
+      "name": "Langenwang"
+    },
+    {
+      "id": 79556,
+      "name": "Lannach"
+    },
+    {
+      "id": 79557,
+      "name": "Lassnitzhöhe"
+    },
+    {
+      "id": 79558,
+      "name": "Leibnitz"
+    },
+    {
+      "id": 79559,
+      "name": "Leitendorf"
+    },
+    {
+      "id": 79560,
+      "name": "Leitersdorf im Raabtal"
+    },
+    {
+      "id": 79561,
+      "name": "Leitring"
+    },
+    {
+      "id": 79562,
+      "name": "Lend"
+    },
+    {
+      "id": 79563,
+      "name": "Leoben"
+    },
+    {
+      "id": 79564,
+      "name": "Leutschach"
+    },
+    {
+      "id": 79565,
+      "name": "Liebenau"
+    },
+    {
+      "id": 79566,
+      "name": "Lieboch"
+    },
+    {
+      "id": 79567,
+      "name": "Liesingtal"
+    },
+    {
+      "id": 79568,
+      "name": "Liezen"
+    },
+    {
+      "id": 79569,
+      "name": "Ligist"
+    },
+    {
+      "id": 79570,
+      "name": "Lödersdorf"
+    },
+    {
+      "id": 79571,
+      "name": "Loipersdorf bei Fürstenfeld"
+    },
+    {
+      "id": 79572,
+      "name": "Maierdorf"
+    },
+    {
+      "id": 79573,
+      "name": "Maria Lankowitz"
+    },
+    {
+      "id": 79574,
+      "name": "Mariahof"
+    },
+    {
+      "id": 79575,
+      "name": "Mariatrost"
+    },
+    {
+      "id": 79576,
+      "name": "Mariazell"
+    },
+    {
+      "id": 79577,
+      "name": "Mautern in Steiermark"
+    },
+    {
+      "id": 79578,
+      "name": "Mellach"
+    },
+    {
+      "id": 79579,
+      "name": "Merkendorf"
+    },
+    {
+      "id": 79580,
+      "name": "Mettersdorf am Saßbach"
+    },
+    {
+      "id": 79581,
+      "name": "Michaelerberg"
+    },
+    {
+      "id": 79582,
+      "name": "Mitterdorf an der Raab"
+    },
+    {
+      "id": 79583,
+      "name": "Mitterdorf im Mürztal"
+    },
+    {
+      "id": 79584,
+      "name": "Mitterlabill"
+    },
+    {
+      "id": 79585,
+      "name": "Mitterndorf im Steirischen Salzkammergut"
+    },
+    {
+      "id": 79586,
+      "name": "Modriach"
+    },
+    {
+      "id": 79587,
+      "name": "Mönichwald"
+    },
+    {
+      "id": 79588,
+      "name": "Mooskirchen"
+    },
+    {
+      "id": 79589,
+      "name": "Mortantsch"
+    },
+    {
+      "id": 79590,
+      "name": "Mühldorf bei Feldbach"
+    },
+    {
+      "id": 79591,
+      "name": "Mühlen"
+    },
+    {
+      "id": 79592,
+      "name": "Murau"
+    },
+    {
+      "id": 79593,
+      "name": "Mureck"
+    },
+    {
+      "id": 79594,
+      "name": "Mürzhofen"
+    },
+    {
+      "id": 79595,
+      "name": "Mürzsteg"
+    },
+    {
+      "id": 79596,
+      "name": "Mürzzuschlag"
+    },
+    {
+      "id": 79597,
+      "name": "Naas"
+    },
+    {
+      "id": 79598,
+      "name": "Nestelbach bei Graz"
+    },
+    {
+      "id": 79599,
+      "name": "Nestelbach im Ilztal"
+    },
+    {
+      "id": 79600,
+      "name": "Neuberg an der Mürz"
+    },
+    {
+      "id": 79601,
+      "name": "Neudau"
+    },
+    {
+      "id": 79602,
+      "name": "Neumarkt in Steiermark"
+    },
+    {
+      "id": 79603,
+      "name": "Neutillmitsch"
+    },
+    {
+      "id": 79604,
+      "name": "Niederöblarn"
+    },
+    {
+      "id": 79605,
+      "name": "Niederschöckl"
+    },
+    {
+      "id": 79606,
+      "name": "Niederwölz"
+    },
+    {
+      "id": 79607,
+      "name": "Niklasdorf"
+    },
+    {
+      "id": 79608,
+      "name": "Nitscha"
+    },
+    {
+      "id": 79609,
+      "name": "Obdach"
+    },
+    {
+      "id": 79610,
+      "name": "Oberaich"
+    },
+    {
+      "id": 79611,
+      "name": "Oberdorf am Hochegg"
+    },
+    {
+      "id": 79612,
+      "name": "Oberhaag"
+    },
+    {
+      "id": 79613,
+      "name": "Oberkurzheim"
+    },
+    {
+      "id": 79614,
+      "name": "Oberpremstätten"
+    },
+    {
+      "id": 79615,
+      "name": "Oberrettenbach"
+    },
+    {
+      "id": 79616,
+      "name": "Oberstorcha"
+    },
+    {
+      "id": 79617,
+      "name": "Obervogau"
+    },
+    {
+      "id": 79618,
+      "name": "Oberweg"
+    },
+    {
+      "id": 79619,
+      "name": "Oberwölz Stadt"
+    },
+    {
+      "id": 79620,
+      "name": "Oberzeiring"
+    },
+    {
+      "id": 79621,
+      "name": "Öblarn"
+    },
+    {
+      "id": 79622,
+      "name": "Oppenberg"
+    },
+    {
+      "id": 79623,
+      "name": "Ortgraben"
+    },
+    {
+      "id": 79624,
+      "name": "Osterwitz"
+    },
+    {
+      "id": 79625,
+      "name": "Pack"
+    },
+    {
+      "id": 79626,
+      "name": "Paldau"
+    },
+    {
+      "id": 79627,
+      "name": "Palfau"
+    },
+    {
+      "id": 79628,
+      "name": "Parschlug"
+    },
+    {
+      "id": 79629,
+      "name": "Passail"
+    },
+    {
+      "id": 79630,
+      "name": "Peggau"
+    },
+    {
+      "id": 79631,
+      "name": "Perchau am Sattel"
+    },
+    {
+      "id": 79632,
+      "name": "Perlsdorf"
+    },
+    {
+      "id": 79633,
+      "name": "Pernegg an der Mur"
+    },
+    {
+      "id": 79634,
+      "name": "Pertlstein"
+    },
+    {
+      "id": 79635,
+      "name": "Piberegg"
+    },
+    {
+      "id": 79636,
+      "name": "Pichling bei Köflach"
+    },
+    {
+      "id": 79637,
+      "name": "Pinggau"
+    },
+    {
+      "id": 79638,
+      "name": "Pirching am Traubenberg"
+    },
+    {
+      "id": 79639,
+      "name": "Pirka"
+    },
+    {
+      "id": 79640,
+      "name": "Pischelsdorf in der Steiermark"
+    },
+    {
+      "id": 79641,
+      "name": "Pistorf"
+    },
+    {
+      "id": 79642,
+      "name": "Pitschgau"
+    },
+    {
+      "id": 79643,
+      "name": "Politischer Bezirk Bruck-Mürzzuschlag"
+    },
+    {
+      "id": 79644,
+      "name": "Politischer Bezirk Deutschlandsberg"
+    },
+    {
+      "id": 79645,
+      "name": "Politischer Bezirk Graz-Umgebung"
+    },
+    {
+      "id": 79646,
+      "name": "Politischer Bezirk Hartberg-Fürstenfeld"
+    },
+    {
+      "id": 79647,
+      "name": "Politischer Bezirk Leibnitz"
+    },
+    {
+      "id": 79648,
+      "name": "Politischer Bezirk Leoben"
+    },
+    {
+      "id": 79649,
+      "name": "Politischer Bezirk Liezen"
+    },
+    {
+      "id": 79650,
+      "name": "Politischer Bezirk Murau"
+    },
+    {
+      "id": 79651,
+      "name": "Politischer Bezirk Murtal"
+    },
+    {
+      "id": 79652,
+      "name": "Politischer Bezirk Südoststeiermark"
+    },
+    {
+      "id": 79653,
+      "name": "Politischer Bezirk Voitsberg"
+    },
+    {
+      "id": 79654,
+      "name": "Politischer Bezirk Weiz"
+    },
+    {
+      "id": 79655,
+      "name": "Pöllau"
+    },
+    {
+      "id": 79656,
+      "name": "Pöllauberg"
+    },
+    {
+      "id": 79657,
+      "name": "Pöls"
+    },
+    {
+      "id": 79658,
+      "name": "Poppendorf"
+    },
+    {
+      "id": 79659,
+      "name": "Preding"
+    },
+    {
+      "id": 79660,
+      "name": "Proleb"
+    },
+    {
+      "id": 79661,
+      "name": "Pruggern"
+    },
+    {
+      "id": 79662,
+      "name": "Puch bei Weiz"
+    },
+    {
+      "id": 79663,
+      "name": "Puntigam"
+    },
+    {
+      "id": 79664,
+      "name": "Pusterwald"
+    },
+    {
+      "id": 79665,
+      "name": "Raaba"
+    },
+    {
+      "id": 79666,
+      "name": "Raabau"
+    },
+    {
+      "id": 79667,
+      "name": "Rabenwald"
+    },
+    {
+      "id": 79668,
+      "name": "Rachau"
+    },
+    {
+      "id": 79669,
+      "name": "Ragnitz"
+    },
+    {
+      "id": 79670,
+      "name": "Ramsau am Dachstein"
+    },
+    {
+      "id": 79671,
+      "name": "Raning"
+    },
+    {
+      "id": 79672,
+      "name": "Ranten"
+    },
+    {
+      "id": 79673,
+      "name": "Rassach"
+    },
+    {
+      "id": 79674,
+      "name": "Ratsch an der Weinstraße"
+    },
+    {
+      "id": 79675,
+      "name": "Ratschendorf"
+    },
+    {
+      "id": 79676,
+      "name": "Ratten"
+    },
+    {
+      "id": 79677,
+      "name": "Reichendorf"
+    },
+    {
+      "id": 79678,
+      "name": "Reifling"
+    },
+    {
+      "id": 79679,
+      "name": "Rettenegg"
+    },
+    {
+      "id": 79680,
+      "name": "Retznei"
+    },
+    {
+      "id": 79681,
+      "name": "Riegersburg"
+    },
+    {
+      "id": 79682,
+      "name": "Ries"
+    },
+    {
+      "id": 79683,
+      "name": "Rohrbach an der Lafnitz"
+    },
+    {
+      "id": 79684,
+      "name": "Rosental an der Kainach"
+    },
+    {
+      "id": 79685,
+      "name": "Röthelstein"
+    },
+    {
+      "id": 79686,
+      "name": "Rottenmann"
+    },
+    {
+      "id": 79687,
+      "name": "Salla"
+    },
+    {
+      "id": 79688,
+      "name": "Sankt Anna am Aigen"
+    },
+    {
+      "id": 79689,
+      "name": "Sankt Bartholomä"
+    },
+    {
+      "id": 79690,
+      "name": "Sankt Blasen"
+    },
+    {
+      "id": 79691,
+      "name": "Sankt Gallen"
+    },
+    {
+      "id": 79692,
+      "name": "Sankt Georgen an der Stiefing"
+    },
+    {
+      "id": 79693,
+      "name": "Sankt Georgen ob Judenburg"
+    },
+    {
+      "id": 79694,
+      "name": "Sankt Georgen ob Murau"
+    },
+    {
+      "id": 79695,
+      "name": "Sankt Ilgen"
+    },
+    {
+      "id": 79696,
+      "name": "Sankt Jakob im Walde"
+    },
+    {
+      "id": 79697,
+      "name": "Sankt Jakob-Breitenau"
+    },
+    {
+      "id": 79698,
+      "name": "Sankt Johann am Tauern"
+    },
+    {
+      "id": 79699,
+      "name": "Sankt Johann bei Herberstein"
+    },
+    {
+      "id": 79700,
+      "name": "Sankt Johann im Saggautal"
+    },
+    {
+      "id": 79701,
+      "name": "Sankt Johann in der Haide"
+    },
+    {
+      "id": 79702,
+      "name": "Sankt Josef (Weststeiermark)"
+    },
+    {
+      "id": 79703,
+      "name": "Sankt Katharein an der Laming"
+    },
+    {
+      "id": 79704,
+      "name": "Sankt Kathrein am Hauenstein"
+    },
+    {
+      "id": 79705,
+      "name": "Sankt Kathrein am Offenegg"
+    },
+    {
+      "id": 79706,
+      "name": "Sankt Lambrecht"
+    },
+    {
+      "id": 79707,
+      "name": "Sankt Leonhard"
+    },
+    {
+      "id": 79708,
+      "name": "Sankt Lorenzen am Wechsel"
+    },
+    {
+      "id": 79709,
+      "name": "Sankt Lorenzen bei Knittelfeld"
+    },
+    {
+      "id": 79710,
+      "name": "Sankt Lorenzen bei Scheifling"
+    },
+    {
+      "id": 79711,
+      "name": "Sankt Lorenzen im Mürztal"
+    },
+    {
+      "id": 79712,
+      "name": "Sankt Marein bei Graz"
+    },
+    {
+      "id": 79713,
+      "name": "Sankt Marein bei Knittelfeld"
+    },
+    {
+      "id": 79714,
+      "name": "Sankt Marein bei Neumarkt"
+    },
+    {
+      "id": 79715,
+      "name": "Sankt Marein im Mürztal"
+    },
+    {
+      "id": 79716,
+      "name": "Sankt Margarethen an der Raab"
+    },
+    {
+      "id": 79717,
+      "name": "Sankt Margarethen bei Knittelfeld"
+    },
+    {
+      "id": 79718,
+      "name": "Sankt Martin"
+    },
+    {
+      "id": 79719,
+      "name": "Sankt Martin am Grimming"
+    },
+    {
+      "id": 79720,
+      "name": "Sankt Martin im Sulmtal"
+    },
+    {
+      "id": 79721,
+      "name": "Sankt Michael in Obersteiermark"
+    },
+    {
+      "id": 79722,
+      "name": "Sankt Nikolai im Sausal"
+    },
+    {
+      "id": 79723,
+      "name": "Sankt Nikolai im Sölktal"
+    },
+    {
+      "id": 79724,
+      "name": "Sankt Nikolai ob Draßling"
+    },
+    {
+      "id": 79725,
+      "name": "Sankt Oswald bei Plankenwarth"
+    },
+    {
+      "id": 79726,
+      "name": "Sankt Oswald ob Eibiswald"
+    },
+    {
+      "id": 79727,
+      "name": "Sankt Peter"
+    },
+    {
+      "id": 79728,
+      "name": "Sankt Peter am Kammersberg"
+    },
+    {
+      "id": 79729,
+      "name": "Sankt Peter am Ottersbach"
+    },
+    {
+      "id": 79730,
+      "name": "Sankt Peter im Sulmtal"
+    },
+    {
+      "id": 79731,
+      "name": "Sankt Peter ob Judenburg"
+    },
+    {
+      "id": 79732,
+      "name": "Sankt Peter-Freienstein"
+    },
+    {
+      "id": 79733,
+      "name": "Sankt Radegund bei Graz"
+    },
+    {
+      "id": 79734,
+      "name": "Sankt Ruprecht an der Raab"
+    },
+    {
+      "id": 79735,
+      "name": "Sankt Stefan im Rosental"
+    },
+    {
+      "id": 79736,
+      "name": "Sankt Stefan ob Leoben"
+    },
+    {
+      "id": 79737,
+      "name": "Sankt Stefan ob Stainz"
+    },
+    {
+      "id": 79738,
+      "name": "Sankt Ulrich am Waasen"
+    },
+    {
+      "id": 79739,
+      "name": "Sankt Veit am Vogau"
+    },
+    {
+      "id": 79740,
+      "name": "Schachen bei Vorau"
+    },
+    {
+      "id": 79741,
+      "name": "Schäffern"
+    },
+    {
+      "id": 79742,
+      "name": "Scheifling"
+    },
+    {
+      "id": 79743,
+      "name": "Schladming"
+    },
+    {
+      "id": 79744,
+      "name": "Schöder"
+    },
+    {
+      "id": 79745,
+      "name": "Schrems bei Frohnleiten"
+    },
+    {
+      "id": 79746,
+      "name": "Schwanberg"
+    },
+    {
+      "id": 79747,
+      "name": "Schwarzau im Schwarzautal"
+    },
+    {
+      "id": 79748,
+      "name": "Sebersdorf"
+    },
+    {
+      "id": 79749,
+      "name": "Seckau"
+    },
+    {
+      "id": 79750,
+      "name": "Seggauberg"
+    },
+    {
+      "id": 79751,
+      "name": "Seiersberg"
+    },
+    {
+      "id": 79752,
+      "name": "Selzthal"
+    },
+    {
+      "id": 79753,
+      "name": "Semriach"
+    },
+    {
+      "id": 79754,
+      "name": "Siegersdorf bei Herberstein"
+    },
+    {
+      "id": 79755,
+      "name": "Sinabelkirchen"
+    },
+    {
+      "id": 79756,
+      "name": "Soboth"
+    },
+    {
+      "id": 79757,
+      "name": "Söchau"
+    },
+    {
+      "id": 79758,
+      "name": "Södingberg"
+    },
+    {
+      "id": 79759,
+      "name": "Spatenhof"
+    },
+    {
+      "id": 79760,
+      "name": "Spielberg bei Knittelfeld"
+    },
+    {
+      "id": 79761,
+      "name": "Spielfeld"
+    },
+    {
+      "id": 79762,
+      "name": "Spital am Semmering"
+    },
+    {
+      "id": 79763,
+      "name": "Stadl an der Mur"
+    },
+    {
+      "id": 79764,
+      "name": "Stainach"
+    },
+    {
+      "id": 79765,
+      "name": "Stainz"
+    },
+    {
+      "id": 79766,
+      "name": "Stainz bei Straden"
+    },
+    {
+      "id": 79767,
+      "name": "Stallhof"
+    },
+    {
+      "id": 79768,
+      "name": "Stallhofen"
+    },
+    {
+      "id": 79769,
+      "name": "Stambach"
+    },
+    {
+      "id": 79770,
+      "name": "Stattegg"
+    },
+    {
+      "id": 79771,
+      "name": "Stein"
+    },
+    {
+      "id": 79772,
+      "name": "Stenzengreith"
+    },
+    {
+      "id": 79773,
+      "name": "Stiwoll"
+    },
+    {
+      "id": 79774,
+      "name": "Straden"
+    },
+    {
+      "id": 79775,
+      "name": "Strallegg"
+    },
+    {
+      "id": 79776,
+      "name": "Straß in Steiermark"
+    },
+    {
+      "id": 79777,
+      "name": "Strassengel"
+    },
+    {
+      "id": 79778,
+      "name": "Straßgang"
+    },
+    {
+      "id": 79779,
+      "name": "Stubenberg"
+    },
+    {
+      "id": 79780,
+      "name": "Studenzen"
+    },
+    {
+      "id": 79781,
+      "name": "Sulztal an der Weinstraße"
+    },
+    {
+      "id": 79782,
+      "name": "Tauplitz"
+    },
+    {
+      "id": 79783,
+      "name": "Teufenbach"
+    },
+    {
+      "id": 79784,
+      "name": "Thal"
+    },
+    {
+      "id": 79785,
+      "name": "Thörl"
+    },
+    {
+      "id": 79786,
+      "name": "Tieschen"
+    },
+    {
+      "id": 79787,
+      "name": "Tillmitsch"
+    },
+    {
+      "id": 79788,
+      "name": "Tillmitsch Links der Laßnitz"
+    },
+    {
+      "id": 79789,
+      "name": "Traboch"
+    },
+    {
+      "id": 79790,
+      "name": "Trahütten"
+    },
+    {
+      "id": 79791,
+      "name": "Trautmannsdorf in Oststeiermark"
+    },
+    {
+      "id": 79792,
+      "name": "Treglwang"
+    },
+    {
+      "id": 79793,
+      "name": "Trieben"
+    },
+    {
+      "id": 79794,
+      "name": "Triebendorf"
+    },
+    {
+      "id": 79795,
+      "name": "Trofaiach"
+    },
+    {
+      "id": 79796,
+      "name": "Trössing"
+    },
+    {
+      "id": 79797,
+      "name": "Turnau"
+    },
+    {
+      "id": 79798,
+      "name": "Übelbach"
+    },
+    {
+      "id": 79799,
+      "name": "Übersbach"
+    },
+    {
+      "id": 79800,
+      "name": "Ungerdorf"
+    },
+    {
+      "id": 79801,
+      "name": "Unterauersbach"
+    },
+    {
+      "id": 79802,
+      "name": "Unterbergla"
+    },
+    {
+      "id": 79803,
+      "name": "Unterfladnitz"
+    },
+    {
+      "id": 79804,
+      "name": "Unterlamm"
+    },
+    {
+      "id": 79805,
+      "name": "Unterpremstätten"
+    },
+    {
+      "id": 79806,
+      "name": "Utschtal"
+    },
+    {
+      "id": 79807,
+      "name": "Vasoldsberg"
+    },
+    {
+      "id": 79808,
+      "name": "Veitsch"
+    },
+    {
+      "id": 79809,
+      "name": "Vogau"
+    },
+    {
+      "id": 79810,
+      "name": "Voitsberg"
+    },
+    {
+      "id": 79811,
+      "name": "Vorau"
+    },
+    {
+      "id": 79812,
+      "name": "Vordernberg"
+    },
+    {
+      "id": 79813,
+      "name": "Wagna"
+    },
+    {
+      "id": 79814,
+      "name": "Wagnitz"
+    },
+    {
+      "id": 79815,
+      "name": "Wald am Schoberpaß"
+    },
+    {
+      "id": 79816,
+      "name": "Waltendorf"
+    },
+    {
+      "id": 79817,
+      "name": "Wartberg"
+    },
+    {
+      "id": 79818,
+      "name": "Weinburg am Saßbach"
+    },
+    {
+      "id": 79819,
+      "name": "Weißenbach bei Liezen"
+    },
+    {
+      "id": 79820,
+      "name": "Weißkirchen in Steiermark"
+    },
+    {
+      "id": 79821,
+      "name": "Weiz"
+    },
+    {
+      "id": 79822,
+      "name": "Werndorf"
+    },
+    {
+      "id": 79823,
+      "name": "Wernersdorf"
+    },
+    {
+      "id": 79824,
+      "name": "Wettmannstätten"
+    },
+    {
+      "id": 79825,
+      "name": "Wetzelsdorf"
+    },
+    {
+      "id": 79826,
+      "name": "Wies"
+    },
+    {
+      "id": 79827,
+      "name": "Wildalpen"
+    },
+    {
+      "id": 79828,
+      "name": "Wildon"
+    },
+    {
+      "id": 79829,
+      "name": "Winklern bei Oberwölz"
+    },
+    {
+      "id": 79830,
+      "name": "Wolfsberg im Schwarzautal"
+    },
+    {
+      "id": 79831,
+      "name": "Wörschach"
+    },
+    {
+      "id": 79832,
+      "name": "Wörth an der Lafnitz"
+    },
+    {
+      "id": 79833,
+      "name": "Wundschuh"
+    },
+    {
+      "id": 79834,
+      "name": "Zeltweg"
+    },
+    {
+      "id": 79835,
+      "name": "Zerlach"
+    },
+    {
+      "id": 79836,
+      "name": "Zettling"
+    },
+    {
+      "id": 79837,
+      "name": "Zeutschach"
+    }
+  ]
+}

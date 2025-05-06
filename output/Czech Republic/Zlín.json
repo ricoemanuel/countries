@@ -1,0 +1,403 @@
+{
+  "id": 3546,
+  "name": "Zlín",
+  "state_code": "724",
+  "cities": [
+    {
+      "id": 95417,
+      "name": "Babice"
+    },
+    {
+      "id": 95418,
+      "name": "Bánov"
+    },
+    {
+      "id": 95419,
+      "name": "Bílovice"
+    },
+    {
+      "id": 95420,
+      "name": "Bojkovice"
+    },
+    {
+      "id": 95421,
+      "name": "Boršice"
+    },
+    {
+      "id": 95422,
+      "name": "Březnice"
+    },
+    {
+      "id": 95423,
+      "name": "Březolupy"
+    },
+    {
+      "id": 95424,
+      "name": "Březová"
+    },
+    {
+      "id": 95425,
+      "name": "Buchlovice"
+    },
+    {
+      "id": 95426,
+      "name": "Bystřice pod Hostýnem"
+    },
+    {
+      "id": 95427,
+      "name": "Chropyně"
+    },
+    {
+      "id": 95428,
+      "name": "Chvalčov"
+    },
+    {
+      "id": 95429,
+      "name": "Dolní Bečva"
+    },
+    {
+      "id": 95430,
+      "name": "Dolní Němčí"
+    },
+    {
+      "id": 95431,
+      "name": "Francova Lhota"
+    },
+    {
+      "id": 95432,
+      "name": "Fryšták"
+    },
+    {
+      "id": 95433,
+      "name": "Halenkov"
+    },
+    {
+      "id": 95434,
+      "name": "Halenkovice"
+    },
+    {
+      "id": 95435,
+      "name": "Hluk"
+    },
+    {
+      "id": 95436,
+      "name": "Holešov"
+    },
+    {
+      "id": 95437,
+      "name": "Horní Bečva"
+    },
+    {
+      "id": 95438,
+      "name": "Horní Lideč"
+    },
+    {
+      "id": 95439,
+      "name": "Hošťálková"
+    },
+    {
+      "id": 95440,
+      "name": "Hovězí"
+    },
+    {
+      "id": 95441,
+      "name": "Hulín"
+    },
+    {
+      "id": 95442,
+      "name": "Hvozdná"
+    },
+    {
+      "id": 95443,
+      "name": "Jablůnka"
+    },
+    {
+      "id": 95444,
+      "name": "Jalubí"
+    },
+    {
+      "id": 95445,
+      "name": "Karolinka"
+    },
+    {
+      "id": 95446,
+      "name": "Kelč"
+    },
+    {
+      "id": 95447,
+      "name": "Kněžpole"
+    },
+    {
+      "id": 95448,
+      "name": "Koryčany"
+    },
+    {
+      "id": 95449,
+      "name": "Kroměříž"
+    },
+    {
+      "id": 95450,
+      "name": "Kunovice"
+    },
+    {
+      "id": 95451,
+      "name": "Kvasice"
+    },
+    {
+      "id": 95452,
+      "name": "Lešná"
+    },
+    {
+      "id": 95453,
+      "name": "Lidečko"
+    },
+    {
+      "id": 95454,
+      "name": "Liptál"
+    },
+    {
+      "id": 95455,
+      "name": "Luhačovice"
+    },
+    {
+      "id": 95456,
+      "name": "Lukov"
+    },
+    {
+      "id": 95457,
+      "name": "Mistřice"
+    },
+    {
+      "id": 95458,
+      "name": "Napajedla"
+    },
+    {
+      "id": 95459,
+      "name": "Nedakonice"
+    },
+    {
+      "id": 95460,
+      "name": "Nedašov"
+    },
+    {
+      "id": 95461,
+      "name": "Nivnice"
+    },
+    {
+      "id": 95462,
+      "name": "Nový Hrozenkov"
+    },
+    {
+      "id": 95463,
+      "name": "Okres Kroměříž"
+    },
+    {
+      "id": 95464,
+      "name": "Okres Uherské Hradiště"
+    },
+    {
+      "id": 95465,
+      "name": "Okres Vsetín"
+    },
+    {
+      "id": 95466,
+      "name": "Okres Zlín"
+    },
+    {
+      "id": 95467,
+      "name": "Ostrožská Lhota"
+    },
+    {
+      "id": 95468,
+      "name": "Ostrožská Nová Ves"
+    },
+    {
+      "id": 95469,
+      "name": "Otrokovice"
+    },
+    {
+      "id": 95470,
+      "name": "Polešovice"
+    },
+    {
+      "id": 95471,
+      "name": "Popovice"
+    },
+    {
+      "id": 95472,
+      "name": "Pozlovice"
+    },
+    {
+      "id": 95473,
+      "name": "Prostřední Bečva"
+    },
+    {
+      "id": 95474,
+      "name": "Prusinovice"
+    },
+    {
+      "id": 95475,
+      "name": "Rataje"
+    },
+    {
+      "id": 95476,
+      "name": "Ratiboř"
+    },
+    {
+      "id": 95477,
+      "name": "Rožnov pod Radhoštěm"
+    },
+    {
+      "id": 95478,
+      "name": "Slavičín"
+    },
+    {
+      "id": 95479,
+      "name": "Slušovice"
+    },
+    {
+      "id": 95480,
+      "name": "Spytihněv"
+    },
+    {
+      "id": 95481,
+      "name": "Staré Město"
+    },
+    {
+      "id": 95482,
+      "name": "Štítná nad Vláří"
+    },
+    {
+      "id": 95483,
+      "name": "Strání"
+    },
+    {
+      "id": 95484,
+      "name": "Suchá Loz"
+    },
+    {
+      "id": 95485,
+      "name": "Šumice"
+    },
+    {
+      "id": 95486,
+      "name": "Tečovice"
+    },
+    {
+      "id": 95487,
+      "name": "Tlumačov"
+    },
+    {
+      "id": 95488,
+      "name": "Topolná"
+    },
+    {
+      "id": 95489,
+      "name": "Traplice"
+    },
+    {
+      "id": 95490,
+      "name": "Trnava"
+    },
+    {
+      "id": 95491,
+      "name": "Tupesy"
+    },
+    {
+      "id": 95492,
+      "name": "Uherské Hradiště"
+    },
+    {
+      "id": 95493,
+      "name": "Uherský Brod"
+    },
+    {
+      "id": 95494,
+      "name": "Uherský Ostroh"
+    },
+    {
+      "id": 95495,
+      "name": "Újezd"
+    },
+    {
+      "id": 95496,
+      "name": "Valašská Bystřice"
+    },
+    {
+      "id": 95497,
+      "name": "Valašská Polanka"
+    },
+    {
+      "id": 95498,
+      "name": "Valašské Klobouky"
+    },
+    {
+      "id": 95499,
+      "name": "Valašské Meziříčí"
+    },
+    {
+      "id": 95500,
+      "name": "Velehrad"
+    },
+    {
+      "id": 95501,
+      "name": "Velké Karlovice"
+    },
+    {
+      "id": 95502,
+      "name": "Vidče"
+    },
+    {
+      "id": 95503,
+      "name": "Vizovice"
+    },
+    {
+      "id": 95504,
+      "name": "Vlachovice"
+    },
+    {
+      "id": 95505,
+      "name": "Vlčnov"
+    },
+    {
+      "id": 95506,
+      "name": "Všemina"
+    },
+    {
+      "id": 95507,
+      "name": "Vsetín"
+    },
+    {
+      "id": 95508,
+      "name": "Záhorovice"
+    },
+    {
+      "id": 95509,
+      "name": "Zašová"
+    },
+    {
+      "id": 95510,
+      "name": "Zborovice"
+    },
+    {
+      "id": 95511,
+      "name": "Zdounky"
+    },
+    {
+      "id": 95512,
+      "name": "Zlechov"
+    },
+    {
+      "id": 95513,
+      "name": "Zlín"
+    },
+    {
+      "id": 95514,
+      "name": "Žlutava"
+    },
+    {
+      "id": 95515,
+      "name": "Zubří"
+    }
+  ]
+}

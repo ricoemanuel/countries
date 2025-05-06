@@ -1,0 +1,451 @@
+{
+  "id": 5130,
+  "name": "Coahuila de Zaragoza",
+  "state_code": "COA",
+  "cities": [
+    {
+      "id": 139918,
+      "name": "Abasolo"
+    },
+    {
+      "id": 139919,
+      "name": "Agua Nueva"
+    },
+    {
+      "id": 139920,
+      "name": "Albia"
+    },
+    {
+      "id": 139921,
+      "name": "Alejo González (Bilbao)"
+    },
+    {
+      "id": 139922,
+      "name": "Arteaga"
+    },
+    {
+      "id": 139923,
+      "name": "Boquilla de las Perlas"
+    },
+    {
+      "id": 139924,
+      "name": "Candela"
+    },
+    {
+      "id": 139925,
+      "name": "Castaños"
+    },
+    {
+      "id": 139926,
+      "name": "Chula Vista"
+    },
+    {
+      "id": 139927,
+      "name": "Ciudad Acuña"
+    },
+    {
+      "id": 139928,
+      "name": "Ciudad Melchor Múzquiz"
+    },
+    {
+      "id": 139929,
+      "name": "Cloete"
+    },
+    {
+      "id": 139930,
+      "name": "Colonia Diana Laura Riojas de Colosio"
+    },
+    {
+      "id": 139931,
+      "name": "Colonia Venustiano Carranza"
+    },
+    {
+      "id": 139932,
+      "name": "Compuertas"
+    },
+    {
+      "id": 139933,
+      "name": "Concordia"
+    },
+    {
+      "id": 139934,
+      "name": "Coyote"
+    },
+    {
+      "id": 139935,
+      "name": "Cuatro Ciénegas de Carranza"
+    },
+    {
+      "id": 139936,
+      "name": "Ejido Venustiano Carranza"
+    },
+    {
+      "id": 139937,
+      "name": "El Cambio"
+    },
+    {
+      "id": 139938,
+      "name": "El Consuelo"
+    },
+    {
+      "id": 139939,
+      "name": "El Cuije"
+    },
+    {
+      "id": 139940,
+      "name": "El Lequeitio"
+    },
+    {
+      "id": 139941,
+      "name": "El Nilo"
+    },
+    {
+      "id": 139942,
+      "name": "El Perú"
+    },
+    {
+      "id": 139943,
+      "name": "El Porvenir (El Porvenir de Arriba)"
+    },
+    {
+      "id": 139944,
+      "name": "El Retiro"
+    },
+    {
+      "id": 139945,
+      "name": "Escuadrón Doscientos Uno"
+    },
+    {
+      "id": 139946,
+      "name": "Fraccionamiento la Noria"
+    },
+    {
+      "id": 139947,
+      "name": "Frontera"
+    },
+    {
+      "id": 139948,
+      "name": "General Cepeda"
+    },
+    {
+      "id": 139949,
+      "name": "Gilita"
+    },
+    {
+      "id": 139950,
+      "name": "Granada"
+    },
+    {
+      "id": 139951,
+      "name": "Guerrero"
+    },
+    {
+      "id": 139952,
+      "name": "Hércules"
+    },
+    {
+      "id": 139953,
+      "name": "Hidalgo"
+    },
+    {
+      "id": 139954,
+      "name": "Hormiguero"
+    },
+    {
+      "id": 139955,
+      "name": "Huachichil"
+    },
+    {
+      "id": 139956,
+      "name": "Huitrón"
+    },
+    {
+      "id": 139957,
+      "name": "Jaboncillo"
+    },
+    {
+      "id": 139958,
+      "name": "Jiménez"
+    },
+    {
+      "id": 139959,
+      "name": "La Concha"
+    },
+    {
+      "id": 139960,
+      "name": "La Cruz"
+    },
+    {
+      "id": 139961,
+      "name": "La Esmeralda"
+    },
+    {
+      "id": 139962,
+      "name": "La Esperanza"
+    },
+    {
+      "id": 139963,
+      "name": "La Fe"
+    },
+    {
+      "id": 139964,
+      "name": "La Florida"
+    },
+    {
+      "id": 139965,
+      "name": "La Luz"
+    },
+    {
+      "id": 139966,
+      "name": "La Palma"
+    },
+    {
+      "id": 139967,
+      "name": "La Partida"
+    },
+    {
+      "id": 139968,
+      "name": "La Paz"
+    },
+    {
+      "id": 139969,
+      "name": "La Perla"
+    },
+    {
+      "id": 139970,
+      "name": "La Pinta"
+    },
+    {
+      "id": 139971,
+      "name": "Laguna del Rey (Químicas del Rey)"
+    },
+    {
+      "id": 139972,
+      "name": "Lamadrid"
+    },
+    {
+      "id": 139973,
+      "name": "Las Mieleras"
+    },
+    {
+      "id": 139974,
+      "name": "Los Álamos"
+    },
+    {
+      "id": 139975,
+      "name": "Luchanas"
+    },
+    {
+      "id": 139976,
+      "name": "Maravillas"
+    },
+    {
+      "id": 139977,
+      "name": "Matamoros"
+    },
+    {
+      "id": 139978,
+      "name": "Mayran"
+    },
+    {
+      "id": 139979,
+      "name": "Minas de Barroterán"
+    },
+    {
+      "id": 139980,
+      "name": "Monclova"
+    },
+    {
+      "id": 139981,
+      "name": "Nadadores"
+    },
+    {
+      "id": 139982,
+      "name": "Nava"
+    },
+    {
+      "id": 139983,
+      "name": "Nueva Rosita"
+    },
+    {
+      "id": 139984,
+      "name": "Nuevo León"
+    },
+    {
+      "id": 139985,
+      "name": "Ocampo"
+    },
+    {
+      "id": 139986,
+      "name": "Ocho de Enero"
+    },
+    {
+      "id": 139987,
+      "name": "Palau"
+    },
+    {
+      "id": 139988,
+      "name": "Paredón"
+    },
+    {
+      "id": 139989,
+      "name": "Parras de la Fuente"
+    },
+    {
+      "id": 139990,
+      "name": "Piedras Negras"
+    },
+    {
+      "id": 139991,
+      "name": "Primero de Mayo"
+    },
+    {
+      "id": 139992,
+      "name": "Progreso"
+    },
+    {
+      "id": 139993,
+      "name": "Purísima"
+    },
+    {
+      "id": 139994,
+      "name": "Ramos Arizpe"
+    },
+    {
+      "id": 139995,
+      "name": "Rancho Alegre"
+    },
+    {
+      "id": 139996,
+      "name": "Río Bravo"
+    },
+    {
+      "id": 139997,
+      "name": "Sabinas"
+    },
+    {
+      "id": 139998,
+      "name": "Sacramento"
+    },
+    {
+      "id": 139999,
+      "name": "Saltillo"
+    },
+    {
+      "id": 140000,
+      "name": "San Antonio de las Alazanas"
+    },
+    {
+      "id": 140001,
+      "name": "San Antonio del Coyote"
+    },
+    {
+      "id": 140002,
+      "name": "San Buenaventura"
+    },
+    {
+      "id": 140003,
+      "name": "San Carlos"
+    },
+    {
+      "id": 140004,
+      "name": "San Esteban de Abajo"
+    },
+    {
+      "id": 140005,
+      "name": "San Francisco de Arriba"
+    },
+    {
+      "id": 140006,
+      "name": "San Ignacio"
+    },
+    {
+      "id": 140007,
+      "name": "San José de Aura"
+    },
+    {
+      "id": 140008,
+      "name": "San Juan de la Vaquería"
+    },
+    {
+      "id": 140009,
+      "name": "San Juan de Sabinas"
+    },
+    {
+      "id": 140010,
+      "name": "San Lorenzo"
+    },
+    {
+      "id": 140011,
+      "name": "San Marcos"
+    },
+    {
+      "id": 140012,
+      "name": "San Miguel"
+    },
+    {
+      "id": 140013,
+      "name": "Santa Ana del Pilar"
+    },
+    {
+      "id": 140014,
+      "name": "Santa Fé"
+    },
+    {
+      "id": 140015,
+      "name": "Santo Niño Aguanaval"
+    },
+    {
+      "id": 140016,
+      "name": "Seis de Octubre (Santo Niño)"
+    },
+    {
+      "id": 140017,
+      "name": "Sierra Mojada"
+    },
+    {
+      "id": 140018,
+      "name": "Solima"
+    },
+    {
+      "id": 140019,
+      "name": "Tacubaya"
+    },
+    {
+      "id": 140020,
+      "name": "Torreón"
+    },
+    {
+      "id": 140021,
+      "name": "Veinte de Noviembre"
+    },
+    {
+      "id": 140022,
+      "name": "Veinte de Noviembre (Santa Lucía)"
+    },
+    {
+      "id": 140023,
+      "name": "Ventana"
+    },
+    {
+      "id": 140024,
+      "name": "Viesca"
+    },
+    {
+      "id": 140025,
+      "name": "Villa Las Esperanzas"
+    },
+    {
+      "id": 140026,
+      "name": "Villa Union"
+    },
+    {
+      "id": 140027,
+      "name": "Virginias"
+    },
+    {
+      "id": 140028,
+      "name": "Zaragoza"
+    }
+  ]
+}

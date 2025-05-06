@@ -1,0 +1,547 @@
+{
+  "id": 5742,
+  "name": "Bulacan",
+  "state_code": "BUL",
+  "cities": [
+    {
+      "id": 157566,
+      "name": "Agay"
+    },
+    {
+      "id": 157567,
+      "name": "Alegria"
+    },
+    {
+      "id": 157568,
+      "name": "Alubijid"
+    },
+    {
+      "id": 157569,
+      "name": "Amaga"
+    },
+    {
+      "id": 157570,
+      "name": "Anticala"
+    },
+    {
+      "id": 157571,
+      "name": "Aras-asan"
+    },
+    {
+      "id": 157572,
+      "name": "Aurora"
+    },
+    {
+      "id": 157573,
+      "name": "Bacolod"
+    },
+    {
+      "id": 157574,
+      "name": "Bacuag"
+    },
+    {
+      "id": 157575,
+      "name": "Bah-Bah"
+    },
+    {
+      "id": 157576,
+      "name": "Balangbalang"
+    },
+    {
+      "id": 157577,
+      "name": "Bancasi"
+    },
+    {
+      "id": 157578,
+      "name": "Bangonay"
+    },
+    {
+      "id": 157579,
+      "name": "Barcelona"
+    },
+    {
+      "id": 157580,
+      "name": "Barobo"
+    },
+    {
+      "id": 157581,
+      "name": "Basa"
+    },
+    {
+      "id": 157582,
+      "name": "Basilisa"
+    },
+    {
+      "id": 157583,
+      "name": "Bayabas"
+    },
+    {
+      "id": 157584,
+      "name": "Bayugan"
+    },
+    {
+      "id": 157585,
+      "name": "Bigaan"
+    },
+    {
+      "id": 157586,
+      "name": "Binucayan"
+    },
+    {
+      "id": 157587,
+      "name": "Bislig"
+    },
+    {
+      "id": 157588,
+      "name": "Borbon"
+    },
+    {
+      "id": 157589,
+      "name": "Buenavista"
+    },
+    {
+      "id": 157590,
+      "name": "Bunawan"
+    },
+    {
+      "id": 157591,
+      "name": "Burgos"
+    },
+    {
+      "id": 157592,
+      "name": "Butuan"
+    },
+    {
+      "id": 157593,
+      "name": "Cabadbaran"
+    },
+    {
+      "id": 157594,
+      "name": "Cagdianao"
+    },
+    {
+      "id": 157595,
+      "name": "Cagwait"
+    },
+    {
+      "id": 157596,
+      "name": "Calamba"
+    },
+    {
+      "id": 157597,
+      "name": "Caloc-an"
+    },
+    {
+      "id": 157598,
+      "name": "Cantapoy"
+    },
+    {
+      "id": 157599,
+      "name": "Cantilan"
+    },
+    {
+      "id": 157600,
+      "name": "Capalayan"
+    },
+    {
+      "id": 157601,
+      "name": "Carmen"
+    },
+    {
+      "id": 157602,
+      "name": "Carrascal"
+    },
+    {
+      "id": 157603,
+      "name": "Causwagan"
+    },
+    {
+      "id": 157604,
+      "name": "City of Cabadbaran"
+    },
+    {
+      "id": 157605,
+      "name": "Claver"
+    },
+    {
+      "id": 157606,
+      "name": "Comagascas"
+    },
+    {
+      "id": 157607,
+      "name": "Cortes"
+    },
+    {
+      "id": 157608,
+      "name": "Cuevas"
+    },
+    {
+      "id": 157609,
+      "name": "Culit"
+    },
+    {
+      "id": 157610,
+      "name": "Dakbayan sa Bislig"
+    },
+    {
+      "id": 157611,
+      "name": "Dapa"
+    },
+    {
+      "id": 157612,
+      "name": "Del Carmen"
+    },
+    {
+      "id": 157613,
+      "name": "Del Pilar"
+    },
+    {
+      "id": 157614,
+      "name": "Dinagat"
+    },
+    {
+      "id": 157615,
+      "name": "Esperanza"
+    },
+    {
+      "id": 157616,
+      "name": "Gamut"
+    },
+    {
+      "id": 157617,
+      "name": "General Luna"
+    },
+    {
+      "id": 157618,
+      "name": "Gigaquit"
+    },
+    {
+      "id": 157619,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 157620,
+      "name": "Guinabsan"
+    },
+    {
+      "id": 157621,
+      "name": "Hinatuan"
+    },
+    {
+      "id": 157622,
+      "name": "Ipil"
+    },
+    {
+      "id": 157623,
+      "name": "Jabonga"
+    },
+    {
+      "id": 157624,
+      "name": "Jagupit"
+    },
+    {
+      "id": 157625,
+      "name": "Javier"
+    },
+    {
+      "id": 157626,
+      "name": "Kauswagan"
+    },
+    {
+      "id": 157627,
+      "name": "Kinabhangan"
+    },
+    {
+      "id": 157628,
+      "name": "Kitcharao"
+    },
+    {
+      "id": 157629,
+      "name": "La Paz"
+    },
+    {
+      "id": 157630,
+      "name": "La Union"
+    },
+    {
+      "id": 157631,
+      "name": "Lanuza"
+    },
+    {
+      "id": 157632,
+      "name": "Lapinigan"
+    },
+    {
+      "id": 157633,
+      "name": "Las Nieves"
+    },
+    {
+      "id": 157634,
+      "name": "Lianga"
+    },
+    {
+      "id": 157635,
+      "name": "Libas"
+    },
+    {
+      "id": 157636,
+      "name": "Libertad"
+    },
+    {
+      "id": 157637,
+      "name": "Libjo"
+    },
+    {
+      "id": 157638,
+      "name": "Lingig"
+    },
+    {
+      "id": 157639,
+      "name": "Loreto"
+    },
+    {
+      "id": 157640,
+      "name": "Los Angeles"
+    },
+    {
+      "id": 157641,
+      "name": "Los Arcos"
+    },
+    {
+      "id": 157642,
+      "name": "Loyola"
+    },
+    {
+      "id": 157643,
+      "name": "Luna"
+    },
+    {
+      "id": 157644,
+      "name": "Mabahin"
+    },
+    {
+      "id": 157645,
+      "name": "Mabua"
+    },
+    {
+      "id": 157646,
+      "name": "Madrid"
+    },
+    {
+      "id": 157647,
+      "name": "Magallanes"
+    },
+    {
+      "id": 157648,
+      "name": "Mainit"
+    },
+    {
+      "id": 157649,
+      "name": "Malimono"
+    },
+    {
+      "id": 157650,
+      "name": "Manapa"
+    },
+    {
+      "id": 157651,
+      "name": "Marihatag"
+    },
+    {
+      "id": 157652,
+      "name": "Matabao"
+    },
+    {
+      "id": 157653,
+      "name": "Mati"
+    },
+    {
+      "id": 157654,
+      "name": "Maygatasan"
+    },
+    {
+      "id": 157655,
+      "name": "Nasipit"
+    },
+    {
+      "id": 157656,
+      "name": "Panikian"
+    },
+    {
+      "id": 157657,
+      "name": "Parang"
+    },
+    {
+      "id": 157658,
+      "name": "Patin-ay"
+    },
+    {
+      "id": 157659,
+      "name": "Pilar"
+    },
+    {
+      "id": 157660,
+      "name": "Placer"
+    },
+    {
+      "id": 157661,
+      "name": "Prosperidad"
+    },
+    {
+      "id": 157662,
+      "name": "Punta"
+    },
+    {
+      "id": 157663,
+      "name": "Rizal"
+    },
+    {
+      "id": 157664,
+      "name": "Rosario"
+    },
+    {
+      "id": 157665,
+      "name": "Salvacion"
+    },
+    {
+      "id": 157666,
+      "name": "San Agustin"
+    },
+    {
+      "id": 157667,
+      "name": "San Benito"
+    },
+    {
+      "id": 157668,
+      "name": "San Francisco"
+    },
+    {
+      "id": 157669,
+      "name": "San Isidro"
+    },
+    {
+      "id": 157670,
+      "name": "San Luis"
+    },
+    {
+      "id": 157671,
+      "name": "San Miguel"
+    },
+    {
+      "id": 157672,
+      "name": "Sanghan"
+    },
+    {
+      "id": 157673,
+      "name": "Santa Ana"
+    },
+    {
+      "id": 157674,
+      "name": "Santa Josefa"
+    },
+    {
+      "id": 157675,
+      "name": "Santa Maria"
+    },
+    {
+      "id": 157676,
+      "name": "Santa Monica"
+    },
+    {
+      "id": 157677,
+      "name": "Santiago"
+    },
+    {
+      "id": 157678,
+      "name": "Santo Tomas"
+    },
+    {
+      "id": 157679,
+      "name": "Sibagat"
+    },
+    {
+      "id": 157680,
+      "name": "Sinubong"
+    },
+    {
+      "id": 157681,
+      "name": "Sison"
+    },
+    {
+      "id": 157682,
+      "name": "Socorro"
+    },
+    {
+      "id": 157683,
+      "name": "Surigao City"
+    },
+    {
+      "id": 157684,
+      "name": "Tagana-an"
+    },
+    {
+      "id": 157685,
+      "name": "Tagbina"
+    },
+    {
+      "id": 157686,
+      "name": "Tagcatong"
+    },
+    {
+      "id": 157687,
+      "name": "Tago"
+    },
+    {
+      "id": 157688,
+      "name": "Talacogon"
+    },
+    {
+      "id": 157689,
+      "name": "Taligaman"
+    },
+    {
+      "id": 157690,
+      "name": "Talisay"
+    },
+    {
+      "id": 157691,
+      "name": "Tandag"
+    },
+    {
+      "id": 157692,
+      "name": "Tidman"
+    },
+    {
+      "id": 157693,
+      "name": "Tigao"
+    },
+    {
+      "id": 157694,
+      "name": "Trento"
+    },
+    {
+      "id": 157695,
+      "name": "Tubajon"
+    },
+    {
+      "id": 157696,
+      "name": "Tubay"
+    },
+    {
+      "id": 157697,
+      "name": "Tubod"
+    },
+    {
+      "id": 157698,
+      "name": "Unidad"
+    },
+    {
+      "id": 157699,
+      "name": "Union"
+    },
+    {
+      "id": 157700,
+      "name": "Veruela"
+    }
+  ]
+}

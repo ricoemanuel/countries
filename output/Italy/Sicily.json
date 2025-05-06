@@ -1,0 +1,1903 @@
+{
+  "id": 4449,
+  "name": "Sicily",
+  "state_code": "82",
+  "cities": [
+    {
+      "id": 132237,
+      "name": "Acate"
+    },
+    {
+      "id": 132238,
+      "name": "Aci Bonaccorsi"
+    },
+    {
+      "id": 132239,
+      "name": "Aci Castello"
+    },
+    {
+      "id": 132240,
+      "name": "Aci Catena"
+    },
+    {
+      "id": 132241,
+      "name": "Aci Sant'Antonio"
+    },
+    {
+      "id": 132242,
+      "name": "Aci Trezza"
+    },
+    {
+      "id": 132243,
+      "name": "Acireale"
+    },
+    {
+      "id": 132244,
+      "name": "Acitrezza"
+    },
+    {
+      "id": 132245,
+      "name": "Acquaviva Platani"
+    },
+    {
+      "id": 132246,
+      "name": "Acquedolci"
+    },
+    {
+      "id": 132247,
+      "name": "Adrano"
+    },
+    {
+      "id": 132248,
+      "name": "Agira"
+    },
+    {
+      "id": 132249,
+      "name": "Agliandroni-Paternella"
+    },
+    {
+      "id": 132250,
+      "name": "Agrigento"
+    },
+    {
+      "id": 132251,
+      "name": "Aidone"
+    },
+    {
+      "id": 132252,
+      "name": "Alcamo"
+    },
+    {
+      "id": 132253,
+      "name": "Alcara Li Fusi"
+    },
+    {
+      "id": 132254,
+      "name": "Alessandria della Rocca"
+    },
+    {
+      "id": 132255,
+      "name": "Alì"
+    },
+    {
+      "id": 132256,
+      "name": "Alì Terme"
+    },
+    {
+      "id": 132257,
+      "name": "Alia"
+    },
+    {
+      "id": 132258,
+      "name": "Alimena"
+    },
+    {
+      "id": 132259,
+      "name": "Aliminusa"
+    },
+    {
+      "id": 132260,
+      "name": "Altavilla Milicia"
+    },
+    {
+      "id": 132261,
+      "name": "Altofonte"
+    },
+    {
+      "id": 132262,
+      "name": "Antillo"
+    },
+    {
+      "id": 132263,
+      "name": "Aragona"
+    },
+    {
+      "id": 132264,
+      "name": "Assoro"
+    },
+    {
+      "id": 132265,
+      "name": "Augusta"
+    },
+    {
+      "id": 132266,
+      "name": "Avola"
+    },
+    {
+      "id": 132267,
+      "name": "Bagheria"
+    },
+    {
+      "id": 132268,
+      "name": "Balestrate"
+    },
+    {
+      "id": 132269,
+      "name": "Barcellona Pozzo di Gotto"
+    },
+    {
+      "id": 132270,
+      "name": "Barrafranca"
+    },
+    {
+      "id": 132271,
+      "name": "Basicò"
+    },
+    {
+      "id": 132272,
+      "name": "Baucina"
+    },
+    {
+      "id": 132273,
+      "name": "Belmonte Mezzagno"
+    },
+    {
+      "id": 132274,
+      "name": "Belpasso"
+    },
+    {
+      "id": 132275,
+      "name": "Belvedere"
+    },
+    {
+      "id": 132276,
+      "name": "Belvedere-Piano Tavola"
+    },
+    {
+      "id": 132277,
+      "name": "Biancavilla"
+    },
+    {
+      "id": 132278,
+      "name": "Bisacquino"
+    },
+    {
+      "id": 132279,
+      "name": "Bivona"
+    },
+    {
+      "id": 132280,
+      "name": "Blufi"
+    },
+    {
+      "id": 132281,
+      "name": "Bolognetta"
+    },
+    {
+      "id": 132282,
+      "name": "Bompensiere"
+    },
+    {
+      "id": 132283,
+      "name": "Bompietro"
+    },
+    {
+      "id": 132284,
+      "name": "Borgetto"
+    },
+    {
+      "id": 132285,
+      "name": "Brolo"
+    },
+    {
+      "id": 132286,
+      "name": "Bronte"
+    },
+    {
+      "id": 132287,
+      "name": "Brucoli"
+    },
+    {
+      "id": 132288,
+      "name": "Buccheri"
+    },
+    {
+      "id": 132289,
+      "name": "Burgio"
+    },
+    {
+      "id": 132290,
+      "name": "Buscemi"
+    },
+    {
+      "id": 132291,
+      "name": "Buseto Palizzolo"
+    },
+    {
+      "id": 132292,
+      "name": "Butera"
+    },
+    {
+      "id": 132293,
+      "name": "Caccamo"
+    },
+    {
+      "id": 132294,
+      "name": "Calamonaci"
+    },
+    {
+      "id": 132295,
+      "name": "Calascibetta"
+    },
+    {
+      "id": 132296,
+      "name": "Calatabiano"
+    },
+    {
+      "id": 132297,
+      "name": "Calatafimi"
+    },
+    {
+      "id": 132298,
+      "name": "Caltabellotta"
+    },
+    {
+      "id": 132299,
+      "name": "Caltagirone"
+    },
+    {
+      "id": 132300,
+      "name": "Caltanissetta"
+    },
+    {
+      "id": 132301,
+      "name": "Caltavuturo"
+    },
+    {
+      "id": 132302,
+      "name": "Camastra"
+    },
+    {
+      "id": 132303,
+      "name": "Cammarata"
+    },
+    {
+      "id": 132304,
+      "name": "Campanella-Gianforma"
+    },
+    {
+      "id": 132305,
+      "name": "Campobello di Licata"
+    },
+    {
+      "id": 132306,
+      "name": "Campobello di Mazara"
+    },
+    {
+      "id": 132307,
+      "name": "Campofelice di Fitalia"
+    },
+    {
+      "id": 132308,
+      "name": "Campofelice di Roccella"
+    },
+    {
+      "id": 132309,
+      "name": "Campofiorito"
+    },
+    {
+      "id": 132310,
+      "name": "Campofranco"
+    },
+    {
+      "id": 132311,
+      "name": "Camporeale"
+    },
+    {
+      "id": 132312,
+      "name": "Camporotondo Etneo"
+    },
+    {
+      "id": 132313,
+      "name": "Canalicchio"
+    },
+    {
+      "id": 132314,
+      "name": "Canicattì"
+    },
+    {
+      "id": 132315,
+      "name": "Canicattini Bagni"
+    },
+    {
+      "id": 132316,
+      "name": "Canneto"
+    },
+    {
+      "id": 132317,
+      "name": "Cannizzaro-Favara"
+    },
+    {
+      "id": 132318,
+      "name": "Capaci"
+    },
+    {
+      "id": 132319,
+      "name": "Capizzi"
+    },
+    {
+      "id": 132320,
+      "name": "Capo d'Orlando"
+    },
+    {
+      "id": 132321,
+      "name": "Capri Leone"
+    },
+    {
+      "id": 132322,
+      "name": "Carini"
+    },
+    {
+      "id": 132323,
+      "name": "Carlentini"
+    },
+    {
+      "id": 132324,
+      "name": "Caronia"
+    },
+    {
+      "id": 132325,
+      "name": "Carrozziere"
+    },
+    {
+      "id": 132326,
+      "name": "Carruba"
+    },
+    {
+      "id": 132327,
+      "name": "Carrubazza-Motta"
+    },
+    {
+      "id": 132328,
+      "name": "Casa Santa"
+    },
+    {
+      "id": 132329,
+      "name": "Casalvecchio Siculo"
+    },
+    {
+      "id": 132330,
+      "name": "Cassaro"
+    },
+    {
+      "id": 132331,
+      "name": "Cassibile"
+    },
+    {
+      "id": 132332,
+      "name": "Castanea delle Furie"
+    },
+    {
+      "id": 132333,
+      "name": "Castel di Judica"
+    },
+    {
+      "id": 132334,
+      "name": "Castel di Lucio"
+    },
+    {
+      "id": 132335,
+      "name": "Castelbuono"
+    },
+    {
+      "id": 132336,
+      "name": "Casteldaccia"
+    },
+    {
+      "id": 132337,
+      "name": "Castell'Umberto"
+    },
+    {
+      "id": 132338,
+      "name": "Castellammare del Golfo"
+    },
+    {
+      "id": 132339,
+      "name": "Castellana Sicula"
+    },
+    {
+      "id": 132340,
+      "name": "Castelluzzo"
+    },
+    {
+      "id": 132341,
+      "name": "Castelmola"
+    },
+    {
+      "id": 132342,
+      "name": "Casteltermini"
+    },
+    {
+      "id": 132343,
+      "name": "Castelvetrano"
+    },
+    {
+      "id": 132344,
+      "name": "Castiglione di Sicilia"
+    },
+    {
+      "id": 132345,
+      "name": "Castrofilippo"
+    },
+    {
+      "id": 132346,
+      "name": "Castronuovo di Sicilia"
+    },
+    {
+      "id": 132347,
+      "name": "Castroreale"
+    },
+    {
+      "id": 132348,
+      "name": "Catania"
+    },
+    {
+      "id": 132349,
+      "name": "Catenanuova"
+    },
+    {
+      "id": 132350,
+      "name": "Cattolica Eraclea"
+    },
+    {
+      "id": 132351,
+      "name": "Cava d'Aliga"
+    },
+    {
+      "id": 132352,
+      "name": "Cefalà Diana"
+    },
+    {
+      "id": 132353,
+      "name": "Cefalù"
+    },
+    {
+      "id": 132354,
+      "name": "Centuripe"
+    },
+    {
+      "id": 132355,
+      "name": "Cerami"
+    },
+    {
+      "id": 132356,
+      "name": "Cerda"
+    },
+    {
+      "id": 132357,
+      "name": "Cerza"
+    },
+    {
+      "id": 132358,
+      "name": "Cesarò"
+    },
+    {
+      "id": 132359,
+      "name": "Chianchitta-Pallio"
+    },
+    {
+      "id": 132360,
+      "name": "Chianchitta-Trappitello"
+    },
+    {
+      "id": 132361,
+      "name": "Chiaramonte Gulfi"
+    },
+    {
+      "id": 132362,
+      "name": "Chiusa Sclafani"
+    },
+    {
+      "id": 132363,
+      "name": "Ciaculli"
+    },
+    {
+      "id": 132364,
+      "name": "Cianciana"
+    },
+    {
+      "id": 132365,
+      "name": "Ciavolo"
+    },
+    {
+      "id": 132366,
+      "name": "Ciminna"
+    },
+    {
+      "id": 132367,
+      "name": "Cinisi"
+    },
+    {
+      "id": 132368,
+      "name": "Città Giardino"
+    },
+    {
+      "id": 132369,
+      "name": "Collesano"
+    },
+    {
+      "id": 132370,
+      "name": "Comiso"
+    },
+    {
+      "id": 132371,
+      "name": "Comitini"
+    },
+    {
+      "id": 132372,
+      "name": "Condrò"
+    },
+    {
+      "id": 132373,
+      "name": "Contessa Entellina"
+    },
+    {
+      "id": 132374,
+      "name": "Corleone"
+    },
+    {
+      "id": 132375,
+      "name": "Custonaci"
+    },
+    {
+      "id": 132376,
+      "name": "Delia"
+    },
+    {
+      "id": 132377,
+      "name": "Donnalucata"
+    },
+    {
+      "id": 132378,
+      "name": "Enna"
+    },
+    {
+      "id": 132379,
+      "name": "Erice"
+    },
+    {
+      "id": 132380,
+      "name": "Evangelisti-Rubino"
+    },
+    {
+      "id": 132381,
+      "name": "Falcone"
+    },
+    {
+      "id": 132382,
+      "name": "Faro Superiore"
+    },
+    {
+      "id": 132383,
+      "name": "Favara"
+    },
+    {
+      "id": 132384,
+      "name": "Favignana"
+    },
+    {
+      "id": 132385,
+      "name": "Ferla"
+    },
+    {
+      "id": 132386,
+      "name": "Ficarazzi"
+    },
+    {
+      "id": 132387,
+      "name": "Ficarra"
+    },
+    {
+      "id": 132388,
+      "name": "Finale"
+    },
+    {
+      "id": 132389,
+      "name": "Fiumedinisi"
+    },
+    {
+      "id": 132390,
+      "name": "Fiumefreddo Sicilia"
+    },
+    {
+      "id": 132391,
+      "name": "Floresta"
+    },
+    {
+      "id": 132392,
+      "name": "Floridia"
+    },
+    {
+      "id": 132393,
+      "name": "Fondachelli-Fantina"
+    },
+    {
+      "id": 132394,
+      "name": "Forza d'Agrò"
+    },
+    {
+      "id": 132395,
+      "name": "Francavilla di Sicilia"
+    },
+    {
+      "id": 132396,
+      "name": "Francofonte"
+    },
+    {
+      "id": 132397,
+      "name": "Frazzanò"
+    },
+    {
+      "id": 132398,
+      "name": "Fulgatore-Torretta"
+    },
+    {
+      "id": 132399,
+      "name": "Furci Siculo"
+    },
+    {
+      "id": 132400,
+      "name": "Furnari"
+    },
+    {
+      "id": 132401,
+      "name": "Gaggi"
+    },
+    {
+      "id": 132402,
+      "name": "Gagliano Castelferrato"
+    },
+    {
+      "id": 132403,
+      "name": "Galati Mamertino"
+    },
+    {
+      "id": 132404,
+      "name": "Gallodoro"
+    },
+    {
+      "id": 132405,
+      "name": "Gangi"
+    },
+    {
+      "id": 132406,
+      "name": "Gela"
+    },
+    {
+      "id": 132407,
+      "name": "Geraci Siculo"
+    },
+    {
+      "id": 132408,
+      "name": "Giacalone"
+    },
+    {
+      "id": 132409,
+      "name": "Giammoro"
+    },
+    {
+      "id": 132410,
+      "name": "Giardina Gallotti"
+    },
+    {
+      "id": 132411,
+      "name": "Giardinello"
+    },
+    {
+      "id": 132412,
+      "name": "Giardini-Naxos"
+    },
+    {
+      "id": 132413,
+      "name": "Giarratana"
+    },
+    {
+      "id": 132414,
+      "name": "Giarre"
+    },
+    {
+      "id": 132415,
+      "name": "Gioiosa Marea"
+    },
+    {
+      "id": 132416,
+      "name": "Giuliana"
+    },
+    {
+      "id": 132417,
+      "name": "Gliaca"
+    },
+    {
+      "id": 132418,
+      "name": "Godrano"
+    },
+    {
+      "id": 132419,
+      "name": "Grammichele"
+    },
+    {
+      "id": 132420,
+      "name": "Graniti"
+    },
+    {
+      "id": 132421,
+      "name": "Gratteri"
+    },
+    {
+      "id": 132422,
+      "name": "Gravina di Catania"
+    },
+    {
+      "id": 132423,
+      "name": "Grotte"
+    },
+    {
+      "id": 132424,
+      "name": "Gualtieri Sicaminò"
+    },
+    {
+      "id": 132425,
+      "name": "Guidomandri Marina"
+    },
+    {
+      "id": 132426,
+      "name": "Isnello"
+    },
+    {
+      "id": 132427,
+      "name": "Isola delle Femmine"
+    },
+    {
+      "id": 132428,
+      "name": "Ispica"
+    },
+    {
+      "id": 132429,
+      "name": "Itala"
+    },
+    {
+      "id": 132430,
+      "name": "Joppolo Giancaxio"
+    },
+    {
+      "id": 132431,
+      "name": "Kamma"
+    },
+    {
+      "id": 132432,
+      "name": "Lampedusa"
+    },
+    {
+      "id": 132433,
+      "name": "Larderia"
+    },
+    {
+      "id": 132434,
+      "name": "Lascari"
+    },
+    {
+      "id": 132435,
+      "name": "Lavinaio-Monterosso"
+    },
+    {
+      "id": 132436,
+      "name": "Leni"
+    },
+    {
+      "id": 132437,
+      "name": "Lentini"
+    },
+    {
+      "id": 132438,
+      "name": "Leonforte"
+    },
+    {
+      "id": 132439,
+      "name": "Lercara Friddi"
+    },
+    {
+      "id": 132440,
+      "name": "Letojanni"
+    },
+    {
+      "id": 132441,
+      "name": "Librizzi"
+    },
+    {
+      "id": 132442,
+      "name": "Licata"
+    },
+    {
+      "id": 132443,
+      "name": "Licodia Eubea"
+    },
+    {
+      "id": 132444,
+      "name": "Limina"
+    },
+    {
+      "id": 132445,
+      "name": "Linera"
+    },
+    {
+      "id": 132446,
+      "name": "Linguaglossa"
+    },
+    {
+      "id": 132447,
+      "name": "Lipari"
+    },
+    {
+      "id": 132448,
+      "name": "Longi"
+    },
+    {
+      "id": 132449,
+      "name": "Lucca Sicula"
+    },
+    {
+      "id": 132450,
+      "name": "Maletto"
+    },
+    {
+      "id": 132451,
+      "name": "Malfa"
+    },
+    {
+      "id": 132452,
+      "name": "Malvagna"
+    },
+    {
+      "id": 132453,
+      "name": "Mandanici"
+    },
+    {
+      "id": 132454,
+      "name": "Maniace"
+    },
+    {
+      "id": 132455,
+      "name": "Marausa"
+    },
+    {
+      "id": 132456,
+      "name": "Marianopoli"
+    },
+    {
+      "id": 132457,
+      "name": "Marina di Caronia"
+    },
+    {
+      "id": 132458,
+      "name": "Marina di Ragusa"
+    },
+    {
+      "id": 132459,
+      "name": "Marinella"
+    },
+    {
+      "id": 132460,
+      "name": "Marineo"
+    },
+    {
+      "id": 132461,
+      "name": "Marsala"
+    },
+    {
+      "id": 132462,
+      "name": "Mascali"
+    },
+    {
+      "id": 132463,
+      "name": "Mascalucia"
+    },
+    {
+      "id": 132464,
+      "name": "Maugeri"
+    },
+    {
+      "id": 132465,
+      "name": "Mazara del Vallo"
+    },
+    {
+      "id": 132466,
+      "name": "Mazara II"
+    },
+    {
+      "id": 132467,
+      "name": "Mazzarino"
+    },
+    {
+      "id": 132468,
+      "name": "Mazzarrà Sant'Andrea"
+    },
+    {
+      "id": 132469,
+      "name": "Mazzarrone"
+    },
+    {
+      "id": 132470,
+      "name": "Melia"
+    },
+    {
+      "id": 132471,
+      "name": "Melilli"
+    },
+    {
+      "id": 132472,
+      "name": "Menfi"
+    },
+    {
+      "id": 132473,
+      "name": "Merì"
+    },
+    {
+      "id": 132474,
+      "name": "Messina"
+    },
+    {
+      "id": 132475,
+      "name": "Mezzojuso"
+    },
+    {
+      "id": 132476,
+      "name": "Milazzo"
+    },
+    {
+      "id": 132477,
+      "name": "Milena"
+    },
+    {
+      "id": 132478,
+      "name": "Militello in Val di Catania"
+    },
+    {
+      "id": 132479,
+      "name": "Militello Rosmarino"
+    },
+    {
+      "id": 132480,
+      "name": "Milo"
+    },
+    {
+      "id": 132481,
+      "name": "Mineo"
+    },
+    {
+      "id": 132482,
+      "name": "Mirabella Imbaccari"
+    },
+    {
+      "id": 132483,
+      "name": "Mirto"
+    },
+    {
+      "id": 132484,
+      "name": "Misilmeri"
+    },
+    {
+      "id": 132485,
+      "name": "Misterbianco"
+    },
+    {
+      "id": 132486,
+      "name": "Mistretta"
+    },
+    {
+      "id": 132487,
+      "name": "Modica"
+    },
+    {
+      "id": 132488,
+      "name": "Moio Alcantara"
+    },
+    {
+      "id": 132489,
+      "name": "Monforte San Giorgio"
+    },
+    {
+      "id": 132490,
+      "name": "Mongiuffi Melia"
+    },
+    {
+      "id": 132491,
+      "name": "Monreale"
+    },
+    {
+      "id": 132492,
+      "name": "Montagnareale"
+    },
+    {
+      "id": 132493,
+      "name": "Montalbano Elicona"
+    },
+    {
+      "id": 132494,
+      "name": "Montallegro"
+    },
+    {
+      "id": 132495,
+      "name": "Montedoro"
+    },
+    {
+      "id": 132496,
+      "name": "Montelepre"
+    },
+    {
+      "id": 132497,
+      "name": "Montemaggiore Belsito"
+    },
+    {
+      "id": 132498,
+      "name": "Monterosso Almo"
+    },
+    {
+      "id": 132499,
+      "name": "Montevago"
+    },
+    {
+      "id": 132500,
+      "name": "Motta Camastra"
+    },
+    {
+      "id": 132501,
+      "name": "Motta d'Affermo"
+    },
+    {
+      "id": 132502,
+      "name": "Motta Sant'Anastasia"
+    },
+    {
+      "id": 132503,
+      "name": "Mussomeli"
+    },
+    {
+      "id": 132504,
+      "name": "Naro"
+    },
+    {
+      "id": 132505,
+      "name": "Naso"
+    },
+    {
+      "id": 132506,
+      "name": "Nicolosi"
+    },
+    {
+      "id": 132507,
+      "name": "Nicosia"
+    },
+    {
+      "id": 132508,
+      "name": "Niscemi"
+    },
+    {
+      "id": 132509,
+      "name": "Nissoria"
+    },
+    {
+      "id": 132510,
+      "name": "Nizza di Sicilia"
+    },
+    {
+      "id": 132511,
+      "name": "Noto"
+    },
+    {
+      "id": 132512,
+      "name": "Novara di Sicilia"
+    },
+    {
+      "id": 132513,
+      "name": "Nunziata"
+    },
+    {
+      "id": 132514,
+      "name": "Nuova Gibellina"
+    },
+    {
+      "id": 132515,
+      "name": "Nuovo Centro Urbano Poggioreale"
+    },
+    {
+      "id": 132516,
+      "name": "Oliveri"
+    },
+    {
+      "id": 132517,
+      "name": "Pace del Mela"
+    },
+    {
+      "id": 132518,
+      "name": "Paceco"
+    },
+    {
+      "id": 132519,
+      "name": "Pachino"
+    },
+    {
+      "id": 132520,
+      "name": "Pagliara"
+    },
+    {
+      "id": 132521,
+      "name": "Palagonia"
+    },
+    {
+      "id": 132522,
+      "name": "Palazzo Adriano"
+    },
+    {
+      "id": 132523,
+      "name": "Palazzolo"
+    },
+    {
+      "id": 132524,
+      "name": "Palazzolo Acreide"
+    },
+    {
+      "id": 132525,
+      "name": "Palermo"
+    },
+    {
+      "id": 132526,
+      "name": "Palma di Montechiaro"
+    },
+    {
+      "id": 132527,
+      "name": "Pantelleria"
+    },
+    {
+      "id": 132528,
+      "name": "Partanna"
+    },
+    {
+      "id": 132529,
+      "name": "Partinico"
+    },
+    {
+      "id": 132530,
+      "name": "Pasteria-Lapide"
+    },
+    {
+      "id": 132531,
+      "name": "Paternò"
+    },
+    {
+      "id": 132532,
+      "name": "Patti"
+    },
+    {
+      "id": 132533,
+      "name": "Pedagaggi"
+    },
+    {
+      "id": 132534,
+      "name": "Pedalino"
+    },
+    {
+      "id": 132535,
+      "name": "Pedara"
+    },
+    {
+      "id": 132536,
+      "name": "Pennisi"
+    },
+    {
+      "id": 132537,
+      "name": "Petralia Soprana"
+    },
+    {
+      "id": 132538,
+      "name": "Petralia Sottana"
+    },
+    {
+      "id": 132539,
+      "name": "Petrosino"
+    },
+    {
+      "id": 132540,
+      "name": "Pettineo"
+    },
+    {
+      "id": 132541,
+      "name": "Piana degli Albanesi"
+    },
+    {
+      "id": 132542,
+      "name": "Piano dei Geli"
+    },
+    {
+      "id": 132543,
+      "name": "Piano Maglio-Blandino"
+    },
+    {
+      "id": 132544,
+      "name": "Pianoconte"
+    },
+    {
+      "id": 132545,
+      "name": "Piazza Armerina"
+    },
+    {
+      "id": 132546,
+      "name": "Piedimonte Etneo"
+    },
+    {
+      "id": 132547,
+      "name": "Pietraperzia"
+    },
+    {
+      "id": 132548,
+      "name": "Pioppo"
+    },
+    {
+      "id": 132549,
+      "name": "Piraino"
+    },
+    {
+      "id": 132550,
+      "name": "Polizzi Generosa"
+    },
+    {
+      "id": 132551,
+      "name": "Pollina"
+    },
+    {
+      "id": 132552,
+      "name": "Portella di Mare"
+    },
+    {
+      "id": 132553,
+      "name": "Porto Empedocle"
+    },
+    {
+      "id": 132554,
+      "name": "Portopalo di Capo Passero"
+    },
+    {
+      "id": 132555,
+      "name": "Pozzallo"
+    },
+    {
+      "id": 132556,
+      "name": "Priolo Gargallo"
+    },
+    {
+      "id": 132557,
+      "name": "Prizzi"
+    },
+    {
+      "id": 132558,
+      "name": "Provincia di Caltanissetta"
+    },
+    {
+      "id": 132559,
+      "name": "Provincia di Siracusa"
+    },
+    {
+      "id": 132560,
+      "name": "Racalmuto"
+    },
+    {
+      "id": 132561,
+      "name": "Raccuja"
+    },
+    {
+      "id": 132562,
+      "name": "Raddusa"
+    },
+    {
+      "id": 132563,
+      "name": "Raffadali"
+    },
+    {
+      "id": 132564,
+      "name": "Ragalna"
+    },
+    {
+      "id": 132565,
+      "name": "Ragusa"
+    },
+    {
+      "id": 132566,
+      "name": "Ramacca"
+    },
+    {
+      "id": 132567,
+      "name": "Randazzo"
+    },
+    {
+      "id": 132568,
+      "name": "Ravanusa"
+    },
+    {
+      "id": 132569,
+      "name": "Realmonte"
+    },
+    {
+      "id": 132570,
+      "name": "Regalbuto"
+    },
+    {
+      "id": 132571,
+      "name": "Reitano"
+    },
+    {
+      "id": 132572,
+      "name": "Resuttano"
+    },
+    {
+      "id": 132573,
+      "name": "Ribera"
+    },
+    {
+      "id": 132574,
+      "name": "Riesi"
+    },
+    {
+      "id": 132575,
+      "name": "Rilievo"
+    },
+    {
+      "id": 132576,
+      "name": "Riposto"
+    },
+    {
+      "id": 132577,
+      "name": "Rocca di Capri Leone"
+    },
+    {
+      "id": 132578,
+      "name": "Roccafiorita"
+    },
+    {
+      "id": 132579,
+      "name": "Roccalumera"
+    },
+    {
+      "id": 132580,
+      "name": "Roccamena"
+    },
+    {
+      "id": 132581,
+      "name": "Roccapalumba"
+    },
+    {
+      "id": 132582,
+      "name": "Roccavaldina"
+    },
+    {
+      "id": 132583,
+      "name": "Roccella Valdemone"
+    },
+    {
+      "id": 132584,
+      "name": "Rodì"
+    },
+    {
+      "id": 132585,
+      "name": "Rometta"
+    },
+    {
+      "id": 132586,
+      "name": "Rometta Marea"
+    },
+    {
+      "id": 132587,
+      "name": "Rosolini"
+    },
+    {
+      "id": 132588,
+      "name": "Salaparuta"
+    },
+    {
+      "id": 132589,
+      "name": "Salemi"
+    },
+    {
+      "id": 132590,
+      "name": "Sambuca di Sicilia"
+    },
+    {
+      "id": 132591,
+      "name": "San Biagio Platani"
+    },
+    {
+      "id": 132592,
+      "name": "San Cataldo"
+    },
+    {
+      "id": 132593,
+      "name": "San Cipirello"
+    },
+    {
+      "id": 132594,
+      "name": "San Ciro-Ulmi-Filci"
+    },
+    {
+      "id": 132595,
+      "name": "San Cono"
+    },
+    {
+      "id": 132596,
+      "name": "San Filippo del Mela"
+    },
+    {
+      "id": 132597,
+      "name": "San Fratello"
+    },
+    {
+      "id": 132598,
+      "name": "San Giorgio"
+    },
+    {
+      "id": 132599,
+      "name": "San Giovanni"
+    },
+    {
+      "id": 132600,
+      "name": "San Giovanni Gemini"
+    },
+    {
+      "id": 132601,
+      "name": "San Giovanni la Punta"
+    },
+    {
+      "id": 132602,
+      "name": "San Giuseppe Jato"
+    },
+    {
+      "id": 132603,
+      "name": "San Gregorio di Catania"
+    },
+    {
+      "id": 132604,
+      "name": "San Leone Mosè"
+    },
+    {
+      "id": 132605,
+      "name": "San Marco d'Alunzio"
+    },
+    {
+      "id": 132606,
+      "name": "San Mauro Castelverde"
+    },
+    {
+      "id": 132607,
+      "name": "San Michele di Ganzaria"
+    },
+    {
+      "id": 132608,
+      "name": "San Pier Niceto"
+    },
+    {
+      "id": 132609,
+      "name": "San Piero Patti"
+    },
+    {
+      "id": 132610,
+      "name": "San Pietro Clarenza"
+    },
+    {
+      "id": 132611,
+      "name": "San Salvatore di Fitalia"
+    },
+    {
+      "id": 132612,
+      "name": "San Teodoro"
+    },
+    {
+      "id": 132613,
+      "name": "San Vito Lo Capo"
+    },
+    {
+      "id": 132614,
+      "name": "Sant'Agata di Militello"
+    },
+    {
+      "id": 132615,
+      "name": "Sant'Agata Li Battiati"
+    },
+    {
+      "id": 132616,
+      "name": "Sant'Alessio Siculo"
+    },
+    {
+      "id": 132617,
+      "name": "Sant'Alfio"
+    },
+    {
+      "id": 132618,
+      "name": "Sant'Angelo di Brolo"
+    },
+    {
+      "id": 132619,
+      "name": "Sant'Angelo Muxaro"
+    },
+    {
+      "id": 132620,
+      "name": "Santa Caterina Villarmosa"
+    },
+    {
+      "id": 132621,
+      "name": "Santa Cristina Gela"
+    },
+    {
+      "id": 132622,
+      "name": "Santa Croce Camerina"
+    },
+    {
+      "id": 132623,
+      "name": "Santa Domenica Vittoria"
+    },
+    {
+      "id": 132624,
+      "name": "Santa Elisabetta"
+    },
+    {
+      "id": 132625,
+      "name": "Santa Flavia"
+    },
+    {
+      "id": 132626,
+      "name": "Santa Lucia del Mela"
+    },
+    {
+      "id": 132627,
+      "name": "Santa Margherita di Belice"
+    },
+    {
+      "id": 132628,
+      "name": "Santa Maria di Licodia"
+    },
+    {
+      "id": 132629,
+      "name": "Santa Maria la Stella"
+    },
+    {
+      "id": 132630,
+      "name": "Santa Marina Salina"
+    },
+    {
+      "id": 132631,
+      "name": "Santa Ninfa"
+    },
+    {
+      "id": 132632,
+      "name": "Santa Teresa di Riva"
+    },
+    {
+      "id": 132633,
+      "name": "Santa Venerina"
+    },
+    {
+      "id": 132634,
+      "name": "Santo Stefano di Camastra"
+    },
+    {
+      "id": 132635,
+      "name": "Santo Stefano Quisquina"
+    },
+    {
+      "id": 132636,
+      "name": "Saponara"
+    },
+    {
+      "id": 132637,
+      "name": "Saponara Marittima"
+    },
+    {
+      "id": 132638,
+      "name": "Sasi"
+    },
+    {
+      "id": 132639,
+      "name": "Savoca"
+    },
+    {
+      "id": 132640,
+      "name": "Scaletta Zanclea"
+    },
+    {
+      "id": 132641,
+      "name": "Sciacca"
+    },
+    {
+      "id": 132642,
+      "name": "Sciara"
+    },
+    {
+      "id": 132643,
+      "name": "Scicli"
+    },
+    {
+      "id": 132644,
+      "name": "Scillato"
+    },
+    {
+      "id": 132645,
+      "name": "Sclafani Bagni"
+    },
+    {
+      "id": 132646,
+      "name": "Scoglitti"
+    },
+    {
+      "id": 132647,
+      "name": "Scordia"
+    },
+    {
+      "id": 132648,
+      "name": "Serradifalco"
+    },
+    {
+      "id": 132649,
+      "name": "Sfaranda"
+    },
+    {
+      "id": 132650,
+      "name": "Sferracavallo"
+    },
+    {
+      "id": 132651,
+      "name": "Siculiana"
+    },
+    {
+      "id": 132652,
+      "name": "Sinagra"
+    },
+    {
+      "id": 132653,
+      "name": "Siracusa"
+    },
+    {
+      "id": 132654,
+      "name": "Solarino"
+    },
+    {
+      "id": 132655,
+      "name": "Sommatino"
+    },
+    {
+      "id": 132656,
+      "name": "Sortino"
+    },
+    {
+      "id": 132657,
+      "name": "Spadafora"
+    },
+    {
+      "id": 132658,
+      "name": "Sparta'"
+    },
+    {
+      "id": 132659,
+      "name": "Sperlinga"
+    },
+    {
+      "id": 132660,
+      "name": "Sutera"
+    },
+    {
+      "id": 132661,
+      "name": "Taormina"
+    },
+    {
+      "id": 132662,
+      "name": "Terme"
+    },
+    {
+      "id": 132663,
+      "name": "Termini Imerese"
+    },
+    {
+      "id": 132664,
+      "name": "Terrasini"
+    },
+    {
+      "id": 132665,
+      "name": "Tonnara di Bonagia"
+    },
+    {
+      "id": 132666,
+      "name": "Tonnarella"
+    },
+    {
+      "id": 132667,
+      "name": "Torre Colonna-Sperone"
+    },
+    {
+      "id": 132668,
+      "name": "Torregrotta"
+    },
+    {
+      "id": 132669,
+      "name": "Torrenova"
+    },
+    {
+      "id": 132670,
+      "name": "Torretta"
+    },
+    {
+      "id": 132671,
+      "name": "Tortorici"
+    },
+    {
+      "id": 132672,
+      "name": "Trabia"
+    },
+    {
+      "id": 132673,
+      "name": "Trapani"
+    },
+    {
+      "id": 132674,
+      "name": "Trappeto"
+    },
+    {
+      "id": 132675,
+      "name": "Tre Fontane"
+    },
+    {
+      "id": 132676,
+      "name": "Trecastagni"
+    },
+    {
+      "id": 132677,
+      "name": "Tremestieri Etneo"
+    },
+    {
+      "id": 132678,
+      "name": "Tripi"
+    },
+    {
+      "id": 132679,
+      "name": "Triscina"
+    },
+    {
+      "id": 132680,
+      "name": "Troina"
+    },
+    {
+      "id": 132681,
+      "name": "Tusa"
+    },
+    {
+      "id": 132682,
+      "name": "Ucria"
+    },
+    {
+      "id": 132683,
+      "name": "Ustica"
+    },
+    {
+      "id": 132684,
+      "name": "Valderice"
+    },
+    {
+      "id": 132685,
+      "name": "Valdina"
+    },
+    {
+      "id": 132686,
+      "name": "Valguarnera Caropepe"
+    },
+    {
+      "id": 132687,
+      "name": "Valledolmo"
+    },
+    {
+      "id": 132688,
+      "name": "Vallelunga Pratameno"
+    },
+    {
+      "id": 132689,
+      "name": "Valverde"
+    },
+    {
+      "id": 132690,
+      "name": "Vambolieri"
+    },
+    {
+      "id": 132691,
+      "name": "Venetico Marina"
+    },
+    {
+      "id": 132692,
+      "name": "Venetico Superiore"
+    },
+    {
+      "id": 132693,
+      "name": "Ventimiglia di Sicilia"
+    },
+    {
+      "id": 132694,
+      "name": "Viagrande"
+    },
+    {
+      "id": 132695,
+      "name": "Vicari"
+    },
+    {
+      "id": 132696,
+      "name": "Vigliatore 2"
+    },
+    {
+      "id": 132697,
+      "name": "Villa Ciambra"
+    },
+    {
+      "id": 132698,
+      "name": "Villabate"
+    },
+    {
+      "id": 132699,
+      "name": "Villafranca Sicula"
+    },
+    {
+      "id": 132700,
+      "name": "Villafranca Tirrena"
+    },
+    {
+      "id": 132701,
+      "name": "Villafrati"
+    },
+    {
+      "id": 132702,
+      "name": "Villaggio del Pino-Le Ginestre"
+    },
+    {
+      "id": 132703,
+      "name": "Villalba"
+    },
+    {
+      "id": 132704,
+      "name": "Villarosa"
+    },
+    {
+      "id": 132705,
+      "name": "Villaseta"
+    },
+    {
+      "id": 132706,
+      "name": "Villasmundo"
+    },
+    {
+      "id": 132707,
+      "name": "Vita"
+    },
+    {
+      "id": 132708,
+      "name": "Vittoria"
+    },
+    {
+      "id": 132709,
+      "name": "Vizzini"
+    },
+    {
+      "id": 132710,
+      "name": "Zafferana Etnea"
+    }
+  ]
+}

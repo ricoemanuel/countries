@@ -1,0 +1,3879 @@
+{
+  "id": 3869,
+  "name": "Nouvelle-Aquitaine",
+  "state_code": "NAQ",
+  "cities": [
+    {
+      "id": 103396,
+      "name": "Abzac"
+    },
+    {
+      "id": 103397,
+      "name": "Agen"
+    },
+    {
+      "id": 103398,
+      "name": "Agonac"
+    },
+    {
+      "id": 103399,
+      "name": "Ahetze"
+    },
+    {
+      "id": 103400,
+      "name": "Ahun"
+    },
+    {
+      "id": 103401,
+      "name": "Aiffres"
+    },
+    {
+      "id": 103402,
+      "name": "Aigre"
+    },
+    {
+      "id": 103403,
+      "name": "Aiguillon"
+    },
+    {
+      "id": 103404,
+      "name": "Airvault"
+    },
+    {
+      "id": 103405,
+      "name": "Aixe-sur-Vienne"
+    },
+    {
+      "id": 103406,
+      "name": "Ajain"
+    },
+    {
+      "id": 103407,
+      "name": "Allassac"
+    },
+    {
+      "id": 103408,
+      "name": "Ambarès-et-Lagrave"
+    },
+    {
+      "id": 103409,
+      "name": "Ambazac"
+    },
+    {
+      "id": 103410,
+      "name": "Ambès"
+    },
+    {
+      "id": 103411,
+      "name": "Amou"
+    },
+    {
+      "id": 103412,
+      "name": "Andernos-les-Bains"
+    },
+    {
+      "id": 103413,
+      "name": "Andilly"
+    },
+    {
+      "id": 103414,
+      "name": "Anglet"
+    },
+    {
+      "id": 103415,
+      "name": "Angoulême"
+    },
+    {
+      "id": 103416,
+      "name": "Angoulins"
+    },
+    {
+      "id": 103417,
+      "name": "Angresse"
+    },
+    {
+      "id": 103418,
+      "name": "Annesse-et-Beaulieu"
+    },
+    {
+      "id": 103419,
+      "name": "Antonne-et-Trigonant"
+    },
+    {
+      "id": 103420,
+      "name": "Antran"
+    },
+    {
+      "id": 103421,
+      "name": "Arbonne"
+    },
+    {
+      "id": 103422,
+      "name": "Arbus"
+    },
+    {
+      "id": 103423,
+      "name": "Arcachon"
+    },
+    {
+      "id": 103424,
+      "name": "Arcangues"
+    },
+    {
+      "id": 103425,
+      "name": "Archigny"
+    },
+    {
+      "id": 103426,
+      "name": "Ardin"
+    },
+    {
+      "id": 103427,
+      "name": "Arès"
+    },
+    {
+      "id": 103428,
+      "name": "Arette"
+    },
+    {
+      "id": 103429,
+      "name": "Argentat"
+    },
+    {
+      "id": 103430,
+      "name": "Argenton-les-Vallées"
+    },
+    {
+      "id": 103431,
+      "name": "Arnac-la-Poste"
+    },
+    {
+      "id": 103432,
+      "name": "Arnac-Pompadour"
+    },
+    {
+      "id": 103433,
+      "name": "Ars-en-Ré"
+    },
+    {
+      "id": 103434,
+      "name": "Arsac"
+    },
+    {
+      "id": 103435,
+      "name": "Arthez-de-Béarn"
+    },
+    {
+      "id": 103436,
+      "name": "Artiguelouve"
+    },
+    {
+      "id": 103437,
+      "name": "Artigues-près-Bordeaux"
+    },
+    {
+      "id": 103438,
+      "name": "Artix"
+    },
+    {
+      "id": 103439,
+      "name": "Arudy"
+    },
+    {
+      "id": 103440,
+      "name": "Arvert"
+    },
+    {
+      "id": 103441,
+      "name": "Arveyres"
+    },
+    {
+      "id": 103442,
+      "name": "Ascain"
+    },
+    {
+      "id": 103443,
+      "name": "Asnières-sur-Nouère"
+    },
+    {
+      "id": 103444,
+      "name": "Assat"
+    },
+    {
+      "id": 103445,
+      "name": "Asson"
+    },
+    {
+      "id": 103446,
+      "name": "Astaffort"
+    },
+    {
+      "id": 103447,
+      "name": "Atur"
+    },
+    {
+      "id": 103448,
+      "name": "Aubie-et-Espessas"
+    },
+    {
+      "id": 103449,
+      "name": "Aubusson"
+    },
+    {
+      "id": 103450,
+      "name": "Audenge"
+    },
+    {
+      "id": 103451,
+      "name": "Aulnay"
+    },
+    {
+      "id": 103452,
+      "name": "Auzances"
+    },
+    {
+      "id": 103453,
+      "name": "Availles-Limouzine"
+    },
+    {
+      "id": 103454,
+      "name": "Avanton"
+    },
+    {
+      "id": 103455,
+      "name": "Avensan"
+    },
+    {
+      "id": 103456,
+      "name": "Ayguemorte-les-Graves"
+    },
+    {
+      "id": 103457,
+      "name": "Ayron"
+    },
+    {
+      "id": 103458,
+      "name": "Aytré"
+    },
+    {
+      "id": 103459,
+      "name": "Azay-le-Brûlé"
+    },
+    {
+      "id": 103460,
+      "name": "Baignes-Sainte-Radegonde"
+    },
+    {
+      "id": 103461,
+      "name": "Balzac"
+    },
+    {
+      "id": 103462,
+      "name": "Barbaste"
+    },
+    {
+      "id": 103463,
+      "name": "Barbezieux-Saint-Hilaire"
+    },
+    {
+      "id": 103464,
+      "name": "Bardos"
+    },
+    {
+      "id": 103465,
+      "name": "Barsac"
+    },
+    {
+      "id": 103466,
+      "name": "Bassens"
+    },
+    {
+      "id": 103467,
+      "name": "Bassillac"
+    },
+    {
+      "id": 103468,
+      "name": "Bassussarry"
+    },
+    {
+      "id": 103469,
+      "name": "Bayonne"
+    },
+    {
+      "id": 103470,
+      "name": "Bazas"
+    },
+    {
+      "id": 103471,
+      "name": "Beaulieu-sur-Dordogne"
+    },
+    {
+      "id": 103472,
+      "name": "Beaumont"
+    },
+    {
+      "id": 103473,
+      "name": "Beaumont-du-Périgord"
+    },
+    {
+      "id": 103474,
+      "name": "Beaupuy"
+    },
+    {
+      "id": 103475,
+      "name": "Beautiran"
+    },
+    {
+      "id": 103476,
+      "name": "Beauvoir-sur-Niort"
+    },
+    {
+      "id": 103477,
+      "name": "Bégaar"
+    },
+    {
+      "id": 103478,
+      "name": "Bègles"
+    },
+    {
+      "id": 103479,
+      "name": "Belin-Béliet"
+    },
+    {
+      "id": 103480,
+      "name": "Bellac"
+    },
+    {
+      "id": 103481,
+      "name": "Belvès"
+    },
+    {
+      "id": 103482,
+      "name": "Bénéjacq"
+    },
+    {
+      "id": 103483,
+      "name": "Bénesse-Maremne"
+    },
+    {
+      "id": 103484,
+      "name": "Benquet"
+    },
+    {
+      "id": 103485,
+      "name": "Bergerac"
+    },
+    {
+      "id": 103486,
+      "name": "Berson"
+    },
+    {
+      "id": 103487,
+      "name": "Béruges"
+    },
+    {
+      "id": 103488,
+      "name": "Bessines"
+    },
+    {
+      "id": 103489,
+      "name": "Bessines-sur-Gartempe"
+    },
+    {
+      "id": 103490,
+      "name": "Beychac-et-Caillau"
+    },
+    {
+      "id": 103491,
+      "name": "Beynat"
+    },
+    {
+      "id": 103492,
+      "name": "Biard"
+    },
+    {
+      "id": 103493,
+      "name": "Biarritz"
+    },
+    {
+      "id": 103494,
+      "name": "Bias"
+    },
+    {
+      "id": 103495,
+      "name": "Bidache"
+    },
+    {
+      "id": 103496,
+      "name": "Bidart"
+    },
+    {
+      "id": 103497,
+      "name": "Biganos"
+    },
+    {
+      "id": 103498,
+      "name": "Bignoux"
+    },
+    {
+      "id": 103499,
+      "name": "Billère"
+    },
+    {
+      "id": 103500,
+      "name": "Biscarrosse"
+    },
+    {
+      "id": 103501,
+      "name": "Bizanos"
+    },
+    {
+      "id": 103502,
+      "name": "Blanquefort"
+    },
+    {
+      "id": 103503,
+      "name": "Blaye"
+    },
+    {
+      "id": 103504,
+      "name": "Boé"
+    },
+    {
+      "id": 103505,
+      "name": "Boeil-Bezing"
+    },
+    {
+      "id": 103506,
+      "name": "Boismé"
+    },
+    {
+      "id": 103507,
+      "name": "Boisseuil"
+    },
+    {
+      "id": 103508,
+      "name": "Bon-Encontre"
+    },
+    {
+      "id": 103509,
+      "name": "Bonnac-la-Côte"
+    },
+    {
+      "id": 103510,
+      "name": "Bonnat"
+    },
+    {
+      "id": 103511,
+      "name": "Bonnes"
+    },
+    {
+      "id": 103512,
+      "name": "Bonneuil-Matours"
+    },
+    {
+      "id": 103513,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 103514,
+      "name": "Bordes"
+    },
+    {
+      "id": 103515,
+      "name": "Bords"
+    },
+    {
+      "id": 103516,
+      "name": "Bort-les-Orgues"
+    },
+    {
+      "id": 103517,
+      "name": "Bosdarros"
+    },
+    {
+      "id": 103518,
+      "name": "Bosmie-l'Aiguille"
+    },
+    {
+      "id": 103519,
+      "name": "Boucau"
+    },
+    {
+      "id": 103520,
+      "name": "Bouillé-Loretz"
+    },
+    {
+      "id": 103521,
+      "name": "Boulazac"
+    },
+    {
+      "id": 103522,
+      "name": "Bouliac"
+    },
+    {
+      "id": 103523,
+      "name": "Bourcefranc-le-Chapus"
+    },
+    {
+      "id": 103524,
+      "name": "Bourg"
+    },
+    {
+      "id": 103525,
+      "name": "Bourganeuf"
+    },
+    {
+      "id": 103526,
+      "name": "Bourgneuf"
+    },
+    {
+      "id": 103527,
+      "name": "Boussac"
+    },
+    {
+      "id": 103528,
+      "name": "Boutiers-Saint-Trojan"
+    },
+    {
+      "id": 103529,
+      "name": "Boyard-Ville"
+    },
+    {
+      "id": 103530,
+      "name": "Branne"
+    },
+    {
+      "id": 103531,
+      "name": "Brantôme"
+    },
+    {
+      "id": 103532,
+      "name": "Braud-et-Saint-Louis"
+    },
+    {
+      "id": 103533,
+      "name": "Brax"
+    },
+    {
+      "id": 103534,
+      "name": "Bressuire"
+    },
+    {
+      "id": 103535,
+      "name": "Breuil-Magné"
+    },
+    {
+      "id": 103536,
+      "name": "Breuillet"
+    },
+    {
+      "id": 103537,
+      "name": "Brie"
+    },
+    {
+      "id": 103538,
+      "name": "Brigueuil"
+    },
+    {
+      "id": 103539,
+      "name": "Brioux-sur-Boutonne"
+    },
+    {
+      "id": 103540,
+      "name": "Briscous"
+    },
+    {
+      "id": 103541,
+      "name": "Brive-la-Gaillarde"
+    },
+    {
+      "id": 103542,
+      "name": "Bruges"
+    },
+    {
+      "id": 103543,
+      "name": "Bugeat"
+    },
+    {
+      "id": 103544,
+      "name": "Burie"
+    },
+    {
+      "id": 103545,
+      "name": "Buros"
+    },
+    {
+      "id": 103546,
+      "name": "Bussac-sur-Charente"
+    },
+    {
+      "id": 103547,
+      "name": "Bussière-Dunoise"
+    },
+    {
+      "id": 103548,
+      "name": "Bussière-Galant"
+    },
+    {
+      "id": 103549,
+      "name": "Bussière-Poitevine"
+    },
+    {
+      "id": 103550,
+      "name": "Buxerolles"
+    },
+    {
+      "id": 103551,
+      "name": "Buzet-sur-Baïse"
+    },
+    {
+      "id": 103552,
+      "name": "Cabanac-et-Villagrains"
+    },
+    {
+      "id": 103553,
+      "name": "Cabariot"
+    },
+    {
+      "id": 103554,
+      "name": "Cadaujac"
+    },
+    {
+      "id": 103555,
+      "name": "Cadillac"
+    },
+    {
+      "id": 103556,
+      "name": "Cambes"
+    },
+    {
+      "id": 103557,
+      "name": "Camblanes-et-Meynac"
+    },
+    {
+      "id": 103558,
+      "name": "Cambo-les-Bains"
+    },
+    {
+      "id": 103559,
+      "name": "Cancon"
+    },
+    {
+      "id": 103560,
+      "name": "Canéjan"
+    },
+    {
+      "id": 103561,
+      "name": "Cantenac"
+    },
+    {
+      "id": 103562,
+      "name": "Capbreton"
+    },
+    {
+      "id": 103563,
+      "name": "Captieux"
+    },
+    {
+      "id": 103564,
+      "name": "Carbon-Blanc"
+    },
+    {
+      "id": 103565,
+      "name": "Carcans"
+    },
+    {
+      "id": 103566,
+      "name": "Carignan-de-Bordeaux"
+    },
+    {
+      "id": 103567,
+      "name": "Cars"
+    },
+    {
+      "id": 103568,
+      "name": "Carsac-Aillac"
+    },
+    {
+      "id": 103569,
+      "name": "Casseneuil"
+    },
+    {
+      "id": 103570,
+      "name": "Castelculier"
+    },
+    {
+      "id": 103571,
+      "name": "Casteljaloux"
+    },
+    {
+      "id": 103572,
+      "name": "Castelmoron-sur-Lot"
+    },
+    {
+      "id": 103573,
+      "name": "Castelnau-de-Médoc"
+    },
+    {
+      "id": 103574,
+      "name": "Castets"
+    },
+    {
+      "id": 103575,
+      "name": "Castets-en-Dorthe"
+    },
+    {
+      "id": 103576,
+      "name": "Castillon-la-Bataille"
+    },
+    {
+      "id": 103577,
+      "name": "Castillonnès"
+    },
+    {
+      "id": 103578,
+      "name": "Castres-Gironde"
+    },
+    {
+      "id": 103579,
+      "name": "Cavignac"
+    },
+    {
+      "id": 103580,
+      "name": "Cazères-sur-l’Adour"
+    },
+    {
+      "id": 103581,
+      "name": "Celle-Lévescault"
+    },
+    {
+      "id": 103582,
+      "name": "Celles-sur-Belle"
+    },
+    {
+      "id": 103583,
+      "name": "Cénac"
+    },
+    {
+      "id": 103584,
+      "name": "Cénac-et-Saint-Julien"
+    },
+    {
+      "id": 103585,
+      "name": "Cenon"
+    },
+    {
+      "id": 103586,
+      "name": "Cenon-sur-Vienne"
+    },
+    {
+      "id": 103587,
+      "name": "Cercoux"
+    },
+    {
+      "id": 103588,
+      "name": "Cerizay"
+    },
+    {
+      "id": 103589,
+      "name": "Cérons"
+    },
+    {
+      "id": 103590,
+      "name": "Cestas"
+    },
+    {
+      "id": 103591,
+      "name": "Cézac"
+    },
+    {
+      "id": 103592,
+      "name": "Chabanais"
+    },
+    {
+      "id": 103593,
+      "name": "Chaillevette"
+    },
+    {
+      "id": 103594,
+      "name": "Chalais"
+    },
+    {
+      "id": 103595,
+      "name": "Châlus"
+    },
+    {
+      "id": 103596,
+      "name": "Chamberet"
+    },
+    {
+      "id": 103597,
+      "name": "Chambon-sur-Voueize"
+    },
+    {
+      "id": 103598,
+      "name": "Chamboulive"
+    },
+    {
+      "id": 103599,
+      "name": "Chameyrat"
+    },
+    {
+      "id": 103600,
+      "name": "Champagne-Mouton"
+    },
+    {
+      "id": 103601,
+      "name": "Champcevinel"
+    },
+    {
+      "id": 103602,
+      "name": "Champdeniers-Saint-Denis"
+    },
+    {
+      "id": 103603,
+      "name": "Champniers"
+    },
+    {
+      "id": 103604,
+      "name": "Chancelade"
+    },
+    {
+      "id": 103605,
+      "name": "Chaniers"
+    },
+    {
+      "id": 103606,
+      "name": "Chaptelat"
+    },
+    {
+      "id": 103607,
+      "name": "Charente"
+    },
+    {
+      "id": 103608,
+      "name": "Charente-Maritime"
+    },
+    {
+      "id": 103609,
+      "name": "Charron"
+    },
+    {
+      "id": 103610,
+      "name": "Charroux"
+    },
+    {
+      "id": 103611,
+      "name": "Chasseneuil-du-Poitou"
+    },
+    {
+      "id": 103612,
+      "name": "Chasseneuil-sur-Bonnieure"
+    },
+    {
+      "id": 103613,
+      "name": "Chassors"
+    },
+    {
+      "id": 103614,
+      "name": "Châteaubernard"
+    },
+    {
+      "id": 103615,
+      "name": "Châteauneuf-la-Forêt"
+    },
+    {
+      "id": 103616,
+      "name": "Châteauneuf-sur-Charente"
+    },
+    {
+      "id": 103617,
+      "name": "Châteauponsac"
+    },
+    {
+      "id": 103618,
+      "name": "Châtelaillon-Plage"
+    },
+    {
+      "id": 103619,
+      "name": "Châtellerault"
+    },
+    {
+      "id": 103620,
+      "name": "Châtillon-sur-Thouet"
+    },
+    {
+      "id": 103621,
+      "name": "Chaunay"
+    },
+    {
+      "id": 103622,
+      "name": "Chauray"
+    },
+    {
+      "id": 103623,
+      "name": "Chauvigny"
+    },
+    {
+      "id": 103624,
+      "name": "Chazelles"
+    },
+    {
+      "id": 103625,
+      "name": "Chef-Boutonne"
+    },
+    {
+      "id": 103626,
+      "name": "Chérac"
+    },
+    {
+      "id": 103627,
+      "name": "Chéraute"
+    },
+    {
+      "id": 103628,
+      "name": "Chermignac"
+    },
+    {
+      "id": 103629,
+      "name": "Cherves-Richemont"
+    },
+    {
+      "id": 103630,
+      "name": "Cherveux"
+    },
+    {
+      "id": 103631,
+      "name": "Chevanceaux"
+    },
+    {
+      "id": 103632,
+      "name": "Chiché"
+    },
+    {
+      "id": 103633,
+      "name": "Ciboure"
+    },
+    {
+      "id": 103634,
+      "name": "Ciré-d’Aunis"
+    },
+    {
+      "id": 103635,
+      "name": "Cissé"
+    },
+    {
+      "id": 103636,
+      "name": "Civray"
+    },
+    {
+      "id": 103637,
+      "name": "Clairac"
+    },
+    {
+      "id": 103638,
+      "name": "Clérac"
+    },
+    {
+      "id": 103639,
+      "name": "Coarraze"
+    },
+    {
+      "id": 103640,
+      "name": "Cognac"
+    },
+    {
+      "id": 103641,
+      "name": "Cognac-la-Forêt"
+    },
+    {
+      "id": 103642,
+      "name": "Colayrac-Saint-Cirq"
+    },
+    {
+      "id": 103643,
+      "name": "Colombiers"
+    },
+    {
+      "id": 103644,
+      "name": "Combrand"
+    },
+    {
+      "id": 103645,
+      "name": "Compreignac"
+    },
+    {
+      "id": 103646,
+      "name": "Condat-sur-Vienne"
+    },
+    {
+      "id": 103647,
+      "name": "Confolens"
+    },
+    {
+      "id": 103648,
+      "name": "Corme-Royal"
+    },
+    {
+      "id": 103649,
+      "name": "Cornil"
+    },
+    {
+      "id": 103650,
+      "name": "Corrèze"
+    },
+    {
+      "id": 103651,
+      "name": "Cosnac"
+    },
+    {
+      "id": 103652,
+      "name": "Couhé"
+    },
+    {
+      "id": 103653,
+      "name": "Coulombiers"
+    },
+    {
+      "id": 103654,
+      "name": "Coulon"
+    },
+    {
+      "id": 103655,
+      "name": "Coulonges-sur-l’Autize"
+    },
+    {
+      "id": 103656,
+      "name": "Coulounieix-Chamiers"
+    },
+    {
+      "id": 103657,
+      "name": "Courçon"
+    },
+    {
+      "id": 103658,
+      "name": "Courlay"
+    },
+    {
+      "id": 103659,
+      "name": "Cours-de-Pile"
+    },
+    {
+      "id": 103660,
+      "name": "Coursac"
+    },
+    {
+      "id": 103661,
+      "name": "Coussac-Bonneval"
+    },
+    {
+      "id": 103662,
+      "name": "Coutras"
+    },
+    {
+      "id": 103663,
+      "name": "Couzeix"
+    },
+    {
+      "id": 103664,
+      "name": "Cozes"
+    },
+    {
+      "id": 103665,
+      "name": "Créon"
+    },
+    {
+      "id": 103666,
+      "name": "Creuse"
+    },
+    {
+      "id": 103667,
+      "name": "Creysse"
+    },
+    {
+      "id": 103668,
+      "name": "Cublac"
+    },
+    {
+      "id": 103669,
+      "name": "Cubzac-les-Ponts"
+    },
+    {
+      "id": 103670,
+      "name": "Cussac"
+    },
+    {
+      "id": 103671,
+      "name": "Cussac-Fort-Médoc"
+    },
+    {
+      "id": 103672,
+      "name": "Damazan"
+    },
+    {
+      "id": 103673,
+      "name": "Dangé-Saint-Romain"
+    },
+    {
+      "id": 103674,
+      "name": "Dax"
+    },
+    {
+      "id": 103675,
+      "name": "Denguin"
+    },
+    {
+      "id": 103676,
+      "name": "Département de la Corrèze"
+    },
+    {
+      "id": 103677,
+      "name": "Département des Deux-Sèvres"
+    },
+    {
+      "id": 103678,
+      "name": "Département des Pyrénées-Atlantiques"
+    },
+    {
+      "id": 103679,
+      "name": "Département du Lot-et-Garonne"
+    },
+    {
+      "id": 103680,
+      "name": "Dignac"
+    },
+    {
+      "id": 103681,
+      "name": "Dirac"
+    },
+    {
+      "id": 103682,
+      "name": "Dissay"
+    },
+    {
+      "id": 103683,
+      "name": "Dolus-d'Oléron"
+    },
+    {
+      "id": 103684,
+      "name": "Domme"
+    },
+    {
+      "id": 103685,
+      "name": "Dompierre-sur-Mer"
+    },
+    {
+      "id": 103686,
+      "name": "Donzenac"
+    },
+    {
+      "id": 103687,
+      "name": "Dordogne"
+    },
+    {
+      "id": 103688,
+      "name": "Dun-le-Palestel"
+    },
+    {
+      "id": 103689,
+      "name": "Duras"
+    },
+    {
+      "id": 103690,
+      "name": "Échillais"
+    },
+    {
+      "id": 103691,
+      "name": "Échiré"
+    },
+    {
+      "id": 103692,
+      "name": "Écoyeux"
+    },
+    {
+      "id": 103693,
+      "name": "Égletons"
+    },
+    {
+      "id": 103694,
+      "name": "Esnandes"
+    },
+    {
+      "id": 103695,
+      "name": "Espelette"
+    },
+    {
+      "id": 103696,
+      "name": "Estillac"
+    },
+    {
+      "id": 103697,
+      "name": "Étagnac"
+    },
+    {
+      "id": 103698,
+      "name": "Étaules"
+    },
+    {
+      "id": 103699,
+      "name": "Étauliers"
+    },
+    {
+      "id": 103700,
+      "name": "Évaux-les-Bains"
+    },
+    {
+      "id": 103701,
+      "name": "Excideuil"
+    },
+    {
+      "id": 103702,
+      "name": "Exideuil"
+    },
+    {
+      "id": 103703,
+      "name": "Exireuil"
+    },
+    {
+      "id": 103704,
+      "name": "Eymet"
+    },
+    {
+      "id": 103705,
+      "name": "Eymoutiers"
+    },
+    {
+      "id": 103706,
+      "name": "Eysines"
+    },
+    {
+      "id": 103707,
+      "name": "Eyvigues-et-Eybènes"
+    },
+    {
+      "id": 103708,
+      "name": "Fargues-Saint-Hilaire"
+    },
+    {
+      "id": 103709,
+      "name": "Felletin"
+    },
+    {
+      "id": 103710,
+      "name": "Feytiat"
+    },
+    {
+      "id": 103711,
+      "name": "Fléac"
+    },
+    {
+      "id": 103712,
+      "name": "Floirac"
+    },
+    {
+      "id": 103713,
+      "name": "Fontaine-le-Comte"
+    },
+    {
+      "id": 103714,
+      "name": "Fontcouverte"
+    },
+    {
+      "id": 103715,
+      "name": "Fors"
+    },
+    {
+      "id": 103716,
+      "name": "Foulayronnes"
+    },
+    {
+      "id": 103717,
+      "name": "Fouras"
+    },
+    {
+      "id": 103718,
+      "name": "Fourques-sur-Garonne"
+    },
+    {
+      "id": 103719,
+      "name": "Fronsac"
+    },
+    {
+      "id": 103720,
+      "name": "Frontenay-Rohan-Rohan"
+    },
+    {
+      "id": 103721,
+      "name": "Fumel"
+    },
+    {
+      "id": 103722,
+      "name": "Gabarret"
+    },
+    {
+      "id": 103723,
+      "name": "Gaillan-en-Médoc"
+    },
+    {
+      "id": 103724,
+      "name": "Galgon"
+    },
+    {
+      "id": 103725,
+      "name": "Gan"
+    },
+    {
+      "id": 103726,
+      "name": "Garat"
+    },
+    {
+      "id": 103727,
+      "name": "Gardonne"
+    },
+    {
+      "id": 103728,
+      "name": "Garlin"
+    },
+    {
+      "id": 103729,
+      "name": "Gauriaguet"
+    },
+    {
+      "id": 103730,
+      "name": "Gelos"
+    },
+    {
+      "id": 103731,
+      "name": "Gémozac"
+    },
+    {
+      "id": 103732,
+      "name": "Génissac"
+    },
+    {
+      "id": 103733,
+      "name": "Gensac-la-Pallue"
+    },
+    {
+      "id": 103734,
+      "name": "Ger"
+    },
+    {
+      "id": 103735,
+      "name": "Gironde"
+    },
+    {
+      "id": 103736,
+      "name": "Gironde-sur-Dropt"
+    },
+    {
+      "id": 103737,
+      "name": "Gond-Pontouvre"
+    },
+    {
+      "id": 103738,
+      "name": "Gontaud-de-Nogaret"
+    },
+    {
+      "id": 103739,
+      "name": "Gouzon"
+    },
+    {
+      "id": 103740,
+      "name": "Gradignan"
+    },
+    {
+      "id": 103741,
+      "name": "Grenade-sur-l’Adour"
+    },
+    {
+      "id": 103742,
+      "name": "Grignols"
+    },
+    {
+      "id": 103743,
+      "name": "Guéret"
+    },
+    {
+      "id": 103744,
+      "name": "Guéthary"
+    },
+    {
+      "id": 103745,
+      "name": "Guîtres"
+    },
+    {
+      "id": 103746,
+      "name": "Gujan-Mestras"
+    },
+    {
+      "id": 103747,
+      "name": "Habas"
+    },
+    {
+      "id": 103748,
+      "name": "Hagetmau"
+    },
+    {
+      "id": 103749,
+      "name": "Hasparren"
+    },
+    {
+      "id": 103750,
+      "name": "Haute-Vienne"
+    },
+    {
+      "id": 103751,
+      "name": "Hautefort"
+    },
+    {
+      "id": 103752,
+      "name": "Hendaye"
+    },
+    {
+      "id": 103753,
+      "name": "Heugas"
+    },
+    {
+      "id": 103754,
+      "name": "Hiersac"
+    },
+    {
+      "id": 103755,
+      "name": "Hinx"
+    },
+    {
+      "id": 103756,
+      "name": "Hourtin"
+    },
+    {
+      "id": 103757,
+      "name": "Idron"
+    },
+    {
+      "id": 103758,
+      "name": "Igon"
+    },
+    {
+      "id": 103759,
+      "name": "Illats"
+    },
+    {
+      "id": 103760,
+      "name": "Isle"
+    },
+    {
+      "id": 103761,
+      "name": "Iteuil"
+    },
+    {
+      "id": 103762,
+      "name": "Itxassou"
+    },
+    {
+      "id": 103763,
+      "name": "Izon"
+    },
+    {
+      "id": 103764,
+      "name": "Jarnac"
+    },
+    {
+      "id": 103765,
+      "name": "Jaunay-Clan"
+    },
+    {
+      "id": 103766,
+      "name": "Jonzac"
+    },
+    {
+      "id": 103767,
+      "name": "Juillac"
+    },
+    {
+      "id": 103768,
+      "name": "Jumilhac-le-Grand"
+    },
+    {
+      "id": 103769,
+      "name": "Jurançon"
+    },
+    {
+      "id": 103770,
+      "name": "La Chapelle-Saint-Laurent"
+    },
+    {
+      "id": 103771,
+      "name": "La Coquille"
+    },
+    {
+      "id": 103772,
+      "name": "La Couarde-sur-Mer"
+    },
+    {
+      "id": 103773,
+      "name": "La Couronne"
+    },
+    {
+      "id": 103774,
+      "name": "La Courtine"
+    },
+    {
+      "id": 103775,
+      "name": "La Crèche"
+    },
+    {
+      "id": 103776,
+      "name": "La Flotte"
+    },
+    {
+      "id": 103777,
+      "name": "La Force"
+    },
+    {
+      "id": 103778,
+      "name": "La Forêt-sur-Sèvre"
+    },
+    {
+      "id": 103779,
+      "name": "La Jarne"
+    },
+    {
+      "id": 103780,
+      "name": "La Jarrie"
+    },
+    {
+      "id": 103781,
+      "name": "La Lande-de-Fronsac"
+    },
+    {
+      "id": 103782,
+      "name": "La Mothe-Saint-Héray"
+    },
+    {
+      "id": 103783,
+      "name": "La Peyratte"
+    },
+    {
+      "id": 103784,
+      "name": "La Réole"
+    },
+    {
+      "id": 103785,
+      "name": "La Roche-Chalais"
+    },
+    {
+      "id": 103786,
+      "name": "La Roche-Posay"
+    },
+    {
+      "id": 103787,
+      "name": "La Rochefoucauld"
+    },
+    {
+      "id": 103788,
+      "name": "La Rochelle"
+    },
+    {
+      "id": 103789,
+      "name": "La Sauve"
+    },
+    {
+      "id": 103790,
+      "name": "La Souterraine"
+    },
+    {
+      "id": 103791,
+      "name": "La Teste-de-Buch"
+    },
+    {
+      "id": 103792,
+      "name": "La Tremblade"
+    },
+    {
+      "id": 103793,
+      "name": "La Villedieu-du-Clain"
+    },
+    {
+      "id": 103794,
+      "name": "Labatut"
+    },
+    {
+      "id": 103795,
+      "name": "Labenne"
+    },
+    {
+      "id": 103796,
+      "name": "Labouheyre"
+    },
+    {
+      "id": 103797,
+      "name": "Lacanau"
+    },
+    {
+      "id": 103798,
+      "name": "Ladignac-le-Long"
+    },
+    {
+      "id": 103799,
+      "name": "Lagor"
+    },
+    {
+      "id": 103800,
+      "name": "Lagorce"
+    },
+    {
+      "id": 103801,
+      "name": "Lagord"
+    },
+    {
+      "id": 103802,
+      "name": "Laguenne"
+    },
+    {
+      "id": 103803,
+      "name": "Lahonce"
+    },
+    {
+      "id": 103804,
+      "name": "Lalinde"
+    },
+    {
+      "id": 103805,
+      "name": "Lamarque"
+    },
+    {
+      "id": 103806,
+      "name": "Lamonzie-Saint-Martin"
+    },
+    {
+      "id": 103807,
+      "name": "Lamothe-Montravel"
+    },
+    {
+      "id": 103808,
+      "name": "Landes"
+    },
+    {
+      "id": 103809,
+      "name": "Landiras"
+    },
+    {
+      "id": 103810,
+      "name": "Langoiran"
+    },
+    {
+      "id": 103811,
+      "name": "Langon"
+    },
+    {
+      "id": 103812,
+      "name": "Lanouaille"
+    },
+    {
+      "id": 103813,
+      "name": "Lanton"
+    },
+    {
+      "id": 103814,
+      "name": "Laplume"
+    },
+    {
+      "id": 103815,
+      "name": "Larche"
+    },
+    {
+      "id": 103816,
+      "name": "Laroque-Timbaut"
+    },
+    {
+      "id": 103817,
+      "name": "Larressore"
+    },
+    {
+      "id": 103818,
+      "name": "Laruns"
+    },
+    {
+      "id": 103819,
+      "name": "Laruscade"
+    },
+    {
+      "id": 103820,
+      "name": "Lasseube"
+    },
+    {
+      "id": 103821,
+      "name": "Lathus-Saint-Rémy"
+    },
+    {
+      "id": 103822,
+      "name": "Latillé"
+    },
+    {
+      "id": 103823,
+      "name": "Latresne"
+    },
+    {
+      "id": 103824,
+      "name": "Lavardac"
+    },
+    {
+      "id": 103825,
+      "name": "Lavoux"
+    },
+    {
+      "id": 103826,
+      "name": "Layrac"
+    },
+    {
+      "id": 103827,
+      "name": "Le Barp"
+    },
+    {
+      "id": 103828,
+      "name": "Le Bois-Plage-en-Ré"
+    },
+    {
+      "id": 103829,
+      "name": "Le Bouscat"
+    },
+    {
+      "id": 103830,
+      "name": "Le Bugue"
+    },
+    {
+      "id": 103831,
+      "name": "Le Buisson-de-Cadouin"
+    },
+    {
+      "id": 103832,
+      "name": "Le Dorat"
+    },
+    {
+      "id": 103833,
+      "name": "Le Fleix"
+    },
+    {
+      "id": 103834,
+      "name": "Le Grand-Bourg"
+    },
+    {
+      "id": 103835,
+      "name": "Le Gua"
+    },
+    {
+      "id": 103836,
+      "name": "Le Haillan"
+    },
+    {
+      "id": 103837,
+      "name": "Le Lardin-Saint-Lazare"
+    },
+    {
+      "id": 103838,
+      "name": "Le Mas-d’Agenais"
+    },
+    {
+      "id": 103839,
+      "name": "Le Palais-sur-Vienne"
+    },
+    {
+      "id": 103840,
+      "name": "Le Passage"
+    },
+    {
+      "id": 103841,
+      "name": "Le Pian-Médoc"
+    },
+    {
+      "id": 103842,
+      "name": "Le Pin"
+    },
+    {
+      "id": 103843,
+      "name": "Le Pizou"
+    },
+    {
+      "id": 103844,
+      "name": "Le Porge"
+    },
+    {
+      "id": 103845,
+      "name": "Le Taillan-Médoc"
+    },
+    {
+      "id": 103846,
+      "name": "Le Tallud"
+    },
+    {
+      "id": 103847,
+      "name": "Le Teich"
+    },
+    {
+      "id": 103848,
+      "name": "Le Thou"
+    },
+    {
+      "id": 103849,
+      "name": "Le Verdon-sur-Mer"
+    },
+    {
+      "id": 103850,
+      "name": "Le Vigen"
+    },
+    {
+      "id": 103851,
+      "name": "Ledeuix"
+    },
+    {
+      "id": 103852,
+      "name": "Lembras"
+    },
+    {
+      "id": 103853,
+      "name": "Lencloître"
+    },
+    {
+      "id": 103854,
+      "name": "Léognan"
+    },
+    {
+      "id": 103855,
+      "name": "Léon"
+    },
+    {
+      "id": 103856,
+      "name": "Les Artigues-de-Lussac"
+    },
+    {
+      "id": 103857,
+      "name": "Les Églisottes-et-Chalaures"
+    },
+    {
+      "id": 103858,
+      "name": "Les Gonds"
+    },
+    {
+      "id": 103859,
+      "name": "Les Mathes"
+    },
+    {
+      "id": 103860,
+      "name": "Les Ormes"
+    },
+    {
+      "id": 103861,
+      "name": "Les Peintures"
+    },
+    {
+      "id": 103862,
+      "name": "Lescar"
+    },
+    {
+      "id": 103863,
+      "name": "Lesparre-Médoc"
+    },
+    {
+      "id": 103864,
+      "name": "Lestelle-Bétharram"
+    },
+    {
+      "id": 103865,
+      "name": "Lezay"
+    },
+    {
+      "id": 103866,
+      "name": "Libourne"
+    },
+    {
+      "id": 103867,
+      "name": "Ligugé"
+    },
+    {
+      "id": 103868,
+      "name": "Limoges"
+    },
+    {
+      "id": 103869,
+      "name": "Linards"
+    },
+    {
+      "id": 103870,
+      "name": "Linars"
+    },
+    {
+      "id": 103871,
+      "name": "Linxe"
+    },
+    {
+      "id": 103872,
+      "name": "Listrac-Médoc"
+    },
+    {
+      "id": 103873,
+      "name": "Lit-et-Mixe"
+    },
+    {
+      "id": 103874,
+      "name": "Lons"
+    },
+    {
+      "id": 103875,
+      "name": "Lormont"
+    },
+    {
+      "id": 103876,
+      "name": "Loubert"
+    },
+    {
+      "id": 103877,
+      "name": "Loudun"
+    },
+    {
+      "id": 103878,
+      "name": "Loupiac"
+    },
+    {
+      "id": 103879,
+      "name": "Louvie-Juzon"
+    },
+    {
+      "id": 103880,
+      "name": "Louzy"
+    },
+    {
+      "id": 103881,
+      "name": "Lubersac"
+    },
+    {
+      "id": 103882,
+      "name": "Lucq-de-Béarn"
+    },
+    {
+      "id": 103883,
+      "name": "Ludon-Médoc"
+    },
+    {
+      "id": 103884,
+      "name": "Lugon-et-l'Île-du-Carnay"
+    },
+    {
+      "id": 103885,
+      "name": "Lusignan"
+    },
+    {
+      "id": 103886,
+      "name": "Lussac"
+    },
+    {
+      "id": 103887,
+      "name": "Lussac-les-Châteaux"
+    },
+    {
+      "id": 103888,
+      "name": "Macau"
+    },
+    {
+      "id": 103889,
+      "name": "Magescq"
+    },
+    {
+      "id": 103890,
+      "name": "Magnac-Laval"
+    },
+    {
+      "id": 103891,
+      "name": "Magnac-sur-Touvre"
+    },
+    {
+      "id": 103892,
+      "name": "Magné"
+    },
+    {
+      "id": 103893,
+      "name": "Malemort-sur-Corrèze"
+    },
+    {
+      "id": 103894,
+      "name": "Mansac"
+    },
+    {
+      "id": 103895,
+      "name": "Mansle"
+    },
+    {
+      "id": 103896,
+      "name": "Marans"
+    },
+    {
+      "id": 103897,
+      "name": "Marcamps"
+    },
+    {
+      "id": 103898,
+      "name": "Marcheprime"
+    },
+    {
+      "id": 103899,
+      "name": "Marcillac"
+    },
+    {
+      "id": 103900,
+      "name": "Marennes"
+    },
+    {
+      "id": 103901,
+      "name": "Mareuil"
+    },
+    {
+      "id": 103902,
+      "name": "Margaux"
+    },
+    {
+      "id": 103903,
+      "name": "Marigny-Brizay"
+    },
+    {
+      "id": 103904,
+      "name": "Marmande"
+    },
+    {
+      "id": 103905,
+      "name": "Marsilly"
+    },
+    {
+      "id": 103906,
+      "name": "Martignas-sur-Jalle"
+    },
+    {
+      "id": 103907,
+      "name": "Martillac"
+    },
+    {
+      "id": 103908,
+      "name": "Matha"
+    },
+    {
+      "id": 103909,
+      "name": "Mauléon-Licharre"
+    },
+    {
+      "id": 103910,
+      "name": "Mauzé-sur-le-Mignon"
+    },
+    {
+      "id": 103911,
+      "name": "Mauzé-Thouarsais"
+    },
+    {
+      "id": 103912,
+      "name": "Mazères-Lezons"
+    },
+    {
+      "id": 103913,
+      "name": "Médis"
+    },
+    {
+      "id": 103914,
+      "name": "Mées"
+    },
+    {
+      "id": 103915,
+      "name": "Meilhan"
+    },
+    {
+      "id": 103916,
+      "name": "Meilhan-sur-Garonne"
+    },
+    {
+      "id": 103917,
+      "name": "Melle"
+    },
+    {
+      "id": 103918,
+      "name": "Ménesplet"
+    },
+    {
+      "id": 103919,
+      "name": "Mensignac"
+    },
+    {
+      "id": 103920,
+      "name": "Mérignac"
+    },
+    {
+      "id": 103921,
+      "name": "Meschers-sur-Gironde"
+    },
+    {
+      "id": 103922,
+      "name": "Meursac"
+    },
+    {
+      "id": 103923,
+      "name": "Meymac"
+    },
+    {
+      "id": 103924,
+      "name": "Meyssac"
+    },
+    {
+      "id": 103925,
+      "name": "Mézin"
+    },
+    {
+      "id": 103926,
+      "name": "Mignaloux-Beauvoir"
+    },
+    {
+      "id": 103927,
+      "name": "Migné-Auxances"
+    },
+    {
+      "id": 103928,
+      "name": "Mimbaste"
+    },
+    {
+      "id": 103929,
+      "name": "Mimizan"
+    },
+    {
+      "id": 103930,
+      "name": "Mios"
+    },
+    {
+      "id": 103931,
+      "name": "Mirambeau"
+    },
+    {
+      "id": 103932,
+      "name": "Miramont-de-Guyenne"
+    },
+    {
+      "id": 103933,
+      "name": "Mirebeau"
+    },
+    {
+      "id": 103934,
+      "name": "Mirepeix"
+    },
+    {
+      "id": 103935,
+      "name": "Monbazillac"
+    },
+    {
+      "id": 103936,
+      "name": "Moncontour"
+    },
+    {
+      "id": 103937,
+      "name": "Moncoutant"
+    },
+    {
+      "id": 103938,
+      "name": "Monein"
+    },
+    {
+      "id": 103939,
+      "name": "Monflanquin"
+    },
+    {
+      "id": 103940,
+      "name": "Monségur"
+    },
+    {
+      "id": 103941,
+      "name": "Monsempron-Libos"
+    },
+    {
+      "id": 103942,
+      "name": "Mont"
+    },
+    {
+      "id": 103943,
+      "name": "Mont-de-Marsan"
+    },
+    {
+      "id": 103944,
+      "name": "Montagne"
+    },
+    {
+      "id": 103945,
+      "name": "Montamisé"
+    },
+    {
+      "id": 103946,
+      "name": "Montardon"
+    },
+    {
+      "id": 103947,
+      "name": "Montaut"
+    },
+    {
+      "id": 103948,
+      "name": "Montayral"
+    },
+    {
+      "id": 103949,
+      "name": "Montbron"
+    },
+    {
+      "id": 103950,
+      "name": "Montcaret"
+    },
+    {
+      "id": 103951,
+      "name": "Montendre"
+    },
+    {
+      "id": 103952,
+      "name": "Montfort-en-Chalosse"
+    },
+    {
+      "id": 103953,
+      "name": "Montguyon"
+    },
+    {
+      "id": 103954,
+      "name": "Montignac"
+    },
+    {
+      "id": 103955,
+      "name": "Montlieu-la-Garde"
+    },
+    {
+      "id": 103956,
+      "name": "Montmoreau-Saint-Cybard"
+    },
+    {
+      "id": 103957,
+      "name": "Montmorillon"
+    },
+    {
+      "id": 103958,
+      "name": "Montpon-Ménestérol"
+    },
+    {
+      "id": 103959,
+      "name": "Montrem"
+    },
+    {
+      "id": 103960,
+      "name": "Montussan"
+    },
+    {
+      "id": 103961,
+      "name": "Morcenx"
+    },
+    {
+      "id": 103962,
+      "name": "Morlaas"
+    },
+    {
+      "id": 103963,
+      "name": "Mornac"
+    },
+    {
+      "id": 103964,
+      "name": "Mortagne-sur-Gironde"
+    },
+    {
+      "id": 103965,
+      "name": "Mougon"
+    },
+    {
+      "id": 103966,
+      "name": "Mouguerre"
+    },
+    {
+      "id": 103967,
+      "name": "Mouleydier"
+    },
+    {
+      "id": 103968,
+      "name": "Mouliets-et-Villemartin"
+    },
+    {
+      "id": 103969,
+      "name": "Moulis-en-Médoc"
+    },
+    {
+      "id": 103970,
+      "name": "Mourenx"
+    },
+    {
+      "id": 103971,
+      "name": "Mouthiers-sur-Boëme"
+    },
+    {
+      "id": 103972,
+      "name": "Mugron"
+    },
+    {
+      "id": 103973,
+      "name": "Muron"
+    },
+    {
+      "id": 103974,
+      "name": "Mussidan"
+    },
+    {
+      "id": 103975,
+      "name": "Naintré"
+    },
+    {
+      "id": 103976,
+      "name": "Nanteuil"
+    },
+    {
+      "id": 103977,
+      "name": "Nanteuil-en-Vallée"
+    },
+    {
+      "id": 103978,
+      "name": "Nantiat"
+    },
+    {
+      "id": 103979,
+      "name": "Narrosse"
+    },
+    {
+      "id": 103980,
+      "name": "Navailles-Angos"
+    },
+    {
+      "id": 103981,
+      "name": "Navarrenx"
+    },
+    {
+      "id": 103982,
+      "name": "Naves"
+    },
+    {
+      "id": 103983,
+      "name": "Nay"
+    },
+    {
+      "id": 103984,
+      "name": "Nérac"
+    },
+    {
+      "id": 103985,
+      "name": "Nercillac"
+    },
+    {
+      "id": 103986,
+      "name": "Nersac"
+    },
+    {
+      "id": 103987,
+      "name": "Neuvic"
+    },
+    {
+      "id": 103988,
+      "name": "Neuvic-Entier"
+    },
+    {
+      "id": 103989,
+      "name": "Neuville-de-Poitou"
+    },
+    {
+      "id": 103990,
+      "name": "Nexon"
+    },
+    {
+      "id": 103991,
+      "name": "Nieul"
+    },
+    {
+      "id": 103992,
+      "name": "Nieul-lès-Saintes"
+    },
+    {
+      "id": 103993,
+      "name": "Nieul-sur-Mer"
+    },
+    {
+      "id": 103994,
+      "name": "Niort"
+    },
+    {
+      "id": 103995,
+      "name": "Noaillan"
+    },
+    {
+      "id": 103996,
+      "name": "Nontron"
+    },
+    {
+      "id": 103997,
+      "name": "Notre-Dame-de-Sanilhac"
+    },
+    {
+      "id": 103998,
+      "name": "Nouaillé-Maupertuis"
+    },
+    {
+      "id": 103999,
+      "name": "Nousty"
+    },
+    {
+      "id": 104000,
+      "name": "Nueil-les-Aubiers"
+    },
+    {
+      "id": 104001,
+      "name": "Objat"
+    },
+    {
+      "id": 104002,
+      "name": "Oeyreluy"
+    },
+    {
+      "id": 104003,
+      "name": "Ogeu-les-Bains"
+    },
+    {
+      "id": 104004,
+      "name": "Oloron-Sainte-Marie"
+    },
+    {
+      "id": 104005,
+      "name": "Ondres"
+    },
+    {
+      "id": 104006,
+      "name": "Onesse-Laharie"
+    },
+    {
+      "id": 104007,
+      "name": "Oradour-sur-Glane"
+    },
+    {
+      "id": 104008,
+      "name": "Oradour-sur-Vayres"
+    },
+    {
+      "id": 104009,
+      "name": "Orthez"
+    },
+    {
+      "id": 104010,
+      "name": "Ousse"
+    },
+    {
+      "id": 104011,
+      "name": "Paillet"
+    },
+    {
+      "id": 104012,
+      "name": "Pamproux"
+    },
+    {
+      "id": 104013,
+      "name": "Panazol"
+    },
+    {
+      "id": 104014,
+      "name": "Parempuyre"
+    },
+    {
+      "id": 104015,
+      "name": "Parentis-en-Born"
+    },
+    {
+      "id": 104016,
+      "name": "Parthenay"
+    },
+    {
+      "id": 104017,
+      "name": "Pau"
+    },
+    {
+      "id": 104018,
+      "name": "Pauillac"
+    },
+    {
+      "id": 104019,
+      "name": "Payzac"
+    },
+    {
+      "id": 104020,
+      "name": "Pellegrue"
+    },
+    {
+      "id": 104021,
+      "name": "Pérignac"
+    },
+    {
+      "id": 104022,
+      "name": "Périgny"
+    },
+    {
+      "id": 104023,
+      "name": "Périgueux"
+    },
+    {
+      "id": 104024,
+      "name": "Pessac"
+    },
+    {
+      "id": 104025,
+      "name": "Peujard"
+    },
+    {
+      "id": 104026,
+      "name": "Peyrat-de-Bellac"
+    },
+    {
+      "id": 104027,
+      "name": "Peyrat-le-Château"
+    },
+    {
+      "id": 104028,
+      "name": "Peyrehorade"
+    },
+    {
+      "id": 104029,
+      "name": "Peyrilhac"
+    },
+    {
+      "id": 104030,
+      "name": "Piégut-Pluviers"
+    },
+    {
+      "id": 104031,
+      "name": "Pierre-Buffière"
+    },
+    {
+      "id": 104032,
+      "name": "Pissos"
+    },
+    {
+      "id": 104033,
+      "name": "Pleumartin"
+    },
+    {
+      "id": 104034,
+      "name": "Podensac"
+    },
+    {
+      "id": 104035,
+      "name": "Poey-de-Lescar"
+    },
+    {
+      "id": 104036,
+      "name": "Poitiers"
+    },
+    {
+      "id": 104037,
+      "name": "Pomarez"
+    },
+    {
+      "id": 104038,
+      "name": "Pompaire"
+    },
+    {
+      "id": 104039,
+      "name": "Pompignac"
+    },
+    {
+      "id": 104040,
+      "name": "Pons"
+    },
+    {
+      "id": 104041,
+      "name": "Pont-du-Casse"
+    },
+    {
+      "id": 104042,
+      "name": "Pont-l’Abbé-d’Arnoult"
+    },
+    {
+      "id": 104043,
+      "name": "Pontacq"
+    },
+    {
+      "id": 104044,
+      "name": "Pontenx-les-Forges"
+    },
+    {
+      "id": 104045,
+      "name": "Pontonx-sur-l'Adour"
+    },
+    {
+      "id": 104046,
+      "name": "Port-des-Barques"
+    },
+    {
+      "id": 104047,
+      "name": "Port-Sainte-Foy-et-Ponchapt"
+    },
+    {
+      "id": 104048,
+      "name": "Port-Sainte-Marie"
+    },
+    {
+      "id": 104049,
+      "name": "Portets"
+    },
+    {
+      "id": 104050,
+      "name": "Pouillon"
+    },
+    {
+      "id": 104051,
+      "name": "Prahecq"
+    },
+    {
+      "id": 104052,
+      "name": "Préchac"
+    },
+    {
+      "id": 104053,
+      "name": "Preignac"
+    },
+    {
+      "id": 104054,
+      "name": "Prigonrieux"
+    },
+    {
+      "id": 104055,
+      "name": "Pugnac"
+    },
+    {
+      "id": 104056,
+      "name": "Puilboreau"
+    },
+    {
+      "id": 104057,
+      "name": "Pujols"
+    },
+    {
+      "id": 104058,
+      "name": "Puymoyen"
+    },
+    {
+      "id": 104059,
+      "name": "Puyoô"
+    },
+    {
+      "id": 104060,
+      "name": "Quinsac"
+    },
+    {
+      "id": 104061,
+      "name": "Rauzan"
+    },
+    {
+      "id": 104062,
+      "name": "Razac-sur-l’Isle"
+    },
+    {
+      "id": 104063,
+      "name": "Razès"
+    },
+    {
+      "id": 104064,
+      "name": "Reignac"
+    },
+    {
+      "id": 104065,
+      "name": "Ribérac"
+    },
+    {
+      "id": 104066,
+      "name": "Rilhac-Rancon"
+    },
+    {
+      "id": 104067,
+      "name": "Rion-des-Landes"
+    },
+    {
+      "id": 104068,
+      "name": "Rions"
+    },
+    {
+      "id": 104069,
+      "name": "Rivedoux-Plage"
+    },
+    {
+      "id": 104070,
+      "name": "Rivière-Saas-et-Gourby"
+    },
+    {
+      "id": 104071,
+      "name": "Rivières"
+    },
+    {
+      "id": 104072,
+      "name": "Rochechouart"
+    },
+    {
+      "id": 104073,
+      "name": "Rochefort"
+    },
+    {
+      "id": 104074,
+      "name": "Roches-Prémarie-Andillé"
+    },
+    {
+      "id": 104075,
+      "name": "Roquefort"
+    },
+    {
+      "id": 104076,
+      "name": "Rouffignac-Saint-Cernin-de-Reilhac"
+    },
+    {
+      "id": 104077,
+      "name": "Rouillac"
+    },
+    {
+      "id": 104078,
+      "name": "Rouillé"
+    },
+    {
+      "id": 104079,
+      "name": "Roullet-Saint-Estèphe"
+    },
+    {
+      "id": 104080,
+      "name": "Roumazières-Loubert"
+    },
+    {
+      "id": 104081,
+      "name": "Royan"
+    },
+    {
+      "id": 104082,
+      "name": "Ruelle-sur-Touvre"
+    },
+    {
+      "id": 104083,
+      "name": "Ruffec"
+    },
+    {
+      "id": 104084,
+      "name": "Sablonceaux"
+    },
+    {
+      "id": 104085,
+      "name": "Sablons"
+    },
+    {
+      "id": 104086,
+      "name": "Sabres"
+    },
+    {
+      "id": 104087,
+      "name": "Sadirac"
+    },
+    {
+      "id": 104088,
+      "name": "Saint-Agnant"
+    },
+    {
+      "id": 104089,
+      "name": "Saint-Agnant-de-Versillat"
+    },
+    {
+      "id": 104090,
+      "name": "Saint-Aigulin"
+    },
+    {
+      "id": 104091,
+      "name": "Saint-Amand-sur-Sèvre"
+    },
+    {
+      "id": 104092,
+      "name": "Saint-Amant-de-Boixe"
+    },
+    {
+      "id": 104093,
+      "name": "Saint-André-de-Seignanx"
+    },
+    {
+      "id": 104094,
+      "name": "Saint-Antoine-de-Breuilh"
+    },
+    {
+      "id": 104095,
+      "name": "Saint-Astier"
+    },
+    {
+      "id": 104096,
+      "name": "Saint-Aubin-de-Médoc"
+    },
+    {
+      "id": 104097,
+      "name": "Saint-Aubin-le-Cloud"
+    },
+    {
+      "id": 104098,
+      "name": "Saint-Aulaye"
+    },
+    {
+      "id": 104099,
+      "name": "Saint-Benoît"
+    },
+    {
+      "id": 104100,
+      "name": "Saint-Brice"
+    },
+    {
+      "id": 104101,
+      "name": "Saint-Brice-sur-Vienne"
+    },
+    {
+      "id": 104102,
+      "name": "Saint-Caprais-de-Bordeaux"
+    },
+    {
+      "id": 104103,
+      "name": "Saint-Christoly-de-Blaye"
+    },
+    {
+      "id": 104104,
+      "name": "Saint-Ciers-d’Abzac"
+    },
+    {
+      "id": 104105,
+      "name": "Saint-Ciers-sur-Gironde"
+    },
+    {
+      "id": 104106,
+      "name": "Saint-Claud"
+    },
+    {
+      "id": 104107,
+      "name": "Saint-Clément"
+    },
+    {
+      "id": 104108,
+      "name": "Saint-Cyprien"
+    },
+    {
+      "id": 104109,
+      "name": "Saint-Denis-d’Oléron"
+    },
+    {
+      "id": 104110,
+      "name": "Saint-Denis-de-Pile"
+    },
+    {
+      "id": 104111,
+      "name": "Saint-Émilion"
+    },
+    {
+      "id": 104112,
+      "name": "Saint-Estèphe"
+    },
+    {
+      "id": 104113,
+      "name": "Saint-Étienne-de-Baïgorry"
+    },
+    {
+      "id": 104114,
+      "name": "Saint-Gelais"
+    },
+    {
+      "id": 104115,
+      "name": "Saint-Gence"
+    },
+    {
+      "id": 104116,
+      "name": "Saint-Genis-de-Saintonge"
+    },
+    {
+      "id": 104117,
+      "name": "Saint-Georges-de-Didonne"
+    },
+    {
+      "id": 104118,
+      "name": "Saint-Georges-des-Coteaux"
+    },
+    {
+      "id": 104119,
+      "name": "Saint-Georges-du-Bois"
+    },
+    {
+      "id": 104120,
+      "name": "Saint-Georges-lès-Baillargeaux"
+    },
+    {
+      "id": 104121,
+      "name": "Saint-Geours-de-Maremne"
+    },
+    {
+      "id": 104122,
+      "name": "Saint-Germain-de-Lusignan"
+    },
+    {
+      "id": 104123,
+      "name": "Saint-Germain-de-Marencennes"
+    },
+    {
+      "id": 104124,
+      "name": "Saint-Germain-du-Puch"
+    },
+    {
+      "id": 104125,
+      "name": "Saint-Germain-les-Belles"
+    },
+    {
+      "id": 104126,
+      "name": "Saint-Gervais"
+    },
+    {
+      "id": 104127,
+      "name": "Saint-Gervais-les-Trois-Clochers"
+    },
+    {
+      "id": 104128,
+      "name": "Saint-Hilaire"
+    },
+    {
+      "id": 104129,
+      "name": "Saint-Hilaire-de-Villefranche"
+    },
+    {
+      "id": 104130,
+      "name": "Saint-Hilaire-la-Palud"
+    },
+    {
+      "id": 104131,
+      "name": "Saint-Hippolyte"
+    },
+    {
+      "id": 104132,
+      "name": "Saint-Jean-d’Illac"
+    },
+    {
+      "id": 104133,
+      "name": "Saint-Jean-de-Liversay"
+    },
+    {
+      "id": 104134,
+      "name": "Saint-Jean-de-Luz"
+    },
+    {
+      "id": 104135,
+      "name": "Saint-Jean-de-Sauves"
+    },
+    {
+      "id": 104136,
+      "name": "Saint-Jean-de-Thouars"
+    },
+    {
+      "id": 104137,
+      "name": "Saint-Jean-Pied-de-Port"
+    },
+    {
+      "id": 104138,
+      "name": "Saint-Jouvent"
+    },
+    {
+      "id": 104139,
+      "name": "Saint-Julien-en-Born"
+    },
+    {
+      "id": 104140,
+      "name": "Saint-Junien"
+    },
+    {
+      "id": 104141,
+      "name": "Saint-Just-le-Martel"
+    },
+    {
+      "id": 104142,
+      "name": "Saint-Just-Luzac"
+    },
+    {
+      "id": 104143,
+      "name": "Saint-Laurent-de-la-Prée"
+    },
+    {
+      "id": 104144,
+      "name": "Saint-Laurent-sur-Gorre"
+    },
+    {
+      "id": 104145,
+      "name": "Saint-Léger-de-Montbrun"
+    },
+    {
+      "id": 104146,
+      "name": "Saint-Léon-sur-l’Isle"
+    },
+    {
+      "id": 104147,
+      "name": "Saint-Léonard-de-Noblat"
+    },
+    {
+      "id": 104148,
+      "name": "Saint-Loubès"
+    },
+    {
+      "id": 104149,
+      "name": "Saint-Louis-de-Montferrand"
+    },
+    {
+      "id": 104150,
+      "name": "Saint-Macaire"
+    },
+    {
+      "id": 104151,
+      "name": "Saint-Maixant"
+    },
+    {
+      "id": 104152,
+      "name": "Saint-Mariens"
+    },
+    {
+      "id": 104153,
+      "name": "Saint-Martin-de-Hinx"
+    },
+    {
+      "id": 104154,
+      "name": "Saint-Martin-de-Ré"
+    },
+    {
+      "id": 104155,
+      "name": "Saint-Martin-de-Seignanx"
+    },
+    {
+      "id": 104156,
+      "name": "Saint-Martin-Lacaussade"
+    },
+    {
+      "id": 104157,
+      "name": "Saint-Mathieu"
+    },
+    {
+      "id": 104158,
+      "name": "Saint-Maurice-la-Clouère"
+    },
+    {
+      "id": 104159,
+      "name": "Saint-Maurice-la-Souterraine"
+    },
+    {
+      "id": 104160,
+      "name": "Saint-Maxire"
+    },
+    {
+      "id": 104161,
+      "name": "Saint-Médard-d’Eyrans"
+    },
+    {
+      "id": 104162,
+      "name": "Saint-Médard-de-Guizières"
+    },
+    {
+      "id": 104163,
+      "name": "Saint-Médard-de-Mussidan"
+    },
+    {
+      "id": 104164,
+      "name": "Saint-Médard-en-Jalles"
+    },
+    {
+      "id": 104165,
+      "name": "Saint-Même-les-Carrières"
+    },
+    {
+      "id": 104166,
+      "name": "Saint-Mexant"
+    },
+    {
+      "id": 104167,
+      "name": "Saint-Michel"
+    },
+    {
+      "id": 104168,
+      "name": "Saint-Morillon"
+    },
+    {
+      "id": 104169,
+      "name": "Saint-Palais"
+    },
+    {
+      "id": 104170,
+      "name": "Saint-Palais-sur-Mer"
+    },
+    {
+      "id": 104171,
+      "name": "Saint-Pantaléon-de-Larche"
+    },
+    {
+      "id": 104172,
+      "name": "Saint-Pardoux"
+    },
+    {
+      "id": 104173,
+      "name": "Saint-Pardoux-Isaac"
+    },
+    {
+      "id": 104174,
+      "name": "Saint-Pardoux-la-Rivière"
+    },
+    {
+      "id": 104175,
+      "name": "Saint-Paul"
+    },
+    {
+      "id": 104176,
+      "name": "Saint-Paul-lès-Dax"
+    },
+    {
+      "id": 104177,
+      "name": "Saint-Pée-sur-Nivelle"
+    },
+    {
+      "id": 104178,
+      "name": "Saint-Perdon"
+    },
+    {
+      "id": 104179,
+      "name": "Saint-Pierre-d’Aurillac"
+    },
+    {
+      "id": 104180,
+      "name": "Saint-Pierre-d’Oléron"
+    },
+    {
+      "id": 104181,
+      "name": "Saint-Pierre-des-Échaubrognes"
+    },
+    {
+      "id": 104182,
+      "name": "Saint-Pierre-du-Mont"
+    },
+    {
+      "id": 104183,
+      "name": "Saint-Porchaire"
+    },
+    {
+      "id": 104184,
+      "name": "Saint-Priest-sous-Aixe"
+    },
+    {
+      "id": 104185,
+      "name": "Saint-Priest-Taurion"
+    },
+    {
+      "id": 104186,
+      "name": "Saint-Privat"
+    },
+    {
+      "id": 104187,
+      "name": "Saint-Projet-Saint-Constant"
+    },
+    {
+      "id": 104188,
+      "name": "Saint-Quentin-de-Baron"
+    },
+    {
+      "id": 104189,
+      "name": "Saint-Rogatien"
+    },
+    {
+      "id": 104190,
+      "name": "Saint-Romain-de-Benet"
+    },
+    {
+      "id": 104191,
+      "name": "Saint-Saturnin"
+    },
+    {
+      "id": 104192,
+      "name": "Saint-Sauvant"
+    },
+    {
+      "id": 104193,
+      "name": "Saint-Sauveur"
+    },
+    {
+      "id": 104194,
+      "name": "Saint-Sauveur-d’Aunis"
+    },
+    {
+      "id": 104195,
+      "name": "Saint-Savin"
+    },
+    {
+      "id": 104196,
+      "name": "Saint-Savinien"
+    },
+    {
+      "id": 104197,
+      "name": "Saint-Selve"
+    },
+    {
+      "id": 104198,
+      "name": "Saint-Seurin-sur-l’Isle"
+    },
+    {
+      "id": 104199,
+      "name": "Saint-Sever"
+    },
+    {
+      "id": 104200,
+      "name": "Saint-Sulpice-de-Cognac"
+    },
+    {
+      "id": 104201,
+      "name": "Saint-Sulpice-de-Faleyrens"
+    },
+    {
+      "id": 104202,
+      "name": "Saint-Sulpice-de-Royan"
+    },
+    {
+      "id": 104203,
+      "name": "Saint-Sulpice-et-Cameyrac"
+    },
+    {
+      "id": 104204,
+      "name": "Saint-Sulpice-le-Guérétois"
+    },
+    {
+      "id": 104205,
+      "name": "Saint-Sulpice-les-Feuilles"
+    },
+    {
+      "id": 104206,
+      "name": "Saint-Sylvestre-sur-Lot"
+    },
+    {
+      "id": 104207,
+      "name": "Saint-Symphorien"
+    },
+    {
+      "id": 104208,
+      "name": "Saint-Trojan-les-Bains"
+    },
+    {
+      "id": 104209,
+      "name": "Saint-Varent"
+    },
+    {
+      "id": 104210,
+      "name": "Saint-Vaury"
+    },
+    {
+      "id": 104211,
+      "name": "Saint-Viance"
+    },
+    {
+      "id": 104212,
+      "name": "Saint-Victurnien"
+    },
+    {
+      "id": 104213,
+      "name": "Saint-Vincent-de-Paul"
+    },
+    {
+      "id": 104214,
+      "name": "Saint-Vincent-de-Tyrosse"
+    },
+    {
+      "id": 104215,
+      "name": "Saint-Vite"
+    },
+    {
+      "id": 104216,
+      "name": "Saint-Vivien-de-Médoc"
+    },
+    {
+      "id": 104217,
+      "name": "Saint-Xandre"
+    },
+    {
+      "id": 104218,
+      "name": "Saint-Yrieix-la-Perche"
+    },
+    {
+      "id": 104219,
+      "name": "Saint-Yrieix-sur-Charente"
+    },
+    {
+      "id": 104220,
+      "name": "Saint-Yzan-de-Soudiac"
+    },
+    {
+      "id": 104221,
+      "name": "Sainte-Bazeille"
+    },
+    {
+      "id": 104222,
+      "name": "Sainte-Colombe-en-Bruilhois"
+    },
+    {
+      "id": 104223,
+      "name": "Sainte-Eulalie"
+    },
+    {
+      "id": 104224,
+      "name": "Sainte-Féréole"
+    },
+    {
+      "id": 104225,
+      "name": "Sainte-Feyre"
+    },
+    {
+      "id": 104226,
+      "name": "Sainte-Fortunade"
+    },
+    {
+      "id": 104227,
+      "name": "Sainte-Foy-la-Grande"
+    },
+    {
+      "id": 104228,
+      "name": "Sainte-Hélène"
+    },
+    {
+      "id": 104229,
+      "name": "Sainte-Livrade-sur-Lot"
+    },
+    {
+      "id": 104230,
+      "name": "Sainte-Marie-de-Gosse"
+    },
+    {
+      "id": 104231,
+      "name": "Sainte-Marie-de-Ré"
+    },
+    {
+      "id": 104232,
+      "name": "Sainte-Radegonde"
+    },
+    {
+      "id": 104233,
+      "name": "Sainte-Soulle"
+    },
+    {
+      "id": 104234,
+      "name": "Sainte-Terre"
+    },
+    {
+      "id": 104235,
+      "name": "Sainte-Verge"
+    },
+    {
+      "id": 104236,
+      "name": "Saintes"
+    },
+    {
+      "id": 104237,
+      "name": "Saivres"
+    },
+    {
+      "id": 104238,
+      "name": "Salies-de-Béarn"
+    },
+    {
+      "id": 104239,
+      "name": "Salignac"
+    },
+    {
+      "id": 104240,
+      "name": "Salignac-Eyvigues"
+    },
+    {
+      "id": 104241,
+      "name": "Sallebœuf"
+    },
+    {
+      "id": 104242,
+      "name": "Salles"
+    },
+    {
+      "id": 104243,
+      "name": "Salles-sur-Mer"
+    },
+    {
+      "id": 104244,
+      "name": "Samadet"
+    },
+    {
+      "id": 104245,
+      "name": "Sanguinet"
+    },
+    {
+      "id": 104246,
+      "name": "Sarbazan"
+    },
+    {
+      "id": 104247,
+      "name": "Sare"
+    },
+    {
+      "id": 104248,
+      "name": "Sarlat-la-Canéda"
+    },
+    {
+      "id": 104249,
+      "name": "Saubion"
+    },
+    {
+      "id": 104250,
+      "name": "Saubrigues"
+    },
+    {
+      "id": 104251,
+      "name": "Saucats"
+    },
+    {
+      "id": 104252,
+      "name": "Saugnac-et-Cambran"
+    },
+    {
+      "id": 104253,
+      "name": "Saujon"
+    },
+    {
+      "id": 104254,
+      "name": "Saulgé"
+    },
+    {
+      "id": 104255,
+      "name": "Sauvagnon"
+    },
+    {
+      "id": 104256,
+      "name": "Sauveterre-de-Béarn"
+    },
+    {
+      "id": 104257,
+      "name": "Sauveterre-de-Guyenne"
+    },
+    {
+      "id": 104258,
+      "name": "Sauviat-sur-Vige"
+    },
+    {
+      "id": 104259,
+      "name": "Sauzé-Vaussais"
+    },
+    {
+      "id": 104260,
+      "name": "Savigné"
+    },
+    {
+      "id": 104261,
+      "name": "Savigny-Lévescault"
+    },
+    {
+      "id": 104262,
+      "name": "Scorbé-Clairvaux"
+    },
+    {
+      "id": 104263,
+      "name": "Secondigny"
+    },
+    {
+      "id": 104264,
+      "name": "Segonzac"
+    },
+    {
+      "id": 104265,
+      "name": "Seignosse"
+    },
+    {
+      "id": 104266,
+      "name": "Seilhac"
+    },
+    {
+      "id": 104267,
+      "name": "Semussac"
+    },
+    {
+      "id": 104268,
+      "name": "Séreilhac"
+    },
+    {
+      "id": 104269,
+      "name": "Serres-Castet"
+    },
+    {
+      "id": 104270,
+      "name": "Sèvres-Anxaumont"
+    },
+    {
+      "id": 104271,
+      "name": "Sireuil"
+    },
+    {
+      "id": 104272,
+      "name": "Smarves"
+    },
+    {
+      "id": 104273,
+      "name": "Solignac"
+    },
+    {
+      "id": 104274,
+      "name": "Soorts-Hossegor"
+    },
+    {
+      "id": 104275,
+      "name": "Sorges"
+    },
+    {
+      "id": 104276,
+      "name": "Soubise"
+    },
+    {
+      "id": 104277,
+      "name": "Soulac-sur-Mer"
+    },
+    {
+      "id": 104278,
+      "name": "Soumoulou"
+    },
+    {
+      "id": 104279,
+      "name": "Souprosse"
+    },
+    {
+      "id": 104280,
+      "name": "Souraïde"
+    },
+    {
+      "id": 104281,
+      "name": "Sourzac"
+    },
+    {
+      "id": 104282,
+      "name": "Soussans"
+    },
+    {
+      "id": 104283,
+      "name": "Soustons"
+    },
+    {
+      "id": 104284,
+      "name": "Soyaux"
+    },
+    {
+      "id": 104285,
+      "name": "Surgères"
+    },
+    {
+      "id": 104286,
+      "name": "Tabanac"
+    },
+    {
+      "id": 104287,
+      "name": "Talence"
+    },
+    {
+      "id": 104288,
+      "name": "Taponnat-Fleurignac"
+    },
+    {
+      "id": 104289,
+      "name": "Targon"
+    },
+    {
+      "id": 104290,
+      "name": "Tarnos"
+    },
+    {
+      "id": 104291,
+      "name": "Tartas"
+    },
+    {
+      "id": 104292,
+      "name": "Tauriac"
+    },
+    {
+      "id": 104293,
+      "name": "Tercé"
+    },
+    {
+      "id": 104294,
+      "name": "Tercis-les-Bains"
+    },
+    {
+      "id": 104295,
+      "name": "Terrasson-Lavilledieu"
+    },
+    {
+      "id": 104296,
+      "name": "Thairé"
+    },
+    {
+      "id": 104297,
+      "name": "Thénac"
+    },
+    {
+      "id": 104298,
+      "name": "Thénezay"
+    },
+    {
+      "id": 104299,
+      "name": "Thenon"
+    },
+    {
+      "id": 104300,
+      "name": "Thiviers"
+    },
+    {
+      "id": 104301,
+      "name": "Thorigné"
+    },
+    {
+      "id": 104302,
+      "name": "Thouars"
+    },
+    {
+      "id": 104303,
+      "name": "Thuré"
+    },
+    {
+      "id": 104304,
+      "name": "Tocane-Saint-Apre"
+    },
+    {
+      "id": 104305,
+      "name": "Tonnay-Boutonne"
+    },
+    {
+      "id": 104306,
+      "name": "Tonnay-Charente"
+    },
+    {
+      "id": 104307,
+      "name": "Tonneins"
+    },
+    {
+      "id": 104308,
+      "name": "Tosse"
+    },
+    {
+      "id": 104309,
+      "name": "Toulenne"
+    },
+    {
+      "id": 104310,
+      "name": "Touvre"
+    },
+    {
+      "id": 104311,
+      "name": "Treignac"
+    },
+    {
+      "id": 104312,
+      "name": "Trélissac"
+    },
+    {
+      "id": 104313,
+      "name": "Tresses"
+    },
+    {
+      "id": 104314,
+      "name": "Trizay"
+    },
+    {
+      "id": 104315,
+      "name": "Tulle"
+    },
+    {
+      "id": 104316,
+      "name": "Urcuit"
+    },
+    {
+      "id": 104317,
+      "name": "Urrugne"
+    },
+    {
+      "id": 104318,
+      "name": "Urt"
+    },
+    {
+      "id": 104319,
+      "name": "Ussac"
+    },
+    {
+      "id": 104320,
+      "name": "Ussel"
+    },
+    {
+      "id": 104321,
+      "name": "Usson-du-Poitou"
+    },
+    {
+      "id": 104322,
+      "name": "Ustaritz"
+    },
+    {
+      "id": 104323,
+      "name": "Uzein"
+    },
+    {
+      "id": 104324,
+      "name": "Uzerche"
+    },
+    {
+      "id": 104325,
+      "name": "Varetz"
+    },
+    {
+      "id": 104326,
+      "name": "Vars"
+    },
+    {
+      "id": 104327,
+      "name": "Vasles"
+    },
+    {
+      "id": 104328,
+      "name": "Vaux-sur-Mer"
+    },
+    {
+      "id": 104329,
+      "name": "Vayres"
+    },
+    {
+      "id": 104330,
+      "name": "Vélines"
+    },
+    {
+      "id": 104331,
+      "name": "Vendays-Montalivet"
+    },
+    {
+      "id": 104332,
+      "name": "Vendeuvre-du-Poitou"
+    },
+    {
+      "id": 104333,
+      "name": "Vergt"
+    },
+    {
+      "id": 104334,
+      "name": "Vérines"
+    },
+    {
+      "id": 104335,
+      "name": "Verneuil-sur-Vienne"
+    },
+    {
+      "id": 104336,
+      "name": "Vertheuil"
+    },
+    {
+      "id": 104337,
+      "name": "Veyrac"
+    },
+    {
+      "id": 104338,
+      "name": "Vianne"
+    },
+    {
+      "id": 104339,
+      "name": "Vicq-sur-Breuilh"
+    },
+    {
+      "id": 104340,
+      "name": "Vielle-Saint-Girons"
+    },
+    {
+      "id": 104341,
+      "name": "Viennay"
+    },
+    {
+      "id": 104342,
+      "name": "Vienne"
+    },
+    {
+      "id": 104343,
+      "name": "Vieux-Boucau-les-Bains"
+    },
+    {
+      "id": 104344,
+      "name": "Vigeois"
+    },
+    {
+      "id": 104345,
+      "name": "Villefagnan"
+    },
+    {
+      "id": 104346,
+      "name": "Villefranque"
+    },
+    {
+      "id": 104347,
+      "name": "Villegouge"
+    },
+    {
+      "id": 104348,
+      "name": "Villenave-d’Ornon"
+    },
+    {
+      "id": 104349,
+      "name": "Villeneuve-de-Marsan"
+    },
+    {
+      "id": 104350,
+      "name": "Villeneuve-sur-Lot"
+    },
+    {
+      "id": 104351,
+      "name": "Villeréal"
+    },
+    {
+      "id": 104352,
+      "name": "Villiers-en-Plaine"
+    },
+    {
+      "id": 104353,
+      "name": "Virazeil"
+    },
+    {
+      "id": 104354,
+      "name": "Vivonne"
+    },
+    {
+      "id": 104355,
+      "name": "Vœuil-et-Giget"
+    },
+    {
+      "id": 104356,
+      "name": "Vouillé"
+    },
+    {
+      "id": 104357,
+      "name": "Vouneuil-sous-Biard"
+    },
+    {
+      "id": 104358,
+      "name": "Vouneuil-sur-Vienne"
+    },
+    {
+      "id": 104359,
+      "name": "Voutezac"
+    },
+    {
+      "id": 104360,
+      "name": "Ychoux"
+    },
+    {
+      "id": 104361,
+      "name": "Ygos-Saint-Saturnin"
+    },
+    {
+      "id": 104362,
+      "name": "Yves"
+    },
+    {
+      "id": 104363,
+      "name": "Yvrac"
+    }
+  ]
+}

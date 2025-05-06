@@ -1,0 +1,391 @@
+{
+  "id": 2815,
+  "name": "Australian Capital Territory",
+  "state_code": "ACT",
+  "cities": [
+    {
+      "id": 74085,
+      "name": "Acton"
+    },
+    {
+      "id": 74086,
+      "name": "Ainslie"
+    },
+    {
+      "id": 74087,
+      "name": "Amaroo"
+    },
+    {
+      "id": 74088,
+      "name": "Aranda"
+    },
+    {
+      "id": 74089,
+      "name": "Banks"
+    },
+    {
+      "id": 74090,
+      "name": "Barton"
+    },
+    {
+      "id": 74091,
+      "name": "Belconnen"
+    },
+    {
+      "id": 74092,
+      "name": "Bonner"
+    },
+    {
+      "id": 74093,
+      "name": "Bonython"
+    },
+    {
+      "id": 74094,
+      "name": "Braddon"
+    },
+    {
+      "id": 74095,
+      "name": "Bruce"
+    },
+    {
+      "id": 74096,
+      "name": "Calwell"
+    },
+    {
+      "id": 74097,
+      "name": "Campbell"
+    },
+    {
+      "id": 74098,
+      "name": "Canberra"
+    },
+    {
+      "id": 74099,
+      "name": "Casey"
+    },
+    {
+      "id": 74100,
+      "name": "Chapman"
+    },
+    {
+      "id": 74101,
+      "name": "Charnwood"
+    },
+    {
+      "id": 74102,
+      "name": "Chifley"
+    },
+    {
+      "id": 74103,
+      "name": "Chisholm"
+    },
+    {
+      "id": 74104,
+      "name": "City"
+    },
+    {
+      "id": 74105,
+      "name": "Conder"
+    },
+    {
+      "id": 74106,
+      "name": "Cook"
+    },
+    {
+      "id": 74107,
+      "name": "Coombs"
+    },
+    {
+      "id": 74108,
+      "name": "Crace"
+    },
+    {
+      "id": 74109,
+      "name": "Curtin"
+    },
+    {
+      "id": 74110,
+      "name": "Deakin"
+    },
+    {
+      "id": 74111,
+      "name": "Dickson"
+    },
+    {
+      "id": 74112,
+      "name": "Downer"
+    },
+    {
+      "id": 74113,
+      "name": "Duffy"
+    },
+    {
+      "id": 74114,
+      "name": "Dunlop"
+    },
+    {
+      "id": 74115,
+      "name": "Evatt"
+    },
+    {
+      "id": 74116,
+      "name": "Fadden"
+    },
+    {
+      "id": 74117,
+      "name": "Farrer"
+    },
+    {
+      "id": 74118,
+      "name": "Fisher"
+    },
+    {
+      "id": 74119,
+      "name": "Florey"
+    },
+    {
+      "id": 74120,
+      "name": "Flynn"
+    },
+    {
+      "id": 74121,
+      "name": "Forde"
+    },
+    {
+      "id": 74122,
+      "name": "Forrest"
+    },
+    {
+      "id": 74123,
+      "name": "Franklin"
+    },
+    {
+      "id": 74124,
+      "name": "Fraser"
+    },
+    {
+      "id": 74125,
+      "name": "Garran"
+    },
+    {
+      "id": 74126,
+      "name": "Gilmore"
+    },
+    {
+      "id": 74127,
+      "name": "Giralang"
+    },
+    {
+      "id": 74128,
+      "name": "Gordon"
+    },
+    {
+      "id": 74129,
+      "name": "Gowrie"
+    },
+    {
+      "id": 74130,
+      "name": "Greenway"
+    },
+    {
+      "id": 74131,
+      "name": "Griffith"
+    },
+    {
+      "id": 74132,
+      "name": "Gungahlin"
+    },
+    {
+      "id": 74133,
+      "name": "Hackett"
+    },
+    {
+      "id": 74134,
+      "name": "Harrison"
+    },
+    {
+      "id": 74135,
+      "name": "Hawker"
+    },
+    {
+      "id": 74136,
+      "name": "Higgins"
+    },
+    {
+      "id": 74137,
+      "name": "Holder"
+    },
+    {
+      "id": 74138,
+      "name": "Holt"
+    },
+    {
+      "id": 74139,
+      "name": "Hughes"
+    },
+    {
+      "id": 74140,
+      "name": "Isaacs"
+    },
+    {
+      "id": 74141,
+      "name": "Isabella Plains"
+    },
+    {
+      "id": 74142,
+      "name": "Kaleen"
+    },
+    {
+      "id": 74143,
+      "name": "Kambah"
+    },
+    {
+      "id": 74144,
+      "name": "Kingston"
+    },
+    {
+      "id": 74145,
+      "name": "Latham"
+    },
+    {
+      "id": 74146,
+      "name": "Lyneham"
+    },
+    {
+      "id": 74147,
+      "name": "Lyons"
+    },
+    {
+      "id": 74148,
+      "name": "Macarthur"
+    },
+    {
+      "id": 74149,
+      "name": "Macgregor"
+    },
+    {
+      "id": 74150,
+      "name": "Macquarie"
+    },
+    {
+      "id": 74151,
+      "name": "Mawson"
+    },
+    {
+      "id": 74152,
+      "name": "McKellar"
+    },
+    {
+      "id": 74153,
+      "name": "Melba"
+    },
+    {
+      "id": 74154,
+      "name": "Monash"
+    },
+    {
+      "id": 74155,
+      "name": "Narrabundah"
+    },
+    {
+      "id": 74156,
+      "name": "Ngunnawal"
+    },
+    {
+      "id": 74157,
+      "name": "Nicholls"
+    },
+    {
+      "id": 74158,
+      "name": "O'Connor"
+    },
+    {
+      "id": 74159,
+      "name": "Oxley"
+    },
+    {
+      "id": 74160,
+      "name": "Page"
+    },
+    {
+      "id": 74161,
+      "name": "Palmerston"
+    },
+    {
+      "id": 74162,
+      "name": "Pearce"
+    },
+    {
+      "id": 74163,
+      "name": "Phillip"
+    },
+    {
+      "id": 74164,
+      "name": "Red Hill"
+    },
+    {
+      "id": 74165,
+      "name": "Reid"
+    },
+    {
+      "id": 74166,
+      "name": "Richardson"
+    },
+    {
+      "id": 74167,
+      "name": "Rivett"
+    },
+    {
+      "id": 74168,
+      "name": "Scullin"
+    },
+    {
+      "id": 74169,
+      "name": "Spence"
+    },
+    {
+      "id": 74170,
+      "name": "Stirling"
+    },
+    {
+      "id": 74171,
+      "name": "Theodore"
+    },
+    {
+      "id": 74172,
+      "name": "Torrens"
+    },
+    {
+      "id": 74173,
+      "name": "Turner"
+    },
+    {
+      "id": 74174,
+      "name": "Wanniassa"
+    },
+    {
+      "id": 74175,
+      "name": "Waramanga"
+    },
+    {
+      "id": 74176,
+      "name": "Watson"
+    },
+    {
+      "id": 74177,
+      "name": "Weetangera"
+    },
+    {
+      "id": 74178,
+      "name": "Weston"
+    },
+    {
+      "id": 74179,
+      "name": "Wright"
+    },
+    {
+      "id": 74180,
+      "name": "Yarralumla"
+    }
+  ]
+}

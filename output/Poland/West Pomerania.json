@@ -1,0 +1,487 @@
+{
+  "id": 5837,
+  "name": "West Pomerania",
+  "state_code": "32",
+  "cities": [
+    {
+      "id": 163871,
+      "name": "Banie"
+    },
+    {
+      "id": 163872,
+      "name": "Barlinek"
+    },
+    {
+      "id": 163873,
+      "name": "Barwice"
+    },
+    {
+      "id": 163874,
+      "name": "Białogard"
+    },
+    {
+      "id": 163875,
+      "name": "Biały Bór"
+    },
+    {
+      "id": 163876,
+      "name": "Bielice"
+    },
+    {
+      "id": 163877,
+      "name": "Bierzwnik"
+    },
+    {
+      "id": 163878,
+      "name": "Bobolice"
+    },
+    {
+      "id": 163879,
+      "name": "Boleszkowice"
+    },
+    {
+      "id": 163880,
+      "name": "Borne Sulinowo"
+    },
+    {
+      "id": 163881,
+      "name": "Brojce"
+    },
+    {
+      "id": 163882,
+      "name": "Cedynia"
+    },
+    {
+      "id": 163883,
+      "name": "Cerkwica"
+    },
+    {
+      "id": 163884,
+      "name": "Chociwel"
+    },
+    {
+      "id": 163885,
+      "name": "Chojna"
+    },
+    {
+      "id": 163886,
+      "name": "Choszczno"
+    },
+    {
+      "id": 163887,
+      "name": "Czaplinek"
+    },
+    {
+      "id": 163888,
+      "name": "Człopa"
+    },
+    {
+      "id": 163889,
+      "name": "Darłowo"
+    },
+    {
+      "id": 163890,
+      "name": "Dębno"
+    },
+    {
+      "id": 163891,
+      "name": "Dobra"
+    },
+    {
+      "id": 163892,
+      "name": "Dobrzany"
+    },
+    {
+      "id": 163893,
+      "name": "Dolice"
+    },
+    {
+      "id": 163894,
+      "name": "Drawno"
+    },
+    {
+      "id": 163895,
+      "name": "Drawsko Pomorskie"
+    },
+    {
+      "id": 163896,
+      "name": "Dygowo"
+    },
+    {
+      "id": 163897,
+      "name": "Dziwnów"
+    },
+    {
+      "id": 163898,
+      "name": "Golczewo"
+    },
+    {
+      "id": 163899,
+      "name": "Goleniów"
+    },
+    {
+      "id": 163900,
+      "name": "Gościno"
+    },
+    {
+      "id": 163901,
+      "name": "Gryfice"
+    },
+    {
+      "id": 163902,
+      "name": "Gryfino"
+    },
+    {
+      "id": 163903,
+      "name": "Grzmiąca"
+    },
+    {
+      "id": 163904,
+      "name": "Grzybowo"
+    },
+    {
+      "id": 163905,
+      "name": "Ińsko"
+    },
+    {
+      "id": 163906,
+      "name": "Kalisz Pomorski"
+    },
+    {
+      "id": 163907,
+      "name": "Kamień Pomorski"
+    },
+    {
+      "id": 163908,
+      "name": "Karlino"
+    },
+    {
+      "id": 163909,
+      "name": "Karnice"
+    },
+    {
+      "id": 163910,
+      "name": "Kobylanka"
+    },
+    {
+      "id": 163911,
+      "name": "Kołbaskowo"
+    },
+    {
+      "id": 163912,
+      "name": "Kołobrzeg"
+    },
+    {
+      "id": 163913,
+      "name": "Koszalin"
+    },
+    {
+      "id": 163914,
+      "name": "Krzęcin"
+    },
+    {
+      "id": 163915,
+      "name": "Lipiany"
+    },
+    {
+      "id": 163916,
+      "name": "Łobez"
+    },
+    {
+      "id": 163917,
+      "name": "Łubowo"
+    },
+    {
+      "id": 163918,
+      "name": "Marianowo"
+    },
+    {
+      "id": 163919,
+      "name": "Maszewo"
+    },
+    {
+      "id": 163920,
+      "name": "Międzyzdroje"
+    },
+    {
+      "id": 163921,
+      "name": "Mielno"
+    },
+    {
+      "id": 163922,
+      "name": "Mieszkowice"
+    },
+    {
+      "id": 163923,
+      "name": "Mirosławiec"
+    },
+    {
+      "id": 163924,
+      "name": "Moryń"
+    },
+    {
+      "id": 163925,
+      "name": "Mosty"
+    },
+    {
+      "id": 163926,
+      "name": "Mrzeżyno"
+    },
+    {
+      "id": 163927,
+      "name": "Myślibórz"
+    },
+    {
+      "id": 163928,
+      "name": "Nowe Warpno"
+    },
+    {
+      "id": 163929,
+      "name": "Nowogard"
+    },
+    {
+      "id": 163930,
+      "name": "Nowogródek Pomorski"
+    },
+    {
+      "id": 163931,
+      "name": "Osina"
+    },
+    {
+      "id": 163932,
+      "name": "Pełczyce"
+    },
+    {
+      "id": 163933,
+      "name": "Płoty"
+    },
+    {
+      "id": 163934,
+      "name": "Pobierowo"
+    },
+    {
+      "id": 163935,
+      "name": "Polanów"
+    },
+    {
+      "id": 163936,
+      "name": "Police"
+    },
+    {
+      "id": 163937,
+      "name": "Połczyn-Zdrój"
+    },
+    {
+      "id": 163938,
+      "name": "Powiat białogardzki"
+    },
+    {
+      "id": 163939,
+      "name": "Powiat choszczeński"
+    },
+    {
+      "id": 163940,
+      "name": "Powiat drawski"
+    },
+    {
+      "id": 163941,
+      "name": "Powiat goleniowski"
+    },
+    {
+      "id": 163942,
+      "name": "Powiat gryficki"
+    },
+    {
+      "id": 163943,
+      "name": "Powiat gryfiński"
+    },
+    {
+      "id": 163944,
+      "name": "Powiat kamieński"
+    },
+    {
+      "id": 163945,
+      "name": "Powiat kołobrzeski"
+    },
+    {
+      "id": 163946,
+      "name": "Powiat koszaliński"
+    },
+    {
+      "id": 163947,
+      "name": "Powiat łobeski"
+    },
+    {
+      "id": 163948,
+      "name": "Powiat myśliborski"
+    },
+    {
+      "id": 163949,
+      "name": "Powiat policki"
+    },
+    {
+      "id": 163950,
+      "name": "Powiat pyrzycki"
+    },
+    {
+      "id": 163951,
+      "name": "Powiat sławieński"
+    },
+    {
+      "id": 163952,
+      "name": "Powiat stargardzki"
+    },
+    {
+      "id": 163953,
+      "name": "Powiat świdwiński"
+    },
+    {
+      "id": 163954,
+      "name": "Powiat szczecinecki"
+    },
+    {
+      "id": 163955,
+      "name": "Powiat wałecki"
+    },
+    {
+      "id": 163956,
+      "name": "Przecław"
+    },
+    {
+      "id": 163957,
+      "name": "Przelewice"
+    },
+    {
+      "id": 163958,
+      "name": "Przybiernów"
+    },
+    {
+      "id": 163959,
+      "name": "Pyrzyce"
+    },
+    {
+      "id": 163960,
+      "name": "Rąbino"
+    },
+    {
+      "id": 163961,
+      "name": "Radowo Małe"
+    },
+    {
+      "id": 163962,
+      "name": "Recz"
+    },
+    {
+      "id": 163963,
+      "name": "Resko"
+    },
+    {
+      "id": 163964,
+      "name": "Rewal"
+    },
+    {
+      "id": 163965,
+      "name": "Rymań"
+    },
+    {
+      "id": 163966,
+      "name": "Sianów"
+    },
+    {
+      "id": 163967,
+      "name": "Sławno"
+    },
+    {
+      "id": 163968,
+      "name": "Sławoborze"
+    },
+    {
+      "id": 163969,
+      "name": "Stara Dąbrowa"
+    },
+    {
+      "id": 163970,
+      "name": "Stare Czarnowo"
+    },
+    {
+      "id": 163971,
+      "name": "Stargard"
+    },
+    {
+      "id": 163972,
+      "name": "Stepnica"
+    },
+    {
+      "id": 163973,
+      "name": "Suchań"
+    },
+    {
+      "id": 163974,
+      "name": "Świdwin"
+    },
+    {
+      "id": 163975,
+      "name": "Świerzno"
+    },
+    {
+      "id": 163976,
+      "name": "Świnoujście"
+    },
+    {
+      "id": 163977,
+      "name": "Szczecin"
+    },
+    {
+      "id": 163978,
+      "name": "Szczecinek"
+    },
+    {
+      "id": 163979,
+      "name": "Trzcińsko Zdrój"
+    },
+    {
+      "id": 163980,
+      "name": "Trzebiatów"
+    },
+    {
+      "id": 163981,
+      "name": "Tuczno"
+    },
+    {
+      "id": 163982,
+      "name": "Tychowo"
+    },
+    {
+      "id": 163983,
+      "name": "Ustronie Morskie"
+    },
+    {
+      "id": 163984,
+      "name": "Wałcz"
+    },
+    {
+      "id": 163985,
+      "name": "Warnice"
+    },
+    {
+      "id": 163986,
+      "name": "Węgorzyno"
+    },
+    {
+      "id": 163987,
+      "name": "Widuchowa"
+    },
+    {
+      "id": 163988,
+      "name": "Wierzchowo"
+    },
+    {
+      "id": 163989,
+      "name": "Wolin"
+    },
+    {
+      "id": 163990,
+      "name": "Złocieniec"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": 6004,
+  "name": "Chelyabinsk Oblast",
+  "state_code": "CHE",
+  "cities": [
+    {
+      "id": 174047,
+      "name": "Agapovka"
+    },
+    {
+      "id": 174048,
+      "name": "Agapovskiy Rayon"
+    },
+    {
+      "id": 174049,
+      "name": "Argayash"
+    },
+    {
+      "id": 174050,
+      "name": "Asha"
+    },
+    {
+      "id": 174051,
+      "name": "Ashinskiy Rayon"
+    },
+    {
+      "id": 174052,
+      "name": "Bakal"
+    },
+    {
+      "id": 174053,
+      "name": "Bazhovo"
+    },
+    {
+      "id": 174054,
+      "name": "Berdyaush"
+    },
+    {
+      "id": 174055,
+      "name": "Bobrovka"
+    },
+    {
+      "id": 174056,
+      "name": "Bredy"
+    },
+    {
+      "id": 174057,
+      "name": "Brodokalmak"
+    },
+    {
+      "id": 174058,
+      "name": "Chebarkul’"
+    },
+    {
+      "id": 174059,
+      "name": "Chebarkul’skiy Rayon"
+    },
+    {
+      "id": 174060,
+      "name": "Chelyabinsk"
+    },
+    {
+      "id": 174061,
+      "name": "Cheremshanka"
+    },
+    {
+      "id": 174062,
+      "name": "Chesma"
+    },
+    {
+      "id": 174063,
+      "name": "Dolgoderevenskoye"
+    },
+    {
+      "id": 174064,
+      "name": "Fershampenuaz"
+    },
+    {
+      "id": 174065,
+      "name": "Gornyak"
+    },
+    {
+      "id": 174066,
+      "name": "Gorod Chelyabinsk"
+    },
+    {
+      "id": 174067,
+      "name": "Kanashevo"
+    },
+    {
+      "id": 174068,
+      "name": "Karabash"
+    },
+    {
+      "id": 174069,
+      "name": "Kartalinskiy Rayon"
+    },
+    {
+      "id": 174070,
+      "name": "Kartaly"
+    },
+    {
+      "id": 174071,
+      "name": "Kasli"
+    },
+    {
+      "id": 174072,
+      "name": "Katav-Ivanovsk"
+    },
+    {
+      "id": 174073,
+      "name": "Katav-Ivanovskiy Rayon"
+    },
+    {
+      "id": 174074,
+      "name": "Kizil’skiy Rayon"
+    },
+    {
+      "id": 174075,
+      "name": "Kopeysk"
+    },
+    {
+      "id": 174076,
+      "name": "Korkino"
+    },
+    {
+      "id": 174077,
+      "name": "Koyelga"
+    },
+    {
+      "id": 174078,
+      "name": "Krasnogorskiy"
+    },
+    {
+      "id": 174079,
+      "name": "Kropachëvo"
+    },
+    {
+      "id": 174080,
+      "name": "Kunashak"
+    },
+    {
+      "id": 174081,
+      "name": "Kusa"
+    },
+    {
+      "id": 174082,
+      "name": "Kyshtym"
+    },
+    {
+      "id": 174083,
+      "name": "Leninsk"
+    },
+    {
+      "id": 174084,
+      "name": "Lokomotivnyy"
+    },
+    {
+      "id": 174085,
+      "name": "Magnitka"
+    },
+    {
+      "id": 174086,
+      "name": "Magnitogorsk"
+    },
+    {
+      "id": 174087,
+      "name": "Mezhevoy"
+    },
+    {
+      "id": 174088,
+      "name": "Miass"
+    },
+    {
+      "id": 174089,
+      "name": "Miasskoye"
+    },
+    {
+      "id": 174090,
+      "name": "Muslyumovo"
+    },
+    {
+      "id": 174091,
+      "name": "Nagaybakskiy Rayon"
+    },
+    {
+      "id": 174092,
+      "name": "Nizhniy Ufaley"
+    },
+    {
+      "id": 174093,
+      "name": "Novogornyy"
+    },
+    {
+      "id": 174094,
+      "name": "Novosineglazovskiy"
+    },
+    {
+      "id": 174095,
+      "name": "Nyazepetrovsk"
+    },
+    {
+      "id": 174096,
+      "name": "Nyazepetrovskiy Rayon"
+    },
+    {
+      "id": 174097,
+      "name": "Oktyabr’skiy Rayon"
+    },
+    {
+      "id": 174098,
+      "name": "Ozersk"
+    },
+    {
+      "id": 174099,
+      "name": "Parizh"
+    },
+    {
+      "id": 174100,
+      "name": "Plast"
+    },
+    {
+      "id": 174101,
+      "name": "Poletayevo"
+    },
+    {
+      "id": 174102,
+      "name": "Potanino"
+    },
+    {
+      "id": 174103,
+      "name": "Roshchino"
+    },
+    {
+      "id": 174104,
+      "name": "Roza"
+    },
+    {
+      "id": 174105,
+      "name": "Sargazy"
+    },
+    {
+      "id": 174106,
+      "name": "Satka"
+    },
+    {
+      "id": 174107,
+      "name": "Satkinskiy Rayon"
+    },
+    {
+      "id": 174108,
+      "name": "Selezyan"
+    },
+    {
+      "id": 174109,
+      "name": "Sim"
+    },
+    {
+      "id": 174110,
+      "name": "Snezhinsk"
+    },
+    {
+      "id": 174111,
+      "name": "Sosnovskiy Rayon"
+    },
+    {
+      "id": 174112,
+      "name": "Starokamyshinsk"
+    },
+    {
+      "id": 174113,
+      "name": "Syrostan"
+    },
+    {
+      "id": 174114,
+      "name": "Tayginka"
+    },
+    {
+      "id": 174115,
+      "name": "Timiryazevskiy"
+    },
+    {
+      "id": 174116,
+      "name": "Trëkhgornyy"
+    },
+    {
+      "id": 174117,
+      "name": "Troitsk"
+    },
+    {
+      "id": 174118,
+      "name": "Turgoyak"
+    },
+    {
+      "id": 174119,
+      "name": "Tyubuk"
+    },
+    {
+      "id": 174120,
+      "name": "Ust’-Bagaryak"
+    },
+    {
+      "id": 174121,
+      "name": "Ust’-Katav"
+    },
+    {
+      "id": 174122,
+      "name": "Uvel’skiy"
+    },
+    {
+      "id": 174123,
+      "name": "Uvel’skiy Rayon"
+    },
+    {
+      "id": 174124,
+      "name": "Uyskiy Rayon"
+    },
+    {
+      "id": 174125,
+      "name": "Uyskoye"
+    },
+    {
+      "id": 174126,
+      "name": "Vakhrushevo"
+    },
+    {
+      "id": 174127,
+      "name": "Varna"
+    },
+    {
+      "id": 174128,
+      "name": "Varnenskiy Rayon"
+    },
+    {
+      "id": 174129,
+      "name": "Velikopetrovka"
+    },
+    {
+      "id": 174130,
+      "name": "Verkhneural’sk"
+    },
+    {
+      "id": 174131,
+      "name": "Verkhniy Ufaley"
+    },
+    {
+      "id": 174132,
+      "name": "Vishnëvogorsk"
+    },
+    {
+      "id": 174133,
+      "name": "Vyazovaya"
+    },
+    {
+      "id": 174134,
+      "name": "Yemanzhelinka"
+    },
+    {
+      "id": 174135,
+      "name": "Yemanzhelinsk"
+    },
+    {
+      "id": 174136,
+      "name": "Yetkul’"
+    },
+    {
+      "id": 174137,
+      "name": "Yuryuzan’"
+    },
+    {
+      "id": 174138,
+      "name": "Yuzhnoural’sk"
+    },
+    {
+      "id": 174139,
+      "name": "Zheleznodorozhnyy"
+    },
+    {
+      "id": 174140,
+      "name": "Zlatoust"
+    }
+  ]
+}

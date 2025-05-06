@@ -1,0 +1,303 @@
+{
+  "id": 6535,
+  "name": "Las Palmas",
+  "state_code": "GC",
+  "cities": [
+    {
+      "id": 185677,
+      "name": "Agaete"
+    },
+    {
+      "id": 185678,
+      "name": "Agüimes"
+    },
+    {
+      "id": 185679,
+      "name": "Aldea de San Nicolás La"
+    },
+    {
+      "id": 185680,
+      "name": "Antigua"
+    },
+    {
+      "id": 185681,
+      "name": "Arrecife"
+    },
+    {
+      "id": 185682,
+      "name": "Artenara"
+    },
+    {
+      "id": 185683,
+      "name": "Arucas"
+    },
+    {
+      "id": 185684,
+      "name": "Betancuria"
+    },
+    {
+      "id": 185685,
+      "name": "Carrizal"
+    },
+    {
+      "id": 185686,
+      "name": "Corralejo"
+    },
+    {
+      "id": 185687,
+      "name": "Costa Calma"
+    },
+    {
+      "id": 185688,
+      "name": "Costa Teguise"
+    },
+    {
+      "id": 185689,
+      "name": "Cruce de Arinaga"
+    },
+    {
+      "id": 185690,
+      "name": "El Cotillo"
+    },
+    {
+      "id": 185691,
+      "name": "El Paso"
+    },
+    {
+      "id": 185692,
+      "name": "Firgas"
+    },
+    {
+      "id": 185693,
+      "name": "Gáldar"
+    },
+    {
+      "id": 185694,
+      "name": "Guia"
+    },
+    {
+      "id": 185695,
+      "name": "Haría"
+    },
+    {
+      "id": 185696,
+      "name": "Ingenio"
+    },
+    {
+      "id": 185697,
+      "name": "La Guancha"
+    },
+    {
+      "id": 185698,
+      "name": "La Laguna"
+    },
+    {
+      "id": 185699,
+      "name": "La Matanza de Acentejo"
+    },
+    {
+      "id": 185700,
+      "name": "La Oliva"
+    },
+    {
+      "id": 185701,
+      "name": "La Orotava"
+    },
+    {
+      "id": 185702,
+      "name": "La Victoria de Acentejo"
+    },
+    {
+      "id": 185703,
+      "name": "Las Palmas de Gran Canaria"
+    },
+    {
+      "id": 185704,
+      "name": "Las Rosas"
+    },
+    {
+      "id": 185705,
+      "name": "Lomo de Arico"
+    },
+    {
+      "id": 185706,
+      "name": "Los Gigantes"
+    },
+    {
+      "id": 185707,
+      "name": "Los Llanos de Aridane"
+    },
+    {
+      "id": 185708,
+      "name": "Los Realejos"
+    },
+    {
+      "id": 185709,
+      "name": "Los Silos"
+    },
+    {
+      "id": 185710,
+      "name": "Mácher"
+    },
+    {
+      "id": 185711,
+      "name": "Maspalomas"
+    },
+    {
+      "id": 185712,
+      "name": "Mazo"
+    },
+    {
+      "id": 185713,
+      "name": "Mogán"
+    },
+    {
+      "id": 185714,
+      "name": "Moya"
+    },
+    {
+      "id": 185715,
+      "name": "Nazaret"
+    },
+    {
+      "id": 185716,
+      "name": "Oliva La"
+    },
+    {
+      "id": 185717,
+      "name": "Pájara"
+    },
+    {
+      "id": 185718,
+      "name": "Palmas de Gran Canaria Las"
+    },
+    {
+      "id": 185719,
+      "name": "Playa Blanca"
+    },
+    {
+      "id": 185720,
+      "name": "Playa de las Américas"
+    },
+    {
+      "id": 185721,
+      "name": "Playa del Ingles"
+    },
+    {
+      "id": 185722,
+      "name": "Provincia de Las Palmas"
+    },
+    {
+      "id": 185723,
+      "name": "Provincia de Santa Cruz de Tenerife"
+    },
+    {
+      "id": 185724,
+      "name": "Puerto del Carmen"
+    },
+    {
+      "id": 185725,
+      "name": "Puerto del Rosario"
+    },
+    {
+      "id": 185726,
+      "name": "Puerto Rico"
+    },
+    {
+      "id": 185727,
+      "name": "Punta de Mujeres"
+    },
+    {
+      "id": 185728,
+      "name": "Realejo Alto"
+    },
+    {
+      "id": 185729,
+      "name": "San Bartolomé"
+    },
+    {
+      "id": 185730,
+      "name": "San Bartolomé de Tirajana"
+    },
+    {
+      "id": 185731,
+      "name": "San Nicolás"
+    },
+    {
+      "id": 185732,
+      "name": "Santa Brígida"
+    },
+    {
+      "id": 185733,
+      "name": "Santa Lucía"
+    },
+    {
+      "id": 185734,
+      "name": "Santa Lucía de Tirajana"
+    },
+    {
+      "id": 185735,
+      "name": "Santa María de Guía de Gran Canaria"
+    },
+    {
+      "id": 185736,
+      "name": "Sauzal"
+    },
+    {
+      "id": 185737,
+      "name": "Tanque"
+    },
+    {
+      "id": 185738,
+      "name": "Teguise"
+    },
+    {
+      "id": 185739,
+      "name": "Tejeda"
+    },
+    {
+      "id": 185740,
+      "name": "Telde"
+    },
+    {
+      "id": 185741,
+      "name": "Teror"
+    },
+    {
+      "id": 185742,
+      "name": "Tías"
+    },
+    {
+      "id": 185743,
+      "name": "Tinajo"
+    },
+    {
+      "id": 185744,
+      "name": "Tuineje"
+    },
+    {
+      "id": 185745,
+      "name": "Vallehermosa"
+    },
+    {
+      "id": 185746,
+      "name": "Valleseco"
+    },
+    {
+      "id": 185747,
+      "name": "Valsequillo de Gran Canaria"
+    },
+    {
+      "id": 185748,
+      "name": "Vecindario"
+    },
+    {
+      "id": 185749,
+      "name": "Vega de San Mateo"
+    },
+    {
+      "id": 185750,
+      "name": "Yaiza"
+    }
+  ]
+}

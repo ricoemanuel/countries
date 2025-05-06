@@ -1,0 +1,575 @@
+{
+  "id": 7443,
+  "name": "Idaho",
+  "state_code": "ID",
+  "cities": [
+    {
+      "id": 205851,
+      "name": "Aberdeen"
+    },
+    {
+      "id": 205852,
+      "name": "Ada County"
+    },
+    {
+      "id": 205853,
+      "name": "Adams County"
+    },
+    {
+      "id": 205854,
+      "name": "American Falls"
+    },
+    {
+      "id": 205855,
+      "name": "Ammon"
+    },
+    {
+      "id": 205856,
+      "name": "Arco"
+    },
+    {
+      "id": 205857,
+      "name": "Ashton"
+    },
+    {
+      "id": 205858,
+      "name": "Bannock County"
+    },
+    {
+      "id": 205859,
+      "name": "Bear Lake County"
+    },
+    {
+      "id": 205860,
+      "name": "Bellevue"
+    },
+    {
+      "id": 205861,
+      "name": "Benewah County"
+    },
+    {
+      "id": 205862,
+      "name": "Bingham County"
+    },
+    {
+      "id": 205863,
+      "name": "Blackfoot"
+    },
+    {
+      "id": 205864,
+      "name": "Blaine County"
+    },
+    {
+      "id": 205865,
+      "name": "Boise"
+    },
+    {
+      "id": 205866,
+      "name": "Boise County"
+    },
+    {
+      "id": 205867,
+      "name": "Bonner County"
+    },
+    {
+      "id": 205868,
+      "name": "Bonners Ferry"
+    },
+    {
+      "id": 205869,
+      "name": "Bonneville County"
+    },
+    {
+      "id": 205870,
+      "name": "Boundary County"
+    },
+    {
+      "id": 205871,
+      "name": "Buhl"
+    },
+    {
+      "id": 205872,
+      "name": "Burley"
+    },
+    {
+      "id": 205873,
+      "name": "Butte County"
+    },
+    {
+      "id": 205874,
+      "name": "Caldwell"
+    },
+    {
+      "id": 205875,
+      "name": "Camas County"
+    },
+    {
+      "id": 205876,
+      "name": "Canyon County"
+    },
+    {
+      "id": 205877,
+      "name": "Caribou County"
+    },
+    {
+      "id": 205878,
+      "name": "Cascade"
+    },
+    {
+      "id": 205879,
+      "name": "Cassia County"
+    },
+    {
+      "id": 205880,
+      "name": "Challis"
+    },
+    {
+      "id": 205881,
+      "name": "Chubbuck"
+    },
+    {
+      "id": 205882,
+      "name": "Clark County"
+    },
+    {
+      "id": 205883,
+      "name": "Clearwater County"
+    },
+    {
+      "id": 205884,
+      "name": "Coeur d'Alene"
+    },
+    {
+      "id": 205885,
+      "name": "Council"
+    },
+    {
+      "id": 205886,
+      "name": "Custer County"
+    },
+    {
+      "id": 205887,
+      "name": "Dalton Gardens"
+    },
+    {
+      "id": 205888,
+      "name": "Driggs"
+    },
+    {
+      "id": 205889,
+      "name": "Dubois"
+    },
+    {
+      "id": 205890,
+      "name": "Eagle"
+    },
+    {
+      "id": 205891,
+      "name": "Elmore County"
+    },
+    {
+      "id": 205892,
+      "name": "Emmett"
+    },
+    {
+      "id": 205893,
+      "name": "Fairfield"
+    },
+    {
+      "id": 205894,
+      "name": "Filer"
+    },
+    {
+      "id": 205895,
+      "name": "Fort Hall"
+    },
+    {
+      "id": 205896,
+      "name": "Franklin County"
+    },
+    {
+      "id": 205897,
+      "name": "Fremont County"
+    },
+    {
+      "id": 205898,
+      "name": "Fruitland"
+    },
+    {
+      "id": 205899,
+      "name": "Garden City"
+    },
+    {
+      "id": 205900,
+      "name": "Gem County"
+    },
+    {
+      "id": 205901,
+      "name": "Glenns Ferry"
+    },
+    {
+      "id": 205902,
+      "name": "Gooding"
+    },
+    {
+      "id": 205903,
+      "name": "Gooding County"
+    },
+    {
+      "id": 205904,
+      "name": "Grangeville"
+    },
+    {
+      "id": 205905,
+      "name": "Hailey"
+    },
+    {
+      "id": 205906,
+      "name": "Hansen"
+    },
+    {
+      "id": 205907,
+      "name": "Hayden"
+    },
+    {
+      "id": 205908,
+      "name": "Heyburn"
+    },
+    {
+      "id": 205909,
+      "name": "Hidden Spring"
+    },
+    {
+      "id": 205910,
+      "name": "Homedale"
+    },
+    {
+      "id": 205911,
+      "name": "Idaho City"
+    },
+    {
+      "id": 205912,
+      "name": "Idaho County"
+    },
+    {
+      "id": 205913,
+      "name": "Idaho Falls"
+    },
+    {
+      "id": 205914,
+      "name": "Iona"
+    },
+    {
+      "id": 205915,
+      "name": "Jefferson County"
+    },
+    {
+      "id": 205916,
+      "name": "Jerome"
+    },
+    {
+      "id": 205917,
+      "name": "Jerome County"
+    },
+    {
+      "id": 205918,
+      "name": "Kamiah"
+    },
+    {
+      "id": 205919,
+      "name": "Kellogg"
+    },
+    {
+      "id": 205920,
+      "name": "Ketchum"
+    },
+    {
+      "id": 205921,
+      "name": "Kimberly"
+    },
+    {
+      "id": 205922,
+      "name": "Kootenai County"
+    },
+    {
+      "id": 205923,
+      "name": "Kuna"
+    },
+    {
+      "id": 205924,
+      "name": "Lapwai"
+    },
+    {
+      "id": 205925,
+      "name": "Latah County"
+    },
+    {
+      "id": 205926,
+      "name": "Lemhi County"
+    },
+    {
+      "id": 205927,
+      "name": "Lewis County"
+    },
+    {
+      "id": 205928,
+      "name": "Lewiston"
+    },
+    {
+      "id": 205929,
+      "name": "Lewiston Orchards"
+    },
+    {
+      "id": 205930,
+      "name": "Lincoln"
+    },
+    {
+      "id": 205931,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 205932,
+      "name": "Madison County"
+    },
+    {
+      "id": 205933,
+      "name": "Malad City"
+    },
+    {
+      "id": 205934,
+      "name": "Marsing"
+    },
+    {
+      "id": 205935,
+      "name": "McCall"
+    },
+    {
+      "id": 205936,
+      "name": "Meridian"
+    },
+    {
+      "id": 205937,
+      "name": "Middleton"
+    },
+    {
+      "id": 205938,
+      "name": "Minidoka County"
+    },
+    {
+      "id": 205939,
+      "name": "Montpelier"
+    },
+    {
+      "id": 205940,
+      "name": "Moreland"
+    },
+    {
+      "id": 205941,
+      "name": "Moscow"
+    },
+    {
+      "id": 205942,
+      "name": "Mountain Home"
+    },
+    {
+      "id": 205943,
+      "name": "Murphy"
+    },
+    {
+      "id": 205944,
+      "name": "Nampa"
+    },
+    {
+      "id": 205945,
+      "name": "New Plymouth"
+    },
+    {
+      "id": 205946,
+      "name": "Nez Perce County"
+    },
+    {
+      "id": 205947,
+      "name": "Nezperce"
+    },
+    {
+      "id": 205948,
+      "name": "Oneida County"
+    },
+    {
+      "id": 205949,
+      "name": "Orofino"
+    },
+    {
+      "id": 205950,
+      "name": "Osburn"
+    },
+    {
+      "id": 205951,
+      "name": "Owyhee County"
+    },
+    {
+      "id": 205952,
+      "name": "Paris"
+    },
+    {
+      "id": 205953,
+      "name": "Parma"
+    },
+    {
+      "id": 205954,
+      "name": "Paul"
+    },
+    {
+      "id": 205955,
+      "name": "Payette"
+    },
+    {
+      "id": 205956,
+      "name": "Payette County"
+    },
+    {
+      "id": 205957,
+      "name": "Pinehurst"
+    },
+    {
+      "id": 205958,
+      "name": "Plummer"
+    },
+    {
+      "id": 205959,
+      "name": "Pocatello"
+    },
+    {
+      "id": 205960,
+      "name": "Ponderay"
+    },
+    {
+      "id": 205961,
+      "name": "Post Falls"
+    },
+    {
+      "id": 205962,
+      "name": "Power County"
+    },
+    {
+      "id": 205963,
+      "name": "Preston"
+    },
+    {
+      "id": 205964,
+      "name": "Priest River"
+    },
+    {
+      "id": 205965,
+      "name": "Rathdrum"
+    },
+    {
+      "id": 205966,
+      "name": "Rexburg"
+    },
+    {
+      "id": 205967,
+      "name": "Rigby"
+    },
+    {
+      "id": 205968,
+      "name": "Rupert"
+    },
+    {
+      "id": 205969,
+      "name": "Saint Anthony"
+    },
+    {
+      "id": 205970,
+      "name": "Saint Maries"
+    },
+    {
+      "id": 205971,
+      "name": "Salmon"
+    },
+    {
+      "id": 205972,
+      "name": "Sandpoint"
+    },
+    {
+      "id": 205973,
+      "name": "Shelley"
+    },
+    {
+      "id": 205974,
+      "name": "Shoshone"
+    },
+    {
+      "id": 205975,
+      "name": "Shoshone County"
+    },
+    {
+      "id": 205976,
+      "name": "Soda Springs"
+    },
+    {
+      "id": 205977,
+      "name": "Spirit Lake"
+    },
+    {
+      "id": 205978,
+      "name": "Star"
+    },
+    {
+      "id": 205979,
+      "name": "Sugar City"
+    },
+    {
+      "id": 205980,
+      "name": "Sun Valley"
+    },
+    {
+      "id": 205981,
+      "name": "Teton County"
+    },
+    {
+      "id": 205982,
+      "name": "Twin Falls"
+    },
+    {
+      "id": 205983,
+      "name": "Twin Falls County"
+    },
+    {
+      "id": 205984,
+      "name": "Tyhee"
+    },
+    {
+      "id": 205985,
+      "name": "Ucon"
+    },
+    {
+      "id": 205986,
+      "name": "Valley County"
+    },
+    {
+      "id": 205987,
+      "name": "Victor"
+    },
+    {
+      "id": 205988,
+      "name": "Wallace"
+    },
+    {
+      "id": 205989,
+      "name": "Washington County"
+    },
+    {
+      "id": 205990,
+      "name": "Weiser"
+    },
+    {
+      "id": 205991,
+      "name": "Wendell"
+    },
+    {
+      "id": 205992,
+      "name": "Wilder"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": 3325,
+  "name": "Tianjin",
+  "state_code": "TJ",
+  "cities": [
+    {
+      "id": 91555,
+      "name": "Badaogu"
+    },
+    {
+      "id": 91556,
+      "name": "Baijian"
+    },
+    {
+      "id": 91557,
+      "name": "Bamencheng"
+    },
+    {
+      "id": 91558,
+      "name": "Bangjun"
+    },
+    {
+      "id": 91559,
+      "name": "Beicang"
+    },
+    {
+      "id": 91560,
+      "name": "Beihuaidian"
+    },
+    {
+      "id": 91561,
+      "name": "Beilizigu"
+    },
+    {
+      "id": 91562,
+      "name": "Biaokou"
+    },
+    {
+      "id": 91563,
+      "name": "Binhai New Area"
+    },
+    {
+      "id": 91564,
+      "name": "Caijiapu"
+    },
+    {
+      "id": 91565,
+      "name": "Caodian"
+    },
+    {
+      "id": 91566,
+      "name": "Chabaihu"
+    },
+    {
+      "id": 91567,
+      "name": "Changtun"
+    },
+    {
+      "id": 91568,
+      "name": "Chengtougu"
+    },
+    {
+      "id": 91569,
+      "name": "Chitu"
+    },
+    {
+      "id": 91570,
+      "name": "Cuijiamatou"
+    },
+    {
+      "id": 91571,
+      "name": "Dadunqiu"
+    },
+    {
+      "id": 91572,
+      "name": "Dakoutun"
+    },
+    {
+      "id": 91573,
+      "name": "Dashentang"
+    },
+    {
+      "id": 91574,
+      "name": "Dawangtai"
+    },
+    {
+      "id": 91575,
+      "name": "Daxinzhuang"
+    },
+    {
+      "id": 91576,
+      "name": "Dazhongzhuang"
+    },
+    {
+      "id": 91577,
+      "name": "Dongditou"
+    },
+    {
+      "id": 91578,
+      "name": "Dongshigu"
+    },
+    {
+      "id": 91579,
+      "name": "Erwangzhuang"
+    },
+    {
+      "id": 91580,
+      "name": "Fanzhuang"
+    },
+    {
+      "id": 91581,
+      "name": "Fengtai (Ninghe)"
+    },
+    {
+      "id": 91582,
+      "name": "Fuzhuang"
+    },
+    {
+      "id": 91583,
+      "name": "Gaojingzhuang"
+    },
+    {
+      "id": 91584,
+      "name": "Hanjiashu"
+    },
+    {
+      "id": 91585,
+      "name": "Hebeitun"
+    },
+    {
+      "id": 91586,
+      "name": "Hexiwu"
+    },
+    {
+      "id": 91587,
+      "name": "Huangcaotuo"
+    },
+    {
+      "id": 91588,
+      "name": "Huantuo"
+    },
+    {
+      "id": 91589,
+      "name": "Huogezhuang"
+    },
+    {
+      "id": 91590,
+      "name": "Jiangwakou"
+    },
+    {
+      "id": 91591,
+      "name": "Lianzhuang"
+    },
+    {
+      "id": 91592,
+      "name": "Lintingkou"
+    },
+    {
+      "id": 91593,
+      "name": "Liujiading"
+    },
+    {
+      "id": 91594,
+      "name": "Liukuaizhuang"
+    },
+    {
+      "id": 91595,
+      "name": "Liuzikou"
+    },
+    {
+      "id": 91596,
+      "name": "Luotuofangzi"
+    },
+    {
+      "id": 91597,
+      "name": "Meichang"
+    },
+    {
+      "id": 91598,
+      "name": "Mengquan"
+    },
+    {
+      "id": 91599,
+      "name": "Panzhuang"
+    },
+    {
+      "id": 91600,
+      "name": "Qingguang"
+    },
+    {
+      "id": 91601,
+      "name": "Sangzi"
+    },
+    {
+      "id": 91602,
+      "name": "Shangcang"
+    },
+    {
+      "id": 91603,
+      "name": "Shimianzhuang"
+    },
+    {
+      "id": 91604,
+      "name": "Shuangjiang"
+    },
+    {
+      "id": 91605,
+      "name": "Sigaozhuang"
+    },
+    {
+      "id": 91606,
+      "name": "Tianjin"
+    },
+    {
+      "id": 91607,
+      "name": "Touying"
+    },
+    {
+      "id": 91608,
+      "name": "Wangqinzhuang"
+    },
+    {
+      "id": 91609,
+      "name": "Weiwangzhuang"
+    },
+    {
+      "id": 91610,
+      "name": "Xiawuqi"
+    },
+    {
+      "id": 91611,
+      "name": "Xiditou"
+    },
+    {
+      "id": 91612,
+      "name": "Xinkaikou"
+    },
+    {
+      "id": 91613,
+      "name": "Xitazhuang"
+    },
+    {
+      "id": 91614,
+      "name": "Yangjinzhuang"
+    },
+    {
+      "id": 91615,
+      "name": "Yangliuqing"
+    },
+    {
+      "id": 91616,
+      "name": "Yinliu"
+    },
+    {
+      "id": 91617,
+      "name": "Yixingfu"
+    },
+    {
+      "id": 91618,
+      "name": "Youguzhuang"
+    },
+    {
+      "id": 91619,
+      "name": "Yuelongzhuang"
+    },
+    {
+      "id": 91620,
+      "name": "Yuguzhuang"
+    },
+    {
+      "id": 91621,
+      "name": "Zaojiacheng"
+    },
+    {
+      "id": 91622,
+      "name": "Zhangjiawo"
+    },
+    {
+      "id": 91623,
+      "name": "Zhaoguli"
+    }
+  ]
+}

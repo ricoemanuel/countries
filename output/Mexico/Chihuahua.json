@@ -1,0 +1,599 @@
+{
+  "id": 5128,
+  "name": "Chihuahua",
+  "state_code": "CHH",
+  "cities": [
+    {
+      "id": 139732,
+      "name": "Abdenago C. García"
+    },
+    {
+      "id": 139733,
+      "name": "Adolfo López Mateos"
+    },
+    {
+      "id": 139734,
+      "name": "Ahumada"
+    },
+    {
+      "id": 139735,
+      "name": "Aldama"
+    },
+    {
+      "id": 139736,
+      "name": "Allende"
+    },
+    {
+      "id": 139737,
+      "name": "Ampliación Colonia Lázaro Cárdenas"
+    },
+    {
+      "id": 139738,
+      "name": "Anáhuac"
+    },
+    {
+      "id": 139739,
+      "name": "Aquiles Serdán"
+    },
+    {
+      "id": 139740,
+      "name": "Ascensión"
+    },
+    {
+      "id": 139741,
+      "name": "Baborigame"
+    },
+    {
+      "id": 139742,
+      "name": "Bachíniva"
+    },
+    {
+      "id": 139743,
+      "name": "Bahuichivo"
+    },
+    {
+      "id": 139744,
+      "name": "Balleza"
+    },
+    {
+      "id": 139745,
+      "name": "Basaseachic"
+    },
+    {
+      "id": 139746,
+      "name": "Basúchil"
+    },
+    {
+      "id": 139747,
+      "name": "Batopilas"
+    },
+    {
+      "id": 139748,
+      "name": "Benito Juárez"
+    },
+    {
+      "id": 139749,
+      "name": "Bocoyna"
+    },
+    {
+      "id": 139750,
+      "name": "Boquilla de Babisas (La Boquilla de Conchos)"
+    },
+    {
+      "id": 139751,
+      "name": "Buenaventura"
+    },
+    {
+      "id": 139752,
+      "name": "Camargo"
+    },
+    {
+      "id": 139753,
+      "name": "Carichí"
+    },
+    {
+      "id": 139754,
+      "name": "Carretas"
+    },
+    {
+      "id": 139755,
+      "name": "Casas Grandes"
+    },
+    {
+      "id": 139756,
+      "name": "Cerocahui"
+    },
+    {
+      "id": 139757,
+      "name": "Chihuahua"
+    },
+    {
+      "id": 139758,
+      "name": "Chínipas"
+    },
+    {
+      "id": 139759,
+      "name": "Ciudad Delicias"
+    },
+    {
+      "id": 139760,
+      "name": "Colonia Abraham González (La Quemada)"
+    },
+    {
+      "id": 139761,
+      "name": "Colonia Campesina"
+    },
+    {
+      "id": 139762,
+      "name": "Colonia Felipe Ángeles"
+    },
+    {
+      "id": 139763,
+      "name": "Colonia Nicolás Bravo (Kilómetro Noventa y Dos)"
+    },
+    {
+      "id": 139764,
+      "name": "Colonia Revolución"
+    },
+    {
+      "id": 139765,
+      "name": "Colonia Terrazas"
+    },
+    {
+      "id": 139766,
+      "name": "Conchos"
+    },
+    {
+      "id": 139767,
+      "name": "Congregación Ortíz"
+    },
+    {
+      "id": 139768,
+      "name": "Coyame"
+    },
+    {
+      "id": 139769,
+      "name": "Coyame del Sotol"
+    },
+    {
+      "id": 139770,
+      "name": "Creel"
+    },
+    {
+      "id": 139771,
+      "name": "Cuauhtémoc"
+    },
+    {
+      "id": 139772,
+      "name": "Cusihuiriachi"
+    },
+    {
+      "id": 139773,
+      "name": "Delicias"
+    },
+    {
+      "id": 139774,
+      "name": "Dr. Belisario Domínguez"
+    },
+    {
+      "id": 139775,
+      "name": "Ejido Benito Juárez"
+    },
+    {
+      "id": 139776,
+      "name": "Ejido El Largo"
+    },
+    {
+      "id": 139777,
+      "name": "Ejido El Vergel"
+    },
+    {
+      "id": 139778,
+      "name": "Ejido La Quemada"
+    },
+    {
+      "id": 139779,
+      "name": "El Molino"
+    },
+    {
+      "id": 139780,
+      "name": "El Oro"
+    },
+    {
+      "id": 139781,
+      "name": "El Sauz"
+    },
+    {
+      "id": 139782,
+      "name": "El Terrero"
+    },
+    {
+      "id": 139783,
+      "name": "El Tule"
+    },
+    {
+      "id": 139784,
+      "name": "Estación Conchos"
+    },
+    {
+      "id": 139785,
+      "name": "Estación Consuelo"
+    },
+    {
+      "id": 139786,
+      "name": "Galeana"
+    },
+    {
+      "id": 139787,
+      "name": "Gómez Farías"
+    },
+    {
+      "id": 139788,
+      "name": "Gran Morelos"
+    },
+    {
+      "id": 139789,
+      "name": "Guachochi"
+    },
+    {
+      "id": 139790,
+      "name": "Guadalupe"
+    },
+    {
+      "id": 139791,
+      "name": "Guadalupe Victoria"
+    },
+    {
+      "id": 139792,
+      "name": "Guadalupe y Calvo"
+    },
+    {
+      "id": 139793,
+      "name": "Guazapares"
+    },
+    {
+      "id": 139794,
+      "name": "Guerrero"
+    },
+    {
+      "id": 139795,
+      "name": "Hidalgo del Parral"
+    },
+    {
+      "id": 139796,
+      "name": "Huejotitán"
+    },
+    {
+      "id": 139797,
+      "name": "Ignacio Zaragoza"
+    },
+    {
+      "id": 139798,
+      "name": "Independencia"
+    },
+    {
+      "id": 139799,
+      "name": "Janos"
+    },
+    {
+      "id": 139800,
+      "name": "Jiménez"
+    },
+    {
+      "id": 139801,
+      "name": "José Esteban Coronado"
+    },
+    {
+      "id": 139802,
+      "name": "José Mariano Jiménez"
+    },
+    {
+      "id": 139803,
+      "name": "Juárez"
+    },
+    {
+      "id": 139804,
+      "name": "Julimes"
+    },
+    {
+      "id": 139805,
+      "name": "Kilómetro Noventa y Nueve"
+    },
+    {
+      "id": 139806,
+      "name": "La Constitución"
+    },
+    {
+      "id": 139807,
+      "name": "La Cruz"
+    },
+    {
+      "id": 139808,
+      "name": "La Junta"
+    },
+    {
+      "id": 139809,
+      "name": "Las Cruces"
+    },
+    {
+      "id": 139810,
+      "name": "Las Varas"
+    },
+    {
+      "id": 139811,
+      "name": "Las Varas (Estación Babícora)"
+    },
+    {
+      "id": 139812,
+      "name": "Las Yerbitas [Aserradero]"
+    },
+    {
+      "id": 139813,
+      "name": "Lázaro Cárdenas"
+    },
+    {
+      "id": 139814,
+      "name": "Loma Blanca"
+    },
+    {
+      "id": 139815,
+      "name": "Madera"
+    },
+    {
+      "id": 139816,
+      "name": "Maguarichi"
+    },
+    {
+      "id": 139817,
+      "name": "Manuel Benavides"
+    },
+    {
+      "id": 139818,
+      "name": "Manuel Ojinaga"
+    },
+    {
+      "id": 139819,
+      "name": "Mariano Balleza"
+    },
+    {
+      "id": 139820,
+      "name": "Matachí"
+    },
+    {
+      "id": 139821,
+      "name": "Matamoros"
+    },
+    {
+      "id": 139822,
+      "name": "Meoqui"
+    },
+    {
+      "id": 139823,
+      "name": "Mesa del Huracán"
+    },
+    {
+      "id": 139824,
+      "name": "Miguel Ahumada"
+    },
+    {
+      "id": 139825,
+      "name": "Miguel Hidalgo"
+    },
+    {
+      "id": 139826,
+      "name": "Monte Verde"
+    },
+    {
+      "id": 139827,
+      "name": "Morelos"
+    },
+    {
+      "id": 139828,
+      "name": "Moris"
+    },
+    {
+      "id": 139829,
+      "name": "Naica"
+    },
+    {
+      "id": 139830,
+      "name": "Namiquipa"
+    },
+    {
+      "id": 139831,
+      "name": "Nicolas Bravo"
+    },
+    {
+      "id": 139832,
+      "name": "Ninguno [CERESO]"
+    },
+    {
+      "id": 139833,
+      "name": "Nonoava"
+    },
+    {
+      "id": 139834,
+      "name": "Nuevo Casas Grandes"
+    },
+    {
+      "id": 139835,
+      "name": "Ocampo"
+    },
+    {
+      "id": 139836,
+      "name": "Octaviano López"
+    },
+    {
+      "id": 139837,
+      "name": "Ojinaga"
+    },
+    {
+      "id": 139838,
+      "name": "Orranteño"
+    },
+    {
+      "id": 139839,
+      "name": "Oscar Soto Maynez"
+    },
+    {
+      "id": 139840,
+      "name": "Parral"
+    },
+    {
+      "id": 139841,
+      "name": "Peña Blanca"
+    },
+    {
+      "id": 139842,
+      "name": "Porvenir"
+    },
+    {
+      "id": 139843,
+      "name": "Praxedis G. Guerrero"
+    },
+    {
+      "id": 139844,
+      "name": "Praxédis Guerrero"
+    },
+    {
+      "id": 139845,
+      "name": "Pueblito de Allende"
+    },
+    {
+      "id": 139846,
+      "name": "Puerto Palomas"
+    },
+    {
+      "id": 139847,
+      "name": "Riva Palacio"
+    },
+    {
+      "id": 139848,
+      "name": "Rodrígo M. Quevedo"
+    },
+    {
+      "id": 139849,
+      "name": "Rosales"
+    },
+    {
+      "id": 139850,
+      "name": "Rosario"
+    },
+    {
+      "id": 139851,
+      "name": "Samachique"
+    },
+    {
+      "id": 139852,
+      "name": "Samalayuca"
+    },
+    {
+      "id": 139853,
+      "name": "San Agustín"
+    },
+    {
+      "id": 139854,
+      "name": "San Andrés"
+    },
+    {
+      "id": 139855,
+      "name": "San Buenaventura"
+    },
+    {
+      "id": 139856,
+      "name": "San Carlos"
+    },
+    {
+      "id": 139857,
+      "name": "San Francisco de Borja"
+    },
+    {
+      "id": 139858,
+      "name": "San Francisco de Conchos"
+    },
+    {
+      "id": 139859,
+      "name": "San Francisco del Oro"
+    },
+    {
+      "id": 139860,
+      "name": "San Isidro"
+    },
+    {
+      "id": 139861,
+      "name": "San Juanito"
+    },
+    {
+      "id": 139862,
+      "name": "San Lorenzo"
+    },
+    {
+      "id": 139863,
+      "name": "San Rafael"
+    },
+    {
+      "id": 139864,
+      "name": "Santa Bárbara"
+    },
+    {
+      "id": 139865,
+      "name": "Santa Eulalia"
+    },
+    {
+      "id": 139866,
+      "name": "Santa Isabel"
+    },
+    {
+      "id": 139867,
+      "name": "Saucillo"
+    },
+    {
+      "id": 139868,
+      "name": "Sisoguichi"
+    },
+    {
+      "id": 139869,
+      "name": "Témoris"
+    },
+    {
+      "id": 139870,
+      "name": "Temósachic"
+    },
+    {
+      "id": 139871,
+      "name": "Tomochic"
+    },
+    {
+      "id": 139872,
+      "name": "Turuachi"
+    },
+    {
+      "id": 139873,
+      "name": "Urique"
+    },
+    {
+      "id": 139874,
+      "name": "Uruachi"
+    },
+    {
+      "id": 139875,
+      "name": "Valentín Gómez Farías"
+    },
+    {
+      "id": 139876,
+      "name": "Valle de Allende"
+    },
+    {
+      "id": 139877,
+      "name": "Valle de Zaragoza"
+    },
+    {
+      "id": 139878,
+      "name": "Valle del Rosario"
+    },
+    {
+      "id": 139879,
+      "name": "Yécora"
+    }
+  ]
+}

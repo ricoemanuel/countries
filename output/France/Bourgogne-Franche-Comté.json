@@ -1,0 +1,1811 @@
+{
+  "id": 3796,
+  "name": "Bourgogne-Franche-Comté",
+  "state_code": "BFC",
+  "cities": [
+    {
+      "id": 98724,
+      "name": "Ahuy"
+    },
+    {
+      "id": 98725,
+      "name": "Aillant-sur-Tholon"
+    },
+    {
+      "id": 98726,
+      "name": "Aillevillers-et-Lyaumont"
+    },
+    {
+      "id": 98727,
+      "name": "Aiserey"
+    },
+    {
+      "id": 98728,
+      "name": "Ancy-le-Franc"
+    },
+    {
+      "id": 98729,
+      "name": "Andelnans"
+    },
+    {
+      "id": 98730,
+      "name": "Appoigny"
+    },
+    {
+      "id": 98731,
+      "name": "Arbois"
+    },
+    {
+      "id": 98732,
+      "name": "Arbouans"
+    },
+    {
+      "id": 98733,
+      "name": "Arc-et-Senans"
+    },
+    {
+      "id": 98734,
+      "name": "Arc-lès-Gray"
+    },
+    {
+      "id": 98735,
+      "name": "Arc-sur-Tille"
+    },
+    {
+      "id": 98736,
+      "name": "Arcey"
+    },
+    {
+      "id": 98737,
+      "name": "Arinthod"
+    },
+    {
+      "id": 98738,
+      "name": "Arnay-le-Duc"
+    },
+    {
+      "id": 98739,
+      "name": "Audincourt"
+    },
+    {
+      "id": 98740,
+      "name": "Augy"
+    },
+    {
+      "id": 98741,
+      "name": "Autun"
+    },
+    {
+      "id": 98742,
+      "name": "Auxerre"
+    },
+    {
+      "id": 98743,
+      "name": "Auxon-Dessous"
+    },
+    {
+      "id": 98744,
+      "name": "Auxonne"
+    },
+    {
+      "id": 98745,
+      "name": "Auxy"
+    },
+    {
+      "id": 98746,
+      "name": "Avallon"
+    },
+    {
+      "id": 98747,
+      "name": "Avanne-Aveney"
+    },
+    {
+      "id": 98748,
+      "name": "Bart"
+    },
+    {
+      "id": 98749,
+      "name": "Baume-les-Dames"
+    },
+    {
+      "id": 98750,
+      "name": "Bavans"
+    },
+    {
+      "id": 98751,
+      "name": "Bavilliers"
+    },
+    {
+      "id": 98752,
+      "name": "Beaucourt"
+    },
+    {
+      "id": 98753,
+      "name": "Beaune"
+    },
+    {
+      "id": 98754,
+      "name": "Belfort"
+    },
+    {
+      "id": 98755,
+      "name": "Belleneuve"
+    },
+    {
+      "id": 98756,
+      "name": "Besançon"
+    },
+    {
+      "id": 98757,
+      "name": "Bethoncourt"
+    },
+    {
+      "id": 98758,
+      "name": "Beure"
+    },
+    {
+      "id": 98759,
+      "name": "Blamont"
+    },
+    {
+      "id": 98760,
+      "name": "Blanzy"
+    },
+    {
+      "id": 98761,
+      "name": "Bléneau"
+    },
+    {
+      "id": 98762,
+      "name": "Bletterans"
+    },
+    {
+      "id": 98763,
+      "name": "Bligny-lès-Beaune"
+    },
+    {
+      "id": 98764,
+      "name": "Bois-d’Amont"
+    },
+    {
+      "id": 98765,
+      "name": "Bourbon-Lancy"
+    },
+    {
+      "id": 98766,
+      "name": "Bourogne"
+    },
+    {
+      "id": 98767,
+      "name": "Boussières"
+    },
+    {
+      "id": 98768,
+      "name": "Branges"
+    },
+    {
+      "id": 98769,
+      "name": "Brazey-en-Plaine"
+    },
+    {
+      "id": 98770,
+      "name": "Brienon-sur-Armançon"
+    },
+    {
+      "id": 98771,
+      "name": "Buxy"
+    },
+    {
+      "id": 98772,
+      "name": "Cercy-la-Tour"
+    },
+    {
+      "id": 98773,
+      "name": "Cézy"
+    },
+    {
+      "id": 98774,
+      "name": "Chablis"
+    },
+    {
+      "id": 98775,
+      "name": "Chagny"
+    },
+    {
+      "id": 98776,
+      "name": "Challuy"
+    },
+    {
+      "id": 98777,
+      "name": "Chalon-sur-Saône"
+    },
+    {
+      "id": 98778,
+      "name": "Châlonvillars"
+    },
+    {
+      "id": 98779,
+      "name": "Champagney"
+    },
+    {
+      "id": 98780,
+      "name": "Champagnole"
+    },
+    {
+      "id": 98781,
+      "name": "Champforgeuil"
+    },
+    {
+      "id": 98782,
+      "name": "Champignelles"
+    },
+    {
+      "id": 98783,
+      "name": "Champigny"
+    },
+    {
+      "id": 98784,
+      "name": "Champlitte"
+    },
+    {
+      "id": 98785,
+      "name": "Champlitte-la-Ville"
+    },
+    {
+      "id": 98786,
+      "name": "Champs-sur-Yonne"
+    },
+    {
+      "id": 98787,
+      "name": "Champvans"
+    },
+    {
+      "id": 98788,
+      "name": "Chantenay-Saint-Imbert"
+    },
+    {
+      "id": 98789,
+      "name": "Charbuy"
+    },
+    {
+      "id": 98790,
+      "name": "Charnay-lès-Mâcon"
+    },
+    {
+      "id": 98791,
+      "name": "Charny"
+    },
+    {
+      "id": 98792,
+      "name": "Charolles"
+    },
+    {
+      "id": 98793,
+      "name": "Charquemont"
+    },
+    {
+      "id": 98794,
+      "name": "Château-Chinon(Ville)"
+    },
+    {
+      "id": 98795,
+      "name": "Châtenois-les-Forges"
+    },
+    {
+      "id": 98796,
+      "name": "Châtenoy-le-Royal"
+    },
+    {
+      "id": 98797,
+      "name": "Châtillon-en-Bazois"
+    },
+    {
+      "id": 98798,
+      "name": "Châtillon-le-Duc"
+    },
+    {
+      "id": 98799,
+      "name": "Châtillon-sur-Seine"
+    },
+    {
+      "id": 98800,
+      "name": "Chauffailles"
+    },
+    {
+      "id": 98801,
+      "name": "Chaulgnes"
+    },
+    {
+      "id": 98802,
+      "name": "Chaussin"
+    },
+    {
+      "id": 98803,
+      "name": "Chemaudin"
+    },
+    {
+      "id": 98804,
+      "name": "Chenôve"
+    },
+    {
+      "id": 98805,
+      "name": "Cheny"
+    },
+    {
+      "id": 98806,
+      "name": "Chéroy"
+    },
+    {
+      "id": 98807,
+      "name": "Chevigny-Saint-Sauveur"
+    },
+    {
+      "id": 98808,
+      "name": "Chèvremont"
+    },
+    {
+      "id": 98809,
+      "name": "Choisey"
+    },
+    {
+      "id": 98810,
+      "name": "Ciry-le-Noble"
+    },
+    {
+      "id": 98811,
+      "name": "Clairvaux-les-Lacs"
+    },
+    {
+      "id": 98812,
+      "name": "Clamecy"
+    },
+    {
+      "id": 98813,
+      "name": "Clerval"
+    },
+    {
+      "id": 98814,
+      "name": "Cluny"
+    },
+    {
+      "id": 98815,
+      "name": "Colombier-Fontaine"
+    },
+    {
+      "id": 98816,
+      "name": "Corbenay"
+    },
+    {
+      "id": 98817,
+      "name": "Corbigny"
+    },
+    {
+      "id": 98818,
+      "name": "Corpeau"
+    },
+    {
+      "id": 98819,
+      "name": "Cosne-Cours-sur-Loire"
+    },
+    {
+      "id": 98820,
+      "name": "Couches"
+    },
+    {
+      "id": 98821,
+      "name": "Couchey"
+    },
+    {
+      "id": 98822,
+      "name": "Coulanges-lès-Nevers"
+    },
+    {
+      "id": 98823,
+      "name": "Courcelles-lès-Montbéliard"
+    },
+    {
+      "id": 98824,
+      "name": "Courlon-sur-Yonne"
+    },
+    {
+      "id": 98825,
+      "name": "Cousance"
+    },
+    {
+      "id": 98826,
+      "name": "Couternon"
+    },
+    {
+      "id": 98827,
+      "name": "Cravanche"
+    },
+    {
+      "id": 98828,
+      "name": "Crêches-sur-Saône"
+    },
+    {
+      "id": 98829,
+      "name": "Crissey"
+    },
+    {
+      "id": 98830,
+      "name": "Cuiseaux"
+    },
+    {
+      "id": 98831,
+      "name": "Cuisery"
+    },
+    {
+      "id": 98832,
+      "name": "Curgy"
+    },
+    {
+      "id": 98833,
+      "name": "Daix"
+    },
+    {
+      "id": 98834,
+      "name": "Damparis"
+    },
+    {
+      "id": 98835,
+      "name": "Dampierre"
+    },
+    {
+      "id": 98836,
+      "name": "Dampierre-les-Bois"
+    },
+    {
+      "id": 98837,
+      "name": "Dampierre-sur-Salon"
+    },
+    {
+      "id": 98838,
+      "name": "Damprichard"
+    },
+    {
+      "id": 98839,
+      "name": "Danjoutin"
+    },
+    {
+      "id": 98840,
+      "name": "Dannemarie-sur-Crête"
+    },
+    {
+      "id": 98841,
+      "name": "Dasle"
+    },
+    {
+      "id": 98842,
+      "name": "Decize"
+    },
+    {
+      "id": 98843,
+      "name": "Delle"
+    },
+    {
+      "id": 98844,
+      "name": "Demigny"
+    },
+    {
+      "id": 98845,
+      "name": "Département de l'Yonne"
+    },
+    {
+      "id": 98846,
+      "name": "Département de la Côte-d'Or"
+    },
+    {
+      "id": 98847,
+      "name": "Département de la Haute-Saône"
+    },
+    {
+      "id": 98848,
+      "name": "Département de la Nièvre"
+    },
+    {
+      "id": 98849,
+      "name": "Département de Saône-et-Loire"
+    },
+    {
+      "id": 98850,
+      "name": "Devecey"
+    },
+    {
+      "id": 98851,
+      "name": "Diges"
+    },
+    {
+      "id": 98852,
+      "name": "Digoin"
+    },
+    {
+      "id": 98853,
+      "name": "Dijon"
+    },
+    {
+      "id": 98854,
+      "name": "Dole"
+    },
+    {
+      "id": 98855,
+      "name": "Donzy"
+    },
+    {
+      "id": 98856,
+      "name": "Dornes"
+    },
+    {
+      "id": 98857,
+      "name": "Doubs"
+    },
+    {
+      "id": 98858,
+      "name": "Dracy-le-Fort"
+    },
+    {
+      "id": 98859,
+      "name": "Échenoz-la-Méline"
+    },
+    {
+      "id": 98860,
+      "name": "École-Valentin"
+    },
+    {
+      "id": 98861,
+      "name": "Écuisses"
+    },
+    {
+      "id": 98862,
+      "name": "Égriselles-le-Bocage"
+    },
+    {
+      "id": 98863,
+      "name": "Épervans"
+    },
+    {
+      "id": 98864,
+      "name": "Épinac"
+    },
+    {
+      "id": 98865,
+      "name": "Essert"
+    },
+    {
+      "id": 98866,
+      "name": "Étalans"
+    },
+    {
+      "id": 98867,
+      "name": "Étang-sur-Arroux"
+    },
+    {
+      "id": 98868,
+      "name": "Étupes"
+    },
+    {
+      "id": 98869,
+      "name": "Exincourt"
+    },
+    {
+      "id": 98870,
+      "name": "Faverney"
+    },
+    {
+      "id": 98871,
+      "name": "Fénay"
+    },
+    {
+      "id": 98872,
+      "name": "Fesches-le-Châtel"
+    },
+    {
+      "id": 98873,
+      "name": "Fleurey-sur-Ouche"
+    },
+    {
+      "id": 98874,
+      "name": "Fleury-la-Vallée"
+    },
+    {
+      "id": 98875,
+      "name": "Flogny-la-Chapelle"
+    },
+    {
+      "id": 98876,
+      "name": "Fontaine-lès-Dijon"
+    },
+    {
+      "id": 98877,
+      "name": "Fontaine-lès-Luxeuil"
+    },
+    {
+      "id": 98878,
+      "name": "Fontaines"
+    },
+    {
+      "id": 98879,
+      "name": "Foucherans"
+    },
+    {
+      "id": 98880,
+      "name": "Fougerolles"
+    },
+    {
+      "id": 98881,
+      "name": "Fourchambault"
+    },
+    {
+      "id": 98882,
+      "name": "Frahier-et-Chatebier"
+    },
+    {
+      "id": 98883,
+      "name": "Fraisans"
+    },
+    {
+      "id": 98884,
+      "name": "Franois"
+    },
+    {
+      "id": 98885,
+      "name": "Frasne"
+    },
+    {
+      "id": 98886,
+      "name": "Froideconche"
+    },
+    {
+      "id": 98887,
+      "name": "Frotey-lès-Vesoul"
+    },
+    {
+      "id": 98888,
+      "name": "Garchizy"
+    },
+    {
+      "id": 98889,
+      "name": "Génelard"
+    },
+    {
+      "id": 98890,
+      "name": "Genlis"
+    },
+    {
+      "id": 98891,
+      "name": "Gergy"
+    },
+    {
+      "id": 98892,
+      "name": "Gevrey-Chambertin"
+    },
+    {
+      "id": 98893,
+      "name": "Gilley"
+    },
+    {
+      "id": 98894,
+      "name": "Giromagny"
+    },
+    {
+      "id": 98895,
+      "name": "Givry"
+    },
+    {
+      "id": 98896,
+      "name": "Grand-Charmont"
+    },
+    {
+      "id": 98897,
+      "name": "Grandfontaine"
+    },
+    {
+      "id": 98898,
+      "name": "Grandvillars"
+    },
+    {
+      "id": 98899,
+      "name": "Gray"
+    },
+    {
+      "id": 98900,
+      "name": "Gray-la-Ville"
+    },
+    {
+      "id": 98901,
+      "name": "Gron"
+    },
+    {
+      "id": 98902,
+      "name": "Guérigny"
+    },
+    {
+      "id": 98903,
+      "name": "Gueugnon"
+    },
+    {
+      "id": 98904,
+      "name": "Gurgy"
+    },
+    {
+      "id": 98905,
+      "name": "Gy"
+    },
+    {
+      "id": 98906,
+      "name": "Hauteville-lès-Dijon"
+    },
+    {
+      "id": 98907,
+      "name": "Héricourt"
+    },
+    {
+      "id": 98908,
+      "name": "Hérimoncourt"
+    },
+    {
+      "id": 98909,
+      "name": "Héry"
+    },
+    {
+      "id": 98910,
+      "name": "Hurigny"
+    },
+    {
+      "id": 98911,
+      "name": "Imphy"
+    },
+    {
+      "id": 98912,
+      "name": "Is-sur-Tille"
+    },
+    {
+      "id": 98913,
+      "name": "Joigny"
+    },
+    {
+      "id": 98914,
+      "name": "Joncherey"
+    },
+    {
+      "id": 98915,
+      "name": "Jougne"
+    },
+    {
+      "id": 98916,
+      "name": "Joux-la-Ville"
+    },
+    {
+      "id": 98917,
+      "name": "Jura"
+    },
+    {
+      "id": 98918,
+      "name": "Jussey"
+    },
+    {
+      "id": 98919,
+      "name": "La Chapelle-de-Guinchay"
+    },
+    {
+      "id": 98920,
+      "name": "La Charité-sur-Loire"
+    },
+    {
+      "id": 98921,
+      "name": "La Clayette"
+    },
+    {
+      "id": 98922,
+      "name": "La Cluse-et-Mijoux"
+    },
+    {
+      "id": 98923,
+      "name": "La Machine"
+    },
+    {
+      "id": 98924,
+      "name": "La Motte-Saint-Jean"
+    },
+    {
+      "id": 98925,
+      "name": "La Roche-Vineuse"
+    },
+    {
+      "id": 98926,
+      "name": "Ladoix-Serrigny"
+    },
+    {
+      "id": 98927,
+      "name": "Lamarche-sur-Saône"
+    },
+    {
+      "id": 98928,
+      "name": "Laroche-Saint-Cydroine"
+    },
+    {
+      "id": 98929,
+      "name": "Lavans-lès-Saint-Claude"
+    },
+    {
+      "id": 98930,
+      "name": "Le Breuil"
+    },
+    {
+      "id": 98931,
+      "name": "Le Creusot"
+    },
+    {
+      "id": 98932,
+      "name": "Le Russey"
+    },
+    {
+      "id": 98933,
+      "name": "Lepuix"
+    },
+    {
+      "id": 98934,
+      "name": "Les Fins"
+    },
+    {
+      "id": 98935,
+      "name": "Les Fourgs"
+    },
+    {
+      "id": 98936,
+      "name": "Les Rousses"
+    },
+    {
+      "id": 98937,
+      "name": "Levier"
+    },
+    {
+      "id": 98938,
+      "name": "Ligny-le-Châtel"
+    },
+    {
+      "id": 98939,
+      "name": "Longchamp"
+    },
+    {
+      "id": 98940,
+      "name": "Longchaumois"
+    },
+    {
+      "id": 98941,
+      "name": "Longecourt-en-Plaine"
+    },
+    {
+      "id": 98942,
+      "name": "Longvic"
+    },
+    {
+      "id": 98943,
+      "name": "Lons-le-Saunier"
+    },
+    {
+      "id": 98944,
+      "name": "Lormes"
+    },
+    {
+      "id": 98945,
+      "name": "Losne"
+    },
+    {
+      "id": 98946,
+      "name": "Louhans"
+    },
+    {
+      "id": 98947,
+      "name": "Lucenay-lès-Aix"
+    },
+    {
+      "id": 98948,
+      "name": "Lure"
+    },
+    {
+      "id": 98949,
+      "name": "Luxeuil-les-Bains"
+    },
+    {
+      "id": 98950,
+      "name": "Luzy"
+    },
+    {
+      "id": 98951,
+      "name": "Mâcon"
+    },
+    {
+      "id": 98952,
+      "name": "Magny-Cours"
+    },
+    {
+      "id": 98953,
+      "name": "Magny-Vernois"
+    },
+    {
+      "id": 98954,
+      "name": "Maîche"
+    },
+    {
+      "id": 98955,
+      "name": "Maillot"
+    },
+    {
+      "id": 98956,
+      "name": "Malay-le-Grand"
+    },
+    {
+      "id": 98957,
+      "name": "Mamirolle"
+    },
+    {
+      "id": 98958,
+      "name": "Mandeure"
+    },
+    {
+      "id": 98959,
+      "name": "Marcigny"
+    },
+    {
+      "id": 98960,
+      "name": "Marcilly-sur-Tille"
+    },
+    {
+      "id": 98961,
+      "name": "Marmagne"
+    },
+    {
+      "id": 98962,
+      "name": "Marnay"
+    },
+    {
+      "id": 98963,
+      "name": "Marsannay-la-Côte"
+    },
+    {
+      "id": 98964,
+      "name": "Marzy"
+    },
+    {
+      "id": 98965,
+      "name": "Mathay"
+    },
+    {
+      "id": 98966,
+      "name": "Matour"
+    },
+    {
+      "id": 98967,
+      "name": "Mélisey"
+    },
+    {
+      "id": 98968,
+      "name": "Mellecey"
+    },
+    {
+      "id": 98969,
+      "name": "Mercurey"
+    },
+    {
+      "id": 98970,
+      "name": "Mervans"
+    },
+    {
+      "id": 98971,
+      "name": "Messigny-et-Vantoux"
+    },
+    {
+      "id": 98972,
+      "name": "Meursault"
+    },
+    {
+      "id": 98973,
+      "name": "Méziré"
+    },
+    {
+      "id": 98974,
+      "name": "Migennes"
+    },
+    {
+      "id": 98975,
+      "name": "Mirebeau-sur-Bèze"
+    },
+    {
+      "id": 98976,
+      "name": "Miserey-Salines"
+    },
+    {
+      "id": 98977,
+      "name": "Moirans-en-Montagne"
+    },
+    {
+      "id": 98978,
+      "name": "Monéteau"
+    },
+    {
+      "id": 98979,
+      "name": "Mont-sous-Vaudrey"
+    },
+    {
+      "id": 98980,
+      "name": "Montbard"
+    },
+    {
+      "id": 98981,
+      "name": "Montbéliard"
+    },
+    {
+      "id": 98982,
+      "name": "Montceau-les-Mines"
+    },
+    {
+      "id": 98983,
+      "name": "Montcenis"
+    },
+    {
+      "id": 98984,
+      "name": "Montchanin"
+    },
+    {
+      "id": 98985,
+      "name": "Montenois"
+    },
+    {
+      "id": 98986,
+      "name": "Montfaucon"
+    },
+    {
+      "id": 98987,
+      "name": "Montferrand-le-Château"
+    },
+    {
+      "id": 98988,
+      "name": "Montlebon"
+    },
+    {
+      "id": 98989,
+      "name": "Montmorot"
+    },
+    {
+      "id": 98990,
+      "name": "Montpont-en-Bresse"
+    },
+    {
+      "id": 98991,
+      "name": "Montreux-Château"
+    },
+    {
+      "id": 98992,
+      "name": "Morbier"
+    },
+    {
+      "id": 98993,
+      "name": "Morez"
+    },
+    {
+      "id": 98994,
+      "name": "Morre"
+    },
+    {
+      "id": 98995,
+      "name": "Morteau"
+    },
+    {
+      "id": 98996,
+      "name": "Morvillars"
+    },
+    {
+      "id": 98997,
+      "name": "Mouchard"
+    },
+    {
+      "id": 98998,
+      "name": "Moulins-Engilbert"
+    },
+    {
+      "id": 98999,
+      "name": "Nancray"
+    },
+    {
+      "id": 99000,
+      "name": "Navenne"
+    },
+    {
+      "id": 99001,
+      "name": "Neuilly-lès-Dijon"
+    },
+    {
+      "id": 99002,
+      "name": "Neuvy-Sautour"
+    },
+    {
+      "id": 99003,
+      "name": "Neuvy-sur-Loire"
+    },
+    {
+      "id": 99004,
+      "name": "Nevers"
+    },
+    {
+      "id": 99005,
+      "name": "Noidans-lès-Vesoul"
+    },
+    {
+      "id": 99006,
+      "name": "Nolay"
+    },
+    {
+      "id": 99007,
+      "name": "Nommay"
+    },
+    {
+      "id": 99008,
+      "name": "Novillars"
+    },
+    {
+      "id": 99009,
+      "name": "Nuits-Saint-Georges"
+    },
+    {
+      "id": 99010,
+      "name": "Offemont"
+    },
+    {
+      "id": 99011,
+      "name": "Orchamps"
+    },
+    {
+      "id": 99012,
+      "name": "Orchamps-Vennes"
+    },
+    {
+      "id": 99013,
+      "name": "Orgelet"
+    },
+    {
+      "id": 99014,
+      "name": "Ornans"
+    },
+    {
+      "id": 99015,
+      "name": "Ouges"
+    },
+    {
+      "id": 99016,
+      "name": "Ouroux-sur-Saône"
+    },
+    {
+      "id": 99017,
+      "name": "Palinges"
+    },
+    {
+      "id": 99018,
+      "name": "Paray-le-Monial"
+    },
+    {
+      "id": 99019,
+      "name": "Paron"
+    },
+    {
+      "id": 99020,
+      "name": "Pelousey"
+    },
+    {
+      "id": 99021,
+      "name": "Perrecy-les-Forges"
+    },
+    {
+      "id": 99022,
+      "name": "Perrigny"
+    },
+    {
+      "id": 99023,
+      "name": "Perrigny-lès-Dijon"
+    },
+    {
+      "id": 99024,
+      "name": "Pesmes"
+    },
+    {
+      "id": 99025,
+      "name": "Petit-Noir"
+    },
+    {
+      "id": 99026,
+      "name": "Pierre-de-Bresse"
+    },
+    {
+      "id": 99027,
+      "name": "Pierrefontaine-les-Varans"
+    },
+    {
+      "id": 99028,
+      "name": "Pirey"
+    },
+    {
+      "id": 99029,
+      "name": "Plancher-Bas"
+    },
+    {
+      "id": 99030,
+      "name": "Plancher-les-Mines"
+    },
+    {
+      "id": 99031,
+      "name": "Plombières-lès-Dijon"
+    },
+    {
+      "id": 99032,
+      "name": "Poligny"
+    },
+    {
+      "id": 99033,
+      "name": "Pont-de-Roide"
+    },
+    {
+      "id": 99034,
+      "name": "Pont-sur-Yonne"
+    },
+    {
+      "id": 99035,
+      "name": "Pontailler-sur-Saône"
+    },
+    {
+      "id": 99036,
+      "name": "Pontarlier"
+    },
+    {
+      "id": 99037,
+      "name": "Port-sur-Saône"
+    },
+    {
+      "id": 99038,
+      "name": "Pougues-les-Eaux"
+    },
+    {
+      "id": 99039,
+      "name": "Pouilley-les-Vignes"
+    },
+    {
+      "id": 99040,
+      "name": "Pouilly-en-Auxois"
+    },
+    {
+      "id": 99041,
+      "name": "Pouilly-sur-Loire"
+    },
+    {
+      "id": 99042,
+      "name": "Pourrain"
+    },
+    {
+      "id": 99043,
+      "name": "Prémery"
+    },
+    {
+      "id": 99044,
+      "name": "Prissé"
+    },
+    {
+      "id": 99045,
+      "name": "Pusey"
+    },
+    {
+      "id": 99046,
+      "name": "Quetigny"
+    },
+    {
+      "id": 99047,
+      "name": "Quincey"
+    },
+    {
+      "id": 99048,
+      "name": "Quingey"
+    },
+    {
+      "id": 99049,
+      "name": "Ravières"
+    },
+    {
+      "id": 99050,
+      "name": "Rioz"
+    },
+    {
+      "id": 99051,
+      "name": "Roche-lez-Beaupré"
+    },
+    {
+      "id": 99052,
+      "name": "Romanèche-Thorins"
+    },
+    {
+      "id": 99053,
+      "name": "Romenay"
+    },
+    {
+      "id": 99054,
+      "name": "Ronchamp"
+    },
+    {
+      "id": 99055,
+      "name": "Rougemont"
+    },
+    {
+      "id": 99056,
+      "name": "Rougemont-le-Château"
+    },
+    {
+      "id": 99057,
+      "name": "Roulans"
+    },
+    {
+      "id": 99058,
+      "name": "Roye"
+    },
+    {
+      "id": 99059,
+      "name": "Ruffey-lès-Echirey"
+    },
+    {
+      "id": 99060,
+      "name": "Rully"
+    },
+    {
+      "id": 99061,
+      "name": "Sagy"
+    },
+    {
+      "id": 99062,
+      "name": "Saint-Amand-en-Puisaye"
+    },
+    {
+      "id": 99063,
+      "name": "Saint-Amour"
+    },
+    {
+      "id": 99064,
+      "name": "Saint-Apollinaire"
+    },
+    {
+      "id": 99065,
+      "name": "Saint-Aubin"
+    },
+    {
+      "id": 99066,
+      "name": "Saint-Benin-d’Azy"
+    },
+    {
+      "id": 99067,
+      "name": "Saint-Berain-sous-Sanvignes"
+    },
+    {
+      "id": 99068,
+      "name": "Saint-Bris-le-Vineux"
+    },
+    {
+      "id": 99069,
+      "name": "Saint-Claude"
+    },
+    {
+      "id": 99070,
+      "name": "Saint-Clément"
+    },
+    {
+      "id": 99071,
+      "name": "Saint-Éloi"
+    },
+    {
+      "id": 99072,
+      "name": "Saint-Eusèbe"
+    },
+    {
+      "id": 99073,
+      "name": "Saint-Fargeau"
+    },
+    {
+      "id": 99074,
+      "name": "Saint-Florentin"
+    },
+    {
+      "id": 99075,
+      "name": "Saint-Gengoux-le-National"
+    },
+    {
+      "id": 99076,
+      "name": "Saint-Georges-sur-Baulche"
+    },
+    {
+      "id": 99077,
+      "name": "Saint-Germain"
+    },
+    {
+      "id": 99078,
+      "name": "Saint-Germain-du-Bois"
+    },
+    {
+      "id": 99079,
+      "name": "Saint-Germain-du-Plain"
+    },
+    {
+      "id": 99080,
+      "name": "Saint-Hippolyte"
+    },
+    {
+      "id": 99081,
+      "name": "Saint-Jean-de-Losne"
+    },
+    {
+      "id": 99082,
+      "name": "Saint-Julien"
+    },
+    {
+      "id": 99083,
+      "name": "Saint-Julien-du-Sault"
+    },
+    {
+      "id": 99084,
+      "name": "Saint-Laurent-en-Grandvaux"
+    },
+    {
+      "id": 99085,
+      "name": "Saint-Léger-des-Vignes"
+    },
+    {
+      "id": 99086,
+      "name": "Saint-Léger-sur-Dheune"
+    },
+    {
+      "id": 99087,
+      "name": "Saint-Leu"
+    },
+    {
+      "id": 99088,
+      "name": "Saint-Loup-sur-Semouse"
+    },
+    {
+      "id": 99089,
+      "name": "Saint-Lupicin"
+    },
+    {
+      "id": 99090,
+      "name": "Saint-Marcel"
+    },
+    {
+      "id": 99091,
+      "name": "Saint-Martin-Belle-Roche"
+    },
+    {
+      "id": 99092,
+      "name": "Saint-Martin-du-Tertre"
+    },
+    {
+      "id": 99093,
+      "name": "Saint-Martin-en-Bresse"
+    },
+    {
+      "id": 99094,
+      "name": "Saint-Parize-le-Châtel"
+    },
+    {
+      "id": 99095,
+      "name": "Saint-Pierre-le-Moûtier"
+    },
+    {
+      "id": 99096,
+      "name": "Saint-Rémy"
+    },
+    {
+      "id": 99097,
+      "name": "Saint-Sauveur"
+    },
+    {
+      "id": 99098,
+      "name": "Saint-Sernin-du-Bois"
+    },
+    {
+      "id": 99099,
+      "name": "Saint-Usage"
+    },
+    {
+      "id": 99100,
+      "name": "Saint-Usuge"
+    },
+    {
+      "id": 99101,
+      "name": "Saint-Valérien"
+    },
+    {
+      "id": 99102,
+      "name": "Saint-Vallier"
+    },
+    {
+      "id": 99103,
+      "name": "Saint-Vit"
+    },
+    {
+      "id": 99104,
+      "name": "Saint-Yan"
+    },
+    {
+      "id": 99105,
+      "name": "Sainte-Suzanne"
+    },
+    {
+      "id": 99106,
+      "name": "Salbert"
+    },
+    {
+      "id": 99107,
+      "name": "Salins-les-Bains"
+    },
+    {
+      "id": 99108,
+      "name": "Sancé"
+    },
+    {
+      "id": 99109,
+      "name": "Sancey-le-Grand"
+    },
+    {
+      "id": 99110,
+      "name": "Sanvignes-les-Mines"
+    },
+    {
+      "id": 99111,
+      "name": "Saône"
+    },
+    {
+      "id": 99112,
+      "name": "Sassenay"
+    },
+    {
+      "id": 99113,
+      "name": "Saulieu"
+    },
+    {
+      "id": 99114,
+      "name": "Sauvigny-les-Bois"
+    },
+    {
+      "id": 99115,
+      "name": "Savigny-lès-Beaune"
+    },
+    {
+      "id": 99116,
+      "name": "Scey-sur-Saône-et-Saint-Albin"
+    },
+    {
+      "id": 99117,
+      "name": "Seignelay"
+    },
+    {
+      "id": 99118,
+      "name": "Seloncourt"
+    },
+    {
+      "id": 99119,
+      "name": "Selongey"
+    },
+    {
+      "id": 99120,
+      "name": "Semur-en-Auxois"
+    },
+    {
+      "id": 99121,
+      "name": "Sennecey-le-Grand"
+    },
+    {
+      "id": 99122,
+      "name": "Sennecey-lès-Dijon"
+    },
+    {
+      "id": 99123,
+      "name": "Sens"
+    },
+    {
+      "id": 99124,
+      "name": "Sergines"
+    },
+    {
+      "id": 99125,
+      "name": "Sermoise-sur-Loire"
+    },
+    {
+      "id": 99126,
+      "name": "Serre-les-Sapins"
+    },
+    {
+      "id": 99127,
+      "name": "Seurre"
+    },
+    {
+      "id": 99128,
+      "name": "Sevrey"
+    },
+    {
+      "id": 99129,
+      "name": "Simandre"
+    },
+    {
+      "id": 99130,
+      "name": "Sochaux"
+    },
+    {
+      "id": 99131,
+      "name": "Sornay"
+    },
+    {
+      "id": 99132,
+      "name": "Soucy"
+    },
+    {
+      "id": 99133,
+      "name": "Taillecourt"
+    },
+    {
+      "id": 99134,
+      "name": "Talant"
+    },
+    {
+      "id": 99135,
+      "name": "Tanlay"
+    },
+    {
+      "id": 99136,
+      "name": "Tavaux"
+    },
+    {
+      "id": 99137,
+      "name": "Territoire de Belfort"
+    },
+    {
+      "id": 99138,
+      "name": "Thise"
+    },
+    {
+      "id": 99139,
+      "name": "Thorigny-sur-Oreuse"
+    },
+    {
+      "id": 99140,
+      "name": "Tonnerre"
+    },
+    {
+      "id": 99141,
+      "name": "Torcy"
+    },
+    {
+      "id": 99142,
+      "name": "Toucy"
+    },
+    {
+      "id": 99143,
+      "name": "Toulon-sur-Arroux"
+    },
+    {
+      "id": 99144,
+      "name": "Tournus"
+    },
+    {
+      "id": 99145,
+      "name": "Urzy"
+    },
+    {
+      "id": 99146,
+      "name": "Vaivre-et-Montoille"
+    },
+    {
+      "id": 99147,
+      "name": "Valdahon"
+    },
+    {
+      "id": 99148,
+      "name": "Valdoie"
+    },
+    {
+      "id": 99149,
+      "name": "Valentigney"
+    },
+    {
+      "id": 99150,
+      "name": "Valfin-lès-Saint-Claude"
+    },
+    {
+      "id": 99151,
+      "name": "Varennes-le-Grand"
+    },
+    {
+      "id": 99152,
+      "name": "Varennes-Saint-Sauveur"
+    },
+    {
+      "id": 99153,
+      "name": "Varennes-Vauzelles"
+    },
+    {
+      "id": 99154,
+      "name": "Varois-et-Chaignot"
+    },
+    {
+      "id": 99155,
+      "name": "Varzy"
+    },
+    {
+      "id": 99156,
+      "name": "Velars-sur-Ouche"
+    },
+    {
+      "id": 99157,
+      "name": "Venarey-les-Laumes"
+    },
+    {
+      "id": 99158,
+      "name": "Venoy"
+    },
+    {
+      "id": 99159,
+      "name": "Vercel-Villedieu-le-Camp"
+    },
+    {
+      "id": 99160,
+      "name": "Verdun-sur-le-Doubs"
+    },
+    {
+      "id": 99161,
+      "name": "Vergigny"
+    },
+    {
+      "id": 99162,
+      "name": "Vermenton"
+    },
+    {
+      "id": 99163,
+      "name": "Véron"
+    },
+    {
+      "id": 99164,
+      "name": "Vesoul"
+    },
+    {
+      "id": 99165,
+      "name": "Vieux-Charmont"
+    },
+    {
+      "id": 99166,
+      "name": "Villeblevin"
+    },
+    {
+      "id": 99167,
+      "name": "Villeneuve-la-Guyard"
+    },
+    {
+      "id": 99168,
+      "name": "Villeneuve-sur-Yonne"
+    },
+    {
+      "id": 99169,
+      "name": "Villers-le-Lac"
+    },
+    {
+      "id": 99170,
+      "name": "Villersexel"
+    },
+    {
+      "id": 99171,
+      "name": "Vinneuf"
+    },
+    {
+      "id": 99172,
+      "name": "Virey-le-Grand"
+    },
+    {
+      "id": 99173,
+      "name": "Vitteaux"
+    },
+    {
+      "id": 99174,
+      "name": "Voujeaucourt"
+    }
+  ]
+}

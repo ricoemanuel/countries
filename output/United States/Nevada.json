@@ -1,0 +1,335 @@
+{
+  "id": 7464,
+  "name": "Nevada",
+  "state_code": "NV",
+  "cities": [
+    {
+      "id": 211946,
+      "name": "Alamo"
+    },
+    {
+      "id": 211947,
+      "name": "Battle Mountain"
+    },
+    {
+      "id": 211948,
+      "name": "Beatty"
+    },
+    {
+      "id": 211949,
+      "name": "Boulder City"
+    },
+    {
+      "id": 211950,
+      "name": "Bunkerville"
+    },
+    {
+      "id": 211951,
+      "name": "Caliente"
+    },
+    {
+      "id": 211952,
+      "name": "Carlin"
+    },
+    {
+      "id": 211953,
+      "name": "Carson City"
+    },
+    {
+      "id": 211954,
+      "name": "Churchill County"
+    },
+    {
+      "id": 211955,
+      "name": "Clark County"
+    },
+    {
+      "id": 211956,
+      "name": "Cold Springs"
+    },
+    {
+      "id": 211957,
+      "name": "Dayton"
+    },
+    {
+      "id": 211958,
+      "name": "Douglas County"
+    },
+    {
+      "id": 211959,
+      "name": "East Valley"
+    },
+    {
+      "id": 211960,
+      "name": "Elko"
+    },
+    {
+      "id": 211961,
+      "name": "Elko County"
+    },
+    {
+      "id": 211962,
+      "name": "Ely"
+    },
+    {
+      "id": 211963,
+      "name": "Enterprise"
+    },
+    {
+      "id": 211964,
+      "name": "Esmeralda County"
+    },
+    {
+      "id": 211965,
+      "name": "Eureka"
+    },
+    {
+      "id": 211966,
+      "name": "Eureka County"
+    },
+    {
+      "id": 211967,
+      "name": "Fallon"
+    },
+    {
+      "id": 211968,
+      "name": "Fernley"
+    },
+    {
+      "id": 211969,
+      "name": "Gardnerville"
+    },
+    {
+      "id": 211970,
+      "name": "Gardnerville Ranchos"
+    },
+    {
+      "id": 211971,
+      "name": "Golden Valley"
+    },
+    {
+      "id": 211972,
+      "name": "Goldfield"
+    },
+    {
+      "id": 211973,
+      "name": "Hawthorne"
+    },
+    {
+      "id": 211974,
+      "name": "Henderson"
+    },
+    {
+      "id": 211975,
+      "name": "Humboldt County"
+    },
+    {
+      "id": 211976,
+      "name": "Incline Village"
+    },
+    {
+      "id": 211977,
+      "name": "Indian Hills"
+    },
+    {
+      "id": 211978,
+      "name": "Jackpot"
+    },
+    {
+      "id": 211979,
+      "name": "Johnson Lane"
+    },
+    {
+      "id": 211980,
+      "name": "Kingsbury"
+    },
+    {
+      "id": 211981,
+      "name": "Lander County"
+    },
+    {
+      "id": 211982,
+      "name": "Las Vegas"
+    },
+    {
+      "id": 211983,
+      "name": "Laughlin"
+    },
+    {
+      "id": 211984,
+      "name": "Lemmon Valley"
+    },
+    {
+      "id": 211985,
+      "name": "Lincoln County"
+    },
+    {
+      "id": 211986,
+      "name": "Lovelock"
+    },
+    {
+      "id": 211987,
+      "name": "Lyon County"
+    },
+    {
+      "id": 211988,
+      "name": "McGill"
+    },
+    {
+      "id": 211989,
+      "name": "Mesquite"
+    },
+    {
+      "id": 211990,
+      "name": "Minden"
+    },
+    {
+      "id": 211991,
+      "name": "Mineral County"
+    },
+    {
+      "id": 211992,
+      "name": "Moapa Town"
+    },
+    {
+      "id": 211993,
+      "name": "Moapa Valley"
+    },
+    {
+      "id": 211994,
+      "name": "Mogul"
+    },
+    {
+      "id": 211995,
+      "name": "Nellis Air Force Base"
+    },
+    {
+      "id": 211996,
+      "name": "North Las Vegas"
+    },
+    {
+      "id": 211997,
+      "name": "Nye County"
+    },
+    {
+      "id": 211998,
+      "name": "Pahrump"
+    },
+    {
+      "id": 211999,
+      "name": "Paradise"
+    },
+    {
+      "id": 212000,
+      "name": "Pershing County"
+    },
+    {
+      "id": 212001,
+      "name": "Pioche"
+    },
+    {
+      "id": 212002,
+      "name": "Reno"
+    },
+    {
+      "id": 212003,
+      "name": "Sandy Valley"
+    },
+    {
+      "id": 212004,
+      "name": "Silver Springs"
+    },
+    {
+      "id": 212005,
+      "name": "Smith"
+    },
+    {
+      "id": 212006,
+      "name": "Smith Valley"
+    },
+    {
+      "id": 212007,
+      "name": "Spanish Springs"
+    },
+    {
+      "id": 212008,
+      "name": "Sparks"
+    },
+    {
+      "id": 212009,
+      "name": "Spring Creek"
+    },
+    {
+      "id": 212010,
+      "name": "Spring Valley"
+    },
+    {
+      "id": 212011,
+      "name": "Stagecoach"
+    },
+    {
+      "id": 212012,
+      "name": "Storey County"
+    },
+    {
+      "id": 212013,
+      "name": "Summerlin South"
+    },
+    {
+      "id": 212014,
+      "name": "Sun Valley"
+    },
+    {
+      "id": 212015,
+      "name": "Sunrise Manor"
+    },
+    {
+      "id": 212016,
+      "name": "Tonopah"
+    },
+    {
+      "id": 212017,
+      "name": "Topaz Ranch Estates"
+    },
+    {
+      "id": 212018,
+      "name": "Verdi"
+    },
+    {
+      "id": 212019,
+      "name": "Virginia City"
+    },
+    {
+      "id": 212020,
+      "name": "Washoe County"
+    },
+    {
+      "id": 212021,
+      "name": "Wells"
+    },
+    {
+      "id": 212022,
+      "name": "West Wendover"
+    },
+    {
+      "id": 212023,
+      "name": "White Pine County"
+    },
+    {
+      "id": 212024,
+      "name": "Whitney"
+    },
+    {
+      "id": 212025,
+      "name": "Winchester"
+    },
+    {
+      "id": 212026,
+      "name": "Winnemucca"
+    },
+    {
+      "id": 212027,
+      "name": "Yerington"
+    }
+  ]
+}

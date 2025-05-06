@@ -1,0 +1,755 @@
+{
+  "id": 4231,
+  "name": "Rajasthan",
+  "state_code": "RJ",
+  "cities": [
+    {
+      "id": 119703,
+      "name": "Abhaneri"
+    },
+    {
+      "id": 119704,
+      "name": "Abu"
+    },
+    {
+      "id": 119705,
+      "name": "Abu Road"
+    },
+    {
+      "id": 119706,
+      "name": "Ajmer"
+    },
+    {
+      "id": 119707,
+      "name": "Aklera"
+    },
+    {
+      "id": 119708,
+      "name": "Alwar"
+    },
+    {
+      "id": 119709,
+      "name": "Amet"
+    },
+    {
+      "id": 119710,
+      "name": "Anta"
+    },
+    {
+      "id": 119711,
+      "name": "Anupgarh"
+    },
+    {
+      "id": 119712,
+      "name": "Asind"
+    },
+    {
+      "id": 119713,
+      "name": "Bagar"
+    },
+    {
+      "id": 119714,
+      "name": "Bakani"
+    },
+    {
+      "id": 119715,
+      "name": "Bali"
+    },
+    {
+      "id": 119716,
+      "name": "Balotra"
+    },
+    {
+      "id": 119717,
+      "name": "Bandikui"
+    },
+    {
+      "id": 119718,
+      "name": "Banswara"
+    },
+    {
+      "id": 119719,
+      "name": "Baran"
+    },
+    {
+      "id": 119720,
+      "name": "Bari"
+    },
+    {
+      "id": 119721,
+      "name": "Bari Sadri"
+    },
+    {
+      "id": 119722,
+      "name": "Barmer"
+    },
+    {
+      "id": 119723,
+      "name": "Basi"
+    },
+    {
+      "id": 119724,
+      "name": "Basni"
+    },
+    {
+      "id": 119725,
+      "name": "Baswa"
+    },
+    {
+      "id": 119726,
+      "name": "Bayana"
+    },
+    {
+      "id": 119727,
+      "name": "Beawar"
+    },
+    {
+      "id": 119728,
+      "name": "Begun"
+    },
+    {
+      "id": 119729,
+      "name": "Behror"
+    },
+    {
+      "id": 119730,
+      "name": "Bhadasar"
+    },
+    {
+      "id": 119731,
+      "name": "Bhadra"
+    },
+    {
+      "id": 119732,
+      "name": "Bharatpur"
+    },
+    {
+      "id": 119733,
+      "name": "Bhasawar"
+    },
+    {
+      "id": 119734,
+      "name": "Bhilwara"
+    },
+    {
+      "id": 119735,
+      "name": "Bhindar"
+    },
+    {
+      "id": 119736,
+      "name": "Bhinmal"
+    },
+    {
+      "id": 119737,
+      "name": "Bhiwadi"
+    },
+    {
+      "id": 119738,
+      "name": "Bhuma"
+    },
+    {
+      "id": 119739,
+      "name": "Bikaner"
+    },
+    {
+      "id": 119740,
+      "name": "Bilara"
+    },
+    {
+      "id": 119741,
+      "name": "Bissau"
+    },
+    {
+      "id": 119742,
+      "name": "Borkhera"
+    },
+    {
+      "id": 119743,
+      "name": "Bundi"
+    },
+    {
+      "id": 119744,
+      "name": "Chaksu"
+    },
+    {
+      "id": 119745,
+      "name": "Chechat"
+    },
+    {
+      "id": 119746,
+      "name": "Chhabra"
+    },
+    {
+      "id": 119747,
+      "name": "Chhapar"
+    },
+    {
+      "id": 119748,
+      "name": "Chhoti Sadri"
+    },
+    {
+      "id": 119749,
+      "name": "Chidawa"
+    },
+    {
+      "id": 119750,
+      "name": "Chittaurgarh"
+    },
+    {
+      "id": 119751,
+      "name": "Churu"
+    },
+    {
+      "id": 119752,
+      "name": "Dariba"
+    },
+    {
+      "id": 119753,
+      "name": "Dausa"
+    },
+    {
+      "id": 119754,
+      "name": "Deoli"
+    },
+    {
+      "id": 119755,
+      "name": "Deshnoke"
+    },
+    {
+      "id": 119756,
+      "name": "Devgarh"
+    },
+    {
+      "id": 119757,
+      "name": "Dhaulpur"
+    },
+    {
+      "id": 119758,
+      "name": "Didwana"
+    },
+    {
+      "id": 119759,
+      "name": "Dig"
+    },
+    {
+      "id": 119760,
+      "name": "Dungarpur"
+    },
+    {
+      "id": 119761,
+      "name": "Fatehpur"
+    },
+    {
+      "id": 119762,
+      "name": "Galiakot"
+    },
+    {
+      "id": 119763,
+      "name": "Ganganagar"
+    },
+    {
+      "id": 119764,
+      "name": "Gangapur"
+    },
+    {
+      "id": 119765,
+      "name": "Govindgarh"
+    },
+    {
+      "id": 119766,
+      "name": "Gulabpura"
+    },
+    {
+      "id": 119767,
+      "name": "Hanumangarh"
+    },
+    {
+      "id": 119768,
+      "name": "Hindaun"
+    },
+    {
+      "id": 119769,
+      "name": "Jahazpur"
+    },
+    {
+      "id": 119770,
+      "name": "Jaipur"
+    },
+    {
+      "id": 119771,
+      "name": "Jaisalmer"
+    },
+    {
+      "id": 119772,
+      "name": "Jaitaran"
+    },
+    {
+      "id": 119773,
+      "name": "Jalor"
+    },
+    {
+      "id": 119774,
+      "name": "Jalore"
+    },
+    {
+      "id": 119775,
+      "name": "Jhalawar"
+    },
+    {
+      "id": 119776,
+      "name": "Jhalrapatan"
+    },
+    {
+      "id": 119777,
+      "name": "Jhunjhunun"
+    },
+    {
+      "id": 119778,
+      "name": "Jobner"
+    },
+    {
+      "id": 119779,
+      "name": "Jodhpur"
+    },
+    {
+      "id": 119780,
+      "name": "Kaman"
+    },
+    {
+      "id": 119781,
+      "name": "Kanor"
+    },
+    {
+      "id": 119782,
+      "name": "Kapren"
+    },
+    {
+      "id": 119783,
+      "name": "Karanpur"
+    },
+    {
+      "id": 119784,
+      "name": "Karauli"
+    },
+    {
+      "id": 119785,
+      "name": "Kekri"
+    },
+    {
+      "id": 119786,
+      "name": "Keshorai Patan"
+    },
+    {
+      "id": 119787,
+      "name": "Khandela"
+    },
+    {
+      "id": 119788,
+      "name": "Khanpur"
+    },
+    {
+      "id": 119789,
+      "name": "Khetri"
+    },
+    {
+      "id": 119790,
+      "name": "Kishangarh"
+    },
+    {
+      "id": 119791,
+      "name": "Kota"
+    },
+    {
+      "id": 119792,
+      "name": "Kotputli"
+    },
+    {
+      "id": 119793,
+      "name": "Kuchaman"
+    },
+    {
+      "id": 119794,
+      "name": "Kuchera"
+    },
+    {
+      "id": 119795,
+      "name": "Kumher"
+    },
+    {
+      "id": 119796,
+      "name": "Kushalgarh"
+    },
+    {
+      "id": 119797,
+      "name": "Lachhmangarh Sikar"
+    },
+    {
+      "id": 119798,
+      "name": "Ladnun"
+    },
+    {
+      "id": 119799,
+      "name": "Lakheri"
+    },
+    {
+      "id": 119800,
+      "name": "Lalsot"
+    },
+    {
+      "id": 119801,
+      "name": "Losal"
+    },
+    {
+      "id": 119802,
+      "name": "Mahwah"
+    },
+    {
+      "id": 119803,
+      "name": "Makrana"
+    },
+    {
+      "id": 119804,
+      "name": "Malpura"
+    },
+    {
+      "id": 119805,
+      "name": "Mandal"
+    },
+    {
+      "id": 119806,
+      "name": "Mandalgarh"
+    },
+    {
+      "id": 119807,
+      "name": "Mandawar"
+    },
+    {
+      "id": 119808,
+      "name": "Mangrol"
+    },
+    {
+      "id": 119809,
+      "name": "Manohar Thana"
+    },
+    {
+      "id": 119810,
+      "name": "Manoharpur"
+    },
+    {
+      "id": 119811,
+      "name": "Meethari Marwar"
+    },
+    {
+      "id": 119812,
+      "name": "Merta"
+    },
+    {
+      "id": 119813,
+      "name": "Mundwa"
+    },
+    {
+      "id": 119814,
+      "name": "Nadbai"
+    },
+    {
+      "id": 119815,
+      "name": "Nagar"
+    },
+    {
+      "id": 119816,
+      "name": "Nagaur"
+    },
+    {
+      "id": 119817,
+      "name": "Nainwa"
+    },
+    {
+      "id": 119818,
+      "name": "Napasar"
+    },
+    {
+      "id": 119819,
+      "name": "Naraina"
+    },
+    {
+      "id": 119820,
+      "name": "Nasirabad"
+    },
+    {
+      "id": 119821,
+      "name": "Nathdwara"
+    },
+    {
+      "id": 119822,
+      "name": "Nawa"
+    },
+    {
+      "id": 119823,
+      "name": "Nawalgarh"
+    },
+    {
+      "id": 119824,
+      "name": "Neem ka Thana"
+    },
+    {
+      "id": 119825,
+      "name": "Nimaj"
+    },
+    {
+      "id": 119826,
+      "name": "Nimbahera"
+    },
+    {
+      "id": 119827,
+      "name": "Niwai"
+    },
+    {
+      "id": 119828,
+      "name": "Nohar"
+    },
+    {
+      "id": 119829,
+      "name": "Nokha"
+    },
+    {
+      "id": 119830,
+      "name": "Padampur"
+    },
+    {
+      "id": 119831,
+      "name": "Pali"
+    },
+    {
+      "id": 119832,
+      "name": "Partapur"
+    },
+    {
+      "id": 119833,
+      "name": "Parvatsar"
+    },
+    {
+      "id": 119834,
+      "name": "Phalodi"
+    },
+    {
+      "id": 119835,
+      "name": "Phulera"
+    },
+    {
+      "id": 119836,
+      "name": "Pilani"
+    },
+    {
+      "id": 119837,
+      "name": "Pilibangan"
+    },
+    {
+      "id": 119838,
+      "name": "Pindwara"
+    },
+    {
+      "id": 119839,
+      "name": "Pipar"
+    },
+    {
+      "id": 119840,
+      "name": "Pirawa"
+    },
+    {
+      "id": 119841,
+      "name": "Pokaran"
+    },
+    {
+      "id": 119842,
+      "name": "Pratapgarh"
+    },
+    {
+      "id": 119843,
+      "name": "Pushkar"
+    },
+    {
+      "id": 119844,
+      "name": "Raipur"
+    },
+    {
+      "id": 119845,
+      "name": "Raisinghnagar"
+    },
+    {
+      "id": 119846,
+      "name": "Rajakhera"
+    },
+    {
+      "id": 119847,
+      "name": "Rajaldesar"
+    },
+    {
+      "id": 119848,
+      "name": "Rajgarh"
+    },
+    {
+      "id": 119849,
+      "name": "Rajsamand"
+    },
+    {
+      "id": 119850,
+      "name": "Ramganj Mandi"
+    },
+    {
+      "id": 119851,
+      "name": "Ramgarh"
+    },
+    {
+      "id": 119852,
+      "name": "Rani"
+    },
+    {
+      "id": 119853,
+      "name": "Ratangarh"
+    },
+    {
+      "id": 119854,
+      "name": "Rawatbhata"
+    },
+    {
+      "id": 119855,
+      "name": "Rawatsar"
+    },
+    {
+      "id": 119856,
+      "name": "Ringas"
+    },
+    {
+      "id": 119857,
+      "name": "Sadri"
+    },
+    {
+      "id": 119858,
+      "name": "Salumbar"
+    },
+    {
+      "id": 119859,
+      "name": "Sambhar"
+    },
+    {
+      "id": 119860,
+      "name": "Samdari"
+    },
+    {
+      "id": 119861,
+      "name": "Sanchor"
+    },
+    {
+      "id": 119862,
+      "name": "Sangaria"
+    },
+    {
+      "id": 119863,
+      "name": "Sangod"
+    },
+    {
+      "id": 119864,
+      "name": "Sardarshahr"
+    },
+    {
+      "id": 119865,
+      "name": "Sarwar"
+    },
+    {
+      "id": 119866,
+      "name": "Sawai Madhopur"
+    },
+    {
+      "id": 119867,
+      "name": "Shahpura"
+    },
+    {
+      "id": 119868,
+      "name": "Sheoganj"
+    },
+    {
+      "id": 119869,
+      "name": "Sikar"
+    },
+    {
+      "id": 119870,
+      "name": "Sirohi"
+    },
+    {
+      "id": 119871,
+      "name": "Siwana"
+    },
+    {
+      "id": 119872,
+      "name": "Sojat"
+    },
+    {
+      "id": 119873,
+      "name": "Sri Dungargarh"
+    },
+    {
+      "id": 119874,
+      "name": "Sri Madhopur"
+    },
+    {
+      "id": 119875,
+      "name": "Sujangarh"
+    },
+    {
+      "id": 119876,
+      "name": "Suket"
+    },
+    {
+      "id": 119877,
+      "name": "Sunel"
+    },
+    {
+      "id": 119878,
+      "name": "Surajgarh"
+    },
+    {
+      "id": 119879,
+      "name": "Suratgarh"
+    },
+    {
+      "id": 119880,
+      "name": "Takhatgarh"
+    },
+    {
+      "id": 119881,
+      "name": "Taranagar"
+    },
+    {
+      "id": 119882,
+      "name": "Tijara"
+    },
+    {
+      "id": 119883,
+      "name": "Todabhim"
+    },
+    {
+      "id": 119884,
+      "name": "Todaraisingh"
+    },
+    {
+      "id": 119885,
+      "name": "Tonk"
+    },
+    {
+      "id": 119886,
+      "name": "Udaipur"
+    },
+    {
+      "id": 119887,
+      "name": "Udpura"
+    },
+    {
+      "id": 119888,
+      "name": "Uniara"
+    },
+    {
+      "id": 119889,
+      "name": "Wer"
+    }
+  ]
+}

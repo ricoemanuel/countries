@@ -1,0 +1,423 @@
+{
+  "id": 5835,
+  "name": "Upper Silesia",
+  "state_code": "16",
+  "cities": [
+    {
+      "id": 163665,
+      "name": "Baborów"
+    },
+    {
+      "id": 163666,
+      "name": "Biała"
+    },
+    {
+      "id": 163667,
+      "name": "Bierawa"
+    },
+    {
+      "id": 163668,
+      "name": "Bierdzany"
+    },
+    {
+      "id": 163669,
+      "name": "Branice"
+    },
+    {
+      "id": 163670,
+      "name": "Brzeg"
+    },
+    {
+      "id": 163671,
+      "name": "Byczyna"
+    },
+    {
+      "id": 163672,
+      "name": "Chmielowice"
+    },
+    {
+      "id": 163673,
+      "name": "Chróścice"
+    },
+    {
+      "id": 163674,
+      "name": "Chrościna"
+    },
+    {
+      "id": 163675,
+      "name": "Chrząstowice"
+    },
+    {
+      "id": 163676,
+      "name": "Cisek"
+    },
+    {
+      "id": 163677,
+      "name": "Czarnowąsy"
+    },
+    {
+      "id": 163678,
+      "name": "Dąbrowa"
+    },
+    {
+      "id": 163679,
+      "name": "Dalachów"
+    },
+    {
+      "id": 163680,
+      "name": "Długomiłowice"
+    },
+    {
+      "id": 163681,
+      "name": "Dobrodzień"
+    },
+    {
+      "id": 163682,
+      "name": "Dobrzeń Wielki"
+    },
+    {
+      "id": 163683,
+      "name": "Domaszowice"
+    },
+    {
+      "id": 163684,
+      "name": "Dziergowice"
+    },
+    {
+      "id": 163685,
+      "name": "Głogówek"
+    },
+    {
+      "id": 163686,
+      "name": "Głubczyce"
+    },
+    {
+      "id": 163687,
+      "name": "Głuchołazy"
+    },
+    {
+      "id": 163688,
+      "name": "Gogolin"
+    },
+    {
+      "id": 163689,
+      "name": "Górażdże"
+    },
+    {
+      "id": 163690,
+      "name": "Gorzów Śląski"
+    },
+    {
+      "id": 163691,
+      "name": "Grodków"
+    },
+    {
+      "id": 163692,
+      "name": "Izbicko"
+    },
+    {
+      "id": 163693,
+      "name": "Januszkowice"
+    },
+    {
+      "id": 163694,
+      "name": "Jemielnica"
+    },
+    {
+      "id": 163695,
+      "name": "Kamienica"
+    },
+    {
+      "id": 163696,
+      "name": "Kamiennik"
+    },
+    {
+      "id": 163697,
+      "name": "Kędzierzyn-Koźle"
+    },
+    {
+      "id": 163698,
+      "name": "Kietrz"
+    },
+    {
+      "id": 163699,
+      "name": "Kluczbork"
+    },
+    {
+      "id": 163700,
+      "name": "Kolonowskie"
+    },
+    {
+      "id": 163701,
+      "name": "Komprachcice"
+    },
+    {
+      "id": 163702,
+      "name": "Korfantów"
+    },
+    {
+      "id": 163703,
+      "name": "Koźle"
+    },
+    {
+      "id": 163704,
+      "name": "Krapkowice"
+    },
+    {
+      "id": 163705,
+      "name": "Kup"
+    },
+    {
+      "id": 163706,
+      "name": "Leśnica"
+    },
+    {
+      "id": 163707,
+      "name": "Lewin Brzeski"
+    },
+    {
+      "id": 163708,
+      "name": "Lubrza"
+    },
+    {
+      "id": 163709,
+      "name": "Lubsza"
+    },
+    {
+      "id": 163710,
+      "name": "Łąka Prudnicka"
+    },
+    {
+      "id": 163711,
+      "name": "Łambinowice"
+    },
+    {
+      "id": 163712,
+      "name": "Łosiów"
+    },
+    {
+      "id": 163713,
+      "name": "Łubniany"
+    },
+    {
+      "id": 163714,
+      "name": "Moszczanka"
+    },
+    {
+      "id": 163715,
+      "name": "Murów"
+    },
+    {
+      "id": 163716,
+      "name": "Nakło"
+    },
+    {
+      "id": 163717,
+      "name": "Namysłów"
+    },
+    {
+      "id": 163718,
+      "name": "Niemodlin"
+    },
+    {
+      "id": 163719,
+      "name": "Nysa"
+    },
+    {
+      "id": 163720,
+      "name": "Olesno"
+    },
+    {
+      "id": 163721,
+      "name": "Olszanka"
+    },
+    {
+      "id": 163722,
+      "name": "Opole"
+    },
+    {
+      "id": 163723,
+      "name": "Otmuchów"
+    },
+    {
+      "id": 163724,
+      "name": "Ozimek"
+    },
+    {
+      "id": 163725,
+      "name": "Paczków"
+    },
+    {
+      "id": 163726,
+      "name": "Pakosławice"
+    },
+    {
+      "id": 163727,
+      "name": "Pawłowiczki"
+    },
+    {
+      "id": 163728,
+      "name": "Pokój"
+    },
+    {
+      "id": 163729,
+      "name": "Polska Cerekiew"
+    },
+    {
+      "id": 163730,
+      "name": "Popielów"
+    },
+    {
+      "id": 163731,
+      "name": "Powiat brzeski"
+    },
+    {
+      "id": 163732,
+      "name": "Powiat głubczycki"
+    },
+    {
+      "id": 163733,
+      "name": "Powiat kędzierzyńsko-kozielski"
+    },
+    {
+      "id": 163734,
+      "name": "Powiat kluczborski"
+    },
+    {
+      "id": 163735,
+      "name": "Powiat krapkowicki"
+    },
+    {
+      "id": 163736,
+      "name": "Powiat namysłowski"
+    },
+    {
+      "id": 163737,
+      "name": "Powiat nyski"
+    },
+    {
+      "id": 163738,
+      "name": "Powiat oleski"
+    },
+    {
+      "id": 163739,
+      "name": "Powiat opolski"
+    },
+    {
+      "id": 163740,
+      "name": "Powiat prudnicki"
+    },
+    {
+      "id": 163741,
+      "name": "Powiat strzelecki"
+    },
+    {
+      "id": 163742,
+      "name": "Praszka"
+    },
+    {
+      "id": 163743,
+      "name": "Prószków"
+    },
+    {
+      "id": 163744,
+      "name": "Prudnik"
+    },
+    {
+      "id": 163745,
+      "name": "Racławice Śląskie"
+    },
+    {
+      "id": 163746,
+      "name": "Raszowa"
+    },
+    {
+      "id": 163747,
+      "name": "Reńska Wieś"
+    },
+    {
+      "id": 163748,
+      "name": "Rozwadza"
+    },
+    {
+      "id": 163749,
+      "name": "Sidzina"
+    },
+    {
+      "id": 163750,
+      "name": "Skarbimierz Osiedle"
+    },
+    {
+      "id": 163751,
+      "name": "Skorogoszcz"
+    },
+    {
+      "id": 163752,
+      "name": "Skoroszyce"
+    },
+    {
+      "id": 163753,
+      "name": "Sławięcice"
+    },
+    {
+      "id": 163754,
+      "name": "Strzelce Opolskie"
+    },
+    {
+      "id": 163755,
+      "name": "Strzeleczki"
+    },
+    {
+      "id": 163756,
+      "name": "Świerczów"
+    },
+    {
+      "id": 163757,
+      "name": "Tarnów Opolski"
+    },
+    {
+      "id": 163758,
+      "name": "Tułowice"
+    },
+    {
+      "id": 163759,
+      "name": "Twardawa"
+    },
+    {
+      "id": 163760,
+      "name": "Ujazd"
+    },
+    {
+      "id": 163761,
+      "name": "Walce"
+    },
+    {
+      "id": 163762,
+      "name": "Węgry"
+    },
+    {
+      "id": 163763,
+      "name": "Większyce"
+    },
+    {
+      "id": 163764,
+      "name": "Wilków"
+    },
+    {
+      "id": 163765,
+      "name": "Wołczyn"
+    },
+    {
+      "id": 163766,
+      "name": "Zawadzkie"
+    },
+    {
+      "id": 163767,
+      "name": "Zdzieszowice"
+    },
+    {
+      "id": 163768,
+      "name": "Zębowice"
+    }
+  ]
+}

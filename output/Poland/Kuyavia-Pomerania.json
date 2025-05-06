@@ -1,0 +1,583 @@
+{
+  "id": 5824,
+  "name": "Kuyavia-Pomerania",
+  "state_code": "04",
+  "cities": [
+    {
+      "id": 161252,
+      "name": "Aleksandrów Kujawski"
+    },
+    {
+      "id": 161253,
+      "name": "Barcin"
+    },
+    {
+      "id": 161254,
+      "name": "Bartniczka"
+    },
+    {
+      "id": 161255,
+      "name": "Baruchowo"
+    },
+    {
+      "id": 161256,
+      "name": "Białe Błota"
+    },
+    {
+      "id": 161257,
+      "name": "Bobrowniki"
+    },
+    {
+      "id": 161258,
+      "name": "Bobrowo"
+    },
+    {
+      "id": 161259,
+      "name": "Boniewo"
+    },
+    {
+      "id": 161260,
+      "name": "Brodnica"
+    },
+    {
+      "id": 161261,
+      "name": "Brześć Kujawski"
+    },
+    {
+      "id": 161262,
+      "name": "Brzozie"
+    },
+    {
+      "id": 161263,
+      "name": "Brzuze"
+    },
+    {
+      "id": 161264,
+      "name": "Bukowiec"
+    },
+    {
+      "id": 161265,
+      "name": "Bydgoszcz"
+    },
+    {
+      "id": 161266,
+      "name": "Bytoń"
+    },
+    {
+      "id": 161267,
+      "name": "Cekcyn"
+    },
+    {
+      "id": 161268,
+      "name": "Chełmno"
+    },
+    {
+      "id": 161269,
+      "name": "Chełmża"
+    },
+    {
+      "id": 161270,
+      "name": "Choceń"
+    },
+    {
+      "id": 161271,
+      "name": "Chodecz"
+    },
+    {
+      "id": 161272,
+      "name": "Chrostkowo"
+    },
+    {
+      "id": 161273,
+      "name": "Ciechocin"
+    },
+    {
+      "id": 161274,
+      "name": "Ciechocinek"
+    },
+    {
+      "id": 161275,
+      "name": "Czerniewice"
+    },
+    {
+      "id": 161276,
+      "name": "Czernikowo"
+    },
+    {
+      "id": 161277,
+      "name": "Dąbrowa"
+    },
+    {
+      "id": 161278,
+      "name": "Dąbrowa Chełmińska"
+    },
+    {
+      "id": 161279,
+      "name": "Dębowa Łąka"
+    },
+    {
+      "id": 161280,
+      "name": "Dobre"
+    },
+    {
+      "id": 161281,
+      "name": "Dobrzyń nad Wisłą"
+    },
+    {
+      "id": 161282,
+      "name": "Drzycim"
+    },
+    {
+      "id": 161283,
+      "name": "Fabianki"
+    },
+    {
+      "id": 161284,
+      "name": "Fordon"
+    },
+    {
+      "id": 161285,
+      "name": "Gąsawa"
+    },
+    {
+      "id": 161286,
+      "name": "Gniewkowo"
+    },
+    {
+      "id": 161287,
+      "name": "Golub-Dobrzyń"
+    },
+    {
+      "id": 161288,
+      "name": "Górzno"
+    },
+    {
+      "id": 161289,
+      "name": "Gostycyn"
+    },
+    {
+      "id": 161290,
+      "name": "Grudziądz"
+    },
+    {
+      "id": 161291,
+      "name": "Gruta"
+    },
+    {
+      "id": 161292,
+      "name": "Inowrocław"
+    },
+    {
+      "id": 161293,
+      "name": "Izbica Kujawska"
+    },
+    {
+      "id": 161294,
+      "name": "Jabłonowo Pomorskie"
+    },
+    {
+      "id": 161295,
+      "name": "Janikowo"
+    },
+    {
+      "id": 161296,
+      "name": "Janowiec Wielkopolski"
+    },
+    {
+      "id": 161297,
+      "name": "Jeżewo"
+    },
+    {
+      "id": 161298,
+      "name": "Jeziora Wielkie"
+    },
+    {
+      "id": 161299,
+      "name": "Kamień Krajeński"
+    },
+    {
+      "id": 161300,
+      "name": "Kcynia"
+    },
+    {
+      "id": 161301,
+      "name": "Kęsowo"
+    },
+    {
+      "id": 161302,
+      "name": "Kikół"
+    },
+    {
+      "id": 161303,
+      "name": "Koronowo"
+    },
+    {
+      "id": 161304,
+      "name": "Kowal"
+    },
+    {
+      "id": 161305,
+      "name": "Kowalewo Pomorskie"
+    },
+    {
+      "id": 161306,
+      "name": "Kruszwica"
+    },
+    {
+      "id": 161307,
+      "name": "Lipno"
+    },
+    {
+      "id": 161308,
+      "name": "Lisewo"
+    },
+    {
+      "id": 161309,
+      "name": "Lniano"
+    },
+    {
+      "id": 161310,
+      "name": "Lubanie"
+    },
+    {
+      "id": 161311,
+      "name": "Lubicz Dolny"
+    },
+    {
+      "id": 161312,
+      "name": "Lubicz Górny"
+    },
+    {
+      "id": 161313,
+      "name": "Lubień Kujawski"
+    },
+    {
+      "id": 161314,
+      "name": "Lubiewo"
+    },
+    {
+      "id": 161315,
+      "name": "Lubraniec"
+    },
+    {
+      "id": 161316,
+      "name": "Łabiszyn"
+    },
+    {
+      "id": 161317,
+      "name": "Łasin"
+    },
+    {
+      "id": 161318,
+      "name": "Łubianka"
+    },
+    {
+      "id": 161319,
+      "name": "Łysomice"
+    },
+    {
+      "id": 161320,
+      "name": "Mogilno"
+    },
+    {
+      "id": 161321,
+      "name": "Mrocza"
+    },
+    {
+      "id": 161322,
+      "name": "Nakło nad Notecią"
+    },
+    {
+      "id": 161323,
+      "name": "Nieszawa"
+    },
+    {
+      "id": 161324,
+      "name": "Nowa Wieś Wielka"
+    },
+    {
+      "id": 161325,
+      "name": "Nowe"
+    },
+    {
+      "id": 161326,
+      "name": "Obrowo"
+    },
+    {
+      "id": 161327,
+      "name": "Osie"
+    },
+    {
+      "id": 161328,
+      "name": "Osięciny"
+    },
+    {
+      "id": 161329,
+      "name": "Osiek"
+    },
+    {
+      "id": 161330,
+      "name": "Osielsko"
+    },
+    {
+      "id": 161331,
+      "name": "Ostrowite"
+    },
+    {
+      "id": 161332,
+      "name": "Pakość"
+    },
+    {
+      "id": 161333,
+      "name": "Piotrków Kujawski"
+    },
+    {
+      "id": 161334,
+      "name": "Płużnica"
+    },
+    {
+      "id": 161335,
+      "name": "Powiat aleksandrowski"
+    },
+    {
+      "id": 161336,
+      "name": "Powiat brodnicki"
+    },
+    {
+      "id": 161337,
+      "name": "Powiat bydgoski"
+    },
+    {
+      "id": 161338,
+      "name": "Powiat chełmiński"
+    },
+    {
+      "id": 161339,
+      "name": "Powiat golubsko-dobrzyński"
+    },
+    {
+      "id": 161340,
+      "name": "Powiat grudziądzki"
+    },
+    {
+      "id": 161341,
+      "name": "Powiat inowrocławski"
+    },
+    {
+      "id": 161342,
+      "name": "Powiat lipnowski"
+    },
+    {
+      "id": 161343,
+      "name": "Powiat mogileński"
+    },
+    {
+      "id": 161344,
+      "name": "Powiat nakielski"
+    },
+    {
+      "id": 161345,
+      "name": "Powiat radziejowski"
+    },
+    {
+      "id": 161346,
+      "name": "Powiat rypiński"
+    },
+    {
+      "id": 161347,
+      "name": "Powiat sępoleński"
+    },
+    {
+      "id": 161348,
+      "name": "Powiat świecki"
+    },
+    {
+      "id": 161349,
+      "name": "Powiat toruński"
+    },
+    {
+      "id": 161350,
+      "name": "Powiat tucholski"
+    },
+    {
+      "id": 161351,
+      "name": "Powiat wąbrzeski"
+    },
+    {
+      "id": 161352,
+      "name": "Powiat włocławski"
+    },
+    {
+      "id": 161353,
+      "name": "Powiat żniński"
+    },
+    {
+      "id": 161354,
+      "name": "Pruszcz"
+    },
+    {
+      "id": 161355,
+      "name": "Raciążek"
+    },
+    {
+      "id": 161356,
+      "name": "Radomin"
+    },
+    {
+      "id": 161357,
+      "name": "Radziejów"
+    },
+    {
+      "id": 161358,
+      "name": "Radzyń Chełmiński"
+    },
+    {
+      "id": 161359,
+      "name": "Rogowo"
+    },
+    {
+      "id": 161360,
+      "name": "Rogóźno"
+    },
+    {
+      "id": 161361,
+      "name": "Rypin"
+    },
+    {
+      "id": 161362,
+      "name": "Sadki"
+    },
+    {
+      "id": 161363,
+      "name": "Sępólno Krajeńskie"
+    },
+    {
+      "id": 161364,
+      "name": "Sicienko"
+    },
+    {
+      "id": 161365,
+      "name": "Skępe"
+    },
+    {
+      "id": 161366,
+      "name": "Skrwilno"
+    },
+    {
+      "id": 161367,
+      "name": "Ślesin"
+    },
+    {
+      "id": 161368,
+      "name": "Śliwice"
+    },
+    {
+      "id": 161369,
+      "name": "Solec Kujawski"
+    },
+    {
+      "id": 161370,
+      "name": "Sośno"
+    },
+    {
+      "id": 161371,
+      "name": "Strzelno"
+    },
+    {
+      "id": 161372,
+      "name": "Świecie"
+    },
+    {
+      "id": 161373,
+      "name": "Świecie nad Osą"
+    },
+    {
+      "id": 161374,
+      "name": "Świedziebnia"
+    },
+    {
+      "id": 161375,
+      "name": "Świekatowo"
+    },
+    {
+      "id": 161376,
+      "name": "Sypniewo"
+    },
+    {
+      "id": 161377,
+      "name": "Szubin"
+    },
+    {
+      "id": 161378,
+      "name": "Tłuchowo"
+    },
+    {
+      "id": 161379,
+      "name": "Topólka"
+    },
+    {
+      "id": 161380,
+      "name": "Toruń"
+    },
+    {
+      "id": 161381,
+      "name": "Tuchola"
+    },
+    {
+      "id": 161382,
+      "name": "Unisław"
+    },
+    {
+      "id": 161383,
+      "name": "Wąbrzeźno"
+    },
+    {
+      "id": 161384,
+      "name": "Waganiec"
+    },
+    {
+      "id": 161385,
+      "name": "Wąpielsk"
+    },
+    {
+      "id": 161386,
+      "name": "Warlubie"
+    },
+    {
+      "id": 161387,
+      "name": "Więcbork"
+    },
+    {
+      "id": 161388,
+      "name": "Wielgie"
+    },
+    {
+      "id": 161389,
+      "name": "Wielka Nieszawka"
+    },
+    {
+      "id": 161390,
+      "name": "Wierzchosławice"
+    },
+    {
+      "id": 161391,
+      "name": "Włocławek"
+    },
+    {
+      "id": 161392,
+      "name": "Zbójno"
+    },
+    {
+      "id": 161393,
+      "name": "Zławieś Wielka"
+    },
+    {
+      "id": 161394,
+      "name": "Złotniki Kujawskie"
+    },
+    {
+      "id": 161395,
+      "name": "Żnin"
+    }
+  ]
+}

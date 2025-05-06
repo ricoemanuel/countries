@@ -1,0 +1,359 @@
+{
+  "id": 6526,
+  "name": "Gipuzkoa",
+  "state_code": "SS",
+  "cities": [
+    {
+      "id": 184241,
+      "name": "Abaltzisketa"
+    },
+    {
+      "id": 184242,
+      "name": "Aduna"
+    },
+    {
+      "id": 184243,
+      "name": "Aia"
+    },
+    {
+      "id": 184244,
+      "name": "Aizarnazabal"
+    },
+    {
+      "id": 184245,
+      "name": "Albiztur"
+    },
+    {
+      "id": 184246,
+      "name": "Alegia"
+    },
+    {
+      "id": 184247,
+      "name": "Alkiza"
+    },
+    {
+      "id": 184248,
+      "name": "Altzaga"
+    },
+    {
+      "id": 184249,
+      "name": "Altzo"
+    },
+    {
+      "id": 184250,
+      "name": "Amezketa"
+    },
+    {
+      "id": 184251,
+      "name": "Andoain"
+    },
+    {
+      "id": 184252,
+      "name": "Anoeta"
+    },
+    {
+      "id": 184253,
+      "name": "Antzuola"
+    },
+    {
+      "id": 184254,
+      "name": "Arama"
+    },
+    {
+      "id": 184255,
+      "name": "Aretxabaleta"
+    },
+    {
+      "id": 184256,
+      "name": "Arrasate/Mondragón"
+    },
+    {
+      "id": 184257,
+      "name": "Asteasu"
+    },
+    {
+      "id": 184258,
+      "name": "Astigarraga"
+    },
+    {
+      "id": 184259,
+      "name": "Ataun"
+    },
+    {
+      "id": 184260,
+      "name": "Azkoitia"
+    },
+    {
+      "id": 184261,
+      "name": "Azpeitia"
+    },
+    {
+      "id": 184262,
+      "name": "Baliarrain"
+    },
+    {
+      "id": 184263,
+      "name": "Beasain"
+    },
+    {
+      "id": 184264,
+      "name": "Beizama"
+    },
+    {
+      "id": 184265,
+      "name": "Belauntza"
+    },
+    {
+      "id": 184266,
+      "name": "Berastegi"
+    },
+    {
+      "id": 184267,
+      "name": "Bergara"
+    },
+    {
+      "id": 184268,
+      "name": "Berrobi"
+    },
+    {
+      "id": 184269,
+      "name": "Bidegoian"
+    },
+    {
+      "id": 184270,
+      "name": "Deba"
+    },
+    {
+      "id": 184271,
+      "name": "Donostia-San Sebastián"
+    },
+    {
+      "id": 184272,
+      "name": "Eibar"
+    },
+    {
+      "id": 184273,
+      "name": "Elduain"
+    },
+    {
+      "id": 184274,
+      "name": "Elgeta"
+    },
+    {
+      "id": 184275,
+      "name": "Elgoibar"
+    },
+    {
+      "id": 184276,
+      "name": "Errenteria"
+    },
+    {
+      "id": 184277,
+      "name": "Errezil"
+    },
+    {
+      "id": 184278,
+      "name": "Eskoriatza"
+    },
+    {
+      "id": 184279,
+      "name": "Ezkio-Itsaso"
+    },
+    {
+      "id": 184280,
+      "name": "Gabiria"
+    },
+    {
+      "id": 184281,
+      "name": "Gaintza"
+    },
+    {
+      "id": 184282,
+      "name": "Gaztelu"
+    },
+    {
+      "id": 184283,
+      "name": "Getaria"
+    },
+    {
+      "id": 184284,
+      "name": "Hernani"
+    },
+    {
+      "id": 184285,
+      "name": "Hernialde"
+    },
+    {
+      "id": 184286,
+      "name": "Hondarribia"
+    },
+    {
+      "id": 184287,
+      "name": "Ibarra"
+    },
+    {
+      "id": 184288,
+      "name": "Idiazabal"
+    },
+    {
+      "id": 184289,
+      "name": "Ikaztegieta"
+    },
+    {
+      "id": 184290,
+      "name": "Irun"
+    },
+    {
+      "id": 184291,
+      "name": "Irura"
+    },
+    {
+      "id": 184292,
+      "name": "Itsasondo"
+    },
+    {
+      "id": 184293,
+      "name": "Larraul"
+    },
+    {
+      "id": 184294,
+      "name": "Lasarte-Oria"
+    },
+    {
+      "id": 184295,
+      "name": "Lazkao"
+    },
+    {
+      "id": 184296,
+      "name": "Leaburu"
+    },
+    {
+      "id": 184297,
+      "name": "Legazpi"
+    },
+    {
+      "id": 184298,
+      "name": "Legorreta"
+    },
+    {
+      "id": 184299,
+      "name": "Leintz-Gatzaga"
+    },
+    {
+      "id": 184300,
+      "name": "Lezo"
+    },
+    {
+      "id": 184301,
+      "name": "Lizartza"
+    },
+    {
+      "id": 184302,
+      "name": "Mendaro"
+    },
+    {
+      "id": 184303,
+      "name": "Mutiloa"
+    },
+    {
+      "id": 184304,
+      "name": "Mutriku"
+    },
+    {
+      "id": 184305,
+      "name": "Oiartzun"
+    },
+    {
+      "id": 184306,
+      "name": "Olaberria"
+    },
+    {
+      "id": 184307,
+      "name": "Oñati"
+    },
+    {
+      "id": 184308,
+      "name": "Ordizia"
+    },
+    {
+      "id": 184309,
+      "name": "Orendain"
+    },
+    {
+      "id": 184310,
+      "name": "Orexa"
+    },
+    {
+      "id": 184311,
+      "name": "Orio"
+    },
+    {
+      "id": 184312,
+      "name": "Ormaiztegi"
+    },
+    {
+      "id": 184313,
+      "name": "Pasaia"
+    },
+    {
+      "id": 184314,
+      "name": "Segura"
+    },
+    {
+      "id": 184315,
+      "name": "Soraluze/Placencia de las Armas"
+    },
+    {
+      "id": 184316,
+      "name": "Tolosa"
+    },
+    {
+      "id": 184317,
+      "name": "Urnieta"
+    },
+    {
+      "id": 184318,
+      "name": "Urretxu"
+    },
+    {
+      "id": 184319,
+      "name": "Usurbil"
+    },
+    {
+      "id": 184320,
+      "name": "Villabona"
+    },
+    {
+      "id": 184321,
+      "name": "Zaldibia"
+    },
+    {
+      "id": 184322,
+      "name": "Zarautz"
+    },
+    {
+      "id": 184323,
+      "name": "Zegama"
+    },
+    {
+      "id": 184324,
+      "name": "Zerain"
+    },
+    {
+      "id": 184325,
+      "name": "Zestoa"
+    },
+    {
+      "id": 184326,
+      "name": "Zizurkil"
+    },
+    {
+      "id": 184327,
+      "name": "Zumaia"
+    },
+    {
+      "id": 184328,
+      "name": "Zumarraga"
+    }
+  ]
+}
