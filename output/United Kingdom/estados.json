@@ -1,0 +1,1237 @@
+[
+  {
+    "id": 7180,
+    "name": "Aberdeen",
+    "state_code": "ABE"
+  },
+  {
+    "id": 7181,
+    "name": "Aberdeenshire",
+    "state_code": "ABD"
+  },
+  {
+    "id": 7182,
+    "name": "Angus",
+    "state_code": "ANS"
+  },
+  {
+    "id": 7183,
+    "name": "Antrim",
+    "state_code": "ANT"
+  },
+  {
+    "id": 7184,
+    "name": "Antrim and Newtownabbey",
+    "state_code": "ANN"
+  },
+  {
+    "id": 7185,
+    "name": "Ards",
+    "state_code": "ARD"
+  },
+  {
+    "id": 7186,
+    "name": "Ards and North Down",
+    "state_code": "AND"
+  },
+  {
+    "id": 7187,
+    "name": "Argyll and Bute",
+    "state_code": "AGB"
+  },
+  {
+    "id": 7188,
+    "name": "Armagh City and District Council",
+    "state_code": "ARM"
+  },
+  {
+    "id": 7189,
+    "name": "Armagh, Banbridge and Craigavon",
+    "state_code": "ABC"
+  },
+  {
+    "id": 7190,
+    "name": "Ascension Island",
+    "state_code": "SH-AC"
+  },
+  {
+    "id": 7191,
+    "name": "Ballymena Borough",
+    "state_code": "BLA"
+  },
+  {
+    "id": 7192,
+    "name": "Ballymoney",
+    "state_code": "BLY"
+  },
+  {
+    "id": 7193,
+    "name": "Banbridge",
+    "state_code": "BNB"
+  },
+  {
+    "id": 7194,
+    "name": "Barnsley",
+    "state_code": "BNS"
+  },
+  {
+    "id": 7195,
+    "name": "Bath and North East Somerset",
+    "state_code": "BAS"
+  },
+  {
+    "id": 7196,
+    "name": "Bedford",
+    "state_code": "BDF"
+  },
+  {
+    "id": 7197,
+    "name": "Belfast district",
+    "state_code": "BFS"
+  },
+  {
+    "id": 7198,
+    "name": "Birmingham",
+    "state_code": "BIR"
+  },
+  {
+    "id": 7199,
+    "name": "Blackburn with Darwen",
+    "state_code": "BBD"
+  },
+  {
+    "id": 7200,
+    "name": "Blackpool",
+    "state_code": "BPL"
+  },
+  {
+    "id": 7201,
+    "name": "Blaenau Gwent County Borough",
+    "state_code": "BGW"
+  },
+  {
+    "id": 7202,
+    "name": "Bolton",
+    "state_code": "BOL"
+  },
+  {
+    "id": 7203,
+    "name": "Bournemouth",
+    "state_code": "BMH"
+  },
+  {
+    "id": 7204,
+    "name": "Bracknell Forest",
+    "state_code": "BRC"
+  },
+  {
+    "id": 7205,
+    "name": "Bradford",
+    "state_code": "BRD"
+  },
+  {
+    "id": 7206,
+    "name": "Bridgend County Borough",
+    "state_code": "BGE"
+  },
+  {
+    "id": 7207,
+    "name": "Brighton and Hove",
+    "state_code": "BNH"
+  },
+  {
+    "id": 7208,
+    "name": "Buckinghamshire",
+    "state_code": "BKM"
+  },
+  {
+    "id": 7209,
+    "name": "Bury",
+    "state_code": "BUR"
+  },
+  {
+    "id": 7210,
+    "name": "Caerphilly County Borough",
+    "state_code": "CAY"
+  },
+  {
+    "id": 7211,
+    "name": "Calderdale",
+    "state_code": "CLD"
+  },
+  {
+    "id": 7212,
+    "name": "Cambridgeshire",
+    "state_code": "CAM"
+  },
+  {
+    "id": 7213,
+    "name": "Carmarthenshire",
+    "state_code": "CMN"
+  },
+  {
+    "id": 7214,
+    "name": "Carrickfergus Borough Council",
+    "state_code": "CKF"
+  },
+  {
+    "id": 7215,
+    "name": "Castlereagh",
+    "state_code": "CSR"
+  },
+  {
+    "id": 7216,
+    "name": "Causeway Coast and Glens",
+    "state_code": "CCG"
+  },
+  {
+    "id": 7217,
+    "name": "Central Bedfordshire",
+    "state_code": "CBF"
+  },
+  {
+    "id": 7218,
+    "name": "Ceredigion",
+    "state_code": "CGN"
+  },
+  {
+    "id": 7219,
+    "name": "Cheshire East",
+    "state_code": "CHE"
+  },
+  {
+    "id": 7220,
+    "name": "Cheshire West and Chester",
+    "state_code": "CHW"
+  },
+  {
+    "id": 7221,
+    "name": "City and County of Cardiff",
+    "state_code": "CRF"
+  },
+  {
+    "id": 7222,
+    "name": "City and County of Swansea",
+    "state_code": "SWA"
+  },
+  {
+    "id": 7223,
+    "name": "City of Bristol",
+    "state_code": "BST"
+  },
+  {
+    "id": 7224,
+    "name": "City of Derby",
+    "state_code": "DER"
+  },
+  {
+    "id": 7225,
+    "name": "City of Kingston upon Hull",
+    "state_code": "KHL"
+  },
+  {
+    "id": 7226,
+    "name": "City of Leicester",
+    "state_code": "LCE"
+  },
+  {
+    "id": 7227,
+    "name": "City of London",
+    "state_code": "LND"
+  },
+  {
+    "id": 7228,
+    "name": "City of Nottingham",
+    "state_code": "NGM"
+  },
+  {
+    "id": 7229,
+    "name": "City of Peterborough",
+    "state_code": "PTE"
+  },
+  {
+    "id": 7230,
+    "name": "City of Plymouth",
+    "state_code": "PLY"
+  },
+  {
+    "id": 7231,
+    "name": "City of Portsmouth",
+    "state_code": "POR"
+  },
+  {
+    "id": 7232,
+    "name": "City of Southampton",
+    "state_code": "STH"
+  },
+  {
+    "id": 7233,
+    "name": "City of Stoke-on-Trent",
+    "state_code": "STE"
+  },
+  {
+    "id": 7234,
+    "name": "City of Sunderland",
+    "state_code": "SND"
+  },
+  {
+    "id": 7235,
+    "name": "City of Westminster",
+    "state_code": "WSM"
+  },
+  {
+    "id": 7236,
+    "name": "City of Wolverhampton",
+    "state_code": "WLV"
+  },
+  {
+    "id": 7237,
+    "name": "City of York",
+    "state_code": "YOR"
+  },
+  {
+    "id": 7238,
+    "name": "Clackmannanshire",
+    "state_code": "CLK"
+  },
+  {
+    "id": 7239,
+    "name": "Coleraine Borough Council",
+    "state_code": "CLR"
+  },
+  {
+    "id": 7240,
+    "name": "Conwy County Borough",
+    "state_code": "CWY"
+  },
+  {
+    "id": 7241,
+    "name": "Cookstown District Council",
+    "state_code": "CKT"
+  },
+  {
+    "id": 7242,
+    "name": "Cornwall",
+    "state_code": "CON"
+  },
+  {
+    "id": 7243,
+    "name": "County Durham",
+    "state_code": "DUR"
+  },
+  {
+    "id": 7244,
+    "name": "Coventry",
+    "state_code": "COV"
+  },
+  {
+    "id": 7245,
+    "name": "Craigavon Borough Council",
+    "state_code": "CGV"
+  },
+  {
+    "id": 7246,
+    "name": "Cumbria",
+    "state_code": "CMA"
+  },
+  {
+    "id": 7247,
+    "name": "Darlington",
+    "state_code": "DAL"
+  },
+  {
+    "id": 7248,
+    "name": "Denbighshire",
+    "state_code": "DEN"
+  },
+  {
+    "id": 7249,
+    "name": "Derbyshire",
+    "state_code": "DBY"
+  },
+  {
+    "id": 7250,
+    "name": "Derry City and Strabane",
+    "state_code": "DRS"
+  },
+  {
+    "id": 7251,
+    "name": "Derry City Council",
+    "state_code": "DRY"
+  },
+  {
+    "id": 7252,
+    "name": "Devon",
+    "state_code": "DEV"
+  },
+  {
+    "id": 7253,
+    "name": "Doncaster",
+    "state_code": "DNC"
+  },
+  {
+    "id": 7254,
+    "name": "Dorset",
+    "state_code": "DOR"
+  },
+  {
+    "id": 7255,
+    "name": "Down District Council",
+    "state_code": "DOW"
+  },
+  {
+    "id": 7256,
+    "name": "Dudley",
+    "state_code": "DUD"
+  },
+  {
+    "id": 7257,
+    "name": "Dumfries and Galloway",
+    "state_code": "DGY"
+  },
+  {
+    "id": 7258,
+    "name": "Dundee",
+    "state_code": "DND"
+  },
+  {
+    "id": 7259,
+    "name": "Dungannon and South Tyrone Borough Council",
+    "state_code": "DGN"
+  },
+  {
+    "id": 7260,
+    "name": "East Ayrshire",
+    "state_code": "EAY"
+  },
+  {
+    "id": 7261,
+    "name": "East Dunbartonshire",
+    "state_code": "EDU"
+  },
+  {
+    "id": 7262,
+    "name": "East Lothian",
+    "state_code": "ELN"
+  },
+  {
+    "id": 7263,
+    "name": "East Renfrewshire",
+    "state_code": "ERW"
+  },
+  {
+    "id": 7264,
+    "name": "East Riding of Yorkshire",
+    "state_code": "ERY"
+  },
+  {
+    "id": 7265,
+    "name": "East Sussex",
+    "state_code": "ESX"
+  },
+  {
+    "id": 7266,
+    "name": "Edinburgh",
+    "state_code": "EDH"
+  },
+  {
+    "id": 7267,
+    "name": "England",
+    "state_code": "ENG"
+  },
+  {
+    "id": 7268,
+    "name": "Essex",
+    "state_code": "ESS"
+  },
+  {
+    "id": 7269,
+    "name": "Falkirk",
+    "state_code": "FAL"
+  },
+  {
+    "id": 7270,
+    "name": "Fermanagh and Omagh",
+    "state_code": "FMO"
+  },
+  {
+    "id": 7271,
+    "name": "Fermanagh District Council",
+    "state_code": "FER"
+  },
+  {
+    "id": 7272,
+    "name": "Fife",
+    "state_code": "FIF"
+  },
+  {
+    "id": 7273,
+    "name": "Flintshire",
+    "state_code": "FLN"
+  },
+  {
+    "id": 7274,
+    "name": "Gateshead",
+    "state_code": "GAT"
+  },
+  {
+    "id": 7275,
+    "name": "Glasgow",
+    "state_code": "GLG"
+  },
+  {
+    "id": 7276,
+    "name": "Gloucestershire",
+    "state_code": "GLS"
+  },
+  {
+    "id": 7277,
+    "name": "Gwynedd",
+    "state_code": "GWN"
+  },
+  {
+    "id": 7278,
+    "name": "Halton",
+    "state_code": "HAL"
+  },
+  {
+    "id": 7279,
+    "name": "Hampshire",
+    "state_code": "HAM"
+  },
+  {
+    "id": 7280,
+    "name": "Hartlepool",
+    "state_code": "HPL"
+  },
+  {
+    "id": 7281,
+    "name": "Herefordshire",
+    "state_code": "HEF"
+  },
+  {
+    "id": 7282,
+    "name": "Hertfordshire",
+    "state_code": "HRT"
+  },
+  {
+    "id": 7283,
+    "name": "Highland",
+    "state_code": "HLD"
+  },
+  {
+    "id": 7284,
+    "name": "Inverclyde",
+    "state_code": "IVC"
+  },
+  {
+    "id": 7285,
+    "name": "Isle of Wight",
+    "state_code": "IOW"
+  },
+  {
+    "id": 7286,
+    "name": "Isles of Scilly",
+    "state_code": "IOS"
+  },
+  {
+    "id": 7287,
+    "name": "Kent",
+    "state_code": "KEN"
+  },
+  {
+    "id": 7288,
+    "name": "Kirklees",
+    "state_code": "KIR"
+  },
+  {
+    "id": 7289,
+    "name": "Knowsley",
+    "state_code": "KWL"
+  },
+  {
+    "id": 7290,
+    "name": "Lancashire",
+    "state_code": "LAN"
+  },
+  {
+    "id": 7291,
+    "name": "Larne Borough Council",
+    "state_code": "LRN"
+  },
+  {
+    "id": 7292,
+    "name": "Leeds",
+    "state_code": "LDS"
+  },
+  {
+    "id": 7293,
+    "name": "Leicestershire",
+    "state_code": "LEC"
+  },
+  {
+    "id": 7294,
+    "name": "Limavady Borough Council",
+    "state_code": "LMV"
+  },
+  {
+    "id": 7295,
+    "name": "Lincolnshire",
+    "state_code": "LIN"
+  },
+  {
+    "id": 7296,
+    "name": "Lisburn and Castlereagh",
+    "state_code": "LBC"
+  },
+  {
+    "id": 7297,
+    "name": "Lisburn City Council",
+    "state_code": "LSB"
+  },
+  {
+    "id": 7298,
+    "name": "Liverpool",
+    "state_code": "LIV"
+  },
+  {
+    "id": 7299,
+    "name": "London Borough of Barking and Dagenham",
+    "state_code": "BDG"
+  },
+  {
+    "id": 7300,
+    "name": "London Borough of Barnet",
+    "state_code": "BNE"
+  },
+  {
+    "id": 7301,
+    "name": "London Borough of Bexley",
+    "state_code": "BEX"
+  },
+  {
+    "id": 7302,
+    "name": "London Borough of Brent",
+    "state_code": "BEN"
+  },
+  {
+    "id": 7303,
+    "name": "London Borough of Bromley",
+    "state_code": "BRY"
+  },
+  {
+    "id": 7304,
+    "name": "London Borough of Camden",
+    "state_code": "CMD"
+  },
+  {
+    "id": 7305,
+    "name": "London Borough of Croydon",
+    "state_code": "CRY"
+  },
+  {
+    "id": 7306,
+    "name": "London Borough of Ealing",
+    "state_code": "EAL"
+  },
+  {
+    "id": 7307,
+    "name": "London Borough of Enfield",
+    "state_code": "ENF"
+  },
+  {
+    "id": 7308,
+    "name": "London Borough of Hackney",
+    "state_code": "HCK"
+  },
+  {
+    "id": 7309,
+    "name": "London Borough of Hammersmith and Fulham",
+    "state_code": "HMF"
+  },
+  {
+    "id": 7310,
+    "name": "London Borough of Haringey",
+    "state_code": "HRY"
+  },
+  {
+    "id": 7311,
+    "name": "London Borough of Harrow",
+    "state_code": "HRW"
+  },
+  {
+    "id": 7312,
+    "name": "London Borough of Havering",
+    "state_code": "HAV"
+  },
+  {
+    "id": 7313,
+    "name": "London Borough of Hillingdon",
+    "state_code": "HIL"
+  },
+  {
+    "id": 7314,
+    "name": "London Borough of Hounslow",
+    "state_code": "HNS"
+  },
+  {
+    "id": 7315,
+    "name": "London Borough of Islington",
+    "state_code": "ISL"
+  },
+  {
+    "id": 7316,
+    "name": "London Borough of Lambeth",
+    "state_code": "LBH"
+  },
+  {
+    "id": 7317,
+    "name": "London Borough of Lewisham",
+    "state_code": "LEW"
+  },
+  {
+    "id": 7318,
+    "name": "London Borough of Merton",
+    "state_code": "MRT"
+  },
+  {
+    "id": 7319,
+    "name": "London Borough of Newham",
+    "state_code": "NWM"
+  },
+  {
+    "id": 7320,
+    "name": "London Borough of Redbridge",
+    "state_code": "RDB"
+  },
+  {
+    "id": 7321,
+    "name": "London Borough of Richmond upon Thames",
+    "state_code": "RIC"
+  },
+  {
+    "id": 7322,
+    "name": "London Borough of Southwark",
+    "state_code": "SWK"
+  },
+  {
+    "id": 7323,
+    "name": "London Borough of Sutton",
+    "state_code": "STN"
+  },
+  {
+    "id": 7324,
+    "name": "London Borough of Tower Hamlets",
+    "state_code": "TWH"
+  },
+  {
+    "id": 7325,
+    "name": "London Borough of Waltham Forest",
+    "state_code": "WFT"
+  },
+  {
+    "id": 7326,
+    "name": "London Borough of Wandsworth",
+    "state_code": "WND"
+  },
+  {
+    "id": 7327,
+    "name": "Magherafelt District Council",
+    "state_code": "MFT"
+  },
+  {
+    "id": 7328,
+    "name": "Manchester",
+    "state_code": "MAN"
+  },
+  {
+    "id": 7329,
+    "name": "Medway",
+    "state_code": "MDW"
+  },
+  {
+    "id": 7330,
+    "name": "Merthyr Tydfil County Borough",
+    "state_code": "MTY"
+  },
+  {
+    "id": 7331,
+    "name": "Metropolitan Borough of Wigan",
+    "state_code": "WGN"
+  },
+  {
+    "id": 7332,
+    "name": "Mid and East Antrim",
+    "state_code": "MEA"
+  },
+  {
+    "id": 7333,
+    "name": "Mid Ulster",
+    "state_code": "MUL"
+  },
+  {
+    "id": 7334,
+    "name": "Middlesbrough",
+    "state_code": "MDB"
+  },
+  {
+    "id": 7335,
+    "name": "Midlothian",
+    "state_code": "MLN"
+  },
+  {
+    "id": 7336,
+    "name": "Milton Keynes",
+    "state_code": "MIK"
+  },
+  {
+    "id": 7337,
+    "name": "Monmouthshire",
+    "state_code": "MON"
+  },
+  {
+    "id": 7338,
+    "name": "Moray",
+    "state_code": "MRY"
+  },
+  {
+    "id": 7339,
+    "name": "Moyle District Council",
+    "state_code": "MYL"
+  },
+  {
+    "id": 7340,
+    "name": "Neath Port Talbot County Borough",
+    "state_code": "NTL"
+  },
+  {
+    "id": 7341,
+    "name": "Newcastle upon Tyne",
+    "state_code": "NET"
+  },
+  {
+    "id": 7342,
+    "name": "Newport",
+    "state_code": "NWP"
+  },
+  {
+    "id": 7343,
+    "name": "Newry and Mourne District Council",
+    "state_code": "NYM"
+  },
+  {
+    "id": 7344,
+    "name": "Newry, Mourne and Down",
+    "state_code": "NMD"
+  },
+  {
+    "id": 7345,
+    "name": "Newtownabbey Borough Council",
+    "state_code": "NTA"
+  },
+  {
+    "id": 7346,
+    "name": "Norfolk",
+    "state_code": "NFK"
+  },
+  {
+    "id": 7347,
+    "name": "North Ayrshire",
+    "state_code": "NAY"
+  },
+  {
+    "id": 7348,
+    "name": "North Down Borough Council",
+    "state_code": "NDN"
+  },
+  {
+    "id": 7349,
+    "name": "North East Lincolnshire",
+    "state_code": "NEL"
+  },
+  {
+    "id": 7350,
+    "name": "North Lanarkshire",
+    "state_code": "NLK"
+  },
+  {
+    "id": 7351,
+    "name": "North Lincolnshire",
+    "state_code": "NLN"
+  },
+  {
+    "id": 7352,
+    "name": "North Somerset",
+    "state_code": "NSM"
+  },
+  {
+    "id": 7353,
+    "name": "North Tyneside",
+    "state_code": "NTY"
+  },
+  {
+    "id": 7354,
+    "name": "North Yorkshire",
+    "state_code": "NYK"
+  },
+  {
+    "id": 7355,
+    "name": "Northamptonshire",
+    "state_code": "NTH"
+  },
+  {
+    "id": 7356,
+    "name": "Northern Ireland",
+    "state_code": "NIR"
+  },
+  {
+    "id": 7357,
+    "name": "Northumberland",
+    "state_code": "NBL"
+  },
+  {
+    "id": 7358,
+    "name": "Nottinghamshire",
+    "state_code": "NTT"
+  },
+  {
+    "id": 7359,
+    "name": "Oldham",
+    "state_code": "OLD"
+  },
+  {
+    "id": 7360,
+    "name": "Omagh District Council",
+    "state_code": "OMH"
+  },
+  {
+    "id": 7361,
+    "name": "Orkney Islands",
+    "state_code": "ORK"
+  },
+  {
+    "id": 7362,
+    "name": "Outer Hebrides",
+    "state_code": "ELS"
+  },
+  {
+    "id": 7363,
+    "name": "Oxfordshire",
+    "state_code": "OXF"
+  },
+  {
+    "id": 7364,
+    "name": "Pembrokeshire",
+    "state_code": "PEM"
+  },
+  {
+    "id": 7365,
+    "name": "Perth and Kinross",
+    "state_code": "PKN"
+  },
+  {
+    "id": 7366,
+    "name": "Poole",
+    "state_code": "POL"
+  },
+  {
+    "id": 7367,
+    "name": "Powys",
+    "state_code": "POW"
+  },
+  {
+    "id": 7368,
+    "name": "Reading",
+    "state_code": "RDG"
+  },
+  {
+    "id": 7369,
+    "name": "Redcar and Cleveland",
+    "state_code": "RCC"
+  },
+  {
+    "id": 7370,
+    "name": "Renfrewshire",
+    "state_code": "RFW"
+  },
+  {
+    "id": 7371,
+    "name": "Rhondda Cynon Taf",
+    "state_code": "RCT"
+  },
+  {
+    "id": 7372,
+    "name": "Rochdale",
+    "state_code": "RCH"
+  },
+  {
+    "id": 7373,
+    "name": "Rotherham",
+    "state_code": "ROT"
+  },
+  {
+    "id": 7374,
+    "name": "Royal Borough of Greenwich",
+    "state_code": "GRE"
+  },
+  {
+    "id": 7375,
+    "name": "Royal Borough of Kensington and Chelsea",
+    "state_code": "KEC"
+  },
+  {
+    "id": 7376,
+    "name": "Royal Borough of Kingston upon Thames",
+    "state_code": "KTT"
+  },
+  {
+    "id": 7377,
+    "name": "Rutland",
+    "state_code": "RUT"
+  },
+  {
+    "id": 7378,
+    "name": "Saint Helena",
+    "state_code": "SH-HL"
+  },
+  {
+    "id": 7379,
+    "name": "Salford",
+    "state_code": "SLF"
+  },
+  {
+    "id": 7380,
+    "name": "Sandwell",
+    "state_code": "SAW"
+  },
+  {
+    "id": 7381,
+    "name": "Scotland",
+    "state_code": "SCT"
+  },
+  {
+    "id": 7382,
+    "name": "Scottish Borders",
+    "state_code": "SCB"
+  },
+  {
+    "id": 7383,
+    "name": "Sefton",
+    "state_code": "SFT"
+  },
+  {
+    "id": 7384,
+    "name": "Sheffield",
+    "state_code": "SHF"
+  },
+  {
+    "id": 7385,
+    "name": "Shetland Islands",
+    "state_code": "ZET"
+  },
+  {
+    "id": 7386,
+    "name": "Shropshire",
+    "state_code": "SHR"
+  },
+  {
+    "id": 7387,
+    "name": "Slough",
+    "state_code": "SLG"
+  },
+  {
+    "id": 7388,
+    "name": "Solihull",
+    "state_code": "SOL"
+  },
+  {
+    "id": 7389,
+    "name": "Somerset",
+    "state_code": "SOM"
+  },
+  {
+    "id": 7390,
+    "name": "South Ayrshire",
+    "state_code": "SAY"
+  },
+  {
+    "id": 7391,
+    "name": "South Gloucestershire",
+    "state_code": "SGC"
+  },
+  {
+    "id": 7392,
+    "name": "South Lanarkshire",
+    "state_code": "SLK"
+  },
+  {
+    "id": 7393,
+    "name": "South Tyneside",
+    "state_code": "STY"
+  },
+  {
+    "id": 7394,
+    "name": "Southend-on-Sea",
+    "state_code": "SOS"
+  },
+  {
+    "id": 7395,
+    "name": "St Helens",
+    "state_code": "SHN"
+  },
+  {
+    "id": 7396,
+    "name": "Staffordshire",
+    "state_code": "STS"
+  },
+  {
+    "id": 7397,
+    "name": "Stirling",
+    "state_code": "STG"
+  },
+  {
+    "id": 7398,
+    "name": "Stockport",
+    "state_code": "SKP"
+  },
+  {
+    "id": 7399,
+    "name": "Stockton-on-Tees",
+    "state_code": "STT"
+  },
+  {
+    "id": 7400,
+    "name": "Strabane District Council",
+    "state_code": "STB"
+  },
+  {
+    "id": 7401,
+    "name": "Suffolk",
+    "state_code": "SFK"
+  },
+  {
+    "id": 7402,
+    "name": "Surrey",
+    "state_code": "SRY"
+  },
+  {
+    "id": 7403,
+    "name": "Swindon",
+    "state_code": "SWD"
+  },
+  {
+    "id": 7404,
+    "name": "Tameside",
+    "state_code": "TAM"
+  },
+  {
+    "id": 7405,
+    "name": "Telford and Wrekin",
+    "state_code": "TFW"
+  },
+  {
+    "id": 7406,
+    "name": "Thurrock",
+    "state_code": "THR"
+  },
+  {
+    "id": 7407,
+    "name": "Torbay",
+    "state_code": "TOB"
+  },
+  {
+    "id": 7408,
+    "name": "Torfaen",
+    "state_code": "TOF"
+  },
+  {
+    "id": 7409,
+    "name": "Trafford",
+    "state_code": "TRF"
+  },
+  {
+    "id": 7410,
+    "name": "United Kingdom",
+    "state_code": "UKM"
+  },
+  {
+    "id": 7411,
+    "name": "Vale of Glamorgan",
+    "state_code": "VGL"
+  },
+  {
+    "id": 7412,
+    "name": "Wakefield",
+    "state_code": "WKF"
+  },
+  {
+    "id": 7413,
+    "name": "Wales",
+    "state_code": "WLS"
+  },
+  {
+    "id": 7414,
+    "name": "Walsall",
+    "state_code": "WLL"
+  },
+  {
+    "id": 7415,
+    "name": "Warrington",
+    "state_code": "WRT"
+  },
+  {
+    "id": 7416,
+    "name": "Warwickshire",
+    "state_code": "WAR"
+  },
+  {
+    "id": 7417,
+    "name": "West Berkshire",
+    "state_code": "WBK"
+  },
+  {
+    "id": 7418,
+    "name": "West Dunbartonshire",
+    "state_code": "WDU"
+  },
+  {
+    "id": 7419,
+    "name": "West Lothian",
+    "state_code": "WLN"
+  },
+  {
+    "id": 7420,
+    "name": "West Sussex",
+    "state_code": "WSX"
+  },
+  {
+    "id": 7421,
+    "name": "Wiltshire",
+    "state_code": "WIL"
+  },
+  {
+    "id": 7422,
+    "name": "Windsor and Maidenhead",
+    "state_code": "WNM"
+  },
+  {
+    "id": 7423,
+    "name": "Wirral",
+    "state_code": "WRL"
+  },
+  {
+    "id": 7424,
+    "name": "Wokingham",
+    "state_code": "WOK"
+  },
+  {
+    "id": 7425,
+    "name": "Worcestershire",
+    "state_code": "WOR"
+  },
+  {
+    "id": 7426,
+    "name": "Wrexham County Borough",
+    "state_code": "WRX"
+  }
+]

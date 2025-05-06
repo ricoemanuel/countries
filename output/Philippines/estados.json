@@ -1,0 +1,492 @@
+[
+  {
+    "id": 5724,
+    "name": "Abra",
+    "state_code": "ABR"
+  },
+  {
+    "id": 5725,
+    "name": "Agusan del Norte",
+    "state_code": "AGN"
+  },
+  {
+    "id": 5726,
+    "name": "Agusan del Sur",
+    "state_code": "AGS"
+  },
+  {
+    "id": 5727,
+    "name": "Aklan",
+    "state_code": "AKL"
+  },
+  {
+    "id": 5728,
+    "name": "Albay",
+    "state_code": "ALB"
+  },
+  {
+    "id": 5729,
+    "name": "Antique",
+    "state_code": "ANT"
+  },
+  {
+    "id": 5730,
+    "name": "Apayao",
+    "state_code": "APA"
+  },
+  {
+    "id": 5731,
+    "name": "Aurora",
+    "state_code": "AUR"
+  },
+  {
+    "id": 5732,
+    "name": "Autonomous Region in Muslim Mindanao",
+    "state_code": "14"
+  },
+  {
+    "id": 5733,
+    "name": "Basilan",
+    "state_code": "BAS"
+  },
+  {
+    "id": 5734,
+    "name": "Bataan",
+    "state_code": "BAN"
+  },
+  {
+    "id": 5735,
+    "name": "Batanes",
+    "state_code": "BTN"
+  },
+  {
+    "id": 5736,
+    "name": "Batangas",
+    "state_code": "BTG"
+  },
+  {
+    "id": 5737,
+    "name": "Benguet",
+    "state_code": "BEN"
+  },
+  {
+    "id": 5738,
+    "name": "Bicol",
+    "state_code": "05"
+  },
+  {
+    "id": 5739,
+    "name": "Biliran",
+    "state_code": "BIL"
+  },
+  {
+    "id": 5740,
+    "name": "Bohol",
+    "state_code": "BOH"
+  },
+  {
+    "id": 5741,
+    "name": "Bukidnon",
+    "state_code": "BUK"
+  },
+  {
+    "id": 5742,
+    "name": "Bulacan",
+    "state_code": "BUL"
+  },
+  {
+    "id": 5743,
+    "name": "Cagayan",
+    "state_code": "CAG"
+  },
+  {
+    "id": 5744,
+    "name": "Cagayan Valley",
+    "state_code": "02"
+  },
+  {
+    "id": 5745,
+    "name": "Calabarzon",
+    "state_code": "40"
+  },
+  {
+    "id": 5746,
+    "name": "Camarines Norte",
+    "state_code": "CAN"
+  },
+  {
+    "id": 5747,
+    "name": "Camarines Sur",
+    "state_code": "CAS"
+  },
+  {
+    "id": 5748,
+    "name": "Camiguin",
+    "state_code": "CAM"
+  },
+  {
+    "id": 5749,
+    "name": "Capiz",
+    "state_code": "CAP"
+  },
+  {
+    "id": 5750,
+    "name": "Caraga",
+    "state_code": "13"
+  },
+  {
+    "id": 5751,
+    "name": "Catanduanes",
+    "state_code": "CAT"
+  },
+  {
+    "id": 5752,
+    "name": "Cavite",
+    "state_code": "CAV"
+  },
+  {
+    "id": 5753,
+    "name": "Cebu",
+    "state_code": "CEB"
+  },
+  {
+    "id": 5754,
+    "name": "Central Luzon",
+    "state_code": "03"
+  },
+  {
+    "id": 5755,
+    "name": "Central Visayas",
+    "state_code": "07"
+  },
+  {
+    "id": 5756,
+    "name": "Compostela Valley",
+    "state_code": "COM"
+  },
+  {
+    "id": 5757,
+    "name": "Cordillera Administrative",
+    "state_code": "15"
+  },
+  {
+    "id": 5758,
+    "name": "Cotabato",
+    "state_code": "NCO"
+  },
+  {
+    "id": 5759,
+    "name": "Davao",
+    "state_code": "11"
+  },
+  {
+    "id": 5760,
+    "name": "Davao del Norte",
+    "state_code": "DAV"
+  },
+  {
+    "id": 5761,
+    "name": "Davao del Sur",
+    "state_code": "DAS"
+  },
+  {
+    "id": 5762,
+    "name": "Davao Occidental",
+    "state_code": "DVO"
+  },
+  {
+    "id": 5763,
+    "name": "Davao Oriental",
+    "state_code": "DAO"
+  },
+  {
+    "id": 5764,
+    "name": "Dinagat Islands",
+    "state_code": "DIN"
+  },
+  {
+    "id": 5765,
+    "name": "Eastern Samar",
+    "state_code": "EAS"
+  },
+  {
+    "id": 5766,
+    "name": "Eastern Visayas",
+    "state_code": "08"
+  },
+  {
+    "id": 5767,
+    "name": "Guimaras",
+    "state_code": "GUI"
+  },
+  {
+    "id": 5768,
+    "name": "Ifugao",
+    "state_code": "IFU"
+  },
+  {
+    "id": 5769,
+    "name": "Ilocos",
+    "state_code": "01"
+  },
+  {
+    "id": 5770,
+    "name": "Ilocos Norte",
+    "state_code": "ILN"
+  },
+  {
+    "id": 5771,
+    "name": "Ilocos Sur",
+    "state_code": "ILS"
+  },
+  {
+    "id": 5772,
+    "name": "Iloilo",
+    "state_code": "ILI"
+  },
+  {
+    "id": 5773,
+    "name": "Isabela",
+    "state_code": "ISA"
+  },
+  {
+    "id": 5774,
+    "name": "Kalinga",
+    "state_code": "KAL"
+  },
+  {
+    "id": 5775,
+    "name": "La Union",
+    "state_code": "LUN"
+  },
+  {
+    "id": 5776,
+    "name": "Laguna",
+    "state_code": "LAG"
+  },
+  {
+    "id": 5777,
+    "name": "Lanao del Norte",
+    "state_code": "LAN"
+  },
+  {
+    "id": 5778,
+    "name": "Lanao del Sur",
+    "state_code": "LAS"
+  },
+  {
+    "id": 5779,
+    "name": "Leyte",
+    "state_code": "LEY"
+  },
+  {
+    "id": 5780,
+    "name": "Maguindanao",
+    "state_code": "MAG"
+  },
+  {
+    "id": 5781,
+    "name": "Marinduque",
+    "state_code": "MAD"
+  },
+  {
+    "id": 5782,
+    "name": "Masbate",
+    "state_code": "MAS"
+  },
+  {
+    "id": 5783,
+    "name": "Metro Manila",
+    "state_code": "NCR"
+  },
+  {
+    "id": 5784,
+    "name": "Mimaropa",
+    "state_code": "41"
+  },
+  {
+    "id": 5785,
+    "name": "Misamis Occidental",
+    "state_code": "MSC"
+  },
+  {
+    "id": 5786,
+    "name": "Misamis Oriental",
+    "state_code": "MSR"
+  },
+  {
+    "id": 5787,
+    "name": "Mountain Province",
+    "state_code": "MOU"
+  },
+  {
+    "id": 5788,
+    "name": "Negros Occidental",
+    "state_code": "NEC"
+  },
+  {
+    "id": 5789,
+    "name": "Negros Oriental",
+    "state_code": "NER"
+  },
+  {
+    "id": 5790,
+    "name": "Northern Mindanao",
+    "state_code": "10"
+  },
+  {
+    "id": 5791,
+    "name": "Northern Samar",
+    "state_code": "NSA"
+  },
+  {
+    "id": 5792,
+    "name": "Nueva Ecija",
+    "state_code": "NUE"
+  },
+  {
+    "id": 5793,
+    "name": "Nueva Vizcaya",
+    "state_code": "NUV"
+  },
+  {
+    "id": 5794,
+    "name": "Occidental Mindoro",
+    "state_code": "MDC"
+  },
+  {
+    "id": 5795,
+    "name": "Oriental Mindoro",
+    "state_code": "MDR"
+  },
+  {
+    "id": 5796,
+    "name": "Palawan",
+    "state_code": "PLW"
+  },
+  {
+    "id": 5797,
+    "name": "Pampanga",
+    "state_code": "PAM"
+  },
+  {
+    "id": 5798,
+    "name": "Pangasinan",
+    "state_code": "PAN"
+  },
+  {
+    "id": 5799,
+    "name": "Quezon",
+    "state_code": "QUE"
+  },
+  {
+    "id": 5800,
+    "name": "Quirino",
+    "state_code": "QUI"
+  },
+  {
+    "id": 5801,
+    "name": "Rizal",
+    "state_code": "RIZ"
+  },
+  {
+    "id": 5802,
+    "name": "Romblon",
+    "state_code": "ROM"
+  },
+  {
+    "id": 5803,
+    "name": "Sarangani",
+    "state_code": "SAR"
+  },
+  {
+    "id": 5804,
+    "name": "Siquijor",
+    "state_code": "SIG"
+  },
+  {
+    "id": 5805,
+    "name": "Soccsksargen",
+    "state_code": "12"
+  },
+  {
+    "id": 5806,
+    "name": "Sorsogon",
+    "state_code": "SOR"
+  },
+  {
+    "id": 5807,
+    "name": "South Cotabato",
+    "state_code": "SCO"
+  },
+  {
+    "id": 5808,
+    "name": "Southern Leyte",
+    "state_code": "SLE"
+  },
+  {
+    "id": 5809,
+    "name": "Sultan Kudarat",
+    "state_code": "SUK"
+  },
+  {
+    "id": 5810,
+    "name": "Sulu",
+    "state_code": "SLU"
+  },
+  {
+    "id": 5811,
+    "name": "Surigao del Norte",
+    "state_code": "SUN"
+  },
+  {
+    "id": 5812,
+    "name": "Surigao del Sur",
+    "state_code": "SUR"
+  },
+  {
+    "id": 5813,
+    "name": "Tarlac",
+    "state_code": "TAR"
+  },
+  {
+    "id": 5814,
+    "name": "Tawi-Tawi",
+    "state_code": "TAW"
+  },
+  {
+    "id": 5815,
+    "name": "Western Samar",
+    "state_code": "WSA"
+  },
+  {
+    "id": 5816,
+    "name": "Western Visayas",
+    "state_code": "06"
+  },
+  {
+    "id": 5817,
+    "name": "Zambales",
+    "state_code": "ZMB"
+  },
+  {
+    "id": 5818,
+    "name": "Zamboanga del Norte",
+    "state_code": "ZAN"
+  },
+  {
+    "id": 5819,
+    "name": "Zamboanga del Sur",
+    "state_code": "ZAS"
+  },
+  {
+    "id": 5820,
+    "name": "Zamboanga Peninsula",
+    "state_code": "09"
+  },
+  {
+    "id": 5821,
+    "name": "Zamboanga Sibugay",
+    "state_code": "ZSI"
+  }
+]

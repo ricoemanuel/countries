@@ -1,0 +1,452 @@
+[
+  {
+    "id": 3459,
+    "name": "Benešov",
+    "state_code": "201"
+  },
+  {
+    "id": 3460,
+    "name": "Beroun",
+    "state_code": "202"
+  },
+  {
+    "id": 3461,
+    "name": "Blansko",
+    "state_code": "641"
+  },
+  {
+    "id": 3462,
+    "name": "Břeclav",
+    "state_code": "644"
+  },
+  {
+    "id": 3463,
+    "name": "Brno-město",
+    "state_code": "642"
+  },
+  {
+    "id": 3464,
+    "name": "Brno-venkov",
+    "state_code": "643"
+  },
+  {
+    "id": 3465,
+    "name": "Bruntál",
+    "state_code": "801"
+  },
+  {
+    "id": 3466,
+    "name": "Česká Lípa",
+    "state_code": "511"
+  },
+  {
+    "id": 3467,
+    "name": "České Budějovice",
+    "state_code": "311"
+  },
+  {
+    "id": 3468,
+    "name": "Český Krumlov",
+    "state_code": "312"
+  },
+  {
+    "id": 3469,
+    "name": "Cheb",
+    "state_code": "411"
+  },
+  {
+    "id": 3470,
+    "name": "Chomutov",
+    "state_code": "422"
+  },
+  {
+    "id": 3471,
+    "name": "Chrudim",
+    "state_code": "531"
+  },
+  {
+    "id": 3472,
+    "name": "Děčín",
+    "state_code": "421"
+  },
+  {
+    "id": 3473,
+    "name": "Domažlice",
+    "state_code": "321"
+  },
+  {
+    "id": 3474,
+    "name": "Frýdek-Místek",
+    "state_code": "802"
+  },
+  {
+    "id": 3475,
+    "name": "Havlíčkův Brod",
+    "state_code": "631"
+  },
+  {
+    "id": 3476,
+    "name": "Hodonín",
+    "state_code": "645"
+  },
+  {
+    "id": 3477,
+    "name": "Hradec Králové",
+    "state_code": "521"
+  },
+  {
+    "id": 3478,
+    "name": "Jablonec nad Nisou",
+    "state_code": "512"
+  },
+  {
+    "id": 3479,
+    "name": "Jeseník",
+    "state_code": "711"
+  },
+  {
+    "id": 3480,
+    "name": "Jičín",
+    "state_code": "522"
+  },
+  {
+    "id": 3481,
+    "name": "Jihlava",
+    "state_code": "632"
+  },
+  {
+    "id": 3482,
+    "name": "Jihočeský kraj",
+    "state_code": "31"
+  },
+  {
+    "id": 3483,
+    "name": "Jihomoravský kraj",
+    "state_code": "64"
+  },
+  {
+    "id": 3484,
+    "name": "Jindřichův Hradec",
+    "state_code": "313"
+  },
+  {
+    "id": 3485,
+    "name": "Karlovarský kraj",
+    "state_code": "41"
+  },
+  {
+    "id": 3486,
+    "name": "Karlovy Vary",
+    "state_code": "412"
+  },
+  {
+    "id": 3487,
+    "name": "Karviná",
+    "state_code": "803"
+  },
+  {
+    "id": 3488,
+    "name": "Kladno",
+    "state_code": "203"
+  },
+  {
+    "id": 3489,
+    "name": "Klatovy",
+    "state_code": "322"
+  },
+  {
+    "id": 3490,
+    "name": "Kolín",
+    "state_code": "204"
+  },
+  {
+    "id": 3491,
+    "name": "Kraj Vysočina",
+    "state_code": "63"
+  },
+  {
+    "id": 3492,
+    "name": "Královéhradecký kraj",
+    "state_code": "52"
+  },
+  {
+    "id": 3493,
+    "name": "Kroměříž",
+    "state_code": "721"
+  },
+  {
+    "id": 3494,
+    "name": "Kutná Hora",
+    "state_code": "205"
+  },
+  {
+    "id": 3495,
+    "name": "Liberec",
+    "state_code": "513"
+  },
+  {
+    "id": 3496,
+    "name": "Liberecký kraj",
+    "state_code": "51"
+  },
+  {
+    "id": 3497,
+    "name": "Litoměřice",
+    "state_code": "423"
+  },
+  {
+    "id": 3498,
+    "name": "Louny",
+    "state_code": "424"
+  },
+  {
+    "id": 3499,
+    "name": "Mělník",
+    "state_code": "206"
+  },
+  {
+    "id": 3500,
+    "name": "Mladá Boleslav",
+    "state_code": "207"
+  },
+  {
+    "id": 3501,
+    "name": "Moravskoslezský kraj",
+    "state_code": "80"
+  },
+  {
+    "id": 3502,
+    "name": "Most",
+    "state_code": "425"
+  },
+  {
+    "id": 3503,
+    "name": "Náchod",
+    "state_code": "523"
+  },
+  {
+    "id": 3504,
+    "name": "Nový Jičín",
+    "state_code": "804"
+  },
+  {
+    "id": 3505,
+    "name": "Nymburk",
+    "state_code": "208"
+  },
+  {
+    "id": 3506,
+    "name": "Olomouc",
+    "state_code": "712"
+  },
+  {
+    "id": 3507,
+    "name": "Olomoucký kraj",
+    "state_code": "71"
+  },
+  {
+    "id": 3508,
+    "name": "Opava",
+    "state_code": "805"
+  },
+  {
+    "id": 3509,
+    "name": "Ostrava-město",
+    "state_code": "806"
+  },
+  {
+    "id": 3510,
+    "name": "Pardubice",
+    "state_code": "532"
+  },
+  {
+    "id": 3511,
+    "name": "Pardubický kraj",
+    "state_code": "53"
+  },
+  {
+    "id": 3512,
+    "name": "Pelhřimov",
+    "state_code": "633"
+  },
+  {
+    "id": 3513,
+    "name": "Písek",
+    "state_code": "314"
+  },
+  {
+    "id": 3514,
+    "name": "Plzeň-jih",
+    "state_code": "324"
+  },
+  {
+    "id": 3515,
+    "name": "Plzeň-město",
+    "state_code": "323"
+  },
+  {
+    "id": 3516,
+    "name": "Plzeň-sever",
+    "state_code": "325"
+  },
+  {
+    "id": 3517,
+    "name": "Plzeňský kraj",
+    "state_code": "32"
+  },
+  {
+    "id": 3518,
+    "name": "Prachatice",
+    "state_code": "315"
+  },
+  {
+    "id": 3519,
+    "name": "Praha-východ",
+    "state_code": "209"
+  },
+  {
+    "id": 3520,
+    "name": "Praha-západ",
+    "state_code": "20A"
+  },
+  {
+    "id": 3521,
+    "name": "Praha, Hlavní město",
+    "state_code": "10"
+  },
+  {
+    "id": 3522,
+    "name": "Přerov",
+    "state_code": "714"
+  },
+  {
+    "id": 3523,
+    "name": "Příbram",
+    "state_code": "20B"
+  },
+  {
+    "id": 3524,
+    "name": "Prostějov",
+    "state_code": "713"
+  },
+  {
+    "id": 3525,
+    "name": "Rakovník",
+    "state_code": "20C"
+  },
+  {
+    "id": 3526,
+    "name": "Rokycany",
+    "state_code": "326"
+  },
+  {
+    "id": 3527,
+    "name": "Rychnov nad Kněžnou",
+    "state_code": "524"
+  },
+  {
+    "id": 3528,
+    "name": "Semily",
+    "state_code": "514"
+  },
+  {
+    "id": 3529,
+    "name": "Sokolov",
+    "state_code": "413"
+  },
+  {
+    "id": 3530,
+    "name": "Strakonice",
+    "state_code": "316"
+  },
+  {
+    "id": 3531,
+    "name": "Středočeský kraj",
+    "state_code": "20"
+  },
+  {
+    "id": 3532,
+    "name": "Šumperk",
+    "state_code": "715"
+  },
+  {
+    "id": 3533,
+    "name": "Svitavy",
+    "state_code": "533"
+  },
+  {
+    "id": 3534,
+    "name": "Tábor",
+    "state_code": "317"
+  },
+  {
+    "id": 3535,
+    "name": "Tachov",
+    "state_code": "327"
+  },
+  {
+    "id": 3536,
+    "name": "Teplice",
+    "state_code": "426"
+  },
+  {
+    "id": 3537,
+    "name": "Třebíč",
+    "state_code": "634"
+  },
+  {
+    "id": 3538,
+    "name": "Trutnov",
+    "state_code": "525"
+  },
+  {
+    "id": 3539,
+    "name": "Uherské Hradiště",
+    "state_code": "722"
+  },
+  {
+    "id": 3540,
+    "name": "Ústecký kraj",
+    "state_code": "42"
+  },
+  {
+    "id": 3541,
+    "name": "Ústí nad Labem",
+    "state_code": "427"
+  },
+  {
+    "id": 3542,
+    "name": "Ústí nad Orlicí",
+    "state_code": "534"
+  },
+  {
+    "id": 3543,
+    "name": "Vsetín",
+    "state_code": "723"
+  },
+  {
+    "id": 3544,
+    "name": "Vyškov",
+    "state_code": "646"
+  },
+  {
+    "id": 3545,
+    "name": "Žďár nad Sázavou",
+    "state_code": "635"
+  },
+  {
+    "id": 3546,
+    "name": "Zlín",
+    "state_code": "724"
+  },
+  {
+    "id": 3547,
+    "name": "Zlínský kraj",
+    "state_code": "72"
+  },
+  {
+    "id": 3548,
+    "name": "Znojmo",
+    "state_code": "647"
+  }
+]

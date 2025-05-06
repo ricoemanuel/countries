@@ -1,0 +1,407 @@
+[
+  {
+    "id": 6926,
+    "name": "Adana",
+    "state_code": "01"
+  },
+  {
+    "id": 6927,
+    "name": "Adıyaman",
+    "state_code": "02"
+  },
+  {
+    "id": 6928,
+    "name": "Afyonkarahisar",
+    "state_code": "03"
+  },
+  {
+    "id": 6929,
+    "name": "Ağrı",
+    "state_code": "04"
+  },
+  {
+    "id": 6930,
+    "name": "Aksaray",
+    "state_code": "68"
+  },
+  {
+    "id": 6931,
+    "name": "Amasya",
+    "state_code": "05"
+  },
+  {
+    "id": 6932,
+    "name": "Ankara",
+    "state_code": "06"
+  },
+  {
+    "id": 6933,
+    "name": "Antalya",
+    "state_code": "07"
+  },
+  {
+    "id": 6934,
+    "name": "Ardahan",
+    "state_code": "75"
+  },
+  {
+    "id": 6935,
+    "name": "Artvin",
+    "state_code": "08"
+  },
+  {
+    "id": 6936,
+    "name": "Aydın",
+    "state_code": "09"
+  },
+  {
+    "id": 6937,
+    "name": "Balıkesir",
+    "state_code": "10"
+  },
+  {
+    "id": 6938,
+    "name": "Bartın",
+    "state_code": "74"
+  },
+  {
+    "id": 6939,
+    "name": "Batman",
+    "state_code": "72"
+  },
+  {
+    "id": 6940,
+    "name": "Bayburt",
+    "state_code": "69"
+  },
+  {
+    "id": 6941,
+    "name": "Bilecik",
+    "state_code": "11"
+  },
+  {
+    "id": 6942,
+    "name": "Bingöl",
+    "state_code": "12"
+  },
+  {
+    "id": 6943,
+    "name": "Bitlis",
+    "state_code": "13"
+  },
+  {
+    "id": 6944,
+    "name": "Bolu",
+    "state_code": "14"
+  },
+  {
+    "id": 6945,
+    "name": "Burdur",
+    "state_code": "15"
+  },
+  {
+    "id": 6946,
+    "name": "Bursa",
+    "state_code": "16"
+  },
+  {
+    "id": 6947,
+    "name": "Çanakkale",
+    "state_code": "17"
+  },
+  {
+    "id": 6948,
+    "name": "Çankırı",
+    "state_code": "18"
+  },
+  {
+    "id": 6949,
+    "name": "Çorum",
+    "state_code": "19"
+  },
+  {
+    "id": 6950,
+    "name": "Denizli",
+    "state_code": "20"
+  },
+  {
+    "id": 6951,
+    "name": "Diyarbakır",
+    "state_code": "21"
+  },
+  {
+    "id": 6952,
+    "name": "Düzce",
+    "state_code": "81"
+  },
+  {
+    "id": 6953,
+    "name": "Edirne",
+    "state_code": "22"
+  },
+  {
+    "id": 6954,
+    "name": "Elazığ",
+    "state_code": "23"
+  },
+  {
+    "id": 6955,
+    "name": "Erzincan",
+    "state_code": "24"
+  },
+  {
+    "id": 6956,
+    "name": "Erzurum",
+    "state_code": "25"
+  },
+  {
+    "id": 6957,
+    "name": "Eskişehir",
+    "state_code": "26"
+  },
+  {
+    "id": 6958,
+    "name": "Gaziantep",
+    "state_code": "27"
+  },
+  {
+    "id": 6959,
+    "name": "Giresun",
+    "state_code": "28"
+  },
+  {
+    "id": 6960,
+    "name": "Gümüşhane",
+    "state_code": "29"
+  },
+  {
+    "id": 6961,
+    "name": "Hakkâri",
+    "state_code": "30"
+  },
+  {
+    "id": 6962,
+    "name": "Hatay",
+    "state_code": "31"
+  },
+  {
+    "id": 6963,
+    "name": "Iğdır",
+    "state_code": "76"
+  },
+  {
+    "id": 6964,
+    "name": "Isparta",
+    "state_code": "32"
+  },
+  {
+    "id": 6965,
+    "name": "İstanbul",
+    "state_code": "34"
+  },
+  {
+    "id": 6966,
+    "name": "İzmir",
+    "state_code": "35"
+  },
+  {
+    "id": 6967,
+    "name": "Kahramanmaraş",
+    "state_code": "46"
+  },
+  {
+    "id": 6968,
+    "name": "Karabük",
+    "state_code": "78"
+  },
+  {
+    "id": 6969,
+    "name": "Karaman",
+    "state_code": "70"
+  },
+  {
+    "id": 6970,
+    "name": "Kars",
+    "state_code": "36"
+  },
+  {
+    "id": 6971,
+    "name": "Kastamonu",
+    "state_code": "37"
+  },
+  {
+    "id": 6972,
+    "name": "Kayseri",
+    "state_code": "38"
+  },
+  {
+    "id": 6973,
+    "name": "Kilis",
+    "state_code": "79"
+  },
+  {
+    "id": 6974,
+    "name": "Kırıkkale",
+    "state_code": "71"
+  },
+  {
+    "id": 6975,
+    "name": "Kırklareli",
+    "state_code": "39"
+  },
+  {
+    "id": 6976,
+    "name": "Kırşehir",
+    "state_code": "40"
+  },
+  {
+    "id": 6977,
+    "name": "Kocaeli",
+    "state_code": "41"
+  },
+  {
+    "id": 6978,
+    "name": "Konya",
+    "state_code": "42"
+  },
+  {
+    "id": 6979,
+    "name": "Kütahya",
+    "state_code": "43"
+  },
+  {
+    "id": 6980,
+    "name": "Malatya",
+    "state_code": "44"
+  },
+  {
+    "id": 6981,
+    "name": "Manisa",
+    "state_code": "45"
+  },
+  {
+    "id": 6982,
+    "name": "Mardin",
+    "state_code": "47"
+  },
+  {
+    "id": 6983,
+    "name": "Mersin",
+    "state_code": "33"
+  },
+  {
+    "id": 6984,
+    "name": "Muğla",
+    "state_code": "48"
+  },
+  {
+    "id": 6985,
+    "name": "Muş",
+    "state_code": "49"
+  },
+  {
+    "id": 6986,
+    "name": "Nevşehir",
+    "state_code": "50"
+  },
+  {
+    "id": 6987,
+    "name": "Niğde",
+    "state_code": "51"
+  },
+  {
+    "id": 6988,
+    "name": "Ordu",
+    "state_code": "52"
+  },
+  {
+    "id": 6989,
+    "name": "Osmaniye",
+    "state_code": "80"
+  },
+  {
+    "id": 6990,
+    "name": "Rize",
+    "state_code": "53"
+  },
+  {
+    "id": 6991,
+    "name": "Sakarya",
+    "state_code": "54"
+  },
+  {
+    "id": 6992,
+    "name": "Samsun",
+    "state_code": "55"
+  },
+  {
+    "id": 6993,
+    "name": "Şanlıurfa",
+    "state_code": "63"
+  },
+  {
+    "id": 6994,
+    "name": "Siirt",
+    "state_code": "56"
+  },
+  {
+    "id": 6995,
+    "name": "Sinop",
+    "state_code": "57"
+  },
+  {
+    "id": 6996,
+    "name": "Sivas",
+    "state_code": "58"
+  },
+  {
+    "id": 6997,
+    "name": "Şırnak",
+    "state_code": "73"
+  },
+  {
+    "id": 6998,
+    "name": "Tekirdağ",
+    "state_code": "59"
+  },
+  {
+    "id": 6999,
+    "name": "Tokat",
+    "state_code": "60"
+  },
+  {
+    "id": 7000,
+    "name": "Trabzon",
+    "state_code": "61"
+  },
+  {
+    "id": 7001,
+    "name": "Tunceli",
+    "state_code": "62"
+  },
+  {
+    "id": 7002,
+    "name": "Uşak",
+    "state_code": "64"
+  },
+  {
+    "id": 7003,
+    "name": "Van",
+    "state_code": "65"
+  },
+  {
+    "id": 7004,
+    "name": "Yalova",
+    "state_code": "77"
+  },
+  {
+    "id": 7005,
+    "name": "Yozgat",
+    "state_code": "66"
+  },
+  {
+    "id": 7006,
+    "name": "Zonguldak",
+    "state_code": "67"
+  }
+]

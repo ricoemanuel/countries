@@ -1,0 +1,437 @@
+[
+  {
+    "id": 5241,
+    "name": "Agadir-Ida-Ou-Tanane",
+    "state_code": "AGD"
+  },
+  {
+    "id": 5242,
+    "name": "Al Haouz",
+    "state_code": "HAO"
+  },
+  {
+    "id": 5243,
+    "name": "Al Hoceïma",
+    "state_code": "HOC"
+  },
+  {
+    "id": 5244,
+    "name": "Aousserd (EH)",
+    "state_code": "AOU"
+  },
+  {
+    "id": 5245,
+    "name": "Assa-Zag (EH-partial)",
+    "state_code": "ASZ"
+  },
+  {
+    "id": 5246,
+    "name": "Azilal",
+    "state_code": "AZI"
+  },
+  {
+    "id": 5247,
+    "name": "Béni Mellal",
+    "state_code": "BEM"
+  },
+  {
+    "id": 5248,
+    "name": "Béni Mellal-Khénifra",
+    "state_code": "05"
+  },
+  {
+    "id": 5249,
+    "name": "Benslimane",
+    "state_code": "BES"
+  },
+  {
+    "id": 5250,
+    "name": "Berkane",
+    "state_code": "BER"
+  },
+  {
+    "id": 5251,
+    "name": "Berrechid",
+    "state_code": "BRR"
+  },
+  {
+    "id": 5252,
+    "name": "Boujdour (EH)",
+    "state_code": "BOD"
+  },
+  {
+    "id": 5253,
+    "name": "Boulemane",
+    "state_code": "BOM"
+  },
+  {
+    "id": 5254,
+    "name": "Casablanca",
+    "state_code": "CAS"
+  },
+  {
+    "id": 5255,
+    "name": "Casablanca-Settat",
+    "state_code": "06"
+  },
+  {
+    "id": 5256,
+    "name": "Chefchaouen",
+    "state_code": "CHE"
+  },
+  {
+    "id": 5257,
+    "name": "Chichaoua",
+    "state_code": "CHI"
+  },
+  {
+    "id": 5258,
+    "name": "Chtouka-Ait Baha",
+    "state_code": "CHT"
+  },
+  {
+    "id": 5259,
+    "name": "Dakhla-Oued Ed-Dahab (EH)",
+    "state_code": "12"
+  },
+  {
+    "id": 5260,
+    "name": "Drâa-Tafilalet",
+    "state_code": "08"
+  },
+  {
+    "id": 5261,
+    "name": "Driouch",
+    "state_code": "DRI"
+  },
+  {
+    "id": 5262,
+    "name": "El Hajeb",
+    "state_code": "HAJ"
+  },
+  {
+    "id": 5263,
+    "name": "El Jadida",
+    "state_code": "JDI"
+  },
+  {
+    "id": 5264,
+    "name": "El Kelâa des Sraghna",
+    "state_code": "KES"
+  },
+  {
+    "id": 5265,
+    "name": "Errachidia",
+    "state_code": "ERR"
+  },
+  {
+    "id": 5266,
+    "name": "Es-Semara (EH-partial)",
+    "state_code": "ESM"
+  },
+  {
+    "id": 5267,
+    "name": "Essaouira",
+    "state_code": "ESI"
+  },
+  {
+    "id": 5268,
+    "name": "Fahs-Anjra",
+    "state_code": "FAH"
+  },
+  {
+    "id": 5269,
+    "name": "Fès",
+    "state_code": "FES"
+  },
+  {
+    "id": 5270,
+    "name": "Fès-Meknès",
+    "state_code": "03"
+  },
+  {
+    "id": 5271,
+    "name": "Figuig",
+    "state_code": "FIG"
+  },
+  {
+    "id": 5272,
+    "name": "Fquih Ben Salah",
+    "state_code": "FQH"
+  },
+  {
+    "id": 5273,
+    "name": "Guelmim",
+    "state_code": "GUE"
+  },
+  {
+    "id": 5274,
+    "name": "Guelmim-Oued Noun (EH-partial)",
+    "state_code": "10"
+  },
+  {
+    "id": 5275,
+    "name": "Guercif",
+    "state_code": "GUF"
+  },
+  {
+    "id": 5276,
+    "name": "Ifrane",
+    "state_code": "IFR"
+  },
+  {
+    "id": 5277,
+    "name": "Inezgane-Ait Melloul",
+    "state_code": "INE"
+  },
+  {
+    "id": 5278,
+    "name": "Jerada",
+    "state_code": "JRA"
+  },
+  {
+    "id": 5279,
+    "name": "Kénitra",
+    "state_code": "KEN"
+  },
+  {
+    "id": 5280,
+    "name": "Khémisset",
+    "state_code": "KHE"
+  },
+  {
+    "id": 5281,
+    "name": "Khénifra",
+    "state_code": "KHN"
+  },
+  {
+    "id": 5282,
+    "name": "Khouribga",
+    "state_code": "KHO"
+  },
+  {
+    "id": 5283,
+    "name": "L'Oriental",
+    "state_code": "02"
+  },
+  {
+    "id": 5284,
+    "name": "Laâyoune (EH)",
+    "state_code": "LAA"
+  },
+  {
+    "id": 5285,
+    "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "state_code": "11"
+  },
+  {
+    "id": 5286,
+    "name": "Larache",
+    "state_code": "LAR"
+  },
+  {
+    "id": 5287,
+    "name": "M’diq-Fnideq",
+    "state_code": "MDF"
+  },
+  {
+    "id": 5288,
+    "name": "Marrakech",
+    "state_code": "MAR"
+  },
+  {
+    "id": 5289,
+    "name": "Marrakesh-Safi",
+    "state_code": "07"
+  },
+  {
+    "id": 5290,
+    "name": "Médiouna",
+    "state_code": "MED"
+  },
+  {
+    "id": 5291,
+    "name": "Meknès",
+    "state_code": "MEK"
+  },
+  {
+    "id": 5292,
+    "name": "Midelt",
+    "state_code": "MID"
+  },
+  {
+    "id": 5293,
+    "name": "Mohammadia",
+    "state_code": "MOH"
+  },
+  {
+    "id": 5294,
+    "name": "Moulay Yacoub",
+    "state_code": "MOU"
+  },
+  {
+    "id": 5295,
+    "name": "Nador",
+    "state_code": "NAD"
+  },
+  {
+    "id": 5296,
+    "name": "Nouaceur",
+    "state_code": "NOU"
+  },
+  {
+    "id": 5297,
+    "name": "Ouarzazate",
+    "state_code": "OUA"
+  },
+  {
+    "id": 5298,
+    "name": "Oued Ed-Dahab (EH)",
+    "state_code": "OUD"
+  },
+  {
+    "id": 5299,
+    "name": "Ouezzane",
+    "state_code": "OUZ"
+  },
+  {
+    "id": 5300,
+    "name": "Oujda-Angad",
+    "state_code": "OUJ"
+  },
+  {
+    "id": 5301,
+    "name": "Rabat",
+    "state_code": "RAB"
+  },
+  {
+    "id": 5302,
+    "name": "Rabat-Salé-Kénitra",
+    "state_code": "04"
+  },
+  {
+    "id": 5303,
+    "name": "Rehamna",
+    "state_code": "REH"
+  },
+  {
+    "id": 5304,
+    "name": "Safi",
+    "state_code": "SAF"
+  },
+  {
+    "id": 5305,
+    "name": "Salé",
+    "state_code": "SAL"
+  },
+  {
+    "id": 5306,
+    "name": "Sefrou",
+    "state_code": "SEF"
+  },
+  {
+    "id": 5307,
+    "name": "Settat",
+    "state_code": "SET"
+  },
+  {
+    "id": 5308,
+    "name": "Sidi Bennour",
+    "state_code": "SIB"
+  },
+  {
+    "id": 5309,
+    "name": "Sidi Ifni",
+    "state_code": "SIF"
+  },
+  {
+    "id": 5310,
+    "name": "Sidi Kacem",
+    "state_code": "SIK"
+  },
+  {
+    "id": 5311,
+    "name": "Sidi Slimane",
+    "state_code": "SIL"
+  },
+  {
+    "id": 5312,
+    "name": "Skhirate-Témara",
+    "state_code": "SKH"
+  },
+  {
+    "id": 5313,
+    "name": "Souss-Massa",
+    "state_code": "09"
+  },
+  {
+    "id": 5314,
+    "name": "Tan-Tan (EH-partial)",
+    "state_code": "TNT"
+  },
+  {
+    "id": 5315,
+    "name": "Tanger-Assilah",
+    "state_code": "TNG"
+  },
+  {
+    "id": 5316,
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "state_code": "01"
+  },
+  {
+    "id": 5317,
+    "name": "Taounate",
+    "state_code": "TAO"
+  },
+  {
+    "id": 5318,
+    "name": "Taourirt",
+    "state_code": "TAI"
+  },
+  {
+    "id": 5319,
+    "name": "Tarfaya (EH-partial)",
+    "state_code": "TAF"
+  },
+  {
+    "id": 5320,
+    "name": "Taroudannt",
+    "state_code": "TAR"
+  },
+  {
+    "id": 5321,
+    "name": "Tata",
+    "state_code": "TAT"
+  },
+  {
+    "id": 5322,
+    "name": "Taza",
+    "state_code": "TAZ"
+  },
+  {
+    "id": 5323,
+    "name": "Tétouan",
+    "state_code": "TET"
+  },
+  {
+    "id": 5324,
+    "name": "Tinghir",
+    "state_code": "TIN"
+  },
+  {
+    "id": 5325,
+    "name": "Tiznit",
+    "state_code": "TIZ"
+  },
+  {
+    "id": 5326,
+    "name": "Youssoufia",
+    "state_code": "YUS"
+  },
+  {
+    "id": 5327,
+    "name": "Zagora",
+    "state_code": "ZAG"
+  }
+]
